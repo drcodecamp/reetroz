@@ -1,0 +1,2822 @@
+[
+ {
+  "id": "3do-club-news",
+  "title": "3DO Club News",
+  "short": "3DO Club News",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "3do"
+  ],
+  "status": "ceased",
+  "firstYear": 1993,
+  "lastYear": 1995,
+  "publisher": "The 3DO Company",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/cc6ac688-13e0-4bff-824c-80a446951743",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "ace",
+  "title": "ACE",
+  "short": "ACE",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1987,
+  "lastYear": 1992,
+  "publisher": "Future Publishing, EMAP",
+  "description": "Advanced Computer Entertainment.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/ace-magazine",
+    "items": 137
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "activisions",
+  "title": "Activisions",
+  "short": "Activisions",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "atari-2600"
+  ],
+  "status": "ceased",
+  "firstYear": 1981,
+  "lastYear": 1984,
+  "publisher": "Activision",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/fdb5a523-54e5-40a3-aab4-efc9dc0faee7",
+    "items": null
+   },
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/activisions",
+    "items": 9
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "amiga-power",
+  "title": "Amiga Power",
+  "short": "AP",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "amiga"
+  ],
+  "status": "ceased",
+  "firstYear": 1991,
+  "lastYear": 1996,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "amstrad-action",
+  "title": "Amstrad Action",
+  "short": "AA",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "amstrad-cpc"
+  ],
+  "status": "ceased",
+  "firstYear": 1985,
+  "lastYear": 1995,
+  "publisher": "Future Publishing",
+  "description": "Future Publishing's first magazine.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "arcade-express",
+  "title": "Arcade Express / Electronic Games Hotline",
+  "short": "Arcade Express / Electronic Games Hotline",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1984,
+  "publisher": "Reese Communications",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/14c6f023-c9dd-4ac8-ac7b-f243dc1dbe8f",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "atari-age",
+  "title": "Atari Age",
+  "short": "Atari Age",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "atari-2600",
+   "atari-8bit"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1984,
+  "publisher": "Atari Club",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/5c58e229-93bc-412b-953e-36edd364689a",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "atgamer",
+  "title": "@Gamer",
+  "short": "@Gamer",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2010,
+  "lastYear": 2014,
+  "publisher": "Future US",
+  "description": "Sold through Best Buy.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/480eeb97-bb01-457d-a439-4ed1866b0e4f",
+    "items": null
+   },
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/atgamer-magazine",
+    "items": 32
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "blip",
+  "title": "Blip",
+  "short": "Blip",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1983,
+  "lastYear": 1983,
+  "publisher": "Marvel Comics",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/db7773e7-2f43-4581-8d57-0ec83281ed8b",
+    "items": null
+   },
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/blip-magazine",
+    "items": 9
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "casual-connect",
+  "title": "Casual Connect",
+  "short": "Casual Connect",
+  "country": "US",
+  "type": "trade",
+  "platforms": [
+   "pc",
+   "mobile"
+  ],
+  "status": "ceased",
+  "firstYear": 2006,
+  "lastYear": 2015,
+  "publisher": "Casual Games Association",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/e40d65ad-66bd-46f3-983d-4738683bf586",
+    "items": null
+   },
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/casualconnectmagazine",
+    "items": 34
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "cd-rom-today",
+  "title": "CD-ROM Today",
+  "short": "CD-ROM Today",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc",
+   "mac"
+  ],
+  "status": "ceased",
+  "firstYear": 1993,
+  "lastYear": 1996,
+  "publisher": "GP Publications, Imagine Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/f8071c2d-9960-4a23-951a-987b2824f453",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "cgw",
+  "title": "Computer Gaming World",
+  "short": "CGW",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc",
+   "apple-ii",
+   "c64",
+   "atari-8bit",
+   "amiga",
+   "mac"
+  ],
+  "status": "ceased",
+  "firstYear": 1981,
+  "lastYear": 2006,
+  "publisher": "Golden Empire Publications, Ziff Davis",
+  "description": "The longest-running American computer game magazine. Started as a bimonthly wargaming-focused newsletter in 1981, became the paper of record for PC gaming under Ziff Davis, and closed with issue 268 in November 2006 before relaunching as Games for Windows: The Official Magazine.",
+  "metadataStatus": "verified",
+  "rights": "authorized",
+  "provider": "CGW Museum",
+  "knownSources": [
+   {
+    "provider": "cgwmuseum",
+    "url": "https://www.cgwmuseum.org/galleries/index.php?year=1981&pub=2",
+    "items": 268
+   },
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/computergamingworld",
+    "items": 339
+   },
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/1de5cb2a-cc63-427a-a06e-adc4959d74c6",
+    "items": null
+   }
+  ],
+  "issues": 268,
+  "pages": 40938,
+  "readable": 268,
+  "coverIssue": "cgw-186"
+ },
+ {
+  "id": "code-vault",
+  "title": "Code Vault",
+  "short": "Code Vault",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2001,
+  "lastYear": 2007,
+  "publisher": "Future US",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/236efd86-a9c7-49bd-b9ca-a7ba394cd9d9",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "commodore-format",
+  "title": "Commodore Format",
+  "short": "CF",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "c64"
+  ],
+  "status": "ceased",
+  "firstYear": 1990,
+  "lastYear": 1995,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "computer-entertainer",
+  "title": "Computer Entertainer",
+  "short": "Computer Entertainer",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1990,
+  "publisher": null,
+  "description": "Formerly The Video Game Update.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/519c0dbd-0f5d-45fe-83c2-355a756391a9",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "computer-game-entertainment",
+  "title": "Computer Game Entertainment",
+  "short": "Computer Game Entertainment",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1997,
+  "lastYear": 1998,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/b07b30eb-9b20-4cc2-94b2-ab2250a5c95b",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "computer-game-forum",
+  "title": "Computer Game Forum",
+  "short": "CGF",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc",
+   "apple-ii",
+   "c64"
+  ],
+  "status": "ceased",
+  "firstYear": 1987,
+  "lastYear": 1987,
+  "publisher": "Golden Empire Publications",
+  "description": "Short-lived CGW sister title. Hosted by the CGW Museum.",
+  "metadataStatus": "stub",
+  "rights": "authorized",
+  "provider": "CGW Museum",
+  "knownSources": [
+   {
+    "provider": "cgwmuseum",
+    "url": "https://www.cgwmuseum.org/galleries/index.php",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "computer-game-review",
+  "title": "Computer Game Review",
+  "short": "CGR",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1990,
+  "lastYear": 1996,
+  "publisher": "Sendai Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/a7a3c4f5-3213-41ff-ab94-1260d3b6b0f1",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "computer-games-strategy-plus",
+  "title": "Computer Games Strategy Plus",
+  "short": "CGSP",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1990,
+  "lastYear": 2007,
+  "publisher": "Strategy Plus Inc., theGlobe.com",
+  "description": "Later titled Computer Games Magazine.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/9d04d369-f4ba-413c-b0e3-d50271f157a4",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "computer-player",
+  "title": "Computer Player",
+  "short": "Computer Player",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1994,
+  "lastYear": 1998,
+  "publisher": "LFP Inc.",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/6bac8a74-a579-497e-9c25-18b1cc65e588",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "crash",
+  "title": "Crash",
+  "short": "Crash",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "zx-spectrum"
+  ],
+  "status": "ceased",
+  "firstYear": 1984,
+  "lastYear": 1992,
+  "publisher": "Newsfield, Europress Impact",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/crash-magazine",
+    "items": 320
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "cvg",
+  "title": "Computer and Video Games",
+  "short": "CVG",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1981,
+  "lastYear": 2004,
+  "publisher": "EMAP, Dennis Publishing",
+  "description": "Britain's first games magazine.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/cvg-magazine",
+    "items": 540
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "develop",
+  "title": "Develop",
+  "short": "Develop",
+  "country": "GB",
+  "type": "developer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1996,
+  "lastYear": 2017,
+  "publisher": "Intent Media, NewBay Media",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/aa6d2346-0750-4f14-9944-92b00365261a",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "diehard-gamefan",
+  "title": "DieHard GameFan",
+  "short": "GameFan",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1992,
+  "lastYear": 2000,
+  "publisher": "DieHard Gamers Club, Shinno Media",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "digital-diner",
+  "title": "Digital Diner",
+  "short": "Digital Diner",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1996,
+  "lastYear": 1997,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/94ef167c-978b-464a-93ac-2e0047f8172f",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "dreamcast-magazine-uk",
+  "title": "Dreamcast Magazine (UK)",
+  "short": "Dreamcast Magazine (UK)",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1999,
+  "lastYear": 2001,
+  "publisher": "Paragon Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "e3-show-daily",
+  "title": "E3 Show Daily",
+  "short": "E3 Show Daily",
+  "country": "US",
+  "type": "trade",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 2016,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/ae5ac294-dcfd-45b8-86de-465d80e8dd8d",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "edge",
+  "title": "Edge",
+  "short": "Edge",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "active",
+  "firstYear": 1993,
+  "lastYear": null,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/00aa5458-1bf0-42ce-adf2-88f4d08c3dec",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "egm2",
+  "title": "EGM2 / Expert Gamer / GameNOW",
+  "short": "EGM2",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1994,
+  "lastYear": 2004,
+  "publisher": "Sendai Publishing, Ziff Davis",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/0721dbc2-96ec-4ce9-a7a9-abe99dcbc6de",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "electronic-games",
+  "title": "Electronic Games",
+  "short": "EG",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1981,
+  "lastYear": 1995,
+  "publisher": "Reese Communications, Decker Publications",
+  "description": "The first video game magazine (1981-85); revived 1992-95.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "electronic-gaming-monthly",
+  "title": "Electronic Gaming Monthly",
+  "short": "EGM",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1989,
+  "lastYear": 2009,
+  "publisher": "Sendai Publishing, Ziff Davis",
+  "description": "Revived briefly 2009-2014.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/electronic-gaming-monthly",
+    "items": 419
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "game-informer",
+  "title": "Game Informer",
+  "short": "GI",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "active",
+  "firstYear": 1991,
+  "lastYear": null,
+  "publisher": "Funco, GameStop",
+  "description": "Closed Aug 2024, relaunched 2025.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/gameinformer",
+    "items": 399
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "game-players",
+  "title": "Game Players",
+  "short": "Game Players",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1989,
+  "lastYear": 1998,
+  "publisher": "Signal Research, GP Publications",
+  "description": "Later Ultra Game Players.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "gamepro",
+  "title": "GamePro",
+  "short": "GamePro",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1989,
+  "lastYear": 2011,
+  "publisher": "IDG",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/gamepromagazine",
+    "items": 474
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "games-for-windows",
+  "title": "Games for Windows: The Official Magazine",
+  "short": "GFW",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 2006,
+  "lastYear": 2008,
+  "publisher": "Ziff Davis",
+  "description": "Direct successor to Computer Gaming World; hosted by the CGW Museum.",
+  "metadataStatus": "stub",
+  "rights": "authorized",
+  "provider": "CGW Museum",
+  "knownSources": [
+   {
+    "provider": "cgwmuseum",
+    "url": "https://www.cgwmuseum.org/galleries/index.php",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "gamesmaster",
+  "title": "GamesMaster",
+  "short": "GM",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1993,
+  "lastYear": 2018,
+  "publisher": "Future Publishing",
+  "description": "Tie-in to the Channel 4 TV show. Internet Archive scans live in the misc bucket (gamesmaster-001, Games_Master_Issue_0xx...).",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "hyper",
+  "title": "Hyper",
+  "short": "Hyper",
+  "country": "AU",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1993,
+  "lastYear": 2018,
+  "publisher": "Next Media, Future Australia",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/30d88818-a185-4138-8b43-127f55b01c69",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "ign-magazines",
+  "title": "IGN magazines",
+  "short": "IGN magazines",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1998,
+  "lastYear": 2001,
+  "publisher": "IGN Entertainment",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/00855151-bc1a-4b0a-9189-d64f74179869",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "imagine-town",
+  "title": "Imagine Town Magazine / Game Candy",
+  "short": "Imagine Town Magazine / Game Candy",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "other"
+  ],
+  "status": "ceased",
+  "firstYear": 2008,
+  "lastYear": 2009,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/6187132e-315c-4be5-8498-8c55ac478ebe",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "incite",
+  "title": "Incite Video Gaming / Incite PC Gaming",
+  "short": "Incite Video Gaming / Incite PC Gaming",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi",
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1999,
+  "lastYear": 2000,
+  "publisher": "Ziff Davis",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/56f6db10-774b-4a5c-83ec-832180d3b0b9",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "interaction",
+  "title": "InterAction / Sierra News Magazine",
+  "short": "InterAction / Sierra News Magazine",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1987,
+  "lastYear": 1999,
+  "publisher": "Sierra On-Line",
+  "description": "Sierra's customer magazine.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/b166d2f2-91e4-439f-9881-9dbd9faca78a",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "internet-underground",
+  "title": "Internet Underground",
+  "short": "Internet Underground",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 1997,
+  "publisher": "Ziff Davis",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/e36eed31-c069-4599-b3e3-abcd65034c64",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "journal-of-computer-game-design",
+  "title": "The Journal of Computer Game Design",
+  "short": "JCGD",
+  "country": "US",
+  "type": "developer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1987,
+  "lastYear": 1996,
+  "publisher": "Chris Crawford",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/2529ea9d-c993-4f19-bee4-676f85add53d",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "mcv",
+  "title": "MCV",
+  "short": "MCV",
+  "country": "GB",
+  "type": "trade",
+  "platforms": [
+   "multi"
+  ],
+  "status": "active",
+  "firstYear": 1998,
+  "lastYear": null,
+  "publisher": "Intent Media, NewBay Media",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/eb2067ae-1d19-4d6c-b07a-fc0b0ce68d5f",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "mean-machines",
+  "title": "Mean Machines",
+  "short": "Mean Machines",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1990,
+  "lastYear": 1992,
+  "publisher": "EMAP",
+  "description": "Split into Mean Machines Sega and Nintendo Magazine System.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "mean-machines-sega",
+  "title": "Mean Machines Sega",
+  "short": "MMS",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1992,
+  "lastYear": 1997,
+  "publisher": "EMAP",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/f33a27b0-c20f-4214-92d5-d85629733ed9",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "mega",
+  "title": "Mega",
+  "short": "Mega",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1992,
+  "lastYear": 1995,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/5f03e16e-de9d-4559-b108-aa8ea04e5f5d",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "megatech",
+  "title": "MegaTech",
+  "short": "MegaTech",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1991,
+  "lastYear": 1995,
+  "publisher": "EMAP",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/6d3a32ca-e350-43b5-a286-af48e32bc185",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "multimedia-merchandising",
+  "title": "MultiMedia Merchandising",
+  "short": "MultiMedia Merchandising",
+  "country": "US",
+  "type": "trade",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1994,
+  "lastYear": 1996,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/ceb8e2a8-93a4-45f7-aca9-fbb9d3e93438",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "multimedia-world",
+  "title": "Multimedia World",
+  "short": "Multimedia World",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1993,
+  "lastYear": 1996,
+  "publisher": "PC World Communications",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "neopets-magazine",
+  "title": "Neopets The Official Magazine",
+  "short": "Neopets The Official Magazine",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "other"
+  ],
+  "status": "ceased",
+  "firstYear": 2003,
+  "lastYear": 2008,
+  "publisher": "Beckett Media",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/d1e64116-583a-4d88-9ddd-7fcec7d24a39",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "newmedia",
+  "title": "NewMedia",
+  "short": "NewMedia",
+  "country": "US",
+  "type": "trade",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1991,
+  "lastYear": 1999,
+  "publisher": "HyperMedia Communications",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/b69d7088-b269-4070-9b46-1cbcff40312f",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "next-generation",
+  "title": "Next Generation / NextGen",
+  "short": "NextGen",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 2002,
+  "publisher": "Imagine Media",
+  "description": "US edition of Edge.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/cbefef2b-c575-4ce5-afe8-586b567e4eb8",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "ngamer-us",
+  "title": "NGamer (US)",
+  "short": "NGamer (US)",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "nintendo"
+  ],
+  "status": "ceased",
+  "firstYear": 1999,
+  "lastYear": 2000,
+  "publisher": null,
+  "description": "Single issue.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/2b773cc8-53a1-4c3b-aa8b-cacb1cb20fe1",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "nintendo-magazine-system",
+  "title": "Nintendo Magazine System / Official Nintendo Magazine",
+  "short": "NMS",
+  "country": "GB",
+  "type": "official",
+  "platforms": [
+   "nintendo"
+  ],
+  "status": "ceased",
+  "firstYear": 1992,
+  "lastYear": 2014,
+  "publisher": "EMAP, Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "nintendo-newsletters",
+  "title": "Nintendo newsletters",
+  "short": "Nintendo newsletters",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "nintendo"
+  ],
+  "status": "ceased",
+  "firstYear": 1988,
+  "lastYear": 1993,
+  "publisher": "Nintendo of America",
+  "description": "Nintendo Fun Club News etc.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/1944a7fc-6821-4685-9497-61b51c7e24e5",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "nintendo-power",
+  "title": "Nintendo Power",
+  "short": "NP",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "nintendo"
+  ],
+  "status": "ceased",
+  "firstYear": 1988,
+  "lastYear": 2012,
+  "publisher": "Nintendo of America, Future US",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/32aa15bf-a3be-40fe-b75a-85f313c84368",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "odyssey-adventure",
+  "title": "Odyssey Adventure",
+  "short": "Odyssey Adventure",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "other"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1983,
+  "publisher": "Magnavox",
+  "description": "Odyssey2 owners' magazine.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/218ce001-1f8c-4370-bd1b-09de24c45b3e",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "official-dreamcast-magazine-us",
+  "title": "Official Sega Dreamcast Magazine (US)",
+  "short": "ODCM",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1999,
+  "lastYear": 2001,
+  "publisher": "Imagine Media",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/5e733680-d965-4a5e-9852-14ae20b62691",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "official-sega-saturn-magazine",
+  "title": "Official Sega Saturn Magazine",
+  "short": "OSSM",
+  "country": "GB",
+  "type": "official",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 1998,
+  "publisher": "EMAP",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "official-uk-playstation-magazine",
+  "title": "Official UK PlayStation Magazine",
+  "short": "OPM UK",
+  "country": "GB",
+  "type": "official",
+  "platforms": [
+   "playstation"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 2004,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "official-us-playstation-magazine",
+  "title": "Official U.S. PlayStation Magazine",
+  "short": "OPM",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "playstation"
+  ],
+  "status": "ceased",
+  "firstYear": 1997,
+  "lastYear": 2007,
+  "publisher": "Ziff Davis",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/b434cdd1-e02e-4bd4-833e-6cc0884403ef",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "official-xbox-magazine",
+  "title": "Official Xbox Magazine",
+  "short": "OXM",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "xbox"
+  ],
+  "status": "ceased",
+  "firstYear": 2001,
+  "lastYear": 2020,
+  "publisher": "Future US",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/4409f093-cafb-4bc5-b9b0-cacc3a651e87",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "pc-gamer-uk",
+  "title": "PC Gamer (UK)",
+  "short": "PCG UK",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "active",
+  "firstYear": 1993,
+  "lastYear": null,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "pc-gamer-us",
+  "title": "PC Gamer (US)",
+  "short": "PCG",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "active",
+  "firstYear": 1994,
+  "lastYear": null,
+  "publisher": "Imagine Media, Future US",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/d41128f9-fb0f-4bcb-955d-4d44e9608d1a",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "pc-games",
+  "title": "PC Games / Electronic Entertainment",
+  "short": "PC Games / Electronic Entertainment",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1988,
+  "lastYear": 1999,
+  "publisher": "Infotainment World, IDG",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/abbd549a-2caf-4632-bccb-0cb8c2fe27b2",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "pc-powerplay",
+  "title": "PC PowerPlay",
+  "short": "PCPP",
+  "country": "AU",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "active",
+  "firstYear": 1996,
+  "lastYear": null,
+  "publisher": "Next Media, Future Australia",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "pc-zone",
+  "title": "PC Zone",
+  "short": "PC Zone",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1993,
+  "lastYear": 2010,
+  "publisher": "Dennis Publishing, Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/pczonemagazine",
+    "items": 310
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "play-us",
+  "title": "Play (US)",
+  "short": "Play (US)",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2001,
+  "lastYear": 2010,
+  "publisher": "Fusion Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/3d83b151-a682-43dc-98af-979b94dc31f4",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "playstation-the-official-magazine",
+  "title": "PlayStation: The Official Magazine",
+  "short": "PTOM",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "playstation"
+  ],
+  "status": "ceased",
+  "firstYear": 2007,
+  "lastYear": 2012,
+  "publisher": "Future US",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/9f1aa694-751b-4a95-acde-d61baf94d3d9",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "pocket-games",
+  "title": "Pocket Games",
+  "short": "Pocket Games",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "handheld"
+  ],
+  "status": "ceased",
+  "firstYear": 1999,
+  "lastYear": 2006,
+  "publisher": "Ziff Davis",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/c4cbf766-d17b-4dfd-8641-1d09dfca86cc",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "ps-max",
+  "title": "PS Max",
+  "short": "PS Max",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "playstation"
+  ],
+  "status": "ceased",
+  "firstYear": 1999,
+  "lastYear": 1999,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/b9602704-d805-41ed-a725-0f71dedbed27",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "psextreme",
+  "title": "PSExtreme / Dimension PS-X / PSE2",
+  "short": "PSExtreme / Dimension PS-X / PSE2",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "playstation"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 2006,
+  "publisher": "Dimension Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/ff6f4f72-f79c-427b-a012-2ea671f4211d",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "psm",
+  "title": "PSM",
+  "short": "PSM",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "playstation"
+  ],
+  "status": "ceased",
+  "firstYear": 1997,
+  "lastYear": 2007,
+  "publisher": "Imagine Media, Future US",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/d0a22067-e86d-45a3-a3e4-a10a4c8a5ffb",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "psx",
+  "title": "P.S.X.",
+  "short": "P.S.X.",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "playstation"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 1997,
+  "publisher": "Dimension Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/0990d6f3-cdfc-48a3-8454-c9f1bb722f3f",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "q64",
+  "title": "Q64",
+  "short": "Q64",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "nintendo"
+  ],
+  "status": "ceased",
+  "firstYear": 1997,
+  "lastYear": 2000,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/79dae345-e20c-4f3a-acf4-967b35eee32e",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "retro-gamer",
+  "title": "Retro Gamer",
+  "short": "Retro Gamer",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "active",
+  "firstYear": 2004,
+  "lastYear": null,
+  "publisher": "Live Publishing, Imagine Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "sega-pro",
+  "title": "Sega Pro",
+  "short": "Sega Pro",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1991,
+  "lastYear": 1996,
+  "publisher": "Paragon Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "sega-visions",
+  "title": "Sega Visions",
+  "short": "Sega Visions",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "sega"
+  ],
+  "status": "ceased",
+  "firstYear": 1990,
+  "lastYear": 1995,
+  "publisher": "Sega of America",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/8448d8d8-778d-4917-a6cd-99ddd4dc301a",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "sinclair-user",
+  "title": "Sinclair User",
+  "short": "SU",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "zx-spectrum"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1993,
+  "publisher": "ECC Publications, EMAP",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "soe-worlds",
+  "title": "SOE Worlds: The Official Magazine",
+  "short": "SOE Worlds: The Official Magazine",
+  "country": "US",
+  "type": "official",
+  "platforms": [
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 2004,
+  "lastYear": 2005,
+  "publisher": "Sony Online Entertainment",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/821e3f96-3fb0-433d-9f86-35124f8718d1",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "softline",
+  "title": "Softline",
+  "short": "Softline",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "apple-ii",
+   "atari-8bit"
+  ],
+  "status": "ceased",
+  "firstYear": 1981,
+  "lastYear": 1984,
+  "publisher": "Softalk Publishing",
+  "description": "Softalk's games spin-off. Hosted by the CGW Museum.",
+  "metadataStatus": "stub",
+  "rights": "authorized",
+  "provider": "CGW Museum",
+  "knownSources": [
+   {
+    "provider": "cgwmuseum",
+    "url": "https://www.cgwmuseum.org/galleries/index.php",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "super-play",
+  "title": "Super Play",
+  "short": "Super Play",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "nintendo"
+  ],
+  "status": "ceased",
+  "firstYear": 1992,
+  "lastYear": 1996,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/4241edfe-f81f-44c1-9c24-97892a9121ae",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "surge",
+  "title": "Surge",
+  "short": "Surge",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2004,
+  "lastYear": 2004,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/19df3e0e-432f-410c-89f1-7f19de57e13b",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "the-cursor",
+  "title": "The Cursor: Game Developer Life",
+  "short": "The Cursor: Game Developer Life",
+  "country": "US",
+  "type": "developer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1997,
+  "lastYear": 1998,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/6259ccf5-4944-4e3c-96f6-65b5ffea25d2",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "the-games-machine",
+  "title": "The Games Machine",
+  "short": "TGM",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1987,
+  "lastYear": 1990,
+  "publisher": "Newsfield",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "the-logical-gamer",
+  "title": "The Logical Gamer",
+  "short": "The Logical Gamer",
+  "country": "US",
+  "type": "newsletter",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1983,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/982b8274-6f9b-4130-9651-5b5750b5b360",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "the-one",
+  "title": "The One",
+  "short": "The One",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "amiga",
+   "atari-st",
+   "pc"
+  ],
+  "status": "ceased",
+  "firstYear": 1988,
+  "lastYear": 1996,
+  "publisher": "EMAP",
+  "description": "Later The One Amiga.",
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "tips-and-tricks",
+  "title": "Tips & Tricks",
+  "short": "Tips & Tricks",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1994,
+  "lastYear": 2011,
+  "publisher": "LFP Inc.",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/eea584fc-380a-44ca-a485-d4dcc87114db",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "total",
+  "title": "Total!",
+  "short": "Total!",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "nintendo"
+  ],
+  "status": "ceased",
+  "firstYear": 1992,
+  "lastYear": 1996,
+  "publisher": "Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/3595f2aa-be7c-4cb0-a51e-c24523780a93",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "video-games-magazine",
+  "title": "Video Games",
+  "short": "Video Games",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1984,
+  "publisher": "Pumpkin Press",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/3fa65659-9fac-4ba4-ae28-09bc68160e52",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "videogame-advisor",
+  "title": "Videogame Advisor",
+  "short": "Videogame Advisor",
+  "country": "US",
+  "type": "trade",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 1997,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/be63cc87-93b6-4121-b7d8-706c78b7160a",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "videogames-computer-entertainment",
+  "title": "VideoGames & Computer Entertainment / VideoGames: The Ultimate Gaming Magazine",
+  "short": "VG&CE",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1988,
+  "lastYear": 1996,
+  "publisher": "LFP Inc.",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/677805d5-f5ca-440c-bb28-475df519602f",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "videogaming-illustrated",
+  "title": "Videogaming & Computergaming Illustrated",
+  "short": "Videogaming & Computergaming Illustrated",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1984,
+  "publisher": "Ion International",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/527c4a20-6a7e-469d-8fa0-4c2455e0e4ed",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "vidiot",
+  "title": "Vidiot",
+  "short": "Vidiot",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1983,
+  "publisher": "Creem Magazine",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/bd578486-2087-4b74-b50a-4a994e16b8e3",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "walmart-gamecenter",
+  "title": "Walmart GameCenter",
+  "short": "Walmart GameCenter",
+  "country": "US",
+  "type": "other",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2012,
+  "lastYear": 2024,
+  "publisher": "Walmart",
+  "description": "Retail giveaway magazine.",
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/8dbeecd0-31ca-4fbe-bcb7-3a59932900bd",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "xbox-nation",
+  "title": "Xbox Nation",
+  "short": "XBN",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "xbox"
+  ],
+  "status": "ceased",
+  "firstYear": 2002,
+  "lastYear": 2005,
+  "publisher": "Ziff Davis",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/e49f6729-f880-4a42-af81-fa7972cb6701",
+    "items": null
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "your-sinclair",
+  "title": "Your Sinclair",
+  "short": "YS",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "zx-spectrum"
+  ],
+  "status": "ceased",
+  "firstYear": 1986,
+  "lastYear": 1993,
+  "publisher": "Dennis Publishing, Future Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "zero",
+  "title": "Zero",
+  "short": "Zero",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "multi",
+   "amiga",
+   "atari-st"
+  ],
+  "status": "ceased",
+  "firstYear": 1989,
+  "lastYear": 1992,
+  "publisher": "Dennis Publishing",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "zzap64",
+  "title": "Zzap!64",
+  "short": "Zzap!64",
+  "country": "GB",
+  "type": "consumer",
+  "platforms": [
+   "c64"
+  ],
+  "status": "ceased",
+  "firstYear": 1985,
+  "lastYear": 1992,
+  "publisher": "Newsfield, Europress Impact",
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "community-scan",
+  "provider": "Internet Archive",
+  "knownSources": [
+   {
+    "provider": "internet-archive",
+    "url": "https://archive.org/details/zzap64-magazine",
+    "items": 374
+   }
+  ],
+  "issues": 0,
+  "pages": 0,
+  "readable": 0,
+  "coverIssue": null
+ }
+]
