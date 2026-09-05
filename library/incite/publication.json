@@ -1,0 +1,49 @@
+{
+  "id": "incite",
+  "title": "Incite Video Gaming / Incite PC Gaming",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Ziff Davis"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1999-07"
+  },
+  "last_issue": {
+    "date": "2000-08"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi",
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/56f6db10-774b-4a5c-83ec-832180d3b0b9",
+      "date_range": "July 1999 – August 2000"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

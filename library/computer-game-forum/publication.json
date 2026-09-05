@@ -1,0 +1,51 @@
+{
+  "id": "computer-game-forum",
+  "title": "Computer Game Forum",
+  "short": "CGF",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Golden Empire Publications"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1987"
+  },
+  "last_issue": {
+    "date": "1987"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "pc",
+      "apple-ii",
+      "c64"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "cgwmuseum",
+  "rights": {
+    "status": "authorized",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "cgwmuseum",
+      "url": "https://www.cgwmuseum.org/galleries/index.php"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Short-lived CGW sister title. Hosted by the CGW Museum."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "psx",
+  "title": "P.S.X.",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Dimension Publishing"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1995"
+  },
+  "last_issue": {
+    "date": "1997-09"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "playstation"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/0990d6f3-cdfc-48a3-8454-c9f1bb722f3f",
+      "date_range": "Fall 1995 – September 1997"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pixelpress.local/schema/provider.schema.json",
+  "title": "Provider",
+  "description": "A place scans come from (museum, archive, library, community site). Stored as an array in library/providers.json.",
+  "type": "array",
+  "items": { "$ref": "#/$defs/provider" },
+  "$defs": {
+    "provider": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "url", "kind", "rights_default"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$", "description": "Stable slug, referenced by issue.source.provider" },
+        "name": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "kind": { "type": "string", "enum": ["museum", "archive", "library", "community", "publisher", "other"] },
+        "rights_default": {
+          "type": "string",
+          "enum": ["authorized", "community-scan", "link-only"],
+          "description": "authorized = publisher-blessed and re-hostable; community-scan = grey area, host with takedown policy; link-only = never re-host, only link out"
+        },
+        "adapter": { "type": "string", "description": "Name of the download/ingest script that speaks this provider's site or API" },
+        "api": { "type": "string", "format": "uri", "description": "Machine-readable endpoint if any (e.g. IA advancedsearch / metadata API)" },
+        "credit": { "type": "string", "description": "Attribution line to show on issue pages" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

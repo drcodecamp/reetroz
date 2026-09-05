@@ -1,0 +1,48 @@
+{
+  "id": "videogaming-illustrated",
+  "title": "Videogaming & Computergaming Illustrated",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Ion International"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1982-08"
+  },
+  "last_issue": {
+    "date": "1984-03"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/527c4a20-6a7e-469d-8fa0-4c2455e0e4ed",
+      "date_range": "August 1982 – March 1984"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

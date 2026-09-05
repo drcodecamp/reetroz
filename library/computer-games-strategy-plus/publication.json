@@ -1,0 +1,53 @@
+{
+  "id": "computer-games-strategy-plus",
+  "title": "Computer Games Strategy Plus",
+  "short": "CGSP",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Strategy Plus Inc."
+    },
+    {
+      "name": "theGlobe.com"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1990-10"
+  },
+  "last_issue": {
+    "date": "2007-04"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/9d04d369-f4ba-413c-b0e3-d50271f157a4",
+      "date_range": "October 1990 – April 2007"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Later titled Computer Games Magazine."
+}

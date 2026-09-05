@@ -1,0 +1,48 @@
+{
+  "id": "neopets-magazine",
+  "title": "Neopets The Official Magazine",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Beckett Media"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "2003-09"
+  },
+  "last_issue": {
+    "date": "2008-02"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "official",
+    "platforms": [
+      "other"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/d1e64116-583a-4d88-9ddd-7fcec7d24a39",
+      "date_range": "September 2003 – February 2008"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

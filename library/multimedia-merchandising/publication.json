@@ -1,0 +1,44 @@
+{
+  "id": "multimedia-merchandising",
+  "title": "MultiMedia Merchandising",
+  "metadata_status": "stub",
+  "publishers": [],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1994"
+  },
+  "last_issue": {
+    "date": "1996"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "trade",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/ceb8e2a8-93a4-45f7-aca9-fbb9d3e93438",
+      "date_range": "1994–1996?"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

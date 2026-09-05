@@ -1,0 +1,48 @@
+{
+  "id": "arcade-express",
+  "title": "Arcade Express / Electronic Games Hotline",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Reese Communications"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1982-08"
+  },
+  "last_issue": {
+    "date": "1984-08"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "newsletter",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/14c6f023-c9dd-4ac8-ac7b-f243dc1dbe8f",
+      "date_range": "August 1982 – August 1984"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

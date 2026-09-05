@@ -1,0 +1,57 @@
+{
+  "id": "cvg",
+  "title": "Computer and Video Games",
+  "short": "CVG",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "EMAP"
+    },
+    {
+      "name": "Dennis Publishing"
+    },
+    {
+      "name": "Future Publishing"
+    }
+  ],
+  "country": "GB",
+  "language": "en",
+  "first_issue": {
+    "date": "1981-11"
+  },
+  "last_issue": {
+    "date": "2004-10"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "internet-archive",
+  "rights": {
+    "status": "community-scan",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "internet-archive",
+      "url": "https://archive.org/details/cvg-magazine",
+      "items": 540,
+      "date_range": "1981–2004"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Britain's first games magazine."
+}

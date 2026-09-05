@@ -1,0 +1,57 @@
+{
+  "id": "electronic-gaming-monthly",
+  "title": "Electronic Gaming Monthly",
+  "short": "EGM",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Sendai Publishing"
+    },
+    {
+      "name": "Ziff Davis"
+    },
+    {
+      "name": "EGM Media"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1989"
+  },
+  "last_issue": {
+    "date": "2009-01"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "internet-archive",
+  "rights": {
+    "status": "community-scan",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "internet-archive",
+      "url": "https://archive.org/details/electronic-gaming-monthly",
+      "items": 419,
+      "date_range": "1992–2026"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Revived briefly 2009-2014."
+}

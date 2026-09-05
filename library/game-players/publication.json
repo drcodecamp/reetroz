@@ -1,0 +1,49 @@
+{
+  "id": "game-players",
+  "title": "Game Players",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Signal Research"
+    },
+    {
+      "name": "GP Publications"
+    },
+    {
+      "name": "Imagine Media"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1989"
+  },
+  "last_issue": {
+    "date": "1998"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "internet-archive",
+  "rights": {
+    "status": "community-scan",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Later Ultra Game Players."
+}

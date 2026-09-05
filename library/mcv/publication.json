@@ -1,0 +1,51 @@
+{
+  "id": "mcv",
+  "title": "MCV",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Intent Media"
+    },
+    {
+      "name": "NewBay Media"
+    },
+    {
+      "name": "Biz Media"
+    }
+  ],
+  "country": "GB",
+  "language": "en",
+  "first_issue": {
+    "date": "1998-09"
+  },
+  "status": "active",
+  "categories": {
+    "type": "trade",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/eb2067ae-1d19-4d6c-b07a-fc0b0ce68d5f",
+      "date_range": "September 1998 –"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

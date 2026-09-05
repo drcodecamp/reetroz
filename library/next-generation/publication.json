@@ -1,0 +1,50 @@
+{
+  "id": "next-generation",
+  "title": "Next Generation / NextGen",
+  "short": "NextGen",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Imagine Media"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1995-01"
+  },
+  "last_issue": {
+    "date": "2002-01"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/cbefef2b-c575-4ce5-afe8-586b567e4eb8",
+      "date_range": "January 1995 – January 2002"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "US edition of Edge."
+}

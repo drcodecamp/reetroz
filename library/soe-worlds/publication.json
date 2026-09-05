@@ -1,0 +1,48 @@
+{
+  "id": "soe-worlds",
+  "title": "SOE Worlds: The Official Magazine",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Sony Online Entertainment"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "2004"
+  },
+  "last_issue": {
+    "date": "2005"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "official",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/821e3f96-3fb0-433d-9f86-35124f8718d1",
+      "date_range": "2004–2005"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

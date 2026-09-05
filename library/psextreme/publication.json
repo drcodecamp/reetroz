@@ -1,0 +1,48 @@
+{
+  "id": "psextreme",
+  "title": "PSExtreme / Dimension PS-X / PSE2",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Dimension Publishing"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1995-12"
+  },
+  "last_issue": {
+    "date": "2006-05"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "playstation"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/ff6f4f72-f79c-427b-a012-2ea671f4211d",
+      "date_range": "December 1995 – May 2006"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

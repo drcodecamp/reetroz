@@ -1,0 +1,49 @@
+{
+  "id": "interaction",
+  "title": "InterAction / Sierra News Magazine",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Sierra On-Line"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1987"
+  },
+  "last_issue": {
+    "date": "1999"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "newsletter",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/b166d2f2-91e4-439f-9881-9dbd9faca78a",
+      "date_range": "1987 – Spring 1999"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Sierra's customer magazine."
+}

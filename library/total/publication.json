@@ -1,0 +1,48 @@
+{
+  "id": "total",
+  "title": "Total!",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Future Publishing"
+    }
+  ],
+  "country": "GB",
+  "language": "en",
+  "first_issue": {
+    "date": "1992-01"
+  },
+  "last_issue": {
+    "date": "1996-10"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "nintendo"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/3595f2aa-be7c-4cb0-a51e-c24523780a93",
+      "date_range": "January 1992 – October 1996"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

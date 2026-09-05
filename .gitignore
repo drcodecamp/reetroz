@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+cf.api.key
+*.key
+
+# python
+__pycache__/
+
+# big local data (goes to R2)
+CGW/
+library/**/pdf/
+site/public/pages/
+site/public/covers/

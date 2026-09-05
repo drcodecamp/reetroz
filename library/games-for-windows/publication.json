@@ -1,0 +1,49 @@
+{
+  "id": "games-for-windows",
+  "title": "Games for Windows: The Official Magazine",
+  "short": "GFW",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Ziff Davis"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "2006-12"
+  },
+  "last_issue": {
+    "date": "2008-04"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "official",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "cgwmuseum",
+  "rights": {
+    "status": "authorized",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "cgwmuseum",
+      "url": "https://www.cgwmuseum.org/galleries/index.php"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Direct successor to Computer Gaming World; hosted by the CGW Museum."
+}

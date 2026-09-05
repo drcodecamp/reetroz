@@ -1,0 +1,51 @@
+{
+  "id": "hyper",
+  "title": "Hyper",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Next Media"
+    },
+    {
+      "name": "Future Australia"
+    }
+  ],
+  "country": "AU",
+  "language": "en",
+  "first_issue": {
+    "date": "1993-12"
+  },
+  "last_issue": {
+    "date": "2018"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/30d88818-a185-4138-8b43-127f55b01c69",
+      "date_range": "December 1993 – 2018"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "play-us",
+  "title": "Play (US)",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Fusion Publishing"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "2001-12"
+  },
+  "last_issue": {
+    "date": "2010-01"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/3d83b151-a682-43dc-98af-979b94dc31f4",
+      "date_range": "December 2001 – January 2010"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

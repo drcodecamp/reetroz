@@ -1,0 +1,52 @@
+{
+  "id": "crash",
+  "title": "Crash",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Newsfield"
+    },
+    {
+      "name": "Europress Impact"
+    }
+  ],
+  "country": "GB",
+  "language": "en",
+  "first_issue": {
+    "date": "1984-02"
+  },
+  "last_issue": {
+    "date": "1992-04"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "zx-spectrum"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "internet-archive",
+  "rights": {
+    "status": "community-scan",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "internet-archive",
+      "url": "https://archive.org/details/crash-magazine",
+      "items": 320,
+      "date_range": "1984–1992"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

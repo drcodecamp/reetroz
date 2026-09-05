@@ -1,0 +1,44 @@
+{
+  "id": "surge",
+  "title": "Surge",
+  "metadata_status": "stub",
+  "publishers": [],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "2004"
+  },
+  "last_issue": {
+    "date": "2004"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "multi"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/19df3e0e-432f-410c-89f1-7f19de57e13b",
+      "date_range": "2004"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

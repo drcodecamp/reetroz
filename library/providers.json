@@ -1,0 +1,31 @@
+[
+  {
+    "id": "cgwmuseum",
+    "name": "CGW Museum",
+    "url": "https://www.cgwmuseum.org",
+    "kind": "museum",
+    "rights_default": "authorized",
+    "adapter": "download_cgw.py",
+    "credit": "Scans courtesy of the CGW Museum",
+    "notes": "Hosts Computer Gaming World 1981-2006 plus Softline (1981-84), Computer Game Forum (1987) and Games for Windows (2006-08). Issue PDFs at /galleries/issues/<prefix>_<n>.pdf."
+  },
+  {
+    "id": "internet-archive",
+    "name": "Internet Archive",
+    "url": "https://archive.org",
+    "kind": "archive",
+    "rights_default": "community-scan",
+    "api": "https://archive.org/advancedsearch.php",
+    "credit": "Scan from the Internet Archive",
+    "notes": "Community uploads; per-item metadata via https://archive.org/metadata/<identifier>. Most items ship hOCR / DjVu XML word coordinates and plain text. Naming is uploader-dependent; each magazine needs a normaliser."
+  },
+  {
+    "id": "vghf",
+    "name": "Video Game History Foundation Library",
+    "url": "https://archive.gamehistory.org",
+    "kind": "library",
+    "rights_default": "link-only",
+    "credit": "Available for research at the Video Game History Foundation",
+    "notes": "Researcher Agreement restricts use to research and private study. Use as reference catalog and link-out target only; never mirror."
+  }
+]

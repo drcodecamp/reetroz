@@ -1,0 +1,49 @@
+{
+  "id": "atari-age",
+  "title": "Atari Age",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Atari Club"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1982-05"
+  },
+  "last_issue": {
+    "date": "1984-04"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "newsletter",
+    "platforms": [
+      "atari-2600",
+      "atari-8bit"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/5c58e229-93bc-412b-953e-36edd364689a",
+      "date_range": "May 1982 – April 1984"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

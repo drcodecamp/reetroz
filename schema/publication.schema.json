@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pixelpress.local/schema/publication.schema.json",
+  "title": "Publication",
+  "description": "One magazine title (schema.org Periodical). Stored at library/<id>/publication.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "country", "language", "status", "categories", "numbering", "rights", "default_provider", "metadata_status"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$", "description": "Slug used in folders and URLs, e.g. cgw, gamesmaster, pc-zone" },
+    "title": { "type": "string", "description": "Best-known title, e.g. Computer Gaming World" },
+    "short": { "type": "string", "maxLength": 12, "description": "Abbreviation for tight UI: CGW, EGM, OPM" },
+    "metadata_status": {
+      "type": "string",
+      "enum": ["stub", "verified"],
+      "description": "stub = seeded from a source listing, details unverified, no issues ingested yet; verified = checked by a human"
+    },
+    "known_sources": {
+      "type": "array",
+      "description": "Where scans of this title are known to exist, whether or not we have ingested them",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["provider", "url"],
+        "properties": {
+          "provider": { "type": "string", "description": "provider id" },
+          "url": { "type": "string", "format": "uri" },
+          "items": { "type": "integer", "minimum": 0, "description": "Approximate item count at the source" },
+          "date_range": { "type": "string", "description": "As stated by the source" }
+        }
+      }
+    },
+    "sort_title": { "type": "string", "description": "Title without leading article, for sorting (optional)" },
+    "aliases": {
+      "type": "array",
+      "description": "Other names the magazine went by, with the period each applied",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["title"],
+        "properties": {
+          "title": { "type": "string" },
+          "from": { "$ref": "#/$defs/isoDate" },
+          "to": { "$ref": "#/$defs/isoDate" }
+        }
+      }
+    },
+    "publishers": {
+      "type": "array",
+      "description": "Publishing companies over time (a title often changes hands)",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name"],
+        "properties": {
+          "name": { "type": "string" },
+          "from": { "$ref": "#/$defs/isoDate" },
+          "to": { "$ref": "#/$defs/isoDate" }
+        }
+      }
+    },
+    "country": { "type": "string", "pattern": "^[A-Z]{2}$", "description": "ISO 3166-1 alpha-2 of the edition (US, GB, DE ...)" },
+    "language": { "type": "string", "pattern": "^[a-z]{2}(-[A-Z]{2})?$", "description": "BCP-47 primary language, e.g. en, de, ja" },
+    "issn": { "type": "string", "pattern": "^\\d{4}-\\d{3}[\\dX]$" },
+    "first_issue": { "$ref": "#/$defs/issueRef" },
+    "last_issue": { "$ref": "#/$defs/issueRef" },
+    "status": { "type": "string", "enum": ["ceased", "active", "unknown"] },
+    "frequency": {
+      "type": "string",
+      "enum": ["weekly", "biweekly", "monthly", "bimonthly", "quarterly", "irregular", "varied"]
+    },
+    "categories": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "platforms"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["consumer", "official", "trade", "newsletter", "fanzine", "strategy", "developer", "other"],
+          "description": "consumer = newsstand magazine; official = platform-holder licensed; trade = industry press"
+        },
+        "platforms": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": [
+              "pc", "mac", "amiga", "atari-st", "atari-8bit", "atari-2600", "c64", "zx-spectrum", "amstrad-cpc", "msx", "apple-ii",
+              "nintendo", "sega", "playstation", "xbox", "3do", "neo-geo", "arcade", "handheld", "mobile", "multi", "other"
+            ]
+          }
+        },
+        "genres": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "type": "string" },
+          "description": "Free-form focus tags: strategy, wargames, rpg, adventure, retro ..."
+        }
+      }
+    },
+    "description": { "type": "string", "maxLength": 600 },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "wikipedia": { "type": "string", "format": "uri" },
+        "official": { "type": "string", "format": "uri" },
+        "other": { "type": "array", "items": { "type": "string", "format": "uri" } }
+      }
+    },
+    "related": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "predecessor": { "type": "string", "description": "publication id" },
+        "successor": { "type": "string", "description": "publication id" },
+        "sibling_editions": { "type": "array", "items": { "type": "string" }, "description": "e.g. pc-gamer-uk for pc-gamer-us" }
+      }
+    },
+    "numbering": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["scheme"],
+      "properties": {
+        "scheme": {
+          "type": "string",
+          "enum": ["sequential", "volume-issue", "mixed", "date-only"],
+          "description": "How issues identify themselves. mixed = changed over time (CGW: volume.issue until 1986, sequential after)"
+        },
+        "notes": { "type": "string" }
+      }
+    },
+    "default_provider": { "type": "string", "description": "provider id most issues come from" },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status"],
+      "properties": {
+        "status": { "type": "string", "enum": ["authorized", "community-scan", "link-only", "public-domain"] },
+        "holder": { "type": "string", "description": "Current rights holder if known" },
+        "note": { "type": "string" }
+      }
+    },
+    "cover_issue": { "type": "string", "description": "issue id whose cover represents the publication in shelves" },
+    "stats": {
+      "type": "object",
+      "description": "Derived by tooling, never edited by hand",
+      "additionalProperties": false,
+      "properties": {
+        "issues": { "type": "integer", "minimum": 0 },
+        "pages": { "type": "integer", "minimum": 0 },
+        "readable": { "type": "integer", "minimum": 0 },
+        "with_text": { "type": "integer", "minimum": 0 },
+        "first_year": { "type": "integer" },
+        "last_year": { "type": "integer" }
+      }
+    },
+    "updated_at": { "type": "string", "format": "date-time" }
+  },
+  "$defs": {
+    "isoDate": { "type": "string", "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$", "description": "YYYY, YYYY-MM or YYYY-MM-DD" },
+    "issueRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["date"],
+      "properties": {
+        "number": { "type": "string" },
+        "date": { "$ref": "#/$defs/isoDate" }
+      }
+    }
+  }
+}

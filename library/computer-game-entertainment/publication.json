@@ -1,0 +1,44 @@
+{
+  "id": "computer-game-entertainment",
+  "title": "Computer Game Entertainment",
+  "metadata_status": "stub",
+  "publishers": [],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1997"
+  },
+  "last_issue": {
+    "date": "1998"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/b07b30eb-9b20-4cc2-94b2-ab2250a5c95b",
+      "date_range": "1997–est. 1998"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

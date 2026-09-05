@@ -1,0 +1,7298 @@
+[
+ {
+  "identifier": "computermagazinesmisc",
+  "title": "Miscellaneous Computer Magazines",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 11050,
+  "first": "1884-07-26",
+  "last": "2026-08-01",
+  "url": "https://archive.org/details/computermagazinesmisc"
+ },
+ {
+  "identifier": "videogamemagazinesmisc",
+  "title": "Miscellaneous Video Game and Computer Game Magazines",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 9477,
+  "first": "1937-06-01",
+  "last": "2026-08-13",
+  "url": "https://archive.org/details/videogamemagazinesmisc"
+ },
+ {
+  "identifier": "commodoremagazines",
+  "title": "Commodore Computer Periodicals",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4734,
+  "first": "1978-01-01",
+  "last": "2025-06-20",
+  "url": "https://archive.org/details/commodoremagazines"
+ },
+ {
+  "identifier": "applemagazines",
+  "title": "Apple Computer Periodicals",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 2476,
+  "first": "1978-01-01",
+  "last": "2026-06-12",
+  "url": "https://archive.org/details/applemagazines"
+ },
+ {
+  "identifier": "pccomputermagazines",
+  "title": "PC Computer Magazines (DOS, Windows)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 1588,
+  "first": "1982-02-01",
+  "last": "2024-04-22",
+  "url": "https://archive.org/details/pccomputermagazines"
+ },
+ {
+  "identifier": "computermagazinesspanish",
+  "title": "Spanish-Language Computer Magazines",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 1202,
+  "first": "1982-12-01",
+  "last": "2021-01-01",
+  "url": "https://archive.org/details/computermagazinesspanish"
+ },
+ {
+  "identifier": "club-nintendo-magazine",
+  "title": "Club Nintendo Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 925,
+  "first": "1989-01-01",
+  "last": "2018-12-01",
+  "url": "https://archive.org/details/club-nintendo-magazine"
+ },
+ {
+  "identifier": "sinclairmagazines",
+  "title": "Sinclair Computer Periodicals",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 867,
+  "first": "1982-04-01",
+  "last": "2024-12-15",
+  "url": "https://archive.org/details/sinclairmagazines"
+ },
+ {
+  "identifier": "atarimagazines",
+  "title": "Atari Computer Periodicals",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 682,
+  "first": "1981-01-01",
+  "last": "2026-07-18",
+  "url": "https://archive.org/details/atarimagazines"
+ },
+ {
+  "identifier": "game_machine_magazine_jp",
+  "title": "Game Machine Magazine (Japanese)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 657,
+  "first": "1974-08-10",
+  "last": "2002-06-15",
+  "url": "https://archive.org/details/game_machine_magazine_jp"
+ },
+ {
+  "identifier": "chipmagazine",
+  "title": "CHIP Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 618,
+  "first": "1978-09-01",
+  "last": "2023-02-07",
+  "url": "https://archive.org/details/chipmagazine"
+ },
+ {
+  "identifier": "macworld-magazine",
+  "title": "MacWorld Magazine",
+  "publisher": "IDG Communications/Peterborough",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 567,
+  "first": "1984-02-01",
+  "last": "2010-03-01",
+  "url": "https://archive.org/details/macworld-magazine"
+ },
+ {
+  "identifier": "slovenecomputermagazines",
+  "title": "Slovene Computer Magazines",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 566,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/slovenecomputermagazines"
+ },
+ {
+  "identifier": "cvg-magazine",
+  "title": "Computer and Video Games (CVG) Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 540,
+  "first": "1981-11-01",
+  "last": "2004-10-01",
+  "url": "https://archive.org/details/cvg-magazine"
+ },
+ {
+  "identifier": "nintendoaccion",
+  "title": "Nintendo Acción",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 530,
+  "first": "2012-04-16",
+  "last": "2012-04-16",
+  "url": "https://archive.org/details/nintendoaccion"
+ },
+ {
+  "identifier": "popular-computing-weekly",
+  "title": "Popular Computing Weekly",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 529,
+  "first": "1982-04-23",
+  "last": "1989-09-28",
+  "url": "https://archive.org/details/popular-computing-weekly"
+ },
+ {
+  "identifier": "playmagazine",
+  "title": "PLAY Magazine (and PLAY! Zine)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 508,
+  "first": "1995-11-01",
+  "last": "2026-05-02",
+  "url": "https://archive.org/details/playmagazine"
+ },
+ {
+  "identifier": "virusbulletin",
+  "title": "Virus Bulletin",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 490,
+  "first": "1989-07-01",
+  "last": "2014-06-01",
+  "url": "https://archive.org/details/virusbulletin"
+ },
+ {
+  "identifier": "micombasic",
+  "title": "micomBASIC Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 476,
+  "first": "1982-03-01",
+  "last": "2003-05-01",
+  "url": "https://archive.org/details/micombasic"
+ },
+ {
+  "identifier": "gamepromagazine",
+  "title": "GamePro Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 474,
+  "first": "1989-05-01",
+  "last": "2026-07-09",
+  "url": "https://archive.org/details/gamepromagazine"
+ },
+ {
+  "identifier": "tandymagazines",
+  "title": "Tandy and TRS-80 Magazines",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 464,
+  "first": "1900-01-01",
+  "last": "1993-05-01",
+  "url": "https://archive.org/details/tandymagazines"
+ },
+ {
+  "identifier": "microhobby-magazine",
+  "title": "MicroHobby Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 459,
+  "first": "1983-03-01",
+  "last": "2021-01-01",
+  "url": "https://archive.org/details/microhobby-magazine"
+ },
+ {
+  "identifier": "familycomputermagazine",
+  "title": "Family Computer Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 440,
+  "first": "1985-05-21",
+  "last": "1997-12-20",
+  "url": "https://archive.org/details/familycomputermagazine"
+ },
+ {
+  "identifier": "electronic-gaming-monthly",
+  "title": "Electronic Gaming Monthly",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 419,
+  "first": "1992-01-01",
+  "last": "2026-07-07",
+  "url": "https://archive.org/details/electronic-gaming-monthly"
+ },
+ {
+  "identifier": "playmetermagazine",
+  "title": "Play Meter Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 406,
+  "first": "1975-03-01",
+  "last": "2026-03-31",
+  "url": "https://archive.org/details/playmetermagazine"
+ },
+ {
+  "identifier": "64er_magazine",
+  "title": "64'er Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 405,
+  "first": "1984-04-01",
+  "last": "2023-04-20",
+  "url": "https://archive.org/details/64er_magazine"
+ },
+ {
+  "identifier": "aus-personal-com-mag",
+  "title": "Australian Personal Computer (APC) Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 404,
+  "first": "1980-05-01",
+  "last": "2020-08-29",
+  "url": "https://archive.org/details/aus-personal-com-mag"
+ },
+ {
+  "identifier": "gameinformer",
+  "title": "Game Informer Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 399,
+  "first": "1991-09-01",
+  "last": "2026-04-07",
+  "url": "https://archive.org/details/gameinformer"
+ },
+ {
+  "identifier": "pc_magazine",
+  "title": "PC Magazine",
+  "publisher": "Ziff-Davis Media Inc.",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 399,
+  "first": "1982-02-01",
+  "last": "2009-03-01",
+  "url": "https://archive.org/details/pc_magazine"
+ },
+ {
+  "identifier": "processor_newspaper",
+  "title": "Processor Newspaper",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 387,
+  "first": "2004-07-23",
+  "last": "2014-01-01",
+  "url": "https://archive.org/details/processor_newspaper"
+ },
+ {
+  "identifier": "zzap64-magazine",
+  "title": "ZZap!64 Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 374,
+  "first": "1985-05-01",
+  "last": "2002-03-01",
+  "url": "https://archive.org/details/zzap64-magazine"
+ },
+ {
+  "identifier": "computer_idea_magazine",
+  "title": "Computer Idea Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 363,
+  "first": "2010-01-05",
+  "last": "2024-02-29",
+  "url": "https://archive.org/details/computer_idea_magazine"
+ },
+ {
+  "identifier": "magpimagazine",
+  "title": "MagPi Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 352,
+  "first": "2012-05-01",
+  "last": "2025-03-16",
+  "url": "https://archive.org/details/magpimagazine"
+ },
+ {
+  "identifier": "byte-magazine",
+  "title": "BYTE Magazine",
+  "publisher": "UBM LLC",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 351,
+  "first": "1975-09-01",
+  "last": "2021-01-01",
+  "url": "https://archive.org/details/byte-magazine"
+ },
+ {
+  "identifier": "gameland-magazine-rus",
+  "title": "Gameland Magazine (Russian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 346,
+  "first": "1996-01-01",
+  "last": "2012-12-01",
+  "url": "https://archive.org/details/gameland-magazine-rus"
+ },
+ {
+  "identifier": "computergamingworld",
+  "title": "Computer Gaming World Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 339,
+  "first": "1981-01-01",
+  "last": "2026-08-10",
+  "url": "https://archive.org/details/computergamingworld"
+ },
+ {
+  "identifier": "level-magazine",
+  "title": "Level Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 339,
+  "first": "1997-01-01",
+  "last": "2025-01-24",
+  "url": "https://archive.org/details/level-magazine"
+ },
+ {
+  "identifier": "micromania-magazine",
+  "title": "Micromania Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 338,
+  "first": "1989-01-01",
+  "last": "2024-08-01",
+  "url": "https://archive.org/details/micromania-magazine"
+ },
+ {
+  "identifier": "acornuser",
+  "title": "Acorn User Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 331,
+  "first": "1982-07-01",
+  "last": "2003-12-01",
+  "url": "https://archive.org/details/acornuser"
+ },
+ {
+  "identifier": "joystick-magazine-french",
+  "title": "Joystick Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 328,
+  "first": "1988-11-09",
+  "last": "2024-09-15",
+  "url": "https://archive.org/details/joystick-magazine-french"
+ },
+ {
+  "identifier": "crash-magazine",
+  "title": "Crash Magazine Archive",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 320,
+  "first": "1984-02-01",
+  "last": "1992-04-01",
+  "url": "https://archive.org/details/crash-magazine"
+ },
+ {
+  "identifier": "savetz_articles",
+  "title": "Articles by Kay Savetz",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 319,
+  "first": "1993-02-08",
+  "last": "2025-12-01",
+  "url": "https://archive.org/details/savetz_articles"
+ },
+ {
+  "identifier": "pczonemagazine",
+  "title": "PC Zone Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 310,
+  "first": "1993-01-01",
+  "last": "2026-07-07",
+  "url": "https://archive.org/details/pczonemagazine"
+ },
+ {
+  "identifier": "powerplaymagazine",
+  "title": "Power Play Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 309,
+  "first": "1988-01-01",
+  "last": "2024-12-29",
+  "url": "https://archive.org/details/powerplaymagazine"
+ },
+ {
+  "identifier": "win-magazine-italia",
+  "title": "Win Magazine (Italia)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 301,
+  "first": "2011-11-01",
+  "last": "2024-03-01",
+  "url": "https://archive.org/details/win-magazine-italia"
+ },
+ {
+  "identifier": "game_developer_magazine",
+  "title": "Game Developer Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 300,
+  "first": "1994-01-01",
+  "last": "2026-08-09",
+  "url": "https://archive.org/details/game_developer_magazine"
+ },
+ {
+  "identifier": "sinclair-user-magazine",
+  "title": "Sinclair User Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 298,
+  "first": "1982-04-01",
+  "last": "1993-04-01",
+  "url": "https://archive.org/details/sinclair-user-magazine"
+ },
+ {
+  "identifier": "gamestmagazine",
+  "title": "Gamest Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 294,
+  "first": "1986-05-01",
+  "last": "1999-09-30",
+  "url": "https://archive.org/details/gamestmagazine"
+ },
+ {
+  "identifier": "psm-magazine",
+  "title": "PSM Magazine (Playstation)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 293,
+  "first": "1997-09-01",
+  "last": "2026-08-06",
+  "url": "https://archive.org/details/psm-magazine"
+ },
+ {
+  "identifier": "commodoreuser-magazine",
+  "title": "Commodore User Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 285,
+  "first": "1983-06-01",
+  "last": "1990-02-01",
+  "url": "https://archive.org/details/commodoreuser-magazine"
+ },
+ {
+  "identifier": "superjuegos",
+  "title": "Super Juegos",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 284,
+  "first": "1994-08-01",
+  "last": "2017-12-01",
+  "url": "https://archive.org/details/superjuegos"
+ },
+ {
+  "identifier": "thecomputerpaper",
+  "title": "The Computer Paper (Plus Others)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 274,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/thecomputerpaper"
+ },
+ {
+  "identifier": "the-games-machine-italia",
+  "title": "The Games Machine (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 266,
+  "first": "1988-09-01",
+  "last": "2023-08-01",
+  "url": "https://archive.org/details/the-games-machine-italia"
+ },
+ {
+  "identifier": "amiga-computing-magazine",
+  "title": "Amiga Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 265,
+  "first": "1988-06-01",
+  "last": "2024-03-01",
+  "url": "https://archive.org/details/amiga-computing-magazine"
+ },
+ {
+  "identifier": "sdtimes",
+  "title": "Software Development Times",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 260,
+  "first": "2000-02-23",
+  "last": "2010-12-15",
+  "url": "https://archive.org/details/sdtimes"
+ },
+ {
+  "identifier": "gamefan-magazine",
+  "title": "Gamefan Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 252,
+  "first": "1992-10-01",
+  "last": "2026-02-15",
+  "url": "https://archive.org/details/gamefan-magazine"
+ },
+ {
+  "identifier": "officialusplaystationmagazine",
+  "title": "Official US Playstation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 252,
+  "first": "1997-01-01",
+  "last": "2026-01-06",
+  "url": "https://archive.org/details/officialusplaystationmagazine"
+ },
+ {
+  "identifier": "hardandsoftrussian",
+  "title": "Hard and Soft Magazine (Russian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 247,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/hardandsoftrussian"
+ },
+ {
+  "identifier": "click-magazine",
+  "title": "Click! Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 239,
+  "first": "1968-03-01",
+  "last": "2006-01-01",
+  "url": "https://archive.org/details/click-magazine"
+ },
+ {
+  "identifier": "pcgames_german",
+  "title": "PC Games Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 239,
+  "first": "1996-07-01",
+  "last": "2026-07-19",
+  "url": "https://archive.org/details/pcgames_german"
+ },
+ {
+  "identifier": "amstrad-action-magazine",
+  "title": "Amstrad Action Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 236,
+  "first": "2008-06-10",
+  "last": "2008-06-10",
+  "url": "https://archive.org/details/amstrad-action-magazine"
+ },
+ {
+  "identifier": "ednmagazine",
+  "title": "EDN Magazine",
+  "publisher": "UBM LLC",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 233,
+  "first": "1990-11-22",
+  "last": "2013-01-01",
+  "url": "https://archive.org/details/ednmagazine"
+ },
+ {
+  "identifier": "consoleplusmagazine",
+  "title": "Consoles Plus Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 232,
+  "first": "2001-02-01",
+  "last": "2026-08-02",
+  "url": "https://archive.org/details/consoleplusmagazine"
+ },
+ {
+  "identifier": "mcmicrocomputer",
+  "title": "MCmicrocomputer",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 229,
+  "first": "1981-01-01",
+  "last": "2001-06-01",
+  "url": "https://archive.org/details/mcmicrocomputer"
+ },
+ {
+  "identifier": "miscapplemagazines",
+  "title": "Miscellaneous Apple Magazines",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 226,
+  "first": "1981-01-01",
+  "last": "2012-01-01",
+  "url": "https://archive.org/details/miscapplemagazines"
+ },
+ {
+  "identifier": "pcprofessionale-mag-it",
+  "title": "PC Professionale Magazine (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 220,
+  "first": "2003-01-01",
+  "last": "2024-03-01",
+  "url": "https://archive.org/details/pcprofessionale-mag-it"
+ },
+ {
+  "identifier": "creativecomputing",
+  "title": "Creative Computing Magazine",
+  "publisher": "Ahl Computing Inc.",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 219,
+  "first": "1900-01-01",
+  "last": "2015-01-01",
+  "url": "https://archive.org/details/creativecomputing"
+ },
+ {
+  "identifier": "maniac-magazin-de",
+  "title": "MANiAC DE Magazin (German)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 217,
+  "first": "2000-07-01",
+  "last": "2026-03-31",
+  "url": "https://archive.org/details/maniac-magazin-de"
+ },
+ {
+  "identifier": "playmania",
+  "title": "Playmania",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 216,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/playmania"
+ },
+ {
+  "identifier": "arcadia-magazine",
+  "title": "Arcadia Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 215,
+  "first": "2000-03-01",
+  "last": "2015-04-01",
+  "url": "https://archive.org/details/arcadia-magazine"
+ },
+ {
+  "identifier": "gameplayers",
+  "title": "Game Players Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 212,
+  "first": "1988-08-01",
+  "last": "2026-08-13",
+  "url": "https://archive.org/details/gameplayers"
+ },
+ {
+  "identifier": "compute-magazine",
+  "title": "Compute! Magazine Archive",
+  "publisher": "Ziff Davis Enterprise Inc.",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 209,
+  "first": "1979-01-01",
+  "last": "2026-07-09",
+  "url": "https://archive.org/details/compute-magazine"
+ },
+ {
+  "identifier": "DPK_magazine",
+  "title": "DPK Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 208,
+  "first": "1998-12-01",
+  "last": "2011-12-01",
+  "url": "https://archive.org/details/DPK_magazine"
+ },
+ {
+  "identifier": "openapplemagazine",
+  "title": "Open Apple / A2 Central Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 208,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/openapplemagazine"
+ },
+ {
+  "identifier": "pc-action-mag-ger",
+  "title": "PC Action (German)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 207,
+  "first": "1996-02-01",
+  "last": "2013-01-01",
+  "url": "https://archive.org/details/pc-action-mag-ger"
+ },
+ {
+  "identifier": "your-commodore-magazine",
+  "title": "Your Commodore Magazine (1984-1991)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 207,
+  "first": "1984-07-01",
+  "last": "1991-09-01",
+  "url": "https://archive.org/details/your-commodore-magazine"
+ },
+ {
+  "identifier": "amstrad-semanal",
+  "title": "Amstrad Semanal Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 204,
+  "first": "1987-08-04",
+  "last": "1987-09-01",
+  "url": "https://archive.org/details/amstrad-semanal"
+ },
+ {
+  "identifier": "elettronica2000",
+  "title": "Elettronica 2000 Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 204,
+  "first": "1979-05-01",
+  "last": "2002-09-01",
+  "url": "https://archive.org/details/elettronica2000"
+ },
+ {
+  "identifier": "theone-magazine-uk",
+  "title": "The One Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 196,
+  "first": "1988-10-01",
+  "last": "2025-12-01",
+  "url": "https://archive.org/details/theone-magazine-uk"
+ },
+ {
+  "identifier": "technopolis-magazine",
+  "title": "Technopolis Magazine (テクテクノポリス)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 194,
+  "first": "1982-08-01",
+  "last": "1994-03-01",
+  "url": "https://archive.org/details/technopolis-magazine"
+ },
+ {
+  "identifier": "pixelmagazine",
+  "title": "Pixel and Pixelmania Magazines",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 193,
+  "first": "1983-10-01",
+  "last": "2007-07-01",
+  "url": "https://archive.org/details/pixelmagazine"
+ },
+ {
+  "identifier": "generation4-magazine",
+  "title": "Generation 4 Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 193,
+  "first": "1989-04-01",
+  "last": "2024-10-05",
+  "url": "https://archive.org/details/generation4-magazine"
+ },
+ {
+  "identifier": "linuxjournalmagazine",
+  "title": "Linux Journal",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 191,
+  "first": "1999-02-01",
+  "last": "2019-07-01",
+  "url": "https://archive.org/details/linuxjournalmagazine"
+ },
+ {
+  "identifier": "PCPowerplay",
+  "title": "PC Powerplay Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 188,
+  "first": "1996-05-01",
+  "last": "2025-09-01",
+  "url": "https://archive.org/details/PCPowerplay"
+ },
+ {
+  "identifier": "macusermagazine",
+  "title": "MacUser Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 187,
+  "first": "1985-10-01",
+  "last": "1997-10-01",
+  "url": "https://archive.org/details/macusermagazine"
+ },
+ {
+  "identifier": "byte-magazine-rescans",
+  "title": "BYTE Magazine Rescans",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 186,
+  "first": "1977-03-01",
+  "last": "1991-01-01",
+  "url": "https://archive.org/details/byte-magazine-rescans"
+ },
+ {
+  "identifier": "thinkdigit_magazine",
+  "title": "Digit Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 185,
+  "first": "1999-12-01",
+  "last": "2016-05-01",
+  "url": "https://archive.org/details/thinkdigit_magazine"
+ },
+ {
+  "identifier": "rainbowmagazine",
+  "title": "The Rainbow (TRS-80 Color Computer Magazine)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 184,
+  "first": "1981-07-01",
+  "last": "1993-05-01",
+  "url": "https://archive.org/details/rainbowmagazine"
+ },
+ {
+  "identifier": "macweekmagazine",
+  "title": "Macweek Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 183,
+  "first": "1987-04-01",
+  "last": "1996-11-11",
+  "url": "https://archive.org/details/macweekmagazine"
+ },
+ {
+  "identifier": "gamesbrmagazine",
+  "title": "Games Magazine (Brazil)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 181,
+  "first": "1990-01-01",
+  "last": "2026-04-03",
+  "url": "https://archive.org/details/gamesbrmagazine"
+ },
+ {
+  "identifier": "ohxmagazine",
+  "title": "Oh! X Magazine (Japanese)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 181,
+  "first": "1987-12-01",
+  "last": "2001-03-01",
+  "url": "https://archive.org/details/ohxmagazine"
+ },
+ {
+  "identifier": "magazine-xakep",
+  "title": "Хакер Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 180,
+  "first": "1998-01-01",
+  "last": "2013-12-01",
+  "url": "https://archive.org/details/magazine-xakep"
+ },
+ {
+  "identifier": "computergamesstrategyplus",
+  "title": "Computer Games Strategy Plus",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 178,
+  "first": "1991-12-01",
+  "last": "2026-07-27",
+  "url": "https://archive.org/details/computergamesstrategyplus"
+ },
+ {
+  "identifier": "antic-magazine",
+  "title": "Antic Magazine Collection",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 176,
+  "first": "1982-04-01",
+  "last": "2026-07-18",
+  "url": "https://archive.org/details/antic-magazine"
+ },
+ {
+  "identifier": "australiancommodoreamigareview",
+  "title": "Australian Commodore Amiga Review",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 176,
+  "first": "1985-01-01",
+  "last": "1996-01-01",
+  "url": "https://archive.org/details/australiancommodoreamigareview"
+ },
+ {
+  "identifier": "mactech_magazine",
+  "title": "MacTech Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 171,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/mactech_magazine"
+ },
+ {
+  "identifier": "basiccomputingmagazine",
+  "title": "BASIC Magazine (Japanese)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 171,
+  "first": "1984-11-01",
+  "last": "2005-08-01",
+  "url": "https://archive.org/details/basiccomputingmagazine"
+ },
+ {
+  "identifier": "commodorediskuser",
+  "title": "Commodore Disk User",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 170,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/commodorediskuser"
+ },
+ {
+  "identifier": "pcmaster-mag-gk",
+  "title": "PC Master Magazine (Greek)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 168,
+  "first": "1989-09-01",
+  "last": "2003-05-01",
+  "url": "https://archive.org/details/pcmaster-mag-gk"
+ },
+ {
+  "identifier": "tipsandtricksmag",
+  "title": "Tips and Tricks Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 167,
+  "first": "1994-01-01",
+  "last": "2026-04-18",
+  "url": "https://archive.org/details/tipsandtricksmag"
+ },
+ {
+  "identifier": "computer_power_user",
+  "title": "Computer Power User Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 166,
+  "first": "2004-06-01",
+  "last": "2024-05-17",
+  "url": "https://archive.org/details/computer_power_user"
+ },
+ {
+  "identifier": "computerstudio",
+  "title": "Computer Studio (Including Amiga Computer Studio)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 166,
+  "first": "1991-01-01",
+  "last": "2009-07-01",
+  "url": "https://archive.org/details/computerstudio"
+ },
+ {
+  "identifier": "ordinateurindividuel",
+  "title": "L'Ordinateur Individuel Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 165,
+  "first": "1978-10-01",
+  "last": "1994-01-01",
+  "url": "https://archive.org/details/ordinateurindividuel"
+ },
+ {
+  "identifier": "vgcemagazine",
+  "title": "VideoGames & Computer Entertainment",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 164,
+  "first": "1988-12-01",
+  "last": "2024-08-10",
+  "url": "https://archive.org/details/vgcemagazine"
+ },
+ {
+  "identifier": "atomic-mpc-mag",
+  "title": "Atomic Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 164,
+  "first": "2002-02-01",
+  "last": "2003-12-01",
+  "url": "https://archive.org/details/atomic-mpc-mag"
+ },
+ {
+  "identifier": "joypad-magazine",
+  "title": "Joypad Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 164,
+  "first": "1991-10-01",
+  "last": "2025-01-07",
+  "url": "https://archive.org/details/joypad-magazine"
+ },
+ {
+  "identifier": "videogamesde",
+  "title": "Video Games (German)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 162,
+  "first": "1991-01-01",
+  "last": "2001-03-01",
+  "url": "https://archive.org/details/videogamesde"
+ },
+ {
+  "identifier": "hebdogiciel-french",
+  "title": "Hebdogiciel Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 161,
+  "first": "1986-01-01",
+  "last": "1986-12-26",
+  "url": "https://archive.org/details/hebdogiciel-french"
+ },
+ {
+  "identifier": "smartcomputing_magazine",
+  "title": "Smart Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 160,
+  "first": "1998-07-01",
+  "last": "2013-10-01",
+  "url": "https://archive.org/details/smartcomputing_magazine"
+ },
+ {
+  "identifier": "joker-magazine-slovenian",
+  "title": "Joker Magazine (Slovenian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 157,
+  "first": "1992-05-01",
+  "last": "2017-11-01",
+  "url": "https://archive.org/details/joker-magazine-slovenian"
+ },
+ {
+  "identifier": "hpprofessional",
+  "title": "HP Professional",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 157,
+  "first": "1987-05-01",
+  "last": "2000-09-01",
+  "url": "https://archive.org/details/hpprofessional"
+ },
+ {
+  "identifier": "amazing-computing-magazine",
+  "title": "Amazing Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 157,
+  "first": "1986-01-01",
+  "last": "1999-09-01",
+  "url": "https://archive.org/details/amazing-computing-magazine"
+ },
+ {
+  "identifier": "asm_magazine",
+  "title": "ASM (Aktueller Software Markt) Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 156,
+  "first": "1986-04-01",
+  "last": "1995-02-01",
+  "url": "https://archive.org/details/asm_magazine"
+ },
+ {
+  "identifier": "roplaystation",
+  "title": "RO Playstation",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 156,
+  "first": "2001-02-01",
+  "last": "2001-02-01",
+  "url": "https://archive.org/details/roplaystation"
+ },
+ {
+  "identifier": "hyper-magazine",
+  "title": "Hyper Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 156,
+  "first": "1994-01-01",
+  "last": "2006-04-01",
+  "url": "https://archive.org/details/hyper-magazine"
+ },
+ {
+  "identifier": "bajtekmagazine",
+  "title": "Bajtek Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 156,
+  "first": "1985-01-01",
+  "last": "1995-12-01",
+  "url": "https://archive.org/details/bajtekmagazine"
+ },
+ {
+  "identifier": "iomagazine",
+  "title": "I/O Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 155,
+  "first": "1981-01-01",
+  "last": "1982-05-01",
+  "url": "https://archive.org/details/iomagazine"
+ },
+ {
+  "identifier": "microsistemasbr",
+  "title": "Micro Sistemas (Brazil)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 154,
+  "first": "1900-01-01",
+  "last": "2020-06-16",
+  "url": "https://archive.org/details/microsistemasbr"
+ },
+ {
+  "identifier": "run-magazine",
+  "title": "RUN Magazine Archives",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 150,
+  "first": "1984-01-01",
+  "last": "2025-06-20",
+  "url": "https://archive.org/details/run-magazine"
+ },
+ {
+  "identifier": "personalcomputerworld",
+  "title": "Personal Computer World (UK)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 149,
+  "first": "1978-01-01",
+  "last": "2009-08-01",
+  "url": "https://archive.org/details/personalcomputerworld"
+ },
+ {
+  "identifier": "themicrouser",
+  "title": "The MicroUser Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 149,
+  "first": "1983-03-01",
+  "last": "1991-09-01",
+  "url": "https://archive.org/details/themicrouser"
+ },
+ {
+  "identifier": "usenix-login",
+  "title": "USENIX Archives: ;login: Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 149,
+  "first": "1975-07-30",
+  "last": "2000-12-01",
+  "url": "https://archive.org/details/usenix-login"
+ },
+ {
+  "identifier": "boardwatchmagazine",
+  "title": "Boardwatch Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 147,
+  "first": "1987-03-01",
+  "last": "1998-09-01",
+  "url": "https://archive.org/details/boardwatchmagazine"
+ },
+ {
+  "identifier": "hackerjournal_italian",
+  "title": "The Hacker Journal",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 142,
+  "first": "2002-06-01",
+  "last": "2011-01-01",
+  "url": "https://archive.org/details/hackerjournal_italian"
+ },
+ {
+  "identifier": "pcn-news-uk-mag",
+  "title": "Personal Computer News Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 142,
+  "first": "1983-01-01",
+  "last": "1985-02-16",
+  "url": "https://archive.org/details/pcn-news-uk-mag"
+ },
+ {
+  "identifier": "tiltmagazine",
+  "title": "Tilt Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 141,
+  "first": "1982-09-01",
+  "last": "2021-05-01",
+  "url": "https://archive.org/details/tiltmagazine"
+ },
+ {
+  "identifier": "home-computing-weekly",
+  "title": "Home Computing Weekly Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 141,
+  "first": "1983-01-01",
+  "last": "1983-12-06",
+  "url": "https://archive.org/details/home-computing-weekly"
+ },
+ {
+  "identifier": "amigajokergerman",
+  "title": "Amiga Joker (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 141,
+  "first": "1989-11-01",
+  "last": "1996-10-01",
+  "url": "https://archive.org/details/amigajokergerman"
+ },
+ {
+  "identifier": "hobby-consolas-magazine",
+  "title": "Hobby Consolas Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 140,
+  "first": "1991-12-01",
+  "last": "2013-05-01",
+  "url": "https://archive.org/details/hobby-consolas-magazine"
+ },
+ {
+  "identifier": "login-magazine",
+  "title": "Login Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 139,
+  "first": "1982-05-01",
+  "last": "2006-04-01",
+  "url": "https://archive.org/details/login-magazine"
+ },
+ {
+  "identifier": "computer_shopper",
+  "title": "Computer Shopper Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 139,
+  "first": "1984-04-01",
+  "last": "2002-04-01",
+  "url": "https://archive.org/details/computer_shopper"
+ },
+ {
+  "identifier": "gamemagazinesspanishmisc",
+  "title": "Miscellaneous Spanish Game Magazines",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 138,
+  "first": "1961-01-01",
+  "last": "2018-09-01",
+  "url": "https://archive.org/details/gamemagazinesspanishmisc"
+ },
+ {
+  "identifier": "ace-magazine",
+  "title": "ACE Magazine Archive",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 137,
+  "first": "1900-01-01",
+  "last": "1992-04-01",
+  "url": "https://archive.org/details/ace-magazine"
+ },
+ {
+  "identifier": "your-computer-magazine",
+  "title": "Your Computer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 137,
+  "first": "1968-01-01",
+  "last": "1992-06-01",
+  "url": "https://archive.org/details/your-computer-magazine"
+ },
+ {
+  "identifier": "kilobaudmagazine",
+  "title": "Kilobaud Microcomputing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 134,
+  "first": "1977-01-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/kilobaudmagazine"
+ },
+ {
+  "identifier": "macaddict",
+  "title": "MacAddict Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 133,
+  "first": "1996-09-01",
+  "last": "2005-12-01",
+  "url": "https://archive.org/details/macaddict"
+ },
+ {
+  "identifier": "magazine64",
+  "title": "Magazine 64",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 132,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/magazine64"
+ },
+ {
+  "identifier": "msx-fan-jp",
+  "title": "MSX•FAN",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 132,
+  "first": "1987-04-01",
+  "last": "1995-08-01",
+  "url": "https://archive.org/details/msx-fan-jp"
+ },
+ {
+  "identifier": "amigamagazin",
+  "title": "Amiga Magazin",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 132,
+  "first": "1986-06-01",
+  "last": "1997-06-01",
+  "url": "https://archive.org/details/amigamagazin"
+ },
+ {
+  "identifier": "amiga-world",
+  "title": "Amiga World Magazine",
+  "publisher": "I D G Communications",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 131,
+  "first": "1985-01-01",
+  "last": "1995-04-01",
+  "url": "https://archive.org/details/amiga-world"
+ },
+ {
+  "identifier": "compute-gazette",
+  "title": "Compute! Gazette (1983-1990)",
+  "publisher": "General Media International",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 131,
+  "first": "1983-07-01",
+  "last": "2026-08-06",
+  "url": "https://archive.org/details/compute-gazette"
+ },
+ {
+  "identifier": "revista-do-cd-rom-pt",
+  "title": "Revista Do CD-ROM Magazine (Portuguese)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 129,
+  "first": "1995-01-01",
+  "last": "2011-08-01",
+  "url": "https://archive.org/details/revista-do-cd-rom-pt"
+ },
+ {
+  "identifier": "pcenginefan",
+  "title": "PC Engine Fan",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 128,
+  "first": "1988-12-01",
+  "last": "1997-05-01",
+  "url": "https://archive.org/details/pcenginefan"
+ },
+ {
+  "identifier": "The_Home_Computer_Course",
+  "title": "The Home Computer Course",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 128,
+  "first": "1983-01-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/The_Home_Computer_Course"
+ },
+ {
+  "identifier": "dicasandtrquesparaplaystation",
+  "title": "Dicas & truques para PlayStation",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 126,
+  "first": "1998-12-01",
+  "last": "2009-04-01",
+  "url": "https://archive.org/details/dicasandtrquesparaplaystation"
+ },
+ {
+  "identifier": "wiz-magazine-hebrew",
+  "title": "Wiz Magazine (Hebrew)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 126,
+  "first": "1991-04-01",
+  "last": "2001-10-01",
+  "url": "https://archive.org/details/wiz-magazine-hebrew"
+ },
+ {
+  "identifier": "officialplaystationmagazine_au",
+  "title": "Official AU PlayStation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 125,
+  "first": "1997-01-01",
+  "last": "2026-03-10",
+  "url": "https://archive.org/details/officialplaystationmagazine_au"
+ },
+ {
+  "identifier": "thegamesmachine-magazine",
+  "title": "The Games Machine Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 125,
+  "first": "1987-01-01",
+  "last": "1990-08-01",
+  "url": "https://archive.org/details/thegamesmachine-magazine"
+ },
+ {
+  "identifier": "pcopen_italian",
+  "title": "PC Open Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 124,
+  "first": "1995-11-01",
+  "last": "2007-01-01",
+  "url": "https://archive.org/details/pcopen_italian"
+ },
+ {
+  "identifier": "pc-update-mag-aus",
+  "title": "PC Update Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 124,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/pc-update-mag-aus"
+ },
+ {
+  "identifier": "68microjournal",
+  "title": "68 Micro Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 124,
+  "first": "1979-02-01",
+  "last": "1990-01-01",
+  "url": "https://archive.org/details/68microjournal"
+ },
+ {
+  "identifier": "pcmaniamagazine",
+  "title": "PC Mania Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 123,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/pcmaniamagazine"
+ },
+ {
+  "identifier": "full-circle-magazine",
+  "title": "Full Circle Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 122,
+  "first": "2015-01-26",
+  "last": "2025-03-28",
+  "url": "https://archive.org/details/full-circle-magazine"
+ },
+ {
+  "identifier": "britishtelecommunications",
+  "title": "British Telecommunications Engineering",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 121,
+  "first": "1982-04-01",
+  "last": "1999-10-01",
+  "url": "https://archive.org/details/britishtelecommunications"
+ },
+ {
+  "identifier": "edge-magazine-uk",
+  "title": "EDGE UK Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 120,
+  "first": "2000-01-01",
+  "last": "2026-07-07",
+  "url": "https://archive.org/details/edge-magazine-uk"
+ },
+ {
+  "identifier": "gamemagazinesspanish",
+  "title": "Spanish Game Magazines",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 120,
+  "first": "1985-01-01",
+  "last": "2014-12-01",
+  "url": "https://archive.org/details/gamemagazinesspanish"
+ },
+ {
+  "identifier": "xtrempcmagazine",
+  "title": "XtremPC Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 120,
+  "first": "1999-01-01",
+  "last": "2010-01-01",
+  "url": "https://archive.org/details/xtrempcmagazine"
+ },
+ {
+  "identifier": "megaconsolas-magazine-sp",
+  "title": "Megaconsolas Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 119,
+  "first": "2002-10-01",
+  "last": "2019-12-01",
+  "url": "https://archive.org/details/megaconsolas-magazine-sp"
+ },
+ {
+  "identifier": "homepc-mag-rus",
+  "title": "HomePC Magazine (Russian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 119,
+  "first": "1996-07-01",
+  "last": "2008-06-01",
+  "url": "https://archive.org/details/homepc-mag-rus"
+ },
+ {
+  "identifier": "giochiperilmiocomputer",
+  "title": "Giochi Per Il Mio Computer",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 118,
+  "first": "1997-05-01",
+  "last": "2012-08-01",
+  "url": "https://archive.org/details/giochiperilmiocomputer"
+ },
+ {
+  "identifier": "players-magazine",
+  "title": "Players Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 117,
+  "first": "2014-05-01",
+  "last": "2025-12-01",
+  "url": "https://archive.org/details/players-magazine"
+ },
+ {
+  "identifier": "micromania-segunda-epoca",
+  "title": "Micromania Segunda Epoca (Spanish)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 117,
+  "first": "1993-01-01",
+  "last": "2000-01-01",
+  "url": "https://archive.org/details/micromania-segunda-epoca"
+ },
+ {
+  "identifier": "pctoday-magazine",
+  "title": "PC Today Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 117,
+  "first": "1992-03-01",
+  "last": "2013-12-01",
+  "url": "https://archive.org/details/pctoday-magazine"
+ },
+ {
+  "identifier": "game_exe_magazine",
+  "title": "Game.EXE Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 116,
+  "first": "1997-01-01",
+  "last": "2006-06-01",
+  "url": "https://archive.org/details/game_exe_magazine"
+ },
+ {
+  "identifier": "segasaturn-magazine-jp",
+  "title": "Sega Saturn Magazine (Japanese)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 115,
+  "first": "1994-01-01",
+  "last": "1998-11-06",
+  "url": "https://archive.org/details/segasaturn-magazine-jp"
+ },
+ {
+  "identifier": "bsd_magazine",
+  "title": "BSD Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 115,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/bsd_magazine"
+ },
+ {
+  "identifier": "ct-magazine",
+  "title": "c't: Magazin Fur Computer Technik",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 114,
+  "first": "1983-01-01",
+  "last": "1988-11-01",
+  "url": "https://archive.org/details/ct-magazine"
+ },
+ {
+  "identifier": "k-kappa-rivista",
+  "title": "K Magazine (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 113,
+  "first": "1988-12-01",
+  "last": "2000-01-01",
+  "url": "https://archive.org/details/k-kappa-rivista"
+ },
+ {
+  "identifier": "nextgeneration",
+  "title": "Next Generation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 113,
+  "first": "1995-01-01",
+  "last": "1999-08-01",
+  "url": "https://archive.org/details/nextgeneration"
+ },
+ {
+  "identifier": "psxextrememagazine-pol",
+  "title": "PSX Extreme (Polish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 113,
+  "first": "2023-07-01",
+  "last": "2023-11-01",
+  "url": "https://archive.org/details/psxextrememagazine-pol"
+ },
+ {
+  "identifier": "supergamepowerbr",
+  "title": "Super GamePower (BR)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 112,
+  "first": "1994-04-01",
+  "last": "2002-11-01",
+  "url": "https://archive.org/details/supergamepowerbr"
+ },
+ {
+  "identifier": "comptiq-magazine",
+  "title": "Comptiq Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 111,
+  "first": "1986-01-01",
+  "last": "2024-07-23",
+  "url": "https://archive.org/details/comptiq-magazine"
+ },
+ {
+  "identifier": "your-sinclair-magazine",
+  "title": "Your Sinclair Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 111,
+  "first": "1986-03-01",
+  "last": "2024-12-15",
+  "url": "https://archive.org/details/your-sinclair-magazine"
+ },
+ {
+  "identifier": "amigashopper",
+  "title": "Amiga Shopper",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 110,
+  "first": "1991-04-01",
+  "last": "1997-01-01",
+  "url": "https://archive.org/details/amigashopper"
+ },
+ {
+  "identifier": "cuamiga-magazine",
+  "title": "CU Amiga Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 110,
+  "first": "1990-03-01",
+  "last": "1998-10-01",
+  "url": "https://archive.org/details/cuamiga-magazine"
+ },
+ {
+  "identifier": "polishplaymagazine",
+  "title": "Play Magazine (Polish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 109,
+  "first": "2000-01-01",
+  "last": "2000-01-01",
+  "url": "https://archive.org/details/polishplaymagazine"
+ },
+ {
+  "identifier": "msxmagazinejp",
+  "title": "MSX Magazine (Japanese)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 109,
+  "first": "1983-10-06",
+  "last": "2005-05-12",
+  "url": "https://archive.org/details/msxmagazinejp"
+ },
+ {
+  "identifier": "applicando",
+  "title": "Applicando Magazine (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 109,
+  "first": "1983-05-01",
+  "last": "2014-05-01",
+  "url": "https://archive.org/details/applicando"
+ },
+ {
+  "identifier": "nintendomagazinesystem",
+  "title": "Nintendo Magazine System",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 107,
+  "first": "1992-01-01",
+  "last": "2026-01-16",
+  "url": "https://archive.org/details/nintendomagazinesystem"
+ },
+ {
+  "identifier": "happycomputer",
+  "title": "Happy Computer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 106,
+  "first": "2014-10-07",
+  "last": "2020-08-31",
+  "url": "https://archive.org/details/happycomputer"
+ },
+ {
+  "identifier": "computist",
+  "title": "Computist Magazine Archive",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 106,
+  "first": "1981-01-01",
+  "last": "1992-01-01",
+  "url": "https://archive.org/details/computist"
+ },
+ {
+  "identifier": "novaelectronica",
+  "title": "Nova Eletronica",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 106,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/novaelectronica"
+ },
+ {
+  "identifier": "swiat-gier-komputerowych",
+  "title": "Świat Gier Komputerowych",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 105,
+  "first": "1992-12-01",
+  "last": "2001-12-01",
+  "url": "https://archive.org/details/swiat-gier-komputerowych"
+ },
+ {
+  "identifier": "softside-magazine",
+  "title": "SoftSide Magazine",
+  "publisher": "Softside Publications",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 105,
+  "first": "1978-10-01",
+  "last": "1984-03-01",
+  "url": "https://archive.org/details/softside-magazine"
+ },
+ {
+  "identifier": "game-world-navigator",
+  "title": "Game World Navigator",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 104,
+  "first": "1997-01-01",
+  "last": "2007-09-01",
+  "url": "https://archive.org/details/game-world-navigator"
+ },
+ {
+  "identifier": "chinesegamemagazines",
+  "title": "A Chinese-Language Video Game Magazine Collection",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 104,
+  "first": "1982-01-01",
+  "last": "2020-05-01",
+  "url": "https://archive.org/details/chinesegamemagazines"
+ },
+ {
+  "identifier": "neogeoartwork",
+  "title": "Neo Geo Artbooks",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 103,
+  "first": "1990-01-01",
+  "last": "2003-01-01",
+  "url": "https://archive.org/details/neogeoartwork"
+ },
+ {
+  "identifier": "8000plus",
+  "title": "8000 Plus Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 103,
+  "first": "1986-10-01",
+  "last": "1991-12-01",
+  "url": "https://archive.org/details/8000plus"
+ },
+ {
+  "identifier": "pcplayer_germany",
+  "title": "PC Player Magazine (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 103,
+  "first": "1993-01-01",
+  "last": "2001-06-01",
+  "url": "https://archive.org/details/pcplayer_germany"
+ },
+ {
+  "identifier": "Electronique_et_Loisirs",
+  "title": "Electronique et Loisirs",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 103,
+  "first": "1999-05-01",
+  "last": "2016-12-01",
+  "url": "https://archive.org/details/Electronique_et_Loisirs"
+ },
+ {
+  "identifier": "game-magazine",
+  "title": "Game Magazine (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 100,
+  "first": "2005-11-01",
+  "last": "2014-11-01",
+  "url": "https://archive.org/details/game-magazine"
+ },
+ {
+  "identifier": "nours-magazine-complete",
+  "title": "Nours Magazine - Complete",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 99,
+  "first": "1993-07-30",
+  "last": "2006-03-30",
+  "url": "https://archive.org/details/nours-magazine-complete"
+ },
+ {
+  "identifier": "edgemagazinespanish",
+  "title": "Edge Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 99,
+  "first": "2019-11-10",
+  "last": "2019-11-10",
+  "url": "https://archive.org/details/edgemagazinespanish"
+ },
+ {
+  "identifier": "amigamagazineitalian",
+  "title": "Amiga Magazine (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 99,
+  "first": "1988-07-01",
+  "last": "1997-12-01",
+  "url": "https://archive.org/details/amigamagazineitalian"
+ },
+ {
+  "identifier": "papersoft",
+  "title": "Paper Soft (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 99,
+  "first": "1984-06-15",
+  "last": "1985-12-27",
+  "url": "https://archive.org/details/papersoft"
+ },
+ {
+  "identifier": "specialprogram",
+  "title": "Special Program (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 97,
+  "first": "1984-05-01",
+  "last": "1992-12-01",
+  "url": "https://archive.org/details/specialprogram"
+ },
+ {
+  "identifier": "avosmac-magazine",
+  "title": "A Vos Mac Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 97,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/avosmac-magazine"
+ },
+ {
+  "identifier": "pc-mania-magazine-bg",
+  "title": "PC Mania Magazine (Bulgarian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 96,
+  "first": "1992-11-01",
+  "last": "2005-12-01",
+  "url": "https://archive.org/details/pc-mania-magazine-bg"
+ },
+ {
+  "identifier": "megaforce",
+  "title": "Megaforce Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 96,
+  "first": "1993-10-01",
+  "last": "2026-08-06",
+  "url": "https://archive.org/details/megaforce"
+ },
+ {
+  "identifier": "spire-magazine-ru",
+  "title": "Spire Magazine (Russian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 96,
+  "first": "2000-08-01",
+  "last": "2013-12-01",
+  "url": "https://archive.org/details/spire-magazine-ru"
+ },
+ {
+  "identifier": "games-workshop-magazine-bg",
+  "title": "Games Workshop Magazine (Bulgarian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 95,
+  "first": "1998-05-01",
+  "last": "2008-02-01",
+  "url": "https://archive.org/details/games-workshop-magazine-bg"
+ },
+ {
+  "identifier": "playerone-magazine",
+  "title": "Player One Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 95,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/playerone-magazine"
+ },
+ {
+  "identifier": "igromania-magazine",
+  "title": "Igromania Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 94,
+  "first": "1997-09-01",
+  "last": "2009-04-01",
+  "url": "https://archive.org/details/igromania-magazine"
+ },
+ {
+  "identifier": "pcjoker-magazine-ger",
+  "title": "PC Joker Magazine (German)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 94,
+  "first": "1991-06-01",
+  "last": "2001-02-01",
+  "url": "https://archive.org/details/pcjoker-magazine-ger"
+ },
+ {
+  "identifier": "cro-hacker",
+  "title": "Hacker Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 94,
+  "first": "1994-11-01",
+  "last": "2004-06-01",
+  "url": "https://archive.org/details/cro-hacker"
+ },
+ {
+  "identifier": "coldfusion_developers_journal",
+  "title": "ColdFusion Developers Journal",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 94,
+  "first": "1999-01-01",
+  "last": "2007-05-01",
+  "url": "https://archive.org/details/coldfusion_developers_journal"
+ },
+ {
+  "identifier": "family-computing",
+  "title": "Family Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 94,
+  "first": "1983-01-01",
+  "last": "1990-11-01",
+  "url": "https://archive.org/details/family-computing"
+ },
+ {
+  "identifier": "64dream-magazine",
+  "title": "The 64 DREAM Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 93,
+  "first": "1977-10-21",
+  "last": "2001-04-01",
+  "url": "https://archive.org/details/64dream-magazine"
+ },
+ {
+  "identifier": "commodorecomputinginternational",
+  "title": "Commodore Computing International",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 93,
+  "first": "1982-01-01",
+  "last": "2023-01-08",
+  "url": "https://archive.org/details/commodorecomputinginternational"
+ },
+ {
+  "identifier": "computer-user-magazine-greek",
+  "title": "Computer User Magazine (Greek)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 93,
+  "first": "1990-02-01",
+  "last": "1998-07-01",
+  "url": "https://archive.org/details/computer-user-magazine-greek"
+ },
+ {
+  "identifier": "analog-computing-magazine",
+  "title": "A.N.A.L.O.G. Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 91,
+  "first": "1981-01-01",
+  "last": "1989-12-01",
+  "url": "https://archive.org/details/analog-computing-magazine"
+ },
+ {
+  "identifier": "your-computer-mag-aus",
+  "title": "Your Computer Magazine (Australian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 91,
+  "first": "1981-05-01",
+  "last": "1996-02-01",
+  "url": "https://archive.org/details/your-computer-mag-aus"
+ },
+ {
+  "identifier": "neogeofreakjp",
+  "title": "Neo Geo Freak (Japan)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 90,
+  "first": "1995-05-20",
+  "last": "2005-01-01",
+  "url": "https://archive.org/details/neogeofreakjp"
+ },
+ {
+  "identifier": "walmart-gamecenter-magazine",
+  "title": "Walmart GameCenter Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 90,
+  "first": "2017-01-01",
+  "last": "2026-04-27",
+  "url": "https://archive.org/details/walmart-gamecenter-magazine"
+ },
+ {
+  "identifier": "commodore_computer_club",
+  "title": "Commodore Computer Club (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 90,
+  "first": "1982-09-01",
+  "last": "1991-10-01",
+  "url": "https://archive.org/details/commodore_computer_club"
+ },
+ {
+  "identifier": "amstrad_computer_user",
+  "title": "Amstrad Computer User",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 90,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/amstrad_computer_user"
+ },
+ {
+  "identifier": "computerpress",
+  "title": "КомпьютерПресс",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 90,
+  "first": "1989-02-01",
+  "last": "2013-03-01",
+  "url": "https://archive.org/details/computerpress"
+ },
+ {
+  "identifier": "superitalian",
+  "title": "Super Magazine Collection (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 90,
+  "first": "1984-06-01",
+  "last": "2023-04-23",
+  "url": "https://archive.org/details/superitalian"
+ },
+ {
+  "identifier": "amigaaction",
+  "title": "Amiga Action Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 90,
+  "first": "1989-01-01",
+  "last": "2021-07-01",
+  "url": "https://archive.org/details/amigaaction"
+ },
+ {
+  "identifier": "psxmagazine",
+  "title": "PlayStation Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 89,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/psxmagazine"
+ },
+ {
+  "identifier": "popcom-magazine",
+  "title": "POPCOM Magazine (Japanese)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 89,
+  "first": "1986-10-01",
+  "last": "1994-01-01",
+  "url": "https://archive.org/details/popcom-magazine"
+ },
+ {
+  "identifier": "computergamereview",
+  "title": "Computer Game Review",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 89,
+  "first": "1991-08-01",
+  "last": "2026-08-03",
+  "url": "https://archive.org/details/computergamereview"
+ },
+ {
+  "identifier": "compileclub-magazine-jp",
+  "title": "Compile Club Magazine (Japanese)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 89,
+  "first": "1988-01-01",
+  "last": "2018-01-01",
+  "url": "https://archive.org/details/compileclub-magazine-jp"
+ },
+ {
+  "identifier": "zzap-italia",
+  "title": "Zzap! (Italia)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 88,
+  "first": "1986-05-01",
+  "last": "2021-02-01",
+  "url": "https://archive.org/details/zzap-italia"
+ },
+ {
+  "identifier": "interfaceage",
+  "title": "Interface Age",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 88,
+  "first": "1976-01-01",
+  "last": "1983-02-01",
+  "url": "https://archive.org/details/interfaceage"
+ },
+ {
+  "identifier": "pctechjournal",
+  "title": "PC Tech Journal",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 88,
+  "first": "1983-01-01",
+  "last": "1989-01-01",
+  "url": "https://archive.org/details/pctechjournal"
+ },
+ {
+  "identifier": "game_power_italian",
+  "title": "Game Power (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 87,
+  "first": "1991-12-01",
+  "last": "1997-11-01",
+  "url": "https://archive.org/details/game_power_italian"
+ },
+ {
+  "identifier": "saturn-fan-magazine",
+  "title": "Saturn Fan Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 87,
+  "first": "1995-01-01",
+  "last": "1998-07-24",
+  "url": "https://archive.org/details/saturn-fan-magazine"
+ },
+ {
+  "identifier": "dr_dobbs_journal",
+  "title": "Dr Dobb's Journal",
+  "publisher": "UBM LLC",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 87,
+  "first": "1976-01-01",
+  "last": "1998-07-01",
+  "url": "https://archive.org/details/dr_dobbs_journal"
+ },
+ {
+  "identifier": "internet_kalauz",
+  "title": "Internet Kalauz",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 87,
+  "first": "1996-02-01",
+  "last": "2004-11-01",
+  "url": "https://archive.org/details/internet_kalauz"
+ },
+ {
+  "identifier": "dreamcast-mag-paragon",
+  "title": "Dreamcast Magazine (Paragon Publishing)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 86,
+  "first": "1999-01-01",
+  "last": "2002-06-01",
+  "url": "https://archive.org/details/dreamcast-mag-paragon"
+ },
+ {
+  "identifier": "newatariuserpage6",
+  "title": "New Atari User/Page 6",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 86,
+  "first": "1982-01-01",
+  "last": "1982-01-01",
+  "url": "https://archive.org/details/newatariuserpage6"
+ },
+ {
+  "identifier": "micronews-french",
+  "title": "Micronews",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 86,
+  "first": "1986-11-01",
+  "last": "1992-01-01",
+  "url": "https://archive.org/details/micronews-french"
+ },
+ {
+  "identifier": "gamepowermagazine",
+  "title": "Game Power Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 85,
+  "first": "1992-07-01",
+  "last": "1994-03-01",
+  "url": "https://archive.org/details/gamepowermagazine"
+ },
+ {
+  "identifier": "windowsitpro",
+  "title": "Windows IT Pro Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 85,
+  "first": "2007-01-01",
+  "last": "2014-04-11",
+  "url": "https://archive.org/details/windowsitpro"
+ },
+ {
+  "identifier": "computer-kurs",
+  "title": "Computer Kurs Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 85,
+  "first": "1984-01-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/computer-kurs"
+ },
+ {
+  "identifier": "coincascadeltd",
+  "title": "Coin Cascade Limited Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 84,
+  "first": "1990-03-01",
+  "last": "1999-08-01",
+  "url": "https://archive.org/details/coincascadeltd"
+ },
+ {
+  "identifier": "personalcomputingmagazine",
+  "title": "Personal Computing magazine",
+  "publisher": "Personal Computing Magazine",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 84,
+  "first": "1977-01-01",
+  "last": "1986-07-01",
+  "url": "https://archive.org/details/personalcomputingmagazine"
+ },
+ {
+  "identifier": "sega-pro-magazine",
+  "title": "Sega Pro Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 83,
+  "first": "1991-11-01",
+  "last": "2024-09-06",
+  "url": "https://archive.org/details/sega-pro-magazine"
+ },
+ {
+  "identifier": "gekkanpcengine",
+  "title": "Gekkan PC Engine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 82,
+  "first": "1988-06-01",
+  "last": "1994-03-01",
+  "url": "https://archive.org/details/gekkanpcengine"
+ },
+ {
+  "identifier": "psextreme-magazine",
+  "title": "PSExtreme Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 82,
+  "first": "1996-12-01",
+  "last": "2026-04-18",
+  "url": "https://archive.org/details/psextreme-magazine"
+ },
+ {
+  "identifier": "incidermagazine",
+  "title": "Incider Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 82,
+  "first": "1983-01-01",
+  "last": "1991-01-01",
+  "url": "https://archive.org/details/incidermagazine"
+ },
+ {
+  "identifier": "die-datenschleuder-mag",
+  "title": "Die Datenschleuder Magazine (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 81,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/die-datenschleuder-mag"
+ },
+ {
+  "identifier": "sega-saturn-magazine",
+  "title": "Official Sega Saturn Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 80,
+  "first": "1995-02-01",
+  "last": "2026-01-06",
+  "url": "https://archive.org/details/sega-saturn-magazine"
+ },
+ {
+  "identifier": "mechanical-memories-mag",
+  "title": "Mechanical Memories",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 80,
+  "first": "1993-03-15",
+  "last": "1993-12-01",
+  "url": "https://archive.org/details/mechanical-memories-mag"
+ },
+ {
+  "identifier": "pcworlditalia",
+  "title": "PC World Italia",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 80,
+  "first": "2002-01-01",
+  "last": "2014-04-01",
+  "url": "https://archive.org/details/pcworlditalia"
+ },
+ {
+  "identifier": "hardware-mag-fr",
+  "title": "Hardware Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 80,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/hardware-mag-fr"
+ },
+ {
+  "identifier": "uploadmagazinebr",
+  "title": "INPUT Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 79,
+  "first": "1986-01-01",
+  "last": "1987-01-01",
+  "url": "https://archive.org/details/uploadmagazinebr"
+ },
+ {
+  "identifier": "micromagazine",
+  "title": "Micro Magazine",
+  "publisher": "Computerist, Inc., The",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 79,
+  "first": "1977-10-01",
+  "last": "1984-10-01",
+  "url": "https://archive.org/details/micromagazine"
+ },
+ {
+  "identifier": "videogamecomputerworld",
+  "title": "Videogame & Computer World",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 78,
+  "first": "1988-07-01",
+  "last": "1995-07-01",
+  "url": "https://archive.org/details/videogamecomputerworld"
+ },
+ {
+  "identifier": "planetstation",
+  "title": "Planetstation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 78,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/planetstation"
+ },
+ {
+  "identifier": "80-microcomputing-magazine",
+  "title": "80 Microcomputing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 78,
+  "first": "1900-01-01",
+  "last": "1988-03-01",
+  "url": "https://archive.org/details/80-microcomputing-magazine"
+ },
+ {
+  "identifier": "enigmaamigarun",
+  "title": "Enigma Amiga Run",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 78,
+  "first": "1987-12-01",
+  "last": "2001-05-01",
+  "url": "https://archive.org/details/enigmaamigarun"
+ },
+ {
+  "identifier": "jeux-strategie-magazine",
+  "title": "Jeux Strategie",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 77,
+  "first": "1980-01-01",
+  "last": "1990-07-01",
+  "url": "https://archive.org/details/jeux-strategie-magazine"
+ },
+ {
+  "identifier": "super-power-magazine-fin",
+  "title": "Super Power Magazine (Finnish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 77,
+  "first": "1995-01-01",
+  "last": "2025-03-05",
+  "url": "https://archive.org/details/super-power-magazine-fin"
+ },
+ {
+  "identifier": "secretservicemagazine",
+  "title": "Secret Service Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 77,
+  "first": "1993-01-01",
+  "last": "2001-11-01",
+  "url": "https://archive.org/details/secretservicemagazine"
+ },
+ {
+  "identifier": "computer-magazine",
+  "title": "IEEE Computer Magazine",
+  "publisher": "Institute of Electrical and Electronics Engineers Inc. IEEE",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 77,
+  "first": "1986-06-01",
+  "last": "1992-09-01",
+  "url": "https://archive.org/details/computer-magazine"
+ },
+ {
+  "identifier": "mean-machines-sega-magazine",
+  "title": "Mean Machines SEGA Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 76,
+  "first": "1992-10-01",
+  "last": "2024-11-23",
+  "url": "https://archive.org/details/mean-machines-sega-magazine"
+ },
+ {
+  "identifier": "it_hitparade",
+  "title": "Hit Parade (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 76,
+  "first": "1985-12-01",
+  "last": "1992-12-01",
+  "url": "https://archive.org/details/it_hitparade"
+ },
+ {
+  "identifier": "okpc-magazine-sp",
+  "title": "OK PC Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 76,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/okpc-magazine-sp"
+ },
+ {
+  "identifier": "cugs-archive",
+  "title": "Commodore Users Group of Saskatchewan",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 76,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/cugs-archive"
+ },
+ {
+  "identifier": "6502-micro-journal",
+  "title": "Micro 6502 Journal",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 76,
+  "first": "1977-10-01",
+  "last": "2026-05-01",
+  "url": "https://archive.org/details/6502-micro-journal"
+ },
+ {
+  "identifier": "xakep-hacker-mag",
+  "title": "Xakep Magazine (Russian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 76,
+  "first": "2000-01-01",
+  "last": "2013-04-03",
+  "url": "https://archive.org/details/xakep-hacker-mag"
+ },
+ {
+  "identifier": "amigakickstart",
+  "title": "Amiga Kickstart Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 75,
+  "first": "1987-01-01",
+  "last": "1996-01-01",
+  "url": "https://archive.org/details/amigakickstart"
+ },
+ {
+  "identifier": "infocommodoremagazine",
+  "title": "INFO Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 75,
+  "first": "1982-10-11",
+  "last": "1992-04-01",
+  "url": "https://archive.org/details/infocommodoremagazine"
+ },
+ {
+  "identifier": "software-gids-magazine",
+  "title": "Software Gids Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 75,
+  "first": "1986-12-01",
+  "last": "2017-06-14",
+  "url": "https://archive.org/details/software-gids-magazine"
+ },
+ {
+  "identifier": "videogiochi",
+  "title": "VideoGiochi",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 74,
+  "first": "1983-01-01",
+  "last": "2007-04-01",
+  "url": "https://archive.org/details/videogiochi"
+ },
+ {
+  "identifier": "consolemania",
+  "title": "Consolemania (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 74,
+  "first": "1991-10-01",
+  "last": "2000-10-01",
+  "url": "https://archive.org/details/consolemania"
+ },
+ {
+  "identifier": "totalmagazine",
+  "title": "Total! Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 74,
+  "first": "1992-01-01",
+  "last": "2024-11-13",
+  "url": "https://archive.org/details/totalmagazine"
+ },
+ {
+  "identifier": "gambler_magazine",
+  "title": "Gambler Magazine (Polish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 74,
+  "first": "1993-12-01",
+  "last": "1999-12-01",
+  "url": "https://archive.org/details/gambler_magazine"
+ },
+ {
+  "identifier": "zero-magazine",
+  "title": "Zero Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 74,
+  "first": "1989-12-01",
+  "last": "1992-09-01",
+  "url": "https://archive.org/details/zero-magazine"
+ },
+ {
+  "identifier": "segavisions",
+  "title": "Sega Visions Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 73,
+  "first": "1990-01-01",
+  "last": "1995-09-01",
+  "url": "https://archive.org/details/segavisions"
+ },
+ {
+  "identifier": "transactor-magazines",
+  "title": "The Transactor Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 73,
+  "first": "1978-01-01",
+  "last": "1989-08-01",
+  "url": "https://archive.org/details/transactor-magazines"
+ },
+ {
+  "identifier": "monitor-mag-ger",
+  "title": "Monitor Magazine (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 72,
+  "first": "1984-01-01",
+  "last": "2013-04-01",
+  "url": "https://archive.org/details/monitor-mag-ger"
+ },
+ {
+  "identifier": "amigauserinternational",
+  "title": "Amiga User International",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 71,
+  "first": "1989-01-01",
+  "last": "1997-01-01",
+  "url": "https://archive.org/details/amigauserinternational"
+ },
+ {
+  "identifier": "commodorevilag",
+  "title": "Commodore Világ Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 70,
+  "first": "1989-01-01",
+  "last": "1995-12-01",
+  "url": "https://archive.org/details/commodorevilag"
+ },
+ {
+  "identifier": "game-hihyou",
+  "title": "Game Hihyou Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 70,
+  "first": "1994-01-01",
+  "last": "2006-01-01",
+  "url": "https://archive.org/details/game-hihyou"
+ },
+ {
+  "identifier": "pcreviewmagazine",
+  "title": "PC Review Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 70,
+  "first": "1991-11-01",
+  "last": "1998-07-01",
+  "url": "https://archive.org/details/pcreviewmagazine"
+ },
+ {
+  "identifier": "pc-computing-magazine",
+  "title": "PC Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 70,
+  "first": "1988-08-01",
+  "last": "1998-07-20",
+  "url": "https://archive.org/details/pc-computing-magazine"
+ },
+ {
+  "identifier": "wireframe-magazine",
+  "title": "Wireframe",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 69,
+  "first": "2018-11-08",
+  "last": "2025-09-08",
+  "url": "https://archive.org/details/wireframe-magazine"
+ },
+ {
+  "identifier": "ahoymagazine",
+  "title": "Ahoy! magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 69,
+  "first": "1984-01-01",
+  "last": "1989-04-01",
+  "url": "https://archive.org/details/ahoymagazine"
+ },
+ {
+  "identifier": "dragon-user-magazine",
+  "title": "Dragon User Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 69,
+  "first": "1983-05-01",
+  "last": "1989-01-01",
+  "url": "https://archive.org/details/dragon-user-magazine"
+ },
+ {
+  "identifier": "ngnamco",
+  "title": "NG Namco Community Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 68,
+  "first": "1983-02-15",
+  "last": "2000-01-01",
+  "url": "https://archive.org/details/ngnamco"
+ },
+ {
+  "identifier": "inputmagazine",
+  "title": "Input Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 68,
+  "first": "1984-01-01",
+  "last": "1997-01-01",
+  "url": "https://archive.org/details/inputmagazine"
+ },
+ {
+  "identifier": "mean-machines-magazine",
+  "title": "Mean Machines Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 67,
+  "first": "1990-10-01",
+  "last": "1992-09-01",
+  "url": "https://archive.org/details/mean-machines-magazine"
+ },
+ {
+  "identifier": "xboxro",
+  "title": "XBOX RO y XBOX 360",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 66,
+  "first": "2005-03-01",
+  "last": "2005-03-01",
+  "url": "https://archive.org/details/xboxro"
+ },
+ {
+  "identifier": "officialukplaystationmagazine",
+  "title": "Official UK Playstation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 66,
+  "first": "1995-11-01",
+  "last": "2026-01-06",
+  "url": "https://archive.org/details/officialukplaystationmagazine"
+ },
+ {
+  "identifier": "marakatsu-pc-engine",
+  "title": "Marukatsu PC Engine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 66,
+  "first": "1989-01-01",
+  "last": "1994-03-01",
+  "url": "https://archive.org/details/marakatsu-pc-engine"
+ },
+ {
+  "identifier": "beep-megadrive",
+  "title": "Beep! Megadrive",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 66,
+  "first": "1989-04-01",
+  "last": "1995-01-01",
+  "url": "https://archive.org/details/beep-megadrive"
+ },
+ {
+  "identifier": "hackspacemagazine",
+  "title": "HackSpace Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 66,
+  "first": "2017-12-01",
+  "last": "2022-07-01",
+  "url": "https://archive.org/details/hackspacemagazine"
+ },
+ {
+  "identifier": "playstation-plus-magazine",
+  "title": "Playstation Plus Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 65,
+  "first": "1995-01-01",
+  "last": "2021-05-17",
+  "url": "https://archive.org/details/playstation-plus-magazine"
+ },
+ {
+  "identifier": "top-secret-magazine",
+  "title": "Top Secret Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 64,
+  "first": "1990-10-01",
+  "last": "2003-02-01",
+  "url": "https://archive.org/details/top-secret-magazine"
+ },
+ {
+  "identifier": "64magazine",
+  "title": "64 Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 64,
+  "first": "1997-01-01",
+  "last": "2026-04-07",
+  "url": "https://archive.org/details/64magazine"
+ },
+ {
+  "identifier": "xtreme-pc-mag-sp",
+  "title": "Xtreme PC (Spanish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 63,
+  "first": "1997-11-01",
+  "last": "2010-03-01",
+  "url": "https://archive.org/details/xtreme-pc-mag-sp"
+ },
+ {
+  "identifier": "nextlevelmag",
+  "title": "Next Level Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 62,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/nextlevelmag"
+ },
+ {
+  "identifier": "fun-generation-magazine",
+  "title": "Fun Generation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 62,
+  "first": "1995-11-01",
+  "last": "2026-04-03",
+  "url": "https://archive.org/details/fun-generation-magazine"
+ },
+ {
+  "identifier": "digitalpressmagazine",
+  "title": "Digital Press Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 62,
+  "first": "1991-09-01",
+  "last": "2009-01-01",
+  "url": "https://archive.org/details/digitalpressmagazine"
+ },
+ {
+  "identifier": "analog-computing-magazine-inserts",
+  "title": "Analog Computing Magazine Inserts",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 62,
+  "first": "1981-01-01",
+  "last": "1989-11-01",
+  "url": "https://archive.org/details/analog-computing-magazine-inserts"
+ },
+ {
+  "identifier": "trs80microcomputernews",
+  "title": "TRS-80 Microcomputer News",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 62,
+  "first": "1977-01-01",
+  "last": "1984-06-01",
+  "url": "https://archive.org/details/trs80microcomputernews"
+ },
+ {
+  "identifier": "commodore_gazette",
+  "title": "Commodore Gazette",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 62,
+  "first": "1986-02-01",
+  "last": "1994-11-01",
+  "url": "https://archive.org/details/commodore_gazette"
+ },
+ {
+  "identifier": "revistadreamcast",
+  "title": "Dreamcast Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 61,
+  "first": "2000-01-01",
+  "last": "2021-01-09",
+  "url": "https://archive.org/details/revistadreamcast"
+ },
+ {
+  "identifier": "jurassicnews",
+  "title": "Jurassic News",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 61,
+  "first": "2006-01-01",
+  "last": "2016-12-01",
+  "url": "https://archive.org/details/jurassicnews"
+ },
+ {
+  "identifier": "cpc-magazine-french",
+  "title": "CPC Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 61,
+  "first": "1986-04-01",
+  "last": "1990-01-01",
+  "url": "https://archive.org/details/cpc-magazine-french"
+ },
+ {
+  "identifier": "nzbitsandbytes",
+  "title": "NZ Bits and Bytes",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 61,
+  "first": "1982-09-01",
+  "last": "1988-04-01",
+  "url": "https://archive.org/details/nzbitsandbytes"
+ },
+ {
+  "identifier": "retrogamermagazine",
+  "title": "Retro Gamer Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 60,
+  "first": "2005-01-01",
+  "last": "2023-01-01",
+  "url": "https://archive.org/details/retrogamermagazine"
+ },
+ {
+  "identifier": "jacksonsoft",
+  "title": "Jackson Soft (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 60,
+  "first": "1985-01-01",
+  "last": "1988-01-01",
+  "url": "https://archive.org/details/jacksonsoft"
+ },
+ {
+  "identifier": "amigabyte",
+  "title": "Amiga Byte",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 60,
+  "first": "1988-05-01",
+  "last": "1996-01-01",
+  "url": "https://archive.org/details/amigabyte"
+ },
+ {
+  "identifier": "amigadream-french",
+  "title": "Amiga Dream Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 60,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/amigadream-french"
+ },
+ {
+  "identifier": "arkademagazine",
+  "title": "Arkade Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 59,
+  "first": "2009-06-01",
+  "last": "2013-01-01",
+  "url": "https://archive.org/details/arkademagazine"
+ },
+ {
+  "identifier": "iconesmagazine",
+  "title": "Icônes Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 59,
+  "first": "1985-11-01",
+  "last": "1996-08-02",
+  "url": "https://archive.org/details/iconesmagazine"
+ },
+ {
+  "identifier": "megasegamagazine",
+  "title": "Mega Sega Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 58,
+  "first": "1993-07-01",
+  "last": "1995-02-01",
+  "url": "https://archive.org/details/megasegamagazine"
+ },
+ {
+  "identifier": "guia-da-internet-mag-pt",
+  "title": "Guia Da internet.br (Portuguese)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 58,
+  "first": "1996-06-01",
+  "last": "2001-04-01",
+  "url": "https://archive.org/details/guia-da-internet-mag-pt"
+ },
+ {
+  "identifier": "io-programmo",
+  "title": "IO Programmo Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 58,
+  "first": "2017-10-01",
+  "last": "2017-10-01",
+  "url": "https://archive.org/details/io-programmo"
+ },
+ {
+  "identifier": "cube-magazine",
+  "title": "Cube Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 57,
+  "first": "2002-01-01",
+  "last": "2005-12-01",
+  "url": "https://archive.org/details/cube-magazine"
+ },
+ {
+  "identifier": "dengekiplaystation",
+  "title": "Dengeki Playstation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 57,
+  "first": "1995-01-10",
+  "last": "2005-01-14",
+  "url": "https://archive.org/details/dengekiplaystation"
+ },
+ {
+  "identifier": "bit_rivista",
+  "title": "Bit Magazine (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 57,
+  "first": "1978-12-01",
+  "last": "1997-04-01",
+  "url": "https://archive.org/details/bit_rivista"
+ },
+ {
+  "identifier": "gamersrepublic-magazine",
+  "title": "Gamers' Republic Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 56,
+  "first": "1998-06-01",
+  "last": "2026-07-31",
+  "url": "https://archive.org/details/gamersrepublic-magazine"
+ },
+ {
+  "identifier": "gamelive-pc-magazine",
+  "title": "Gamelive PC Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 56,
+  "first": "2000-09-01",
+  "last": "2003-04-30",
+  "url": "https://archive.org/details/gamelive-pc-magazine"
+ },
+ {
+  "identifier": "game-x_mag",
+  "title": "Game-X Magazine (Brazil)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 56,
+  "first": "1995-01-01",
+  "last": "2026-04-03",
+  "url": "https://archive.org/details/game-x_mag"
+ },
+ {
+  "identifier": "poms_magazine",
+  "title": "POMS Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 56,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/poms_magazine"
+ },
+ {
+  "identifier": "pc-klubas-magazine-lat",
+  "title": "PC Klubas Magazine (Lithuanian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 55,
+  "first": "2003-05-01",
+  "last": "2007-12-01",
+  "url": "https://archive.org/details/pc-klubas-magazine-lat"
+ },
+ {
+  "identifier": "megaconsole",
+  "title": "Mega Console",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 55,
+  "first": "1994-02-01",
+  "last": "2000-12-01",
+  "url": "https://archive.org/details/megaconsole"
+ },
+ {
+  "identifier": "pushstart-magazine-por",
+  "title": "Pushstart Magazine (Portuguese)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 55,
+  "first": "2010-09-01",
+  "last": "2015-07-01",
+  "url": "https://archive.org/details/pushstart-magazine-por"
+ },
+ {
+  "identifier": "micro80aumagazine",
+  "title": "Micro-80 Magazine (Australia)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 55,
+  "first": "1979-12-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/micro80aumagazine"
+ },
+ {
+  "identifier": "side-bn-mag-jp",
+  "title": "Side-BN (Japanese)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 54,
+  "first": "2008-02-01",
+  "last": "2014-03-01",
+  "url": "https://archive.org/details/side-bn-mag-jp"
+ },
+ {
+  "identifier": "commodore-horizons",
+  "title": "Commodore Horizons Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 54,
+  "first": "1983-12-01",
+  "last": "1986-03-01",
+  "url": "https://archive.org/details/commodore-horizons"
+ },
+ {
+  "identifier": "apple-magazine",
+  "title": "Apple Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 54,
+  "first": "2011-11-18",
+  "last": "2026-06-12",
+  "url": "https://archive.org/details/apple-magazine"
+ },
+ {
+  "identifier": "officialplaystationmagazine-rus",
+  "title": "Official PlayStation Magazine (Russian Edition)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 53,
+  "first": "1998-02-01",
+  "last": "2002-08-01",
+  "url": "https://archive.org/details/officialplaystationmagazine-rus"
+ },
+ {
+  "identifier": "roboticsage",
+  "title": "Robotics Age",
+  "publisher": "North American Tech, Inc.",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 53,
+  "first": "1979-07-01",
+  "last": "1986-12-01",
+  "url": "https://archive.org/details/roboticsage"
+ },
+ {
+  "identifier": "williametteapple",
+  "title": "Williamette Apple Connection Journal",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 53,
+  "first": "1987-05-01",
+  "last": "1987-05-01",
+  "url": "https://archive.org/details/williametteapple"
+ },
+ {
+  "identifier": "itec-magazine",
+  "title": "ITEC (Information Technology Electronics Computers) Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 53,
+  "first": "1984-01-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/itec-magazine"
+ },
+ {
+  "identifier": "atari-user-uk-magazine",
+  "title": "Atari User Magazine (UK)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 53,
+  "first": "1986-12-01",
+  "last": "1986-12-01",
+  "url": "https://archive.org/details/atari-user-uk-magazine"
+ },
+ {
+  "identifier": "banzzai-magazine",
+  "title": "Banzzai Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 53,
+  "first": "2021-09-27",
+  "last": "2024-08-20",
+  "url": "https://archive.org/details/banzzai-magazine"
+ },
+ {
+  "identifier": "360zine",
+  "title": "360 Zine Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 52,
+  "first": "2006-11-01",
+  "last": "2012-11-01",
+  "url": "https://archive.org/details/360zine"
+ },
+ {
+  "identifier": "gameshow-mag-turk",
+  "title": "Gameshow Magazine (Turkish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 52,
+  "first": "1999-11-01",
+  "last": "2023-07-28",
+  "url": "https://archive.org/details/gameshow-mag-turk"
+ },
+ {
+  "identifier": "pspro-magazine",
+  "title": "PlayStation Pro Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 52,
+  "first": "1996-12-01",
+  "last": "2000-10-01",
+  "url": "https://archive.org/details/pspro-magazine"
+ },
+ {
+  "identifier": "videogames-ugm-magazine",
+  "title": "VideoGames: The Ultimate Gaming Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 51,
+  "first": "1993-09-01",
+  "last": "2024-01-17",
+  "url": "https://archive.org/details/videogames-ugm-magazine"
+ },
+ {
+  "identifier": "reset-magazine",
+  "title": "Reset Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 51,
+  "first": "1997-05-01",
+  "last": "2001-07-01",
+  "url": "https://archive.org/details/reset-magazine"
+ },
+ {
+  "identifier": "sega-megazone",
+  "title": "Sega Megazone Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 51,
+  "first": "1988-12-01",
+  "last": "1995-12-01",
+  "url": "https://archive.org/details/sega-megazone"
+ },
+ {
+  "identifier": "gamechamp-magazine-ko",
+  "title": "Game Champ Magazine (Korean)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 51,
+  "first": "1992-12-01",
+  "last": "1998-10-01",
+  "url": "https://archive.org/details/gamechamp-magazine-ko"
+ },
+ {
+  "identifier": "kayproprofiles",
+  "title": "Kaypro Profiles",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 51,
+  "first": "1980-01-01",
+  "last": "1988-10-01",
+  "url": "https://archive.org/details/kayproprofiles"
+ },
+ {
+  "identifier": "p3zine-magazine",
+  "title": "P3Zine Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 50,
+  "first": "2007-04-01",
+  "last": "2012-11-01",
+  "url": "https://archive.org/details/p3zine-magazine"
+ },
+ {
+  "identifier": "superpc",
+  "title": "Super PC",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 50,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/superpc"
+ },
+ {
+  "identifier": "computervideogiochi",
+  "title": "Computer + Video Giochi Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 50,
+  "first": "1991-07-01",
+  "last": "2014-09-01",
+  "url": "https://archive.org/details/computervideogiochi"
+ },
+ {
+  "identifier": "pc-club-magazine-bg",
+  "title": "PC Club Magazine (Bulgarian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 50,
+  "first": "2000-10-01",
+  "last": "2004-12-01",
+  "url": "https://archive.org/details/pc-club-magazine-bg"
+ },
+ {
+  "identifier": "megatech-mag-uk",
+  "title": "Megatech Magazine (UK)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 50,
+  "first": "1991-12-01",
+  "last": "1995-07-01",
+  "url": "https://archive.org/details/megatech-mag-uk"
+ },
+ {
+  "identifier": "amstar-magazine",
+  "title": "Amstar Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 50,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/amstar-magazine"
+ },
+ {
+  "identifier": "totalgameboy",
+  "title": "Total Game Boy Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 49,
+  "first": "1998-01-01",
+  "last": "2026-01-16",
+  "url": "https://archive.org/details/totalgameboy"
+ },
+ {
+  "identifier": "actionplusmagazine",
+  "title": "Action Plus Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 49,
+  "first": "1998-02-01",
+  "last": "2003-05-01",
+  "url": "https://archive.org/details/actionplusmagazine"
+ },
+ {
+  "identifier": "amiga-mag-dutch",
+  "title": "Amiga Magazine (Dutch)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 49,
+  "first": "1989-01-01",
+  "last": "1997-01-01",
+  "url": "https://archive.org/details/amiga-mag-dutch"
+ },
+ {
+  "identifier": "bbsmagazine",
+  "title": "BBS Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 49,
+  "first": "1992-05-01",
+  "last": "1996-06-01",
+  "url": "https://archive.org/details/bbsmagazine"
+ },
+ {
+  "identifier": "pcgzine-magazine",
+  "title": "PCGZine Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 48,
+  "first": "2006-11-01",
+  "last": "2012-10-01",
+  "url": "https://archive.org/details/pcgzine-magazine"
+ },
+ {
+  "identifier": "softalkapple",
+  "title": "Softalk magazine",
+  "publisher": "SoftalkApple.com, home of the Softalk Apple Project",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 48,
+  "first": "1980-09-01",
+  "last": "1984-08-01",
+  "url": "https://archive.org/details/softalkapple"
+ },
+ {
+  "identifier": "nintendoagezine",
+  "title": "Nintendo Age eZine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 47,
+  "first": "2007-09-01",
+  "last": "2017-04-01",
+  "url": "https://archive.org/details/nintendoagezine"
+ },
+ {
+  "identifier": "todojuegos-mag-sp",
+  "title": "AllGames Hardcore Opinion (Spanish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 46,
+  "first": "2014-05-01",
+  "last": "2016-06-01",
+  "url": "https://archive.org/details/todojuegos-mag-sp"
+ },
+ {
+  "identifier": "marcaplayer-magazine",
+  "title": "Marca Player Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 46,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/marcaplayer-magazine"
+ },
+ {
+  "identifier": "msx-extra-magazine",
+  "title": "MSX Extra Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 46,
+  "first": "1985-01-01",
+  "last": "1991-12-01",
+  "url": "https://archive.org/details/msx-extra-magazine"
+ },
+ {
+  "identifier": "80usmagazine",
+  "title": "80 U.S. Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 46,
+  "first": "1979-01-01",
+  "last": "1984-03-01",
+  "url": "https://archive.org/details/80usmagazine"
+ },
+ {
+  "identifier": "famitsu-xbox",
+  "title": "Famitsu Xbox Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 45,
+  "first": "2002-01-01",
+  "last": "2005-10-01",
+  "url": "https://archive.org/details/famitsu-xbox"
+ },
+ {
+  "identifier": "gamecriticism",
+  "title": "Game Hihyō (ゲーム批評) / Game Criticism Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 45,
+  "first": "1995-01-01",
+  "last": "2002-03-01",
+  "url": "https://archive.org/details/gamecriticism"
+ },
+ {
+  "identifier": "pcwmagazine",
+  "title": "L'Echo du PCW",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 45,
+  "first": "1986-07-01",
+  "last": "2019-01-01",
+  "url": "https://archive.org/details/pcwmagazine"
+ },
+ {
+  "identifier": "pcnovice-magazine",
+  "title": "PC Novice Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 45,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/pcnovice-magazine"
+ },
+ {
+  "identifier": "nforce-magazine",
+  "title": "N-Force Magazine (SNES and NES)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 44,
+  "first": "1992-07-01",
+  "last": "1994-12-01",
+  "url": "https://archive.org/details/nforce-magazine"
+ },
+ {
+  "identifier": "egm2magazine",
+  "title": "EGM2 Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 44,
+  "first": "1994-07-01",
+  "last": "2023-12-31",
+  "url": "https://archive.org/details/egm2magazine"
+ },
+ {
+  "identifier": "computer-shopper-atari",
+  "title": "Computer Shopper: Atari Excerpts",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 44,
+  "first": "1985-01-01",
+  "last": "1989-12-01",
+  "url": "https://archive.org/details/computer-shopper-atari"
+ },
+ {
+  "identifier": "zxcomputing-magazine",
+  "title": "ZX Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 43,
+  "first": "1982-06-01",
+  "last": "1987-06-01",
+  "url": "https://archive.org/details/zxcomputing-magazine"
+ },
+ {
+  "identifier": "neo-plus-magazine-pol",
+  "title": "Neo Plus Magazine (Polish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 42,
+  "first": "1998-07-01",
+  "last": "2001-12-01",
+  "url": "https://archive.org/details/neo-plus-magazine-pol"
+ },
+ {
+  "identifier": "gamesmasteritalia",
+  "title": "Games Master (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 42,
+  "first": "1997-12-01",
+  "last": "2026-07-30",
+  "url": "https://archive.org/details/gamesmasteritalia"
+ },
+ {
+  "identifier": "commodore-revue",
+  "title": "Commodore Revue Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 42,
+  "first": "1989-12-01",
+  "last": "1995-01-01",
+  "url": "https://archive.org/details/commodore-revue"
+ },
+ {
+  "identifier": "start-magazine",
+  "title": "STart Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 42,
+  "first": "1986-01-01",
+  "last": "1990-01-01",
+  "url": "https://archive.org/details/start-magazine"
+ },
+ {
+  "identifier": "peekermagazine",
+  "title": "Peeker Magazine: Magazin Fur Apple-Computer",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 42,
+  "first": "1984-01-01",
+  "last": "1987-03-01",
+  "url": "https://archive.org/details/peekermagazine"
+ },
+ {
+  "identifier": "zx-magazine-spanish",
+  "title": "ZX Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 41,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/zx-magazine-spanish"
+ },
+ {
+  "identifier": "led-micro-magazine",
+  "title": "LED Micro Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 41,
+  "first": "1983-06-01",
+  "last": "1987-06-01",
+  "url": "https://archive.org/details/led-micro-magazine"
+ },
+ {
+  "identifier": "gamers-magazine-pol",
+  "title": "Gamers Magazine (Polish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 40,
+  "first": "2012-06-01",
+  "last": "2015-10-01",
+  "url": "https://archive.org/details/gamers-magazine-pol"
+ },
+ {
+  "identifier": "electricbrain",
+  "title": "PC Engine Fanatics, Console Ma'zine, Electric Brain, Games Amusement Pleasure",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 40,
+  "first": "1989-04-01",
+  "last": "1995-06-01",
+  "url": "https://archive.org/details/electricbrain"
+ },
+ {
+  "identifier": "topkidsmagazine",
+  "title": "Top Kids Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 40,
+  "first": "1994-01-01",
+  "last": "1995-01-01",
+  "url": "https://archive.org/details/topkidsmagazine"
+ },
+ {
+  "identifier": "happycomputer-magazine",
+  "title": "HappyComputer (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 40,
+  "first": "1983-12-01",
+  "last": "2024-03-16",
+  "url": "https://archive.org/details/happycomputer-magazine"
+ },
+ {
+  "identifier": "dreamplanet-magazine",
+  "title": "DreamPlanet Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 39,
+  "first": "1999-11-01",
+  "last": "2001-04-01",
+  "url": "https://archive.org/details/dreamplanet-magazine"
+ },
+ {
+  "identifier": "gamervip-magazine-sp",
+  "title": "Gamer VIP Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 39,
+  "first": "2012-02-01",
+  "last": "2016-01-01",
+  "url": "https://archive.org/details/gamervip-magazine-sp"
+ },
+ {
+  "identifier": "stactionmagazine",
+  "title": "ST Action Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 39,
+  "first": "1988-05-01",
+  "last": "1993-12-01",
+  "url": "https://archive.org/details/stactionmagazine"
+ },
+ {
+  "identifier": "backstab-magazine-french",
+  "title": "Backstab Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 39,
+  "first": "1998-01-01",
+  "last": "2005-01-01",
+  "url": "https://archive.org/details/backstab-magazine-french"
+ },
+ {
+  "identifier": "computer-shopper-2000s",
+  "title": "Computer Shopper: Later Years",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 39,
+  "first": "2000-07-01",
+  "last": "2002-04-01",
+  "url": "https://archive.org/details/computer-shopper-2000s"
+ },
+ {
+  "identifier": "amtix-magazine",
+  "title": "Amtix Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 39,
+  "first": "1985-10-01",
+  "last": "1987-12-01",
+  "url": "https://archive.org/details/amtix-magazine"
+ },
+ {
+  "identifier": "atariexplorer",
+  "title": "Atari Explorer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 39,
+  "first": "1985-02-01",
+  "last": "1993-01-01",
+  "url": "https://archive.org/details/atariexplorer"
+ },
+ {
+  "identifier": "apple2000",
+  "title": "Apple 2000 Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 38,
+  "first": "1986-08-01",
+  "last": "1998-06-01",
+  "url": "https://archive.org/details/apple2000"
+ },
+ {
+  "identifier": "cevi-aktuell-c64-magazine",
+  "title": "Cevi-Aktuell Magazine (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 38,
+  "first": "2005-01-01",
+  "last": "2009-01-01",
+  "url": "https://archive.org/details/cevi-aktuell-c64-magazine"
+ },
+ {
+  "identifier": "planetplaystation",
+  "title": "Planet Playstation (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 37,
+  "first": "1999-01-01",
+  "last": "2002-06-01",
+  "url": "https://archive.org/details/planetplaystation"
+ },
+ {
+  "identifier": "cpumagazinebr",
+  "title": "CPU Magazine (Brazil)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 37,
+  "first": "1988-01-01",
+  "last": "1990-10-01",
+  "url": "https://archive.org/details/cpumagazinebr"
+ },
+ {
+  "identifier": "personalsoftware",
+  "title": "Personal Software (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 37,
+  "first": "1982-01-01",
+  "last": "1993-01-01",
+  "url": "https://archive.org/details/personalsoftware"
+ },
+ {
+  "identifier": "tuttocommodore",
+  "title": "Tutto Commodore",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 37,
+  "first": "1987-02-01",
+  "last": "1990-10-01",
+  "url": "https://archive.org/details/tuttocommodore"
+ },
+ {
+  "identifier": "hardcoregamer",
+  "title": "Hardcore Gamer Magazine Print Archive",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 36,
+  "first": "2005-06-01",
+  "last": "2010-01-01",
+  "url": "https://archive.org/details/hardcoregamer"
+ },
+ {
+  "identifier": "big-k-magazine",
+  "title": "Big K Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 36,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/big-k-magazine"
+ },
+ {
+  "identifier": "playgenerationmagazine",
+  "title": "Play Generation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 36,
+  "first": "2010-01-01",
+  "last": "2011-07-01",
+  "url": "https://archive.org/details/playgenerationmagazine"
+ },
+ {
+  "identifier": "todosega",
+  "title": "TodoSega",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 36,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/todosega"
+ },
+ {
+  "identifier": "startmicro",
+  "title": "Start Micro Micromagazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 36,
+  "first": "1992-11-01",
+  "last": "1995-10-01",
+  "url": "https://archive.org/details/startmicro"
+ },
+ {
+  "identifier": "imagnificisette",
+  "title": "I Magnifici Sette",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 35,
+  "first": "1985-04-01",
+  "last": "1988-05-01",
+  "url": "https://archive.org/details/imagnificisette"
+ },
+ {
+  "identifier": "thegamesmachine",
+  "title": "The Games Machine Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 35,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/thegamesmachine"
+ },
+ {
+  "identifier": "game-freaks-magazine",
+  "title": "Game Freaks Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 35,
+  "first": "2001-11-01",
+  "last": "2005-11-01",
+  "url": "https://archive.org/details/game-freaks-magazine"
+ },
+ {
+  "identifier": "amigaforcemagazine",
+  "title": "Amiga Force Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 35,
+  "first": "1992-01-01",
+  "last": "1994-03-01",
+  "url": "https://archive.org/details/amigaforcemagazine"
+ },
+ {
+  "identifier": "commodore-magazine",
+  "title": "Commodore Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 35,
+  "first": "1987-01-01",
+  "last": "1989-10-01",
+  "url": "https://archive.org/details/commodore-magazine"
+ },
+ {
+  "identifier": "ataristreview",
+  "title": "Atari ST Review",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 35,
+  "first": "1992-05-01",
+  "last": "1995-01-01",
+  "url": "https://archive.org/details/ataristreview"
+ },
+ {
+  "identifier": "cdinteractief",
+  "title": "CD Interactief (Netherlands)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 35,
+  "first": "1994-10-01",
+  "last": "1997-12-01",
+  "url": "https://archive.org/details/cdinteractief"
+ },
+ {
+  "identifier": "casualconnectmagazine",
+  "title": "Casual Connect Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 34,
+  "first": "2006-01-01",
+  "last": "2015-01-01",
+  "url": "https://archive.org/details/casualconnectmagazine"
+ },
+ {
+  "identifier": "micro-adventurer",
+  "title": "Micro Adventurer Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 34,
+  "first": "1983-11-01",
+  "last": "1985-03-01",
+  "url": "https://archive.org/details/micro-adventurer"
+ },
+ {
+  "identifier": "microbyte-magazine",
+  "title": "MicroByte Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 34,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/microbyte-magazine"
+ },
+ {
+  "identifier": "videogamesmagazine",
+  "title": "Video Games Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 33,
+  "first": "1982-08-01",
+  "last": "1984-05-01",
+  "url": "https://archive.org/details/videogamesmagazine"
+ },
+ {
+  "identifier": "lotek64magazine",
+  "title": "Lotek 64 Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 33,
+  "first": "2002-06-01",
+  "last": "2009-12-01",
+  "url": "https://archive.org/details/lotek64magazine"
+ },
+ {
+  "identifier": "win_dos_developers",
+  "title": "Windows/DOS Developer's Journal",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 33,
+  "first": "1991-12-01",
+  "last": "1995-08-01",
+  "url": "https://archive.org/details/win_dos_developers"
+ },
+ {
+  "identifier": "commodore_microcomputer",
+  "title": "Commodore Microcomputer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 33,
+  "first": "1981-02-01",
+  "last": "1986-11-01",
+  "url": "https://archive.org/details/commodore_microcomputer"
+ },
+ {
+  "identifier": "n64promagazine",
+  "title": "N64 Pro Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 32,
+  "first": "1997-12-01",
+  "last": "2000-03-01",
+  "url": "https://archive.org/details/n64promagazine"
+ },
+ {
+  "identifier": "playonlinemagazine",
+  "title": "Play Online Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 32,
+  "first": "1998-08-01",
+  "last": "2001-05-01",
+  "url": "https://archive.org/details/playonlinemagazine"
+ },
+ {
+  "identifier": "atgamer-magazine",
+  "title": "@GAMER Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 32,
+  "first": "2011-10-01",
+  "last": "2026-02-04",
+  "url": "https://archive.org/details/atgamer-magazine"
+ },
+ {
+  "identifier": "your64-magazine",
+  "title": "Your 64 Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 32,
+  "first": "1984-01-01",
+  "last": "1985-10-01",
+  "url": "https://archive.org/details/your64-magazine"
+ },
+ {
+  "identifier": "hpuxusr",
+  "title": "HP/UX USR Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 32,
+  "first": "1993-01-01",
+  "last": "1997-11-01",
+  "url": "https://archive.org/details/hpuxusr"
+ },
+ {
+  "identifier": "practicalcomputing",
+  "title": "Practical Computing Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 32,
+  "first": "1980-11-01",
+  "last": "1983-10-01",
+  "url": "https://archive.org/details/practicalcomputing"
+ },
+ {
+  "identifier": "compuservemagazine",
+  "title": "Compuserve Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 32,
+  "first": "1990-01-01",
+  "last": "1995-01-01",
+  "url": "https://archive.org/details/compuservemagazine"
+ },
+ {
+  "identifier": "dreamcastmagazine",
+  "title": "Dreamcast Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 31,
+  "first": "1999-01-29",
+  "last": "2001-03-01",
+  "url": "https://archive.org/details/dreamcastmagazine"
+ },
+ {
+  "identifier": "total64magazine",
+  "title": "Total 64 Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 31,
+  "first": "1997-01-01",
+  "last": "2025-12-20",
+  "url": "https://archive.org/details/total64magazine"
+ },
+ {
+  "identifier": "hardcoreapplemagazine",
+  "title": "Hardcore Apple Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 31,
+  "first": "1981-05-01",
+  "last": "1986-06-01",
+  "url": "https://archive.org/details/hardcoreapplemagazine"
+ },
+ {
+  "identifier": "sextantmagazine",
+  "title": "Sextant Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 31,
+  "first": "1982-03-01",
+  "last": "1987-11-01",
+  "url": "https://archive.org/details/sextantmagazine"
+ },
+ {
+  "identifier": "inputcommodore",
+  "title": "Input Commodore Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 31,
+  "first": "1985-09-01",
+  "last": "1987-06-01",
+  "url": "https://archive.org/details/inputcommodore"
+ },
+ {
+  "identifier": "amiga-cd32-magazine",
+  "title": "Amiga CD32 Gamer",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 30,
+  "first": "1994-03-01",
+  "last": "2017-12-01",
+  "url": "https://archive.org/details/amiga-cd32-magazine"
+ },
+ {
+  "identifier": "komoda_magazine",
+  "title": "Komoda Magazine Collection",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 30,
+  "first": "2015-01-01",
+  "last": "2015-01-01",
+  "url": "https://archive.org/details/komoda_magazine"
+ },
+ {
+  "identifier": "electronic_games_italian",
+  "title": "Electronic Games (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 30,
+  "first": "1984-01-01",
+  "last": "1986-09-01",
+  "url": "https://archive.org/details/electronic_games_italian"
+ },
+ {
+  "identifier": "CPU-magazine",
+  "title": "Computer Programmert Zur Unterhaltung",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 30,
+  "first": "1983-09-01",
+  "last": "1996-01-01",
+  "url": "https://archive.org/details/CPU-magazine"
+ },
+ {
+  "identifier": "stlog_magazine",
+  "title": "ST-Log Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 30,
+  "first": "1986-04-01",
+  "last": "1989-10-01",
+  "url": "https://archive.org/details/stlog_magazine"
+ },
+ {
+  "identifier": "computerkontakt-magazine",
+  "title": "ComputerKontakt Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 30,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/computerkontakt-magazine"
+ },
+ {
+  "identifier": "computingnowmagazine",
+  "title": "Computing Now!",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 30,
+  "first": "1984-02-01",
+  "last": "1987-03-01",
+  "url": "https://archive.org/details/computingnowmagazine"
+ },
+ {
+  "identifier": "computernotes",
+  "title": "Computer Notes from Pertec",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 29,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/computernotes"
+ },
+ {
+  "identifier": "c-lehti",
+  "title": "C=Lehti",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 29,
+  "first": "1987-01-01",
+  "last": "1992-02-01",
+  "url": "https://archive.org/details/c-lehti"
+ },
+ {
+  "identifier": "amigaformatmagazine",
+  "title": "Amiga Format Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 28,
+  "first": "1990-01-01",
+  "last": "1995-10-01",
+  "url": "https://archive.org/details/amigaformatmagazine"
+ },
+ {
+  "identifier": "computersandelectronics",
+  "title": "Computers and Electronics",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 28,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/computersandelectronics"
+ },
+ {
+  "identifier": "commodore-world",
+  "title": "Commodore World Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 28,
+  "first": "1984-10-01",
+  "last": "1994-04-01",
+  "url": "https://archive.org/details/commodore-world"
+ },
+ {
+  "identifier": "listprogrammi",
+  "title": "LIST: Programmi per il tuo home computer",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 28,
+  "first": "1984-01-01",
+  "last": "1989-11-01",
+  "url": "https://archive.org/details/listprogrammi"
+ },
+ {
+  "identifier": "computergamermagazine",
+  "title": "Computer Gamer Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 27,
+  "first": "1986-02-01",
+  "last": "1987-06-01",
+  "url": "https://archive.org/details/computergamermagazine"
+ },
+ {
+  "identifier": "superactionmagazine",
+  "title": "Super Action Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 27,
+  "first": "1992-10-01",
+  "last": "1994-08-01",
+  "url": "https://archive.org/details/superactionmagazine"
+ },
+ {
+  "identifier": "handeelectronics",
+  "title": "H&E Computronics",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 27,
+  "first": "1979-06-01",
+  "last": "1983-08-01",
+  "url": "https://archive.org/details/handeelectronics"
+ },
+ {
+  "identifier": "megaforce-magazine",
+  "title": "MEGA Force Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 27,
+  "first": "2021-09-25",
+  "last": "2021-09-25",
+  "url": "https://archive.org/details/megaforce-magazine"
+ },
+ {
+  "identifier": "3domagazine",
+  "title": "3DO Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 26,
+  "first": "1994-07-01",
+  "last": "2024-01-13",
+  "url": "https://archive.org/details/3domagazine"
+ },
+ {
+  "identifier": "softsectormagazine",
+  "title": "Soft Sector Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 26,
+  "first": "1984-08-01",
+  "last": "1986-12-01",
+  "url": "https://archive.org/details/softsectormagazine"
+ },
+ {
+  "identifier": "appleorchardmagazine",
+  "title": "Apple Orchard Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 26,
+  "first": "1982-11-01",
+  "last": "1984-02-01",
+  "url": "https://archive.org/details/appleorchardmagazine"
+ },
+ {
+  "identifier": "commodore-power-play-magazine",
+  "title": "Commodore Power-Play Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 26,
+  "first": "1982-01-01",
+  "last": "2024-07-11",
+  "url": "https://archive.org/details/commodore-power-play-magazine"
+ },
+ {
+  "identifier": "megaplaymagazine",
+  "title": "Mega Play Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 25,
+  "first": "1991-02-01",
+  "last": "1994-08-01",
+  "url": "https://archive.org/details/megaplaymagazine"
+ },
+ {
+  "identifier": "msxmicromagazine",
+  "title": "MSX Micro Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 25,
+  "first": "1980-01-01",
+  "last": "1988-06-01",
+  "url": "https://archive.org/details/msxmicromagazine"
+ },
+ {
+  "identifier": "zetamagazine",
+  "title": "Zeta Magazine (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 24,
+  "first": "1995-02-01",
+  "last": "2001-03-01",
+  "url": "https://archive.org/details/zetamagazine"
+ },
+ {
+  "identifier": "guidavideogiochi",
+  "title": "Guida Videogiochi",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 24,
+  "first": "1989-06-01",
+  "last": "1990-12-01",
+  "url": "https://archive.org/details/guidavideogiochi"
+ },
+ {
+  "identifier": "cdimagazine",
+  "title": "CDi Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 24,
+  "first": "1993-01-01",
+  "last": "1996-10-01",
+  "url": "https://archive.org/details/cdimagazine"
+ },
+ {
+  "identifier": "videogamingillustrated",
+  "title": "Video Gaming and Computer Gaming Illustrated",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 24,
+  "first": "1982-08-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/videogamingillustrated"
+ },
+ {
+  "identifier": "ignunplugged",
+  "title": "IGN Unplugged",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 24,
+  "first": "2001-04-01",
+  "last": "2002-11-01",
+  "url": "https://archive.org/details/ignunplugged"
+ },
+ {
+  "identifier": "microetrobots-magazine",
+  "title": "Micro et Robots Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 24,
+  "first": "1983-11-01",
+  "last": "1985-03-01",
+  "url": "https://archive.org/details/microetrobots-magazine"
+ },
+ {
+  "identifier": "diehard-magazine",
+  "title": "Die Hard: The Flyer for Commodore 8bitters",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 23,
+  "first": "1992-05-01",
+  "last": "1994-10-01",
+  "url": "https://archive.org/details/diehard-magazine"
+ },
+ {
+  "identifier": "tpug-newsletter",
+  "title": "TPUG Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 23,
+  "first": "1984-03-01",
+  "last": "1986-08-01",
+  "url": "https://archive.org/details/tpug-newsletter"
+ },
+ {
+  "identifier": "clubcommodore",
+  "title": "Club Commodore",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 23,
+  "first": "1982-09-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/clubcommodore"
+ },
+ {
+  "identifier": "ataristuser",
+  "title": "Atari ST User Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 23,
+  "first": "1986-03-01",
+  "last": "1994-10-01",
+  "url": "https://archive.org/details/ataristuser"
+ },
+ {
+  "identifier": "dangerouswatersmagazine",
+  "title": "Dangerous Waters Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 22,
+  "first": "1999-01-01",
+  "last": "2000-01-01",
+  "url": "https://archive.org/details/dangerouswatersmagazine"
+ },
+ {
+  "identifier": "tremplin_micro",
+  "title": "Tremplin Micro",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 22,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/tremplin_micro"
+ },
+ {
+  "identifier": "goldenmagazine",
+  "title": "Golden Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 22,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/goldenmagazine"
+ },
+ {
+  "identifier": "workbenchmagazine",
+  "title": "Workbench Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 22,
+  "first": "1998-09-01",
+  "last": "2008-12-01",
+  "url": "https://archive.org/details/workbenchmagazine"
+ },
+ {
+  "identifier": "elbug-magazine",
+  "title": "Elbug Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 22,
+  "first": "1983-11-01",
+  "last": "1986-05-01",
+  "url": "https://archive.org/details/elbug-magazine"
+ },
+ {
+  "identifier": "syncmagazine",
+  "title": "Sync Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 22,
+  "first": "1984-01-01",
+  "last": "1984-01-01",
+  "url": "https://archive.org/details/syncmagazine"
+ },
+ {
+  "identifier": "telematch",
+  "title": "Telematch Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 22,
+  "first": "1983-01-01",
+  "last": "1983-01-01",
+  "url": "https://archive.org/details/telematch"
+ },
+ {
+  "identifier": "wadazine",
+  "title": "The Doom Master Wadazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 21,
+  "first": "2023-03-01",
+  "last": "2023-03-01",
+  "url": "https://archive.org/details/wadazine"
+ },
+ {
+  "identifier": "konami-look-magazine",
+  "title": "Konami LOOK Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 21,
+  "first": "1996-01-01",
+  "last": "2000-09-01",
+  "url": "https://archive.org/details/konami-look-magazine"
+ },
+ {
+  "identifier": "sandhills_reference_series",
+  "title": "Sandhills Reference Series",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 21,
+  "first": "1999-08-01",
+  "last": "2007-04-01",
+  "url": "https://archive.org/details/sandhills_reference_series"
+ },
+ {
+  "identifier": "goldenfrench",
+  "title": "Golden Magazine (French) (Apple-Related)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 21,
+  "first": "1983-12-01",
+  "last": "1986-12-01",
+  "url": "https://archive.org/details/goldenfrench"
+ },
+ {
+  "identifier": "homecomputermagazine",
+  "title": "Home Computer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 21,
+  "first": "1983-03-01",
+  "last": "1983-11-01",
+  "url": "https://archive.org/details/homecomputermagazine"
+ },
+ {
+  "identifier": "color-computer-magazine",
+  "title": "Color Computer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 21,
+  "first": "1983-03-01",
+  "last": "1984-10-01",
+  "url": "https://archive.org/details/color-computer-magazine"
+ },
+ {
+  "identifier": "sinclaircomputeritalian",
+  "title": "Sinclair Computer (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 21,
+  "first": "1984-02-01",
+  "last": "1985-12-01",
+  "url": "https://archive.org/details/sinclaircomputeritalian"
+ },
+ {
+  "identifier": "your-spectrum-magazine",
+  "title": "Your Spectrum Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 21,
+  "first": "1984-01-01",
+  "last": "1985-12-01",
+  "url": "https://archive.org/details/your-spectrum-magazine"
+ },
+ {
+  "identifier": "atari-corp-magazines",
+  "title": "Atari Corporate Magazines",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 21,
+  "first": "1983-01-01",
+  "last": "1984-06-01",
+  "url": "https://archive.org/details/atari-corp-magazines"
+ },
+ {
+  "identifier": "bnoursmagazine",
+  "title": "BNOURS Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 20,
+  "first": "2006-09-22",
+  "last": "2009-03-27",
+  "url": "https://archive.org/details/bnoursmagazine"
+ },
+ {
+  "identifier": "computergamesitalian",
+  "title": "Computer Games (Italian)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 20,
+  "first": "1984-04-01",
+  "last": "2026-08-02",
+  "url": "https://archive.org/details/computergamesitalian"
+ },
+ {
+  "identifier": "selectroundmagazines",
+  "title": "Select Round Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 20,
+  "first": "1993-09-01",
+  "last": "1995-05-01",
+  "url": "https://archive.org/details/selectroundmagazines"
+ },
+ {
+  "identifier": "amusement-life-magazine",
+  "title": "Amusement Life Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 20,
+  "first": "1983-01-01",
+  "last": "1984-09-01",
+  "url": "https://archive.org/details/amusement-life-magazine"
+ },
+ {
+  "identifier": "computronic_magazine",
+  "title": "Computronic Magazine (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 20,
+  "first": "1984-01-01",
+  "last": "1987-01-01",
+  "url": "https://archive.org/details/computronic_magazine"
+ },
+ {
+  "identifier": "tuxmagazine",
+  "title": "Tux Magazine Collection",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 20,
+  "first": "2005-03-01",
+  "last": "2006-12-01",
+  "url": "https://archive.org/details/tuxmagazine"
+ },
+ {
+  "identifier": "3dworldmagazine",
+  "title": "3D World Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 19,
+  "first": "2001-07-01",
+  "last": "2021-12-01",
+  "url": "https://archive.org/details/3dworldmagazine"
+ },
+ {
+  "identifier": "computerlanguage",
+  "title": "Computer Language",
+  "publisher": "CMP Media LLC",
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 19,
+  "first": "1984-09-01",
+  "last": "1985-07-01",
+  "url": "https://archive.org/details/computerlanguage"
+ },
+ {
+  "identifier": "totalamiga",
+  "title": "Total Amiga Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 19,
+  "first": "1998-01-01",
+  "last": "2005-01-01",
+  "url": "https://archive.org/details/totalamiga"
+ },
+ {
+  "identifier": "computer-age-magazine",
+  "title": "Computer Age Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 19,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/computer-age-magazine"
+ },
+ {
+  "identifier": "softworldmagazine",
+  "title": "Soft World Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 18,
+  "first": "1989-01-01",
+  "last": "2006-06-15",
+  "url": "https://archive.org/details/softworldmagazine"
+ },
+ {
+  "identifier": "todaymagazine",
+  "title": "Today Magazine (Compuserve)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 18,
+  "first": "1981-07-01",
+  "last": "1984-12-01",
+  "url": "https://archive.org/details/todaymagazine"
+ },
+ {
+  "identifier": "texas-instruments-magazines",
+  "title": "Texas Instruments Magazines",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 18,
+  "first": "1982-01-01",
+  "last": "1987-05-01",
+  "url": "https://archive.org/details/texas-instruments-magazines"
+ },
+ {
+  "identifier": "commodoreitalian",
+  "title": "Commodore (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 18,
+  "first": "1984-07-01",
+  "last": "1988-12-01",
+  "url": "https://archive.org/details/commodoreitalian"
+ },
+ {
+  "identifier": "unixreview",
+  "title": "Unix Review Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 18,
+  "first": "1984-04-01",
+  "last": "1985-12-01",
+  "url": "https://archive.org/details/unixreview"
+ },
+ {
+  "identifier": "atart1st-magazine",
+  "title": "Atari 1ST Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 18,
+  "first": "1987-07-01",
+  "last": "1989-02-01",
+  "url": "https://archive.org/details/atart1st-magazine"
+ },
+ {
+  "identifier": "cyberstratege-magazine",
+  "title": "Cyberstratege Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 18,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/cyberstratege-magazine"
+ },
+ {
+  "identifier": "amigaconcept",
+  "title": "Amiga Concept Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 18,
+  "first": "1993-12-01",
+  "last": "1995-07-01",
+  "url": "https://archive.org/details/amigaconcept"
+ },
+ {
+  "identifier": "computerfunwithfg",
+  "title": "Electronic Fun with Computer and Games",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 17,
+  "first": "1982-11-01",
+  "last": "1984-03-01",
+  "url": "https://archive.org/details/computerfunwithfg"
+ },
+ {
+  "identifier": "dreamcastmonthly",
+  "title": "Dreamcast Monthly (UK)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 17,
+  "first": "1999-01-01",
+  "last": "2001-01-01",
+  "url": "https://archive.org/details/dreamcastmonthly"
+ },
+ {
+  "identifier": "super-soft-magazine",
+  "title": "Super Soft Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 17,
+  "first": "1983-12-01",
+  "last": "1993-01-01",
+  "url": "https://archive.org/details/super-soft-magazine"
+ },
+ {
+  "identifier": "tvgamermagazine",
+  "title": "TV Gamer Magazine (GB)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 17,
+  "first": "1983-06-01",
+  "last": "1985-01-01",
+  "url": "https://archive.org/details/tvgamermagazine"
+ },
+ {
+  "identifier": "linuxforyou",
+  "title": "Linux for You Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 17,
+  "first": "2008-10-01",
+  "last": "2010-03-01",
+  "url": "https://archive.org/details/linuxforyou"
+ },
+ {
+  "identifier": "commandermagazine",
+  "title": "Commander Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 17,
+  "first": "1982-12-01",
+  "last": "1984-06-01",
+  "url": "https://archive.org/details/commandermagazine"
+ },
+ {
+  "identifier": "celifestyles",
+  "title": "CE Lifestyles Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 17,
+  "first": "2004-12-01",
+  "last": "2006-05-01",
+  "url": "https://archive.org/details/celifestyles"
+ },
+ {
+  "identifier": "maximumpc",
+  "title": "Maximum PC Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 17,
+  "first": "1995-01-01",
+  "last": "2024-04-22",
+  "url": "https://archive.org/details/maximumpc"
+ },
+ {
+  "identifier": "pcfun-magazine",
+  "title": "PC Fun Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 17,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/pcfun-magazine"
+ },
+ {
+  "identifier": "theportablecompanion",
+  "title": "The Portable Companion",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 17,
+  "first": "1982-06-01",
+  "last": "1985-05-01",
+  "url": "https://archive.org/details/theportablecompanion"
+ },
+ {
+  "identifier": "magazine-zx",
+  "title": "Magazine ZX (Spectrum)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 17,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/magazine-zx"
+ },
+ {
+  "identifier": "ugvmmagazine",
+  "title": "UK.GAMES.VIDEO.MISC Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 16,
+  "first": "2002-09-01",
+  "last": "2003-12-01",
+  "url": "https://archive.org/details/ugvmmagazine"
+ },
+ {
+  "identifier": "ultimageneracion",
+  "title": "Ultima Generacion",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 16,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/ultimageneracion"
+ },
+ {
+  "identifier": "blacklisted411",
+  "title": "Blacklisted! 411 Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 16,
+  "first": "1995-01-01",
+  "last": "2006-03-19",
+  "url": "https://archive.org/details/blacklisted411"
+ },
+ {
+  "identifier": "larivstadiatari",
+  "title": "La rivista di Atari",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 16,
+  "first": "1986-11-01",
+  "last": "1988-01-01",
+  "url": "https://archive.org/details/larivstadiatari"
+ },
+ {
+  "identifier": "excelentvotre-magazine",
+  "title": "Excelent Votre Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 16,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/excelentvotre-magazine"
+ },
+ {
+  "identifier": "znewsmagazine",
+  "title": "Z News Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 16,
+  "first": "1986-01-01",
+  "last": "1989-05-01",
+  "url": "https://archive.org/details/znewsmagazine"
+ },
+ {
+  "identifier": "atari-computing-uk",
+  "title": "Atari Computing Magazine (UK)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 16,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/atari-computing-uk"
+ },
+ {
+  "identifier": "homecomputerrivista",
+  "title": "Home Computer",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 16,
+  "first": "1984-05-01",
+  "last": "1985-07-01",
+  "url": "https://archive.org/details/homecomputerrivista"
+ },
+ {
+  "identifier": "segacomputer",
+  "title": "Sega Computer Magazine (NZ)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 15,
+  "first": "1984-07-01",
+  "last": "1987-06-01",
+  "url": "https://archive.org/details/segacomputer"
+ },
+ {
+  "identifier": "videogamebr",
+  "title": "Video Game News (Brazil)",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 15,
+  "first": "1991-01-01",
+  "last": "2025-03-28",
+  "url": "https://archive.org/details/videogamebr"
+ },
+ {
+  "identifier": "manuals-visualstudioandvisualbasicmagazine",
+  "title": "Visual Studio and Visual Basic Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 15,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/manuals-visualstudioandvisualbasicmagazine"
+ },
+ {
+  "identifier": "amigainformer",
+  "title": "Amiga Informer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 15,
+  "first": "1996-08-01",
+  "last": "1999-01-01",
+  "url": "https://archive.org/details/amigainformer"
+ },
+ {
+  "identifier": "personalcomputergames-magazine",
+  "title": "Personal Computer Games Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 15,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/personalcomputergames-magazine"
+ },
+ {
+  "identifier": "acstechforthecommodoreamiga",
+  "title": "AC's Tech for the Commodore Amiga",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 15,
+  "first": "1991-02-01",
+  "last": "1994-08-01",
+  "url": "https://archive.org/details/acstechforthecommodoreamiga"
+ },
+ {
+  "identifier": "n64magazine",
+  "title": "N64 Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 14,
+  "first": "1997-05-01",
+  "last": "2021-10-18",
+  "url": "https://archive.org/details/n64magazine"
+ },
+ {
+  "identifier": "odyssey2adventure",
+  "title": "Odyssey 2 Adventure",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 14,
+  "first": "1982-01-01",
+  "last": "1983-01-01",
+  "url": "https://archive.org/details/odyssey2adventure"
+ },
+ {
+  "identifier": "gmking_magazine",
+  "title": "GM King's Markup Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 14,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/gmking_magazine"
+ },
+ {
+  "identifier": "laserbugmagazine",
+  "title": "Laserbug Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 14,
+  "first": "1982-05-01",
+  "last": "1983-11-01",
+  "url": "https://archive.org/details/laserbugmagazine"
+ },
+ {
+  "identifier": "netbug-magazine",
+  "title": "Netbug Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 14,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/netbug-magazine"
+ },
+ {
+  "identifier": "computermagazines-french-porte-revues",
+  "title": "French-Language Computer Magazines (Miscellaneous)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 14,
+  "first": "1994-07-08",
+  "last": "1997-05-06",
+  "url": "https://archive.org/details/computermagazines-french-porte-revues"
+ },
+ {
+  "identifier": "gameroomagazine",
+  "title": "Game Room Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 13,
+  "first": "2007-02-01",
+  "last": "2024-05-09",
+  "url": "https://archive.org/details/gameroomagazine"
+ },
+ {
+  "identifier": "officialnzplaystationmagazine",
+  "title": "Official NZ PlayStation Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 13,
+  "first": "1999-11-01",
+  "last": "2001-05-01",
+  "url": "https://archive.org/details/officialnzplaystationmagazine"
+ },
+ {
+  "identifier": "letscomputemagazine",
+  "title": "Let's Compute Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 13,
+  "first": "1990-01-01",
+  "last": "1991-07-01",
+  "url": "https://archive.org/details/letscomputemagazine"
+ },
+ {
+  "identifier": "peelingsii",
+  "title": "Peelings II",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 13,
+  "first": "1983-01-01",
+  "last": "1983-03-01",
+  "url": "https://archive.org/details/peelingsii"
+ },
+ {
+  "identifier": "go64-verlang",
+  "title": "Go 64! Magazine (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 13,
+  "first": "1999-08-01",
+  "last": "2000-08-01",
+  "url": "https://archive.org/details/go64-verlang"
+ },
+ {
+  "identifier": "64solutionsmagazine",
+  "title": "64 Solutions Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 12,
+  "first": "1997-01-01",
+  "last": "1997-01-01",
+  "url": "https://archive.org/details/64solutionsmagazine"
+ },
+ {
+  "identifier": "razemagazine",
+  "title": "Raze Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 12,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/razemagazine"
+ },
+ {
+  "identifier": "famitsu-dreamcast-mag",
+  "title": "Famitsu DC Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 12,
+  "first": "1999-03-01",
+  "last": "2002-01-01",
+  "url": "https://archive.org/details/famitsu-dreamcast-mag"
+ },
+ {
+  "identifier": "g7000videogameclub",
+  "title": "G7000 Video Game Club Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 12,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/g7000videogameclub"
+ },
+ {
+  "identifier": "newtekniques",
+  "title": "NewTekniques",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 12,
+  "first": "1997-04-01",
+  "last": "2000-11-01",
+  "url": "https://archive.org/details/newtekniques"
+ },
+ {
+  "identifier": "anticsamigaplus",
+  "title": "ANTIC's Amiga Plus Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 12,
+  "first": "1989-05-01",
+  "last": "1990-12-01",
+  "url": "https://archive.org/details/anticsamigaplus"
+ },
+ {
+  "identifier": "sidinmagazine",
+  "title": "SID In Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 12,
+  "first": "2002-09-21",
+  "last": "2008-05-24",
+  "url": "https://archive.org/details/sidinmagazine"
+ },
+ {
+  "identifier": "acsguidecommodoreamiga",
+  "title": "AC's Guide to the Commodore Amiga",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 12,
+  "first": "1989-01-01",
+  "last": "1994-01-01",
+  "url": "https://archive.org/details/acsguidecommodoreamiga"
+ },
+ {
+  "identifier": "segasupergame",
+  "title": "Supergame Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 11,
+  "first": "1991-07-01",
+  "last": "2025-09-09",
+  "url": "https://archive.org/details/segasupergame"
+ },
+ {
+  "identifier": "planetgameboy",
+  "title": "Planet Game Boy",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 11,
+  "first": "1999-01-01",
+  "last": "2000-09-01",
+  "url": "https://archive.org/details/planetgameboy"
+ },
+ {
+  "identifier": "joystik_magazine",
+  "title": "Joystik Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 11,
+  "first": "1982-09-01",
+  "last": "1983-12-01",
+  "url": "https://archive.org/details/joystik_magazine"
+ },
+ {
+  "identifier": "undercolormagazine",
+  "title": "UnderColor Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 11,
+  "first": "1984-12-10",
+  "last": "1985-06-30",
+  "url": "https://archive.org/details/undercolormagazine"
+ },
+ {
+  "identifier": "baronsmicrocomputing",
+  "title": "Baron's MicroComputing Reports",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 11,
+  "first": "1983-10-01",
+  "last": "1984-12-01",
+  "url": "https://archive.org/details/baronsmicrocomputing"
+ },
+ {
+  "identifier": "stformatmagazine",
+  "title": "ST Format Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 11,
+  "first": "1991-06-01",
+  "last": "1996-02-01",
+  "url": "https://archive.org/details/stformatmagazine"
+ },
+ {
+  "identifier": "k-power-magazine",
+  "title": "K Power Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 11,
+  "first": "1984-01-01",
+  "last": "1984-11-01",
+  "url": "https://archive.org/details/k-power-magazine"
+ },
+ {
+  "identifier": "electronuser",
+  "title": "Electron User",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 11,
+  "first": "1983-10-01",
+  "last": "1984-08-01",
+  "url": "https://archive.org/details/electronuser"
+ },
+ {
+  "identifier": "emulatorsmachine",
+  "title": "Emulators Machine Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 10,
+  "first": "2004-01-01",
+  "last": "2013-01-01",
+  "url": "https://archive.org/details/emulatorsmachine"
+ },
+ {
+  "identifier": "snesforcemagazine",
+  "title": "SNES Force Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 10,
+  "first": "1993-07-01",
+  "last": "1994-03-01",
+  "url": "https://archive.org/details/snesforcemagazine"
+ },
+ {
+  "identifier": "classicgamermagazine",
+  "title": "Classic Gamer Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 10,
+  "first": "1999-03-01",
+  "last": "2010-01-01",
+  "url": "https://archive.org/details/classicgamermagazine"
+ },
+ {
+  "identifier": "gamescomputing",
+  "title": "Games Computing",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 10,
+  "first": "1984-01-01",
+  "last": "1985-03-01",
+  "url": "https://archive.org/details/gamescomputing"
+ },
+ {
+  "identifier": "megajoystick-spanish",
+  "title": "MegaJoystick Magazine (Spanish)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 10,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/megajoystick-spanish"
+ },
+ {
+  "identifier": "l-atarien-magazine",
+  "title": "L'Atarien Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 10,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/l-atarien-magazine"
+ },
+ {
+  "identifier": "activisions",
+  "title": "Activisions Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 9,
+  "first": "1981-09-01",
+  "last": "1983-09-01",
+  "url": "https://archive.org/details/activisions"
+ },
+ {
+  "identifier": "computerplaymagazine",
+  "title": "Computer Play Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 9,
+  "first": "1988-08-01",
+  "last": "1989-04-01",
+  "url": "https://archive.org/details/computerplaymagazine"
+ },
+ {
+  "identifier": "blip-magazine",
+  "title": "Blip Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 9,
+  "first": "1983-02-01",
+  "last": "2024-04-16",
+  "url": "https://archive.org/details/blip-magazine"
+ },
+ {
+  "identifier": "guidetocomputerliving",
+  "title": "The Guide to Computer Living",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 9,
+  "first": "1985-11-01",
+  "last": "1986-12-01",
+  "url": "https://archive.org/details/guidetocomputerliving"
+ },
+ {
+  "identifier": "metamorphosismag",
+  "title": "The No Name Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 9,
+  "first": "1993-05-01",
+  "last": "1994-03-01",
+  "url": "https://archive.org/details/metamorphosismag"
+ },
+ {
+  "identifier": "contactmagazine",
+  "title": "Contact Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 9,
+  "first": "1978-01-01",
+  "last": "1979-10-01",
+  "url": "https://archive.org/details/contactmagazine"
+ },
+ {
+  "identifier": "softgoldmagazine",
+  "title": "SoftGold Magazine (Australia)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 9,
+  "first": "1987-03-01",
+  "last": "1988-05-01",
+  "url": "https://archive.org/details/softgoldmagazine"
+ },
+ {
+  "identifier": "geracoprologica",
+  "title": "Geracao Prologica (Brazil)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 9,
+  "first": "1984-11-01",
+  "last": "1986-02-01",
+  "url": "https://archive.org/details/geracoprologica"
+ },
+ {
+  "identifier": "videogamesplayer",
+  "title": "Video Games Player",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 8,
+  "first": "1982-09-01",
+  "last": "1985-02-01",
+  "url": "https://archive.org/details/videogamesplayer"
+ },
+ {
+  "identifier": "oneforstgames",
+  "title": "The One for ST Games",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 8,
+  "first": "1991-05-01",
+  "last": "1992-02-01",
+  "url": "https://archive.org/details/oneforstgames"
+ },
+ {
+  "identifier": "eightymagazine",
+  "title": "S-Eighty Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 8,
+  "first": "1980-01-01",
+  "last": "1980-08-01",
+  "url": "https://archive.org/details/eightymagazine"
+ },
+ {
+  "identifier": "computesamigaresource",
+  "title": "COMPUTE!'s Amiga Resource",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 8,
+  "first": "1989-04-01",
+  "last": "1990-06-01",
+  "url": "https://archive.org/details/computesamigaresource"
+ },
+ {
+  "identifier": "pcfute-magazine",
+  "title": "PC Fute Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 8,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/pcfute-magazine"
+ },
+ {
+  "identifier": "arcades-hebdo-magazine",
+  "title": "Arcades Hebdo Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 8,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/arcades-hebdo-magazine"
+ },
+ {
+  "identifier": "acornprograms",
+  "title": "Acorn Programs",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 8,
+  "first": "1984-01-01",
+  "last": "1984-12-01",
+  "url": "https://archive.org/details/acornprograms"
+ },
+ {
+  "identifier": "official_xbox_magazine",
+  "title": "Official XBOX Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 7,
+  "first": "2001-01-01",
+  "last": "2001-01-01",
+  "url": "https://archive.org/details/official_xbox_magazine"
+ },
+ {
+  "identifier": "noi128-64",
+  "title": "Noi 128 & 64 (Italian)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 7,
+  "first": "1987-02-01",
+  "last": "1988-08-01",
+  "url": "https://archive.org/details/noi128-64"
+ },
+ {
+  "identifier": "msxworldspanish",
+  "title": "MSX World (Spanish)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 7,
+  "first": "1988-05-01",
+  "last": "1989-03-01",
+  "url": "https://archive.org/details/msxworldspanish"
+ },
+ {
+  "identifier": "cpc-attack-magazine",
+  "title": "CPC Attack Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 6,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/cpc-attack-magazine"
+ },
+ {
+  "identifier": "amigactive",
+  "title": "AmigActive",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 6,
+  "first": "1999-10-01",
+  "last": "2000-03-01",
+  "url": "https://archive.org/details/amigactive"
+ },
+ {
+  "identifier": "victapecomputing",
+  "title": "VICtape Computing",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 6,
+  "first": "1984-03-01",
+  "last": "1985-05-01",
+  "url": "https://archive.org/details/victapecomputing"
+ },
+ {
+  "identifier": "professionalamiga",
+  "title": "Professional Amiga User Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 6,
+  "first": "1990-07-01",
+  "last": "1992-02-01",
+  "url": "https://archive.org/details/professionalamiga"
+ },
+ {
+  "identifier": "amigagamesgerman",
+  "title": "Amiga Games (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 6,
+  "first": "1992-10-01",
+  "last": "1996-12-01",
+  "url": "https://archive.org/details/amigagamesgerman"
+ },
+ {
+  "identifier": "vidiotmagazine",
+  "title": "Vidiot Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 5,
+  "first": "1982-10-01",
+  "last": "1983-09-01",
+  "url": "https://archive.org/details/vidiotmagazine"
+ },
+ {
+  "identifier": "oldskoolgames",
+  "title": "Old Skool Games Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 5,
+  "first": "2004-03-01",
+  "last": "2007-02-01",
+  "url": "https://archive.org/details/oldskoolgames"
+ },
+ {
+  "identifier": "leisureline",
+  "title": "Leisure Line Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 5,
+  "first": "1990-08-01",
+  "last": "1996-03-01",
+  "url": "https://archive.org/details/leisureline"
+ },
+ {
+  "identifier": "amigapointofview",
+  "title": "Amiga Point of View",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "2003-12-13",
+  "last": "2010-06-13",
+  "url": "https://archive.org/details/amigapointofview"
+ },
+ {
+  "identifier": "inputoutputmagazine",
+  "title": "Input/Output Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "1982-12-01",
+  "last": "1984-03-01",
+  "url": "https://archive.org/details/inputoutputmagazine"
+ },
+ {
+  "identifier": "amigadownunder",
+  "title": "Amiga Down Under",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "1994-04-01",
+  "last": "1994-05-01",
+  "url": "https://archive.org/details/amigadownunder"
+ },
+ {
+  "identifier": "cetips_magazine",
+  "title": "Consumer Electronics Tips Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "2004-06-01",
+  "last": "2004-10-01",
+  "url": "https://archive.org/details/cetips_magazine"
+ },
+ {
+  "identifier": "msxmagazinefr",
+  "title": "MSX Magazine (French)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "1986-01-01",
+  "last": "1986-12-01",
+  "url": "https://archive.org/details/msxmagazinefr"
+ },
+ {
+  "identifier": "newcomputerexpress",
+  "title": "New Computer Express",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "1988-01-01",
+  "last": "1991-04-27",
+  "url": "https://archive.org/details/newcomputerexpress"
+ },
+ {
+  "identifier": "tracetrs80magazine",
+  "title": "Trace Magazine (TRS-80)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "1982-01-01",
+  "last": "1983-07-01",
+  "url": "https://archive.org/details/tracetrs80magazine"
+ },
+ {
+  "identifier": "tandyanswers",
+  "title": "Tandy Answers Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "1986-01-01",
+  "last": "1988-12-01",
+  "url": "https://archive.org/details/tandyanswers"
+ },
+ {
+  "identifier": "ozamiga",
+  "title": "OZAmiga Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 5,
+  "first": "1992-12-01",
+  "last": "1993-04-01",
+  "url": "https://archive.org/details/ozamiga"
+ },
+ {
+  "identifier": "amigainsiderde",
+  "title": "Amiga Insider (German)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4,
+  "first": "2004-01-01",
+  "last": "2005-07-10",
+  "url": "https://archive.org/details/amigainsiderde"
+ },
+ {
+  "identifier": "amigafever",
+  "title": "Amiga Fever",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4,
+  "first": "1998-12-01",
+  "last": "1999-04-01",
+  "url": "https://archive.org/details/amigafever"
+ },
+ {
+  "identifier": "microkids",
+  "title": "Micro Kids",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4,
+  "first": "1983-12-01",
+  "last": "1984-05-01",
+  "url": "https://archive.org/details/microkids"
+ },
+ {
+  "identifier": "computerinputmagazine",
+  "title": "Computer Input Magazine (NZ)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4,
+  "first": "1983-11-01",
+  "last": "1984-09-01",
+  "url": "https://archive.org/details/computerinputmagazine"
+ },
+ {
+  "identifier": "cpugossermagazine",
+  "title": "CPU Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4,
+  "first": "1996-01-01",
+  "last": "1999-03-01",
+  "url": "https://archive.org/details/cpugossermagazine"
+ },
+ {
+  "identifier": "zxshedmagazine",
+  "title": "ZX Shed Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4,
+  "first": "2005-01-01",
+  "last": "2009-07-01",
+  "url": "https://archive.org/details/zxshedmagazine"
+ },
+ {
+  "identifier": "informaticacpu",
+  "title": "Informatica CPU",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 4,
+  "first": "1994-10-01",
+  "last": "1995-02-01",
+  "url": "https://archive.org/details/informaticacpu"
+ },
+ {
+  "identifier": "dragonworld",
+  "title": "Data Dragon World",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 3,
+  "first": "1983-12-01",
+  "last": "1984-04-01",
+  "url": "https://archive.org/details/dragonworld"
+ },
+ {
+  "identifier": "enter-magazine",
+  "title": "Enter Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 3,
+  "first": "1983-10-01",
+  "last": "2001-02-01",
+  "url": "https://archive.org/details/enter-magazine"
+ },
+ {
+  "identifier": "beebonmagazine",
+  "title": "The Beebon Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 3,
+  "first": "1982-05-01",
+  "last": "1982-09-01",
+  "url": "https://archive.org/details/beebonmagazine"
+ },
+ {
+  "identifier": "msxtopclass",
+  "title": "MSX Top Class",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 3,
+  "first": "1993-01-01",
+  "last": "1993-01-01",
+  "url": "https://archive.org/details/msxtopclass"
+ },
+ {
+  "identifier": "psxextrememagazine",
+  "title": "PSX Extreme",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 2,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/psxextrememagazine"
+ },
+ {
+  "identifier": "superplaymagazine",
+  "title": "Super Play Magazine",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 2,
+  "first": "1993-01-01",
+  "last": "1993-01-01",
+  "url": "https://archive.org/details/superplaymagazine"
+ },
+ {
+  "identifier": "commodore-format-magazine",
+  "title": "Commodore Format Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 2,
+  "first": "1991-04-01",
+  "last": "1992-01-01",
+  "url": "https://archive.org/details/commodore-format-magazine"
+ },
+ {
+  "identifier": "zongmagazine",
+  "title": "ZONG Magazine (Atari)",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 1,
+  "first": "1993-01-01",
+  "last": "1993-01-01",
+  "url": "https://archive.org/details/zongmagazine"
+ },
+ {
+  "identifier": "stamigaformat",
+  "title": "ST Amiga Format Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 1,
+  "first": "",
+  "last": "",
+  "url": "https://archive.org/details/stamigaformat"
+ },
+ {
+  "identifier": "breakbreakmagazine",
+  "title": "Break Break Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 1,
+  "first": "2021-06-12",
+  "last": "2021-06-12",
+  "url": "https://archive.org/details/breakbreakmagazine"
+ },
+ {
+  "identifier": "nintendopower",
+  "title": "Nintendo Power",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/nintendopower"
+ },
+ {
+  "identifier": "videogamemagazine_inbox",
+  "title": "Video Game Magazine Inbox",
+  "publisher": null,
+  "roots": [
+   "videogamemagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/videogamemagazine_inbox"
+ },
+ {
+  "identifier": "theone-magazine",
+  "title": "TheOne Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/theone-magazine"
+ },
+ {
+  "identifier": "commodoremicrocomputers",
+  "title": "Commodore Microcomputers",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/commodoremicrocomputers"
+ },
+ {
+  "identifier": "commander-magazine",
+  "title": "Commander Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/commander-magazine"
+ },
+ {
+  "identifier": "nintendopoweradvancemag",
+  "title": "Nintendo Power Advance Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/nintendopoweradvancemag"
+ },
+ {
+  "identifier": "commodore-diskuser",
+  "title": "Commodore DiskUser Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/commodore-diskuser"
+ },
+ {
+  "identifier": "info-magazine",
+  "title": "Info Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/info-magazine"
+ },
+ {
+  "identifier": "aktueller-software-markt",
+  "title": "Aktueller Software Markt",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/aktueller-software-markt"
+ },
+ {
+  "identifier": "amigashopper-magazine",
+  "title": "Amiga Shopper Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/amigashopper-magazine"
+ },
+ {
+  "identifier": "64er-magazin-de",
+  "title": "64er DE Magazin",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/64er-magazin-de"
+ },
+ {
+  "identifier": "yourcomputer_magazine",
+  "title": "Your Computer Magazine",
+  "publisher": null,
+  "roots": [
+   "computermagazines"
+  ],
+  "items": 0,
+  "url": "https://archive.org/details/yourcomputer_magazine"
+ }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "official-dreamcast-magazine-us",
+  "title": "Official Sega Dreamcast Magazine (US)",
+  "short": "ODCM",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Imagine Media"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1999-06"
+  },
+  "last_issue": {
+    "date": "2001-04"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "official",
+    "platforms": [
+      "sega"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/5e733680-d965-4a5e-9852-14ae20b62691",
+      "date_range": "June 1999 – April 2001"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

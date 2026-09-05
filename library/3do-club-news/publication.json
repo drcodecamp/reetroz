@@ -1,0 +1,48 @@
+{
+  "id": "3do-club-news",
+  "title": "3DO Club News",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "The 3DO Company"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1993"
+  },
+  "last_issue": {
+    "date": "1995"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "newsletter",
+    "platforms": [
+      "3do"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/cc6ac688-13e0-4bff-824c-80a446951743",
+      "date_range": "1993–1995"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

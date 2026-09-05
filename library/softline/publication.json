@@ -1,0 +1,49 @@
+{
+  "id": "softline",
+  "title": "Softline",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Softalk Publishing"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1981-09"
+  },
+  "last_issue": {
+    "date": "1984"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "apple-ii",
+      "atari-8bit"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "cgwmuseum",
+  "rights": {
+    "status": "authorized",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "cgwmuseum",
+      "url": "https://www.cgwmuseum.org/galleries/index.php"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Softalk's games spin-off. Hosted by the CGW Museum."
+}

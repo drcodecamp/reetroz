@@ -1,0 +1,44 @@
+{
+  "id": "digital-diner",
+  "title": "Digital Diner",
+  "metadata_status": "stub",
+  "publishers": [],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1996"
+  },
+  "last_issue": {
+    "date": "1997-07"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/94ef167c-978b-464a-93ac-2e0047f8172f",
+      "date_range": "est. late 1996 – July 1997"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

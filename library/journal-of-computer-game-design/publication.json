@@ -1,0 +1,49 @@
+{
+  "id": "journal-of-computer-game-design",
+  "title": "The Journal of Computer Game Design",
+  "short": "JCGD",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Chris Crawford"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1987-06"
+  },
+  "last_issue": {
+    "date": "1996-08"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "developer",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/2529ea9d-c993-4f19-bee4-676f85add53d",
+      "date_range": "June 1987 – August 1996"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

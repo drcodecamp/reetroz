@@ -1,0 +1,42 @@
+{
+  "id": "sega-pro",
+  "title": "Sega Pro",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Paragon Publishing"
+    }
+  ],
+  "country": "GB",
+  "language": "en",
+  "first_issue": {
+    "date": "1991-11"
+  },
+  "last_issue": {
+    "date": "1996"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "sega"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "internet-archive",
+  "rights": {
+    "status": "community-scan",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

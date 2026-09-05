@@ -1,0 +1,52 @@
+{
+  "id": "cd-rom-today",
+  "title": "CD-ROM Today",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "GP Publications"
+    },
+    {
+      "name": "Imagine Publishing"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1993"
+  },
+  "last_issue": {
+    "date": "1996-07"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "pc",
+      "mac"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/f8071c2d-9960-4a23-951a-987b2824f453",
+      "date_range": "Summer 1993 – July 1996"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}

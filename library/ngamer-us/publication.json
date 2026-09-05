@@ -1,0 +1,45 @@
+{
+  "id": "ngamer-us",
+  "title": "NGamer (US)",
+  "metadata_status": "stub",
+  "publishers": [],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1999-12"
+  },
+  "last_issue": {
+    "date": "2000-01"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "nintendo"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/2b773cc8-53a1-4c3b-aa8b-cacb1cb20fe1",
+      "date_range": "December / January 2000"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00",
+  "description": "Single issue."
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pc-games",
+  "title": "PC Games / Electronic Entertainment",
+  "metadata_status": "stub",
+  "publishers": [
+    {
+      "name": "Infotainment World"
+    },
+    {
+      "name": "IDG"
+    }
+  ],
+  "country": "US",
+  "language": "en",
+  "first_issue": {
+    "date": "1988"
+  },
+  "last_issue": {
+    "date": "1999-04"
+  },
+  "status": "ceased",
+  "categories": {
+    "type": "consumer",
+    "platforms": [
+      "pc"
+    ]
+  },
+  "numbering": {
+    "scheme": "sequential",
+    "notes": "unverified"
+  },
+  "default_provider": "vghf",
+  "rights": {
+    "status": "link-only",
+    "note": "Inherited from default provider; review before hosting."
+  },
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/abbd549a-2caf-4632-bccb-0cb8c2fe27b2",
+      "date_range": "Fall 1988 – April 1999"
+    }
+  ],
+  "stats": {
+    "issues": 0,
+    "pages": 0,
+    "readable": 0,
+    "with_text": 0
+  },
+  "updated_at": "2026-09-05T20:18:08+00:00"
+}
