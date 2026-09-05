@@ -335,7 +335,7 @@ export function CatalogBrowser({
   );
 
   return (
-    <div className="mx-auto max-w-[96rem] px-4 sm:px-6">
+    <div className="mx-auto max-w-7xl px-4 sm:px-6">
       <div className="lg:grid lg:grid-cols-[260px_minmax(0,1fr)] lg:gap-10">
         <aside className="hidden min-w-0 lg:block">
           <div className="sticky top-28">{filters}</div>

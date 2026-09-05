@@ -19,7 +19,7 @@ export default function CatalogPage() {
     <>
       <Nav />
       <main className="pt-32 pb-24">
-        <header className="mx-auto mb-12 max-w-[96rem] px-4 sm:px-6">
+        <header className="mx-auto mb-12 max-w-7xl px-4 sm:px-6">
           <p className="font-mono text-xs uppercase tracking-[0.3em] text-amber">
             The library
           </p>
@@ -28,11 +28,11 @@ export default function CatalogPage() {
             <span className="text-paper-dim">{publications.length} magazines.</span>
           </h1>
           <p className="mt-4 max-w-2xl text-paper-dim">
-            {pages.toLocaleString()} pages scanned so far from {withIssues} of the{" "}
-            {publications.length} titles we are tracking. {readable}{" "}
-            {readable === 1 ? "issue is" : "issues are"} readable online right
-            now; the rest can be downloaded from their source while they are
-            being digitised.
+            {pages.toLocaleString()} pages from {withIssues} of the{" "}
+            {publications.length} titles we are tracking
+            {readable === catalog.length
+              ? ", every one of them readable online."
+              : `; ${readable} ${readable === 1 ? "issue is" : "issues are"} readable online so far.`}
           </p>
         </header>
         <Suspense fallback={<div className="px-6 text-paper-dim">Loading catalog…</div>}>
