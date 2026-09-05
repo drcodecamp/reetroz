@@ -8,7 +8,10 @@ Always:
   * updates assets/stats back into library/<pub>/issues.json and publication.json
 
 With --issue <issue-id> (repeatable), --publication <id> or --all:
-  * renders every page in two sizes into site/public/pages/<issue-id>/{thumb,read}/NNN.webp
+  * extracts every page's embedded scan as-is (no re-render, no upscaling) into
+    site/public/pages/<issue-id>/read/NNN.jpg and a 240px thumb into thumb/NNN.webp
+  * pages that are not a single embedded image fall back to rendering at the
+    scan's native resolution
   * writes site/public/pages/<issue-id>/manifest.json
 
 Usage:
@@ -21,6 +24,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import io
 import json
 import time
 from datetime import datetime, timezone
@@ -36,8 +40,10 @@ COVERS_DIR = SITE / "public" / "covers"
 PAGES_DIR = SITE / "public" / "pages"
 DATA_DIR = SITE / "src" / "data"
 
-SIZES = {"thumb": 240, "read": 1600}  # widths in px
-QUALITY = {"thumb": 72, "read": 80}
+THUMB_WIDTH = 240
+THUMB_QUALITY = 72
+FALLBACK_JPEG_QUALITY = 88  # only used when a page has to be rendered instead of extracted
+MAX_FALLBACK_WIDTH = 1600
 COVER_HEIGHT = 600
 
 
@@ -87,36 +93,65 @@ def render_cover(issue: dict, force: bool = False) -> str | None:
     return f"/covers/{out.name}"
 
 
+def extract_page(doc: pymupdf.Document, page: pymupdf.Page) -> tuple[bytes, str, int, int]:
+    """Return (bytes, ext, width, height) for a page.
+
+    Scanned magazines are one JPEG per page: hand that JPEG back untouched.
+    Anything else (vector pages, multiple images, non-JPEG codecs, rotated
+    scans) is rendered at the scan's native pixel size instead.
+    """
+    images = page.get_images(full=True)
+    if len(images) == 1:
+        info = doc.extract_image(images[0][0])
+        w, h = info["width"], info["height"]
+        page_portrait = page.rect.height >= page.rect.width
+        image_portrait = h >= w
+        if info["ext"] == "jpeg" and page_portrait == image_portrait and info.get("colorspace", 3) in (1, 3):
+            return info["image"], "jpg", w, h
+        native_width = w if page_portrait == image_portrait else h
+    else:
+        native_width = MAX_FALLBACK_WIDTH
+    zoom = min(native_width, MAX_FALLBACK_WIDTH) / page.rect.width
+    pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False)
+    img = pix_to_image(pix)
+    buf = io.BytesIO()
+    img.save(buf, "JPEG", quality=FALLBACK_JPEG_QUALITY, optimize=True)
+    return buf.getvalue(), "jpg", img.width, img.height
+
+
 def render_issue(issue: dict, force: bool = False) -> dict:
     iid = issue["id"]
     out_dir = PAGES_DIR / iid
-    for size in SIZES:
-        (out_dir / size).mkdir(parents=True, exist_ok=True)
+    (out_dir / "read").mkdir(parents=True, exist_ok=True)
+    (out_dir / "thumb").mkdir(parents=True, exist_ok=True)
 
     doc = pymupdf.open(ROOT / issue["files"]["pdf"])
     pages_meta = []
+    fallbacks = 0
     started = time.time()
     for index, page in enumerate(doc, start=1):
-        name = f"{index:03d}.webp"
-        targets = {size: out_dir / size / name for size in SIZES}
-        rect = page.rect
-        aspect = rect.height / rect.width
-        meta = {"n": index, "w": SIZES["read"], "h": round(SIZES["read"] * aspect)}
+        read_path = out_dir / "read" / f"{index:03d}.jpg"
+        thumb_path = out_dir / "thumb" / f"{index:03d}.webp"
 
-        if not force and all(p.exists() for p in targets.values()):
-            with Image.open(targets["thumb"]) as thumb:
-                meta["color"] = average_color(thumb.convert("RGB"))
-            pages_meta.append(meta)
+        if not force and read_path.exists() and thumb_path.exists():
+            with Image.open(read_path) as img:
+                w, h = img.size
+            with Image.open(thumb_path) as thumb:
+                color = average_color(thumb.convert("RGB"))
+            pages_meta.append({"n": index, "w": w, "h": h, "color": color})
             continue
 
-        zoom = SIZES["read"] / rect.width
-        full = pix_to_image(page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False))
-        meta["color"] = average_color(full)
-        for size, width in SIZES.items():
-            img = full if width >= full.width else full.resize((width, round(width * aspect)), Image.Resampling.LANCZOS)
-            img.save(targets[size], "WEBP", quality=QUALITY[size], method=4)
-        pages_meta.append(meta)
-        if index % 10 == 0 or index == doc.page_count:
+        data, _ext, w, h = extract_page(doc, page)
+        if len(page.get_images()) != 1:
+            fallbacks += 1
+        read_path.write_bytes(data)
+        with Image.open(io.BytesIO(data)) as img:
+            img = img.convert("RGB")
+            thumb = img.resize((THUMB_WIDTH, round(THUMB_WIDTH * h / w)), Image.Resampling.LANCZOS)
+            thumb.save(thumb_path, "WEBP", quality=THUMB_QUALITY, method=4)
+            color = average_color(thumb)
+        pages_meta.append({"n": index, "w": w, "h": h, "color": color})
+        if index % 50 == 0 or index == doc.page_count:
             print(f"  {iid}: page {index}/{doc.page_count}  ({time.time() - started:.0f}s)", flush=True)
 
     manifest = {
@@ -126,44 +161,15 @@ def render_issue(issue: dict, force: bool = False) -> dict:
         "number": issue["number"],
         "date": issue["date"]["display"],
         "pages": doc.page_count,
-        "sizes": SIZES,
+        "format": {"read": "jpg", "thumb": "webp"},
+        "thumbWidth": THUMB_WIDTH,
         "pageList": pages_meta,
     }
     doc.close()
     dump_json(out_dir / "manifest.json", manifest, indent=None)
+    if fallbacks:
+        print(f"  {iid}: {fallbacks} page(s) rendered instead of extracted", flush=True)
     return manifest
-
-
-def hosted_objects() -> dict[str, int] | None:
-    """Keys under pdf/ and pages/*/manifest.json currently in the R2 bucket, or None if not configured."""
-    env_file = ROOT / ".env"
-    if not env_file.exists():
-        return None
-    try:
-        import boto3  # noqa: PLC0415
-        from botocore.config import Config  # noqa: PLC0415
-
-        env = dict(
-            line.strip().split("=", 1)
-            for line in env_file.read_text(encoding="utf-8").splitlines()
-            if "=" in line and not line.startswith("#")
-        )
-        s3 = boto3.client(
-            "s3",
-            endpoint_url=env["R2_ENDPOINT"],
-            aws_access_key_id=env["R2_ACCESS_KEY_ID"],
-            aws_secret_access_key=env["R2_SECRET_ACCESS_KEY"],
-            region_name="auto",
-            config=Config(signature_version="s3v4"),
-        )
-        found: dict[str, int] = {}
-        for page in s3.get_paginator("list_objects_v2").paginate(Bucket=env["R2_BUCKET"], Prefix="pdf/"):
-            for obj in page.get("Contents", []):
-                found[obj["Key"]] = obj["Size"]
-        return found
-    except Exception as exc:  # noqa: BLE001
-        print(f"  (could not list R2 bucket: {exc}; assuming nothing hosted)", flush=True)
-        return None
 
 
 def main() -> int:
@@ -179,10 +185,6 @@ def main() -> int:
     publications: list[dict] = []
     site_issues: list[dict] = []
     site_publications: list[dict] = []
-    hosted = hosted_objects()
-    if hosted is not None:
-        print(f"R2: {len(hosted)} PDFs hosted", flush=True)
-
     for pub_dir in sorted(p for p in LIB.iterdir() if p.is_dir()):
         pub = load_json(pub_dir / "publication.json")
         issues = load_json(pub_dir / "issues.json")
@@ -203,12 +205,8 @@ def main() -> int:
             assets["pages_rendered"] = manifest_path.exists()
             if manifest_path.exists():
                 assets["manifest"] = f"site/public/pages/{issue['id']}/manifest.json"
-                assets["sizes"] = SIZES
-            if hosted is not None:
-                pdf_key = f"pdf/{issue['id']}.pdf"
-                local_pdf = ROOT / issue["files"]["pdf"]
-                # hosted only counts if the object is complete (same size as the local file)
-                assets["pdf_hosted"] = hosted.get(pdf_key) == (local_pdf.stat().st_size if local_pdf.exists() else -1)
+            assets.pop("sizes", None)
+            assets.pop("pdf_hosted", None)
             year = int(issue["date"]["start"][:4])
             site_issues.append(
                 {
@@ -220,11 +218,8 @@ def main() -> int:
                     "date": issue["date"]["display"],
                     "pages": issue["pages"],
                     "cover": cover or "",
-                    "file": Path(issue["files"]["pdf"]).name,
-                    "sourceUrl": issue["source"]["url"],
                     "era": era_for(year),
                     "readable": assets["pages_rendered"],
-                    "pdfHosted": bool(assets.get("pdf_hosted")),
                     "hasText": (issue.get("text") or {}).get("status", "none") != "none",
                     "special": issue.get("special"),
                 }

@@ -75,9 +75,7 @@
           "properties": {
             "cover": { "$ref": "#/$defs/relPath" },
             "pages_rendered": { "type": "boolean" },
-            "pdf_hosted": { "type": "boolean", "description": "Our copy of the PDF is in the asset bucket" },
-            "manifest": { "$ref": "#/$defs/relPath" },
-            "sizes": { "type": "object", "additionalProperties": { "type": "integer" } }
+            "manifest": { "$ref": "#/$defs/relPath" }
           }
         },
         "text": {

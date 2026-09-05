@@ -13,12 +13,8 @@ export type CatalogIssue = {
   date: string;
   pages: number;
   cover: string;
-  file: string;
-  sourceUrl: string;
   era: EraKey;
   readable: boolean;
-  /** Our own copy of the PDF is in the asset bucket. */
-  pdfHosted: boolean;
   hasText: boolean;
   special?: string | null;
 };
@@ -141,6 +137,8 @@ export function issuesInYear(year: number) {
   return catalog.filter((i) => i.year === year);
 }
 
+/** Page images: the scan's own JPEG at native resolution, plus a small WebP thumb. */
 export function pageUrl(slug: string, page: number, size: "thumb" | "read") {
-  return assetUrl(`/pages/${slug}/${size}/${String(page).padStart(3, "0")}.webp`);
+  const ext = size === "read" ? "jpg" : "webp";
+  return assetUrl(`/pages/${slug}/${size}/${String(page).padStart(3, "0")}.${ext}`);
 }

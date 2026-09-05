@@ -111,9 +111,7 @@ export type Issue = {
   assets?: {
     cover?: string;
     pages_rendered?: boolean;
-    pdf_hosted?: boolean;
     manifest?: string;
-    sizes?: Record<string, number>;
   };
   text?: {
     status: "none" | "embedded" | "ocr" | "external";

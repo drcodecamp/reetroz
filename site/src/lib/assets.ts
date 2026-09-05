@@ -16,7 +16,3 @@ export function assetUrl(localPath: string): string {
   if (/^https?:\/\//.test(localPath)) return localPath;
   return `${ASSET_BASE}${localPath.startsWith("/") ? "" : "/"}${localPath}`;
 }
-
-export function pdfUrl(issueId: string): string {
-  return assetUrl(`/pdf/${issueId}.pdf`);
-}

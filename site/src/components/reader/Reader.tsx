@@ -264,7 +264,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
                 src={pageUrl(issue.slug, p, "read")}
                 alt={`Page ${p}`}
                 className="max-w-none"
-                style={{ width: manifest.sizes.read }}
+                style={{ width: manifest.pageList[p - 1]?.w }}
                 onClick={() => setZoomed(false)}
                 draggable={false}
               />

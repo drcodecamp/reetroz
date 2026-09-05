@@ -7,7 +7,6 @@ import { IssueCard } from "@/components/IssueCard";
 import { Nav } from "@/components/Nav";
 import { ContinueButton } from "@/components/issue/ContinueButton";
 import { PageGrid } from "@/components/issue/PageGrid";
-import { ASSET_BASE, pdfUrl } from "@/lib/assets";
 import { catalog, eraOf, getIssue, getPublication, issuesInYear, neighbors } from "@/lib/catalog";
 import { loadManifest } from "@/lib/manifest";
 
@@ -41,8 +40,6 @@ export default async function IssuePage({ params }: Props) {
   const era = eraOf(issue.era);
   const { prev, next } = neighbors(issue);
   const sameYear = issuesInYear(issue.year).filter((i) => i.slug !== issue.slug);
-  // Issues we host ourselves link to our copy of the PDF; the rest go to the source.
-  const pdfHref = issue.pdfHosted && ASSET_BASE ? pdfUrl(issue.id) : issue.sourceUrl;
 
   return (
     <>
@@ -125,17 +122,6 @@ export default async function IssuePage({ params }: Props) {
                     Online reader coming soon for this issue
                   </span>
                 )}
-                <a
-                  href={pdfHref}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center gap-2 rounded-full px-4 py-3 text-sm text-paper-dim transition hover:text-paper"
-                >
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-                    <path d="M12 3v12m0 0l-4-4m4 4l4-4M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2" />
-                  </svg>
-                  Original PDF
-                </a>
               </div>
             </div>
           </div>

@@ -5,24 +5,23 @@ Object layout mirrors site/public so the site only needs a base URL swap:
   covers/<issue-id>.jpg
   pages/<issue-id>/manifest.json
   pages/<issue-id>/thumb/NNN.webp
-  pages/<issue-id>/read/NNN.webp
-  pdf/<issue-id>.pdf
+  pages/<issue-id>/read/NNN.jpg
+
+Original PDFs are deliberately NOT uploaded: readers get pages, not the file.
 
 Skips objects that already exist with the same size. Safe to re-run.
 
 Usage:
   python upload_r2.py --covers                 # all covers
-  python upload_r2.py --issue cgw-186          # pages + cover (+ --pdf for the PDF)
-  python upload_r2.py --issue cgw-186 --pdf
+  python upload_r2.py --issue cgw-186          # pages + cover
   python upload_r2.py --all-rendered           # every issue that has a manifest
-  python upload_r2.py --pdfs cgw               # every PDF of a publication
+  python upload_r2.py --prune                  # delete bucket objects that no longer exist locally
 """
 
 from __future__ import annotations
 
 import argparse
 import concurrent.futures as cf
-import json
 import mimetypes
 import sys
 import time
@@ -33,7 +32,6 @@ from botocore.config import Config
 
 ROOT = Path(__file__).resolve().parent
 PUBLIC = ROOT / "site" / "public"
-LIB = ROOT / "library"
 
 CACHE_IMMUTABLE = "public, max-age=31536000, immutable"
 CACHE_SHORT = "public, max-age=300"
@@ -75,7 +73,7 @@ def content_type(path: Path) -> str:
     return mimetypes.guess_type(path.name)[0] or "application/octet-stream"
 
 
-def plan_issue(issue_id: str, with_pdf: bool) -> list[tuple[Path, str, str]]:
+def plan_issue(issue_id: str) -> list[tuple[Path, str, str]]:
     """Returns (local path, key, cache-control) tuples."""
     jobs: list[tuple[Path, str, str]] = []
     cover = PUBLIC / "covers" / f"{issue_id}.jpg"
@@ -84,18 +82,15 @@ def plan_issue(issue_id: str, with_pdf: bool) -> list[tuple[Path, str, str]]:
     pages_dir = PUBLIC / "pages" / issue_id
     if (pages_dir / "manifest.json").exists():
         jobs.append((pages_dir / "manifest.json", f"pages/{issue_id}/manifest.json", CACHE_SHORT))
-        for size in ("thumb", "read"):
-            for f in sorted((pages_dir / size).glob("*.webp")):
+        for size, pattern in (("thumb", "*.webp"), ("read", "*.jpg")):
+            for f in sorted((pages_dir / size).glob(pattern)):
                 jobs.append((f, f"pages/{issue_id}/{size}/{f.name}", CACHE_IMMUTABLE))
-    if with_pdf:
-        pub_id = issue_id.split("-", 1)[0]
-        issues = json.loads((LIB / pub_id / "issues.json").read_text(encoding="utf-8"))
-        issue = next((i for i in issues if i["id"] == issue_id), None)
-        if issue:
-            pdf = ROOT / issue["files"]["pdf"]
-            if pdf.exists():
-                jobs.append((pdf, f"pdf/{issue_id}.pdf", CACHE_IMMUTABLE))
     return jobs
+
+
+def delete_keys(s3, bucket: str, keys: list[str]) -> None:
+    for i in range(0, len(keys), 1000):
+        s3.delete_objects(Bucket=bucket, Delete={"Objects": [{"Key": k} for k in keys[i : i + 1000]], "Quiet": True})
 
 
 def main() -> int:
@@ -103,8 +98,7 @@ def main() -> int:
     ap.add_argument("--issue", action="append", default=[], help="issue id, e.g. cgw-186")
     ap.add_argument("--covers", action="store_true", help="upload every cover")
     ap.add_argument("--all-rendered", action="store_true", help="every issue with a manifest")
-    ap.add_argument("--pdf", action="store_true", help="also upload the PDF(s)")
-    ap.add_argument("--pdfs", action="append", default=[], metavar="PUBLICATION", help="upload every PDF of a publication, e.g. --pdfs cgw")
+    ap.add_argument("--prune", action="store_true", help="delete objects in the bucket that have no local counterpart (old formats, PDFs)")
     ap.add_argument("--workers", type=int, default=16)
     args = ap.parse_args()
 
@@ -119,17 +113,27 @@ def main() -> int:
     if args.all_rendered:
         issue_ids += [p.name for p in (PUBLIC / "pages").iterdir() if (p / "manifest.json").exists()]
     for iid in dict.fromkeys(issue_ids):
-        jobs += plan_issue(iid, args.pdf)
-    for pub_id in args.pdfs:
-        issues = json.loads((LIB / pub_id / "issues.json").read_text(encoding="utf-8"))
-        for issue in issues:
-            pdf = ROOT / issue["files"]["pdf"]
-            if pdf.exists():
-                jobs.append((pdf, f"pdf/{issue['id']}.pdf", CACHE_IMMUTABLE))
-            else:
-                print(f"  missing locally: {pdf}", file=sys.stderr)
+        jobs += plan_issue(iid)
+
+    if args.prune:
+        local = {key for _, key, _ in jobs} if jobs else set()
+        if not jobs:  # prune against everything we have locally
+            local = {f"covers/{f.name}" for f in (PUBLIC / "covers").glob("*.jpg")}
+            for d in (PUBLIC / "pages").iterdir() if (PUBLIC / "pages").exists() else []:
+                if (d / "manifest.json").exists():
+                    local |= {key for _, key, _ in plan_issue(d.name)}
+        remote_all: dict[str, int] = {}
+        for prefix in ("covers/", "pages/", "pdf/"):
+            remote_all.update(existing_sizes(s3, bucket, prefix))
+        stale = sorted(k for k in remote_all if k not in local)
+        print(f"prune: {len(stale)} stale objects ({sum(remote_all[k] for k in stale) / 1e9:.2f} GB) to delete", flush=True)
+        delete_keys(s3, bucket, stale)
+        if not jobs:
+            print("done")
+            return 0
+
     if not jobs:
-        ap.error("nothing to upload; pass --covers, --issue, --pdfs or --all-rendered")
+        ap.error("nothing to upload; pass --covers, --issue, --all-rendered or --prune")
 
     # de-dupe by key and skip objects already present with same size
     unique = {key: (path, cc) for path, key, cc in jobs}

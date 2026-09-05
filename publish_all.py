@@ -39,10 +39,15 @@ def work(issue: dict, upload: bool) -> tuple[str, int, float, str | None]:
         if upload:
             env = upload_r2.load_env()
             s3 = upload_r2.client(env)
-            jobs = upload_r2.plan_issue(issue["id"], with_pdf=False)
-            for path, key, cc in jobs:
+            jobs = upload_r2.plan_issue(issue["id"])
+
+            def put(job):
+                path, key, cc = job
                 s3.upload_file(str(path), env["R2_BUCKET"], key,
                                ExtraArgs={"ContentType": upload_r2.content_type(path), "CacheControl": cc})
+
+            with cf.ThreadPoolExecutor(8) as pool:
+                list(pool.map(put, jobs))
         return issue["id"], manifest["pages"], time.time() - started, None
     except Exception as exc:  # noqa: BLE001
         return issue["id"], 0, time.time() - started, repr(exc)
@@ -51,7 +56,7 @@ def work(issue: dict, upload: bool) -> tuple[str, int, float, str | None]:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--publication", required=True)
-    ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--workers", type=int, default=10)
     ap.add_argument("--no-upload", action="store_true")
     ap.add_argument("--limit", type=int, default=0, help="only do the first N pending issues")
     args = ap.parse_args()
