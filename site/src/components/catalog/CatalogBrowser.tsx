@@ -47,7 +47,7 @@ export function CatalogBrowser({
   const from = Number(params.get("from") ?? MIN_YEAR);
   const to = Number(params.get("to") ?? MAX_YEAR);
   const view = (params.get("view") as View) ?? "rows";
-  const sort = (params.get("sort") as Sort) ?? "oldest";
+  const sort = (params.get("sort") as Sort) ?? "newest";
   const readable = params.get("readable") === "1";
   const continueOnly = params.get("continue") === "1";
 
@@ -374,12 +374,12 @@ export function CatalogBrowser({
               </div>
               <select
                 value={sort}
-                onChange={(e) => update({ sort: e.target.value === "oldest" ? null : e.target.value })}
+                onChange={(e) => update({ sort: e.target.value === "newest" ? null : e.target.value })}
                 className="rounded-full border border-paper/15 bg-ink px-3.5 py-1.5 text-sm"
                 aria-label="Sort"
               >
-                <option value="oldest">Oldest first</option>
                 <option value="newest">Newest first</option>
+                <option value="oldest">Oldest first</option>
                 <option value="longest">Most pages</option>
                 <option value="shortest">Fewest pages</option>
               </select>
