@@ -1,1 +1,249 @@
-[]
+[
+ {
+  "id": "odyssey-adventure-2",
+  "publication": "odyssey-adventure",
+  "sequence": 1,
+  "number": "2",
+  "date": {
+   "display": "Spring 1982",
+   "start": "1982-03",
+   "precision": "season"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cac10e8e-9c9a-4252-b95c-e96b0eeff8e3",
+   "external_id": "cac10e8e-9c9a-4252-b95c-e96b0eeff8e3",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/odyssey-adventure/pdf/Odyssey 2 Adventure, Volume 1, Issue 2 (Spring 1982).pdf",
+   "bytes": 9185305,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/odyssey-adventure-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "odyssey-adventure-3",
+  "publication": "odyssey-adventure",
+  "sequence": 2,
+  "number": "3",
+  "date": {
+   "display": "Summer 1982",
+   "start": "1982-06",
+   "precision": "season"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/79ab464e-c830-4ee6-83c0-9b4677cec3ca",
+   "external_id": "79ab464e-c830-4ee6-83c0-9b4677cec3ca",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/odyssey-adventure/pdf/Odyssey 2 Adventure, Volume 1, Issue 3 (Summer 1982).pdf",
+   "bytes": 9004353,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/odyssey-adventure-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "odyssey-adventure-4",
+  "publication": "odyssey-adventure",
+  "sequence": 3,
+  "number": "4",
+  "date": {
+   "display": "Fall 1982",
+   "start": "1982-09",
+   "precision": "season"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/20c5359e-19ae-4033-939d-6751e190daf1",
+   "external_id": "20c5359e-19ae-4033-939d-6751e190daf1",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/odyssey-adventure/pdf/Odyssey 2 Adventure, Volume 1, Issue 4 (Fall 1982).pdf",
+   "bytes": 8504143,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/odyssey-adventure-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "odyssey-adventure-1",
+  "publication": "odyssey-adventure",
+  "sequence": 4,
+  "number": "1",
+  "date": {
+   "display": "Winter 1982",
+   "start": "1982-12",
+   "precision": "season"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 207.2,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/87a65eab-0e31-495b-88af-43ae87126d74",
+   "external_id": "87a65eab-0e31-495b-88af-43ae87126d74",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/odyssey-adventure/pdf/Odyssey Adventure, Volume 1, Issue 1 (Winter 1982).pdf",
+   "bytes": 9591690,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/odyssey-adventure-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "odyssey-adventure-2-2",
+  "publication": "odyssey-adventure",
+  "sequence": 5,
+  "number": "2",
+  "date": {
+   "display": "Spring 1983",
+   "start": "1983-03",
+   "precision": "season"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 211.6,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/55994ebc-8d5a-43da-adf6-98c3269ac8e6",
+   "external_id": "55994ebc-8d5a-43da-adf6-98c3269ac8e6",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/odyssey-adventure/pdf/Odyssey Adventure, Volume 2, Issue 2 (Spring 1983).pdf",
+   "bytes": 10046111,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/odyssey-adventure-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "odyssey-adventure-3-2",
+  "publication": "odyssey-adventure",
+  "sequence": 6,
+  "number": "3",
+  "date": {
+   "display": "Summer 1983",
+   "start": "1983-06",
+   "precision": "season"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 211.6,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d348508-3fed-4f01-b10e-e0d167f90e00",
+   "external_id": "1d348508-3fed-4f01-b10e-e0d167f90e00",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/odyssey-adventure/pdf/Odyssey Adventure, Volume 2, Issue 3 (Summer 1983).pdf",
+   "bytes": 9529016,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/odyssey-adventure-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "odyssey-adventure-1-2",
+  "publication": "odyssey-adventure",
+  "sequence": 7,
+  "number": "1",
+  "date": {
+   "display": "Winter 1983",
+   "start": "1983-12",
+   "precision": "season"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 211.6,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/415e9129-a4c9-4e68-bb02-a5e559e1dc14",
+   "external_id": "415e9129-a4c9-4e68-bb02-a5e559e1dc14",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/odyssey-adventure/pdf/Odyssey Adventure, Volume 2, Issue 1 (Winter 1983).pdf",
+   "bytes": 10671535,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/odyssey-adventure-1-2.jpg",
+   "pages_rendered": false
+  }
+ }
+]

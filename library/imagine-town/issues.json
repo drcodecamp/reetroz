@@ -1,1 +1,108 @@
-[]
+[
+ {
+  "id": "imagine-town-200906-magazine",
+  "publication": "imagine-town",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "Summer 2009",
+   "start": "2009-06",
+   "precision": "season"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b89883ed-27c0-4ee2-9978-7b6af493c351",
+   "external_id": "b89883ed-27c0-4ee2-9978-7b6af493c351",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/imagine-town/pdf/Imagine Town Magazine (Summer 2009).pdf",
+   "bytes": 30177458,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/imagine-town-200906-magazine.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "imagine-town-200909-magazine",
+  "publication": "imagine-town",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "Fall 2009",
+   "start": "2009-09",
+   "precision": "season"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 204.5,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/13ac8760-512b-4d18-8592-522d9097e63f",
+   "external_id": "13ac8760-512b-4d18-8592-522d9097e63f",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/imagine-town/pdf/Imagine Town Magazine (Fall 2009).pdf",
+   "bytes": 28470173,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/imagine-town-200909-magazine.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "imagine-town-200912-game-candy",
+  "publication": "imagine-town",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "undated, distributed December/January 2009",
+   "start": "2009-12",
+   "precision": "month",
+   "end": "2010-01"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 204.5,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50780548-58c2-40ea-a30c-1fd0ab6ba471",
+   "external_id": "50780548-58c2-40ea-a30c-1fd0ab6ba471",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/imagine-town/pdf/Game Candy (undated, distributed December-January 2009).pdf",
+   "bytes": 29679342,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/imagine-town-200912-game-candy.jpg",
+   "pages_rendered": false
+  }
+ }
+]

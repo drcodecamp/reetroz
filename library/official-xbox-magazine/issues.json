@@ -1,1 +1,4869 @@
-[]
+[
+ {
+  "id": "official-xbox-magazine-0",
+  "publication": "official-xbox-magazine",
+  "sequence": 1,
+  "number": "0",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 227.5,
+   "height_mm": 266.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c5bf2d3d-b83b-4ac8-8e24-44b173547eaa",
+   "external_id": "c5bf2d3d-b83b-4ac8-8e24-44b173547eaa",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 0, Special E3 Collector's Issue (May 2001).pdf",
+   "bytes": 117758063,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-0.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-200111-special-preview-issue",
+  "publication": "official-xbox-magazine",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "November 2001",
+   "start": "2001-11",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 226.3,
+   "height_mm": 267.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5f2bde2d-58f9-442e-b157-acb8ab8f6d1a",
+   "external_id": "5f2bde2d-58f9-442e-b157-acb8ab8f6d1a",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Special Preview Issue (November 2001).pdf",
+   "bytes": 85749379,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-200111-special-preview-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-1",
+  "publication": "official-xbox-magazine",
+  "sequence": 3,
+  "number": "1",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 228.2,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4efae8df-cfdf-4ca0-bb7d-f1ca2bfeaa9f",
+   "external_id": "4efae8df-cfdf-4ca0-bb7d-f1ca2bfeaa9f",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 1 (December 2001).pdf",
+   "bytes": 207332143,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-2",
+  "publication": "official-xbox-magazine",
+  "sequence": 4,
+  "number": "2",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 225.6,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/97502fef-06de-40a1-ba9f-ea2983b87e96",
+   "external_id": "97502fef-06de-40a1-ba9f-ea2983b87e96",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 2 (January 2002).pdf",
+   "bytes": 94845127,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-3",
+  "publication": "official-xbox-magazine",
+  "sequence": 5,
+  "number": "3",
+  "date": {
+   "display": "February 2002",
+   "start": "2002-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 228.6,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/06ebf312-badc-42ec-92e1-0fdd431cc7a3",
+   "external_id": "06ebf312-badc-42ec-92e1-0fdd431cc7a3",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 3 (February 2002).pdf",
+   "bytes": 105874230,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-4",
+  "publication": "official-xbox-magazine",
+  "sequence": 6,
+  "number": "4",
+  "date": {
+   "display": "March 2002",
+   "start": "2002-03",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 229.5,
+   "height_mm": 268.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c8e6ca9-6f9b-4037-97c1-0bc0090cedad",
+   "external_id": "4c8e6ca9-6f9b-4037-97c1-0bc0090cedad",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 4 (March 2002).pdf",
+   "bytes": 83221007,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-5",
+  "publication": "official-xbox-magazine",
+  "sequence": 7,
+  "number": "5",
+  "date": {
+   "display": "April 2002",
+   "start": "2002-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 228.6,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc5a3255-ad15-434f-82dc-52aea8759379",
+   "external_id": "cc5a3255-ad15-434f-82dc-52aea8759379",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 5 (April 2002).pdf",
+   "bytes": 107307073,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-6",
+  "publication": "official-xbox-magazine",
+  "sequence": 8,
+  "number": "6",
+  "date": {
+   "display": "May 2002",
+   "start": "2002-05",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 224.6,
+   "height_mm": 265.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5604c52a-b137-479e-92e4-38765bdcd613",
+   "external_id": "5604c52a-b137-479e-92e4-38765bdcd613",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 6 (May 2002).pdf",
+   "bytes": 77081627,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-7",
+  "publication": "official-xbox-magazine",
+  "sequence": 9,
+  "number": "7",
+  "date": {
+   "display": "June 2002",
+   "start": "2002-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 227.2,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ff15d8c8-ea75-4950-8372-ebfbaf8e7197",
+   "external_id": "ff15d8c8-ea75-4950-8372-ebfbaf8e7197",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 7 (June 2002).pdf",
+   "bytes": 84531327,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-8",
+  "publication": "official-xbox-magazine",
+  "sequence": 10,
+  "number": "8",
+  "date": {
+   "display": "July 2002",
+   "start": "2002-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 227.5,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1f9f31a9-ccb4-4047-ab64-44451db98eba",
+   "external_id": "1f9f31a9-ccb4-4047-ab64-44451db98eba",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 8 (July 2002).pdf",
+   "bytes": 79729125,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-9",
+  "publication": "official-xbox-magazine",
+  "sequence": 11,
+  "number": "9",
+  "date": {
+   "display": "August 2002",
+   "start": "2002-08",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 228.6,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3abb5f67-236e-4f5a-8f1f-940992b48336",
+   "external_id": "3abb5f67-236e-4f5a-8f1f-940992b48336",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 9 (August 2002).pdf",
+   "bytes": 105121772,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-10",
+  "publication": "official-xbox-magazine",
+  "sequence": 12,
+  "number": "10",
+  "date": {
+   "display": "September 2002",
+   "start": "2002-09",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 228.6,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b12d07ab-352f-4d67-9bf1-1c8a835bb6a8",
+   "external_id": "b12d07ab-352f-4d67-9bf1-1c8a835bb6a8",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 10 (September 2002).pdf",
+   "bytes": 129661315,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-11",
+  "publication": "official-xbox-magazine",
+  "sequence": 13,
+  "number": "11",
+  "date": {
+   "display": "October 2002",
+   "start": "2002-10",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 140.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ccb6faab-998d-46f6-b661-77c76d4bab22",
+   "external_id": "ccb6faab-998d-46f6-b661-77c76d4bab22",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 11 (October 2002).pdf",
+   "bytes": 122852314,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-12",
+  "publication": "official-xbox-magazine",
+  "sequence": 14,
+  "number": "12",
+  "date": {
+   "display": "November 2002",
+   "start": "2002-11",
+   "precision": "month"
+  },
+  "pages": 174,
+  "dimensions": {
+   "width_mm": 143.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/941c4578-3c2f-45e6-8d2f-39b46fc3a137",
+   "external_id": "941c4578-3c2f-45e6-8d2f-39b46fc3a137",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 12 (November 2002).pdf",
+   "bytes": 119620776,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-13",
+  "publication": "official-xbox-magazine",
+  "sequence": 15,
+  "number": "13",
+  "date": {
+   "display": "December 2002",
+   "start": "2002-12",
+   "precision": "month"
+  },
+  "pages": 174,
+  "dimensions": {
+   "width_mm": 141.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ce4595e0-e99d-455c-8fe2-a7ffb85628fe",
+   "external_id": "ce4595e0-e99d-455c-8fe2-a7ffb85628fe",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 13 (December 2002).pdf",
+   "bytes": 179968343,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-14",
+  "publication": "official-xbox-magazine",
+  "sequence": 16,
+  "number": "14",
+  "date": {
+   "display": "January 2003",
+   "start": "2003-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 142.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/54b9335e-a54f-4424-b798-a0abd3483c7b",
+   "external_id": "54b9335e-a54f-4424-b798-a0abd3483c7b",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 14 (January 2003).pdf",
+   "bytes": 121104594,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-15",
+  "publication": "official-xbox-magazine",
+  "sequence": 17,
+  "number": "15",
+  "date": {
+   "display": "February 2003",
+   "start": "2003-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25e94001-ed58-483d-a3a8-56961f26dd3b",
+   "external_id": "25e94001-ed58-483d-a3a8-56961f26dd3b",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 15 (February 2003).pdf",
+   "bytes": 101298877,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-16",
+  "publication": "official-xbox-magazine",
+  "sequence": 18,
+  "number": "16",
+  "date": {
+   "display": "March 2003",
+   "start": "2003-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a8613358-fd43-4fbf-8389-4e4fff494252",
+   "external_id": "a8613358-fd43-4fbf-8389-4e4fff494252",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 16 (March 2003).pdf",
+   "bytes": 104899501,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-17",
+  "publication": "official-xbox-magazine",
+  "sequence": 19,
+  "number": "17",
+  "date": {
+   "display": "April 2003",
+   "start": "2003-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 265.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/39154728-a0ea-43a4-8700-39457ef28750",
+   "external_id": "39154728-a0ea-43a4-8700-39457ef28750",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 17 (April 2003).pdf",
+   "bytes": 69198270,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-18",
+  "publication": "official-xbox-magazine",
+  "sequence": 20,
+  "number": "18",
+  "date": {
+   "display": "May 2003",
+   "start": "2003-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 142.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7f997b5b-10b3-4119-bc96-36853890d572",
+   "external_id": "7f997b5b-10b3-4119-bc96-36853890d572",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 18 (May 2003).pdf",
+   "bytes": 106856627,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-19",
+  "publication": "official-xbox-magazine",
+  "sequence": 21,
+  "number": "19",
+  "date": {
+   "display": "June 2003",
+   "start": "2003-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6bc6f62f-61c4-4202-a83c-3507b33ec87f",
+   "external_id": "6bc6f62f-61c4-4202-a83c-3507b33ec87f",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 19 (June 2003).pdf",
+   "bytes": 71037471,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-20",
+  "publication": "official-xbox-magazine",
+  "sequence": 22,
+  "number": "20",
+  "date": {
+   "display": "July 2003",
+   "start": "2003-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bd67f5c9-d846-43ef-ba37-5902ac4b4527",
+   "external_id": "bd67f5c9-d846-43ef-ba37-5902ac4b4527",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 20 (July 2003).pdf",
+   "bytes": 73994866,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-21",
+  "publication": "official-xbox-magazine",
+  "sequence": 23,
+  "number": "21",
+  "date": {
+   "display": "August 2003",
+   "start": "2003-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 268.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d501e48-3b21-4bed-815b-27fd120b259d",
+   "external_id": "7d501e48-3b21-4bed-815b-27fd120b259d",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 21 (August 2003).pdf",
+   "bytes": 73656572,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-22",
+  "publication": "official-xbox-magazine",
+  "sequence": 24,
+  "number": "22",
+  "date": {
+   "display": "September 2003",
+   "start": "2003-09",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d24c1f31-0c55-4b04-b615-d9e235d25c0e",
+   "external_id": "d24c1f31-0c55-4b04-b615-d9e235d25c0e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 22 (September 2003).pdf",
+   "bytes": 76086803,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-23",
+  "publication": "official-xbox-magazine",
+  "sequence": 25,
+  "number": "23",
+  "date": {
+   "display": "October 2003",
+   "start": "2003-10",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 141.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/71989614-c500-4e63-8b0a-705c984082ce",
+   "external_id": "71989614-c500-4e63-8b0a-705c984082ce",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 23 (October 2003).pdf",
+   "bytes": 71813971,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-24",
+  "publication": "official-xbox-magazine",
+  "sequence": 26,
+  "number": "24",
+  "date": {
+   "display": "November 2003",
+   "start": "2003-11",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 141.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e18b3bed-eb3e-48ed-86a1-6e36488ad603",
+   "external_id": "e18b3bed-eb3e-48ed-86a1-6e36488ad603",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 24 (November 2003).pdf",
+   "bytes": 110107119,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-25",
+  "publication": "official-xbox-magazine",
+  "sequence": 27,
+  "number": "25",
+  "date": {
+   "display": "December 2003",
+   "start": "2003-12",
+   "precision": "month"
+  },
+  "pages": 180,
+  "dimensions": {
+   "width_mm": 203.6,
+   "height_mm": 268.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/122e2c90-f9f8-47a5-bf79-5e4b126438f7",
+   "external_id": "122e2c90-f9f8-47a5-bf79-5e4b126438f7",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 25 (December 2003).pdf",
+   "bytes": 134522135,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-26",
+  "publication": "official-xbox-magazine",
+  "sequence": 28,
+  "number": "26",
+  "date": {
+   "display": "Holiday 2003",
+   "start": "2003-12",
+   "precision": "season"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 140.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0bcae4ea-5821-458f-981c-d4eb66be8559",
+   "external_id": "0bcae4ea-5821-458f-981c-d4eb66be8559",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 26 (Holiday 2003).pdf",
+   "bytes": 136529872,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-1-2",
+  "publication": "official-xbox-magazine",
+  "sequence": 29,
+  "number": "1",
+  "date": {
+   "display": "est. late 2004",
+   "start": "2004",
+   "precision": "year"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/280a3cee-78a0-41c2-ae8f-cf887bd3242c",
+   "external_id": "280a3cee-78a0-41c2-ae8f-cf887bd3242c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Xbox Live Gamer, Volume 1 (est. late 2004).pdf",
+   "bytes": 84114984,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-2-2",
+  "publication": "official-xbox-magazine",
+  "sequence": 30,
+  "number": "2",
+  "date": {
+   "display": "est. early 2004",
+   "start": "2004",
+   "precision": "year"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 203.8,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c9d1f537-1269-40e7-bf5d-ed57b9698ed0",
+   "external_id": "c9d1f537-1269-40e7-bf5d-ed57b9698ed0",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Xbox Cheat Guide, Volume 2 (est. early 2004).pdf",
+   "bytes": 109029744,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-27",
+  "publication": "official-xbox-magazine",
+  "sequence": 31,
+  "number": "27",
+  "date": {
+   "display": "January 2004",
+   "start": "2004-01",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2a9ab77d-9bef-44e6-9eae-a67dabfb7163",
+   "external_id": "2a9ab77d-9bef-44e6-9eae-a67dabfb7163",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 27 (January 2004).pdf",
+   "bytes": 75442254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-28",
+  "publication": "official-xbox-magazine",
+  "sequence": 32,
+  "number": "28",
+  "date": {
+   "display": "February 2004",
+   "start": "2004-02",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/853aa3e6-7c01-4b17-962a-4430f2d3546f",
+   "external_id": "853aa3e6-7c01-4b17-962a-4430f2d3546f",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 28 (February 2004).pdf",
+   "bytes": 72337472,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-29",
+  "publication": "official-xbox-magazine",
+  "sequence": 33,
+  "number": "29",
+  "date": {
+   "display": "March 2004",
+   "start": "2004-03",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4cfa9bd1-f097-4177-94d1-b7ee95b51c0c",
+   "external_id": "4cfa9bd1-f097-4177-94d1-b7ee95b51c0c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 29 (March 2004).pdf",
+   "bytes": 72422697,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-30",
+  "publication": "official-xbox-magazine",
+  "sequence": 34,
+  "number": "30",
+  "date": {
+   "display": "April 2004",
+   "start": "2004-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 203.5,
+   "height_mm": 262.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4cc36c5e-39a8-4088-8c12-b84816425cf6",
+   "external_id": "4cc36c5e-39a8-4088-8c12-b84816425cf6",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 30 (April 2004).pdf",
+   "bytes": 71205600,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-31",
+  "publication": "official-xbox-magazine",
+  "sequence": 35,
+  "number": "31",
+  "date": {
+   "display": "May 2004",
+   "start": "2004-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 264.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07832363-a95d-4dc3-9f5d-c5c279a9ac12",
+   "external_id": "07832363-a95d-4dc3-9f5d-c5c279a9ac12",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 31 (May 2004).pdf",
+   "bytes": 81157882,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-32",
+  "publication": "official-xbox-magazine",
+  "sequence": 36,
+  "number": "32",
+  "date": {
+   "display": "June 2004",
+   "start": "2004-06",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e982de65-f848-47bb-9cd0-597e95a7819e",
+   "external_id": "e982de65-f848-47bb-9cd0-597e95a7819e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 32 (June 2004).pdf",
+   "bytes": 81026249,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-33",
+  "publication": "official-xbox-magazine",
+  "sequence": 37,
+  "number": "33",
+  "date": {
+   "display": "July 2004",
+   "start": "2004-07",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/87209a46-561e-46fa-9cda-42e0baddede4",
+   "external_id": "87209a46-561e-46fa-9cda-42e0baddede4",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 33 (July 2004).pdf",
+   "bytes": 79742318,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-34",
+  "publication": "official-xbox-magazine",
+  "sequence": 38,
+  "number": "34",
+  "date": {
+   "display": "August 2004",
+   "start": "2004-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0546f030-3a93-45c4-9c24-243683c4251e",
+   "external_id": "0546f030-3a93-45c4-9c24-243683c4251e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 34 (August 2004).pdf",
+   "bytes": 81971159,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-35",
+  "publication": "official-xbox-magazine",
+  "sequence": 39,
+  "number": "35",
+  "date": {
+   "display": "September 2004",
+   "start": "2004-09",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90c41c1b-a43c-49ce-9f62-c3e928aed7dc",
+   "external_id": "90c41c1b-a43c-49ce-9f62-c3e928aed7dc",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 35 (September 2004).pdf",
+   "bytes": 81180861,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-36",
+  "publication": "official-xbox-magazine",
+  "sequence": 40,
+  "number": "36",
+  "date": {
+   "display": "October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 141.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0dd4ac9-abb0-46d9-8211-424b2ed72416",
+   "external_id": "c0dd4ac9-abb0-46d9-8211-424b2ed72416",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 36 (October 2004).pdf",
+   "bytes": 76097883,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-37",
+  "publication": "official-xbox-magazine",
+  "sequence": 41,
+  "number": "37",
+  "date": {
+   "display": "November 2004",
+   "start": "2004-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9405b0e4-73d4-4461-bd78-cb4385227285",
+   "external_id": "9405b0e4-73d4-4461-bd78-cb4385227285",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 37 (November 2004).pdf",
+   "bytes": 86274982,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-38",
+  "publication": "official-xbox-magazine",
+  "sequence": 42,
+  "number": "38",
+  "date": {
+   "display": "December 2004",
+   "start": "2004-12",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/654888b0-54ed-43e9-a14a-554e13eedb9e",
+   "external_id": "654888b0-54ed-43e9-a14a-554e13eedb9e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 38 (December 2004).pdf",
+   "bytes": 109155421,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-39",
+  "publication": "official-xbox-magazine",
+  "sequence": 43,
+  "number": "39",
+  "date": {
+   "display": "Holiday 2004",
+   "start": "2004-12",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4d9f8826-49b3-4c65-8d6a-6d632ad74da4",
+   "external_id": "4d9f8826-49b3-4c65-8d6a-6d632ad74da4",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 39 (Holiday 2004).pdf",
+   "bytes": 126722749,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-200412-special-issue-holiday-preview-guide",
+  "publication": "official-xbox-magazine",
+  "sequence": 44,
+  "number": "special",
+  "date": {
+   "display": "Holiday 2004",
+   "start": "2004-12",
+   "precision": "season"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 206.5,
+   "height_mm": 274.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/461538dc-cff8-4a0f-9a0e-873c9c03d987",
+   "external_id": "461538dc-cff8-4a0f-9a0e-873c9c03d987",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine Special Issue, Holiday Preview Guide (Holiday 2004).pdf",
+   "bytes": 83195796,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-200412-special-issue-holiday-preview-guide.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-40",
+  "publication": "official-xbox-magazine",
+  "sequence": 45,
+  "number": "40",
+  "date": {
+   "display": "January 2005",
+   "start": "2005-01",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b6f9696-a44b-43a7-8cce-41ef8f36aa12",
+   "external_id": "2b6f9696-a44b-43a7-8cce-41ef8f36aa12",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 40 (January 2005).pdf",
+   "bytes": 84676892,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-41",
+  "publication": "official-xbox-magazine",
+  "sequence": 46,
+  "number": "41",
+  "date": {
+   "display": "February 2005",
+   "start": "2005-02",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 262.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45268a17-77eb-4c48-beae-48890f768161",
+   "external_id": "45268a17-77eb-4c48-beae-48890f768161",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 41 (February 2005).pdf",
+   "bytes": 86075389,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-42",
+  "publication": "official-xbox-magazine",
+  "sequence": 47,
+  "number": "42",
+  "date": {
+   "display": "March 2005",
+   "start": "2005-03",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 202.4,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4a292133-ebd5-4599-9b9f-3a3e2e99d97d",
+   "external_id": "4a292133-ebd5-4599-9b9f-3a3e2e99d97d",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 42 (March 2005).pdf",
+   "bytes": 88672064,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-43",
+  "publication": "official-xbox-magazine",
+  "sequence": 48,
+  "number": "43",
+  "date": {
+   "display": "April 2005",
+   "start": "2005-04",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/34245bb4-9365-4429-8f6c-d9f585f66d0a",
+   "external_id": "34245bb4-9365-4429-8f6c-d9f585f66d0a",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 43 (April 2005).pdf",
+   "bytes": 84541338,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-44",
+  "publication": "official-xbox-magazine",
+  "sequence": 49,
+  "number": "44",
+  "date": {
+   "display": "May 2005",
+   "start": "2005-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0017711-6c34-4595-9492-ce7f68b8a5ce",
+   "external_id": "a0017711-6c34-4595-9492-ce7f68b8a5ce",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 44 (May 2005).pdf",
+   "bytes": 82903074,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-45",
+  "publication": "official-xbox-magazine",
+  "sequence": 50,
+  "number": "45",
+  "date": {
+   "display": "June 2005",
+   "start": "2005-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/81e32433-c262-4a6f-a2c9-636a00ad54c3",
+   "external_id": "81e32433-c262-4a6f-a2c9-636a00ad54c3",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 45 (June 2005).pdf",
+   "bytes": 82994003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-46",
+  "publication": "official-xbox-magazine",
+  "sequence": 51,
+  "number": "46",
+  "date": {
+   "display": "July 2005",
+   "start": "2005-07",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 202.4,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7cde155-4de7-46fc-97dd-00101ac8b90c",
+   "external_id": "c7cde155-4de7-46fc-97dd-00101ac8b90c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 46 (July 2005).pdf",
+   "bytes": 85447637,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-47",
+  "publication": "official-xbox-magazine",
+  "sequence": 52,
+  "number": "47",
+  "date": {
+   "display": "August 2005",
+   "start": "2005-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 263.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1a6d870-8e0f-4de0-8fed-55db39870367",
+   "external_id": "f1a6d870-8e0f-4de0-8fed-55db39870367",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 47 (August 2005).pdf",
+   "bytes": 84460135,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-47.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-48",
+  "publication": "official-xbox-magazine",
+  "sequence": 53,
+  "number": "48",
+  "date": {
+   "display": "September 2005",
+   "start": "2005-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 267.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8a1052e-b69a-482c-9e00-50fed604a839",
+   "external_id": "f8a1052e-b69a-482c-9e00-50fed604a839",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 48 (September 2005).pdf",
+   "bytes": 87237732,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-49",
+  "publication": "official-xbox-magazine",
+  "sequence": 54,
+  "number": "49",
+  "date": {
+   "display": "October 2005",
+   "start": "2005-10",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 263.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b26fe9df-f4bc-49f7-bb07-a1ed9c1ed63c",
+   "external_id": "b26fe9df-f4bc-49f7-bb07-a1ed9c1ed63c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 49 (October 2005).pdf",
+   "bytes": 103585263,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-50",
+  "publication": "official-xbox-magazine",
+  "sequence": 55,
+  "number": "50",
+  "date": {
+   "display": "November 2005",
+   "start": "2005-11",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 263.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5fa628a6-2d40-4c8d-a882-96cb75cf928e",
+   "external_id": "5fa628a6-2d40-4c8d-a882-96cb75cf928e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 50 (November 2005).pdf",
+   "bytes": 123932589,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-51",
+  "publication": "official-xbox-magazine",
+  "sequence": 56,
+  "number": "51",
+  "date": {
+   "display": "December 2005",
+   "start": "2005-12",
+   "precision": "month"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d547e8cd-3b2a-4b36-a671-aa462e8bb64e",
+   "external_id": "d547e8cd-3b2a-4b36-a671-aa462e8bb64e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 51 (December 2005).pdf",
+   "bytes": 114231968,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-52",
+  "publication": "official-xbox-magazine",
+  "sequence": 57,
+  "number": "52",
+  "date": {
+   "display": "Holiday 2005",
+   "start": "2005-12",
+   "precision": "season"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 200.3,
+   "height_mm": 263.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0d85ca58-b9cd-47f0-ab30-ac49242a65c5",
+   "external_id": "0d85ca58-b9cd-47f0-ab30-ac49242a65c5",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 52 (Holiday 2005).pdf",
+   "bytes": 119390445,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-53",
+  "publication": "official-xbox-magazine",
+  "sequence": 58,
+  "number": "53",
+  "date": {
+   "display": "January 2006",
+   "start": "2006-01",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b5b1ca9e-163c-4914-acfa-0ec98bd4a714",
+   "external_id": "b5b1ca9e-163c-4914-acfa-0ec98bd4a714",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 53 (January 2006).pdf",
+   "bytes": 83759512,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-54",
+  "publication": "official-xbox-magazine",
+  "sequence": 59,
+  "number": "54",
+  "date": {
+   "display": "February 2006",
+   "start": "2006-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 265.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28a19136-4708-46d0-b856-aaa730d36554",
+   "external_id": "28a19136-4708-46d0-b856-aaa730d36554",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 54 (February 2006).pdf",
+   "bytes": 82143866,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-55",
+  "publication": "official-xbox-magazine",
+  "sequence": 60,
+  "number": "55",
+  "date": {
+   "display": "March 2006",
+   "start": "2006-03",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 264.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/15942982-279d-48c6-ac00-fa528a9799d4",
+   "external_id": "15942982-279d-48c6-ac00-fa528a9799d4",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 55 (March 2006).pdf",
+   "bytes": 85521921,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-56",
+  "publication": "official-xbox-magazine",
+  "sequence": 61,
+  "number": "56",
+  "date": {
+   "display": "April 2006",
+   "start": "2006-04",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 141.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f546479c-49b6-45c2-aa5f-5b4f0acaa5ed",
+   "external_id": "f546479c-49b6-45c2-aa5f-5b4f0acaa5ed",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 56 (April 2006).pdf",
+   "bytes": 118273632,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-57",
+  "publication": "official-xbox-magazine",
+  "sequence": 62,
+  "number": "57",
+  "date": {
+   "display": "May 2006",
+   "start": "2006-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 384.0,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e248e669-ad57-42ae-98d7-15d61d72b375",
+   "external_id": "e248e669-ad57-42ae-98d7-15d61d72b375",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 57 (May 2006).pdf",
+   "bytes": 83011313,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-57.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-58",
+  "publication": "official-xbox-magazine",
+  "sequence": 63,
+  "number": "58",
+  "date": {
+   "display": "June 2006",
+   "start": "2006-06",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4fa997fa-f39e-41d7-89a7-cf5116cdd8cc",
+   "external_id": "4fa997fa-f39e-41d7-89a7-cf5116cdd8cc",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 58 (June 2006).pdf",
+   "bytes": 87356003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-58.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-59",
+  "publication": "official-xbox-magazine",
+  "sequence": 64,
+  "number": "59",
+  "date": {
+   "display": "July 2006",
+   "start": "2006-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38137e25-93b3-4eb6-96b2-fdc1b9287692",
+   "external_id": "38137e25-93b3-4eb6-96b2-fdc1b9287692",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 59 (July 2006).pdf",
+   "bytes": 124399387,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-59.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-60",
+  "publication": "official-xbox-magazine",
+  "sequence": 65,
+  "number": "60",
+  "date": {
+   "display": "August 2006",
+   "start": "2006-08",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 200.1,
+   "height_mm": 262.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f5c8da2c-43bb-4d14-a78b-3d09099f6e43",
+   "external_id": "f5c8da2c-43bb-4d14-a78b-3d09099f6e43",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 60 (August 2006).pdf",
+   "bytes": 87675775,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-60.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-61",
+  "publication": "official-xbox-magazine",
+  "sequence": 66,
+  "number": "61",
+  "date": {
+   "display": "September 2006",
+   "start": "2006-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 263.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/80d2fa2a-7c3c-4026-98d8-3e79b24b50d6",
+   "external_id": "80d2fa2a-7c3c-4026-98d8-3e79b24b50d6",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 61 (September 2006).pdf",
+   "bytes": 79573213,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-61.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-62",
+  "publication": "official-xbox-magazine",
+  "sequence": 67,
+  "number": "62",
+  "date": {
+   "display": "October 2006",
+   "start": "2006-10",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a56da991-d201-46e1-92fa-fb51a6c463f1",
+   "external_id": "a56da991-d201-46e1-92fa-fb51a6c463f1",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 62 (October 2006).pdf",
+   "bytes": 77947346,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-62.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-63",
+  "publication": "official-xbox-magazine",
+  "sequence": 68,
+  "number": "63",
+  "date": {
+   "display": "November 2006",
+   "start": "2006-11",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 262.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eb2839f9-aa51-44b8-975f-b95e358fd32a",
+   "external_id": "eb2839f9-aa51-44b8-975f-b95e358fd32a",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 63 (November 2006).pdf",
+   "bytes": 82326080,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-63.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-64",
+  "publication": "official-xbox-magazine",
+  "sequence": 69,
+  "number": "64",
+  "date": {
+   "display": "December 2006",
+   "start": "2006-12",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 200.1,
+   "height_mm": 263.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e1f1bd39-59b2-483b-8ea3-ee1d480267f4",
+   "external_id": "e1f1bd39-59b2-483b-8ea3-ee1d480267f4",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 64 (December 2006).pdf",
+   "bytes": 80747178,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-65",
+  "publication": "official-xbox-magazine",
+  "sequence": 70,
+  "number": "65",
+  "date": {
+   "display": "Holiday 2006",
+   "start": "2006-12",
+   "precision": "season"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/012a2041-f16f-49ba-b109-f2e7da093f0a",
+   "external_id": "012a2041-f16f-49ba-b109-f2e7da093f0a",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 65 (Holiday 2006).pdf",
+   "bytes": 100919730,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-65.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-66",
+  "publication": "official-xbox-magazine",
+  "sequence": 71,
+  "number": "66",
+  "date": {
+   "display": "January 2007",
+   "start": "2007-01",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/606e6d3f-15ad-4a18-b057-ac7c59cee259",
+   "external_id": "606e6d3f-15ad-4a18-b057-ac7c59cee259",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 66 (January 2007).pdf",
+   "bytes": 74790443,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-66.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-67",
+  "publication": "official-xbox-magazine",
+  "sequence": 72,
+  "number": "67",
+  "date": {
+   "display": "February 2007",
+   "start": "2007-02",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/436bac1a-bc9a-42e4-b237-b5fe7de2f7f4",
+   "external_id": "436bac1a-bc9a-42e4-b237-b5fe7de2f7f4",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 67 (February 2007).pdf",
+   "bytes": 76456399,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-67.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-68",
+  "publication": "official-xbox-magazine",
+  "sequence": 73,
+  "number": "68",
+  "date": {
+   "display": "March 2007",
+   "start": "2007-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/80fff2eb-7021-403d-98ce-c01cedf06b99",
+   "external_id": "80fff2eb-7021-403d-98ce-c01cedf06b99",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 68 (March 2007).pdf",
+   "bytes": 76469708,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-68.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-69",
+  "publication": "official-xbox-magazine",
+  "sequence": 74,
+  "number": "69",
+  "date": {
+   "display": "April 2007",
+   "start": "2007-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e123b4ee-bec2-488c-ab09-d382d80de9ae",
+   "external_id": "e123b4ee-bec2-488c-ab09-d382d80de9ae",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 69 (April 2007).pdf",
+   "bytes": 88668870,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-69.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-70",
+  "publication": "official-xbox-magazine",
+  "sequence": 75,
+  "number": "70",
+  "date": {
+   "display": "May 2007",
+   "start": "2007-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5407cd7d-39d6-42ce-9da2-74b27eb85c9a",
+   "external_id": "5407cd7d-39d6-42ce-9da2-74b27eb85c9a",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 70 (May 2007).pdf",
+   "bytes": 118276941,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-70.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-71",
+  "publication": "official-xbox-magazine",
+  "sequence": 76,
+  "number": "71",
+  "date": {
+   "display": "June 2007",
+   "start": "2007-06",
+   "precision": "month"
+  },
+  "pages": 101,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/137ad784-bc36-4255-975b-7aa56925cfcb",
+   "external_id": "137ad784-bc36-4255-975b-7aa56925cfcb",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 71 (June 2007).pdf",
+   "bytes": 79193125,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-71.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-72",
+  "publication": "official-xbox-magazine",
+  "sequence": 77,
+  "number": "72",
+  "date": {
+   "display": "July 2007",
+   "start": "2007-07",
+   "precision": "month"
+  },
+  "pages": 101,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/acfbb195-5ae2-4356-bbc0-d9d42e6e466b",
+   "external_id": "acfbb195-5ae2-4356-bbc0-d9d42e6e466b",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 72 (July 2007).pdf",
+   "bytes": 76774788,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-72.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-73",
+  "publication": "official-xbox-magazine",
+  "sequence": 78,
+  "number": "73",
+  "date": {
+   "display": "August 2007",
+   "start": "2007-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.5,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8ad5b168-0cf8-495d-ac19-f3b699f0aa63",
+   "external_id": "8ad5b168-0cf8-495d-ac19-f3b699f0aa63",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 73 (August 2007).pdf",
+   "bytes": 82844204,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-73.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-74",
+  "publication": "official-xbox-magazine",
+  "sequence": 79,
+  "number": "74",
+  "date": {
+   "display": "September 2007",
+   "start": "2007-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 264.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1a6b0d51-6190-4116-a2ae-4cf9daf7e461",
+   "external_id": "1a6b0d51-6190-4116-a2ae-4cf9daf7e461",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 74 (September 2007).pdf",
+   "bytes": 80020587,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-74.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-75",
+  "publication": "official-xbox-magazine",
+  "sequence": 80,
+  "number": "75",
+  "date": {
+   "display": "October 2007",
+   "start": "2007-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f6db977f-f444-4f27-8fe5-aa8a0afd96ef",
+   "external_id": "f6db977f-f444-4f27-8fe5-aa8a0afd96ef",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 75 (October 2007).pdf",
+   "bytes": 81175155,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-75.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-76",
+  "publication": "official-xbox-magazine",
+  "sequence": 81,
+  "number": "76",
+  "date": {
+   "display": "November 2007",
+   "start": "2007-11",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 200.4,
+   "height_mm": 264.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9228d3a9-9451-4be4-9b20-a50d91a4405a",
+   "external_id": "9228d3a9-9451-4be4-9b20-a50d91a4405a",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 76 (November 2007).pdf",
+   "bytes": 97865600,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-76.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-77",
+  "publication": "official-xbox-magazine",
+  "sequence": 82,
+  "number": "77",
+  "date": {
+   "display": "December 2007",
+   "start": "2007-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd3987b0-b185-4091-b544-c5c84a12610a",
+   "external_id": "fd3987b0-b185-4091-b544-c5c84a12610a",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 77 (December 2007).pdf",
+   "bytes": 82648868,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-77.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-78",
+  "publication": "official-xbox-magazine",
+  "sequence": 83,
+  "number": "78",
+  "date": {
+   "display": "Holiday 2007",
+   "start": "2007-12",
+   "precision": "season"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 198.9,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aa1eb8f1-ac7d-4ede-aec3-445fcb688e48",
+   "external_id": "aa1eb8f1-ac7d-4ede-aec3-445fcb688e48",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 78 (Holiday 2007).pdf",
+   "bytes": 95756328,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-78.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-79",
+  "publication": "official-xbox-magazine",
+  "sequence": 84,
+  "number": "79",
+  "date": {
+   "display": "January 2008",
+   "start": "2008-01",
+   "precision": "month"
+  },
+  "pages": 105,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6b508f41-f7db-47ec-8dc2-df8b84cee37c",
+   "external_id": "6b508f41-f7db-47ec-8dc2-df8b84cee37c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 79 (January 2008).pdf",
+   "bytes": 81337210,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-79.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-80",
+  "publication": "official-xbox-magazine",
+  "sequence": 85,
+  "number": "80",
+  "date": {
+   "display": "February 2008",
+   "start": "2008-02",
+   "precision": "month"
+  },
+  "pages": 95,
+  "dimensions": {
+   "width_mm": 199.8,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11967c08-3cdf-4cdc-b54f-7cb6d1945fa7",
+   "external_id": "11967c08-3cdf-4cdc-b54f-7cb6d1945fa7",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 80 (February 2008).pdf",
+   "bytes": 81595941,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-80.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-81",
+  "publication": "official-xbox-magazine",
+  "sequence": 86,
+  "number": "81",
+  "date": {
+   "display": "March 2008",
+   "start": "2008-03",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 263.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8c8c3bb6-0cc7-45e3-9581-79aa01b46783",
+   "external_id": "8c8c3bb6-0cc7-45e3-9581-79aa01b46783",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 81 (March 2008).pdf",
+   "bytes": 89424384,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-81.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-82",
+  "publication": "official-xbox-magazine",
+  "sequence": 87,
+  "number": "82",
+  "date": {
+   "display": "April 2008",
+   "start": "2008-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6a62b216-2de3-4ddc-934d-3ba72f938812",
+   "external_id": "6a62b216-2de3-4ddc-934d-3ba72f938812",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 82 (April 2008).pdf",
+   "bytes": 126153771,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-82.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-83",
+  "publication": "official-xbox-magazine",
+  "sequence": 88,
+  "number": "83",
+  "date": {
+   "display": "May 2008",
+   "start": "2008-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/562170ff-0f59-4eb1-a097-8c6c60be2f24",
+   "external_id": "562170ff-0f59-4eb1-a097-8c6c60be2f24",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 83 (May 2008).pdf",
+   "bytes": 121314894,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-83.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-84",
+  "publication": "official-xbox-magazine",
+  "sequence": 89,
+  "number": "84",
+  "date": {
+   "display": "June 2008",
+   "start": "2008-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/69415429-7a05-415a-b245-177337f43034",
+   "external_id": "69415429-7a05-415a-b245-177337f43034",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 84 (June 2008).pdf",
+   "bytes": 123737380,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-84.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-85",
+  "publication": "official-xbox-magazine",
+  "sequence": 90,
+  "number": "85",
+  "date": {
+   "display": "July 2008",
+   "start": "2008-07",
+   "precision": "month"
+  },
+  "pages": 113,
+  "dimensions": {
+   "width_mm": 75.8,
+   "height_mm": 101.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ade80abb-e85f-4aa8-86af-372ca9795db9",
+   "external_id": "ade80abb-e85f-4aa8-86af-372ca9795db9",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 85 (July 2008).pdf",
+   "bytes": 155547583,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-85.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-86",
+  "publication": "official-xbox-magazine",
+  "sequence": 91,
+  "number": "86",
+  "date": {
+   "display": "August 2008",
+   "start": "2008-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0e69dda0-1e7e-4e85-9d0c-deb3d7086088",
+   "external_id": "0e69dda0-1e7e-4e85-9d0c-deb3d7086088",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 86 (August 2008).pdf",
+   "bytes": 165267222,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-86.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-87",
+  "publication": "official-xbox-magazine",
+  "sequence": 92,
+  "number": "87",
+  "date": {
+   "display": "September 2008",
+   "start": "2008-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1dc72c29-d375-491d-99de-5ffc68846ec8",
+   "external_id": "1dc72c29-d375-491d-99de-5ffc68846ec8",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 87 (September 2008).pdf",
+   "bytes": 159377473,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-87.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-88",
+  "publication": "official-xbox-magazine",
+  "sequence": 93,
+  "number": "88",
+  "date": {
+   "display": "October 2008",
+   "start": "2008-10",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 203.0,
+   "height_mm": 266.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7bce6c98-1869-42f9-b873-93bb3977e690",
+   "external_id": "7bce6c98-1869-42f9-b873-93bb3977e690",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 88 (October 2008).pdf",
+   "bytes": 91941451,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-88.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-89",
+  "publication": "official-xbox-magazine",
+  "sequence": 94,
+  "number": "89",
+  "date": {
+   "display": "November 2008",
+   "start": "2008-11",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 141.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6bffa719-6889-49d9-82c4-289f3c32ca00",
+   "external_id": "6bffa719-6889-49d9-82c4-289f3c32ca00",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 89 (November 2008).pdf",
+   "bytes": 167388204,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-89.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-90",
+  "publication": "official-xbox-magazine",
+  "sequence": 95,
+  "number": "90",
+  "date": {
+   "display": "December 2008",
+   "start": "2008-12",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 135.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eff95e6b-54bc-4dbf-8eab-86d091b373a0",
+   "external_id": "eff95e6b-54bc-4dbf-8eab-86d091b373a0",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 90 (December 2008).pdf",
+   "bytes": 141312606,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-90.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-91",
+  "publication": "official-xbox-magazine",
+  "sequence": 96,
+  "number": "91",
+  "date": {
+   "display": "Holiday 2008",
+   "start": "2008-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd9a105c-0a20-45c6-bf59-9a0d82068818",
+   "external_id": "fd9a105c-0a20-45c6-bf59-9a0d82068818",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 91 (Holiday 2008).pdf",
+   "bytes": 136163687,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-91.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-92",
+  "publication": "official-xbox-magazine",
+  "sequence": 97,
+  "number": "92",
+  "date": {
+   "display": "January 2009",
+   "start": "2009-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5138c054-884c-45e0-a137-0f52ca2ccffe",
+   "external_id": "5138c054-884c-45e0-a137-0f52ca2ccffe",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 92 (January 2009).pdf",
+   "bytes": 121474445,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-92.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-93",
+  "publication": "official-xbox-magazine",
+  "sequence": 98,
+  "number": "93",
+  "date": {
+   "display": "February 2009",
+   "start": "2009-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c917f8d-fd50-4550-8a83-1d915b48bf1c",
+   "external_id": "3c917f8d-fd50-4550-8a83-1d915b48bf1c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 93 (February 2009).pdf",
+   "bytes": 75330977,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-93.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-94",
+  "publication": "official-xbox-magazine",
+  "sequence": 99,
+  "number": "94",
+  "date": {
+   "display": "March 2009",
+   "start": "2009-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 142.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2b2bba1-1e57-4404-b82a-29479f1b7b83",
+   "external_id": "a2b2bba1-1e57-4404-b82a-29479f1b7b83",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 94 (March 2009).pdf",
+   "bytes": 145997217,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-94.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-200903-presents-zombies",
+  "publication": "official-xbox-magazine",
+  "sequence": 100,
+  "number": "special",
+  "date": {
+   "display": "est. spring 2009",
+   "start": "2009-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d95e02f5-a24d-4e75-88b9-f2d8d8076570",
+   "external_id": "d95e02f5-a24d-4e75-88b9-f2d8d8076570",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine Presents Zombies! (est. spring 2009).pdf",
+   "bytes": 137182571,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-200903-presents-zombies.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-95",
+  "publication": "official-xbox-magazine",
+  "sequence": 101,
+  "number": "95",
+  "date": {
+   "display": "April 2009",
+   "start": "2009-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11f8d0f7-1212-41c5-adb8-dc15dbe5d34b",
+   "external_id": "11f8d0f7-1212-41c5-adb8-dc15dbe5d34b",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 95 (April 2009).pdf",
+   "bytes": 117522707,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-95.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-96",
+  "publication": "official-xbox-magazine",
+  "sequence": 102,
+  "number": "96",
+  "date": {
+   "display": "May 2009",
+   "start": "2009-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 139.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07ec8e59-a934-48c8-9667-2283b3609cc1",
+   "external_id": "07ec8e59-a934-48c8-9667-2283b3609cc1",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 96 (May 2009).pdf",
+   "bytes": 126978366,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-96.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-97",
+  "publication": "official-xbox-magazine",
+  "sequence": 103,
+  "number": "97",
+  "date": {
+   "display": "June 2009",
+   "start": "2009-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 140.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/99b20041-e170-4fdc-b034-80e45a56f66e",
+   "external_id": "99b20041-e170-4fdc-b034-80e45a56f66e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 97 (June 2009).pdf",
+   "bytes": 133092820,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-97.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-98",
+  "publication": "official-xbox-magazine",
+  "sequence": 104,
+  "number": "98",
+  "date": {
+   "display": "July 2009",
+   "start": "2009-07",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bcce2e11-a780-49ee-b387-0dd01a3bca18",
+   "external_id": "bcce2e11-a780-49ee-b387-0dd01a3bca18",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 98 (July 2009).pdf",
+   "bytes": 75432035,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-98.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-99",
+  "publication": "official-xbox-magazine",
+  "sequence": 105,
+  "number": "99",
+  "date": {
+   "display": "August 2009",
+   "start": "2009-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.8,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f57ad465-f557-42f4-90fc-84b76ade5005",
+   "external_id": "f57ad465-f557-42f4-90fc-84b76ade5005",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 99 (August 2009).pdf",
+   "bytes": 75433643,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-99.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-100",
+  "publication": "official-xbox-magazine",
+  "sequence": 106,
+  "number": "100",
+  "date": {
+   "display": "September 2009",
+   "start": "2009-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/12bb5d9e-728f-4306-8cdf-407be1f1467e",
+   "external_id": "12bb5d9e-728f-4306-8cdf-407be1f1467e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 100 (September 2009).pdf",
+   "bytes": 76858251,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-100.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-101",
+  "publication": "official-xbox-magazine",
+  "sequence": 107,
+  "number": "101",
+  "date": {
+   "display": "October 2009",
+   "start": "2009-10",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3b8a3b7e-2660-4f16-a168-a74e33959ce1",
+   "external_id": "3b8a3b7e-2660-4f16-a168-a74e33959ce1",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 101 (October 2009).pdf",
+   "bytes": 76280033,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-101.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-102",
+  "publication": "official-xbox-magazine",
+  "sequence": 108,
+  "number": "102",
+  "date": {
+   "display": "November 2009",
+   "start": "2009-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f989486b-6f5c-4966-8cbe-a3d7656c6296",
+   "external_id": "f989486b-6f5c-4966-8cbe-a3d7656c6296",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 102 (November 2009).pdf",
+   "bytes": 74793995,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-102.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-103",
+  "publication": "official-xbox-magazine",
+  "sequence": 109,
+  "number": "103",
+  "date": {
+   "display": "December 2009",
+   "start": "2009-12",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 142.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5484cf08-178f-4e47-989d-d44cf707b0cb",
+   "external_id": "5484cf08-178f-4e47-989d-d44cf707b0cb",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 103 (December 2009).pdf",
+   "bytes": 119495695,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-103.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-104",
+  "publication": "official-xbox-magazine",
+  "sequence": 110,
+  "number": "104",
+  "date": {
+   "display": "Holiday 2009",
+   "start": "2009-12",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/398a6291-5f32-40f5-a9a4-25f06771dffb",
+   "external_id": "398a6291-5f32-40f5-a9a4-25f06771dffb",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 104 (Holiday 2009).pdf",
+   "bytes": 124195515,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-104.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-105",
+  "publication": "official-xbox-magazine",
+  "sequence": 111,
+  "number": "105",
+  "date": {
+   "display": "January 2010",
+   "start": "2010-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 140.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6b61f56-7ac2-4d44-a25e-237849f4d909",
+   "external_id": "a6b61f56-7ac2-4d44-a25e-237849f4d909",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 105 (January 2010).pdf",
+   "bytes": 115457744,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-105.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-106",
+  "publication": "official-xbox-magazine",
+  "sequence": 112,
+  "number": "106",
+  "date": {
+   "display": "February 2010",
+   "start": "2010-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d82fa603-19e2-4cb9-9e12-959a93cf0ec8",
+   "external_id": "d82fa603-19e2-4cb9-9e12-959a93cf0ec8",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 106 (February 2010).pdf",
+   "bytes": 113185401,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-106.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-107",
+  "publication": "official-xbox-magazine",
+  "sequence": 113,
+  "number": "107",
+  "date": {
+   "display": "March 2010",
+   "start": "2010-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 143.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/156e7db3-0a92-44ab-9ba2-960f069fcf49",
+   "external_id": "156e7db3-0a92-44ab-9ba2-960f069fcf49",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 107 (March 2010).pdf",
+   "bytes": 104865747,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-107.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-108",
+  "publication": "official-xbox-magazine",
+  "sequence": 114,
+  "number": "108",
+  "date": {
+   "display": "April 2010",
+   "start": "2010-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3e103fd7-6f84-4c62-8a1f-3d2e786c4b99",
+   "external_id": "3e103fd7-6f84-4c62-8a1f-3d2e786c4b99",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 108 (April 2010).pdf",
+   "bytes": 73370186,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-108.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-109",
+  "publication": "official-xbox-magazine",
+  "sequence": 115,
+  "number": "109",
+  "date": {
+   "display": "May 2010",
+   "start": "2010-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 142.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d97fcb85-e613-45b8-9b57-ecf22046c80c",
+   "external_id": "d97fcb85-e613-45b8-9b57-ecf22046c80c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 109 (May 2010).pdf",
+   "bytes": 123899968,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-109.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-110",
+  "publication": "official-xbox-magazine",
+  "sequence": 116,
+  "number": "110",
+  "date": {
+   "display": "June 2010",
+   "start": "2010-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c49930e8-3e81-4113-9e08-bb5e9359ea71",
+   "external_id": "c49930e8-3e81-4113-9e08-bb5e9359ea71",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 110 (June 2010).pdf",
+   "bytes": 124293533,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-110.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-111",
+  "publication": "official-xbox-magazine",
+  "sequence": 117,
+  "number": "111",
+  "date": {
+   "display": "July 2010",
+   "start": "2010-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.0,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/941fd48a-2185-4295-be8e-4ffd13e84834",
+   "external_id": "941fd48a-2185-4295-be8e-4ffd13e84834",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 111 (July 2010).pdf",
+   "bytes": 69351711,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-111.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-112",
+  "publication": "official-xbox-magazine",
+  "sequence": 118,
+  "number": "112",
+  "date": {
+   "display": "August 2010",
+   "start": "2010-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.0,
+   "height_mm": 264.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf786f5a-8603-46b3-84bb-1deeb418e965",
+   "external_id": "cf786f5a-8603-46b3-84bb-1deeb418e965",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 112 (August 2010).pdf",
+   "bytes": 72163266,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-112.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-113",
+  "publication": "official-xbox-magazine",
+  "sequence": 119,
+  "number": "113",
+  "date": {
+   "display": "September 2010",
+   "start": "2010-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4460f06d-66d3-4072-8237-85d8d66950f1",
+   "external_id": "4460f06d-66d3-4072-8237-85d8d66950f1",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 113 (September 2010).pdf",
+   "bytes": 129098862,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-113.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-114",
+  "publication": "official-xbox-magazine",
+  "sequence": 120,
+  "number": "114",
+  "date": {
+   "display": "October 2010",
+   "start": "2010-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.6,
+   "height_mm": 261.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c71dd480-e71b-4afd-84a3-43f5be7f0914",
+   "external_id": "c71dd480-e71b-4afd-84a3-43f5be7f0914",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 114 (October 2010).pdf",
+   "bytes": 73986103,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-114.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-115",
+  "publication": "official-xbox-magazine",
+  "sequence": 121,
+  "number": "115",
+  "date": {
+   "display": "November 2010",
+   "start": "2010-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e3c07051-11e0-4e77-9380-429e20896219",
+   "external_id": "e3c07051-11e0-4e77-9380-429e20896219",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 115 (November 2010).pdf",
+   "bytes": 73401239,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-115.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-116",
+  "publication": "official-xbox-magazine",
+  "sequence": 122,
+  "number": "116",
+  "date": {
+   "display": "December 2010",
+   "start": "2010-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 200.5,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ec263d8-2c7f-4524-af73-8634235da117",
+   "external_id": "6ec263d8-2c7f-4524-af73-8634235da117",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 116 (December 2010).pdf",
+   "bytes": 72957297,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-116.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-117",
+  "publication": "official-xbox-magazine",
+  "sequence": 123,
+  "number": "117",
+  "date": {
+   "display": "Holiday 2010",
+   "start": "2010-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e284dc3-7594-4174-8d0f-91230da58ef5",
+   "external_id": "6e284dc3-7594-4174-8d0f-91230da58ef5",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 117 (Holiday 2010).pdf",
+   "bytes": 70046357,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-117.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-118",
+  "publication": "official-xbox-magazine",
+  "sequence": 124,
+  "number": "118",
+  "date": {
+   "display": "January 2011",
+   "start": "2011-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bcb2d8ee-1b27-4169-8642-cdfa74de6cba",
+   "external_id": "bcb2d8ee-1b27-4169-8642-cdfa74de6cba",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 118 (January 2011).pdf",
+   "bytes": 69282369,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-118.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-119",
+  "publication": "official-xbox-magazine",
+  "sequence": 125,
+  "number": "119",
+  "date": {
+   "display": "February 2011",
+   "start": "2011-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/422327c5-4187-490b-a829-d023b1b9e586",
+   "external_id": "422327c5-4187-490b-a829-d023b1b9e586",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 119 (February 2011).pdf",
+   "bytes": 70579092,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-119.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-120",
+  "publication": "official-xbox-magazine",
+  "sequence": 126,
+  "number": "120",
+  "date": {
+   "display": "March 2011",
+   "start": "2011-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/54073f80-b8e2-495d-a880-09068ec2fa97",
+   "external_id": "54073f80-b8e2-495d-a880-09068ec2fa97",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 120 (March 2011).pdf",
+   "bytes": 72273491,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-120.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-121",
+  "publication": "official-xbox-magazine",
+  "sequence": 127,
+  "number": "121",
+  "date": {
+   "display": "April 2011",
+   "start": "2011-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 262.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26c44562-cfdd-40eb-b2b8-262b41949e8e",
+   "external_id": "26c44562-cfdd-40eb-b2b8-262b41949e8e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 121 (April 2011).pdf",
+   "bytes": 75653172,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-121.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-122",
+  "publication": "official-xbox-magazine",
+  "sequence": 128,
+  "number": "122",
+  "date": {
+   "display": "May 2011",
+   "start": "2011-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b0af434b-5cac-48bc-a736-b0577ecc0c35",
+   "external_id": "b0af434b-5cac-48bc-a736-b0577ecc0c35",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 122 (May 2011).pdf",
+   "bytes": 107384786,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-122.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-123",
+  "publication": "official-xbox-magazine",
+  "sequence": 129,
+  "number": "123",
+  "date": {
+   "display": "June 2011",
+   "start": "2011-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 262.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a64e1b7f-2007-45a8-a5bb-7171216d3ad3",
+   "external_id": "a64e1b7f-2007-45a8-a5bb-7171216d3ad3",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 123 (June 2011).pdf",
+   "bytes": 71450686,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-123.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-124",
+  "publication": "official-xbox-magazine",
+  "sequence": 130,
+  "number": "124",
+  "date": {
+   "display": "July 2011",
+   "start": "2011-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 199.3,
+   "height_mm": 262.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0b0f938c-b972-4fac-965e-3979789ae096",
+   "external_id": "0b0f938c-b972-4fac-965e-3979789ae096",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 124 (July 2011).pdf",
+   "bytes": 74943453,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-124.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-125",
+  "publication": "official-xbox-magazine",
+  "sequence": 131,
+  "number": "125",
+  "date": {
+   "display": "August 2011",
+   "start": "2011-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.2,
+   "height_mm": 264.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f0695371-7ddd-4877-b255-6ec8f7185d1d",
+   "external_id": "f0695371-7ddd-4877-b255-6ec8f7185d1d",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 125 (August 2011).pdf",
+   "bytes": 73357456,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-125.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-126",
+  "publication": "official-xbox-magazine",
+  "sequence": 132,
+  "number": "126",
+  "date": {
+   "display": "September 2011",
+   "start": "2011-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/88587c78-4f5d-4bb2-ad04-bad13577d0f2",
+   "external_id": "88587c78-4f5d-4bb2-ad04-bad13577d0f2",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 126 (September 2011).pdf",
+   "bytes": 71028331,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-126.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-127",
+  "publication": "official-xbox-magazine",
+  "sequence": 133,
+  "number": "127",
+  "date": {
+   "display": "October 2011",
+   "start": "2011-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.8,
+   "height_mm": 263.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/33e2679f-909e-4bc7-acb8-9e1890ea1b4c",
+   "external_id": "33e2679f-909e-4bc7-acb8-9e1890ea1b4c",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 127 (October 2011).pdf",
+   "bytes": 69945315,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-127.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-128",
+  "publication": "official-xbox-magazine",
+  "sequence": 134,
+  "number": "128",
+  "date": {
+   "display": "November 2011",
+   "start": "2011-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a074e24d-03c5-4aae-8a55-0f7afeaa2911",
+   "external_id": "a074e24d-03c5-4aae-8a55-0f7afeaa2911",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 128 (November 2011).pdf",
+   "bytes": 72518606,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-128.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-129",
+  "publication": "official-xbox-magazine",
+  "sequence": 135,
+  "number": "129",
+  "date": {
+   "display": "December 2011",
+   "start": "2011-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 262.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df2edc59-e7d2-4585-8b94-dadec3546392",
+   "external_id": "df2edc59-e7d2-4585-8b94-dadec3546392",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 129 (December 2011).pdf",
+   "bytes": 72304269,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-129.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-130",
+  "publication": "official-xbox-magazine",
+  "sequence": 136,
+  "number": "130",
+  "date": {
+   "display": "Holiday 2011",
+   "start": "2011-12",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 267.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d113c1b8-eb42-4466-862e-e500971f9259",
+   "external_id": "d113c1b8-eb42-4466-862e-e500971f9259",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 130 (Holiday 2011).pdf",
+   "bytes": 70986920,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-130.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-131",
+  "publication": "official-xbox-magazine",
+  "sequence": 137,
+  "number": "131",
+  "date": {
+   "display": "January 2012",
+   "start": "2012-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 262.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d7eab99-8047-4354-8552-aa5c72c4e9ae",
+   "external_id": "1d7eab99-8047-4354-8552-aa5c72c4e9ae",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 131 (January 2012).pdf",
+   "bytes": 69800475,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-131.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-132",
+  "publication": "official-xbox-magazine",
+  "sequence": 138,
+  "number": "132",
+  "date": {
+   "display": "February 2012",
+   "start": "2012-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/250cf50d-f5fb-40fa-9a38-a70292df4e2f",
+   "external_id": "250cf50d-f5fb-40fa-9a38-a70292df4e2f",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 132 (February 2012).pdf",
+   "bytes": 71463939,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-132.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-xbox-magazine-133",
+  "publication": "official-xbox-magazine",
+  "sequence": 139,
+  "number": "133",
+  "date": {
+   "display": "March 2012",
+   "start": "2012-03",
+   "precision": "month"
+  },
+  "pages": 101,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2936471d-4e24-4e19-9891-4136767d3588",
+   "external_id": "2936471d-4e24-4e19-9891-4136767d3588",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-xbox-magazine/pdf/Official Xbox Magazine, Issue 133 (March 2012).pdf",
+   "bytes": 115601921,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-xbox-magazine-133.jpg",
+   "pages_rendered": false
+  }
+ }
+]

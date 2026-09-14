@@ -1,0 +1,65 @@
+[
+ {
+  "id": "gamesport-2",
+  "publication": "gamesport",
+  "sequence": 1,
+  "number": "2",
+  "date": {
+   "display": "1995",
+   "start": "1995",
+   "precision": "year"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5870872d-7b3c-4c97-82a1-86f61ef39a06",
+   "external_id": "5870872d-7b3c-4c97-82a1-86f61ef39a06",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gamesport/pdf/GameSport, Number 2 (1995).pdf",
+   "bytes": 127381296,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gamesport-1995-premiere-issue",
+  "publication": "gamesport",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "1995",
+   "start": "1995",
+   "precision": "year"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 277.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/341ca98a-c378-4cf0-8a02-fc38c8f3d6a4",
+   "external_id": "341ca98a-c378-4cf0-8a02-fc38c8f3d6a4",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gamesport/pdf/GameSport, Premiere Issue (1995).pdf",
+   "bytes": 145883938,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "special": "Premiere issue"
+ }
+]

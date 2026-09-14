@@ -1,1 +1,673 @@
-[]
+[
+ {
+  "id": "xbox-nation-1",
+  "publication": "xbox-nation",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 262.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4fd77890-1dda-44b8-aeb9-c78cec9aafa5",
+   "external_id": "4fd77890-1dda-44b8-aeb9-c78cec9aafa5",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 1 (January 2002).pdf",
+   "bytes": 148221763,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-2",
+  "publication": "xbox-nation",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "Spring 2002",
+   "start": "2002-03",
+   "precision": "season"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 203.5,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec4c97ba-3846-491c-a8a1-d5d53ca3ac0f",
+   "external_id": "ec4c97ba-3846-491c-a8a1-d5d53ca3ac0f",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 2 (Spring 2002).pdf",
+   "bytes": 88150672,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-3",
+  "publication": "xbox-nation",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "Summer 2002",
+   "start": "2002-06",
+   "precision": "season"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 259.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/69555def-0cd8-4b5a-b4d2-3d324c7863f4",
+   "external_id": "69555def-0cd8-4b5a-b4d2-3d324c7863f4",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 3 (Summer 2002).pdf",
+   "bytes": 80185720,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-4",
+  "publication": "xbox-nation",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "Fall 2002",
+   "start": "2002-09",
+   "precision": "season"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 208.7,
+   "height_mm": 259.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5d437531-a871-47ea-9f75-aea93378160a",
+   "external_id": "5d437531-a871-47ea-9f75-aea93378160a",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 4 (Fall 2002).pdf",
+   "bytes": 198388510,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-5",
+  "publication": "xbox-nation",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "Winter 2002",
+   "start": "2002-12",
+   "precision": "season"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 196.4,
+   "height_mm": 246.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5b09a799-fe6a-4ee4-8873-7d8d75120d38",
+   "external_id": "5b09a799-fe6a-4ee4-8873-7d8d75120d38",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 5 (Winter 2002).pdf",
+   "bytes": 108985812,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-6",
+  "publication": "xbox-nation",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "February/March 2003",
+   "start": "2003-02",
+   "precision": "month",
+   "end": "2003-03"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 209.8,
+   "height_mm": 259.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/af5a8f04-287e-41e8-9d1d-e7776a15f840",
+   "external_id": "af5a8f04-287e-41e8-9d1d-e7776a15f840",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 6 (February-March 2003).pdf",
+   "bytes": 137233702,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-7",
+  "publication": "xbox-nation",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "April/May 2003",
+   "start": "2003-04",
+   "precision": "month",
+   "end": "2003-05"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 198.7,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd928015-b729-496b-a07c-8ab743bf106b",
+   "external_id": "fd928015-b729-496b-a07c-8ab743bf106b",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 7 (April-May 2003).pdf",
+   "bytes": 111810572,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-8",
+  "publication": "xbox-nation",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "June/July 2003",
+   "start": "2003-06",
+   "precision": "month",
+   "end": "2003-07"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 211.2,
+   "height_mm": 259.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/85e91625-b1ea-48ad-aa70-da94e66f3d27",
+   "external_id": "85e91625-b1ea-48ad-aa70-da94e66f3d27",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 8 (June-July 2003).pdf",
+   "bytes": 157455687,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-9",
+  "publication": "xbox-nation",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "August/September 2003",
+   "start": "2003-08",
+   "precision": "month",
+   "end": "2003-09"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1be3e703-f993-4598-8701-6eb4bf565f73",
+   "external_id": "1be3e703-f993-4598-8701-6eb4bf565f73",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 9 (August-September 2003).pdf",
+   "bytes": 122935187,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-10",
+  "publication": "xbox-nation",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "October/November 2003",
+   "start": "2003-10",
+   "precision": "month",
+   "end": "2003-11"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 204.7,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d932f22b-c452-4610-9b9c-179a1ee6b095",
+   "external_id": "d932f22b-c452-4610-9b9c-179a1ee6b095",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 10 (October-November 2003).pdf",
+   "bytes": 120445589,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-12",
+  "publication": "xbox-nation",
+  "sequence": 11,
+  "number": "12",
+  "date": {
+   "display": "March 2004",
+   "start": "2004-03",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 262.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fb5db380-bdfb-40d3-b44f-2437f3569f08",
+   "external_id": "fb5db380-bdfb-40d3-b44f-2437f3569f08",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 12 (March 2004).pdf",
+   "bytes": 131560779,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-15",
+  "publication": "xbox-nation",
+  "sequence": 12,
+  "number": "15",
+  "date": {
+   "display": "June 2004",
+   "start": "2004-06",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 199.8,
+   "height_mm": 265.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4558b463-2da2-4125-9c6e-3dc037c5d1c5",
+   "external_id": "4558b463-2da2-4125-9c6e-3dc037c5d1c5",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 15 (June 2004).pdf",
+   "bytes": 98072318,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-17",
+  "publication": "xbox-nation",
+  "sequence": 13,
+  "number": "17",
+  "date": {
+   "display": "August 2004",
+   "start": "2004-08",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 189.0,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0b77bcb-0fb9-49db-b8f8-a8eec5f29679",
+   "external_id": "c0b77bcb-0fb9-49db-b8f8-a8eec5f29679",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 17 (August 2004).pdf",
+   "bytes": 126996906,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-18",
+  "publication": "xbox-nation",
+  "sequence": 14,
+  "number": "18",
+  "date": {
+   "display": "September 2004",
+   "start": "2004-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5c521e74-3b79-4471-9ce2-c615b991827c",
+   "external_id": "5c521e74-3b79-4471-9ce2-c615b991827c",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 18 (September 2004).pdf",
+   "bytes": 100461234,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-19",
+  "publication": "xbox-nation",
+  "sequence": 15,
+  "number": "19",
+  "date": {
+   "display": "October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 198.4,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a6c23a9-cfa3-4091-8214-d5e82a57a5ec",
+   "external_id": "0a6c23a9-cfa3-4091-8214-d5e82a57a5ec",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 19 (October 2004).pdf",
+   "bytes": 88715936,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-11",
+  "publication": "xbox-nation",
+  "sequence": 16,
+  "number": "11",
+  "date": {
+   "display": "December/January 2004",
+   "start": "2004-12",
+   "precision": "month",
+   "end": "2005-01"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f47b4fa5-e7fc-43fa-9786-f8d5ee8b979f",
+   "external_id": "f47b4fa5-e7fc-43fa-9786-f8d5ee8b979f",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 11 (December-January 2004).pdf",
+   "bytes": 142295015,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-21",
+  "publication": "xbox-nation",
+  "sequence": 17,
+  "number": "21",
+  "date": {
+   "display": "December 2004",
+   "start": "2004-12",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 199.2,
+   "height_mm": 265.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf06162c-842f-4128-8b8e-675ec6d3e8ec",
+   "external_id": "bf06162c-842f-4128-8b8e-675ec6d3e8ec",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 21 (December 2004).pdf",
+   "bytes": 96760720,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-22",
+  "publication": "xbox-nation",
+  "sequence": 18,
+  "number": "22",
+  "date": {
+   "display": "January 2005",
+   "start": "2005-01",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 200.1,
+   "height_mm": 266.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/56a70863-f4b4-4753-83cc-3c7c72b31939",
+   "external_id": "56a70863-f4b4-4753-83cc-3c7c72b31939",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 22 (January 2005).pdf",
+   "bytes": 91115261,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "xbox-nation-23",
+  "publication": "xbox-nation",
+  "sequence": 19,
+  "number": "23",
+  "date": {
+   "display": "February 2005",
+   "start": "2005-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 265.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5e0cf439-fc19-41e3-9ff3-f9159f7d014e",
+   "external_id": "5e0cf439-fc19-41e3-9ff3-f9159f7d014e",
+   "retrieved_at": "2026-09-14T09:36:08+00:00"
+  },
+  "files": {
+   "pdf": "library/xbox-nation/pdf/Xbox Nation, Issue 23 (February 2005).pdf",
+   "bytes": 90936950,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:08+00:00",
+  "assets": {
+   "cover": "site/public/covers/xbox-nation-23.jpg",
+   "pages_rendered": false
+  }
+ }
+]

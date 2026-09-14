@@ -1,1 +1,3257 @@
-[]
+[
+ {
+  "id": "videogames-computer-entertainment-1",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "December 1988",
+   "start": "1988-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 271.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4035337c-d2ae-4c4e-b907-50ae885acb72",
+   "external_id": "4035337c-d2ae-4c4e-b907-50ae885acb72",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 1 (December 1988).pdf",
+   "bytes": 66470694,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-2",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "February 1989",
+   "start": "1989-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.3,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0fb62308-bc13-4e3f-8b5a-9b2ebaadfebc",
+   "external_id": "0fb62308-bc13-4e3f-8b5a-9b2ebaadfebc",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 2 (February 1989).pdf",
+   "bytes": 74700529,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-3",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "April 1989",
+   "start": "1989-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2fc23a58-3366-43ce-812f-0c718bb7bbb8",
+   "external_id": "2fc23a58-3366-43ce-812f-0c718bb7bbb8",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 3 (April 1989).pdf",
+   "bytes": 70339731,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-4",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "May 1989",
+   "start": "1989-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 213.2,
+   "height_mm": 277.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/54224d27-b903-4719-9256-b7a73d7a39d9",
+   "external_id": "54224d27-b903-4719-9256-b7a73d7a39d9",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 4 (May 1989).pdf",
+   "bytes": 74523210,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-5",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "June 1989",
+   "start": "1989-06",
+   "precision": "month"
+  },
+  "pages": 99,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 268.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ee1a490f-beb2-45bb-889c-f39317658a59",
+   "external_id": "ee1a490f-beb2-45bb-889c-f39317658a59",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 5 (June 1989).pdf",
+   "bytes": 93042529,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-6",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "July 1989",
+   "start": "1989-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.7,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/95fd0f25-7abe-47a9-b7ca-3f610063b51c",
+   "external_id": "95fd0f25-7abe-47a9-b7ca-3f610063b51c",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 6 (July 1989).pdf",
+   "bytes": 77554126,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-7",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "August 1989",
+   "start": "1989-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.4,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2052265-9ceb-48a7-9546-5c1d8d5bb69a",
+   "external_id": "a2052265-9ceb-48a7-9546-5c1d8d5bb69a",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 7 (August 1989).pdf",
+   "bytes": 75162997,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-8",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "September 1989",
+   "start": "1989-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 272.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c5702ca0-1c84-4bb2-9c6e-9f55fabcf7bd",
+   "external_id": "c5702ca0-1c84-4bb2-9c6e-9f55fabcf7bd",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 8 (September 1989).pdf",
+   "bytes": 75681784,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-9",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "October 1989",
+   "start": "1989-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 209.0,
+   "height_mm": 272.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/962d47f8-95c7-4dc8-b11d-f6561c40bbe3",
+   "external_id": "962d47f8-95c7-4dc8-b11d-f6561c40bbe3",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 9 (October 1989).pdf",
+   "bytes": 89006507,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-10",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "November 1989",
+   "start": "1989-11",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 208.1,
+   "height_mm": 271.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1a516bb0-788a-488a-9803-e20500b8c64f",
+   "external_id": "1a516bb0-788a-488a-9803-e20500b8c64f",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 10 (November 1989).pdf",
+   "bytes": 125228669,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-11",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "December 1989",
+   "start": "1989-12",
+   "precision": "month"
+  },
+  "pages": 196,
+  "dimensions": {
+   "width_mm": 207.8,
+   "height_mm": 271.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aa949b20-4627-460a-90b5-b8a85871c38d",
+   "external_id": "aa949b20-4627-460a-90b5-b8a85871c38d",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 11 (December 1989).pdf",
+   "bytes": 158439957,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-12",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "January 1990",
+   "start": "1990-01",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 205.5,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e398375a-b6c9-49f2-a671-9f772a087346",
+   "external_id": "e398375a-b6c9-49f2-a671-9f772a087346",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 12 (January 1990).pdf",
+   "bytes": 126140316,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-13",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "February 1990",
+   "start": "1990-02",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 273.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5cded14d-7941-42f6-98c9-bd27b26b3332",
+   "external_id": "5cded14d-7941-42f6-98c9-bd27b26b3332",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 13 (February 1990).pdf",
+   "bytes": 102854308,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-14",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "March 1990",
+   "start": "1990-03",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 271.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b74729e1-17e7-46ca-bb74-748103215416",
+   "external_id": "b74729e1-17e7-46ca-bb74-748103215416",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 14 (March 1990).pdf",
+   "bytes": 92402305,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-15",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "April 1990",
+   "start": "1990-04",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 209.9,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bd20ae43-3164-4c26-aeb7-0f376e1c0959",
+   "external_id": "bd20ae43-3164-4c26-aeb7-0f376e1c0959",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 15 (April 1990).pdf",
+   "bytes": 103606880,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-16",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "May 1990",
+   "start": "1990-05",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 210.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e09bc562-f5bb-405b-a43a-2c8e6c6b1024",
+   "external_id": "e09bc562-f5bb-405b-a43a-2c8e6c6b1024",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 16 (May 1990).pdf",
+   "bytes": 177367383,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-17",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "June 1990",
+   "start": "1990-06",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 210.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d371f9b6-4185-4ca7-97ee-27957c3a33ed",
+   "external_id": "d371f9b6-4185-4ca7-97ee-27957c3a33ed",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 17 (June 1990).pdf",
+   "bytes": 183244502,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-18",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "July 1990",
+   "start": "1990-07",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b83b9691-b227-4558-972f-8d186a6c9b9f",
+   "external_id": "b83b9691-b227-4558-972f-8d186a6c9b9f",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 18 (July 1990).pdf",
+   "bytes": 127358738,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-19",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "August 1990",
+   "start": "1990-08",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 273.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3820af07-11bb-480c-ac6b-be57f8b14a9b",
+   "external_id": "3820af07-11bb-480c-ac6b-be57f8b14a9b",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 19 (August 1990).pdf",
+   "bytes": 127932822,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-20",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 20,
+  "number": "20",
+  "date": {
+   "display": "September 1990",
+   "start": "1990-09",
+   "precision": "month"
+  },
+  "pages": 170,
+  "dimensions": {
+   "width_mm": 212.5,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26843147-5564-4a44-bbec-8c7861c7bd8d",
+   "external_id": "26843147-5564-4a44-bbec-8c7861c7bd8d",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 20 (September 1990).pdf",
+   "bytes": 202918110,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-21",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 21,
+  "number": "21",
+  "date": {
+   "display": "October 1990",
+   "start": "1990-10",
+   "precision": "month"
+  },
+  "pages": 192,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 268.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/854c9eed-356b-4c05-8c03-bfc9f9cd3b8e",
+   "external_id": "854c9eed-356b-4c05-8c03-bfc9f9cd3b8e",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 21 (October 1990).pdf",
+   "bytes": 155063880,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-22",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 22,
+  "number": "22",
+  "date": {
+   "display": "November 1990",
+   "start": "1990-11",
+   "precision": "month"
+  },
+  "pages": 228,
+  "dimensions": {
+   "width_mm": 209.4,
+   "height_mm": 276.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c3be0455-4bd1-4a53-9165-a023e2bac27c",
+   "external_id": "c3be0455-4bd1-4a53-9165-a023e2bac27c",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 22 (November 1990).pdf",
+   "bytes": 176772248,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-23",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 23,
+  "number": "23",
+  "date": {
+   "display": "December 1990",
+   "start": "1990-12",
+   "precision": "month"
+  },
+  "pages": 228,
+  "dimensions": {
+   "width_mm": 208.1,
+   "height_mm": 274.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c128ad42-83d5-4fdd-b171-0e82cae31165",
+   "external_id": "c128ad42-83d5-4fdd-b171-0e82cae31165",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 23 (December 1990).pdf",
+   "bytes": 184564809,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-24",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 24,
+  "number": "24",
+  "date": {
+   "display": "January 1991",
+   "start": "1991-01",
+   "precision": "month"
+  },
+  "pages": 192,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 272.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d94a448-10f3-450e-905b-7e7fffb76f2d",
+   "external_id": "7d94a448-10f3-450e-905b-7e7fffb76f2d",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 24 (January 1991).pdf",
+   "bytes": 137689576,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-25",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 25,
+  "number": "25",
+  "date": {
+   "display": "February 1991",
+   "start": "1991-02",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 212.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/02412348-9e87-46e5-a93a-8adf2c94efd7",
+   "external_id": "02412348-9e87-46e5-a93a-8adf2c94efd7",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 25 (February 1991).pdf",
+   "bytes": 180320713,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-26",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 26,
+  "number": "26",
+  "date": {
+   "display": "March 1991",
+   "start": "1991-03",
+   "precision": "month"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 210.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c3ce50f-2663-46f8-aa31-3475f627f445",
+   "external_id": "4c3ce50f-2663-46f8-aa31-3475f627f445",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 26 (March 1991).pdf",
+   "bytes": 166126082,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-27",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 27,
+  "number": "27",
+  "date": {
+   "display": "April 1991",
+   "start": "1991-04",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7b98659e-2d0a-4c33-8c32-e64fcede363c",
+   "external_id": "7b98659e-2d0a-4c33-8c32-e64fcede363c",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 27 (April 1991).pdf",
+   "bytes": 110393417,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-28",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 28,
+  "number": "28",
+  "date": {
+   "display": "May 1991",
+   "start": "1991-05",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 267.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ae41632a-dbd0-4ca1-8f4b-4579f6a06188",
+   "external_id": "ae41632a-dbd0-4ca1-8f4b-4579f6a06188",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 28 (May 1991).pdf",
+   "bytes": 145977869,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-29",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 29,
+  "number": "29",
+  "date": {
+   "display": "June 1991",
+   "start": "1991-06",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 213.5,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c3342b15-991e-4d23-8b51-ee99a1df9018",
+   "external_id": "c3342b15-991e-4d23-8b51-ee99a1df9018",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 29 (June 1991).pdf",
+   "bytes": 116374382,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-30",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 30,
+  "number": "30",
+  "date": {
+   "display": "July 1991",
+   "start": "1991-07",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 268.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c678b14-8254-4747-8413-aba1bcecc191",
+   "external_id": "4c678b14-8254-4747-8413-aba1bcecc191",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 30 (July 1991).pdf",
+   "bytes": 105166839,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-31",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 31,
+  "number": "31",
+  "date": {
+   "display": "August 1991",
+   "start": "1991-08",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1dff3ff1-6b03-4455-8884-a7fb705161bd",
+   "external_id": "1dff3ff1-6b03-4455-8884-a7fb705161bd",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 31 (August 1991).pdf",
+   "bytes": 95652139,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-32",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 32,
+  "number": "32",
+  "date": {
+   "display": "September 1991",
+   "start": "1991-09",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 211.3,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a95f082e-9c0c-4278-b6b0-98fa8a1e450d",
+   "external_id": "a95f082e-9c0c-4278-b6b0-98fa8a1e450d",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 32 (September 1991).pdf",
+   "bytes": 140990707,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-33",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 33,
+  "number": "33",
+  "date": {
+   "display": "October 1991",
+   "start": "1991-10",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 211.2,
+   "height_mm": 277.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba97fa43-27e9-490e-af79-b5d591251347",
+   "external_id": "ba97fa43-27e9-490e-af79-b5d591251347",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 33 (October 1991).pdf",
+   "bytes": 170799911,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-34",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 34,
+  "number": "34",
+  "date": {
+   "display": "November 1991",
+   "start": "1991-11",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 214.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ecabc14d-e10c-4384-9a84-793e884f2d56",
+   "external_id": "ecabc14d-e10c-4384-9a84-793e884f2d56",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 34 (November 1991).pdf",
+   "bytes": 164634824,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-35",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 35,
+  "number": "35",
+  "date": {
+   "display": "December 1991",
+   "start": "1991-12",
+   "precision": "month"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 272.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/846306e6-e4ae-4930-b4f3-252c595c3377",
+   "external_id": "846306e6-e4ae-4930-b4f3-252c595c3377",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 35 (December 1991).pdf",
+   "bytes": 41891165,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-36",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 36,
+  "number": "36",
+  "date": {
+   "display": "January 1992",
+   "start": "1992-01",
+   "precision": "month"
+  },
+  "pages": 180,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6515f184-9eb0-4e65-abd3-cea71ad514a6",
+   "external_id": "6515f184-9eb0-4e65-abd3-cea71ad514a6",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 36 (January 1992).pdf",
+   "bytes": 264875839,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-37",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 37,
+  "number": "37",
+  "date": {
+   "display": "February 1992",
+   "start": "1992-02",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 209.2,
+   "height_mm": 279.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d5547ca-6dee-4304-b9e2-6ea795da20ee",
+   "external_id": "9d5547ca-6dee-4304-b9e2-6ea795da20ee",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 37 (February 1992).pdf",
+   "bytes": 170990427,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-38",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 38,
+  "number": "38",
+  "date": {
+   "display": "March 1992",
+   "start": "1992-03",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 210.4,
+   "height_mm": 277.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6abe1d1a-07ce-4d85-bf8a-d0b14017e654",
+   "external_id": "6abe1d1a-07ce-4d85-bf8a-d0b14017e654",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 38 (March 1992).pdf",
+   "bytes": 167329682,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-39",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 39,
+  "number": "39",
+  "date": {
+   "display": "April 1992",
+   "start": "1992-04",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 206.5,
+   "height_mm": 277.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6a406b7b-2160-4ab3-b7eb-a5abfa64ea5f",
+   "external_id": "6a406b7b-2160-4ab3-b7eb-a5abfa64ea5f",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 39 (April 1992).pdf",
+   "bytes": 96382506,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-40",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 40,
+  "number": "40",
+  "date": {
+   "display": "May 1992",
+   "start": "1992-05",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 208.1,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/485de408-9e75-4a93-802b-3f1b286384f2",
+   "external_id": "485de408-9e75-4a93-802b-3f1b286384f2",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 40 (May 1992).pdf",
+   "bytes": 146724785,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-41",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 41,
+  "number": "41",
+  "date": {
+   "display": "June 1992",
+   "start": "1992-06",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d252b629-8bfb-4f9b-8cfc-d157f24497e7",
+   "external_id": "d252b629-8bfb-4f9b-8cfc-d157f24497e7",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 41 (June 1992).pdf",
+   "bytes": 99602223,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-42",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 42,
+  "number": "42",
+  "date": {
+   "display": "July 1992",
+   "start": "1992-07",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 212.2,
+   "height_mm": 276.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b8577fea-e1b4-46fe-a2c0-1800f49a1c3a",
+   "external_id": "b8577fea-e1b4-46fe-a2c0-1800f49a1c3a",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 42 (July 1992).pdf",
+   "bytes": 92498797,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-43",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 43,
+  "number": "43",
+  "date": {
+   "display": "August 1992",
+   "start": "1992-08",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/87243894-c751-4552-a9ae-5c21de3e7058",
+   "external_id": "87243894-c751-4552-a9ae-5c21de3e7058",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 43 (August 1992).pdf",
+   "bytes": 96842775,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-44",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 44,
+  "number": "44",
+  "date": {
+   "display": "September 1992",
+   "start": "1992-09",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/034d7ead-7a57-4783-a69d-6c46fb372804",
+   "external_id": "034d7ead-7a57-4783-a69d-6c46fb372804",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 44 (September 1992).pdf",
+   "bytes": 93357343,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-45",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 45,
+  "number": "45",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e96933b9-8b71-4c47-a5ff-538f77576300",
+   "external_id": "e96933b9-8b71-4c47-a5ff-538f77576300",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 45 (October 1992).pdf",
+   "bytes": 104474998,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-46",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 46,
+  "number": "46",
+  "date": {
+   "display": "November 1992",
+   "start": "1992-11",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 273.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8678d750-71a4-4c1b-ac97-8643da5ab409",
+   "external_id": "8678d750-71a4-4c1b-ac97-8643da5ab409",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 46 (November 1992).pdf",
+   "bytes": 104875486,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-47",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 47,
+  "number": "47",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 208.7,
+   "height_mm": 274.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5369f94a-a9e6-4220-bd27-2dd7663aa0a9",
+   "external_id": "5369f94a-a9e6-4220-bd27-2dd7663aa0a9",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 47 (December 1992).pdf",
+   "bytes": 120827964,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-47.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-48",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 48,
+  "number": "48",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 160,
+  "dimensions": {
+   "width_mm": 207.9,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f9bb1287-8976-487b-8a71-5079ef68b391",
+   "external_id": "f9bb1287-8976-487b-8a71-5079ef68b391",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 48 (January 1993).pdf",
+   "bytes": 125336209,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-49",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 49,
+  "number": "49",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 272.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ad23408a-2db9-4afb-874b-452090b6f4c9",
+   "external_id": "ad23408a-2db9-4afb-874b-452090b6f4c9",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 49 (February 1993).pdf",
+   "bytes": 101259922,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-50",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 50,
+  "number": "50",
+  "date": {
+   "display": "March 1993",
+   "start": "1993-03",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 208.8,
+   "height_mm": 272.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/34cad491-4796-427b-92b7-7bc2d8d1a29b",
+   "external_id": "34cad491-4796-427b-92b7-7bc2d8d1a29b",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 50 (March 1993).pdf",
+   "bytes": 74895791,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-51",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 51,
+  "number": "51",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 207.2,
+   "height_mm": 272.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d5a6bc37-28b0-47a5-9e89-39c8c4f4bc15",
+   "external_id": "d5a6bc37-28b0-47a5-9e89-39c8c4f4bc15",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 51 (April 1993).pdf",
+   "bytes": 76200975,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-52",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 52,
+  "number": "52",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/198835f8-112a-49c9-b622-d0b2bf7e2091",
+   "external_id": "198835f8-112a-49c9-b622-d0b2bf7e2091",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 52 (May 1993).pdf",
+   "bytes": 85970982,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-53",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 53,
+  "number": "53",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a67d77a1-16d6-4832-8d62-afb7c2e737f0",
+   "external_id": "a67d77a1-16d6-4832-8d62-afb7c2e737f0",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 53 (June 1993).pdf",
+   "bytes": 78476481,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-54",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 54,
+  "number": "54",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 207.8,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dfef2ebd-260b-42ae-800a-ba799ff97a88",
+   "external_id": "dfef2ebd-260b-42ae-800a-ba799ff97a88",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 54 (July 1993).pdf",
+   "bytes": 104614407,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-55",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 55,
+  "number": "55",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 208.2,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ee6f2c8-827c-4f43-aefd-235ef0800982",
+   "external_id": "5ee6f2c8-827c-4f43-aefd-235ef0800982",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames & Computer Entertainment, Issue 55 (August 1993).pdf",
+   "bytes": 99263789,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-56",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 56,
+  "number": "56",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 212.0,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/96972c67-7869-456f-86c0-95a52b060825",
+   "external_id": "96972c67-7869-456f-86c0-95a52b060825",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 56 (September 1993).pdf",
+   "bytes": 84782220,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-57",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 57,
+  "number": "57",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 98,
+  "dimensions": {
+   "width_mm": 208.5,
+   "height_mm": 273.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e2b74b4-6e0d-4f0f-ba68-399658649465",
+   "external_id": "6e2b74b4-6e0d-4f0f-ba68-399658649465",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 57 (October 1993).pdf",
+   "bytes": 79170890,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-57.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-58",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 58,
+  "number": "58",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 209.1,
+   "height_mm": 273.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/24fc68f4-4144-434e-88c0-a776cb3f4bbf",
+   "external_id": "24fc68f4-4144-434e-88c0-a776cb3f4bbf",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 58 (November 1993).pdf",
+   "bytes": 78097348,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-58.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-59",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 59,
+  "number": "59",
+  "date": {
+   "display": "December 1993",
+   "start": "1993-12",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 209.4,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c2b088a-ef18-4f7d-9b82-672703976574",
+   "external_id": "6c2b088a-ef18-4f7d-9b82-672703976574",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 59 (December 1993).pdf",
+   "bytes": 93813270,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-59.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-60",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 60,
+  "number": "60",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ee7f13a-20b5-4db3-821d-154ef5057c5a",
+   "external_id": "5ee7f13a-20b5-4db3-821d-154ef5057c5a",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 60 (January 1994).pdf",
+   "bytes": 81292353,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-60.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-61",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 61,
+  "number": "61",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c46e4547-c6f9-476c-be2c-52c7c47765af",
+   "external_id": "c46e4547-c6f9-476c-be2c-52c7c47765af",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 61 (February 1994).pdf",
+   "bytes": 81641382,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-61.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-62",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 62,
+  "number": "62",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 94,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 272.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45dc007c-69ba-4161-a63a-223f8c8b9b65",
+   "external_id": "45dc007c-69ba-4161-a63a-223f8c8b9b65",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 62 (March 1994).pdf",
+   "bytes": 80629136,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-62.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-63",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 63,
+  "number": "63",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7e1fa6ec-496b-40ac-97b9-69b0a7e53b78",
+   "external_id": "7e1fa6ec-496b-40ac-97b9-69b0a7e53b78",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 63 (April 1994).pdf",
+   "bytes": 82287152,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-63.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-64",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 64,
+  "number": "64",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 207.4,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90208699-1a7c-4134-b406-e952fd881987",
+   "external_id": "90208699-1a7c-4134-b406-e952fd881987",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 64 (May 1994).pdf",
+   "bytes": 82078618,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-65",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 65,
+  "number": "65",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 208.8,
+   "height_mm": 271.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac771d36-52d3-4151-a13d-f0775922555a",
+   "external_id": "ac771d36-52d3-4151-a13d-f0775922555a",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 65 (June 1994).pdf",
+   "bytes": 84532908,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-65.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-66",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 66,
+  "number": "66",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/463e888d-ff89-4130-bba4-e4ec59909151",
+   "external_id": "463e888d-ff89-4130-bba4-e4ec59909151",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 66 (July 1994).pdf",
+   "bytes": 82824037,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-66.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-67",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 67,
+  "number": "67",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2e906c43-8e91-4f33-9be9-26ffbef2299e",
+   "external_id": "2e906c43-8e91-4f33-9be9-26ffbef2299e",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 67 (August 1994).pdf",
+   "bytes": 90530155,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-67.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-68",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 68,
+  "number": "68",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 208.0,
+   "height_mm": 274.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f419e9fb-0e01-4fd5-a12a-ee346c65ca62",
+   "external_id": "f419e9fb-0e01-4fd5-a12a-ee346c65ca62",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 68 (September 1994).pdf",
+   "bytes": 80354507,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-68.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-69",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 69,
+  "number": "69",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7c4eacb8-de8a-428f-b18e-6e7da436a7f1",
+   "external_id": "7c4eacb8-de8a-428f-b18e-6e7da436a7f1",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 69 (October 1994).pdf",
+   "bytes": 80578292,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-69.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-70",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 70,
+  "number": "70",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 209.3,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc1418fc-4ac4-49d4-a88f-51694a6819f1",
+   "external_id": "cc1418fc-4ac4-49d4-a88f-51694a6819f1",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 70 (November 1994).pdf",
+   "bytes": 113558013,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-70.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-71",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 71,
+  "number": "71",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93bebdd8-c0fb-443e-a08e-536e2e3a35db",
+   "external_id": "93bebdd8-c0fb-443e-a08e-536e2e3a35db",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 71 (December 1994).pdf",
+   "bytes": 129389475,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-71.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-72",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 72,
+  "number": "72",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 209.0,
+   "height_mm": 275.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/810a4f6c-24dc-4056-ad9a-b97d88d05c19",
+   "external_id": "810a4f6c-24dc-4056-ad9a-b97d88d05c19",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 72 (January 1995).pdf",
+   "bytes": 90781557,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-72.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-73",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 73,
+  "number": "73",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 209.7,
+   "height_mm": 275.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/179efa2a-aac7-4a9c-8202-9b35fc9b2507",
+   "external_id": "179efa2a-aac7-4a9c-8202-9b35fc9b2507",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 73 (February 1995).pdf",
+   "bytes": 155845842,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-73.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-74",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 74,
+  "number": "74",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/08bd437f-664f-4c16-bb51-a39a384c7e07",
+   "external_id": "08bd437f-664f-4c16-bb51-a39a384c7e07",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 74 (March 1995).pdf",
+   "bytes": 81576954,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-74.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-75",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 75,
+  "number": "75",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 272.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f659e492-777d-4dbc-b408-be99d440edf1",
+   "external_id": "f659e492-777d-4dbc-b408-be99d440edf1",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 75 (April 1995).pdf",
+   "bytes": 80429130,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-75.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-76",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 76,
+  "number": "76",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 207.8,
+   "height_mm": 272.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d8f9acab-d6bb-467e-a449-520221acb9f3",
+   "external_id": "d8f9acab-d6bb-467e-a449-520221acb9f3",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 76 (May 1995).pdf",
+   "bytes": 78698047,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-76.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-77",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 77,
+  "number": "77",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7bdd27b4-390d-4fd6-92ac-1544eee1c37f",
+   "external_id": "7bdd27b4-390d-4fd6-92ac-1544eee1c37f",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 77 (June 1995).pdf",
+   "bytes": 86353035,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-77.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-78",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 78,
+  "number": "78",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 271.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c12ca03a-4024-45b8-b638-ade6c6e9b80b",
+   "external_id": "c12ca03a-4024-45b8-b638-ade6c6e9b80b",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 78 (July 1995).pdf",
+   "bytes": 86868393,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-78.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-79",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 79,
+  "number": "79",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.8,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/40acbb2c-8f44-47fd-a635-ac9a0d6eccef",
+   "external_id": "40acbb2c-8f44-47fd-a635-ac9a0d6eccef",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 79 (August 1995).pdf",
+   "bytes": 82517036,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-79.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-80",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 80,
+  "number": "80",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 274.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a9eb13e-63bf-45db-9b7a-ee2a9a82676a",
+   "external_id": "5a9eb13e-63bf-45db-9b7a-ee2a9a82676a",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 80 (September 1995).pdf",
+   "bytes": 79096339,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-80.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-81",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 81,
+  "number": "81",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 267.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/01a7f319-60cc-4c52-9882-b3e270a3457d",
+   "external_id": "01a7f319-60cc-4c52-9882-b3e270a3457d",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 81 (October 1995).pdf",
+   "bytes": 144750611,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-81.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-82",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 82,
+  "number": "82",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 107,
+  "dimensions": {
+   "width_mm": 225.8,
+   "height_mm": 300.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d31014b-4804-4169-a280-69a94a2a9cd8",
+   "external_id": "8d31014b-4804-4169-a280-69a94a2a9cd8",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 82 (November 1995).pdf",
+   "bytes": 121365031,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-82.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-83",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 83,
+  "number": "83",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 272.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/de2719a8-5cc7-4772-b691-e1ddf6ad0cf5",
+   "external_id": "de2719a8-5cc7-4772-b691-e1ddf6ad0cf5",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 83 (December 1995).pdf",
+   "bytes": 72592760,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-83.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-1996-videogames-the-ultimate-gaming-magazine-presents",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 84,
+  "number": "special",
+  "date": {
+   "display": "est. first quarter 1996",
+   "start": "1996",
+   "precision": "year"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 203.8,
+   "height_mm": 276.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fbc7bc85-0c0c-40cf-8132-5637b1f3fef1",
+   "external_id": "fbc7bc85-0c0c-40cf-8132-5637b1f3fef1",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine presents A Look at Mortal Kombat (est. first quarter 1996).pdf",
+   "bytes": 73578781,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-1996-videogames-the-ultimate-gaming-magazine-presents.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-84",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 85,
+  "number": "84",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 274.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/728447f7-e66d-4bd9-b3b6-29da387d5380",
+   "external_id": "728447f7-e66d-4bd9-b3b6-29da387d5380",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 84 (January 1996).pdf",
+   "bytes": 78793238,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-84.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-85",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 86,
+  "number": "85",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b62149e4-38b2-4a51-bc29-25e60b525694",
+   "external_id": "b62149e4-38b2-4a51-bc29-25e60b525694",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 85 (February 1996).pdf",
+   "bytes": 85190333,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-85.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-86",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 87,
+  "number": "86",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec6229b3-f6da-44ef-b838-f16b355167f6",
+   "external_id": "ec6229b3-f6da-44ef-b838-f16b355167f6",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 86 (March 1996).pdf",
+   "bytes": 85119186,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-86.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-87",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 88,
+  "number": "87",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/004dd56a-7846-433c-bc65-56103a81ff2d",
+   "external_id": "004dd56a-7846-433c-bc65-56103a81ff2d",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 87 (April 1996).pdf",
+   "bytes": 104225707,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-87.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-88",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 89,
+  "number": "88",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 200.5,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/664cffc3-edc9-4764-bbbc-137f552f640d",
+   "external_id": "664cffc3-edc9-4764-bbbc-137f552f640d",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 88 (May 1996).pdf",
+   "bytes": 64066037,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-88.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-89",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 90,
+  "number": "89",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 275.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4787581f-4a8d-49dd-a690-fa3f464c279c",
+   "external_id": "4787581f-4a8d-49dd-a690-fa3f464c279c",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 89 (June 1996).pdf",
+   "bytes": 62716752,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-89.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-90",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 91,
+  "number": "90",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 272.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f72b42da-29ad-4ea0-84e4-10ba0bd5a591",
+   "external_id": "f72b42da-29ad-4ea0-84e4-10ba0bd5a591",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 90 (July 1996).pdf",
+   "bytes": 64958386,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-90.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-91",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 92,
+  "number": "91",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cdd432a7-735a-407c-830a-820240fd89ea",
+   "external_id": "cdd432a7-735a-407c-830a-820240fd89ea",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 91 (August 1996).pdf",
+   "bytes": 58350301,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-91.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogames-computer-entertainment-92",
+  "publication": "videogames-computer-entertainment",
+  "sequence": 93,
+  "number": "92",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 203.5,
+   "height_mm": 273.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bad6da24-abd3-445e-965e-f6f5278d9bc0",
+   "external_id": "bad6da24-abd3-445e-965e-f6f5278d9bc0",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogames-computer-entertainment/pdf/VideoGames- The Ultimate Gaming Magazine, Issue 92 (September 1996).pdf",
+   "bytes": 64443358,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogames-computer-entertainment-92.jpg",
+   "pages_rendered": false
+  }
+ }
+]

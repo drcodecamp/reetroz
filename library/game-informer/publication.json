@@ -50,11 +50,13 @@
     }
   ],
   "stats": {
-    "issues": 0,
-    "pages": 0,
+    "issues": 366,
+    "pages": 38668,
     "readable": 0,
-    "with_text": 0
+    "with_text": 360,
+    "first_year": 1991,
+    "last_year": 9999
   },
-  "updated_at": "2026-09-13T21:27:15+00:00",
+  "updated_at": "2026-09-14T18:59:56+00:00",
   "description": "Closed Aug 2024, relaunched 2025."
 }

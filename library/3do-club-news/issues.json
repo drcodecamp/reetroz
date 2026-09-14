@@ -1,1 +1,177 @@
-[]
+[
+ {
+  "id": "3do-club-news-3",
+  "publication": "3do-club-news",
+  "sequence": 1,
+  "number": "3",
+  "date": {
+   "display": "Fall 1994",
+   "start": "1994-09",
+   "precision": "season"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 216.1,
+   "height_mm": 216.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5df7a6c0-8ed4-46f1-ae23-e3d6f46abef7",
+   "external_id": "5df7a6c0-8ed4-46f1-ae23-e3d6f46abef7",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/3do-club-news/pdf/3DO Club News, Issue 3 (Fall 1994).pdf",
+   "bytes": 11209663,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/3do-club-news-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "3do-club-news-4",
+  "publication": "3do-club-news",
+  "sequence": 2,
+  "number": "4",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 218.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d758276-9967-4c7d-abce-4adcad6e370b",
+   "external_id": "8d758276-9967-4c7d-abce-4adcad6e370b",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/3do-club-news/pdf/3DO Club News, Issue 4 (February 1995).pdf",
+   "bytes": 14784864,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/3do-club-news-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "3do-club-news-5",
+  "publication": "3do-club-news",
+  "sequence": 3,
+  "number": "5",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/864fae57-4e95-46b0-a671-ae4f66a5d30b",
+   "external_id": "864fae57-4e95-46b0-a671-ae4f66a5d30b",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/3do-club-news/pdf/3DO Club News, Issue 5 (July 1995).pdf",
+   "bytes": 19478842,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/3do-club-news-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "3do-club-news-6",
+  "publication": "3do-club-news",
+  "sequence": 4,
+  "number": "6",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4a0705fb-ae8d-4901-97d3-dd32c685075f",
+   "external_id": "4a0705fb-ae8d-4901-97d3-dd32c685075f",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/3do-club-news/pdf/3DO Club News, Issue 6 (September 1995).pdf",
+   "bytes": 14293109,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/3do-club-news-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "3do-club-news-7",
+  "publication": "3do-club-news",
+  "sequence": 5,
+  "number": "7",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a8a940e-51c2-4db3-a0ab-39072f889a59",
+   "external_id": "5a8a940e-51c2-4db3-a0ab-39072f889a59",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/3do-club-news/pdf/3DO Club News, Issue 7 (December 1995).pdf",
+   "bytes": 15351682,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/3do-club-news-7.jpg",
+   "pages_rendered": false
+  }
+ }
+]

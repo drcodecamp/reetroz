@@ -1,1 +1,178 @@
-[]
+[
+ {
+  "id": "computer-game-entertainment-1",
+  "publication": "computer-game-entertainment",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 203.0,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8e145048-e0fd-4e3e-98bc-e8179ef194ee",
+   "external_id": "8e145048-e0fd-4e3e-98bc-e8179ef194ee",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-entertainment/pdf/Computer Game Entertainment, Issue 1 (July 1997).pdf",
+   "bytes": 136117615,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-entertainment-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-entertainment-2",
+  "publication": "computer-game-entertainment",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "August/September 1997",
+   "start": "1997-08",
+   "precision": "month",
+   "end": "1997-09"
+  },
+  "pages": 105,
+  "dimensions": {
+   "width_mm": 195.2,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/032dfee1-26b0-4fb6-82bc-1e5561c6ca04",
+   "external_id": "032dfee1-26b0-4fb6-82bc-1e5561c6ca04",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-entertainment/pdf/Computer Game Entertainment, Issue 2 (August-September 1997).pdf",
+   "bytes": 104774613,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-entertainment-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-entertainment-3",
+  "publication": "computer-game-entertainment",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 199.7,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d2f2639a-0de1-4e9e-a31a-aa016d154518",
+   "external_id": "d2f2639a-0de1-4e9e-a31a-aa016d154518",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-entertainment/pdf/Computer Game Entertainment, Issue 3 (October 1997).pdf",
+   "bytes": 119416779,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-entertainment-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-entertainment-4",
+  "publication": "computer-game-entertainment",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 203.9,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/60bf74de-5fa6-4b72-8c6c-adfe132435b1",
+   "external_id": "60bf74de-5fa6-4b72-8c6c-adfe132435b1",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-entertainment/pdf/Computer Game Entertainment, Issue 4 (November 1997).pdf",
+   "bytes": 171884536,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-entertainment-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-entertainment-5",
+  "publication": "computer-game-entertainment",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "est. early 1998",
+   "start": "1998",
+   "precision": "year"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 195.7,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2e23c047-dc5b-4f4e-9876-e82a92ea0a8e",
+   "external_id": "2e23c047-dc5b-4f4e-9876-e82a92ea0a8e",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-entertainment/pdf/Computer Game Entertainment, Issue 5 (est. early 1998).pdf",
+   "bytes": 142602473,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-entertainment-5.jpg",
+   "pages_rendered": false
+  }
+ }
+]

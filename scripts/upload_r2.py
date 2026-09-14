@@ -30,9 +30,7 @@ from pathlib import Path
 import boto3
 from botocore.config import Config
 
-from library_paths import ROOT
-
-PUBLIC = ROOT / "site" / "public"
+from library_paths import COVERS_ROOT, LOCAL_COVERS, LOCAL_PAGES, PAGES_ROOT, ROOT, cover_path, pages_dir
 
 CACHE_IMMUTABLE = "public, max-age=31536000, immutable"
 CACHE_SHORT = "public, max-age=300"
@@ -77,14 +75,17 @@ def content_type(path: Path) -> str:
 def plan_issue(issue_id: str) -> list[tuple[Path, str, str]]:
     """Returns (local path, key, cache-control) tuples."""
     jobs: list[tuple[Path, str, str]] = []
-    cover = PUBLIC / "covers" / f"{issue_id}.jpg"
+    cover = cover_path(issue_id)
     if cover.exists():
         jobs.append((cover, f"covers/{issue_id}.jpg", CACHE_IMMUTABLE))
-    pages_dir = PUBLIC / "pages" / issue_id
-    if (pages_dir / "manifest.json").exists():
-        jobs.append((pages_dir / "manifest.json", f"pages/{issue_id}/manifest.json", CACHE_SHORT))
+    issue_pages = pages_dir(issue_id)
+    if (issue_pages / "manifest.json").exists():
+        jobs.append((issue_pages / "manifest.json", f"pages/{issue_id}/manifest.json", CACHE_SHORT))
         for size in ("thumb", "read"):
-            for f in sorted(f for f in (pages_dir / size).iterdir() if f.suffix in (".jpg", ".webp")):
+            folder = issue_pages / size
+            if not folder.exists():
+                continue
+            for f in sorted(f for f in folder.iterdir() if f.suffix in (".jpg", ".webp")):
                 jobs.append((f, f"pages/{issue_id}/{size}/{f.name}", CACHE_IMMUTABLE))
     return jobs
 
@@ -109,20 +110,35 @@ def main() -> int:
 
     jobs: list[tuple[Path, str, str]] = []
     if args.covers:
-        jobs += [(f, f"covers/{f.name}", CACHE_IMMUTABLE) for f in sorted((PUBLIC / "covers").glob("*.jpg"))]
+        jobs += [
+            (f, f"covers/{f.name}", CACHE_IMMUTABLE)
+            for root in (COVERS_ROOT, LOCAL_COVERS)
+            if root.exists()
+            for f in sorted(root.glob("*.jpg"))
+        ]
     issue_ids = list(args.issue)
     if args.all_rendered:
-        issue_ids += [p.name for p in (PUBLIC / "pages").iterdir() if (p / "manifest.json").exists()]
+        for root in (PAGES_ROOT, LOCAL_PAGES):
+            if root.exists():
+                issue_ids += [p.name for p in root.iterdir() if (p / "manifest.json").exists()]
     for iid in dict.fromkeys(issue_ids):
         jobs += plan_issue(iid)
 
     if args.prune:
         # Always compare against every local cover + rendered issue.
         # Never prune against just --issue jobs — that would delete the rest of the bucket.
-        local = {f"covers/{f.name}" for f in (PUBLIC / "covers").glob("*.jpg")}
-        for d in (PUBLIC / "pages").iterdir() if (PUBLIC / "pages").exists() else []:
-            if (d / "manifest.json").exists():
-                local |= {key for _, key, _ in plan_issue(d.name)}
+        local = {
+            f"covers/{f.name}"
+            for root in (COVERS_ROOT, LOCAL_COVERS)
+            if root.exists()
+            for f in root.glob("*.jpg")
+        }
+        for root in (PAGES_ROOT, LOCAL_PAGES):
+            if not root.exists():
+                continue
+            for d in root.iterdir():
+                if (d / "manifest.json").exists():
+                    local |= {key for _, key, _ in plan_issue(d.name)}
         remote_all: dict[str, int] = {}
         for prefix in ("covers/", "pages/", "pdf/"):
             remote_all.update(existing_sizes(s3, bucket, prefix))

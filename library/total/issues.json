@@ -1,1 +1,1052 @@
-[]
+[
+ {
+  "id": "total-1",
+  "publication": "total",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "January 1992",
+   "start": "1992-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d6823657-7a4a-43ac-8618-feea550d6136",
+   "external_id": "d6823657-7a4a-43ac-8618-feea550d6136",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 1 (January 1992).pdf",
+   "bytes": 95773766,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-2",
+  "publication": "total",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "February 1992",
+   "start": "1992-02",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f4261c6f-e7e6-404e-8dac-bec383e7189f",
+   "external_id": "f4261c6f-e7e6-404e-8dac-bec383e7189f",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 2 (February 1992).pdf",
+   "bytes": 81497518,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-3",
+  "publication": "total",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "March 1992",
+   "start": "1992-03",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93d177ee-ef60-41c8-b146-231cdeca2f2a",
+   "external_id": "93d177ee-ef60-41c8-b146-231cdeca2f2a",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 3 (March 1992).pdf",
+   "bytes": 77221592,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-4",
+  "publication": "total",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "April 1992",
+   "start": "1992-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab038e38-e823-4d59-8933-7649dabf07c8",
+   "external_id": "ab038e38-e823-4d59-8933-7649dabf07c8",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 4 (April 1992).pdf",
+   "bytes": 87077619,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-5",
+  "publication": "total",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "May 1992",
+   "start": "1992-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/23838de8-1f28-4285-ac09-130fbf9c05e2",
+   "external_id": "23838de8-1f28-4285-ac09-130fbf9c05e2",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 5 (May 1992).pdf",
+   "bytes": 89195627,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-7",
+  "publication": "total",
+  "sequence": 6,
+  "number": "7",
+  "date": {
+   "display": "July 1992",
+   "start": "1992-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eeeb2aeb-59d4-48c0-b192-3f040133c4ec",
+   "external_id": "eeeb2aeb-59d4-48c0-b192-3f040133c4ec",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 7 (July 1992).pdf",
+   "bytes": 97229029,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-11",
+  "publication": "total",
+  "sequence": 7,
+  "number": "11",
+  "date": {
+   "display": "November 1992",
+   "start": "1992-11",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4b607006-8d60-465c-84e9-83590b0662a7",
+   "external_id": "4b607006-8d60-465c-84e9-83590b0662a7",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 11 (November 1992).pdf",
+   "bytes": 148187192,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-12",
+  "publication": "total",
+  "sequence": 8,
+  "number": "12",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/806431f5-e392-4415-8c1d-6214b4de0971",
+   "external_id": "806431f5-e392-4415-8c1d-6214b4de0971",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 12 (December 1992).pdf",
+   "bytes": 177371098,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-13",
+  "publication": "total",
+  "sequence": 9,
+  "number": "13",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b45a597a-0c4b-4e0d-ab77-3fd96fe33807",
+   "external_id": "b45a597a-0c4b-4e0d-ab77-3fd96fe33807",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 13 (January 1993).pdf",
+   "bytes": 158063110,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-14",
+  "publication": "total",
+  "sequence": 10,
+  "number": "14",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/05715170-72ef-4983-a7a0-52b95f9bd6cb",
+   "external_id": "05715170-72ef-4983-a7a0-52b95f9bd6cb",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 14 (February 1993).pdf",
+   "bytes": 128011077,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-15",
+  "publication": "total",
+  "sequence": 11,
+  "number": "15",
+  "date": {
+   "display": "March 1993",
+   "start": "1993-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc68785d-185f-4bdc-b2f8-a42438c23411",
+   "external_id": "cc68785d-185f-4bdc-b2f8-a42438c23411",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 15 (March 1993).pdf",
+   "bytes": 115170477,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-16",
+  "publication": "total",
+  "sequence": 12,
+  "number": "16",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba8fcdb1-9385-4db3-a900-b65de2bf68c7",
+   "external_id": "ba8fcdb1-9385-4db3-a900-b65de2bf68c7",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 16 (April 1993).pdf",
+   "bytes": 117926534,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-17",
+  "publication": "total",
+  "sequence": 13,
+  "number": "17",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e622777a-d62e-40dd-b75b-5fb8355cb003",
+   "external_id": "e622777a-d62e-40dd-b75b-5fb8355cb003",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 17 (May 1993).pdf",
+   "bytes": 118327874,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-18",
+  "publication": "total",
+  "sequence": 14,
+  "number": "18",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c869c7a-daad-45cf-b8eb-88f7e5020e9d",
+   "external_id": "9c869c7a-daad-45cf-b8eb-88f7e5020e9d",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 18 (June 1993).pdf",
+   "bytes": 120471851,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-19",
+  "publication": "total",
+  "sequence": 15,
+  "number": "19",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/33a0ddc1-c4ff-4898-9cc5-f5a364806bff",
+   "external_id": "33a0ddc1-c4ff-4898-9cc5-f5a364806bff",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 19 (July 1993).pdf",
+   "bytes": 115853131,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-20",
+  "publication": "total",
+  "sequence": 16,
+  "number": "20",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8243a22a-aec8-41cc-962c-7b67562c64fb",
+   "external_id": "8243a22a-aec8-41cc-962c-7b67562c64fb",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 20 (August 1993).pdf",
+   "bytes": 118259268,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-21",
+  "publication": "total",
+  "sequence": 17,
+  "number": "21",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7de40699-248c-4b2b-8ebd-678efebcfff9",
+   "external_id": "7de40699-248c-4b2b-8ebd-678efebcfff9",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 21 (September 1993).pdf",
+   "bytes": 133214318,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-22",
+  "publication": "total",
+  "sequence": 18,
+  "number": "22",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 286.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0ec3c0b-f4b3-4c20-a5b3-42cb2e2edddd",
+   "external_id": "c0ec3c0b-f4b3-4c20-a5b3-42cb2e2edddd",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 22 (October 1993).pdf",
+   "bytes": 129484562,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-23",
+  "publication": "total",
+  "sequence": 19,
+  "number": "23",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07afac96-c5ba-4185-9951-c8bba748dbd5",
+   "external_id": "07afac96-c5ba-4185-9951-c8bba748dbd5",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 23 (November 1993).pdf",
+   "bytes": 124221018,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-25",
+  "publication": "total",
+  "sequence": 20,
+  "number": "25",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f2ecc635-9c84-4381-b0ea-3b73189a9b94",
+   "external_id": "f2ecc635-9c84-4381-b0ea-3b73189a9b94",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 25 (January 1994).pdf",
+   "bytes": 132880085,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-26",
+  "publication": "total",
+  "sequence": 21,
+  "number": "26",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8dec833f-851f-43de-94df-10e0577b20ab",
+   "external_id": "8dec833f-851f-43de-94df-10e0577b20ab",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 26 (February 1994).pdf",
+   "bytes": 117112011,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-27",
+  "publication": "total",
+  "sequence": 22,
+  "number": "27",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/37c81afd-6456-4e5d-90be-65de9bab9e3a",
+   "external_id": "37c81afd-6456-4e5d-90be-65de9bab9e3a",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 27 (March 1994).pdf",
+   "bytes": 117444938,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-28",
+  "publication": "total",
+  "sequence": 23,
+  "number": "28",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9784ed39-ab0b-467e-87a0-214af5da15a4",
+   "external_id": "9784ed39-ab0b-467e-87a0-214af5da15a4",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 28 (April 1994).pdf",
+   "bytes": 108608837,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-29",
+  "publication": "total",
+  "sequence": 24,
+  "number": "29",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/24c8bc15-a865-4e20-b8d8-910ffdbca3de",
+   "external_id": "24c8bc15-a865-4e20-b8d8-910ffdbca3de",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 29 (May 1994).pdf",
+   "bytes": 106999846,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-30",
+  "publication": "total",
+  "sequence": 25,
+  "number": "30",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2623bf50-9ea7-40b4-b4d7-7df176eeb8e0",
+   "external_id": "2623bf50-9ea7-40b4-b4d7-7df176eeb8e0",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 30 (June 1994).pdf",
+   "bytes": 105222402,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-31",
+  "publication": "total",
+  "sequence": 26,
+  "number": "31",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/912ef0e6-a4c0-4bf1-9575-f218b52baf9d",
+   "external_id": "912ef0e6-a4c0-4bf1-9575-f218b52baf9d",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 31 (July 1994).pdf",
+   "bytes": 102515537,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-32",
+  "publication": "total",
+  "sequence": 27,
+  "number": "32",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0857714b-c209-46eb-9ce2-04416d130a1f",
+   "external_id": "0857714b-c209-46eb-9ce2-04416d130a1f",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 32 (August 1994).pdf",
+   "bytes": 105777327,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-33",
+  "publication": "total",
+  "sequence": 28,
+  "number": "33",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2f08d1ae-59fd-469b-a4a1-0d90cb1f7326",
+   "external_id": "2f08d1ae-59fd-469b-a4a1-0d90cb1f7326",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 33 (September 1994).pdf",
+   "bytes": 100388450,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-34",
+  "publication": "total",
+  "sequence": 29,
+  "number": "34",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 292.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1fb74932-58df-43df-a1fd-d48327d4229d",
+   "external_id": "1fb74932-58df-43df-a1fd-d48327d4229d",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 34 (October 1994).pdf",
+   "bytes": 104147072,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "total-38",
+  "publication": "total",
+  "sequence": 30,
+  "number": "38",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 292.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0cf122ef-4347-48d6-8c08-82bfa8af6f14",
+   "external_id": "0cf122ef-4347-48d6-8c08-82bfa8af6f14",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/total/pdf/Total!, Issue 38 (February 1995).pdf",
+   "bytes": 104460827,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/total-38.jpg",
+   "pages_rendered": false
+  }
+ }
+]

@@ -1,1 +1,1227 @@
-[]
+[
+ {
+  "id": "mean-machines-sega-1",
+  "publication": "mean-machines-sega",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/56746733-61d4-41b8-8bb9-c6cdf58e7d17",
+   "external_id": "56746733-61d4-41b8-8bb9-c6cdf58e7d17",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 1 (October 1992).pdf",
+   "bytes": 165182102,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-2",
+  "publication": "mean-machines-sega",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "November 1992",
+   "start": "1992-11",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2208fba6-447d-432d-8123-13381700ba51",
+   "external_id": "2208fba6-447d-432d-8123-13381700ba51",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 2 (November 1992).pdf",
+   "bytes": 163155162,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-3",
+  "publication": "mean-machines-sega",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 180,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/771205c2-7890-4d7b-804b-005616f4ff39",
+   "external_id": "771205c2-7890-4d7b-804b-005616f4ff39",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 3 (December 1992).pdf",
+   "bytes": 197977487,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-4",
+  "publication": "mean-machines-sega",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/63b8833a-3c57-472c-bf1e-dd40088d470d",
+   "external_id": "63b8833a-3c57-472c-bf1e-dd40088d470d",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 4 (January 1993).pdf",
+   "bytes": 151982956,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-5",
+  "publication": "mean-machines-sega",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/008ed8fc-9578-4bfc-9aee-9e26b2ed4f1b",
+   "external_id": "008ed8fc-9578-4bfc-9aee-9e26b2ed4f1b",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 5 (February 1993).pdf",
+   "bytes": 138797437,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-6",
+  "publication": "mean-machines-sega",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "March 1993",
+   "start": "1993-03",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/75e63a89-3cea-431b-a7be-2d9668f47ab5",
+   "external_id": "75e63a89-3cea-431b-a7be-2d9668f47ab5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 6 (March 1993).pdf",
+   "bytes": 131608515,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-7",
+  "publication": "mean-machines-sega",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/10ad3191-0510-4851-9581-5da77672f76e",
+   "external_id": "10ad3191-0510-4851-9581-5da77672f76e",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 7 (April 1993).pdf",
+   "bytes": 137096685,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-8",
+  "publication": "mean-machines-sega",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e9dcc61c-b6f8-41a0-9deb-769553672ae4",
+   "external_id": "e9dcc61c-b6f8-41a0-9deb-769553672ae4",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 8 (May 1993).pdf",
+   "bytes": 133753441,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-9",
+  "publication": "mean-machines-sega",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8da689e-e0ac-4050-9f2a-5adf5695e40b",
+   "external_id": "f8da689e-e0ac-4050-9f2a-5adf5695e40b",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 9 (July 1993).pdf",
+   "bytes": 154827252,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-10",
+  "publication": "mean-machines-sega",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f9446474-8967-4613-b5e7-ffd198ab34b5",
+   "external_id": "f9446474-8967-4613-b5e7-ffd198ab34b5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 10 (August 1993).pdf",
+   "bytes": 137387257,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-11",
+  "publication": "mean-machines-sega",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/77c6f137-41a3-49f6-b48e-5604f08ba427",
+   "external_id": "77c6f137-41a3-49f6-b48e-5604f08ba427",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 11 (September 1993).pdf",
+   "bytes": 136928869,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-12",
+  "publication": "mean-machines-sega",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/53ed2c3f-c3c2-4017-9044-ad985b14438d",
+   "external_id": "53ed2c3f-c3c2-4017-9044-ad985b14438d",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 12 (October 1993).pdf",
+   "bytes": 143457983,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-13",
+  "publication": "mean-machines-sega",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7fc314e8-175b-4c32-a5b3-5a5fb9bd48dc",
+   "external_id": "7fc314e8-175b-4c32-a5b3-5a5fb9bd48dc",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 13 (November 1993).pdf",
+   "bytes": 134014966,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-14",
+  "publication": "mean-machines-sega",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "December 1993",
+   "start": "1993-12",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4e10d02b-6a7e-442b-8830-0d0d5435618e",
+   "external_id": "4e10d02b-6a7e-442b-8830-0d0d5435618e",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 14 (December 1993).pdf",
+   "bytes": 170684431,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-15",
+  "publication": "mean-machines-sega",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/466a7fe3-966a-4c9b-9913-c93d4955bc65",
+   "external_id": "466a7fe3-966a-4c9b-9913-c93d4955bc65",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 15 (January 1994).pdf",
+   "bytes": 172412173,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-16",
+  "publication": "mean-machines-sega",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/49ecb0e8-ecd8-43a0-9ddd-fd3276b6351b",
+   "external_id": "49ecb0e8-ecd8-43a0-9ddd-fd3276b6351b",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 16 (February 1994).pdf",
+   "bytes": 137100159,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-17",
+  "publication": "mean-machines-sega",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/902b850a-5215-4930-8084-479e647fbb77",
+   "external_id": "902b850a-5215-4930-8084-479e647fbb77",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 17 (March 1994).pdf",
+   "bytes": 138980567,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-18",
+  "publication": "mean-machines-sega",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7f99d44d-ff0f-4081-b70c-0f2ae1594507",
+   "external_id": "7f99d44d-ff0f-4081-b70c-0f2ae1594507",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 18 (April 1994).pdf",
+   "bytes": 137786000,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-19",
+  "publication": "mean-machines-sega",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9fa0612a-31da-4762-a26b-a950eaeaff9c",
+   "external_id": "9fa0612a-31da-4762-a26b-a950eaeaff9c",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 19 (May 1994).pdf",
+   "bytes": 132292673,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-21",
+  "publication": "mean-machines-sega",
+  "sequence": 20,
+  "number": "21",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2f7c8d37-f3ea-46c7-adc9-13f89ca0d0f6",
+   "external_id": "2f7c8d37-f3ea-46c7-adc9-13f89ca0d0f6",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 21 (July 1994).pdf",
+   "bytes": 109810957,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-22",
+  "publication": "mean-machines-sega",
+  "sequence": 21,
+  "number": "22",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0196d0c-4e3d-4ea7-9b65-cd6d16e31f2a",
+   "external_id": "c0196d0c-4e3d-4ea7-9b65-cd6d16e31f2a",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 22 (August 1994).pdf",
+   "bytes": 111656714,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-23",
+  "publication": "mean-machines-sega",
+  "sequence": 22,
+  "number": "23",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b63bb7bf-f0ee-4760-af5b-28563ffacdff",
+   "external_id": "b63bb7bf-f0ee-4760-af5b-28563ffacdff",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 23 (September 1994).pdf",
+   "bytes": 108150783,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-24",
+  "publication": "mean-machines-sega",
+  "sequence": 23,
+  "number": "24",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93cee91d-e87e-4195-902e-545333b2234b",
+   "external_id": "93cee91d-e87e-4195-902e-545333b2234b",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 24 (October 1994).pdf",
+   "bytes": 129046680,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-25",
+  "publication": "mean-machines-sega",
+  "sequence": 24,
+  "number": "25",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba3336ce-d9be-4471-8963-bf80316a5b45",
+   "external_id": "ba3336ce-d9be-4471-8963-bf80316a5b45",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 25 (November 1994).pdf",
+   "bytes": 126876385,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-26",
+  "publication": "mean-machines-sega",
+  "sequence": 25,
+  "number": "26",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/379ac1a2-877f-436c-a616-04e8ad513301",
+   "external_id": "379ac1a2-877f-436c-a616-04e8ad513301",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 26 (December 1994).pdf",
+   "bytes": 146599019,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-27",
+  "publication": "mean-machines-sega",
+  "sequence": 26,
+  "number": "27",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/63a1323a-5d72-4929-9d46-6f2560242657",
+   "external_id": "63a1323a-5d72-4929-9d46-6f2560242657",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 27 (January 1995).pdf",
+   "bytes": 140670112,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-28",
+  "publication": "mean-machines-sega",
+  "sequence": 27,
+  "number": "28",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8f979a56-c56f-40b6-863a-cde71d40b0e5",
+   "external_id": "8f979a56-c56f-40b6-863a-cde71d40b0e5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 28 (February 1995).pdf",
+   "bytes": 109060563,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-29",
+  "publication": "mean-machines-sega",
+  "sequence": 28,
+  "number": "29",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/403e5639-3997-443b-92c3-ff38f6b005ce",
+   "external_id": "403e5639-3997-443b-92c3-ff38f6b005ce",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 29 (March 1995).pdf",
+   "bytes": 117842073,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-30",
+  "publication": "mean-machines-sega",
+  "sequence": 29,
+  "number": "30",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/95e7b236-4302-431e-a726-e6b8f9e4d688",
+   "external_id": "95e7b236-4302-431e-a726-e6b8f9e4d688",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 30 (April 1995).pdf",
+   "bytes": 112814664,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-31",
+  "publication": "mean-machines-sega",
+  "sequence": 30,
+  "number": "31",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07ecec0d-8b1e-4234-9878-d030cf072710",
+   "external_id": "07ecec0d-8b1e-4234-9878-d030cf072710",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 31 (May 1995).pdf",
+   "bytes": 112175176,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-38",
+  "publication": "mean-machines-sega",
+  "sequence": 31,
+  "number": "38",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 296.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac85e87f-451d-44cb-b5d3-0d21ac98b519",
+   "external_id": "ac85e87f-451d-44cb-b5d3-0d21ac98b519",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 38 (December 1995).pdf",
+   "bytes": 118235521,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-41",
+  "publication": "mean-machines-sega",
+  "sequence": 32,
+  "number": "41",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 296.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0659631b-90e2-4eab-a312-d8e4f9110f90",
+   "external_id": "0659631b-90e2-4eab-a312-d8e4f9110f90",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 41 (March 1996).pdf",
+   "bytes": 117147130,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-48",
+  "publication": "mean-machines-sega",
+  "sequence": 33,
+  "number": "48",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 296.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/af955f86-744b-4314-a273-0b21f9abe020",
+   "external_id": "af955f86-744b-4314-a273-0b21f9abe020",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 48 (October 1996).pdf",
+   "bytes": 102149193,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-49",
+  "publication": "mean-machines-sega",
+  "sequence": 34,
+  "number": "49",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7c92d146-03b5-4b7d-98f8-1db59ee06f65",
+   "external_id": "7c92d146-03b5-4b7d-98f8-1db59ee06f65",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 49 (November 1996).pdf",
+   "bytes": 100257834,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mean-machines-sega-50",
+  "publication": "mean-machines-sega",
+  "sequence": 35,
+  "number": "50",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 296.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d942c549-2a7a-4af0-bf5f-d2e5a80adca8",
+   "external_id": "d942c549-2a7a-4af0-bf5f-d2e5a80adca8",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/mean-machines-sega/pdf/Mean Machines Sega, Number 50 (December 1996).pdf",
+   "bytes": 107177792,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/mean-machines-sega-50.jpg",
+   "pages_rendered": false
+  }
+ }
+]

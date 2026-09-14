@@ -1,1 +1,457 @@
-[]
+[
+ {
+  "id": "pocket-games-1",
+  "publication": "pocket-games",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Summer/Fall 1999",
+   "start": "1999-09",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5537a1cf-cc98-4085-9208-85593b26a12f",
+   "external_id": "5537a1cf-cc98-4085-9208-85593b26a12f",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 1 (Summer-Fall 1999).pdf",
+   "bytes": 94255455,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-2",
+  "publication": "pocket-games",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "Spring 2000",
+   "start": "2000-03",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e0904556-2d42-44e0-8f4d-ffd05f85012c",
+   "external_id": "e0904556-2d42-44e0-8f4d-ffd05f85012c",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 2 (Spring 2000).pdf",
+   "bytes": 99203107,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-3",
+  "publication": "pocket-games",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "Summer 2000",
+   "start": "2000-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1c954174-2994-4aa0-a284-57ec06ad8fdd",
+   "external_id": "1c954174-2994-4aa0-a284-57ec06ad8fdd",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 3 (Summer 2000).pdf",
+   "bytes": 94284060,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-4",
+  "publication": "pocket-games",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "Fall 2000",
+   "start": "2000-09",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/42f80e29-dee3-42e5-b970-4901520d47d5",
+   "external_id": "42f80e29-dee3-42e5-b970-4901520d47d5",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 4 (Fall 2000).pdf",
+   "bytes": 105679238,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-6",
+  "publication": "pocket-games",
+  "sequence": 5,
+  "number": "6",
+  "date": {
+   "display": "Summer 2001",
+   "start": "2001-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0b80fe86-cf09-401b-86ac-d8ccbfd66b30",
+   "external_id": "0b80fe86-cf09-401b-86ac-d8ccbfd66b30",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 6 (Summer 2001).pdf",
+   "bytes": 113164420,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-9",
+  "publication": "pocket-games",
+  "sequence": 6,
+  "number": "9",
+  "date": {
+   "display": "Summer 2002",
+   "start": "2002-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c5e42bc7-922a-485f-9be6-61f8ad0b89a3",
+   "external_id": "c5e42bc7-922a-485f-9be6-61f8ad0b89a3",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 9 (Summer 2002).pdf",
+   "bytes": 105268882,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-7",
+  "publication": "pocket-games",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "Winter 2002",
+   "start": "2002-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ebc34b2b-4088-4e7c-bc69-12e3a7a9f129",
+   "external_id": "ebc34b2b-4088-4e7c-bc69-12e3a7a9f129",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 7 (Winter 2002).pdf",
+   "bytes": 108947174,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-11",
+  "publication": "pocket-games",
+  "sequence": 8,
+  "number": "11",
+  "date": {
+   "display": "Spring 2003",
+   "start": "2003-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bdd74e56-c75c-4e3e-84d3-464669ad1ca3",
+   "external_id": "bdd74e56-c75c-4e3e-84d3-464669ad1ca3",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 11 (Spring 2003).pdf",
+   "bytes": 99016559,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-12",
+  "publication": "pocket-games",
+  "sequence": 9,
+  "number": "12",
+  "date": {
+   "display": "Summer 2003",
+   "start": "2003-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec0d6a3e-c0d5-4b88-8037-ffc16690b5ce",
+   "external_id": "ec0d6a3e-c0d5-4b88-8037-ffc16690b5ce",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 12 (Summer 2003).pdf",
+   "bytes": 95102019,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-10",
+  "publication": "pocket-games",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "Winter 2003",
+   "start": "2003-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5d7341ea-608b-449d-93ce-672df37c2b01",
+   "external_id": "5d7341ea-608b-449d-93ce-672df37c2b01",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 10 (Winter 2003).pdf",
+   "bytes": 104733900,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-17",
+  "publication": "pocket-games",
+  "sequence": 11,
+  "number": "17",
+  "date": {
+   "display": "Spring 2005",
+   "start": "2005-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b36d6b0f-fed4-45e6-88ab-41ff62332117",
+   "external_id": "b36d6b0f-fed4-45e6-88ab-41ff62332117",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 17 (Spring 2005).pdf",
+   "bytes": 141543346,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-16",
+  "publication": "pocket-games",
+  "sequence": 12,
+  "number": "16",
+  "date": {
+   "display": "Winter 2005",
+   "start": "2005-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8a969bdf-cc61-4276-af3e-52571338160a",
+   "external_id": "8a969bdf-cc61-4276-af3e-52571338160a",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 16 (Winter 2005).pdf",
+   "bytes": 112643362,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pocket-games-20",
+  "publication": "pocket-games",
+  "sequence": 13,
+  "number": "20",
+  "date": {
+   "display": "Summer 2006",
+   "start": "2006-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.6,
+   "height_mm": 274.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ebdb46ab-3873-40f3-80d2-6556130ca235",
+   "external_id": "ebdb46ab-3873-40f3-80d2-6556130ca235",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/pocket-games/pdf/Pocket Games, Number 20 (Summer 2006).pdf",
+   "bytes": 161477379,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/pocket-games-20.jpg",
+   "pages_rendered": false
+  }
+ }
+]

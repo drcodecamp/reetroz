@@ -1,1 +1,705 @@
-[]
+[
+ {
+  "id": "computer-player-1",
+  "publication": "computer-player",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d3a133fe-f5f9-41fd-963d-8f93c2ee9b12",
+   "external_id": "d3a133fe-f5f9-41fd-963d-8f93c2ee9b12",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 1, Issue 1 (June 1994).pdf",
+   "bytes": 90243074,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/computer-player-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-2",
+  "publication": "computer-player",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 219.4,
+   "height_mm": 281.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/71e5f035-d7f7-4918-b480-d2147a0c5091",
+   "external_id": "71e5f035-d7f7-4918-b480-d2147a0c5091",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 1, Issue 2 (July 1994).pdf",
+   "bytes": 134721819,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-5",
+  "publication": "computer-player",
+  "sequence": 3,
+  "number": "5",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1a6dda0-1360-4d8e-bd54-8730d4a05eaf",
+   "external_id": "b1a6dda0-1360-4d8e-bd54-8730d4a05eaf",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 1, Issue 5 (October 1994).pdf",
+   "bytes": 104591627,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-8",
+  "publication": "computer-player",
+  "sequence": 4,
+  "number": "8",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/58b9f57a-cc71-4193-a152-c7588c32a595",
+   "external_id": "58b9f57a-cc71-4193-a152-c7588c32a595",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 1, Issue 8 (January 1995).pdf",
+   "bytes": 95627563,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-10",
+  "publication": "computer-player",
+  "sequence": 5,
+  "number": "10",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b23a384c-0c66-4f87-9f57-a2900de23496",
+   "external_id": "b23a384c-0c66-4f87-9f57-a2900de23496",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 1, Issue 10 (March 1995).pdf",
+   "bytes": 104714168,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-11",
+  "publication": "computer-player",
+  "sequence": 6,
+  "number": "11",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 218.7,
+   "height_mm": 280.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cabafc72-bdd1-4533-a1f3-95d1aa462a0f",
+   "external_id": "cabafc72-bdd1-4533-a1f3-95d1aa462a0f",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 1, Issue 11 (April 1995).pdf",
+   "bytes": 121122370,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-12",
+  "publication": "computer-player",
+  "sequence": 7,
+  "number": "12",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1eeac6b5-ca8f-4b14-b281-69eec1768a60",
+   "external_id": "1eeac6b5-ca8f-4b14-b281-69eec1768a60",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 1, Issue 12 (May 1995).pdf",
+   "bytes": 102116415,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-1-2",
+  "publication": "computer-player",
+  "sequence": 8,
+  "number": "1",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/68d5c8ce-58fb-4593-b280-d4aa42bb9661",
+   "external_id": "68d5c8ce-58fb-4593-b280-d4aa42bb9661",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 2, Issue 1 (June 1995).pdf",
+   "bytes": 104863931,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-2-2",
+  "publication": "computer-player",
+  "sequence": 9,
+  "number": "2",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/973d3293-44ca-46e6-aedf-35453f05e46d",
+   "external_id": "973d3293-44ca-46e6-aedf-35453f05e46d",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 2, Issue 2 (July 1995).pdf",
+   "bytes": 98740737,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/computer-player-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-6",
+  "publication": "computer-player",
+  "sequence": 10,
+  "number": "6",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 203.1,
+   "height_mm": 275.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/573222f0-fb01-4a87-bf0f-d930c2bdafc5",
+   "external_id": "573222f0-fb01-4a87-bf0f-d930c2bdafc5",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 2, Issue 6 (November 1995).pdf",
+   "bytes": 117094206,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-8-2",
+  "publication": "computer-player",
+  "sequence": 11,
+  "number": "8",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.4,
+   "height_mm": 271.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f0de2954-977c-4c36-9d7d-ad2f2c609cd9",
+   "external_id": "f0de2954-977c-4c36-9d7d-ad2f2c609cd9",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 2, Issue 8 (January 1996).pdf",
+   "bytes": 78084166,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-9",
+  "publication": "computer-player",
+  "sequence": 12,
+  "number": "9",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 274.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ffc52da0-b5fb-482f-a0ae-6b1e03c1e689",
+   "external_id": "ffc52da0-b5fb-482f-a0ae-6b1e03c1e689",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 2, Issue 9 (February 1996).pdf",
+   "bytes": 78691109,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-12-2",
+  "publication": "computer-player",
+  "sequence": 13,
+  "number": "12",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/44a86cec-dc3e-4db3-ae41-9dde56fe09f2",
+   "external_id": "44a86cec-dc3e-4db3-ae41-9dde56fe09f2",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 2, Number 12 (May 1996).pdf",
+   "bytes": 72143748,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-12-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-3",
+  "publication": "computer-player",
+  "sequence": 14,
+  "number": "3",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 384.8,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1a0d8f81-8990-4cd0-9b56-c9c4adc48ace",
+   "external_id": "1a0d8f81-8990-4cd0-9b56-c9c4adc48ace",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 3, Number 3 (August 1996).pdf",
+   "bytes": 77844471,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/computer-player-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-6-2",
+  "publication": "computer-player",
+  "sequence": 15,
+  "number": "6",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 195.4,
+   "height_mm": 272.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/00acdee7-cb32-43ce-9d80-427149925a11",
+   "external_id": "00acdee7-cb32-43ce-9d80-427149925a11",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 3, Number 6 (November 1996).pdf",
+   "bytes": 94099541,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-7",
+  "publication": "computer-player",
+  "sequence": 16,
+  "number": "7",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1c251046-696c-495f-8945-a2075c6b2992",
+   "external_id": "1c251046-696c-495f-8945-a2075c6b2992",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer Player, Volume 3, Number 7 (December 1996).pdf",
+   "bytes": 109623339,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-11-2",
+  "publication": "computer-player",
+  "sequence": 17,
+  "number": "11",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 195.7,
+   "height_mm": 276.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e23268b5-c319-4779-873a-4d8bbd9ddf09",
+   "external_id": "e23268b5-c319-4779-873a-4d8bbd9ddf09",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer & Net Player, Volume 3, Number 11 (April 1997).pdf",
+   "bytes": 131906822,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-11-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-12-3",
+  "publication": "computer-player",
+  "sequence": 18,
+  "number": "12",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 276.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/705a3050-d304-49df-b21e-f581d7ac5fac",
+   "external_id": "705a3050-d304-49df-b21e-f581d7ac5fac",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer & Net Player, Volume 3, Number 12 (May 1997).pdf",
+   "bytes": 140260269,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-12-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-2-3",
+  "publication": "computer-player",
+  "sequence": 19,
+  "number": "2",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 197.6,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5671d6b9-5aed-49be-9f4b-e181ce7e3c41",
+   "external_id": "5671d6b9-5aed-49be-9f4b-e181ce7e3c41",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer & Net Player, Volume 4, Number 2 (July 1997).pdf",
+   "bytes": 146263691,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-player-5-2",
+  "publication": "computer-player",
+  "sequence": 20,
+  "number": "5",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 203.9,
+   "height_mm": 272.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/81f80f11-c96d-45f6-b653-7983ddecd655",
+   "external_id": "81f80f11-c96d-45f6-b653-7983ddecd655",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-player/pdf/Computer & Net Player, Volume 4, Number 5 (November 1997).pdf",
+   "bytes": 222497045,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-player-5-2.jpg",
+   "pages_rendered": false
+  }
+ }
+]

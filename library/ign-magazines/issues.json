@@ -1,1 +1,73 @@
-[]
+[
+ {
+  "id": "ign-magazines-1998-ign64-com-the-magazine",
+  "publication": "ign-magazines",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "est. late 1998",
+   "start": "1998",
+   "precision": "year"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 210.1,
+   "height_mm": 277.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9b943eef-da57-4bcf-9fa8-619d3eacd8df",
+   "external_id": "9b943eef-da57-4bcf-9fa8-619d3eacd8df",
+   "retrieved_at": "2026-09-14T09:33:58+00:00"
+  },
+  "files": {
+   "pdf": "library/ign-magazines/pdf/IGN64.com The Magazine (est. late 1998).pdf",
+   "bytes": 100722075,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/ign-magazines-1998-ign64-com-the-magazine.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "ign-magazines-1",
+  "publication": "ign-magazines",
+  "sequence": 2,
+  "number": "1",
+  "date": {
+   "display": "Fall 2001 / Holiday 2001",
+   "start": "2001-09",
+   "precision": "season"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 204.3,
+   "height_mm": 266.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f0304eca-3ac0-41c2-aa03-0895a64aea4d",
+   "external_id": "f0304eca-3ac0-41c2-aa03-0895a64aea4d",
+   "retrieved_at": "2026-09-14T09:33:58+00:00"
+  },
+  "files": {
+   "pdf": "library/ign-magazines/pdf/IGN.com The Magazine, Volume 1, Issue 1 - GameShark Magazine (Fall 2001 - Holiday 2001).pdf",
+   "bytes": 111333355,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:58+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/ign-magazines-1.jpg",
+   "pages_rendered": false
+  }
+ }
+]

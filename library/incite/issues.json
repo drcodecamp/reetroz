@@ -1,1 +1,632 @@
-[]
+[
+ {
+  "id": "incite-1",
+  "publication": "incite",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 198,
+  "dimensions": {
+   "width_mm": 200.3,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11401713-b804-4272-adfe-554fe1b54991",
+   "external_id": "11401713-b804-4272-adfe-554fe1b54991",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 1 (December 1999).pdf",
+   "bytes": 173943545,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-1-2",
+  "publication": "incite",
+  "sequence": 2,
+  "number": "1",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 182,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 267.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c52365e4-25bb-46cb-b535-7bc48eec6bc3",
+   "external_id": "c52365e4-25bb-46cb-b535-7bc48eec6bc3",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 1 (December 1999).pdf",
+   "bytes": 144144919,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-2",
+  "publication": "incite",
+  "sequence": 3,
+  "number": "2",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 198,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9aaa9967-2b2f-49cc-9080-7a1751232509",
+   "external_id": "9aaa9967-2b2f-49cc-9080-7a1751232509",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 2 (January 2000).pdf",
+   "bytes": 211810808,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-2-2",
+  "publication": "incite",
+  "sequence": 4,
+  "number": "2",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 190,
+  "dimensions": {
+   "width_mm": 199.6,
+   "height_mm": 256.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/538210ed-2c95-491f-867e-062c660c3b82",
+   "external_id": "538210ed-2c95-491f-867e-062c660c3b82",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 2 (January 2000).pdf",
+   "bytes": 150478351,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-3",
+  "publication": "incite",
+  "sequence": 5,
+  "number": "3",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 186,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 262.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/baec1a04-1ae0-4197-8144-6bc6e8737cfc",
+   "external_id": "baec1a04-1ae0-4197-8144-6bc6e8737cfc",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 3 (February 2000).pdf",
+   "bytes": 199706665,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-3-2",
+  "publication": "incite",
+  "sequence": 6,
+  "number": "3",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 207.7,
+   "height_mm": 263.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7f230a1-f0be-4551-811d-24ff09be1cb4",
+   "external_id": "a7f230a1-f0be-4551-811d-24ff09be1cb4",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 3 (February 2000).pdf",
+   "bytes": 122187981,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-4",
+  "publication": "incite",
+  "sequence": 7,
+  "number": "4",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45691f48-0f87-45bd-a189-8d7fd56e0074",
+   "external_id": "45691f48-0f87-45bd-a189-8d7fd56e0074",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 4 (March 2000).pdf",
+   "bytes": 120607562,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-4-2",
+  "publication": "incite",
+  "sequence": 8,
+  "number": "4",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 202.4,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/64e32972-0045-4510-9765-4761e2363324",
+   "external_id": "64e32972-0045-4510-9765-4761e2363324",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 4 (March 2000).pdf",
+   "bytes": 142041349,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-5",
+  "publication": "incite",
+  "sequence": 9,
+  "number": "5",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 198.0,
+   "height_mm": 266.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/091c66b3-78c1-462c-8c11-9df77aca2958",
+   "external_id": "091c66b3-78c1-462c-8c11-9df77aca2958",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 5 (April 2000).pdf",
+   "bytes": 110584664,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-5-2",
+  "publication": "incite",
+  "sequence": 10,
+  "number": "5",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 256.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f21a6687-6e21-4778-833c-6b3775746568",
+   "external_id": "f21a6687-6e21-4778-833c-6b3775746568",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 5 (April 2000).pdf",
+   "bytes": 105410284,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-6",
+  "publication": "incite",
+  "sequence": 11,
+  "number": "6",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 199.9,
+   "height_mm": 265.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/89cf6341-e169-4009-bf26-0cf6994b476a",
+   "external_id": "89cf6341-e169-4009-bf26-0cf6994b476a",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 6 (May 2000).pdf",
+   "bytes": 107527524,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-6-2",
+  "publication": "incite",
+  "sequence": 12,
+  "number": "6",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 256.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec629aa4-a5fa-464b-8f4b-a3fb6b27a108",
+   "external_id": "ec629aa4-a5fa-464b-8f4b-a3fb6b27a108",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 6 (May 2000).pdf",
+   "bytes": 100350035,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-7",
+  "publication": "incite",
+  "sequence": 13,
+  "number": "7",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 199.0,
+   "height_mm": 265.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b6f72ebe-019a-4abe-9d1e-1b328020bcca",
+   "external_id": "b6f72ebe-019a-4abe-9d1e-1b328020bcca",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 7 (June 2000).pdf",
+   "bytes": 105990186,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-7-2",
+  "publication": "incite",
+  "sequence": 14,
+  "number": "7",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 257.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dde48022-df4c-4d9c-9a07-2252437d4ba8",
+   "external_id": "dde48022-df4c-4d9c-9a07-2252437d4ba8",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 7 (June 2000).pdf",
+   "bytes": 100635741,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-8",
+  "publication": "incite",
+  "sequence": 15,
+  "number": "8",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 198.9,
+   "height_mm": 262.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d10f7d69-8429-4841-802a-41f8937444bf",
+   "external_id": "d10f7d69-8429-4841-802a-41f8937444bf",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 8 (July 2000).pdf",
+   "bytes": 125949994,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-8-2",
+  "publication": "incite",
+  "sequence": 16,
+  "number": "8",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 146,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6baf646e-d08c-4786-a4df-282ecc6dd0e3",
+   "external_id": "6baf646e-d08c-4786-a4df-282ecc6dd0e3",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 8 (July 2000).pdf",
+   "bytes": 150374454,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-9",
+  "publication": "incite",
+  "sequence": 17,
+  "number": "9",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 200.0,
+   "height_mm": 265.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1860ba8-1f96-45e5-b232-aa18b648d2e7",
+   "external_id": "b1860ba8-1f96-45e5-b232-aa18b648d2e7",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite PC Gaming, Issue 9 (August 2000).pdf",
+   "bytes": 114176781,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "incite-9-2",
+  "publication": "incite",
+  "sequence": 18,
+  "number": "9",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50909692-62d1-49e9-a29b-db2cdf707672",
+   "external_id": "50909692-62d1-49e9-a29b-db2cdf707672",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/incite/pdf/Incite Video Gaming, Issue 9 (August 2000).pdf",
+   "bytes": 179465811,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/incite-9-2.jpg",
+   "pages_rendered": false
+  }
+ }
+]

@@ -1,1 +1,1268 @@
-[]
+[
+ {
+  "id": "develop-134",
+  "publication": "develop",
+  "sequence": 1,
+  "number": "134",
+  "date": {
+   "display": "December 2012 / January 2013",
+   "start": "2012-12",
+   "end": "2013-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 315.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/86591fbb-fb4c-446e-a7f4-385bcfbadbe3",
+   "external_id": "86591fbb-fb4c-446e-a7f4-385bcfbadbe3",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 134 (December 2012 - January 2013).pdf",
+   "bytes": 8196629,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-134.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-2",
+  "publication": "develop",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "2013",
+   "start": "2013",
+   "precision": "year"
+  },
+  "pages": 66,
+  "dimensions": {
+   "width_mm": 148.0,
+   "height_mm": 210.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f19e9c11-7058-4c20-bf46-216cc3599b10",
+   "external_id": "f19e9c11-7058-4c20-bf46-216cc3599b10",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop 100, 2013 Edition, Volume 2, European Start-ups (2013).pdf",
+   "bytes": 10095536,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/develop-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-144",
+  "publication": "develop",
+  "sequence": 3,
+  "number": "144",
+  "date": {
+   "display": "November 2013",
+   "start": "2013-11",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 230.2,
+   "height_mm": 314.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/06597ec3-901a-4412-875a-ade91a12dfa4",
+   "external_id": "06597ec3-901a-4412-875a-ade91a12dfa4",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 144 (November 2013).pdf",
+   "bytes": 9193188,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-144.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-145",
+  "publication": "develop",
+  "sequence": 4,
+  "number": "145",
+  "date": {
+   "display": "December 2013 / January 2014",
+   "start": "2013-12",
+   "end": "2014-01",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 230.2,
+   "height_mm": 315.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/48ad051c-a900-4b36-ba4c-f6865b19236f",
+   "external_id": "48ad051c-a900-4b36-ba4c-f6865b19236f",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 145 (December 2013 - January 2014).pdf",
+   "bytes": 8714213,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-145.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-1",
+  "publication": "develop",
+  "sequence": 5,
+  "number": "1",
+  "date": {
+   "display": "2014",
+   "start": "2014",
+   "precision": "year"
+  },
+  "pages": 34,
+  "dimensions": {
+   "width_mm": 148.0,
+   "height_mm": 210.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1929dad1-a08e-41a9-8672-daaaa15e29a0",
+   "external_id": "1929dad1-a08e-41a9-8672-daaaa15e29a0",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop 100, 2014 Edition, Volume 1, Ones to Watch (2014).pdf",
+   "bytes": 2557874,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/develop-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-146",
+  "publication": "develop",
+  "sequence": 6,
+  "number": "146",
+  "date": {
+   "display": "February 2014",
+   "start": "2014-02",
+   "precision": "month"
+  },
+  "pages": 67,
+  "dimensions": {
+   "width_mm": 229.9,
+   "height_mm": 314.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98e57d2f-4894-4021-8346-d8e5fe7a2116",
+   "external_id": "98e57d2f-4894-4021-8346-d8e5fe7a2116",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 146 (February 2014).pdf",
+   "bytes": 8499252,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-146.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-147",
+  "publication": "develop",
+  "sequence": 7,
+  "number": "147",
+  "date": {
+   "display": "March 2014",
+   "start": "2014-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 229.8,
+   "height_mm": 315.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0299a7b5-87ba-4f9c-b6d6-14bd606f2e2b",
+   "external_id": "0299a7b5-87ba-4f9c-b6d6-14bd606f2e2b",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 147 (March 2014).pdf",
+   "bytes": 29482252,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-147.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-149",
+  "publication": "develop",
+  "sequence": 8,
+  "number": "149",
+  "date": {
+   "display": "May 2014",
+   "start": "2014-05",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 229.7,
+   "height_mm": 314.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f539cdba-18dd-4565-8a40-42b4e4c8e8c5",
+   "external_id": "f539cdba-18dd-4565-8a40-42b4e4c8e8c5",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 149 (May 2014).pdf",
+   "bytes": 17061079,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-149.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-150",
+  "publication": "develop",
+  "sequence": 9,
+  "number": "150",
+  "date": {
+   "display": "June 2014",
+   "start": "2014-06",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 230.3,
+   "height_mm": 315.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/abd4debb-ce6e-404a-8416-33f8faea6f13",
+   "external_id": "abd4debb-ce6e-404a-8416-33f8faea6f13",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 150 (June 2014).pdf",
+   "bytes": 21721932,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-150.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-151",
+  "publication": "develop",
+  "sequence": 10,
+  "number": "151",
+  "date": {
+   "display": "July 2014",
+   "start": "2014-07",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 230.3,
+   "height_mm": 315.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/37619683-799b-4ea4-a7c0-425ab41a735b",
+   "external_id": "37619683-799b-4ea4-a7c0-425ab41a735b",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 151 (July 2014).pdf",
+   "bytes": 18327356,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-151.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-201407-industry-excellent-awards-2014-supplement",
+  "publication": "develop",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "est. July 2014",
+   "start": "2014-07",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 170.0,
+   "height_mm": 230.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c8257704-7dff-4f9a-a9b4-9fc0ee55481e",
+   "external_id": "c8257704-7dff-4f9a-a9b4-9fc0ee55481e",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop Industry Excellent Awards 2014 supplement (est. July 2014).pdf",
+   "bytes": 8656046,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-201407-industry-excellent-awards-2014-supplement.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-152",
+  "publication": "develop",
+  "sequence": 12,
+  "number": "152",
+  "date": {
+   "display": "August 2014",
+   "start": "2014-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 315.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/86deb539-9e14-4267-af61-452a537ad6a1",
+   "external_id": "86deb539-9e14-4267-af61-452a537ad6a1",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 152 (August 2014).pdf",
+   "bytes": 25750889,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-152.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-153",
+  "publication": "develop",
+  "sequence": 13,
+  "number": "153",
+  "date": {
+   "display": "September 2014",
+   "start": "2014-09",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 229.9,
+   "height_mm": 314.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/307e9c3b-ec4c-4f86-9670-65f690cb997d",
+   "external_id": "307e9c3b-ec4c-4f86-9670-65f690cb997d",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 153 (September 2014).pdf",
+   "bytes": 20517736,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-153.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-154",
+  "publication": "develop",
+  "sequence": 14,
+  "number": "154",
+  "date": {
+   "display": "October 2014",
+   "start": "2014-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 229.3,
+   "height_mm": 314.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2964150e-e2eb-4121-9c6e-0c00d57543ef",
+   "external_id": "2964150e-e2eb-4121-9c6e-0c00d57543ef",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 154 (October 2014).pdf",
+   "bytes": 120201169,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-154.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-155",
+  "publication": "develop",
+  "sequence": 15,
+  "number": "155",
+  "date": {
+   "display": "November 2014",
+   "start": "2014-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 316.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5d9aed18-f860-4424-bec1-496faf733dd2",
+   "external_id": "5d9aed18-f860-4424-bec1-496faf733dd2",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 155 (November 2014).pdf",
+   "bytes": 5404916,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-155.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-156",
+  "publication": "develop",
+  "sequence": 16,
+  "number": "156",
+  "date": {
+   "display": "December 2014 / January 2015",
+   "start": "2014-12",
+   "end": "2015-01",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 230.2,
+   "height_mm": 315.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a4b4cf2-0b65-4694-9d03-5597e7303dc6",
+   "external_id": "7a4b4cf2-0b65-4694-9d03-5597e7303dc6",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 156 (December 2014 - January 2015).pdf",
+   "bytes": 4361125,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-156.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-2015-100-2015-the-studio-hot-list",
+  "publication": "develop",
+  "sequence": 17,
+  "number": "special",
+  "date": {
+   "display": "2015",
+   "start": "2015",
+   "precision": "year"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 147.9,
+   "height_mm": 210.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/36a31d6d-5952-431e-98ab-b1fc37b8964f",
+   "external_id": "36a31d6d-5952-431e-98ab-b1fc37b8964f",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop 100 2015, The Studio Hot List (2015).pdf",
+   "bytes": 15297578,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-2015-100-2015-the-studio-hot-list.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-157",
+  "publication": "develop",
+  "sequence": 18,
+  "number": "157",
+  "date": {
+   "display": "February 2015",
+   "start": "2015-02",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 315.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fb696d11-afbb-48a3-b627-4bac0f6a98fe",
+   "external_id": "fb696d11-afbb-48a3-b627-4bac0f6a98fe",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 157 (February 2015).pdf",
+   "bytes": 4703973,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-157.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-158",
+  "publication": "develop",
+  "sequence": 19,
+  "number": "158",
+  "date": {
+   "display": "March 2015",
+   "start": "2015-03",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 226.8,
+   "height_mm": 315.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/299d8329-a31a-4d86-8cf6-a6644d195aef",
+   "external_id": "299d8329-a31a-4d86-8cf6-a6644d195aef",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 158 (March 2015).pdf",
+   "bytes": 174971676,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-158.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-159",
+  "publication": "develop",
+  "sequence": 20,
+  "number": "159",
+  "date": {
+   "display": "April 2015",
+   "start": "2015-04",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 229.7,
+   "height_mm": 315.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/31007772-1f72-4811-a5df-5c541c11ec9a",
+   "external_id": "31007772-1f72-4811-a5df-5c541c11ec9a",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 159 (April 2015).pdf",
+   "bytes": 89284122,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-159.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-160",
+  "publication": "develop",
+  "sequence": 21,
+  "number": "160",
+  "date": {
+   "display": "May 2015",
+   "start": "2015-05",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 230.6,
+   "height_mm": 315.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/46d79a6e-09f1-4c5c-9bda-b73b1aac90a6",
+   "external_id": "46d79a6e-09f1-4c5c-9bda-b73b1aac90a6",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 160 (May 2015).pdf",
+   "bytes": 6721175,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-160.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-161",
+  "publication": "develop",
+  "sequence": 22,
+  "number": "161",
+  "date": {
+   "display": "June 2015",
+   "start": "2015-06",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 230.6,
+   "height_mm": 315.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9982208e-c3d7-44ae-b199-168c13b91e90",
+   "external_id": "9982208e-c3d7-44ae-b199-168c13b91e90",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 161 (June 2015).pdf",
+   "bytes": 9727755,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-161.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-162",
+  "publication": "develop",
+  "sequence": 23,
+  "number": "162",
+  "date": {
+   "display": "July 2015",
+   "start": "2015-07",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 230.3,
+   "height_mm": 315.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3df88025-4e41-434b-8754-78cdd3fa50d4",
+   "external_id": "3df88025-4e41-434b-8754-78cdd3fa50d4",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 162 (July 2015).pdf",
+   "bytes": 21087596,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-162.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-163",
+  "publication": "develop",
+  "sequence": 24,
+  "number": "163",
+  "date": {
+   "display": "August 2015",
+   "start": "2015-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 229.8,
+   "height_mm": 315.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/41db2fe2-4358-4b8e-a33c-3ccd1160f5df",
+   "external_id": "41db2fe2-4358-4b8e-a33c-3ccd1160f5df",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 163 (August 2015).pdf",
+   "bytes": 26667155,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-163.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-164",
+  "publication": "develop",
+  "sequence": 25,
+  "number": "164",
+  "date": {
+   "display": "September 2015",
+   "start": "2015-09",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 230.2,
+   "height_mm": 315.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef6abac5-c864-4be4-a063-b3f21d9de524",
+   "external_id": "ef6abac5-c864-4be4-a063-b3f21d9de524",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 164 (September 2015).pdf",
+   "bytes": 22041641,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-164.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-165",
+  "publication": "develop",
+  "sequence": 26,
+  "number": "165",
+  "date": {
+   "display": "October 2015",
+   "start": "2015-10",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 315.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3123fe40-953c-4308-ab3f-4ef12a762943",
+   "external_id": "3123fe40-953c-4308-ab3f-4ef12a762943",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 165 (October 2015).pdf",
+   "bytes": 21117095,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-165.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-166",
+  "publication": "develop",
+  "sequence": 27,
+  "number": "166",
+  "date": {
+   "display": "November 2015",
+   "start": "2015-11",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 230.5,
+   "height_mm": 315.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d001a5d-7e10-45b8-8bbc-0deee283eb1f",
+   "external_id": "9d001a5d-7e10-45b8-8bbc-0deee283eb1f",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 166 (November 2015).pdf",
+   "bytes": 15473927,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-166.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-167",
+  "publication": "develop",
+  "sequence": 28,
+  "number": "167",
+  "date": {
+   "display": "December 2015 / January 2016",
+   "start": "2015-12",
+   "end": "2016-01",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 229.7,
+   "height_mm": 315.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5c52f82c-43d8-40f0-85e8-4f0e22f77006",
+   "external_id": "5c52f82c-43d8-40f0-85e8-4f0e22f77006",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 167 (December 2015 - January 2016).pdf",
+   "bytes": 15524438,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-167.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-168",
+  "publication": "develop",
+  "sequence": 29,
+  "number": "168",
+  "date": {
+   "display": "February 2016",
+   "start": "2016-02",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 314.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d90b324-71a3-4b8e-ab99-08271ecfea36",
+   "external_id": "8d90b324-71a3-4b8e-ab99-08271ecfea36",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 168 (February 2016).pdf",
+   "bytes": 12411375,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-168.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-169",
+  "publication": "develop",
+  "sequence": 30,
+  "number": "169",
+  "date": {
+   "display": "March 2016",
+   "start": "2016-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 314.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b340d45-8ef7-45b4-b11f-21ef601f7332",
+   "external_id": "8b340d45-8ef7-45b4-b11f-21ef601f7332",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 169 (March 2016).pdf",
+   "bytes": 35625952,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-169.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-170",
+  "publication": "develop",
+  "sequence": 31,
+  "number": "170",
+  "date": {
+   "display": "April 2016",
+   "start": "2016-04",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 316.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/36232aa8-a579-4014-984b-8028d5b5c46e",
+   "external_id": "36232aa8-a579-4014-984b-8028d5b5c46e",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 170 (April 2016).pdf",
+   "bytes": 17631938,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-170.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-171",
+  "publication": "develop",
+  "sequence": 32,
+  "number": "171",
+  "date": {
+   "display": "May 2016",
+   "start": "2016-05",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 229.0,
+   "height_mm": 315.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3289fba1-0bf7-4382-a33f-db7c3ef315dc",
+   "external_id": "3289fba1-0bf7-4382-a33f-db7c3ef315dc",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 171 (May 2016).pdf",
+   "bytes": 16207593,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-171.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-172",
+  "publication": "develop",
+  "sequence": 33,
+  "number": "172",
+  "date": {
+   "display": "June 2016",
+   "start": "2016-06",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 229.8,
+   "height_mm": 314.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a7d9365-3857-4db2-9730-0801ae6e1f30",
+   "external_id": "7a7d9365-3857-4db2-9730-0801ae6e1f30",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 172 (June 2016).pdf",
+   "bytes": 37225242,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-172.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-173",
+  "publication": "develop",
+  "sequence": 34,
+  "number": "173",
+  "date": {
+   "display": "July 2016",
+   "start": "2016-07",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 223.8,
+   "height_mm": 308.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/48da6770-0674-4934-b017-1d02eff41ea5",
+   "external_id": "48da6770-0674-4934-b017-1d02eff41ea5",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 173 (July 2016).pdf",
+   "bytes": 28234968,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-173.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-174",
+  "publication": "develop",
+  "sequence": 35,
+  "number": "174",
+  "date": {
+   "display": "August 2016",
+   "start": "2016-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/94a0da0b-67b0-4186-8127-19a917144ec5",
+   "external_id": "94a0da0b-67b0-4186-8127-19a917144ec5",
+   "retrieved_at": "2026-09-14T09:49:26+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 174 (August 2016).pdf",
+   "bytes": 59395347,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:49:26+00:00",
+  "dimensions": {
+   "width_mm": 226.6,
+   "height_mm": 311.6
+  },
+  "assets": {
+   "cover": "site/public/covers/develop-174.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "develop-175",
+  "publication": "develop",
+  "sequence": 36,
+  "number": "175",
+  "date": {
+   "display": "September 2016",
+   "start": "2016-09",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 229.8,
+   "height_mm": 314.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fb9958e9-c28b-4734-8420-1b5ff9fbdd0b",
+   "external_id": "fb9958e9-c28b-4734-8420-1b5ff9fbdd0b",
+   "retrieved_at": "2026-09-14T09:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/develop/pdf/Develop, Issue 175 (September 2016).pdf",
+   "bytes": 34828458,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:13+00:00",
+  "assets": {
+   "cover": "site/public/covers/develop-175.jpg",
+   "pages_rendered": false
+  }
+ }
+]

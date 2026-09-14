@@ -1,1 +1,359 @@
-[]
+[
+ {
+  "id": "activisions-1",
+  "publication": "activisions",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Fall 1981",
+   "start": "1981-09",
+   "precision": "season"
+  },
+  "pages": 4,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f2a3d75f-6155-4583-9b99-de06706eeec2",
+   "external_id": "f2a3d75f-6155-4583-9b99-de06706eeec2",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Volume 1 (Fall 1981).pdf",
+   "bytes": 6704724,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/activisions-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-2",
+  "publication": "activisions",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "Winter 1981",
+   "start": "1981-12",
+   "precision": "season"
+  },
+  "pages": 4,
+  "dimensions": {
+   "width_mm": 296.3,
+   "height_mm": 383.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/22247f98-c57a-404d-93b0-c8771457274e",
+   "external_id": "22247f98-c57a-404d-93b0-c8771457274e",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Volume 2 (Winter 1981).pdf",
+   "bytes": 1085499,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/activisions-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-3",
+  "publication": "activisions",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "Spring 1982",
+   "start": "1982-03",
+   "precision": "season"
+  },
+  "pages": 6,
+  "dimensions": {
+   "width_mm": 295.6,
+   "height_mm": 388.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/87533532-0a68-4614-b0dc-5f4800598ea5",
+   "external_id": "87533532-0a68-4614-b0dc-5f4800598ea5",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Volume 3 (Spring 1982).pdf",
+   "bytes": 1694411,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/activisions-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-198207-special-edition",
+  "publication": "activisions",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "July 1982",
+   "start": "1982-07",
+   "precision": "month"
+  },
+  "pages": 1,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 279.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f60184d7-5927-4806-9cdf-ace49305fe85",
+   "external_id": "f60184d7-5927-4806-9cdf-ace49305fe85",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Special Edition (July 1982).pdf",
+   "bytes": 1692189,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/activisions-198207-special-edition.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-4",
+  "publication": "activisions",
+  "sequence": 5,
+  "number": "4",
+  "date": {
+   "display": "Fall 1982",
+   "start": "1982-09",
+   "precision": "season"
+  },
+  "pages": 6,
+  "dimensions": {
+   "width_mm": 296.3,
+   "height_mm": 381.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b599e65-f453-48b3-a079-683a5d0265a1",
+   "external_id": "2b599e65-f453-48b3-a079-683a5d0265a1",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Volume 4 (Fall 1982).pdf",
+   "bytes": 1816167,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 4,
+  "assets": {
+   "cover": "site/public/covers/activisions-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-5",
+  "publication": "activisions",
+  "sequence": 6,
+  "number": "5",
+  "date": {
+   "display": "December 1982",
+   "start": "1982-12",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 296.3,
+   "height_mm": 386.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/870e47e7-673d-4899-b9aa-c1563ee78504",
+   "external_id": "870e47e7-673d-4899-b9aa-c1563ee78504",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Volume 5 (December 1982).pdf",
+   "bytes": 2118823,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 5,
+  "assets": {
+   "cover": "site/public/covers/activisions-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-198212-activision-for-atari-computers-insert",
+  "publication": "activisions",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "December 1982",
+   "start": "1982-12",
+   "precision": "month"
+  },
+  "pages": 2,
+  "dimensions": {
+   "width_mm": 217.8,
+   "height_mm": 280.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e9c2826f-5de3-49e4-9e61-32b8345f9637",
+   "external_id": "e9c2826f-5de3-49e4-9e61-32b8345f9637",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activision for Atari Computers insert (December 1982).pdf",
+   "bytes": 4595350,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/activisions-198212-activision-for-atari-computers-insert.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-6",
+  "publication": "activisions",
+  "sequence": 8,
+  "number": "6",
+  "date": {
+   "display": "Spring 1983",
+   "start": "1983-03",
+   "precision": "season"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 294.9,
+   "height_mm": 388.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d59be8b8-f8a8-490a-a391-b055043f9647",
+   "external_id": "d59be8b8-f8a8-490a-a391-b055043f9647",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Volume 6 (Spring 1983).pdf",
+   "bytes": 2304181,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 6,
+  "assets": {
+   "cover": "site/public/covers/activisions-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-7",
+  "publication": "activisions",
+  "sequence": 9,
+  "number": "7",
+  "date": {
+   "display": "Fall 1983",
+   "start": "1983-09",
+   "precision": "season"
+  },
+  "pages": 10,
+  "dimensions": {
+   "width_mm": 296.3,
+   "height_mm": 388.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c6c95ab-9cb8-4772-9e63-a9fdbc148270",
+   "external_id": "6c6c95ab-9cb8-4772-9e63-a9fdbc148270",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions, Volume 7 (Fall 1983).pdf",
+   "bytes": 3303226,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 7,
+  "assets": {
+   "cover": "site/public/covers/activisions-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "activisions-1984-update-pitfall-ii-lost-caverns",
+  "publication": "activisions",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "est. early 1984",
+   "start": "1984",
+   "precision": "year"
+  },
+  "pages": 4,
+  "dimensions": {
+   "width_mm": 216.5,
+   "height_mm": 281.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7557235c-1eaa-4a91-9fca-461fb45af9d1",
+   "external_id": "7557235c-1eaa-4a91-9fca-461fb45af9d1",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/activisions/pdf/Activisions Update, Pitfall II- Lost Caverns (est. early 1984).pdf",
+   "bytes": 5799179,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/activisions-1984-update-pitfall-ii-lost-caverns.jpg",
+   "pages_rendered": false
+  }
+ }
+]

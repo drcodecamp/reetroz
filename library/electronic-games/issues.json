@@ -1,1 +1,1440 @@
-[]
+[
+ {
+  "id": "electronic-games-1",
+  "publication": "electronic-games",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Winter 1981",
+   "start": "1981-12",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc8e8b67-2d76-4c22-ac7e-97bd9e17a4bb",
+   "external_id": "bc8e8b67-2d76-4c22-ac7e-97bd9e17a4bb",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 1 (Winter 1981).pdf",
+   "bytes": 68070967,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/electronic-games-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-2",
+  "publication": "electronic-games",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "March 1982",
+   "start": "1982-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/945560b4-9615-4385-8f4e-c35ad38d2a86",
+   "external_id": "945560b4-9615-4385-8f4e-c35ad38d2a86",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 2 (March 1982).pdf",
+   "bytes": 60922847,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-3",
+  "publication": "electronic-games",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "May 1982",
+   "start": "1982-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/59b68cd4-9e98-4455-b9b5-64bfa03b2bfc",
+   "external_id": "59b68cd4-9e98-4455-b9b5-64bfa03b2bfc",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 3 (May 1982).pdf",
+   "bytes": 59476483,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-4",
+  "publication": "electronic-games",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "June 1982",
+   "start": "1982-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/35e403a0-2965-43d1-acfe-605156ec797d",
+   "external_id": "35e403a0-2965-43d1-acfe-605156ec797d",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 4 (June 1982).pdf",
+   "bytes": 61751584,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-5",
+  "publication": "electronic-games",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "July 1982",
+   "start": "1982-07",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dd141f4e-a968-450b-b366-204cf2f8a0f2",
+   "external_id": "dd141f4e-a968-450b-b366-204cf2f8a0f2",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 5 (July 1982).pdf",
+   "bytes": 69888589,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-6",
+  "publication": "electronic-games",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "August 1982",
+   "start": "1982-08",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1687a7fb-1a24-431a-854c-bacebbe6cb17",
+   "external_id": "1687a7fb-1a24-431a-854c-bacebbe6cb17",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 6 (August 1982).pdf",
+   "bytes": 72288711,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-7",
+  "publication": "electronic-games",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "September 1982",
+   "start": "1982-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/43e638a1-8741-4ba5-85bf-f6ef785926aa",
+   "external_id": "43e638a1-8741-4ba5-85bf-f6ef785926aa",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 7 (September 1982).pdf",
+   "bytes": 78823610,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-8",
+  "publication": "electronic-games",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "October 1982",
+   "start": "1982-10",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a321359c-bac2-4d80-b428-4f86b624e3b1",
+   "external_id": "a321359c-bac2-4d80-b428-4f86b624e3b1",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 8 (October 1982).pdf",
+   "bytes": 86480031,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-9",
+  "publication": "electronic-games",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "November 1982",
+   "start": "1982-11",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 204.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c5feace4-f7c7-4624-82a6-c0445ebce9a8",
+   "external_id": "c5feace4-f7c7-4624-82a6-c0445ebce9a8",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 9 (November 1982).pdf",
+   "bytes": 91566486,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-10",
+  "publication": "electronic-games",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "December 1982",
+   "start": "1982-12",
+   "precision": "month"
+  },
+  "pages": 142,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c78f3e46-1b55-4f6f-b021-7bf0ae21b43f",
+   "external_id": "c78f3e46-1b55-4f6f-b021-7bf0ae21b43f",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 10 (December 1982).pdf",
+   "bytes": 104214835,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-198212-1983-buyers-guide",
+  "publication": "electronic-games",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "December 1982",
+   "start": "1982-12",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2244249c-969c-4b65-af20-cf6899c40a1d",
+   "external_id": "2244249c-969c-4b65-af20-cf6899c40a1d",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games 1983 Buyers Guide (December 1982).pdf",
+   "bytes": 113825352,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-198212-1983-buyers-guide.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-11",
+  "publication": "electronic-games",
+  "sequence": 12,
+  "number": "11",
+  "date": {
+   "display": "January 1983",
+   "start": "1983-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/62d10cf5-a844-4595-8da9-468f33d3ceb5",
+   "external_id": "62d10cf5-a844-4595-8da9-468f33d3ceb5",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 11 (January 1983).pdf",
+   "bytes": 102863214,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-19830125-1983-software-encyclopedia",
+  "publication": "electronic-games",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "January 25, 1983",
+   "start": "1983-01-25",
+   "precision": "day"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26488984-1df9-4c0e-b956-4b3628e395d6",
+   "external_id": "26488984-1df9-4c0e-b956-4b3628e395d6",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games 1983 Software Encyclopedia (January 25, 1983).pdf",
+   "bytes": 90262480,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-19830125-1983-software-encyclopedia.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-12",
+  "publication": "electronic-games",
+  "sequence": 14,
+  "number": "12",
+  "date": {
+   "display": "February 1983",
+   "start": "1983-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 206.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8307830f-9625-4876-83fe-48db026e3e11",
+   "external_id": "8307830f-9625-4876-83fe-48db026e3e11",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 12 (February 1983).pdf",
+   "bytes": 95783735,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-13",
+  "publication": "electronic-games",
+  "sequence": 15,
+  "number": "13",
+  "date": {
+   "display": "March 1983",
+   "start": "1983-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cbb95d8b-a098-4c63-8f25-e6e7bc9bb81e",
+   "external_id": "cbb95d8b-a098-4c63-8f25-e6e7bc9bb81e",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 1, Number 13 (March 1983).pdf",
+   "bytes": 89054588,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-1-2",
+  "publication": "electronic-games",
+  "sequence": 16,
+  "number": "1",
+  "date": {
+   "display": "April 1983",
+   "start": "1983-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 206.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/487d8601-4708-451c-8597-720c7f4acf95",
+   "external_id": "487d8601-4708-451c-8597-720c7f4acf95",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 1 (April 1983).pdf",
+   "bytes": 90197438,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-2-2",
+  "publication": "electronic-games",
+  "sequence": 17,
+  "number": "2",
+  "date": {
+   "display": "May 1983",
+   "start": "1983-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0d11fccd-3adc-4162-9773-77c0fee84cfa",
+   "external_id": "0d11fccd-3adc-4162-9773-77c0fee84cfa",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 2 (May 1983).pdf",
+   "bytes": 91509253,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/electronic-games-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-3-2",
+  "publication": "electronic-games",
+  "sequence": 18,
+  "number": "3",
+  "date": {
+   "display": "June 1983",
+   "start": "1983-06",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 206.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e0e85ca6-6062-4822-a510-2835d4bcf772",
+   "external_id": "e0e85ca6-6062-4822-a510-2835d4bcf772",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 3 (June 1983).pdf",
+   "bytes": 98043660,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-4-2",
+  "publication": "electronic-games",
+  "sequence": 19,
+  "number": "4",
+  "date": {
+   "display": "July 1983",
+   "start": "1983-07",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f05b1446-9b45-4d1b-a5b1-36551142d22f",
+   "external_id": "f05b1446-9b45-4d1b-a5b1-36551142d22f",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 4 (July 1983).pdf",
+   "bytes": 101468972,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-5-2",
+  "publication": "electronic-games",
+  "sequence": 20,
+  "number": "5",
+  "date": {
+   "display": "August 1983",
+   "start": "1983-08",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 207.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/76a1b427-22d8-475b-b60a-e8eda0b5cea3",
+   "external_id": "76a1b427-22d8-475b-b60a-e8eda0b5cea3",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 5 (August 1983).pdf",
+   "bytes": 94101186,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-6-2",
+  "publication": "electronic-games",
+  "sequence": 21,
+  "number": "6",
+  "date": {
+   "display": "September 1983",
+   "start": "1983-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f6f90ab6-78c0-47bf-87b0-81c42621ed7f",
+   "external_id": "f6f90ab6-78c0-47bf-87b0-81c42621ed7f",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 6 (September 1983).pdf",
+   "bytes": 86620327,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-7-2",
+  "publication": "electronic-games",
+  "sequence": 22,
+  "number": "7",
+  "date": {
+   "display": "October 1983",
+   "start": "1983-10",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1739a530-dc10-456a-9c7d-ee6688fa92c7",
+   "external_id": "1739a530-dc10-456a-9c7d-ee6688fa92c7",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 7 (October 1983).pdf",
+   "bytes": 96204790,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-8-2",
+  "publication": "electronic-games",
+  "sequence": 23,
+  "number": "8",
+  "date": {
+   "display": "November 1983",
+   "start": "1983-11",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7f9c1e7-92ee-4ffa-9e7f-22d73ba15d5e",
+   "external_id": "e7f9c1e7-92ee-4ffa-9e7f-22d73ba15d5e",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 8 (November 1983).pdf",
+   "bytes": 94776072,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-9-2",
+  "publication": "electronic-games",
+  "sequence": 24,
+  "number": "9",
+  "date": {
+   "display": "December 1983",
+   "start": "1983-12",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 206.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4927215a-ef00-4783-8da5-e498a1604079",
+   "external_id": "4927215a-ef00-4783-8da5-e498a1604079",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 9 (December 1983).pdf",
+   "bytes": 104138571,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-9-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-10-2",
+  "publication": "electronic-games",
+  "sequence": 25,
+  "number": "10",
+  "date": {
+   "display": "January 1984",
+   "start": "1984-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 207.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c0c6bbd-b214-453a-a2d5-a8e5f4e6919d",
+   "external_id": "4c0c6bbd-b214-453a-a2d5-a8e5f4e6919d",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 10 (January 1984).pdf",
+   "bytes": 100312607,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-10-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-11-2",
+  "publication": "electronic-games",
+  "sequence": 26,
+  "number": "11",
+  "date": {
+   "display": "March 1984",
+   "start": "1984-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/44285d8f-76e8-46d8-b07d-c184d55cec2f",
+   "external_id": "44285d8f-76e8-46d8-b07d-c184d55cec2f",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 11 (March 1984).pdf",
+   "bytes": 79934685,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-11-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-12-2",
+  "publication": "electronic-games",
+  "sequence": 27,
+  "number": "12",
+  "date": {
+   "display": "May 1984",
+   "start": "1984-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef3b6797-d7c9-4bb3-9081-1d7559c8fd75",
+   "external_id": "ef3b6797-d7c9-4bb3-9081-1d7559c8fd75",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 12 (May 1984).pdf",
+   "bytes": 78283641,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-12-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-19840501-1984-software-encyclopedia",
+  "publication": "electronic-games",
+  "sequence": 28,
+  "number": "special",
+  "date": {
+   "display": "May 1, 1984",
+   "start": "1984-05-01",
+   "precision": "day"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b42e97cf-c194-422d-b580-1047b0600182",
+   "external_id": "b42e97cf-c194-422d-b580-1047b0600182",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games 1984 Software Encyclopedia (May 1, 1984).pdf",
+   "bytes": 89703119,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-19840501-1984-software-encyclopedia.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-13-2",
+  "publication": "electronic-games",
+  "sequence": 29,
+  "number": "13",
+  "date": {
+   "display": "July 1984",
+   "start": "1984-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f3b7c987-bd78-4890-b0dd-37195ce477d4",
+   "external_id": "f3b7c987-bd78-4890-b0dd-37195ce477d4",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 13 (July 1984).pdf",
+   "bytes": 75523388,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-13-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-14",
+  "publication": "electronic-games",
+  "sequence": 30,
+  "number": "14",
+  "date": {
+   "display": "September 1984",
+   "start": "1984-09",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cfbafd5e-dd78-4906-afd8-db56b4747396",
+   "external_id": "cfbafd5e-dd78-4906-afd8-db56b4747396",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 14 (September 1984).pdf",
+   "bytes": 68540413,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-15",
+  "publication": "electronic-games",
+  "sequence": 31,
+  "number": "15",
+  "date": {
+   "display": "October 1984",
+   "start": "1984-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b320ec4-c238-434f-abf4-38d714c12b72",
+   "external_id": "2b320ec4-c238-434f-abf4-38d714c12b72",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 15 (October 1984).pdf",
+   "bytes": 77944895,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-16",
+  "publication": "electronic-games",
+  "sequence": 32,
+  "number": "16",
+  "date": {
+   "display": "November 1984",
+   "start": "1984-11",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4f6b3afc-5321-4a87-9585-8cd465430a6b",
+   "external_id": "4f6b3afc-5321-4a87-9585-8cd465430a6b",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 16 (November 1984).pdf",
+   "bytes": 69758142,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-17",
+  "publication": "electronic-games",
+  "sequence": 33,
+  "number": "17",
+  "date": {
+   "display": "December 1984",
+   "start": "1984-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/142f9049-5c01-437b-9399-2bcb8754ef7a",
+   "external_id": "142f9049-5c01-437b-9399-2bcb8754ef7a",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 2, Number 17 (December 1984).pdf",
+   "bytes": 74382759,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-1-3",
+  "publication": "electronic-games",
+  "sequence": 34,
+  "number": "1",
+  "date": {
+   "display": "January 1985",
+   "start": "1985-01",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3d4af76a-3e3a-45ea-8792-aecabf3b0da4",
+   "external_id": "3d4af76a-3e3a-45ea-8792-aecabf3b0da4",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 3, Number 1 (January 1985).pdf",
+   "bytes": 68976017,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-2-3",
+  "publication": "electronic-games",
+  "sequence": 35,
+  "number": "2",
+  "date": {
+   "display": "February 1985",
+   "start": "1985-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 206.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1ca7d7e0-39fd-47e8-b900-ceac2424edb9",
+   "external_id": "1ca7d7e0-39fd-47e8-b900-ceac2424edb9",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 3, Number 2 (February 1985).pdf",
+   "bytes": 64218905,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-3-3",
+  "publication": "electronic-games",
+  "sequence": 36,
+  "number": "3",
+  "date": {
+   "display": "March 1985",
+   "start": "1985-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2eb872e0-c6f1-49c7-98de-6950815fab9e",
+   "external_id": "2eb872e0-c6f1-49c7-98de-6950815fab9e",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 3, Number 3 (March 1985).pdf",
+   "bytes": 63291887,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/electronic-games-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-4-3",
+  "publication": "electronic-games",
+  "sequence": 37,
+  "number": "4",
+  "date": {
+   "display": "April 1985",
+   "start": "1985-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8e013cf2-994a-4987-a0a8-e1ae03ff3a62",
+   "external_id": "8e013cf2-994a-4987-a0a8-e1ae03ff3a62",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Electronic Games, Volume 3, Number 4 (April 1985).pdf",
+   "bytes": 66688816,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-5-3",
+  "publication": "electronic-games",
+  "sequence": 38,
+  "number": "5",
+  "date": {
+   "display": "May 1985",
+   "start": "1985-05",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7ac43bf-f55f-4bb3-a6ef-67194a7a1926",
+   "external_id": "a7ac43bf-f55f-4bb3-a6ef-67194a7a1926",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Computer Entertainment, Volume 3, Number 5 (May 1985).pdf",
+   "bytes": 67194213,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-5-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-6-3",
+  "publication": "electronic-games",
+  "sequence": 39,
+  "number": "6",
+  "date": {
+   "display": "June 1985",
+   "start": "1985-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b992ae55-f725-420c-a703-d927bb405e7b",
+   "external_id": "b992ae55-f725-420c-a703-d927bb405e7b",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Computer Entertainment, Volume 3, Number 6 (June 1985).pdf",
+   "bytes": 68205513,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-6-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-7-3",
+  "publication": "electronic-games",
+  "sequence": 40,
+  "number": "7",
+  "date": {
+   "display": "July 1985",
+   "start": "1985-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/43965361-f798-4d41-bd50-2c0a04c00345",
+   "external_id": "43965361-f798-4d41-bd50-2c0a04c00345",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Computer Entertainment, Volume 3, Number 7 (July 1985).pdf",
+   "bytes": 67078859,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-7-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "electronic-games-8-3",
+  "publication": "electronic-games",
+  "sequence": 41,
+  "number": "8",
+  "date": {
+   "display": "August 1985",
+   "start": "1985-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba9a1e20-f872-4265-a26e-807c7cfaa1b2",
+   "external_id": "ba9a1e20-f872-4265-a26e-807c7cfaa1b2",
+   "retrieved_at": "2026-09-14T09:33:18+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-games/pdf/Computer Entertainment, Volume 3, Number 8 (August 1985).pdf",
+   "bytes": 67276012,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:18+00:00",
+  "assets": {
+   "cover": "site/public/covers/electronic-games-8-3.jpg",
+   "pages_rendered": false
+  }
+ }
+]

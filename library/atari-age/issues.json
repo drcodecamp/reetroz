@@ -1,1 +1,400 @@
-[]
+[
+ {
+  "id": "atari-age-1",
+  "publication": "atari-age",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "May/June 1982",
+   "start": "1982-05",
+   "precision": "month",
+   "end": "1982-06"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 277.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/59cae0fb-78b7-4264-9b02-b0dfbb41a6fd",
+   "external_id": "59cae0fb-78b7-4264-9b02-b0dfbb41a6fd",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 1, Number 1 (May-June 1982).pdf",
+   "bytes": 9608792,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/atari-age-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-2",
+  "publication": "atari-age",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "July/August 1982",
+   "start": "1982-07",
+   "precision": "month",
+   "end": "1982-08"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 213.3,
+   "height_mm": 277.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7c92acbe-d5fe-4a81-ab81-d94d9c7f1f63",
+   "external_id": "7c92acbe-d5fe-4a81-ab81-d94d9c7f1f63",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 1, Number 2 (July-August 1982).pdf",
+   "bytes": 12045900,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-3",
+  "publication": "atari-age",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "September/October 1982",
+   "start": "1982-09",
+   "precision": "month",
+   "end": "1982-10"
+  },
+  "pages": 26,
+  "dimensions": {
+   "width_mm": 215.8,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c31c5670-f8ba-4051-ad7d-4deccec87d7d",
+   "external_id": "c31c5670-f8ba-4051-ad7d-4deccec87d7d",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 1, Number 3 (September-October 1982).pdf",
+   "bytes": 22542659,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-4",
+  "publication": "atari-age",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "November/December 1982",
+   "start": "1982-11",
+   "precision": "month",
+   "end": "1982-12"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 213.0,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0e6a408a-7567-4e73-9213-fbbbdc97037e",
+   "external_id": "0e6a408a-7567-4e73-9213-fbbbdc97037e",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 1, Number 4 (November-December 1982).pdf",
+   "bytes": 11799110,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-5",
+  "publication": "atari-age",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "January/February 1983",
+   "start": "1983-01",
+   "precision": "month",
+   "end": "1983-02"
+  },
+  "pages": 22,
+  "dimensions": {
+   "width_mm": 212.2,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/746fc1d9-1b85-4d68-9431-a701aec82b13",
+   "external_id": "746fc1d9-1b85-4d68-9431-a701aec82b13",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 1, Number 5 (January-February 1983).pdf",
+   "bytes": 15543058,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-6",
+  "publication": "atari-age",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "March/April 1983",
+   "start": "1983-03",
+   "precision": "month",
+   "end": "1983-04"
+  },
+  "pages": 22,
+  "dimensions": {
+   "width_mm": 210.3,
+   "height_mm": 270.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a96d0ad0-c5a0-4598-8a82-8fb28af69373",
+   "external_id": "a96d0ad0-c5a0-4598-8a82-8fb28af69373",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 1, Number 6 (March-April 1983).pdf",
+   "bytes": 12179254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-1-2",
+  "publication": "atari-age",
+  "sequence": 7,
+  "number": "1",
+  "date": {
+   "display": "May/June 1983",
+   "start": "1983-05",
+   "precision": "month",
+   "end": "1983-06"
+  },
+  "pages": 30,
+  "dimensions": {
+   "width_mm": 210.3,
+   "height_mm": 270.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5dded01e-e477-4b10-ac9e-a4ecc162067e",
+   "external_id": "5dded01e-e477-4b10-ac9e-a4ecc162067e",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 2, Number 1 (May-June 1983).pdf",
+   "bytes": 17300487,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-2-2",
+  "publication": "atari-age",
+  "sequence": 8,
+  "number": "2",
+  "date": {
+   "display": "July/August 1983",
+   "start": "1983-07",
+   "precision": "month",
+   "end": "1983-08"
+  },
+  "pages": 38,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 272.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7ccd4983-6a98-4360-b5d8-6faf13064e86",
+   "external_id": "7ccd4983-6a98-4360-b5d8-6faf13064e86",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 2, Number 2 (July-August 1983).pdf",
+   "bytes": 20591999,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/atari-age-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-3-2",
+  "publication": "atari-age",
+  "sequence": 9,
+  "number": "3",
+  "date": {
+   "display": "September/October 1983",
+   "start": "1983-09",
+   "precision": "month",
+   "end": "1983-10"
+  },
+  "pages": 54,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 272.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/74b05ec4-633d-4c60-a978-2dfdb180ffd8",
+   "external_id": "74b05ec4-633d-4c60-a978-2dfdb180ffd8",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 2, Number 3 (September-October 1983).pdf",
+   "bytes": 26582892,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-4-2",
+  "publication": "atari-age",
+  "sequence": 10,
+  "number": "4",
+  "date": {
+   "display": "November 1983/February 1984",
+   "start": "1983-11",
+   "end": "1984-02",
+   "precision": "month"
+  },
+  "pages": 38,
+  "dimensions": {
+   "width_mm": 211.3,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98e52628-c879-49be-832e-0f76b12d4b3f",
+   "external_id": "98e52628-c879-49be-832e-0f76b12d4b3f",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 2, Number 4 (November 1983-February 1984).pdf",
+   "bytes": 19824297,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atari-age-5-2",
+  "publication": "atari-age",
+  "sequence": 11,
+  "number": "5",
+  "date": {
+   "display": "March/April 1984",
+   "start": "1984-03",
+   "precision": "month",
+   "end": "1984-04"
+  },
+  "pages": 38,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 272.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1fdf8e2-2543-425e-b538-dd7925c2b139",
+   "external_id": "f1fdf8e2-2543-425e-b538-dd7925c2b139",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/atari-age/pdf/Atari Age, Volume 2, Number 5 (March-April 1984).pdf",
+   "bytes": 20921560,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/atari-age-5-2.jpg",
+   "pages_rendered": false
+  }
+ }
+]

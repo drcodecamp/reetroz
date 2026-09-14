@@ -1,1 +1,1859 @@
-[]
+[
+ {
+  "id": "arcade-express-1",
+  "publication": "arcade-express",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "August 15, 1982",
+   "start": "1982-08-15",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa9ace9e-91a0-45d6-bdd9-5ac90153df53",
+   "external_id": "fa9ace9e-91a0-45d6-bdd9-5ac90153df53",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 1 (August 15, 1982).pdf",
+   "bytes": 9325729,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/arcade-express-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-2",
+  "publication": "arcade-express",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "August 30, 1982",
+   "start": "1982-08-30",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/080d7a07-03df-4516-88c2-1d5fcaedd8bf",
+   "external_id": "080d7a07-03df-4516-88c2-1d5fcaedd8bf",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 2 (August 30, 1982).pdf",
+   "bytes": 8954217,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-3",
+  "publication": "arcade-express",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "September 12, 1982",
+   "start": "1982-09-12",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ee43b51d-f3e3-4b31-822b-45c4e45a5734",
+   "external_id": "ee43b51d-f3e3-4b31-822b-45c4e45a5734",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 3 (September 12, 1982).pdf",
+   "bytes": 9845600,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-4",
+  "publication": "arcade-express",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "September 26, 1982",
+   "start": "1982-09-26",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ce02f25b-dafb-4fe0-a11c-2bed7cfd05b4",
+   "external_id": "ce02f25b-dafb-4fe0-a11c-2bed7cfd05b4",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 4 (September 26, 1982).pdf",
+   "bytes": 9831749,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-5",
+  "publication": "arcade-express",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "October 10, 1982",
+   "start": "1982-10-10",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3294ed04-943a-4c87-a6e7-2f42053fc4a9",
+   "external_id": "3294ed04-943a-4c87-a6e7-2f42053fc4a9",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 5 (October 10, 1982).pdf",
+   "bytes": 9742572,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-6",
+  "publication": "arcade-express",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "October 24, 1982",
+   "start": "1982-10-24",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/da3c0b87-d0cd-4146-99a8-ab495e55e767",
+   "external_id": "da3c0b87-d0cd-4146-99a8-ab495e55e767",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 6 (October 24, 1982).pdf",
+   "bytes": 9582915,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-7",
+  "publication": "arcade-express",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "November 7, 1982",
+   "start": "1982-11-07",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/716ee5ed-0945-4104-a088-e4eff60747af",
+   "external_id": "716ee5ed-0945-4104-a088-e4eff60747af",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 7 (November 7, 1982).pdf",
+   "bytes": 9154334,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-8",
+  "publication": "arcade-express",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "November 21, 1982",
+   "start": "1982-11-21",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa6394fc-9df6-451f-973d-8d7ad76ae185",
+   "external_id": "fa6394fc-9df6-451f-973d-8d7ad76ae185",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 8 (November 21, 1982).pdf",
+   "bytes": 9924792,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-9",
+  "publication": "arcade-express",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "December 5, 1982",
+   "start": "1982-12-05",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/75821ccb-57c6-4a6c-be53-5464c5063b55",
+   "external_id": "75821ccb-57c6-4a6c-be53-5464c5063b55",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 9 (December 5, 1982).pdf",
+   "bytes": 10014606,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-10",
+  "publication": "arcade-express",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "December 19, 1982",
+   "start": "1982-12-19",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/34e0b9ba-ad82-4b16-afb3-e01eb6f61e10",
+   "external_id": "34e0b9ba-ad82-4b16-afb3-e01eb6f61e10",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 10 (December 19, 1982).pdf",
+   "bytes": 9250290,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-11",
+  "publication": "arcade-express",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "January 2, 1983",
+   "start": "1983-01-02",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6818b658-f5d5-488c-80bf-c69f9ee83c16",
+   "external_id": "6818b658-f5d5-488c-80bf-c69f9ee83c16",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 11 (January 2, 1983).pdf",
+   "bytes": 9783585,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-12",
+  "publication": "arcade-express",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "January 16, 1983",
+   "start": "1983-01-16",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a3b66683-719e-46e5-be8c-d84bca2fd9e4",
+   "external_id": "a3b66683-719e-46e5-be8c-d84bca2fd9e4",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 12 (January 16, 1983).pdf",
+   "bytes": 9806133,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-13",
+  "publication": "arcade-express",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "January 30, 1983",
+   "start": "1983-01-30",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/43525eb6-7e9d-4405-bcd6-9ddb64415593",
+   "external_id": "43525eb6-7e9d-4405-bcd6-9ddb64415593",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 13 (January 30, 1983).pdf",
+   "bytes": 9340126,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-14",
+  "publication": "arcade-express",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "February 13, 1983",
+   "start": "1983-02-13",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4aacf46e-05d6-4a30-87dd-4dced4c5fe4a",
+   "external_id": "4aacf46e-05d6-4a30-87dd-4dced4c5fe4a",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 14 (February 13, 1983).pdf",
+   "bytes": 8820208,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-15",
+  "publication": "arcade-express",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "February 27, 1983",
+   "start": "1983-02-27",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1e2f19bd-42ae-479b-b9ff-b3bac79245ef",
+   "external_id": "1e2f19bd-42ae-479b-b9ff-b3bac79245ef",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 15 (February 27, 1983).pdf",
+   "bytes": 9884048,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-16",
+  "publication": "arcade-express",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "March 13, 1983",
+   "start": "1983-03-13",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/83fc87d7-d0ad-4f80-b2f2-63863035c01b",
+   "external_id": "83fc87d7-d0ad-4f80-b2f2-63863035c01b",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 16 (March 13, 1983).pdf",
+   "bytes": 8580026,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-17",
+  "publication": "arcade-express",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "March 27, 1983",
+   "start": "1983-03-27",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8936befc-b188-4be4-b469-953574790d52",
+   "external_id": "8936befc-b188-4be4-b469-953574790d52",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 17 (March 27, 1983).pdf",
+   "bytes": 2949293,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-18",
+  "publication": "arcade-express",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "April 10, 1983",
+   "start": "1983-04-10",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ae43f318-b3d8-427b-9895-5214c6fa5f6f",
+   "external_id": "ae43f318-b3d8-427b-9895-5214c6fa5f6f",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 18 (April 10, 1983).pdf",
+   "bytes": 2790699,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-19",
+  "publication": "arcade-express",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "April 24, 1983",
+   "start": "1983-04-24",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d6e2e090-41d0-43bf-80bb-93b7c5e64439",
+   "external_id": "d6e2e090-41d0-43bf-80bb-93b7c5e64439",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 19 (April 24, 1983).pdf",
+   "bytes": 3042061,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-20",
+  "publication": "arcade-express",
+  "sequence": 20,
+  "number": "20",
+  "date": {
+   "display": "May 8, 1983",
+   "start": "1983-05-08",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b387acb5-a7fc-495d-9f96-2986329f1ba8",
+   "external_id": "b387acb5-a7fc-495d-9f96-2986329f1ba8",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 20 (May 8, 1983).pdf",
+   "bytes": 8720371,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-21",
+  "publication": "arcade-express",
+  "sequence": 21,
+  "number": "21",
+  "date": {
+   "display": "May 22, 1983",
+   "start": "1983-05-22",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0e20b663-4956-46a9-a0d9-c6c8a5b726ab",
+   "external_id": "0e20b663-4956-46a9-a0d9-c6c8a5b726ab",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 21 (May 22, 1983).pdf",
+   "bytes": 9269301,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-22",
+  "publication": "arcade-express",
+  "sequence": 22,
+  "number": "22",
+  "date": {
+   "display": "June 5, 1983",
+   "start": "1983-06-05",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d1d9db9-d9c5-4ea3-826f-def6fab01c05",
+   "external_id": "2d1d9db9-d9c5-4ea3-826f-def6fab01c05",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 22 (June 5, 1983).pdf",
+   "bytes": 8949356,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-23",
+  "publication": "arcade-express",
+  "sequence": 23,
+  "number": "23",
+  "date": {
+   "display": "June 19, 1983",
+   "start": "1983-06-19",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d755632-ae36-4097-927f-825ccd6bcd26",
+   "external_id": "1d755632-ae36-4097-927f-825ccd6bcd26",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 23 (June 19, 1983).pdf",
+   "bytes": 8705328,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-24",
+  "publication": "arcade-express",
+  "sequence": 24,
+  "number": "24",
+  "date": {
+   "display": "July 3, 1983",
+   "start": "1983-07-03",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d563ef9-8957-40c2-ad36-b5102de63fc1",
+   "external_id": "9d563ef9-8957-40c2-ad36-b5102de63fc1",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 24 (July 3, 1983).pdf",
+   "bytes": 10196706,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-25",
+  "publication": "arcade-express",
+  "sequence": 25,
+  "number": "25",
+  "date": {
+   "display": "July 17, 1983",
+   "start": "1983-07-17",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2fe0ff3e-d61f-449b-a080-d53ba51d3fc5",
+   "external_id": "2fe0ff3e-d61f-449b-a080-d53ba51d3fc5",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 25 (July 17, 1983).pdf",
+   "bytes": 9821706,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-26",
+  "publication": "arcade-express",
+  "sequence": 26,
+  "number": "26",
+  "date": {
+   "display": "July 31, 1983",
+   "start": "1983-07-31",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6352145-a842-43b0-9f32-c5b4e3818931",
+   "external_id": "a6352145-a842-43b0-9f32-c5b4e3818931",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Arcade Express, Volume 1, Number 26 (July 31, 1983).pdf",
+   "bytes": 9236823,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-1-2",
+  "publication": "arcade-express",
+  "sequence": 27,
+  "number": "1",
+  "date": {
+   "display": "August 14, 1983",
+   "start": "1983-08-14",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7f7e5cb-5f84-4cea-a468-9f7f539fb215",
+   "external_id": "e7f7e5cb-5f84-4cea-a468-9f7f539fb215",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 1 (August 14, 1983).pdf",
+   "bytes": 9438616,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-2-2",
+  "publication": "arcade-express",
+  "sequence": 28,
+  "number": "2",
+  "date": {
+   "display": "August 28, 1983",
+   "start": "1983-08-28",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f403914c-0ffd-4f50-b4c6-213d0068a345",
+   "external_id": "f403914c-0ffd-4f50-b4c6-213d0068a345",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 2 (August 28, 1983).pdf",
+   "bytes": 9367489,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/arcade-express-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-3-2",
+  "publication": "arcade-express",
+  "sequence": 29,
+  "number": "3",
+  "date": {
+   "display": "September 11, 1983",
+   "start": "1983-09-11",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c3a38c67-0ba8-4847-a14a-0e9005cf7dc1",
+   "external_id": "c3a38c67-0ba8-4847-a14a-0e9005cf7dc1",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 3 (September 11, 1983).pdf",
+   "bytes": 9897547,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-4-2",
+  "publication": "arcade-express",
+  "sequence": 30,
+  "number": "4",
+  "date": {
+   "display": "September 23, 1983",
+   "start": "1983-09-23",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.2,
+   "height_mm": 279.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8df96d9e-9dce-4709-8ddc-0f6fa852fd99",
+   "external_id": "8df96d9e-9dce-4709-8ddc-0f6fa852fd99",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 4 (September 23, 1983).pdf",
+   "bytes": 11869632,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-5-2",
+  "publication": "arcade-express",
+  "sequence": 31,
+  "number": "5",
+  "date": {
+   "display": "October 9, 1983",
+   "start": "1983-10-09",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 216.4,
+   "height_mm": 278.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac49669c-2dc8-4218-b19a-eb8b1847b64b",
+   "external_id": "ac49669c-2dc8-4218-b19a-eb8b1847b64b",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 5 (October 9, 1983).pdf",
+   "bytes": 11041333,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-6-2",
+  "publication": "arcade-express",
+  "sequence": 32,
+  "number": "6",
+  "date": {
+   "display": "October 23, 1983",
+   "start": "1983-10-23",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 219.2,
+   "height_mm": 279.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/caa0d803-36c3-49f3-be6e-7d6cd65198cb",
+   "external_id": "caa0d803-36c3-49f3-be6e-7d6cd65198cb",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 6 (October 23, 1983).pdf",
+   "bytes": 10494440,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-7-2",
+  "publication": "arcade-express",
+  "sequence": 33,
+  "number": "7",
+  "date": {
+   "display": "November 6, 1983",
+   "start": "1983-11-06",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 214.7,
+   "height_mm": 279.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3810e210-7f38-4e25-a2c2-ba79cfc10e6e",
+   "external_id": "3810e210-7f38-4e25-a2c2-ba79cfc10e6e",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 7 (November 6, 1983).pdf",
+   "bytes": 11213869,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-8-2",
+  "publication": "arcade-express",
+  "sequence": 34,
+  "number": "8",
+  "date": {
+   "display": "November 20, 1983",
+   "start": "1983-11-20",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/629920af-805f-4caa-b1a1-f54093190d0e",
+   "external_id": "629920af-805f-4caa-b1a1-f54093190d0e",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 8 (November 20, 1983).pdf",
+   "bytes": 10968617,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-9-2",
+  "publication": "arcade-express",
+  "sequence": 35,
+  "number": "9",
+  "date": {
+   "display": "December 4, 1983",
+   "start": "1983-12-04",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/04605358-920c-49d3-9764-078916951288",
+   "external_id": "04605358-920c-49d3-9764-078916951288",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 9 (December 4, 1983).pdf",
+   "bytes": 9495126,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-9-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-10-2",
+  "publication": "arcade-express",
+  "sequence": 36,
+  "number": "10",
+  "date": {
+   "display": "December 18, 1983",
+   "start": "1983-12-18",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/16bfb21c-63a1-4bc6-ab58-5ac7fefca594",
+   "external_id": "16bfb21c-63a1-4bc6-ab58-5ac7fefca594",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 10 (December 18, 1983).pdf",
+   "bytes": 10325295,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-10-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-11-2",
+  "publication": "arcade-express",
+  "sequence": 37,
+  "number": "11",
+  "date": {
+   "display": "January 1, 1984",
+   "start": "1984-01-01",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/994b1015-91d7-4478-a23d-a10789a27014",
+   "external_id": "994b1015-91d7-4478-a23d-a10789a27014",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 11 (January 1, 1984).pdf",
+   "bytes": 10557940,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-11-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-12-2",
+  "publication": "arcade-express",
+  "sequence": 38,
+  "number": "12",
+  "date": {
+   "display": "January 15, 1984",
+   "start": "1984-01-15",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fcc2098b-8269-49cb-91a5-357afca34e63",
+   "external_id": "fcc2098b-8269-49cb-91a5-357afca34e63",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 12 (January 15, 1984).pdf",
+   "bytes": 9955413,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-12-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-13-2",
+  "publication": "arcade-express",
+  "sequence": 39,
+  "number": "13",
+  "date": {
+   "display": "January 29, 1984",
+   "start": "1984-01-29",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/80655b9c-70db-437e-bee8-7e460e67e904",
+   "external_id": "80655b9c-70db-437e-bee8-7e460e67e904",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 13 (January 29, 1984).pdf",
+   "bytes": 9584583,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-13-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-14-2",
+  "publication": "arcade-express",
+  "sequence": 40,
+  "number": "14",
+  "date": {
+   "display": "February 12, 1984",
+   "start": "1984-02-12",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/70816f96-a40f-40c0-970d-c3800b93608c",
+   "external_id": "70816f96-a40f-40c0-970d-c3800b93608c",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 14 (February 12, 1984).pdf",
+   "bytes": 8385019,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-14-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-15-2",
+  "publication": "arcade-express",
+  "sequence": 41,
+  "number": "15",
+  "date": {
+   "display": "February 26, 1984",
+   "start": "1984-02-26",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/665cb202-5cc0-4b31-8d17-3457425ef82f",
+   "external_id": "665cb202-5cc0-4b31-8d17-3457425ef82f",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 15 (February 26, 1984).pdf",
+   "bytes": 9465260,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-15-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-16-2",
+  "publication": "arcade-express",
+  "sequence": 42,
+  "number": "16",
+  "date": {
+   "display": "March 11, 1984",
+   "start": "1984-03-11",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2550bc8-89ce-4613-8074-d80f13093580",
+   "external_id": "a2550bc8-89ce-4613-8074-d80f13093580",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 16 (March 11, 1984).pdf",
+   "bytes": 10016174,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-16-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-17-2",
+  "publication": "arcade-express",
+  "sequence": 43,
+  "number": "17",
+  "date": {
+   "display": "March 25, 1984",
+   "start": "1984-03-25",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a675b76c-7c14-4368-9748-79c24a238834",
+   "external_id": "a675b76c-7c14-4368-9748-79c24a238834",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 17 (March 25, 1984).pdf",
+   "bytes": 10019848,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-17-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-18-2",
+  "publication": "arcade-express",
+  "sequence": 44,
+  "number": "18",
+  "date": {
+   "display": "April 8, 1984",
+   "start": "1984-04-08",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/94560883-df0c-4b33-a724-1c165a437f73",
+   "external_id": "94560883-df0c-4b33-a724-1c165a437f73",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 18 (April 8, 1984).pdf",
+   "bytes": 9266032,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-18-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-19-2",
+  "publication": "arcade-express",
+  "sequence": 45,
+  "number": "19",
+  "date": {
+   "display": "April 22, 1984",
+   "start": "1984-04-22",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec946f76-2309-4873-b97b-cbbb9f437ae0",
+   "external_id": "ec946f76-2309-4873-b97b-cbbb9f437ae0",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 19 (April 22, 1984).pdf",
+   "bytes": 9838850,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-19-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-20-2",
+  "publication": "arcade-express",
+  "sequence": 46,
+  "number": "20",
+  "date": {
+   "display": "May 6, 1984",
+   "start": "1984-05-06",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/74c21834-924c-4577-9e18-6aa9e55cff10",
+   "external_id": "74c21834-924c-4577-9e18-6aa9e55cff10",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 20 (May 6, 1984).pdf",
+   "bytes": 9361622,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-20-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-21-2",
+  "publication": "arcade-express",
+  "sequence": 47,
+  "number": "21",
+  "date": {
+   "display": "May 20, 1984",
+   "start": "1984-05-20",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c43db08c-1799-4486-bb5e-c48ca5814299",
+   "external_id": "c43db08c-1799-4486-bb5e-c48ca5814299",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 21 (May 20, 1984).pdf",
+   "bytes": 9642368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-21-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-22-2",
+  "publication": "arcade-express",
+  "sequence": 48,
+  "number": "22",
+  "date": {
+   "display": "June 3, 1984",
+   "start": "1984-06-03",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 219.4,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9b1fe279-d2b8-47d5-9a8d-61a1bff89158",
+   "external_id": "9b1fe279-d2b8-47d5-9a8d-61a1bff89158",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 22 (June 3, 1984).pdf",
+   "bytes": 11449914,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-22-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-23-2",
+  "publication": "arcade-express",
+  "sequence": 49,
+  "number": "23",
+  "date": {
+   "display": "June 17, 1984",
+   "start": "1984-06-17",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 217.8,
+   "height_mm": 281.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/038e20e2-9927-41a1-aed9-fbc3ef0261ec",
+   "external_id": "038e20e2-9927-41a1-aed9-fbc3ef0261ec",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 23 (June 17, 1984).pdf",
+   "bytes": 10949352,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-23-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-24-2",
+  "publication": "arcade-express",
+  "sequence": 50,
+  "number": "24",
+  "date": {
+   "display": "July 1, 1984",
+   "start": "1984-07-01",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ca399483-05d5-4509-a834-80ae4590835e",
+   "external_id": "ca399483-05d5-4509-a834-80ae4590835e",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 24 (July 1, 1984).pdf",
+   "bytes": 9383066,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-24-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-25-2",
+  "publication": "arcade-express",
+  "sequence": 51,
+  "number": "25",
+  "date": {
+   "display": "July 15, 1984",
+   "start": "1984-07-15",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d766815-b6ab-44b8-a26e-ee80f2c28804",
+   "external_id": "1d766815-b6ab-44b8-a26e-ee80f2c28804",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 25 (July 15, 1984).pdf",
+   "bytes": 9632692,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-25-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-26-2",
+  "publication": "arcade-express",
+  "sequence": 52,
+  "number": "26",
+  "date": {
+   "display": "July 29, 1984",
+   "start": "1984-07-29",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25235656-e7ec-481f-b253-b3fc3300965c",
+   "external_id": "25235656-e7ec-481f-b253-b3fc3300965c",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 2, Number 26 (July 29, 1984).pdf",
+   "bytes": 9693892,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-26-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "arcade-express-1-3",
+  "publication": "arcade-express",
+  "sequence": 53,
+  "number": "1",
+  "date": {
+   "display": "August 12, 1984",
+   "start": "1984-08-12",
+   "precision": "day"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 215.0,
+   "height_mm": 279.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/780299c6-6f75-4ee1-bb02-9a7fb79e82ed",
+   "external_id": "780299c6-6f75-4ee1-bb02-9a7fb79e82ed",
+   "retrieved_at": "2026-09-14T09:33:09+00:00"
+  },
+  "files": {
+   "pdf": "library/arcade-express/pdf/Electronic Games Hotline, Volume 3, Number 1 (August 12, 1984).pdf",
+   "bytes": 11831973,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:09+00:00",
+  "assets": {
+   "cover": "site/public/covers/arcade-express-1-3.jpg",
+   "pages_rendered": false
+  }
+ }
+]

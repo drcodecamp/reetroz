@@ -1,0 +1,250 @@
+[
+ {
+  "id": "girl-gamer-1",
+  "publication": "girl-gamer",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "est. holiday 2007",
+   "start": "2007-12",
+   "precision": "season"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 148.2,
+   "height_mm": 210.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25df6e8d-e59e-43ef-b7d6-fbfe43ba59e3",
+   "external_id": "25df6e8d-e59e-43ef-b7d6-fbfe43ba59e3",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 1 (est. holiday 2007).pdf",
+   "bytes": 10311419,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "girl-gamer-3",
+  "publication": "girl-gamer",
+  "sequence": 2,
+  "number": "3",
+  "date": {
+   "display": "2008",
+   "start": "2008",
+   "precision": "year"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 149.1,
+   "height_mm": 211.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a0846b5-7354-484c-96ef-4dbcfe71bb5d",
+   "external_id": "0a0846b5-7354-484c-96ef-4dbcfe71bb5d",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 3 (2008).pdf",
+   "bytes": 9379417,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "girl-gamer-4",
+  "publication": "girl-gamer",
+  "sequence": 3,
+  "number": "4",
+  "date": {
+   "display": "2008",
+   "start": "2008",
+   "precision": "year"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 148.2,
+   "height_mm": 209.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f04779cb-b05d-41b9-9495-72d6d76879fd",
+   "external_id": "f04779cb-b05d-41b9-9495-72d6d76879fd",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 4 (2008).pdf",
+   "bytes": 8859940,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "girl-gamer-2",
+  "publication": "girl-gamer",
+  "sequence": 4,
+  "number": "2",
+  "date": {
+   "display": "circa April 2008",
+   "start": "2008-04",
+   "precision": "month"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 146.3,
+   "height_mm": 210.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6beceaa-f36f-46d7-bc2a-f4599773e10e",
+   "external_id": "e6beceaa-f36f-46d7-bc2a-f4599773e10e",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 2 (circa April 2008).pdf",
+   "bytes": 9584748,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "girl-gamer-5",
+  "publication": "girl-gamer",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "est. holiday 2008",
+   "start": "2008-12",
+   "precision": "season"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 148.4,
+   "height_mm": 210.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6f095b09-59dc-48e4-9491-9f44d6e89e7b",
+   "external_id": "6f095b09-59dc-48e4-9491-9f44d6e89e7b",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 5 (est. holiday 2008).pdf",
+   "bytes": 9713227,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "girl-gamer-6",
+  "publication": "girl-gamer",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "est. early 2009",
+   "start": "2009",
+   "precision": "year"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 148.4,
+   "height_mm": 210.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8981a2d8-ea03-40ea-9dbe-da0c6b5eccdb",
+   "external_id": "8981a2d8-ea03-40ea-9dbe-da0c6b5eccdb",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 6 (est. early 2009).pdf",
+   "bytes": 5552687,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "girl-gamer-7",
+  "publication": "girl-gamer",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "2009",
+   "start": "2009",
+   "precision": "year"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 148.7,
+   "height_mm": 210.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26baa8f9-1e10-4847-a47a-a99b2bb530e0",
+   "external_id": "26baa8f9-1e10-4847-a47a-a99b2bb530e0",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 7 (2009).pdf",
+   "bytes": 5829872,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "girl-gamer-8",
+  "publication": "girl-gamer",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "2009",
+   "start": "2009",
+   "precision": "year"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 148.3,
+   "height_mm": 209.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7ef3ccd6-ddba-4f1c-8bf4-1c2d76d74c98",
+   "external_id": "7ef3ccd6-ddba-4f1c-8bf4-1c2d76d74c98",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/girl-gamer/pdf/Girl Gamer, Issue 8 (2009).pdf",
+   "bytes": 4761949,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ }
+]

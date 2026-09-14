@@ -1,1 +1,739 @@
-[]
+[
+ {
+  "id": "diehard-gamefan-1",
+  "publication": "diehard-gamefan",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/39a97025-c36b-4f07-9d38-39171a45ef3e",
+   "external_id": "39a97025-c36b-4f07-9d38-39171a45ef3e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard Game Fan, Volume 1, Issue 1 (October 1992).pdf",
+   "bytes": 77581358,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-2",
+  "publication": "diehard-gamefan",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1f48ff01-a706-424d-b7cf-f5b069f28e94",
+   "external_id": "1f48ff01-a706-424d-b7cf-f5b069f28e94",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard Game Fan, Volume 1, Issue 2 (December 1992).pdf",
+   "bytes": 145955215,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-3",
+  "publication": "diehard-gamefan",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.2,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7617213-19bc-49f0-9cb4-1831dbc9ffe1",
+   "external_id": "e7617213-19bc-49f0-9cb4-1831dbc9ffe1",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard Game Fan, Volume 1, Issue 3 (January 1993).pdf",
+   "bytes": 92793949,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-5",
+  "publication": "diehard-gamefan",
+  "sequence": 4,
+  "number": "5",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.5,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d809f7ad-f4fd-4858-a2dd-00b75787df95",
+   "external_id": "d809f7ad-f4fd-4858-a2dd-00b75787df95",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard Game Fan, Volume 1, Issue 5 (April 1993).pdf",
+   "bytes": 111805705,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-7",
+  "publication": "diehard-gamefan",
+  "sequence": 5,
+  "number": "7",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 208.9,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c2e76a1d-6d1a-492b-b41a-f416db4fac10",
+   "external_id": "c2e76a1d-6d1a-492b-b41a-f416db4fac10",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard GameFan, Volume 1, Issue 7 (June 1993).pdf",
+   "bytes": 123051595,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-8",
+  "publication": "diehard-gamefan",
+  "sequence": 6,
+  "number": "8",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 206.8,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0f69ac86-91a1-43d5-83c5-08b010a37dbd",
+   "external_id": "0f69ac86-91a1-43d5-83c5-08b010a37dbd",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard GameFan, Volume 1, Issue 8 (July 1993).pdf",
+   "bytes": 125655087,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-10",
+  "publication": "diehard-gamefan",
+  "sequence": 7,
+  "number": "10",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 176,
+  "dimensions": {
+   "width_mm": 210.6,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8486096c-1ab7-45f2-b55a-6e2d815dfd3b",
+   "external_id": "8486096c-1ab7-45f2-b55a-6e2d815dfd3b",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard GameFan, Volume 1, Issue 10 (September 1993).pdf",
+   "bytes": 209546262,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-11",
+  "publication": "diehard-gamefan",
+  "sequence": 8,
+  "number": "11",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 210.6,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b68df714-2705-43c5-b5cf-542d9d7791f7",
+   "external_id": "b68df714-2705-43c5-b5cf-542d9d7791f7",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard GameFan, Volume 1, Issue 11 (October 1993).pdf",
+   "bytes": 201318505,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-5-2",
+  "publication": "diehard-gamefan",
+  "sequence": 9,
+  "number": "5",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 154,
+  "dimensions": {
+   "width_mm": 210.6,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d414d5d-d5f9-4423-b18e-276758aacbdd",
+   "external_id": "8d414d5d-d5f9-4423-b18e-276758aacbdd",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard GameFan, Volume 2, Issue 5 (April 1994).pdf",
+   "bytes": 177157579,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-9",
+  "publication": "diehard-gamefan",
+  "sequence": 10,
+  "number": "9",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 168,
+  "dimensions": {
+   "width_mm": 208.7,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5214509d-2314-47d1-84eb-eebf14644831",
+   "external_id": "5214509d-2314-47d1-84eb-eebf14644831",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/Diehard GameFan, Volume 2, Issue 9 (August 1994).pdf",
+   "bytes": 195482900,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-4",
+  "publication": "diehard-gamefan",
+  "sequence": 11,
+  "number": "4",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 207.8,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8591dc46-5c85-43e9-bc02-2b7c7a8f2f9e",
+   "external_id": "8591dc46-5c85-43e9-bc02-2b7c7a8f2f9e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 4, Issue 4 (April 1996).pdf",
+   "bytes": 165026036,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "volume": 4,
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-8-2",
+  "publication": "diehard-gamefan",
+  "sequence": 12,
+  "number": "8",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 209.1,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/693b76e3-85fb-4394-8f07-b0839e17af80",
+   "external_id": "693b76e3-85fb-4394-8f07-b0839e17af80",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 4, Issue 8 (August 1996).pdf",
+   "bytes": 146352368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-9-2",
+  "publication": "diehard-gamefan",
+  "sequence": 13,
+  "number": "9",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b5082b24-80a8-430f-9ef2-b118926e53e7",
+   "external_id": "b5082b24-80a8-430f-9ef2-b118926e53e7",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 4, Issue 9 (September 1996).pdf",
+   "bytes": 157405763,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-9-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-1-2",
+  "publication": "diehard-gamefan",
+  "sequence": 14,
+  "number": "1",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 146,
+  "dimensions": {
+   "width_mm": 207.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2f201eaf-e534-4b6a-8fc3-03311f118c5a",
+   "external_id": "2f201eaf-e534-4b6a-8fc3-03311f118c5a",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 5, Issue 1 (January 1997).pdf",
+   "bytes": 189827062,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-3-2",
+  "publication": "diehard-gamefan",
+  "sequence": 15,
+  "number": "3",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 208.5,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2727bf98-1819-4488-8840-bde6c826b0bf",
+   "external_id": "2727bf98-1819-4488-8840-bde6c826b0bf",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 5, Issue 3 (March 1997).pdf",
+   "bytes": 123162406,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-7-2",
+  "publication": "diehard-gamefan",
+  "sequence": 16,
+  "number": "7",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 208.9,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fde740ee-e446-42e4-9a1f-5b51d7781ef9",
+   "external_id": "fde740ee-e446-42e4-9a1f-5b51d7781ef9",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 5, Issue 7 (July 1997).pdf",
+   "bytes": 151033698,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-2-2",
+  "publication": "diehard-gamefan",
+  "sequence": 17,
+  "number": "2",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 204.3,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9464c04c-5a03-43a6-b80d-54272863cdb4",
+   "external_id": "9464c04c-5a03-43a6-b80d-54272863cdb4",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 6, Issue 2 (February 1998).pdf",
+   "bytes": 128114480,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-8-3",
+  "publication": "diehard-gamefan",
+  "sequence": 18,
+  "number": "8",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/74874fac-6fa1-452d-9e0d-735d3e8d052b",
+   "external_id": "74874fac-6fa1-452d-9e0d-735d3e8d052b",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 6, Issue 8 (August 1998).pdf",
+   "bytes": 159595753,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-8-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-4-2",
+  "publication": "diehard-gamefan",
+  "sequence": 19,
+  "number": "4",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 204.4,
+   "height_mm": 275.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df8f2c8c-5c58-4a6e-ac29-cfd5424ab253",
+   "external_id": "df8f2c8c-5c58-4a6e-ac29-cfd5424ab253",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 7, Issue 4 (April 1999).pdf",
+   "bytes": 172641289,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-5-3",
+  "publication": "diehard-gamefan",
+  "sequence": 20,
+  "number": "5",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1c5767ef-d015-4359-ae1e-19c1b9c703b6",
+   "external_id": "1c5767ef-d015-4359-ae1e-19c1b9c703b6",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 7, Issue 5 (May 1999).pdf",
+   "bytes": 136255413,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-5-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "diehard-gamefan-12",
+  "publication": "diehard-gamefan",
+  "sequence": 21,
+  "number": "12",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/46156bbd-8354-47d0-96b3-386386c7f216",
+   "external_id": "46156bbd-8354-47d0-96b3-386386c7f216",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/diehard-gamefan/pdf/GameFan, Volume 8, Issue 12 (December 2000).pdf",
+   "bytes": 218216876,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/diehard-gamefan-12.jpg",
+   "pages_rendered": false
+  }
+ }
+]

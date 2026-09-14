@@ -1,1 +1,2242 @@
-[]
+[
+ {
+  "id": "playstation-the-official-magazine-1",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Holiday 2007",
+   "start": "2007-12",
+   "precision": "season"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 405.1,
+   "height_mm": 266.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0b1b8769-83b9-4ccb-a52e-4008a1278308",
+   "external_id": "0b1b8769-83b9-4ccb-a52e-4008a1278308",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 1 (Holiday 2007).pdf",
+   "bytes": 108699614,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-2",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "January 2008",
+   "start": "2008-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a279958-4e3f-4d90-ae35-6d021190470d",
+   "external_id": "5a279958-4e3f-4d90-ae35-6d021190470d",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 2 (January 2008).pdf",
+   "bytes": 127596250,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-3",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "February 2008",
+   "start": "2008-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8ae40c65-3a26-4bde-a838-5e9ba91a7429",
+   "external_id": "8ae40c65-3a26-4bde-a838-5e9ba91a7429",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 3 (February 2008).pdf",
+   "bytes": 122153754,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-4",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "March 2008",
+   "start": "2008-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/70275ee5-16e8-4fbf-a911-25f16fa49b4f",
+   "external_id": "70275ee5-16e8-4fbf-a911-25f16fa49b4f",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 4 (March 2008).pdf",
+   "bytes": 139712377,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-5",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "April 2008",
+   "start": "2008-04",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/31afa1b9-8e4e-4df6-8c48-7671a52ae7e9",
+   "external_id": "31afa1b9-8e4e-4df6-8c48-7671a52ae7e9",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 5 (April 2008).pdf",
+   "bytes": 50975600,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-6",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "May 2008",
+   "start": "2008-05",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/08adc8db-9e4d-4afc-bab2-ead30bbe59a7",
+   "external_id": "08adc8db-9e4d-4afc-bab2-ead30bbe59a7",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 6 (May 2008).pdf",
+   "bytes": 113005693,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-7",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "June 2008",
+   "start": "2008-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e9a426dd-0de5-45a7-a1b0-2abacec169b8",
+   "external_id": "e9a426dd-0de5-45a7-a1b0-2abacec169b8",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 7 (June 2008).pdf",
+   "bytes": 129470618,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-8",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "July 2008",
+   "start": "2008-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f14c217d-15ab-4025-a204-ddff7ca13e92",
+   "external_id": "f14c217d-15ab-4025-a204-ddff7ca13e92",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 8 (July 2008).pdf",
+   "bytes": 101976653,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-9",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "August 2008",
+   "start": "2008-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 146.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c13e654f-955d-4d18-b62e-835ee684b5d7",
+   "external_id": "c13e654f-955d-4d18-b62e-835ee684b5d7",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 9 (August 2008).pdf",
+   "bytes": 126827296,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-10",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "September 2008",
+   "start": "2008-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 147.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e28df7b5-a779-4477-bd28-0e6823357c71",
+   "external_id": "e28df7b5-a779-4477-bd28-0e6823357c71",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 10 (September 2008).pdf",
+   "bytes": 134668850,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-11",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "October 2008",
+   "start": "2008-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec74ff1b-1201-40c4-8493-6549b7a6b712",
+   "external_id": "ec74ff1b-1201-40c4-8493-6549b7a6b712",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 11 (October 2008).pdf",
+   "bytes": 136591879,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-12",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "November 2008",
+   "start": "2008-11",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 146.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90f5bafe-af6b-43c6-9379-d4f93a45d510",
+   "external_id": "90f5bafe-af6b-43c6-9379-d4f93a45d510",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 12 (November 2008).pdf",
+   "bytes": 147628105,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-13",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "December 2008",
+   "start": "2008-12",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/615fe1f0-fa39-4661-8015-b2fb9f604a2b",
+   "external_id": "615fe1f0-fa39-4661-8015-b2fb9f604a2b",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 13 (December 2008).pdf",
+   "bytes": 154665342,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-14",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "Holiday 2008",
+   "start": "2008-12",
+   "precision": "season"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/52852aa9-939d-4e46-b4d9-61e0ac8edc1f",
+   "external_id": "52852aa9-939d-4e46-b4d9-61e0ac8edc1f",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 14 (Holiday 2008).pdf",
+   "bytes": 137049621,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-15",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "January 2009",
+   "start": "2009-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b6e6f376-0235-4c0f-954d-c04b1285b5c6",
+   "external_id": "b6e6f376-0235-4c0f-954d-c04b1285b5c6",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 15 (January 2009).pdf",
+   "bytes": 126246974,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-16",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "February 2009",
+   "start": "2009-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc24f9a5-22f4-44e3-94c2-016ed1e46157",
+   "external_id": "bc24f9a5-22f4-44e3-94c2-016ed1e46157",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 16 (February 2009).pdf",
+   "bytes": 131799766,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-17",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "March 2009",
+   "start": "2009-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5dee62af-8abb-42b2-bb78-76627771bb57",
+   "external_id": "5dee62af-8abb-42b2-bb78-76627771bb57",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 17 (March 2009).pdf",
+   "bytes": 133148605,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-18",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "April 2009",
+   "start": "2009-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f214ffcb-7df5-47c4-8948-70ea018760e8",
+   "external_id": "f214ffcb-7df5-47c4-8948-70ea018760e8",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 18 (April 2009).pdf",
+   "bytes": 140276137,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-19",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "May 2009",
+   "start": "2009-05",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 211.1,
+   "height_mm": 263.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/78a6eb05-1cb6-4a1e-ad77-3f4f6c0b9f22",
+   "external_id": "78a6eb05-1cb6-4a1e-ad77-3f4f6c0b9f22",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 19 (May 2009).pdf",
+   "bytes": 82298139,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-20",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 20,
+  "number": "20",
+  "date": {
+   "display": "June 2009",
+   "start": "2009-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 150.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/453e5ba7-7a22-44f5-80e6-b8f7a6f93ab9",
+   "external_id": "453e5ba7-7a22-44f5-80e6-b8f7a6f93ab9",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 20 (June 2009).pdf",
+   "bytes": 143725328,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-21",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 21,
+  "number": "21",
+  "date": {
+   "display": "July 2009",
+   "start": "2009-07",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 146.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/385f5f81-737e-4d3d-8a9d-8cea0b73eac7",
+   "external_id": "385f5f81-737e-4d3d-8a9d-8cea0b73eac7",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 21 (July 2009).pdf",
+   "bytes": 143352866,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-22",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 22,
+  "number": "22",
+  "date": {
+   "display": "August 2009",
+   "start": "2009-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 211.3,
+   "height_mm": 263.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c8f6dd8d-ed5a-41e9-8f70-f1ddcbee3102",
+   "external_id": "c8f6dd8d-ed5a-41e9-8f70-f1ddcbee3102",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 22 (August 2009).pdf",
+   "bytes": 77482729,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-23",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 23,
+  "number": "23",
+  "date": {
+   "display": "September 2009",
+   "start": "2009-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9dae2c3a-1271-4b01-ae0c-e03d1f8506a9",
+   "external_id": "9dae2c3a-1271-4b01-ae0c-e03d1f8506a9",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 23 (September 2009).pdf",
+   "bytes": 136551603,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-24",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 24,
+  "number": "24",
+  "date": {
+   "display": "October 2009",
+   "start": "2009-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.6,
+   "height_mm": 263.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d2555e5e-91cb-4c58-8e76-edca22653c69",
+   "external_id": "d2555e5e-91cb-4c58-8e76-edca22653c69",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 24 (October 2009).pdf",
+   "bytes": 83202335,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-25",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 25,
+  "number": "25",
+  "date": {
+   "display": "November 2009",
+   "start": "2009-11",
+   "precision": "month"
+  },
+  "pages": 107,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b044b85b-b4e6-474d-9673-b8ffc46330d2",
+   "external_id": "b044b85b-b4e6-474d-9673-b8ffc46330d2",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 25 (November 2009).pdf",
+   "bytes": 145623160,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-26",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 26,
+  "number": "26",
+  "date": {
+   "display": "December 2009",
+   "start": "2009-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 206.6,
+   "height_mm": 263.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1aabdae-ad17-469b-98a5-55d23d4468a6",
+   "external_id": "b1aabdae-ad17-469b-98a5-55d23d4468a6",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 26 (December 2009).pdf",
+   "bytes": 82108036,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-27",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 27,
+  "number": "27",
+  "date": {
+   "display": "Holiday 2009",
+   "start": "2009-12",
+   "precision": "season"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/70369bb9-38b5-4a9b-bfd7-70f5d634139b",
+   "external_id": "70369bb9-38b5-4a9b-bfd7-70f5d634139b",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 27 (Holiday 2009).pdf",
+   "bytes": 138826783,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-28",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 28,
+  "number": "28",
+  "date": {
+   "display": "January 2010",
+   "start": "2010-01",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 210.6,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3a3286cf-4c55-421c-b4a8-d489438c68b3",
+   "external_id": "3a3286cf-4c55-421c-b4a8-d489438c68b3",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 28 (January 2010).pdf",
+   "bytes": 85388478,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-29",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 29,
+  "number": "29",
+  "date": {
+   "display": "February 2010",
+   "start": "2010-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 211.8,
+   "height_mm": 263.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/36e401cd-4767-465f-8ab8-cf019ba18444",
+   "external_id": "36e401cd-4767-465f-8ab8-cf019ba18444",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 29 (February 2010).pdf",
+   "bytes": 77905153,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-30",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 30,
+  "number": "30",
+  "date": {
+   "display": "March 2010",
+   "start": "2010-03",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 211.6,
+   "height_mm": 263.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/70f9fc41-1ae6-44bf-8f8e-e0cb1cde0e70",
+   "external_id": "70f9fc41-1ae6-44bf-8f8e-e0cb1cde0e70",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 30 (March 2010).pdf",
+   "bytes": 88187531,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-31",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 31,
+  "number": "31",
+  "date": {
+   "display": "April 2010",
+   "start": "2010-04",
+   "precision": "month"
+  },
+  "pages": 206,
+  "dimensions": {
+   "width_mm": 212.0,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93c2db19-836c-4c9b-a66c-8bff2873c9ab",
+   "external_id": "93c2db19-836c-4c9b-a66c-8bff2873c9ab",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 31 (April 2010).pdf",
+   "bytes": 170795789,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-32",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 32,
+  "number": "32",
+  "date": {
+   "display": "May 2010",
+   "start": "2010-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.3,
+   "height_mm": 261.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bd422f6c-60c9-4a40-8c50-d6f7eb3dd774",
+   "external_id": "bd422f6c-60c9-4a40-8c50-d6f7eb3dd774",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 32 (May 2010).pdf",
+   "bytes": 77117741,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-33",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 33,
+  "number": "33",
+  "date": {
+   "display": "June 2010",
+   "start": "2010-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.4,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/828b38ca-8262-4015-8ce6-95df3b914915",
+   "external_id": "828b38ca-8262-4015-8ce6-95df3b914915",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 33 (June 2010).pdf",
+   "bytes": 80460051,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-34",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 34,
+  "number": "34",
+  "date": {
+   "display": "July 2010",
+   "start": "2010-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90381bcc-31a2-4980-9215-7e8b3400bd9a",
+   "external_id": "90381bcc-31a2-4980-9215-7e8b3400bd9a",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 34 (July 2010).pdf",
+   "bytes": 136810170,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-35",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 35,
+  "number": "35",
+  "date": {
+   "display": "August 2010",
+   "start": "2010-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 263.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc448b29-316e-424a-ac36-d6c70a808ea9",
+   "external_id": "cc448b29-316e-424a-ac36-d6c70a808ea9",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 35 (August 2010).pdf",
+   "bytes": 74110915,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-36",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 36,
+  "number": "36",
+  "date": {
+   "display": "September 2010",
+   "start": "2010-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 211.3,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50c69dd8-8da7-46be-ab06-d0f337363aa3",
+   "external_id": "50c69dd8-8da7-46be-ab06-d0f337363aa3",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 36 (September 2010).pdf",
+   "bytes": 72260070,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-37",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 37,
+  "number": "37",
+  "date": {
+   "display": "October 2010",
+   "start": "2010-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 211.2,
+   "height_mm": 263.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e81272c7-b8f4-410c-81aa-90247e00af7f",
+   "external_id": "e81272c7-b8f4-410c-81aa-90247e00af7f",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 37 (October 2010).pdf",
+   "bytes": 75825451,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-38",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 38,
+  "number": "38",
+  "date": {
+   "display": "November 2010",
+   "start": "2010-11",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 210.8,
+   "height_mm": 263.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/74426085-4a4d-49be-8531-0cd1aa85f60f",
+   "external_id": "74426085-4a4d-49be-8531-0cd1aa85f60f",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 38 (November 2010).pdf",
+   "bytes": 77551344,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-39",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 39,
+  "number": "39",
+  "date": {
+   "display": "December 2010",
+   "start": "2010-12",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 144.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93262ea6-4a30-4cf4-b2b6-11990fa760cd",
+   "external_id": "93262ea6-4a30-4cf4-b2b6-11990fa760cd",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 39 (December 2010).pdf",
+   "bytes": 109063384,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-40",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 40,
+  "number": "40",
+  "date": {
+   "display": "Holiday 2010",
+   "start": "2010-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 145.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4758abfa-e44c-4e19-83f8-10351543ecf5",
+   "external_id": "4758abfa-e44c-4e19-83f8-10351543ecf5",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 40 (Holiday 2010).pdf",
+   "bytes": 122323951,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-41",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 41,
+  "number": "41",
+  "date": {
+   "display": "January 2011",
+   "start": "2011-01",
+   "precision": "month"
+  },
+  "pages": 98,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 263.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1cb3ba8d-eae5-4f80-a8ae-4d6534126222",
+   "external_id": "1cb3ba8d-eae5-4f80-a8ae-4d6534126222",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 41 (January 2011).pdf",
+   "bytes": 73179375,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-42",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 42,
+  "number": "42",
+  "date": {
+   "display": "February 2011",
+   "start": "2011-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 211.9,
+   "height_mm": 263.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/67aa5231-20c9-47f7-8b80-ea5725f89b9c",
+   "external_id": "67aa5231-20c9-47f7-8b80-ea5725f89b9c",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 42 (February 2011).pdf",
+   "bytes": 72108661,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-43",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 43,
+  "number": "43",
+  "date": {
+   "display": "March 2011",
+   "start": "2011-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.1,
+   "height_mm": 263.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3d3660e0-9f97-4f63-822f-936370a658a6",
+   "external_id": "3d3660e0-9f97-4f63-822f-936370a658a6",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 43 (March 2011).pdf",
+   "bytes": 72112937,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-44",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 44,
+  "number": "44",
+  "date": {
+   "display": "April 2011",
+   "start": "2011-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0b45392-d885-4a54-90ac-a9293460c4df",
+   "external_id": "a0b45392-d885-4a54-90ac-a9293460c4df",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 44 (April 2011).pdf",
+   "bytes": 73145689,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-45",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 45,
+  "number": "45",
+  "date": {
+   "display": "May 2011",
+   "start": "2011-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 146.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f7e9c6d6-1205-40af-8549-86413b8bff4c",
+   "external_id": "f7e9c6d6-1205-40af-8549-86413b8bff4c",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 45 (May 2011).pdf",
+   "bytes": 117245538,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-46",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 46,
+  "number": "46",
+  "date": {
+   "display": "June 2011",
+   "start": "2011-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dc93e692-0840-453e-bbd1-1685035e7ea0",
+   "external_id": "dc93e692-0840-453e-bbd1-1685035e7ea0",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 46 (June 2011).pdf",
+   "bytes": 68345086,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-47",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 47,
+  "number": "47",
+  "date": {
+   "display": "July 2011",
+   "start": "2011-07",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 262.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aa648117-0022-44c3-968c-d7f1cf0bb6c8",
+   "external_id": "aa648117-0022-44c3-968c-d7f1cf0bb6c8",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 47 (July 2011).pdf",
+   "bytes": 76262156,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-47.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-48",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 48,
+  "number": "48",
+  "date": {
+   "display": "August 2011",
+   "start": "2011-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 263.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6a26207-aca1-4524-8c46-c1d6465b9ec9",
+   "external_id": "e6a26207-aca1-4524-8c46-c1d6465b9ec9",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 48 (August 2011).pdf",
+   "bytes": 71725495,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-49",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 49,
+  "number": "49",
+  "date": {
+   "display": "September 2011",
+   "start": "2011-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 146.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ad089991-f6d2-498f-84ca-60ae014f9a43",
+   "external_id": "ad089991-f6d2-498f-84ca-60ae014f9a43",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 49 (September 2011).pdf",
+   "bytes": 118772809,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-50",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 50,
+  "number": "50",
+  "date": {
+   "display": "October 2011",
+   "start": "2011-10",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 168.8,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3d3dc26f-a78c-4c82-8ed9-d7a196476f63",
+   "external_id": "3d3dc26f-a78c-4c82-8ed9-d7a196476f63",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 50 (October 2011).pdf",
+   "bytes": 133349518,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-51",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 51,
+  "number": "51",
+  "date": {
+   "display": "November 2011",
+   "start": "2011-11",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 147.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25c36c1f-ad0e-44c2-af3b-02cfd42cde46",
+   "external_id": "25c36c1f-ad0e-44c2-af3b-02cfd42cde46",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 51 (November 2011).pdf",
+   "bytes": 100373153,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-52",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 52,
+  "number": "52",
+  "date": {
+   "display": "December 2011",
+   "start": "2011-12",
+   "precision": "month"
+  },
+  "pages": 103,
+  "dimensions": {
+   "width_mm": 132.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6ff06d8-92fa-4f2e-94cc-c51a19393608",
+   "external_id": "e6ff06d8-92fa-4f2e-94cc-c51a19393608",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 52 (December 2011).pdf",
+   "bytes": 95348127,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-53",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 53,
+  "number": "53",
+  "date": {
+   "display": "Holiday 2011",
+   "start": "2011-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dbf02c41-26b5-4f79-b9bb-4f6746904b69",
+   "external_id": "dbf02c41-26b5-4f79-b9bb-4f6746904b69",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 53 (Holiday 2011).pdf",
+   "bytes": 69918990,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-54",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 54,
+  "number": "54",
+  "date": {
+   "display": "January 2012",
+   "start": "2012-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.6,
+   "height_mm": 263.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/55721a3c-0041-4d84-b7d3-2f1b0261e745",
+   "external_id": "55721a3c-0041-4d84-b7d3-2f1b0261e745",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 54 (January 2012).pdf",
+   "bytes": 64340154,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-55",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 55,
+  "number": "55",
+  "date": {
+   "display": "February 2012",
+   "start": "2012-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.9,
+   "height_mm": 263.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe385e2b-4abe-4395-a449-135a2392035a",
+   "external_id": "fe385e2b-4abe-4395-a449-135a2392035a",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 55 (February 2012).pdf",
+   "bytes": 68323284,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-56",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 56,
+  "number": "56",
+  "date": {
+   "display": "March 2012",
+   "start": "2012-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.6,
+   "height_mm": 264.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b28125b3-63c2-436c-85e8-e0ac146218d7",
+   "external_id": "b28125b3-63c2-436c-85e8-e0ac146218d7",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 56 (March 2012).pdf",
+   "bytes": 66585193,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-57",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 57,
+  "number": "57",
+  "date": {
+   "display": "April 2012",
+   "start": "2012-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 263.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/21e61882-efd1-4fdf-bf8d-15fe6a3c751d",
+   "external_id": "21e61882-efd1-4fdf-bf8d-15fe6a3c751d",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 57 (April 2012).pdf",
+   "bytes": 73332298,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-57.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-58",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 58,
+  "number": "58",
+  "date": {
+   "display": "May 2012",
+   "start": "2012-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 147.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/deceabad-3368-47b9-b4a7-64e5dd465b11",
+   "external_id": "deceabad-3368-47b9-b4a7-64e5dd465b11",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 58 (May 2012).pdf",
+   "bytes": 93117810,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-58.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-59",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 59,
+  "number": "59",
+  "date": {
+   "display": "June 2012",
+   "start": "2012-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 148.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c6c6740-7e9b-4f13-a45f-e3de76ff2d4f",
+   "external_id": "6c6c6740-7e9b-4f13-a45f-e3de76ff2d4f",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 59 (June 2012).pdf",
+   "bytes": 95936951,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-59.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-60",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 60,
+  "number": "60",
+  "date": {
+   "display": "July 2012",
+   "start": "2012-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 147.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/85e88ce4-1450-4891-8a39-f44014f393e6",
+   "external_id": "85e88ce4-1450-4891-8a39-f44014f393e6",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 60 (July 2012).pdf",
+   "bytes": 95871901,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-60.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-62",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 61,
+  "number": "62",
+  "date": {
+   "display": "September 2012",
+   "start": "2012-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 147.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29fadd9a-4313-443a-8298-3618e9578f10",
+   "external_id": "29fadd9a-4313-443a-8298-3618e9578f10",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 62 (September 2012).pdf",
+   "bytes": 95627489,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-62.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-63",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 62,
+  "number": "63",
+  "date": {
+   "display": "October 2012",
+   "start": "2012-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 146.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/630ebd56-f511-40e2-a379-abeb7e68e529",
+   "external_id": "630ebd56-f511-40e2-a379-abeb7e68e529",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 63 (October 2012).pdf",
+   "bytes": 97126370,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-63.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-64",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 63,
+  "number": "64",
+  "date": {
+   "display": "November 2012",
+   "start": "2012-11",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 144.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/232aed99-4e4d-4fc0-ab6d-dbc9a9dea6b2",
+   "external_id": "232aed99-4e4d-4fc0-ab6d-dbc9a9dea6b2",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 64 (November 2012).pdf",
+   "bytes": 99508464,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "playstation-the-official-magazine-65",
+  "publication": "playstation-the-official-magazine",
+  "sequence": 64,
+  "number": "65",
+  "date": {
+   "display": "December 2012",
+   "start": "2012-12",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 149.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab621340-e5c1-461e-8d15-cb1a01847f8a",
+   "external_id": "ab621340-e5c1-461e-8d15-cb1a01847f8a",
+   "retrieved_at": "2026-09-14T09:35:58+00:00"
+  },
+  "files": {
+   "pdf": "library/playstation-the-official-magazine/pdf/PlayStation- The Official Magazine, Issue 65 (December 2012).pdf",
+   "bytes": 98043718,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:58+00:00",
+  "assets": {
+   "cover": "site/public/covers/playstation-the-official-magazine-65.jpg",
+   "pages_rendered": false
+  }
+ }
+]

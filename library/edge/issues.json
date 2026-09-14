@@ -1,1 +1,3572 @@
-[]
+[
+ {
+  "id": "edge-1",
+  "publication": "edge",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/918cd75c-c7c0-4ff1-a9eb-e5ba4ba494ba",
+   "external_id": "918cd75c-c7c0-4ff1-a9eb-e5ba4ba494ba",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 1 (October 1993).pdf",
+   "bytes": 135711891,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-2",
+  "publication": "edge",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/43442730-a940-4233-8561-bb67e4e79011",
+   "external_id": "43442730-a940-4233-8561-bb67e4e79011",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 2 (November 1993).pdf",
+   "bytes": 124165117,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-3",
+  "publication": "edge",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "December 1993",
+   "start": "1993-12",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/215820b4-a1a8-4893-8fd4-e99d30c9abbb",
+   "external_id": "215820b4-a1a8-4893-8fd4-e99d30c9abbb",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 3 (December 1993).pdf",
+   "bytes": 135407909,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-4",
+  "publication": "edge",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/73c2f5ed-f6f8-43b6-9a86-e9700ae696a7",
+   "external_id": "73c2f5ed-f6f8-43b6-9a86-e9700ae696a7",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 4 (January 1994).pdf",
+   "bytes": 113686876,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-5",
+  "publication": "edge",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 181.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/159b1815-907d-4d57-8838-0bfa75b60e31",
+   "external_id": "159b1815-907d-4d57-8838-0bfa75b60e31",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 5 (February 1994).pdf",
+   "bytes": 117928101,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-6",
+  "publication": "edge",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c33a4bb2-227c-4872-88a9-3f4de1ed57ba",
+   "external_id": "c33a4bb2-227c-4872-88a9-3f4de1ed57ba",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 6 (March 1994).pdf",
+   "bytes": 114098669,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-7",
+  "publication": "edge",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.8,
+   "height_mm": 279.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/84372024-dd0f-4fed-8b38-b026ea7a83a4",
+   "external_id": "84372024-dd0f-4fed-8b38-b026ea7a83a4",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 7 (April 1994).pdf",
+   "bytes": 123939116,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-8",
+  "publication": "edge",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 162.6,
+   "height_mm": 222.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c4c9b04f-ee4c-4d6c-881b-644bc86efe1f",
+   "external_id": "c4c9b04f-ee4c-4d6c-881b-644bc86efe1f",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 8 (May 1994).pdf",
+   "bytes": 140220864,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-9",
+  "publication": "edge",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.8,
+   "height_mm": 280.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90adfe5a-3bf6-4f5d-b61b-ff57d5e709f5",
+   "external_id": "90adfe5a-3bf6-4f5d-b61b-ff57d5e709f5",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 9 (June 1994).pdf",
+   "bytes": 109507513,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-10",
+  "publication": "edge",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.1,
+   "height_mm": 279.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1c71319-2a91-452b-97df-60b8d32485b4",
+   "external_id": "f1c71319-2a91-452b-97df-60b8d32485b4",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 10 (July 1994).pdf",
+   "bytes": 108386811,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-11",
+  "publication": "edge",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 182.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dc3f7659-e238-411c-af3f-3bf8e15dcbe1",
+   "external_id": "dc3f7659-e238-411c-af3f-3bf8e15dcbe1",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 11 (August 1994).pdf",
+   "bytes": 82677187,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-12",
+  "publication": "edge",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d75e6a6f-8208-4a34-af71-a43fb7fe8cb0",
+   "external_id": "d75e6a6f-8208-4a34-af71-a43fb7fe8cb0",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 12 (September 1994).pdf",
+   "bytes": 118209941,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-13",
+  "publication": "edge",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 280.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b64aeed7-c0e2-4509-b49c-5701ce076341",
+   "external_id": "b64aeed7-c0e2-4509-b49c-5701ce076341",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 13 (October 1994).pdf",
+   "bytes": 115753993,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-14",
+  "publication": "edge",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 279.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1979e1b4-a1fc-42ef-ad2b-b0e9d1e73ba5",
+   "external_id": "1979e1b4-a1fc-42ef-ad2b-b0e9d1e73ba5",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 14 (November 1994).pdf",
+   "bytes": 122674996,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-15",
+  "publication": "edge",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 204.5,
+   "height_mm": 280.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e4cafa6b-82f2-4be7-bb40-cff8cc23fc95",
+   "external_id": "e4cafa6b-82f2-4be7-bb40-cff8cc23fc95",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 15 (December 1994).pdf",
+   "bytes": 127343234,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-16",
+  "publication": "edge",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 208.8,
+   "height_mm": 279.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e42be3bd-2ffc-47d1-a934-18a3801a7a3b",
+   "external_id": "e42be3bd-2ffc-47d1-a934-18a3801a7a3b",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 16 (January 1995).pdf",
+   "bytes": 136785811,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-17",
+  "publication": "edge",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 82,
+  "dimensions": {
+   "width_mm": 140.1,
+   "height_mm": 185.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/de4abc6a-4ee9-4f8a-943b-34aaf2d4ad18",
+   "external_id": "de4abc6a-4ee9-4f8a-943b-34aaf2d4ad18",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 17 (February 1995).pdf",
+   "bytes": 67164311,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-18",
+  "publication": "edge",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 77,
+  "dimensions": {
+   "width_mm": 136.9,
+   "height_mm": 185.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c7d2346-7271-4ec4-9d31-11dae552ca56",
+   "external_id": "9c7d2346-7271-4ec4-9d31-11dae552ca56",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 18 (March 1995).pdf",
+   "bytes": 103324606,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-19",
+  "publication": "edge",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 278.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2277efb2-2d1c-4f82-b12b-d301498800de",
+   "external_id": "2277efb2-2d1c-4f82-b12b-d301498800de",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 19 (April 1995).pdf",
+   "bytes": 120716734,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-20",
+  "publication": "edge",
+  "sequence": 20,
+  "number": "20",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 79,
+  "dimensions": {
+   "width_mm": 136.7,
+   "height_mm": 183.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4cfa07f4-1497-4ffe-acb2-b9a82d75a0ca",
+   "external_id": "4cfa07f4-1497-4ffe-acb2-b9a82d75a0ca",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 20 (May 1995).pdf",
+   "bytes": 95089979,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-21",
+  "publication": "edge",
+  "sequence": 21,
+  "number": "21",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 107,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 184.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/da341b1e-bb68-4115-9400-b55383ca347f",
+   "external_id": "da341b1e-bb68-4115-9400-b55383ca347f",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 21 (June 1995).pdf",
+   "bytes": 90416962,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-22",
+  "publication": "edge",
+  "sequence": 22,
+  "number": "22",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 67,
+  "dimensions": {
+   "width_mm": 137.8,
+   "height_mm": 184.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5d32a3f6-750d-456a-9c07-d691acd477f4",
+   "external_id": "5d32a3f6-750d-456a-9c07-d691acd477f4",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 22 (July 1995).pdf",
+   "bytes": 78086231,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-23",
+  "publication": "edge",
+  "sequence": 23,
+  "number": "23",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 69,
+  "dimensions": {
+   "width_mm": 137.8,
+   "height_mm": 184.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/649d2282-4779-424c-8d4c-e32be4fe2929",
+   "external_id": "649d2282-4779-424c-8d4c-e32be4fe2929",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 23 (August 1995).pdf",
+   "bytes": 80922468,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-199508-special-edition-1996-essential-hardware-guide",
+  "publication": "edge",
+  "sequence": 24,
+  "number": "special",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 210.4,
+   "height_mm": 278.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1e85b3bf-7f8d-46d2-92d0-60da4ab9f3a4",
+   "external_id": "1e85b3bf-7f8d-46d2-92d0-60da4ab9f3a4",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge Special Edition, 1996 Essential Hardware Guide (August 1995).pdf",
+   "bytes": 151423876,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-199508-special-edition-1996-essential-hardware-guide.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-24",
+  "publication": "edge",
+  "sequence": 25,
+  "number": "24",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 71,
+  "dimensions": {
+   "width_mm": 138.5,
+   "height_mm": 186.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7ad1f1d4-06e7-454b-9f5a-bb45aacb6831",
+   "external_id": "7ad1f1d4-06e7-454b-9f5a-bb45aacb6831",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 24 (September 1995).pdf",
+   "bytes": 98595130,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-25",
+  "publication": "edge",
+  "sequence": 26,
+  "number": "25",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 63,
+  "dimensions": {
+   "width_mm": 138.5,
+   "height_mm": 186.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25665059-de31-4f88-9815-98ecd84e1168",
+   "external_id": "25665059-de31-4f88-9815-98ecd84e1168",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 25 (October 1995).pdf",
+   "bytes": 81411570,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-26",
+  "publication": "edge",
+  "sequence": 27,
+  "number": "26",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 69,
+  "dimensions": {
+   "width_mm": 138.5,
+   "height_mm": 186.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2eb36ce9-5d3b-407a-9c0c-659a630046c3",
+   "external_id": "2eb36ce9-5d3b-407a-9c0c-659a630046c3",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 26 (November 1995).pdf",
+   "bytes": 88592509,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-27",
+  "publication": "edge",
+  "sequence": 28,
+  "number": "27",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 101,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5c54b294-4a4a-421f-b69b-5166d5e471d4",
+   "external_id": "5c54b294-4a4a-421f-b69b-5166d5e471d4",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 27 (December 1995).pdf",
+   "bytes": 120854289,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-28",
+  "publication": "edge",
+  "sequence": 29,
+  "number": "28",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 81,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 185.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/789ecd7f-045b-4b2c-8284-d324ee995b12",
+   "external_id": "789ecd7f-045b-4b2c-8284-d324ee995b12",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 28 (January 1996).pdf",
+   "bytes": 103104951,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-29",
+  "publication": "edge",
+  "sequence": 30,
+  "number": "29",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9a23b704-718d-49a7-9721-a1bd658ec9ab",
+   "external_id": "9a23b704-718d-49a7-9721-a1bd658ec9ab",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 29 (February 1996).pdf",
+   "bytes": 114092078,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-30",
+  "publication": "edge",
+  "sequence": 31,
+  "number": "30",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 74,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 185.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ae5419b9-1aed-4704-83fb-b58fd8359cfb",
+   "external_id": "ae5419b9-1aed-4704-83fb-b58fd8359cfb",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 30 (March 1996).pdf",
+   "bytes": 102592267,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-31",
+  "publication": "edge",
+  "sequence": 32,
+  "number": "31",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 79,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/33ad2b50-edcb-4da7-ac11-043741e63323",
+   "external_id": "33ad2b50-edcb-4da7-ac11-043741e63323",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 31 (April 1996).pdf",
+   "bytes": 107864669,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-32",
+  "publication": "edge",
+  "sequence": 33,
+  "number": "32",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 73,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/332c07a0-7854-45cc-9f60-d0bc858ee4cd",
+   "external_id": "332c07a0-7854-45cc-9f60-d0bc858ee4cd",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 32 (May 1996).pdf",
+   "bytes": 101786503,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-33",
+  "publication": "edge",
+  "sequence": 34,
+  "number": "33",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 82,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0ff616fd-a567-45db-b65f-d75bb5381a20",
+   "external_id": "0ff616fd-a567-45db-b65f-d75bb5381a20",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 33 (June 1996).pdf",
+   "bytes": 110215829,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-34",
+  "publication": "edge",
+  "sequence": 35,
+  "number": "34",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 141,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 182.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6efb2a58-1893-48d3-abb3-9f4f6517520c",
+   "external_id": "6efb2a58-1893-48d3-abb3-9f4f6517520c",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 34 (July 1996).pdf",
+   "bytes": 130127387,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-35",
+  "publication": "edge",
+  "sequence": 36,
+  "number": "35",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 107.4,
+   "height_mm": 143.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c981e86-d8a4-4a4d-8900-90c033480093",
+   "external_id": "4c981e86-d8a4-4a4d-8900-90c033480093",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 35 (August 1996).pdf",
+   "bytes": 96999640,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-36",
+  "publication": "edge",
+  "sequence": 37,
+  "number": "36",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0f3dd06e-eeb5-4865-8b39-c9f2b2fa3de9",
+   "external_id": "0f3dd06e-eeb5-4865-8b39-c9f2b2fa3de9",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 36 (September 1996).pdf",
+   "bytes": 103243824,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-37",
+  "publication": "edge",
+  "sequence": 38,
+  "number": "37",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/96eb8faa-0693-4ef1-8dc0-3fb600a9d2ac",
+   "external_id": "96eb8faa-0693-4ef1-8dc0-3fb600a9d2ac",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 37 (October 1996).pdf",
+   "bytes": 121782525,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-38",
+  "publication": "edge",
+  "sequence": 39,
+  "number": "38",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 73,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9713350b-c40d-4c2a-baf7-f405f59552e6",
+   "external_id": "9713350b-c40d-4c2a-baf7-f405f59552e6",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 38 (November 1996).pdf",
+   "bytes": 101506536,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-39",
+  "publication": "edge",
+  "sequence": 40,
+  "number": "39",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 71,
+  "dimensions": {
+   "width_mm": 136.1,
+   "height_mm": 186.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0d7af7b4-c8c8-492d-8aa6-0a7982f28089",
+   "external_id": "0d7af7b4-c8c8-492d-8aa6-0a7982f28089",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 39 (December 1996).pdf",
+   "bytes": 96337850,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-40",
+  "publication": "edge",
+  "sequence": 41,
+  "number": "40",
+  "date": {
+   "display": "Christmas 1996",
+   "start": "1996-12",
+   "precision": "season"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 279.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac12dd10-d2a5-4917-8558-7f6842ebd44c",
+   "external_id": "ac12dd10-d2a5-4917-8558-7f6842ebd44c",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 40 (Christmas 1996).pdf",
+   "bytes": 199760574,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-41",
+  "publication": "edge",
+  "sequence": 42,
+  "number": "41",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 94,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec00d3cb-7ce7-4905-b5e8-36c4e2d47e2d",
+   "external_id": "ec00d3cb-7ce7-4905-b5e8-36c4e2d47e2d",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 41 (January 1997).pdf",
+   "bytes": 132808782,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-42",
+  "publication": "edge",
+  "sequence": 43,
+  "number": "42",
+  "date": {
+   "display": "February 1997",
+   "start": "1997-02",
+   "precision": "month"
+  },
+  "pages": 91,
+  "dimensions": {
+   "width_mm": 139.2,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/99fd0fe6-6d60-4604-bc18-e75f9aca2559",
+   "external_id": "99fd0fe6-6d60-4604-bc18-e75f9aca2559",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 42 (February 1997).pdf",
+   "bytes": 130886233,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-43",
+  "publication": "edge",
+  "sequence": 44,
+  "number": "43",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 139.2,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5117c040-3f1a-49b4-94cb-de790063d6bf",
+   "external_id": "5117c040-3f1a-49b4-94cb-de790063d6bf",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 43 (March 1997).pdf",
+   "bytes": 129999893,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-44",
+  "publication": "edge",
+  "sequence": 45,
+  "number": "44",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 139.2,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/452d3b5d-b356-4b12-b218-a31cda9f972c",
+   "external_id": "452d3b5d-b356-4b12-b218-a31cda9f972c",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 44 (April 1997).pdf",
+   "bytes": 130268653,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-45",
+  "publication": "edge",
+  "sequence": 46,
+  "number": "45",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 139.2,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a3ba8981-6d53-467b-a44d-c07d5ae9d7d0",
+   "external_id": "a3ba8981-6d53-467b-a44d-c07d5ae9d7d0",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 45 (May 1997).pdf",
+   "bytes": 128366925,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-46",
+  "publication": "edge",
+  "sequence": 47,
+  "number": "46",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 95,
+  "dimensions": {
+   "width_mm": 139.2,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/80569db4-a2b4-4ad5-9169-f628a07869ed",
+   "external_id": "80569db4-a2b4-4ad5-9169-f628a07869ed",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 46 (June 1997).pdf",
+   "bytes": 130167286,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-47",
+  "publication": "edge",
+  "sequence": 48,
+  "number": "47",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/68ccaf78-9aa0-4902-b725-753d7814ae29",
+   "external_id": "68ccaf78-9aa0-4902-b725-753d7814ae29",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 47 (July 1997).pdf",
+   "bytes": 149300852,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-47.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-48",
+  "publication": "edge",
+  "sequence": 49,
+  "number": "48",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b737b97c-0150-494a-9584-c4f3df1fe6af",
+   "external_id": "b737b97c-0150-494a-9584-c4f3df1fe6af",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 48 (August 1997).pdf",
+   "bytes": 125811538,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-49",
+  "publication": "edge",
+  "sequence": 50,
+  "number": "49",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 93,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9b58ba1e-1537-4cd0-8737-57eea81639b9",
+   "external_id": "9b58ba1e-1537-4cd0-8737-57eea81639b9",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 49 (September 1997).pdf",
+   "bytes": 127613918,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-50",
+  "publication": "edge",
+  "sequence": 51,
+  "number": "50",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 142,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 182.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e5832b21-b751-49d6-b7c7-aba2212ed26e",
+   "external_id": "e5832b21-b751-49d6-b7c7-aba2212ed26e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 50 (October 1997).pdf",
+   "bytes": 180330343,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-51",
+  "publication": "edge",
+  "sequence": 52,
+  "number": "51",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 93,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1cbb679-dad3-41dc-94a0-9f051e076653",
+   "external_id": "f1cbb679-dad3-41dc-94a0-9f051e076653",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 51 (November 1997).pdf",
+   "bytes": 125096704,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-52",
+  "publication": "edge",
+  "sequence": 53,
+  "number": "52",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 87,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d4ccc58-c5ff-43fd-9f60-2038fcc157ba",
+   "external_id": "8d4ccc58-c5ff-43fd-9f60-2038fcc157ba",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 52 (December 1997).pdf",
+   "bytes": 111901723,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-53",
+  "publication": "edge",
+  "sequence": 54,
+  "number": "53",
+  "date": {
+   "display": "Christmas 1997",
+   "start": "1997-12",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9286e02-4c1e-438e-a391-4c64e03eae33",
+   "external_id": "a9286e02-4c1e-438e-a391-4c64e03eae33",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 53 (Christmas 1997).pdf",
+   "bytes": 146967387,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-54",
+  "publication": "edge",
+  "sequence": 55,
+  "number": "54",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df8536c8-1b6f-4149-8dd5-5ddad1a92393",
+   "external_id": "df8536c8-1b6f-4149-8dd5-5ddad1a92393",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 54 (January 1998).pdf",
+   "bytes": 145632405,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-55",
+  "publication": "edge",
+  "sequence": 56,
+  "number": "55",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 95,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38005396-c60c-4fee-bc5a-b19accca7c23",
+   "external_id": "38005396-c60c-4fee-bc5a-b19accca7c23",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 55 (February 1998).pdf",
+   "bytes": 138390356,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-56",
+  "publication": "edge",
+  "sequence": 57,
+  "number": "56",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 109,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1227b2af-5a33-493e-814b-298735269b4a",
+   "external_id": "1227b2af-5a33-493e-814b-298735269b4a",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 56 (March 1998).pdf",
+   "bytes": 153125689,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-57",
+  "publication": "edge",
+  "sequence": 58,
+  "number": "57",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 101,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b09c68ae-e3e4-46a2-93eb-880c37b25237",
+   "external_id": "b09c68ae-e3e4-46a2-93eb-880c37b25237",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 57 (April 1998).pdf",
+   "bytes": 135973091,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-57.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-58",
+  "publication": "edge",
+  "sequence": 59,
+  "number": "58",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4041b5f2-c490-49f5-893f-bf6ef292a379",
+   "external_id": "4041b5f2-c490-49f5-893f-bf6ef292a379",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 58 (May 1998).pdf",
+   "bytes": 139283407,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-58.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-59",
+  "publication": "edge",
+  "sequence": 60,
+  "number": "59",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac75e06e-09c8-4216-8031-ce3c69044d84",
+   "external_id": "ac75e06e-09c8-4216-8031-ce3c69044d84",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 59 (June 1998).pdf",
+   "bytes": 142672311,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-59.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-60",
+  "publication": "edge",
+  "sequence": 61,
+  "number": "60",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 99,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c8db30f8-629a-4cd7-af85-e2ed55b57c61",
+   "external_id": "c8db30f8-629a-4cd7-af85-e2ed55b57c61",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 60 (July 1998).pdf",
+   "bytes": 147178855,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-60.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-61",
+  "publication": "edge",
+  "sequence": 62,
+  "number": "61",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 97,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f7d64b11-fb3a-4792-a6f2-f13a117ee143",
+   "external_id": "f7d64b11-fb3a-4792-a6f2-f13a117ee143",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 61 (August 1998).pdf",
+   "bytes": 135027037,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-61.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-62",
+  "publication": "edge",
+  "sequence": 63,
+  "number": "62",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 98,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b87afbd-f8a8-4b3a-b3fa-9485317ad50a",
+   "external_id": "8b87afbd-f8a8-4b3a-b3fa-9485317ad50a",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 62 (September 1998).pdf",
+   "bytes": 134567256,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-62.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-63",
+  "publication": "edge",
+  "sequence": 64,
+  "number": "63",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 105,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/24d722f1-f873-4c95-9b44-8ad9d67d9927",
+   "external_id": "24d722f1-f873-4c95-9b44-8ad9d67d9927",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 63 (October 1998).pdf",
+   "bytes": 145683674,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-63.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-64",
+  "publication": "edge",
+  "sequence": 65,
+  "number": "64",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 107,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a8f24e8e-ae95-4faa-8da7-39bc6f18d1f6",
+   "external_id": "a8f24e8e-ae95-4faa-8da7-39bc6f18d1f6",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 64 (November 1998).pdf",
+   "bytes": 149315100,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-65",
+  "publication": "edge",
+  "sequence": 66,
+  "number": "65",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 140.0,
+   "height_mm": 186.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/823ff5b6-4700-4df6-bc4c-3def8fa08543",
+   "external_id": "823ff5b6-4700-4df6-bc4c-3def8fa08543",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 65 (December 1998).pdf",
+   "bytes": 141995732,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-65.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-66",
+  "publication": "edge",
+  "sequence": 67,
+  "number": "66",
+  "date": {
+   "display": "Christmas 1998",
+   "start": "1998-12",
+   "precision": "season"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 104.6,
+   "height_mm": 143.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8ef9744a-184b-46e7-a7f4-f0982f0e770e",
+   "external_id": "8ef9744a-184b-46e7-a7f4-f0982f0e770e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 66 (Christmas 1998).pdf",
+   "bytes": 99024419,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-66.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-67",
+  "publication": "edge",
+  "sequence": 68,
+  "number": "67",
+  "date": {
+   "display": "January 1999",
+   "start": "1999-01",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 278.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e1d764cd-cc42-4b08-a000-b3ecbfa0006d",
+   "external_id": "e1d764cd-cc42-4b08-a000-b3ecbfa0006d",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 67 (January 1999).pdf",
+   "bytes": 184930219,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-67.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-68",
+  "publication": "edge",
+  "sequence": 69,
+  "number": "68",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 278.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc116798-4c85-49d3-9cbd-941fee42c400",
+   "external_id": "cc116798-4c85-49d3-9cbd-941fee42c400",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 68 (February 1999).pdf",
+   "bytes": 200151313,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-68.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-69",
+  "publication": "edge",
+  "sequence": 70,
+  "number": "69",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 415.3,
+   "height_mm": 559.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4e956890-d950-4afa-b100-804e140692c6",
+   "external_id": "4e956890-d950-4afa-b100-804e140692c6",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 69 (March 1999).pdf",
+   "bytes": 195751028,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-69.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-70",
+  "publication": "edge",
+  "sequence": 71,
+  "number": "70",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 417.3,
+   "height_mm": 559.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a39b5ee1-8c30-41a5-a139-c495f9e05f5c",
+   "external_id": "a39b5ee1-8c30-41a5-a139-c495f9e05f5c",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 70 (April 1999).pdf",
+   "bytes": 195984949,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-70.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-71",
+  "publication": "edge",
+  "sequence": 72,
+  "number": "71",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 277.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b5d4c213-8772-48ed-b74d-8bf2d419c512",
+   "external_id": "b5d4c213-8772-48ed-b74d-8bf2d419c512",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 71 (May 1999).pdf",
+   "bytes": 193562652,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-71.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-72",
+  "publication": "edge",
+  "sequence": 73,
+  "number": "72",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 156.5,
+   "height_mm": 208.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/710d8b92-dc48-4640-82c3-e3ffd375a094",
+   "external_id": "710d8b92-dc48-4640-82c3-e3ffd375a094",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 72 (June 1999).pdf",
+   "bytes": 67433823,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-72.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-73",
+  "publication": "edge",
+  "sequence": 74,
+  "number": "73",
+  "date": {
+   "display": "July 1999",
+   "start": "1999-07",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 155.4,
+   "height_mm": 209.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2754b662-dd3d-47b8-9853-ed1f2ebc706e",
+   "external_id": "2754b662-dd3d-47b8-9853-ed1f2ebc706e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 73 (July 1999).pdf",
+   "bytes": 80253651,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-73.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-74",
+  "publication": "edge",
+  "sequence": 75,
+  "number": "74",
+  "date": {
+   "display": "August 1999",
+   "start": "1999-08",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 155.5,
+   "height_mm": 209.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba903caf-a504-439f-847d-09f573e9dd16",
+   "external_id": "ba903caf-a504-439f-847d-09f573e9dd16",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 74 (August 1999).pdf",
+   "bytes": 84776381,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-74.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-75",
+  "publication": "edge",
+  "sequence": 76,
+  "number": "75",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 279.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a36bb02b-bba6-4e8f-b7b9-551c6ee53186",
+   "external_id": "a36bb02b-bba6-4e8f-b7b9-551c6ee53186",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 75 (September 1999).pdf",
+   "bytes": 201644579,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-75.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-77",
+  "publication": "edge",
+  "sequence": 77,
+  "number": "77",
+  "date": {
+   "display": "Autumn 1999",
+   "start": "1999-09",
+   "precision": "season"
+  },
+  "pages": 152,
+  "dimensions": {
+   "width_mm": 156.6,
+   "height_mm": 209.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/76b735aa-55f7-4c13-9300-37564c20fd0e",
+   "external_id": "76b735aa-55f7-4c13-9300-37564c20fd0e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 77 (Autumn 1999).pdf",
+   "bytes": 86346041,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-77.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-76",
+  "publication": "edge",
+  "sequence": 78,
+  "number": "76",
+  "date": {
+   "display": "October 1999",
+   "start": "1999-10",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 157.5,
+   "height_mm": 209.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b5f969ac-d6e7-4ca6-b3d8-9bbd377ee5e9",
+   "external_id": "b5f969ac-d6e7-4ca6-b3d8-9bbd377ee5e9",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 76 (October 1999).pdf",
+   "bytes": 89146705,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-76.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-78",
+  "publication": "edge",
+  "sequence": 79,
+  "number": "78",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 102.3,
+   "height_mm": 139.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6496de80-b0a4-4fe6-b84f-f98aae008a60",
+   "external_id": "6496de80-b0a4-4fe6-b84f-f98aae008a60",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 78 (November 1999).pdf",
+   "bytes": 36512876,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-78.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-79",
+  "publication": "edge",
+  "sequence": 80,
+  "number": "79",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 142,
+  "dimensions": {
+   "width_mm": 152.0,
+   "height_mm": 209.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b28e3a18-d278-4f21-a1a8-560505b4ba22",
+   "external_id": "b28e3a18-d278-4f21-a1a8-560505b4ba22",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 79 (December 1999).pdf",
+   "bytes": 77871382,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-79.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-80",
+  "publication": "edge",
+  "sequence": 81,
+  "number": "80",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 208.7,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1aa77b4f-557a-4a1c-bccc-5f6dc8259ea4",
+   "external_id": "1aa77b4f-557a-4a1c-bccc-5f6dc8259ea4",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 80 (January 2000).pdf",
+   "bytes": 196600418,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-80.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-81",
+  "publication": "edge",
+  "sequence": 82,
+  "number": "81",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 153.7,
+   "height_mm": 209.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf0fa1f7-a8aa-4c58-bfcf-0ac2a009ad6f",
+   "external_id": "cf0fa1f7-a8aa-4c58-bfcf-0ac2a009ad6f",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 81 (February 2000).pdf",
+   "bytes": 77350057,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-81.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-82",
+  "publication": "edge",
+  "sequence": 83,
+  "number": "82",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 205.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0eca24a1-3b1d-4b6b-b69b-81e9f628bab0",
+   "external_id": "0eca24a1-3b1d-4b6b-b69b-81e9f628bab0",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 82 (March 2000).pdf",
+   "bytes": 205510001,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-82.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-83",
+  "publication": "edge",
+  "sequence": 84,
+  "number": "83",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 207.2,
+   "height_mm": 277.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f001411f-2cb0-4495-9887-28a511b4c0ce",
+   "external_id": "f001411f-2cb0-4495-9887-28a511b4c0ce",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 83 (April 2000).pdf",
+   "bytes": 204408090,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-83.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-84",
+  "publication": "edge",
+  "sequence": 85,
+  "number": "84",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 160.6,
+   "height_mm": 209.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6ae55fa-7659-429d-b76d-8c55c9d557bf",
+   "external_id": "a6ae55fa-7659-429d-b76d-8c55c9d557bf",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 84 (May 2000).pdf",
+   "bytes": 80832496,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-84.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-85",
+  "publication": "edge",
+  "sequence": 86,
+  "number": "85",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 154.8,
+   "height_mm": 209.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28d00360-8eb3-418c-b3e9-d29eb438042f",
+   "external_id": "28d00360-8eb3-418c-b3e9-d29eb438042f",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 85 (June 2000).pdf",
+   "bytes": 87665338,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-85.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-86",
+  "publication": "edge",
+  "sequence": 87,
+  "number": "86",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 154.9,
+   "height_mm": 209.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/04e53317-576d-4bdf-a1a5-9f47602fea64",
+   "external_id": "04e53317-576d-4bdf-a1a5-9f47602fea64",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 86 (July 2000).pdf",
+   "bytes": 85573005,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-86.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-87",
+  "publication": "edge",
+  "sequence": 88,
+  "number": "87",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 153.9,
+   "height_mm": 209.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ffcc5a75-f178-4dcf-ac61-5425d51468e5",
+   "external_id": "ffcc5a75-f178-4dcf-ac61-5425d51468e5",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 87 (August 2000).pdf",
+   "bytes": 96127845,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-87.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-88",
+  "publication": "edge",
+  "sequence": 89,
+  "number": "88",
+  "date": {
+   "display": "September 2000",
+   "start": "2000-09",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 172.2,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/10d9ae09-0de9-4f23-a0df-006cfe571faa",
+   "external_id": "10d9ae09-0de9-4f23-a0df-006cfe571faa",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 88 (September 2000).pdf",
+   "bytes": 89036212,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-88.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-89",
+  "publication": "edge",
+  "sequence": 90,
+  "number": "89",
+  "date": {
+   "display": "October 2000",
+   "start": "2000-10",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 171.0,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dc5ee506-28cc-4332-9599-3a7d88eb464c",
+   "external_id": "dc5ee506-28cc-4332-9599-3a7d88eb464c",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 89 (October 2000).pdf",
+   "bytes": 86305003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-89.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-90",
+  "publication": "edge",
+  "sequence": 91,
+  "number": "90",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 172.2,
+   "height_mm": 201.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ff2eaf9-8134-46e4-babb-ec272ec7b278",
+   "external_id": "6ff2eaf9-8134-46e4-babb-ec272ec7b278",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 90 (November 2000).pdf",
+   "bytes": 77447825,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-90.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-91",
+  "publication": "edge",
+  "sequence": 92,
+  "number": "91",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 169.7,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7f31f45-910d-48a5-badc-9bd713741773",
+   "external_id": "e7f31f45-910d-48a5-badc-9bd713741773",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 91 (December 2000).pdf",
+   "bytes": 92630228,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-91.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-92",
+  "publication": "edge",
+  "sequence": 93,
+  "number": "92",
+  "date": {
+   "display": "Christmas 2000",
+   "start": "2000-12",
+   "precision": "season"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 172.3,
+   "height_mm": 201.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f59471ac-03d1-498d-bba0-449af0e997ad",
+   "external_id": "f59471ac-03d1-498d-bba0-449af0e997ad",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 92 (Christmas 2000).pdf",
+   "bytes": 103052384,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-92.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-2001-special-collectors-edition-2001",
+  "publication": "edge",
+  "sequence": 94,
+  "number": "special",
+  "date": {
+   "display": "2001",
+   "start": "2001",
+   "precision": "year"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 270.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7ec41bec-1f3f-48cf-812a-ecc7b7b9972f",
+   "external_id": "7ec41bec-1f3f-48cf-812a-ecc7b7b9972f",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Special Collectors' Edition 2001 (2001).pdf",
+   "bytes": 114767601,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-2001-special-collectors-edition-2001.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-93",
+  "publication": "edge",
+  "sequence": 95,
+  "number": "93",
+  "date": {
+   "display": "January 2001",
+   "start": "2001-01",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 170.7,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1f511b3-8c06-4e8d-97d9-1facbebb6fc1",
+   "external_id": "b1f511b3-8c06-4e8d-97d9-1facbebb6fc1",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 93 (January 2001).pdf",
+   "bytes": 81061176,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-93.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-94",
+  "publication": "edge",
+  "sequence": 96,
+  "number": "94",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 458.3,
+   "height_mm": 537.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/94f6eebd-2f38-4727-89c3-08ff5068380a",
+   "external_id": "94f6eebd-2f38-4727-89c3-08ff5068380a",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 94 (February 2001).pdf",
+   "bytes": 227670994,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-94.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-95",
+  "publication": "edge",
+  "sequence": 97,
+  "number": "95",
+  "date": {
+   "display": "March 2001",
+   "start": "2001-03",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 230.0,
+   "height_mm": 269.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2cc17a4-40b9-41a6-94f9-8e719eb4b1f9",
+   "external_id": "a2cc17a4-40b9-41a6-94f9-8e719eb4b1f9",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 95 (March 2001).pdf",
+   "bytes": 202292174,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-95.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-96",
+  "publication": "edge",
+  "sequence": 98,
+  "number": "96",
+  "date": {
+   "display": "April 2001",
+   "start": "2001-04",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 171.6,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/da7c78ad-6dc3-46d4-82a1-b5c155e66766",
+   "external_id": "da7c78ad-6dc3-46d4-82a1-b5c155e66766",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 96 (April 2001).pdf",
+   "bytes": 70186956,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-96.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-97",
+  "publication": "edge",
+  "sequence": 99,
+  "number": "97",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 173.0,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4bbd8682-205c-49bf-bc6c-52ef8bf6e0f5",
+   "external_id": "4bbd8682-205c-49bf-bc6c-52ef8bf6e0f5",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 97 (May 2001).pdf",
+   "bytes": 70693472,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-97.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-98",
+  "publication": "edge",
+  "sequence": 100,
+  "number": "98",
+  "date": {
+   "display": "June 2001",
+   "start": "2001-06",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 172.2,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/958c10a1-19c9-4297-8e10-0f3212bfcd04",
+   "external_id": "958c10a1-19c9-4297-8e10-0f3212bfcd04",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 98 (June 2001).pdf",
+   "bytes": 69469638,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-98.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-99",
+  "publication": "edge",
+  "sequence": 101,
+  "number": "99",
+  "date": {
+   "display": "July 2001",
+   "start": "2001-07",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 172.9,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f68f3287-4179-48a5-9027-20d2f18ae75f",
+   "external_id": "f68f3287-4179-48a5-9027-20d2f18ae75f",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 99 (July 2001).pdf",
+   "bytes": 79228197,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-99.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "edge-100",
+  "publication": "edge",
+  "sequence": 102,
+  "number": "100",
+  "date": {
+   "display": "August 2001",
+   "start": "2001-08",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 171.1,
+   "height_mm": 200.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fdbe5cda-7966-45b4-95f0-7c5a35cf7784",
+   "external_id": "fdbe5cda-7966-45b4-95f0-7c5a35cf7784",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/edge/pdf/Edge, Issue 100 (August 2001).pdf",
+   "bytes": 78682776,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/edge-100.jpg",
+   "pages_rendered": false
+  }
+ }
+]

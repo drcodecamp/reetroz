@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "id": "ngamer-us-200001-ngamer-premier-issue",
+  "publication": "ngamer-us",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "December / January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 257.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1664fae6-2c30-4573-b9d1-ad88f087a811",
+   "external_id": "1664fae6-2c30-4573-b9d1-ad88f087a811",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/ngamer-us/pdf/NGamer, premier issue (December - January 2000).pdf",
+   "bytes": 120480347,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/ngamer-us-200001-ngamer-premier-issue.jpg",
+   "pages_rendered": false
+  }
+ }
+]

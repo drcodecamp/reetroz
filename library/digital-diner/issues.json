@@ -1,1 +1,75 @@
-[]
+[
+ {
+  "id": "digital-diner-1",
+  "publication": "digital-diner",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "est. late 1996",
+   "start": "1996",
+   "precision": "year"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 248.9,
+   "height_mm": 304.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c977b74-ef0d-494e-ad99-b11534f684a3",
+   "external_id": "6c977b74-ef0d-494e-ad99-b11534f684a3",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/digital-diner/pdf/Digital Diner, Volume 1, Issue 1, Premiere Issue (est. late 1996).pdf",
+   "bytes": 133723415,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "volume": 1,
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/digital-diner-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "digital-diner-2",
+  "publication": "digital-diner",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 250.9,
+   "height_mm": 301.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d4846a8-05da-4510-a2c4-d4a28dd7d493",
+   "external_id": "9d4846a8-05da-4510-a2c4-d4a28dd7d493",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/digital-diner/pdf/Digital Diner, Volume 2, Issue 2 (July 1997).pdf",
+   "bytes": 92927405,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/digital-diner-2.jpg",
+   "pages_rendered": false
+  }
+ }
+]

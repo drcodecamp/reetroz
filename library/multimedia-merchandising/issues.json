@@ -1,1 +1,248 @@
-[]
+[
+ {
+  "id": "multimedia-merchandising-10",
+  "publication": "multimedia-merchandising",
+  "sequence": 1,
+  "number": "10",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/460d0eac-0e6a-4203-b83a-7d61b7f85420",
+   "external_id": "460d0eac-0e6a-4203-b83a-7d61b7f85420",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-merchandising/pdf/MultiMedia Merchandising, Volume 2, Issue 10 (October 1995).pdf",
+   "bytes": 63751274,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-merchandising-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-merchandising-11",
+  "publication": "multimedia-merchandising",
+  "sequence": 2,
+  "number": "11",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 277.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7e83fb1e-5a33-4985-b1c9-2cd43bd11e41",
+   "external_id": "7e83fb1e-5a33-4985-b1c9-2cd43bd11e41",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-merchandising/pdf/MultiMedia Merchandising, Volume 2, Issue 11 (November 1995).pdf",
+   "bytes": 65390409,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-merchandising-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-merchandising-1",
+  "publication": "multimedia-merchandising",
+  "sequence": 3,
+  "number": "1",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d9b746f3-96e3-4726-a91f-36384c144379",
+   "external_id": "d9b746f3-96e3-4726-a91f-36384c144379",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-merchandising/pdf/MultiMedia Merchandising, Volume 3, Issue 1 (January 1996).pdf",
+   "bytes": 65313761,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-merchandising-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-merchandising-2",
+  "publication": "multimedia-merchandising",
+  "sequence": 4,
+  "number": "2",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/edb85eae-602b-4319-862e-01a25ce06f6e",
+   "external_id": "edb85eae-602b-4319-862e-01a25ce06f6e",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-merchandising/pdf/MultiMedia Merchandising, Volume 3, Issue 2 (February 1996).pdf",
+   "bytes": 58586410,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-merchandising-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-merchandising-3",
+  "publication": "multimedia-merchandising",
+  "sequence": 5,
+  "number": "3",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98aaa983-9ee4-4b1a-95d7-c5a46196a94f",
+   "external_id": "98aaa983-9ee4-4b1a-95d7-c5a46196a94f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-merchandising/pdf/MultiMedia Merchandising, Volume 3, Issue 3 (March 1996).pdf",
+   "bytes": 66259794,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/multimedia-merchandising-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-merchandising-5",
+  "publication": "multimedia-merchandising",
+  "sequence": 6,
+  "number": "5",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f55b5112-1278-4bec-b87e-60806d801e11",
+   "external_id": "f55b5112-1278-4bec-b87e-60806d801e11",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-merchandising/pdf/MultiMedia Merchandising, Volume 3, Issue 5 (May 1996).pdf",
+   "bytes": 96821685,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-merchandising-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-merchandising-8",
+  "publication": "multimedia-merchandising",
+  "sequence": 7,
+  "number": "8",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 58,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/10755827-d173-4df0-8b17-1e983f1e7521",
+   "external_id": "10755827-d173-4df0-8b17-1e983f1e7521",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-merchandising/pdf/MultiMedia Merchandising, Volume 3, Issue 8 (September 1996).pdf",
+   "bytes": 68424830,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-merchandising-8.jpg",
+   "pages_rendered": false
+  }
+ }
+]

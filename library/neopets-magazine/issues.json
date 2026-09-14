@@ -1,1 +1,934 @@
-[]
+[
+ {
+  "id": "neopets-magazine-1",
+  "publication": "neopets-magazine",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "September/October 2003",
+   "start": "2003-09",
+   "precision": "month",
+   "end": "2003-10"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/83e9e17b-f164-4bf0-9e92-c45324e27b0c",
+   "external_id": "83e9e17b-f164-4bf0-9e92-c45324e27b0c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 1 (September-October 2003).pdf",
+   "bytes": 87422190,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-2",
+  "publication": "neopets-magazine",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "November/December 2003",
+   "start": "2003-11",
+   "precision": "month",
+   "end": "2003-12"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf62871d-ce3f-4773-9e3f-35a57e0bc5f7",
+   "external_id": "bf62871d-ce3f-4773-9e3f-35a57e0bc5f7",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 2 (November-December 2003).pdf",
+   "bytes": 90176656,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-3",
+  "publication": "neopets-magazine",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "est. January/February 2004",
+   "start": "2004-01",
+   "precision": "month",
+   "end": "2004-02"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9abd0eb-e8f5-4fd2-9790-637cc59073ac",
+   "external_id": "a9abd0eb-e8f5-4fd2-9790-637cc59073ac",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 3 (est. January-February 2004).pdf",
+   "bytes": 88837422,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-4",
+  "publication": "neopets-magazine",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "est. March/April 2004",
+   "start": "2004-03",
+   "precision": "month",
+   "end": "2004-04"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/577f8f0d-1edc-4168-8d18-15d2b30aa4bd",
+   "external_id": "577f8f0d-1edc-4168-8d18-15d2b30aa4bd",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 4 (est. March-April 2004).pdf",
+   "bytes": 87619539,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-5",
+  "publication": "neopets-magazine",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "est. May/June 2004",
+   "start": "2004-05",
+   "precision": "month",
+   "end": "2004-06"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec163f33-163e-4f6a-aff9-35f8523b45c7",
+   "external_id": "ec163f33-163e-4f6a-aff9-35f8523b45c7",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 5 (est. May-June 2004).pdf",
+   "bytes": 87702010,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-6",
+  "publication": "neopets-magazine",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "est. July/August 2004",
+   "start": "2004-07",
+   "precision": "month",
+   "end": "2004-08"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/21e251ea-9f4e-4288-8987-532154409128",
+   "external_id": "21e251ea-9f4e-4288-8987-532154409128",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 6 (est. July-August 2004).pdf",
+   "bytes": 87390554,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-7",
+  "publication": "neopets-magazine",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "est. September/October 2004",
+   "start": "2004-09",
+   "precision": "month",
+   "end": "2004-10"
+  },
+  "pages": 94,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b07fb65-156b-4865-b780-4e42f5c19048",
+   "external_id": "8b07fb65-156b-4865-b780-4e42f5c19048",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 7 (est. September-October 2004).pdf",
+   "bytes": 96001240,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-8",
+  "publication": "neopets-magazine",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "est. November/December 2004",
+   "start": "2004-11",
+   "precision": "month",
+   "end": "2004-12"
+  },
+  "pages": 78,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8cdf1c85-8b96-4e2c-b57b-8964ac5b9d72",
+   "external_id": "8cdf1c85-8b96-4e2c-b57b-8964ac5b9d72",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 8 (est. November-December 2004).pdf",
+   "bytes": 79710673,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-10",
+  "publication": "neopets-magazine",
+  "sequence": 9,
+  "number": "10",
+  "date": {
+   "display": "2005",
+   "start": "2005",
+   "precision": "year"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/368f6aec-5501-46d5-9773-a5937e7f101c",
+   "external_id": "368f6aec-5501-46d5-9773-a5937e7f101c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 10 (2005).pdf",
+   "bytes": 88461493,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-11",
+  "publication": "neopets-magazine",
+  "sequence": 10,
+  "number": "11",
+  "date": {
+   "display": "2005",
+   "start": "2005",
+   "precision": "year"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38c7e2e1-3762-436c-b2af-302db544f52a",
+   "external_id": "38c7e2e1-3762-436c-b2af-302db544f52a",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 11 (2005).pdf",
+   "bytes": 97509421,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-12",
+  "publication": "neopets-magazine",
+  "sequence": 11,
+  "number": "12",
+  "date": {
+   "display": "2005",
+   "start": "2005",
+   "precision": "year"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f5099fa8-a2a6-4a86-877f-ce9650b046fd",
+   "external_id": "f5099fa8-a2a6-4a86-877f-ce9650b046fd",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 12 (2005).pdf",
+   "bytes": 91124089,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-13",
+  "publication": "neopets-magazine",
+  "sequence": 12,
+  "number": "13",
+  "date": {
+   "display": "2005",
+   "start": "2005",
+   "precision": "year"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/27aa16da-3aa7-492b-bd79-911a0ac26802",
+   "external_id": "27aa16da-3aa7-492b-bd79-911a0ac26802",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 13 (2005).pdf",
+   "bytes": 105358809,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-9",
+  "publication": "neopets-magazine",
+  "sequence": 13,
+  "number": "9",
+  "date": {
+   "display": "est. January/February 2005",
+   "start": "2005-01",
+   "precision": "month",
+   "end": "2005-02"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11fc6349-3d75-4c18-ad4d-6d6781333769",
+   "external_id": "11fc6349-3d75-4c18-ad4d-6d6781333769",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 9 (est. January-February 2005).pdf",
+   "bytes": 83585071,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-14",
+  "publication": "neopets-magazine",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "est. January/February 2006",
+   "start": "2006-01",
+   "precision": "month",
+   "end": "2006-02"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93e70c91-d2b4-440c-bfc8-192ad6daa817",
+   "external_id": "93e70c91-d2b4-440c-bfc8-192ad6daa817",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 14 (est. January-February 2006).pdf",
+   "bytes": 102514344,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-15",
+  "publication": "neopets-magazine",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "est. March/April 2006",
+   "start": "2006-03",
+   "precision": "month",
+   "end": "2006-04"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4af0ceb3-dc87-42c9-9110-5d17ad958bf6",
+   "external_id": "4af0ceb3-dc87-42c9-9110-5d17ad958bf6",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 15 (est. March-April 2006).pdf",
+   "bytes": 102634441,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-16",
+  "publication": "neopets-magazine",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "est. May/June 2006",
+   "start": "2006-05",
+   "precision": "month",
+   "end": "2006-06"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2fa91ddf-d161-45fb-9eeb-5a6c2271bda5",
+   "external_id": "2fa91ddf-d161-45fb-9eeb-5a6c2271bda5",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 16 (est. May-June 2006).pdf",
+   "bytes": 102267042,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-17",
+  "publication": "neopets-magazine",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "est. July/August 2006",
+   "start": "2006-07",
+   "precision": "month",
+   "end": "2006-08"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c65b941-9d2b-4f53-b203-dfcd15f8a340",
+   "external_id": "6c65b941-9d2b-4f53-b203-dfcd15f8a340",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 17 (est. July-August 2006).pdf",
+   "bytes": 103639689,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-18",
+  "publication": "neopets-magazine",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "est. September/October 2006",
+   "start": "2006-09",
+   "precision": "month",
+   "end": "2006-10"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/63c1319b-f850-4741-ab23-727f691c4bfd",
+   "external_id": "63c1319b-f850-4741-ab23-727f691c4bfd",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 18 (est. September-October 2006).pdf",
+   "bytes": 101575254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-19",
+  "publication": "neopets-magazine",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "est. November/December 2006",
+   "start": "2006-11",
+   "precision": "month",
+   "end": "2006-12"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c899cc4-1b82-4370-ba3c-8b5ac3806c3b",
+   "external_id": "9c899cc4-1b82-4370-ba3c-8b5ac3806c3b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 19 (est. November-December 2006).pdf",
+   "bytes": 103585496,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-20",
+  "publication": "neopets-magazine",
+  "sequence": 20,
+  "number": "20",
+  "date": {
+   "display": "est. January/February 2007",
+   "start": "2007-01",
+   "precision": "month",
+   "end": "2007-02"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dede79ad-c265-4063-8991-f0278ed17386",
+   "external_id": "dede79ad-c265-4063-8991-f0278ed17386",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 20 (est. January-February 2007).pdf",
+   "bytes": 96599198,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-21",
+  "publication": "neopets-magazine",
+  "sequence": 21,
+  "number": "21",
+  "date": {
+   "display": "est. March/April 2007",
+   "start": "2007-03",
+   "precision": "month",
+   "end": "2007-04"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/216ae104-3b4d-491f-b1b2-719b244e882b",
+   "external_id": "216ae104-3b4d-491f-b1b2-719b244e882b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 21 (est. March-April 2007).pdf",
+   "bytes": 100818214,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-22",
+  "publication": "neopets-magazine",
+  "sequence": 22,
+  "number": "22",
+  "date": {
+   "display": "est. May/June 2007",
+   "start": "2007-05",
+   "precision": "month",
+   "end": "2007-06"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c94a891-c16f-4979-b2c3-efbc9105ca1e",
+   "external_id": "4c94a891-c16f-4979-b2c3-efbc9105ca1e",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 22 (est. May-June 2007).pdf",
+   "bytes": 102163883,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-23",
+  "publication": "neopets-magazine",
+  "sequence": 23,
+  "number": "23",
+  "date": {
+   "display": "est. July/August 2007",
+   "start": "2007-07",
+   "precision": "month",
+   "end": "2007-08"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e1682943-3704-47c9-ac8d-e1e5b86e909a",
+   "external_id": "e1682943-3704-47c9-ac8d-e1e5b86e909a",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 23 (est. July-August 2007).pdf",
+   "bytes": 84092944,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-24",
+  "publication": "neopets-magazine",
+  "sequence": 24,
+  "number": "24",
+  "date": {
+   "display": "est. September/October 2007",
+   "start": "2007-09",
+   "precision": "month",
+   "end": "2007-10"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5054da76-1804-4ab3-b8fa-1fc8d49e86b9",
+   "external_id": "5054da76-1804-4ab3-b8fa-1fc8d49e86b9",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 24 (est. September-October 2007).pdf",
+   "bytes": 89125471,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-25",
+  "publication": "neopets-magazine",
+  "sequence": 25,
+  "number": "25",
+  "date": {
+   "display": "est. November/December 2007",
+   "start": "2007-11",
+   "precision": "month",
+   "end": "2007-12"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/704a4c52-09f7-40c2-a3e1-1d5b34468642",
+   "external_id": "704a4c52-09f7-40c2-a3e1-1d5b34468642",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 25 (est. November-December 2007).pdf",
+   "bytes": 94483705,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "neopets-magazine-26",
+  "publication": "neopets-magazine",
+  "sequence": 26,
+  "number": "26",
+  "date": {
+   "display": "est. January/February 2008",
+   "start": "2008-01",
+   "precision": "month",
+   "end": "2008-02"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c83422cc-20d9-4d48-ae2c-c02a112e8959",
+   "external_id": "c83422cc-20d9-4d48-ae2c-c02a112e8959",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/neopets-magazine/pdf/Neopets The Official Magazine, Issue 26 (est. January-February 2008).pdf",
+   "bytes": 95064412,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/neopets-magazine-26.jpg",
+   "pages_rendered": false
+  }
+ }
+]

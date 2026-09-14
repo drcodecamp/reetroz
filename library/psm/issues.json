@@ -1,1 +1,4596 @@
-[]
+[
+ {
+  "id": "psm-1997-e3-1997-preview-issue",
+  "publication": "psm",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "June 19-21, 1997",
+   "start": "1997",
+   "precision": "year"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29017b5a-1b21-43a4-bb82-d113ffc9615f",
+   "external_id": "29017b5a-1b21-43a4-bb82-d113ffc9615f",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, E3 1997 preview issue (June 19–21, 1997).pdf",
+   "bytes": 23696510,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1997-e3-1997-preview-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1",
+  "publication": "psm",
+  "sequence": 2,
+  "number": "1",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/af5c4e14-9d6c-4f86-a22a-8cf27338e975",
+   "external_id": "af5c4e14-9d6c-4f86-a22a-8cf27338e975",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 1, Number 1, Issue 1 (September 1997).pdf",
+   "bytes": 157495996,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/psm-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2",
+  "publication": "psm",
+  "sequence": 3,
+  "number": "2",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 121.9,
+   "height_mm": 164.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/de9437e4-86c1-4986-8745-2910a3f474e8",
+   "external_id": "de9437e4-86c1-4986-8745-2910a3f474e8",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 1, Number 2, Issue 2 (October 1997).pdf",
+   "bytes": 103490679,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3",
+  "publication": "psm",
+  "sequence": 4,
+  "number": "3",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 121.9,
+   "height_mm": 162.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/af7e5575-2769-41ad-b1e2-04eb6b435f0d",
+   "external_id": "af7e5575-2769-41ad-b1e2-04eb6b435f0d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 1, Number 3, Issue 3 (November 1997).pdf",
+   "bytes": 86680457,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4",
+  "publication": "psm",
+  "sequence": 5,
+  "number": "4",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 142.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6d112b8f-ed7b-4424-82ea-0a60e6c9de95",
+   "external_id": "6d112b8f-ed7b-4424-82ea-0a60e6c9de95",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 1, Number 4, Issue 4 (December 1997).pdf",
+   "bytes": 151746690,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-2",
+  "publication": "psm",
+  "sequence": 6,
+  "number": "1",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 142.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7192be37-8b43-40fd-a2fe-0f375c778067",
+   "external_id": "7192be37-8b43-40fd-a2fe-0f375c778067",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 1, Issue 5 (January 1998).pdf",
+   "bytes": 159825128,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-2",
+  "publication": "psm",
+  "sequence": 7,
+  "number": "2",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c990d3c-edb2-4efe-b193-f083283bfc4d",
+   "external_id": "9c990d3c-edb2-4efe-b193-f083283bfc4d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 2, Issue 6 (February 1998).pdf",
+   "bytes": 161938440,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/psm-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-2",
+  "publication": "psm",
+  "sequence": 8,
+  "number": "3",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 141.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d57c8784-92cc-48a4-84a5-3f1fd6fea89c",
+   "external_id": "d57c8784-92cc-48a4-84a5-3f1fd6fea89c",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 3, Issue 7 (March 1998).pdf",
+   "bytes": 158675662,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-2",
+  "publication": "psm",
+  "sequence": 9,
+  "number": "4",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 142.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc77fa58-7273-439b-aba7-7ef703c1da79",
+   "external_id": "bc77fa58-7273-439b-aba7-7ef703c1da79",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 4, Issue 8 (April 1998).pdf",
+   "bytes": 132979808,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5",
+  "publication": "psm",
+  "sequence": 10,
+  "number": "5",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 141.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/354cb9ee-8708-40a1-b46b-e0bf080a04f4",
+   "external_id": "354cb9ee-8708-40a1-b46b-e0bf080a04f4",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 5, Issue 9 (May 1998).pdf",
+   "bytes": 140335347,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6",
+  "publication": "psm",
+  "sequence": 11,
+  "number": "6",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 141.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f01da342-7702-4c40-a1b0-2927a0426ade",
+   "external_id": "f01da342-7702-4c40-a1b0-2927a0426ade",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 6, Issue 10 (June 1998).pdf",
+   "bytes": 146518317,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7",
+  "publication": "psm",
+  "sequence": 12,
+  "number": "7",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 141.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5be28595-11b5-481d-851c-749199b59d6b",
+   "external_id": "5be28595-11b5-481d-851c-749199b59d6b",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 7, Issue 11 (July 1998).pdf",
+   "bytes": 157496391,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8",
+  "publication": "psm",
+  "sequence": 13,
+  "number": "8",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 137.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3f41bd21-cbd2-4fa9-b231-71c4b30c7928",
+   "external_id": "3f41bd21-cbd2-4fa9-b231-71c4b30c7928",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 8, Issue 12 (August 1998).pdf",
+   "bytes": 149801031,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9",
+  "publication": "psm",
+  "sequence": 14,
+  "number": "9",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 146,
+  "dimensions": {
+   "width_mm": 138.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b8be92ff-3d1d-4ce0-8fb8-d86158bd2c9e",
+   "external_id": "b8be92ff-3d1d-4ce0-8fb8-d86158bd2c9e",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 9, Issue 13 (September 1998).pdf",
+   "bytes": 191647367,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10",
+  "publication": "psm",
+  "sequence": 15,
+  "number": "10",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 379.3,
+   "height_mm": 264.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38ae4c72-30c4-4043-97b9-411874ad16fc",
+   "external_id": "38ae4c72-30c4-4043-97b9-411874ad16fc",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 10, Issue 14 (October 1998).pdf",
+   "bytes": 119299411,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11",
+  "publication": "psm",
+  "sequence": 16,
+  "number": "11",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 194,
+  "dimensions": {
+   "width_mm": 140.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e10dfb31-3d2e-4edc-94ca-10701fd448f2",
+   "external_id": "e10dfb31-3d2e-4edc-94ca-10701fd448f2",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 11, Issue 15 (November 1998).pdf",
+   "bytes": 264962853,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12",
+  "publication": "psm",
+  "sequence": 17,
+  "number": "12",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 182,
+  "dimensions": {
+   "width_mm": 137.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/340dbe6a-14a1-41d7-94c0-9debc430bf15",
+   "external_id": "340dbe6a-14a1-41d7-94c0-9debc430bf15",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 2, Number 12, Issue 16 (December 1998).pdf",
+   "bytes": 252016688,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-3",
+  "publication": "psm",
+  "sequence": 18,
+  "number": "1",
+  "date": {
+   "display": "January 1999",
+   "start": "1999-01",
+   "precision": "month"
+  },
+  "pages": 142,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 267.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/96c4e6af-e5e9-4c47-b878-2b07df175d1e",
+   "external_id": "96c4e6af-e5e9-4c47-b878-2b07df175d1e",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 1, Issue 17 (January 1999).pdf",
+   "bytes": 381363253,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-3",
+  "publication": "psm",
+  "sequence": 19,
+  "number": "2",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 142.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2fb6e278-972f-4f53-ac2a-d8510fdf7050",
+   "external_id": "2fb6e278-972f-4f53-ac2a-d8510fdf7050",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 2, Issue 18 (February 1999).pdf",
+   "bytes": 202317705,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-3",
+  "publication": "psm",
+  "sequence": 20,
+  "number": "3",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 208.0,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec1558fd-6fd9-4228-9539-4b7f3417b027",
+   "external_id": "ec1558fd-6fd9-4228-9539-4b7f3417b027",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 3, Issue 19 (March 1999).pdf",
+   "bytes": 257777242,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/psm-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-3",
+  "publication": "psm",
+  "sequence": 21,
+  "number": "4",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 141.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/49248be2-ab5e-414a-873d-cb205454ffb1",
+   "external_id": "49248be2-ab5e-414a-873d-cb205454ffb1",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 4, Issue 20 (April 1999).pdf",
+   "bytes": 154324160,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-2",
+  "publication": "psm",
+  "sequence": 22,
+  "number": "5",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 141.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d1bbfad0-3d08-45b6-809e-4c355e8fa012",
+   "external_id": "d1bbfad0-3d08-45b6-809e-4c355e8fa012",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 5, Issue 21 (May 1999).pdf",
+   "bytes": 156265894,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6-2",
+  "publication": "psm",
+  "sequence": 23,
+  "number": "6",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 208.0,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/69e78284-283a-4388-bd27-153452808002",
+   "external_id": "69e78284-283a-4388-bd27-153452808002",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 6, Issue 22 (June 1999).pdf",
+   "bytes": 230433339,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7-2",
+  "publication": "psm",
+  "sequence": 24,
+  "number": "7",
+  "date": {
+   "display": "July 1999",
+   "start": "1999-07",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 138.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/37dd84da-37b0-48dd-86d7-86b61c640dfc",
+   "external_id": "37dd84da-37b0-48dd-86d7-86b61c640dfc",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 7, Issue 23 (July 1999).pdf",
+   "bytes": 185941059,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8-2",
+  "publication": "psm",
+  "sequence": 25,
+  "number": "8",
+  "date": {
+   "display": "August 1999",
+   "start": "1999-08",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 211.6,
+   "height_mm": 275.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e048a0f6-bbd9-42c8-a52f-770aaeba9f5d",
+   "external_id": "e048a0f6-bbd9-42c8-a52f-770aaeba9f5d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 8, Issue 24 (August 1999).pdf",
+   "bytes": 254161901,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9-2",
+  "publication": "psm",
+  "sequence": 26,
+  "number": "9",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 275.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/86baf52a-15a2-4691-84c8-71e36333da90",
+   "external_id": "86baf52a-15a2-4691-84c8-71e36333da90",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 9, Issue 25 (September 1999).pdf",
+   "bytes": 209911972,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-9-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10-2",
+  "publication": "psm",
+  "sequence": 27,
+  "number": "10",
+  "date": {
+   "display": "October 1999",
+   "start": "1999-10",
+   "precision": "month"
+  },
+  "pages": 173,
+  "dimensions": {
+   "width_mm": 219.8,
+   "height_mm": 294.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/efefb09a-cbe5-481d-8a75-d128d7d69e6c",
+   "external_id": "efefb09a-cbe5-481d-8a75-d128d7d69e6c",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 10, Issue 26 (October 1999).pdf",
+   "bytes": 225942011,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11-2",
+  "publication": "psm",
+  "sequence": 28,
+  "number": "11",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 196,
+  "dimensions": {
+   "width_mm": 197.7,
+   "height_mm": 264.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dd3d6450-8df1-4add-b423-e380bdd0ffa0",
+   "external_id": "dd3d6450-8df1-4add-b423-e380bdd0ffa0",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 11, Issue 27 (November 1999).pdf",
+   "bytes": 152666286,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12-2",
+  "publication": "psm",
+  "sequence": 29,
+  "number": "12",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 207,
+  "dimensions": {
+   "width_mm": 141.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba6b0bad-24a0-4af6-81de-58acc53efff6",
+   "external_id": "ba6b0bad-24a0-4af6-81de-58acc53efff6",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 3, Number 12, Issue 28 (December 1999).pdf",
+   "bytes": 262420650,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-4",
+  "publication": "psm",
+  "sequence": 30,
+  "number": "1",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 142.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5242c633-55ae-4cb3-95a6-735b854f2283",
+   "external_id": "5242c633-55ae-4cb3-95a6-735b854f2283",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 1, Issue 29 (January 2000).pdf",
+   "bytes": 156388332,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-4",
+  "publication": "psm",
+  "sequence": 31,
+  "number": "2",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 221.2,
+   "height_mm": 294.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c757f79c-7a51-44e4-a777-83c67ccfb4d2",
+   "external_id": "c757f79c-7a51-44e4-a777-83c67ccfb4d2",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 2, Issue 30 (February 2000).pdf",
+   "bytes": 166194518,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-4",
+  "publication": "psm",
+  "sequence": 32,
+  "number": "3",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 193.0,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ed51e71c-a7b0-4d7a-914c-f0beac4a60f4",
+   "external_id": "ed51e71c-a7b0-4d7a-914c-f0beac4a60f4",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 3, Issue 31 (March 2000).pdf",
+   "bytes": 245840909,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-4",
+  "publication": "psm",
+  "sequence": 33,
+  "number": "4",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 197.9,
+   "height_mm": 264.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f10ec4f6-2779-48e2-a397-3b647a2f553f",
+   "external_id": "f10ec4f6-2779-48e2-a397-3b647a2f553f",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 4, Issue 32 (April 2000).pdf",
+   "bytes": 92295112,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 4,
+  "assets": {
+   "cover": "site/public/covers/psm-4-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-3",
+  "publication": "psm",
+  "sequence": 34,
+  "number": "5",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/659e20e3-3a33-408d-bebc-4a72a50653c3",
+   "external_id": "659e20e3-3a33-408d-bebc-4a72a50653c3",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 5, Issue 33 (May 2000).pdf",
+   "bytes": 133417469,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6-3",
+  "publication": "psm",
+  "sequence": 35,
+  "number": "6",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29b20ac3-17de-42c4-ba35-d1fd50c6ecb0",
+   "external_id": "29b20ac3-17de-42c4-ba35-d1fd50c6ecb0",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 6, Issue 34 (June 2000).pdf",
+   "bytes": 120848545,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-6-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7-3",
+  "publication": "psm",
+  "sequence": 36,
+  "number": "7",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 146.1,
+   "height_mm": 190.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fb715e57-ddaa-47d5-9f8a-6673426f765d",
+   "external_id": "fb715e57-ddaa-47d5-9f8a-6673426f765d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 7, Issue 35 (July 2000).pdf",
+   "bytes": 116350582,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-7-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8-3",
+  "publication": "psm",
+  "sequence": 37,
+  "number": "8",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 198.4,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba7e3fee-892b-4f43-ba3f-f6836c934b25",
+   "external_id": "ba7e3fee-892b-4f43-ba3f-f6836c934b25",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 8, Issue 36 (August 2000).pdf",
+   "bytes": 88464252,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-8-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9-3",
+  "publication": "psm",
+  "sequence": 38,
+  "number": "9",
+  "date": {
+   "display": "September 2000",
+   "start": "2000-09",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 138.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3e52274b-f28b-43b5-ac43-2138b258d40c",
+   "external_id": "3e52274b-f28b-43b5-ac43-2138b258d40c",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 9, Issue 37 (September 2000).pdf",
+   "bytes": 164658815,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-9-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10-3",
+  "publication": "psm",
+  "sequence": 39,
+  "number": "10",
+  "date": {
+   "display": "October 2000",
+   "start": "2000-10",
+   "precision": "month"
+  },
+  "pages": 149,
+  "dimensions": {
+   "width_mm": 143.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f7dd3a2f-5a95-4709-9d80-1c8710c1d46b",
+   "external_id": "f7dd3a2f-5a95-4709-9d80-1c8710c1d46b",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 10, Issue 38 (October 2000).pdf",
+   "bytes": 195566442,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11-3",
+  "publication": "psm",
+  "sequence": 40,
+  "number": "11",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 164.3,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11af2997-32a2-4fb4-92ef-8e38af021cf3",
+   "external_id": "11af2997-32a2-4fb4-92ef-8e38af021cf3",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 11, Issue 39 (November 2000).pdf",
+   "bytes": 235846823,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12-3",
+  "publication": "psm",
+  "sequence": 41,
+  "number": "12",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 188,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 185.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3f7bb3a3-c49a-484e-a8b7-d99c0cf7cbac",
+   "external_id": "3f7bb3a3-c49a-484e-a8b7-d99c0cf7cbac",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 4, Number 12, Issue 40 (December 2000).pdf",
+   "bytes": 190410994,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-5",
+  "publication": "psm",
+  "sequence": 42,
+  "number": "1",
+  "date": {
+   "display": "January 2001",
+   "start": "2001-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 208.0,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf2cc6ac-d9bd-4912-a8c8-34db1efc10a0",
+   "external_id": "cf2cc6ac-d9bd-4912-a8c8-34db1efc10a0",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 1, Issue 41 (January 2001).pdf",
+   "bytes": 209722260,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-5",
+  "publication": "psm",
+  "sequence": 43,
+  "number": "2",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 210.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c9a8de1e-fbb3-4699-93ed-cdf761ade7df",
+   "external_id": "c9a8de1e-fbb3-4699-93ed-cdf761ade7df",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 2, Issue 42 (February 2001).pdf",
+   "bytes": 207535640,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-5",
+  "publication": "psm",
+  "sequence": 44,
+  "number": "3",
+  "date": {
+   "display": "March 2001",
+   "start": "2001-03",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 209.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/abe7d36e-2cec-4c33-ac6f-e8e79b05c8f5",
+   "external_id": "abe7d36e-2cec-4c33-ac6f-e8e79b05c8f5",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 3, Issue 43 (March 2001).pdf",
+   "bytes": 202446956,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-5",
+  "publication": "psm",
+  "sequence": 45,
+  "number": "4",
+  "date": {
+   "display": "April 2001",
+   "start": "2001-04",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 206.9,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe54a28f-cbde-4a78-8b7a-4d0e9908cb20",
+   "external_id": "fe54a28f-cbde-4a78-8b7a-4d0e9908cb20",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 4, Issue 44 (April 2001).pdf",
+   "bytes": 240691570,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-4",
+  "publication": "psm",
+  "sequence": 46,
+  "number": "5",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dc333154-307e-446f-a004-d98915159598",
+   "external_id": "dc333154-307e-446f-a004-d98915159598",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 5, Issue 45 (May 2001).pdf",
+   "bytes": 225512046,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 5,
+  "assets": {
+   "cover": "site/public/covers/psm-5-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6-4",
+  "publication": "psm",
+  "sequence": 47,
+  "number": "6",
+  "date": {
+   "display": "June 2001",
+   "start": "2001-06",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/353fcf2f-ad86-4abf-9273-d1f32ce48967",
+   "external_id": "353fcf2f-ad86-4abf-9273-d1f32ce48967",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 6, Issue 46 (June 2001).pdf",
+   "bytes": 80465756,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-6-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7-4",
+  "publication": "psm",
+  "sequence": 48,
+  "number": "7",
+  "date": {
+   "display": "July 2001",
+   "start": "2001-07",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 197.8,
+   "height_mm": 267.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7ab803c-386a-40d0-bf43-8d87066b312d",
+   "external_id": "e7ab803c-386a-40d0-bf43-8d87066b312d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 7, Issue 47 (July 2001).pdf",
+   "bytes": 75871344,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-7-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8-4",
+  "publication": "psm",
+  "sequence": 49,
+  "number": "8",
+  "date": {
+   "display": "August 2001",
+   "start": "2001-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 208.8,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9ee20f8a-1454-4155-849a-3a9e0770440b",
+   "external_id": "9ee20f8a-1454-4155-849a-3a9e0770440b",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 8, Issue 48 (August 2001).pdf",
+   "bytes": 262184979,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-8-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9-4",
+  "publication": "psm",
+  "sequence": 50,
+  "number": "9",
+  "date": {
+   "display": "September 2001",
+   "start": "2001-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 208.2,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3e70860a-5959-4823-a1b5-95235e0411ea",
+   "external_id": "3e70860a-5959-4823-a1b5-95235e0411ea",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 9, Issue 49 (September 2001).pdf",
+   "bytes": 250050007,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-9-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10-4",
+  "publication": "psm",
+  "sequence": 51,
+  "number": "10",
+  "date": {
+   "display": "October 2001",
+   "start": "2001-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 198.4,
+   "height_mm": 265.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f7421e78-7ad8-4732-b4d7-dae27409dc7a",
+   "external_id": "f7421e78-7ad8-4732-b4d7-dae27409dc7a",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 10, Issue 50 (October 2001).pdf",
+   "bytes": 87339874,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11-4",
+  "publication": "psm",
+  "sequence": 52,
+  "number": "11",
+  "date": {
+   "display": "November 2001",
+   "start": "2001-11",
+   "precision": "month"
+  },
+  "pages": 142,
+  "dimensions": {
+   "width_mm": 169.3,
+   "height_mm": 224.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/64a118ca-4626-436b-9907-51d8b4d1f70a",
+   "external_id": "64a118ca-4626-436b-9907-51d8b4d1f70a",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 11, Issue 51 (November 2001).pdf",
+   "bytes": 240571179,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12-4",
+  "publication": "psm",
+  "sequence": 53,
+  "number": "12",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 142,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa760cab-9284-46cc-ae8b-ccfc233d9390",
+   "external_id": "fa760cab-9284-46cc-ae8b-ccfc233d9390",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 12, Issue 52 (December 2001).pdf",
+   "bytes": 175677006,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-13",
+  "publication": "psm",
+  "sequence": 54,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2001",
+   "start": "2001-12",
+   "precision": "season"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e59b0be3-35e6-49c5-a07b-7aa6359f422c",
+   "external_id": "e59b0be3-35e6-49c5-a07b-7aa6359f422c",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 5, Number 13, Issue 53 (Holiday 2001).pdf",
+   "bytes": 269247015,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-6",
+  "publication": "psm",
+  "sequence": 55,
+  "number": "1",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 141.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/18154d9a-c5cf-46cd-9e21-898b654b92df",
+   "external_id": "18154d9a-c5cf-46cd-9e21-898b654b92df",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 1, Issue 54 (January 2002).pdf",
+   "bytes": 124672948,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-6",
+  "publication": "psm",
+  "sequence": 56,
+  "number": "2",
+  "date": {
+   "display": "February 2002",
+   "start": "2002-02",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 178.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a121b214-1376-42ae-94b5-751913a49cb0",
+   "external_id": "a121b214-1376-42ae-94b5-751913a49cb0",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 2, Issue 55 (February 2002).pdf",
+   "bytes": 119645056,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-6",
+  "publication": "psm",
+  "sequence": 57,
+  "number": "3",
+  "date": {
+   "display": "March 2002",
+   "start": "2002-03",
+   "precision": "month"
+  },
+  "pages": 115,
+  "dimensions": {
+   "width_mm": 208.0,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4e37b146-e8ab-4297-9475-7afea629e16b",
+   "external_id": "4e37b146-e8ab-4297-9475-7afea629e16b",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 3, Issue 56 (March 2002).pdf",
+   "bytes": 260579138,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-6",
+  "publication": "psm",
+  "sequence": 58,
+  "number": "4",
+  "date": {
+   "display": "April 2002",
+   "start": "2002-04",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 210.4,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f0e86e16-d1fc-40dc-bd75-bfd180411ee8",
+   "external_id": "f0e86e16-d1fc-40dc-bd75-bfd180411ee8",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 4, Issue 57 (April 2002).pdf",
+   "bytes": 219708495,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-5",
+  "publication": "psm",
+  "sequence": 59,
+  "number": "5",
+  "date": {
+   "display": "May 2002",
+   "start": "2002-05",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 137.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eec74ef7-a27e-4520-b9e2-1656829abb12",
+   "external_id": "eec74ef7-a27e-4520-b9e2-1656829abb12",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 5, Issue 58 (May 2002).pdf",
+   "bytes": 123718418,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6-5",
+  "publication": "psm",
+  "sequence": 60,
+  "number": "6",
+  "date": {
+   "display": "June 2002",
+   "start": "2002-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 142.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a29eb068-300a-45a8-b94d-a30d7ed07f65",
+   "external_id": "a29eb068-300a-45a8-b94d-a30d7ed07f65",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 6, Issue 59 (June 2002).pdf",
+   "bytes": 121843948,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 6,
+  "assets": {
+   "cover": "site/public/covers/psm-6-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7-5",
+  "publication": "psm",
+  "sequence": 61,
+  "number": "7",
+  "date": {
+   "display": "July 2002",
+   "start": "2002-07",
+   "precision": "month"
+  },
+  "pages": 103,
+  "dimensions": {
+   "width_mm": 140.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9495107d-bd5a-4c01-8ee2-979f09f8d790",
+   "external_id": "9495107d-bd5a-4c01-8ee2-979f09f8d790",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 7, Issue 60 (July 2002).pdf",
+   "bytes": 126095988,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-7-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8-5",
+  "publication": "psm",
+  "sequence": 62,
+  "number": "8",
+  "date": {
+   "display": "August 2002",
+   "start": "2002-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 266.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/84536f29-4be2-4055-bdf1-b09dcd4d3330",
+   "external_id": "84536f29-4be2-4055-bdf1-b09dcd4d3330",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 8, Issue 61 (August 2002).pdf",
+   "bytes": 290412378,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-8-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9-5",
+  "publication": "psm",
+  "sequence": 63,
+  "number": "9",
+  "date": {
+   "display": "September 2002",
+   "start": "2002-09",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 208.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4f4d8c83-1893-4945-a6be-b3087dd68088",
+   "external_id": "4f4d8c83-1893-4945-a6be-b3087dd68088",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 9, Issue 62 (September 2002).pdf",
+   "bytes": 250259376,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-9-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10-5",
+  "publication": "psm",
+  "sequence": 64,
+  "number": "10",
+  "date": {
+   "display": "October 2002",
+   "start": "2002-10",
+   "precision": "month"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28f939d8-b160-47f0-92c6-e885159b5156",
+   "external_id": "28f939d8-b160-47f0-92c6-e885159b5156",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 10, Issue 63 (October 2002).pdf",
+   "bytes": 168894055,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11-5",
+  "publication": "psm",
+  "sequence": 65,
+  "number": "11",
+  "date": {
+   "display": "November 2002",
+   "start": "2002-11",
+   "precision": "month"
+  },
+  "pages": 174,
+  "dimensions": {
+   "width_mm": 193.9,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/08a5b1bb-f9a4-46f6-b8c3-7a103b4bc38c",
+   "external_id": "08a5b1bb-f9a4-46f6-b8c3-7a103b4bc38c",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 11, Issue 64 (November 2002).pdf",
+   "bytes": 282285388,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12-5",
+  "publication": "psm",
+  "sequence": 66,
+  "number": "12",
+  "date": {
+   "display": "December 2002",
+   "start": "2002-12",
+   "precision": "month"
+  },
+  "pages": 160,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/744cbb76-2cb8-4f91-be88-4305bef44b99",
+   "external_id": "744cbb76-2cb8-4f91-be88-4305bef44b99",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 12, Issue 65 (December 2002).pdf",
+   "bytes": 118503142,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-13-2",
+  "publication": "psm",
+  "sequence": 67,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2002",
+   "start": "2002-12",
+   "precision": "season"
+  },
+  "pages": 98,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/293e160e-afa1-4f40-8da2-4a3f83268da1",
+   "external_id": "293e160e-afa1-4f40-8da2-4a3f83268da1",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 6, Number 13, Issue 66 (Holiday 2002).pdf",
+   "bytes": 110478392,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-13-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-7",
+  "publication": "psm",
+  "sequence": 68,
+  "number": "1",
+  "date": {
+   "display": "January 2003",
+   "start": "2003-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fbc11083-1488-4b9f-ac56-343801ab73b0",
+   "external_id": "fbc11083-1488-4b9f-ac56-343801ab73b0",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 1, Issue 67 (January 2003).pdf",
+   "bytes": 96321298,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-7",
+  "publication": "psm",
+  "sequence": 69,
+  "number": "2",
+  "date": {
+   "display": "February 2003",
+   "start": "2003-02",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 141.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b8ae373-f216-4a0b-bc35-a888a4c31c5e",
+   "external_id": "2b8ae373-f216-4a0b-bc35-a888a4c31c5e",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 2, Issue 68 (February 2003).pdf",
+   "bytes": 115864634,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-7",
+  "publication": "psm",
+  "sequence": 70,
+  "number": "3",
+  "date": {
+   "display": "March 2003",
+   "start": "2003-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 378.6,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07cd6b1f-c19b-454f-b9eb-37f469c7d9a9",
+   "external_id": "07cd6b1f-c19b-454f-b9eb-37f469c7d9a9",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 3, Issue 69 (March 2003).pdf",
+   "bytes": 74473405,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-7",
+  "publication": "psm",
+  "sequence": 71,
+  "number": "4",
+  "date": {
+   "display": "April 2003",
+   "start": "2003-04",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 199.3,
+   "height_mm": 262.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1799af84-5849-4c14-9c6d-5edd7b4548fc",
+   "external_id": "1799af84-5849-4c14-9c6d-5edd7b4548fc",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 4, Issue 70 (April 2003).pdf",
+   "bytes": 78959906,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-6",
+  "publication": "psm",
+  "sequence": 72,
+  "number": "5",
+  "date": {
+   "display": "May 2003",
+   "start": "2003-05",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 197.7,
+   "height_mm": 263.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b0754992-963d-40c2-b005-ff7ebe70ff7f",
+   "external_id": "b0754992-963d-40c2-b005-ff7ebe70ff7f",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 5, Issue 71 (May 2003).pdf",
+   "bytes": 76744978,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6-6",
+  "publication": "psm",
+  "sequence": 73,
+  "number": "6",
+  "date": {
+   "display": "June 2003",
+   "start": "2003-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a288b01d-e10d-48eb-b6d2-decdcae5542d",
+   "external_id": "a288b01d-e10d-48eb-b6d2-decdcae5542d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 6, Issue 72 (June 2003).pdf",
+   "bytes": 78621151,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-6-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7-6",
+  "publication": "psm",
+  "sequence": 74,
+  "number": "7",
+  "date": {
+   "display": "July 2003",
+   "start": "2003-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 265.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7bd46658-0d23-4ee1-b0e9-bf79f5347d37",
+   "external_id": "7bd46658-0d23-4ee1-b0e9-bf79f5347d37",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 7, Issue 73 (July 2003).pdf",
+   "bytes": 81347095,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 7,
+  "assets": {
+   "cover": "site/public/covers/psm-7-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8-6",
+  "publication": "psm",
+  "sequence": 75,
+  "number": "8",
+  "date": {
+   "display": "August 2003",
+   "start": "2003-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/67aa04c0-7ce4-47f4-b90e-e4363b8a8925",
+   "external_id": "67aa04c0-7ce4-47f4-b90e-e4363b8a8925",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 8, Issue 74 (August 2003).pdf",
+   "bytes": 116483737,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-8-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9-6",
+  "publication": "psm",
+  "sequence": 76,
+  "number": "9",
+  "date": {
+   "display": "September 2003",
+   "start": "2003-09",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/779454ba-5d73-44e1-88c5-6ed300b3494d",
+   "external_id": "779454ba-5d73-44e1-88c5-6ed300b3494d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 9, Issue 75 (September 2003).pdf",
+   "bytes": 86032546,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-9-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10-6",
+  "publication": "psm",
+  "sequence": 77,
+  "number": "10",
+  "date": {
+   "display": "October 2003",
+   "start": "2003-10",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 198.7,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e420552c-e0ab-4214-8e77-11fca1eaeced",
+   "external_id": "e420552c-e0ab-4214-8e77-11fca1eaeced",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 10, Issue 76 (October 2003).pdf",
+   "bytes": 80204011,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11-6",
+  "publication": "psm",
+  "sequence": 78,
+  "number": "11",
+  "date": {
+   "display": "November 2003",
+   "start": "2003-11",
+   "precision": "month"
+  },
+  "pages": 146,
+  "dimensions": {
+   "width_mm": 198.2,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cca15403-0fd9-4fb4-a857-3ab23fd9ef43",
+   "external_id": "cca15403-0fd9-4fb4-a857-3ab23fd9ef43",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 11, Issue 77 (November 2003).pdf",
+   "bytes": 114920244,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12-6",
+  "publication": "psm",
+  "sequence": 79,
+  "number": "12",
+  "date": {
+   "display": "December 2003",
+   "start": "2003-12",
+   "precision": "month"
+  },
+  "pages": 186,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 264.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7276605b-f381-492c-bf92-a9f46c17b4e8",
+   "external_id": "7276605b-f381-492c-bf92-a9f46c17b4e8",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 12, Issue 78 (December 2003).pdf",
+   "bytes": 145109169,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-13-3",
+  "publication": "psm",
+  "sequence": 80,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2003",
+   "start": "2003-12",
+   "precision": "season"
+  },
+  "pages": 130,
+  "dimensions": {
+   "width_mm": 160.3,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98170023-906f-4ca8-8011-1a4d14f1e847",
+   "external_id": "98170023-906f-4ca8-8011-1a4d14f1e847",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 7, Number 13, Issue 79 (Holiday 2003).pdf",
+   "bytes": 170571934,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-13-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-8",
+  "publication": "psm",
+  "sequence": 81,
+  "number": "1",
+  "date": {
+   "display": "January 2004",
+   "start": "2004-01",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 161.2,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a81d0376-927c-4b91-8e84-f5ae26f4a645",
+   "external_id": "a81d0376-927c-4b91-8e84-f5ae26f4a645",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 1, Issue 80 (January 2004).pdf",
+   "bytes": 147515335,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-8",
+  "publication": "psm",
+  "sequence": 82,
+  "number": "2",
+  "date": {
+   "display": "February 2004",
+   "start": "2004-02",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 199.9,
+   "height_mm": 263.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d26615b9-cc66-458c-a7be-314f627b61e6",
+   "external_id": "d26615b9-cc66-458c-a7be-314f627b61e6",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 2, Issue 81 (February 2004).pdf",
+   "bytes": 81407078,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-8",
+  "publication": "psm",
+  "sequence": 83,
+  "number": "3",
+  "date": {
+   "display": "March 2004",
+   "start": "2004-03",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 161.1,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eba1687d-4889-4bf7-8fcd-fa7f6bb390f6",
+   "external_id": "eba1687d-4889-4bf7-8fcd-fa7f6bb390f6",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 3, Issue 82 (March 2004).pdf",
+   "bytes": 133481557,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-8",
+  "publication": "psm",
+  "sequence": 84,
+  "number": "4",
+  "date": {
+   "display": "April 2004",
+   "start": "2004-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 160.0,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a779a8ce-2cf9-41b1-b67e-8f83d534f6ff",
+   "external_id": "a779a8ce-2cf9-41b1-b67e-8f83d534f6ff",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 4, Issue 83 (April 2004).pdf",
+   "bytes": 130652152,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-7",
+  "publication": "psm",
+  "sequence": 85,
+  "number": "5",
+  "date": {
+   "display": "May 2004",
+   "start": "2004-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 160.2,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/227c4a3e-f3cd-47ad-8aca-d748b0f228ed",
+   "external_id": "227c4a3e-f3cd-47ad-8aca-d748b0f228ed",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 5, Issue 84 (May 2004).pdf",
+   "bytes": 135783829,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6-7",
+  "publication": "psm",
+  "sequence": 86,
+  "number": "6",
+  "date": {
+   "display": "June 2004",
+   "start": "2004-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 138.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/56e07334-da90-4575-8f60-998e7ebe008b",
+   "external_id": "56e07334-da90-4575-8f60-998e7ebe008b",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 6, Issue 85 (June 2004).pdf",
+   "bytes": 113365996,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-6-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7-7",
+  "publication": "psm",
+  "sequence": 87,
+  "number": "7",
+  "date": {
+   "display": "July 2004",
+   "start": "2004-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d5e22f17-77ab-4d8d-81fe-f9660a132bf1",
+   "external_id": "d5e22f17-77ab-4d8d-81fe-f9660a132bf1",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 7, Issue 86 (July 2004).pdf",
+   "bytes": 83654361,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-7-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8-7",
+  "publication": "psm",
+  "sequence": 88,
+  "number": "8",
+  "date": {
+   "display": "August 2004",
+   "start": "2004-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f80e439e-d40b-4c5e-a820-a90fe21505fe",
+   "external_id": "f80e439e-d40b-4c5e-a820-a90fe21505fe",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 8, Issue 87 (August 2004).pdf",
+   "bytes": 88147337,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 8,
+  "assets": {
+   "cover": "site/public/covers/psm-8-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9-7",
+  "publication": "psm",
+  "sequence": 89,
+  "number": "9",
+  "date": {
+   "display": "September 2004",
+   "start": "2004-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 160.2,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98a5944d-fa67-4bc3-96c5-f479b575c1c9",
+   "external_id": "98a5944d-fa67-4bc3-96c5-f479b575c1c9",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 9, Issue 88 (September 2004).pdf",
+   "bytes": 143884337,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-9-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10-7",
+  "publication": "psm",
+  "sequence": 90,
+  "number": "10",
+  "date": {
+   "display": "October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0b60c665-d232-41e0-b419-b1ab301b7c54",
+   "external_id": "0b60c665-d232-41e0-b419-b1ab301b7c54",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 10, Issue 89 (October 2004).pdf",
+   "bytes": 121419186,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11-7",
+  "publication": "psm",
+  "sequence": 91,
+  "number": "11",
+  "date": {
+   "display": "November 2004",
+   "start": "2004-11",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 161.0,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/849d1d80-1df4-4de0-9e93-af65fc3d2495",
+   "external_id": "849d1d80-1df4-4de0-9e93-af65fc3d2495",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 11, Issue 90 (November 2004).pdf",
+   "bytes": 162492123,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12-7",
+  "publication": "psm",
+  "sequence": 92,
+  "number": "12",
+  "date": {
+   "display": "December 2004",
+   "start": "2004-12",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 158.8,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9a1f8af7-d11f-4726-b80f-7c8ec63f3c36",
+   "external_id": "9a1f8af7-d11f-4726-b80f-7c8ec63f3c36",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 12, Issue 91 (December 2004).pdf",
+   "bytes": 168176038,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-13-4",
+  "publication": "psm",
+  "sequence": 93,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2004",
+   "start": "2004-12",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cb3ed1c2-d22d-4848-b77c-ea34a0e95a72",
+   "external_id": "cb3ed1c2-d22d-4848-b77c-ea34a0e95a72",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 8, Number 13, Issue 92 (Holiday 2004).pdf",
+   "bytes": 151791964,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-13-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-9",
+  "publication": "psm",
+  "sequence": 94,
+  "number": "1",
+  "date": {
+   "display": "January 2005",
+   "start": "2005-01",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a96149c-1dd5-4d03-81ba-1f3cc043bca6",
+   "external_id": "7a96149c-1dd5-4d03-81ba-1f3cc043bca6",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 1, Issue 93 (January 2005).pdf",
+   "bytes": 103961533,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-9",
+  "publication": "psm",
+  "sequence": 95,
+  "number": "2",
+  "date": {
+   "display": "February 2005",
+   "start": "2005-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/96b1e3d7-eada-4653-8b4d-da61695b3d32",
+   "external_id": "96b1e3d7-eada-4653-8b4d-da61695b3d32",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 2, Issue 94 (February 2005).pdf",
+   "bytes": 104529072,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-9",
+  "publication": "psm",
+  "sequence": 96,
+  "number": "3",
+  "date": {
+   "display": "March 2005",
+   "start": "2005-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f70477ac-59ec-4f03-926e-189a4e2600cb",
+   "external_id": "f70477ac-59ec-4f03-926e-189a4e2600cb",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 3, Issue 95 (March 2005).pdf",
+   "bytes": 103308185,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-9",
+  "publication": "psm",
+  "sequence": 97,
+  "number": "4",
+  "date": {
+   "display": "April 2005",
+   "start": "2005-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 140.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e171232c-a68b-4f14-bdf8-f5172976acbd",
+   "external_id": "e171232c-a68b-4f14-bdf8-f5172976acbd",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 4, Issue 96 (April 2005).pdf",
+   "bytes": 107248813,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-8",
+  "publication": "psm",
+  "sequence": 98,
+  "number": "5",
+  "date": {
+   "display": "May 2005",
+   "start": "2005-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.0,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/888d26b3-f13d-4fd1-b6d3-8049c109b7cd",
+   "external_id": "888d26b3-f13d-4fd1-b6d3-8049c109b7cd",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 5, Issue 97 (May 2005).pdf",
+   "bytes": 215364351,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-6-8",
+  "publication": "psm",
+  "sequence": 99,
+  "number": "6",
+  "date": {
+   "display": "June 2005",
+   "start": "2005-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 265.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0cc5c102-e235-4727-936e-c62d107d376d",
+   "external_id": "0cc5c102-e235-4727-936e-c62d107d376d",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 6, Issue 98 (June 2005).pdf",
+   "bytes": 84590535,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-6-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-7-8",
+  "publication": "psm",
+  "sequence": 100,
+  "number": "7",
+  "date": {
+   "display": "July 2005",
+   "start": "2005-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 143.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7947abd9-bb65-4b17-81ec-efe725cf708a",
+   "external_id": "7947abd9-bb65-4b17-81ec-efe725cf708a",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 7, Issue 99 (July 2005).pdf",
+   "bytes": 111291515,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-7-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-8-8",
+  "publication": "psm",
+  "sequence": 101,
+  "number": "8",
+  "date": {
+   "display": "August 2005",
+   "start": "2005-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 140.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/55f40800-39d7-41ac-971a-c5622b263b0e",
+   "external_id": "55f40800-39d7-41ac-971a-c5622b263b0e",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 8, Issue 100 (August 2005).pdf",
+   "bytes": 113017175,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-8-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-9-8",
+  "publication": "psm",
+  "sequence": 102,
+  "number": "9",
+  "date": {
+   "display": "September 2005",
+   "start": "2005-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.4,
+   "height_mm": 265.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c225f6d-d500-46ae-bfa5-0f5a53708b66",
+   "external_id": "9c225f6d-d500-46ae-bfa5-0f5a53708b66",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 9, Issue 101 (September 2005).pdf",
+   "bytes": 89158236,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "volume": 9,
+  "assets": {
+   "cover": "site/public/covers/psm-9-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-10-8",
+  "publication": "psm",
+  "sequence": 103,
+  "number": "10",
+  "date": {
+   "display": "October 2005",
+   "start": "2005-10",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 193.0,
+   "height_mm": 260.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/84e4a80f-3776-4751-9425-50bf9ef42ee0",
+   "external_id": "84e4a80f-3776-4751-9425-50bf9ef42ee0",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 10, Issue 102 (October 2005).pdf",
+   "bytes": 118673936,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-10-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-11-8",
+  "publication": "psm",
+  "sequence": 104,
+  "number": "11",
+  "date": {
+   "display": "November 2005",
+   "start": "2005-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 140.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4511ba4c-b10d-4655-a197-7001b68f9626",
+   "external_id": "4511ba4c-b10d-4655-a197-7001b68f9626",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 11, Issue 103 (November 2005).pdf",
+   "bytes": 139622719,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-11-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-12-8",
+  "publication": "psm",
+  "sequence": 105,
+  "number": "12",
+  "date": {
+   "display": "December 2005",
+   "start": "2005-12",
+   "precision": "month"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 140.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8863539a-f381-41bf-a88d-220d186554a3",
+   "external_id": "8863539a-f381-41bf-a88d-220d186554a3",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 12, Issue 104 (December 2005).pdf",
+   "bytes": 170778208,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-12-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-13-5",
+  "publication": "psm",
+  "sequence": 106,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2005",
+   "start": "2005-12",
+   "precision": "season"
+  },
+  "pages": 152,
+  "dimensions": {
+   "width_mm": 140.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1c5bf9a7-a140-469e-a45d-ea1c9fee0b47",
+   "external_id": "1c5bf9a7-a140-469e-a45d-ea1c9fee0b47",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 9, Number 13, Issue 105 (Holiday 2005).pdf",
+   "bytes": 177140146,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-13-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-1-10",
+  "publication": "psm",
+  "sequence": 107,
+  "number": "1",
+  "date": {
+   "display": "January 2006",
+   "start": "2006-01",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ac727b5-be2b-4c80-8036-9f87b129fbb5",
+   "external_id": "5ac727b5-be2b-4c80-8036-9f87b129fbb5",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 10, Number 1, Issue 106 (January 2006).pdf",
+   "bytes": 133741325,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-1-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-2-10",
+  "publication": "psm",
+  "sequence": 108,
+  "number": "2",
+  "date": {
+   "display": "February 2006",
+   "start": "2006-02",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 140.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b4de4bef-2d16-43ea-8692-4f8af6cb8924",
+   "external_id": "b4de4bef-2d16-43ea-8692-4f8af6cb8924",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 10, Number 2, Issue 107 (February 2006).pdf",
+   "bytes": 123886937,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-2-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-3-10",
+  "publication": "psm",
+  "sequence": 109,
+  "number": "3",
+  "date": {
+   "display": "March 2006",
+   "start": "2006-03",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 140.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6b246be-bc79-4fba-81f7-bb75e4249883",
+   "external_id": "a6b246be-bc79-4fba-81f7-bb75e4249883",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 10, Number 3, Issue 108 (March 2006).pdf",
+   "bytes": 122439737,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-3-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-4-10",
+  "publication": "psm",
+  "sequence": 110,
+  "number": "4",
+  "date": {
+   "display": "April 2006",
+   "start": "2006-04",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 140.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7e6f8fd1-c458-4210-b2d8-2836e30c1eba",
+   "external_id": "7e6f8fd1-c458-4210-b2d8-2836e30c1eba",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 10, Number 4, Issue 109 (April 2006).pdf",
+   "bytes": 126587637,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-4-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-5-9",
+  "publication": "psm",
+  "sequence": 111,
+  "number": "5",
+  "date": {
+   "display": "May 2006",
+   "start": "2006-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/468973d0-3aa6-4fa9-9c9f-badce8955969",
+   "external_id": "468973d0-3aa6-4fa9-9c9f-badce8955969",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Volume 10, Number 5, Issue 110 (May 2006).pdf",
+   "bytes": 218293438,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-5-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-111",
+  "publication": "psm",
+  "sequence": 112,
+  "number": "111",
+  "date": {
+   "display": "June 2006",
+   "start": "2006-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/870da9ac-cdad-449b-aa26-755aa9833384",
+   "external_id": "870da9ac-cdad-449b-aa26-755aa9833384",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 111 (June 2006).pdf",
+   "bytes": 126108417,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-111.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-112",
+  "publication": "psm",
+  "sequence": 113,
+  "number": "112",
+  "date": {
+   "display": "July 2006",
+   "start": "2006-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 141.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aff4ffcb-f8ba-4c14-9b82-010a8bb6acdb",
+   "external_id": "aff4ffcb-f8ba-4c14-9b82-010a8bb6acdb",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 112 (July 2006).pdf",
+   "bytes": 122058870,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-112.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-113",
+  "publication": "psm",
+  "sequence": 114,
+  "number": "113",
+  "date": {
+   "display": "August 2006",
+   "start": "2006-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/61d838f5-d48f-45c0-9f15-3f72855bed5a",
+   "external_id": "61d838f5-d48f-45c0-9f15-3f72855bed5a",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 113 (August 2006).pdf",
+   "bytes": 92466350,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-113.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-114",
+  "publication": "psm",
+  "sequence": 115,
+  "number": "114",
+  "date": {
+   "display": "September 2006",
+   "start": "2006-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 159.3,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f122ddae-a888-4ed4-9323-5aed5327bee4",
+   "external_id": "f122ddae-a888-4ed4-9323-5aed5327bee4",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 114 (September 2006).pdf",
+   "bytes": 141043494,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-114.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-115",
+  "publication": "psm",
+  "sequence": 116,
+  "number": "115",
+  "date": {
+   "display": "October 2006",
+   "start": "2006-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bca6ac29-2444-48a2-a4af-d5819e58c60a",
+   "external_id": "bca6ac29-2444-48a2-a4af-d5819e58c60a",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 115 (October 2006).pdf",
+   "bytes": 102556082,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-115.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-116",
+  "publication": "psm",
+  "sequence": 117,
+  "number": "116",
+  "date": {
+   "display": "November 2006",
+   "start": "2006-11",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 158.8,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eabe7ada-448d-40f9-b51d-6291ee89f6b4",
+   "external_id": "eabe7ada-448d-40f9-b51d-6291ee89f6b4",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 116 (November 2006).pdf",
+   "bytes": 149427254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-116.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-117",
+  "publication": "psm",
+  "sequence": 118,
+  "number": "117",
+  "date": {
+   "display": "December 2006",
+   "start": "2006-12",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 154.6,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a3eaa30-989c-4cce-a417-6bf32ab1c4d1",
+   "external_id": "7a3eaa30-989c-4cce-a417-6bf32ab1c4d1",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 117 (December 2006).pdf",
+   "bytes": 144290027,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-117.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-118",
+  "publication": "psm",
+  "sequence": 119,
+  "number": "118",
+  "date": {
+   "display": "Holiday 2006",
+   "start": "2006-12",
+   "precision": "season"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 159.7,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/60fdeea8-76bf-4eed-8ab4-3cf269102dfa",
+   "external_id": "60fdeea8-76bf-4eed-8ab4-3cf269102dfa",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 118 (Holiday 2006).pdf",
+   "bytes": 182278846,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-118.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-119",
+  "publication": "psm",
+  "sequence": 120,
+  "number": "119",
+  "date": {
+   "display": "January 2007",
+   "start": "2007-01",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/abad660b-4c17-4867-bda2-a2f07a159dbb",
+   "external_id": "abad660b-4c17-4867-bda2-a2f07a159dbb",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 119 (January 2007).pdf",
+   "bytes": 78858118,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-119.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-120",
+  "publication": "psm",
+  "sequence": 121,
+  "number": "120",
+  "date": {
+   "display": "February 2007",
+   "start": "2007-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c482b183-34da-4954-9f17-ffd4188fa744",
+   "external_id": "c482b183-34da-4954-9f17-ffd4188fa744",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 120 (February 2007).pdf",
+   "bytes": 123591522,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-120.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-121",
+  "publication": "psm",
+  "sequence": 122,
+  "number": "121",
+  "date": {
+   "display": "March 2007",
+   "start": "2007-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 141.8,
+   "height_mm": 185.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7af29249-fa4f-4786-b6e0-632e7a39c58a",
+   "external_id": "7af29249-fa4f-4786-b6e0-632e7a39c58a",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 121 (March 2007).pdf",
+   "bytes": 125884295,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-121.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-122",
+  "publication": "psm",
+  "sequence": 123,
+  "number": "122",
+  "date": {
+   "display": "April 2007",
+   "start": "2007-04",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5d8c80c0-8b3b-4272-8ed4-f2d6e95d65f6",
+   "external_id": "5d8c80c0-8b3b-4272-8ed4-f2d6e95d65f6",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 122 (April 2007).pdf",
+   "bytes": 117013409,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-122.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-123",
+  "publication": "psm",
+  "sequence": 124,
+  "number": "123",
+  "date": {
+   "display": "May 2007",
+   "start": "2007-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b8aabcdf-5ba1-4792-a1f8-be9f571836c6",
+   "external_id": "b8aabcdf-5ba1-4792-a1f8-be9f571836c6",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 123 (May 2007).pdf",
+   "bytes": 126750588,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-123.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-124",
+  "publication": "psm",
+  "sequence": 125,
+  "number": "124",
+  "date": {
+   "display": "June 2007",
+   "start": "2007-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3172efe3-5761-47b1-ab74-d89cc56cc7a1",
+   "external_id": "3172efe3-5761-47b1-ab74-d89cc56cc7a1",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 124 (June 2007).pdf",
+   "bytes": 127769758,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-124.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-125",
+  "publication": "psm",
+  "sequence": 126,
+  "number": "125",
+  "date": {
+   "display": "July 2007",
+   "start": "2007-07",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 141.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f5139e04-3ecd-44d7-8f05-a26cb6556dde",
+   "external_id": "f5139e04-3ecd-44d7-8f05-a26cb6556dde",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 125 (July 2007).pdf",
+   "bytes": 112292353,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-125.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-126",
+  "publication": "psm",
+  "sequence": 127,
+  "number": "126",
+  "date": {
+   "display": "August 2007",
+   "start": "2007-08",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 141.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/419062cc-e584-4f7c-8fd1-456f7a8453ae",
+   "external_id": "419062cc-e584-4f7c-8fd1-456f7a8453ae",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 126 (August 2007).pdf",
+   "bytes": 105543225,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-126.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-127",
+  "publication": "psm",
+  "sequence": 128,
+  "number": "127",
+  "date": {
+   "display": "September 2007",
+   "start": "2007-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 160.5,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1002cbed-df7a-4b43-a57f-f36701c1fc86",
+   "external_id": "1002cbed-df7a-4b43-a57f-f36701c1fc86",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 127 (September 2007).pdf",
+   "bytes": 133691126,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-127.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-128",
+  "publication": "psm",
+  "sequence": 129,
+  "number": "128",
+  "date": {
+   "display": "October 2007",
+   "start": "2007-10",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 154.9,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0074474e-dbba-48cc-84ba-5b0cdb638e65",
+   "external_id": "0074474e-dbba-48cc-84ba-5b0cdb638e65",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 128 (October 2007).pdf",
+   "bytes": 137532660,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-128.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-129",
+  "publication": "psm",
+  "sequence": 130,
+  "number": "129",
+  "date": {
+   "display": "November 2007",
+   "start": "2007-11",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 157.5,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b41601de-120f-441e-a2c1-04ba5666f0aa",
+   "external_id": "b41601de-120f-441e-a2c1-04ba5666f0aa",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 129 (November 2007).pdf",
+   "bytes": 155364241,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-129.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psm-130",
+  "publication": "psm",
+  "sequence": 131,
+  "number": "130",
+  "date": {
+   "display": "December 2007",
+   "start": "2007-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 140.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/048f1f9d-890b-4880-892f-12974f9eaa0c",
+   "external_id": "048f1f9d-890b-4880-892f-12974f9eaa0c",
+   "retrieved_at": "2026-09-14T09:36:00+00:00"
+  },
+  "files": {
+   "pdf": "library/psm/pdf/PSM, Issue 130 (December 2007).pdf",
+   "bytes": 132148362,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/psm-130.jpg",
+   "pages_rendered": false
+  }
+ }
+]

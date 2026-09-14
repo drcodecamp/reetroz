@@ -1,1 +1,247 @@
-[]
+[
+ {
+  "id": "blip-1",
+  "publication": "blip",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "February 1983",
+   "start": "1983-02",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 82.5,
+   "height_mm": 127.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/03dbb412-1f40-4ce5-8583-617d6a542261",
+   "external_id": "03dbb412-1f40-4ce5-8583-617d6a542261",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/blip/pdf/Blip, Issue 1 (February 1983).pdf",
+   "bytes": 27744142,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/blip-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "blip-2",
+  "publication": "blip",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "March 1983",
+   "start": "1983-03",
+   "precision": "month"
+  },
+  "pages": 35,
+  "dimensions": {
+   "width_mm": 82.5,
+   "height_mm": 127.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a75803d8-b27c-49a4-84d1-5429efce7d65",
+   "external_id": "a75803d8-b27c-49a4-84d1-5429efce7d65",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/blip/pdf/Blip, Volume 1, Issue 2 (March 1983).pdf",
+   "bytes": 20060353,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/blip-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "blip-3",
+  "publication": "blip",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "April 1983",
+   "start": "1983-04",
+   "precision": "month"
+  },
+  "pages": 35,
+  "dimensions": {
+   "width_mm": 82.5,
+   "height_mm": 124.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6cc67336-f6e3-490b-bca9-7e82d312d2e4",
+   "external_id": "6cc67336-f6e3-490b-bca9-7e82d312d2e4",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/blip/pdf/Blip, Volume 1, Issue 3 (April 1983).pdf",
+   "bytes": 19882664,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/blip-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "blip-4",
+  "publication": "blip",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "May 1983",
+   "start": "1983-05",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 82.5,
+   "height_mm": 126.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf9bacd2-615d-488a-85a2-f35c3292bbd3",
+   "external_id": "bf9bacd2-615d-488a-85a2-f35c3292bbd3",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/blip/pdf/Blip, Volume 1, Issue 4 (May 1983).pdf",
+   "bytes": 19088247,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/blip-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "blip-5",
+  "publication": "blip",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "June 1983",
+   "start": "1983-06",
+   "precision": "month"
+  },
+  "pages": 35,
+  "dimensions": {
+   "width_mm": 82.5,
+   "height_mm": 126.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/da656e05-14c0-4e5f-9ac5-04974063f4c3",
+   "external_id": "da656e05-14c0-4e5f-9ac5-04974063f4c3",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/blip/pdf/Blip, Volume 1, Issue 5 (June 1983).pdf",
+   "bytes": 18743273,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/blip-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "blip-6",
+  "publication": "blip",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "July 1983",
+   "start": "1983-07",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 82.5,
+   "height_mm": 126.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/524e7761-7d17-4394-9a06-dc86f86daa16",
+   "external_id": "524e7761-7d17-4394-9a06-dc86f86daa16",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/blip/pdf/Blip, Volume 1, Issue 6 (July 1983).pdf",
+   "bytes": 20198696,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/blip-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "blip-7",
+  "publication": "blip",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "August 1983",
+   "start": "1983-08",
+   "precision": "month"
+  },
+  "pages": 35,
+  "dimensions": {
+   "width_mm": 82.5,
+   "height_mm": 126.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4bdad72f-1f1d-4446-9939-85e6ca808a21",
+   "external_id": "4bdad72f-1f1d-4446-9939-85e6ca808a21",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/blip/pdf/Blip, Volume 1, Issue 7 (August 1983).pdf",
+   "bytes": 21186864,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/blip-7.jpg",
+   "pages_rendered": false
+  }
+ }
+]

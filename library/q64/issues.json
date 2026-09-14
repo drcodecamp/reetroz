@@ -1,1 +1,212 @@
-[]
+[
+ {
+  "id": "q64-199706-q64",
+  "publication": "q64",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "Summer 1997",
+   "start": "1997-06",
+   "precision": "season"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 210.3,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3a00af20-ca7e-4d58-8fc7-5d317aac5666",
+   "external_id": "3a00af20-ca7e-4d58-8fc7-5d317aac5666",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/q64/pdf/Q64 (Summer 1997).pdf",
+   "bytes": 105801567,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/q64-199706-q64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "q64-199806-q64",
+  "publication": "q64",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "Summer 1998",
+   "start": "1998-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/23f54a0e-2f3f-4efd-a016-4c35e75cbeaa",
+   "external_id": "23f54a0e-2f3f-4efd-a016-4c35e75cbeaa",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/q64/pdf/Q64 (Summer 1998).pdf",
+   "bytes": 125057540,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/q64-199806-q64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "q64-199809-q64",
+  "publication": "q64",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "Fall 1998",
+   "start": "1998-09",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 143.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e81806b8-d551-4548-9bd0-2d7d06519ece",
+   "external_id": "e81806b8-d551-4548-9bd0-2d7d06519ece",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/q64/pdf/Q64 (Fall 1998).pdf",
+   "bytes": 149048227,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/q64-199809-q64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "q64-199812-q64",
+  "publication": "q64",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "Winter 1998",
+   "start": "1998-12",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 141.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38c5152c-8ee1-4a2b-ace7-b5d7cac0198f",
+   "external_id": "38c5152c-8ee1-4a2b-ace7-b5d7cac0198f",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/q64/pdf/Q64 (Winter 1998).pdf",
+   "bytes": 142132801,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/q64-199812-q64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "q64-199906-q64",
+  "publication": "q64",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "Summer 1999",
+   "start": "1999-06",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 143.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e5695aad-bc48-449c-b48b-b1de42749144",
+   "external_id": "e5695aad-bc48-449c-b48b-b1de42749144",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/q64/pdf/Q64 (Summer 1999).pdf",
+   "bytes": 151404762,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/q64-199906-q64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "q64-199912-q64",
+  "publication": "q64",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "Winter 1999",
+   "start": "1999-12",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 144.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f57ddade-8465-4ce3-bcb2-ec0826bcab9f",
+   "external_id": "f57ddade-8465-4ce3-bcb2-ec0826bcab9f",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/q64/pdf/Q64 (Winter 1999).pdf",
+   "bytes": 179416677,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/q64-199912-q64.jpg",
+   "pages_rendered": false
+  }
+ }
+]

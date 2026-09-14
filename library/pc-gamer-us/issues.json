@@ -1,1 +1,6841 @@
-[]
+[
+ {
+  "id": "pc-gamer-us-1-6",
+  "publication": "pc-gamer-us",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "May/June 1994",
+   "start": "1994-05",
+   "precision": "month",
+   "end": "1994-06"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 139.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eeadefa0-6345-4ced-9b40-dbf844830d1b",
+   "external_id": "eeadefa0-6345-4ced-9b40-dbf844830d1b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 1, Number 1 (May-June 1994).pdf",
+   "bytes": 81283746,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-6",
+  "publication": "pc-gamer-us",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 138.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/47df4e25-b3b3-41b2-9b4d-107632a4aa0b",
+   "external_id": "47df4e25-b3b3-41b2-9b4d-107632a4aa0b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 1, Number 2 (July 1994).pdf",
+   "bytes": 117681991,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-4",
+  "publication": "pc-gamer-us",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 165.0,
+   "height_mm": 221.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/18e97050-06bd-445e-bd09-80bf23ce02ab",
+   "external_id": "18e97050-06bd-445e-bd09-80bf23ce02ab",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 1, Number 3 (August 1994).pdf",
+   "bytes": 105159253,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-5",
+  "publication": "pc-gamer-us",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d15cd176-5199-412d-941d-6eec1525eb24",
+   "external_id": "d15cd176-5199-412d-941d-6eec1525eb24",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 1, Number 4 (September 1994).pdf",
+   "bytes": 151728755,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-5",
+  "publication": "pc-gamer-us",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/76e89b53-42f0-4194-b6ec-c2253db208c0",
+   "external_id": "76e89b53-42f0-4194-b6ec-c2253db208c0",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 1, Number 5 (October 1994).pdf",
+   "bytes": 123381603,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-6",
+  "publication": "pc-gamer-us",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 192.7,
+   "height_mm": 258.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7752c58-e1de-4024-a866-801b7dfc2e43",
+   "external_id": "a7752c58-e1de-4024-a866-801b7dfc2e43",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 1, Number 6 (November 1994).pdf",
+   "bytes": 142875659,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-5",
+  "publication": "pc-gamer-us",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 204,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ce429505-1b9d-4179-be31-32ca15561747",
+   "external_id": "ce429505-1b9d-4179-be31-32ca15561747",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 1, Number 7 (December 1994).pdf",
+   "bytes": 187972809,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-7",
+  "publication": "pc-gamer-us",
+  "sequence": 8,
+  "number": "1",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 190,
+  "dimensions": {
+   "width_mm": 138.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/78c2dcf2-da0f-4d6b-8008-f6eca4f4eb7a",
+   "external_id": "78c2dcf2-da0f-4d6b-8008-f6eca4f4eb7a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 1 (January 1995).pdf",
+   "bytes": 130474719,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-7",
+  "publication": "pc-gamer-us",
+  "sequence": 9,
+  "number": "2",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 158,
+  "dimensions": {
+   "width_mm": 147.7,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5af93eda-e31a-4a60-b628-bed65a5814a9",
+   "external_id": "5af93eda-e31a-4a60-b628-bed65a5814a9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 2 (February 1995).pdf",
+   "bytes": 196198523,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-5",
+  "publication": "pc-gamer-us",
+  "sequence": 10,
+  "number": "3",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 137.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/378f7b72-6c56-4993-85a6-982dc4447d57",
+   "external_id": "378f7b72-6c56-4993-85a6-982dc4447d57",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 3 (March 1995).pdf",
+   "bytes": 136715819,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-6",
+  "publication": "pc-gamer-us",
+  "sequence": 11,
+  "number": "4",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/abf3e2d6-e036-4ac5-a68f-216d23e3c975",
+   "external_id": "abf3e2d6-e036-4ac5-a68f-216d23e3c975",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 4 (April 1995).pdf",
+   "bytes": 122371637,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-6",
+  "publication": "pc-gamer-us",
+  "sequence": 12,
+  "number": "5",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 174,
+  "dimensions": {
+   "width_mm": 175.9,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/689ca027-9a29-46e3-8494-449c41aef9dc",
+   "external_id": "689ca027-9a29-46e3-8494-449c41aef9dc",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 5 (May 1995).pdf",
+   "bytes": 249241495,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-7",
+  "publication": "pc-gamer-us",
+  "sequence": 13,
+  "number": "6",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 271.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d0fdc97d-dfa5-4cc8-ac21-803b9743e62c",
+   "external_id": "d0fdc97d-dfa5-4cc8-ac21-803b9743e62c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 6 (June 1995).pdf",
+   "bytes": 126447059,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-6",
+  "publication": "pc-gamer-us",
+  "sequence": 14,
+  "number": "7",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 137.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ddfc551-4f8c-4804-93ac-6d622dbeb8d8",
+   "external_id": "5ddfc551-4f8c-4804-93ac-6d622dbeb8d8",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 7 (July 1995).pdf",
+   "bytes": 104964816,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-7",
+  "publication": "pc-gamer-us",
+  "sequence": 15,
+  "number": "8",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 203.5,
+   "height_mm": 272.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/27cc02d9-c3b4-48f6-abd5-ba165982ce98",
+   "external_id": "27cc02d9-c3b4-48f6-abd5-ba165982ce98",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 8 (August 1995).pdf",
+   "bytes": 260870520,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-6",
+  "publication": "pc-gamer-us",
+  "sequence": 16,
+  "number": "9",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/730ef514-99e7-44da-9cf8-0a82613f20a2",
+   "external_id": "730ef514-99e7-44da-9cf8-0a82613f20a2",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 9 (September 1995).pdf",
+   "bytes": 286565079,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-6",
+  "publication": "pc-gamer-us",
+  "sequence": 17,
+  "number": "10",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 138.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3dbc1eec-fed0-4b4a-9bf6-81e00cf0d77b",
+   "external_id": "3dbc1eec-fed0-4b4a-9bf6-81e00cf0d77b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 10 (October 1995).pdf",
+   "bytes": 131714416,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-7",
+  "publication": "pc-gamer-us",
+  "sequence": 18,
+  "number": "11",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 244,
+  "dimensions": {
+   "width_mm": 137.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26fcf193-eea7-4809-8b4b-196f650ad018",
+   "external_id": "26fcf193-eea7-4809-8b4b-196f650ad018",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 11 (November 1995).pdf",
+   "bytes": 206363566,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-7",
+  "publication": "pc-gamer-us",
+  "sequence": 19,
+  "number": "12",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 334,
+  "dimensions": {
+   "width_mm": 152.6,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/91e19c90-ebb2-475d-a103-b5d6e73d7748",
+   "external_id": "91e19c90-ebb2-475d-a103-b5d6e73d7748",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 2, Number 12 (December 1995).pdf",
+   "bytes": 407053327,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-8",
+  "publication": "pc-gamer-us",
+  "sequence": 20,
+  "number": "1",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 270,
+  "dimensions": {
+   "width_mm": 148.8,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/81f46151-6d48-47b3-aaf7-b7a9f6ba8ee8",
+   "external_id": "81f46151-6d48-47b3-aaf7-b7a9f6ba8ee8",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 1 (January 1996).pdf",
+   "bytes": 293025757,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-8",
+  "publication": "pc-gamer-us",
+  "sequence": 21,
+  "number": "2",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 209,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 272.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9537ddce-a0fd-40cb-970e-c75bffdf8f16",
+   "external_id": "9537ddce-a0fd-40cb-970e-c75bffdf8f16",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 2 (February 1996).pdf",
+   "bytes": 446160405,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-6",
+  "publication": "pc-gamer-us",
+  "sequence": 22,
+  "number": "3",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 190,
+  "dimensions": {
+   "width_mm": 136.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/333783ee-8cb7-4d7d-b717-b52f0eef7ad2",
+   "external_id": "333783ee-8cb7-4d7d-b717-b52f0eef7ad2",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 3 (March 1996).pdf",
+   "bytes": 161557539,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-7",
+  "publication": "pc-gamer-us",
+  "sequence": 23,
+  "number": "4",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 190,
+  "dimensions": {
+   "width_mm": 139.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38c18ad5-4371-46e8-b192-cdc1a0608df8",
+   "external_id": "38c18ad5-4371-46e8-b192-cdc1a0608df8",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 4 (April 1996).pdf",
+   "bytes": 167854493,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-7",
+  "publication": "pc-gamer-us",
+  "sequence": 24,
+  "number": "5",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 190,
+  "dimensions": {
+   "width_mm": 136.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6a0bd5e4-15fa-4c53-b007-ed297918654d",
+   "external_id": "6a0bd5e4-15fa-4c53-b007-ed297918654d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 5 (May 1996).pdf",
+   "bytes": 171443570,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-8",
+  "publication": "pc-gamer-us",
+  "sequence": 25,
+  "number": "6",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 198,
+  "dimensions": {
+   "width_mm": 137.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ba1a021-3774-409d-ba40-9d3ec2c0831d",
+   "external_id": "5ba1a021-3774-409d-ba40-9d3ec2c0831d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 6 (June 1996).pdf",
+   "bytes": 184955762,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-7",
+  "publication": "pc-gamer-us",
+  "sequence": 26,
+  "number": "7",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 166,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b67159ab-f0c1-469b-be36-7042f123bab9",
+   "external_id": "b67159ab-f0c1-469b-be36-7042f123bab9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 7 (July 1996).pdf",
+   "bytes": 125909646,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-8",
+  "publication": "pc-gamer-us",
+  "sequence": 27,
+  "number": "8",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 174,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 271.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1297352-824c-4b8c-9fe2-83ded41a5794",
+   "external_id": "f1297352-824c-4b8c-9fe2-83ded41a5794",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 8 (August 1996).pdf",
+   "bytes": 130328207,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-7",
+  "publication": "pc-gamer-us",
+  "sequence": 28,
+  "number": "9",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 200,
+  "dimensions": {
+   "width_mm": 161.5,
+   "height_mm": 216.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d9c37fa-0009-44ab-95bc-6359309d24de",
+   "external_id": "7d9c37fa-0009-44ab-95bc-6359309d24de",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 9 (September 1996).pdf",
+   "bytes": 170837865,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-7",
+  "publication": "pc-gamer-us",
+  "sequence": 29,
+  "number": "10",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 258,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 271.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3a372d5b-4ef9-4da0-b1b1-9f3c2c15c3b9",
+   "external_id": "3a372d5b-4ef9-4da0-b1b1-9f3c2c15c3b9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 10 (October 1996).pdf",
+   "bytes": 186348095,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-8",
+  "publication": "pc-gamer-us",
+  "sequence": 30,
+  "number": "11",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 349,
+  "dimensions": {
+   "width_mm": 134.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6a31e943-5f67-4c7e-9f6f-970631fc59fb",
+   "external_id": "6a31e943-5f67-4c7e-9f6f-970631fc59fb",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 11 (November 1996).pdf",
+   "bytes": 265034164,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-8",
+  "publication": "pc-gamer-us",
+  "sequence": 31,
+  "number": "12",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 455,
+  "dimensions": {
+   "width_mm": 175.8,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2274f0db-fc37-4b3c-b8f0-15bc9b3a4bf9",
+   "external_id": "2274f0db-fc37-4b3c-b8f0-15bc9b3a4bf9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 3, Number 12 (December 1996).pdf",
+   "bytes": 264001942,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-9",
+  "publication": "pc-gamer-us",
+  "sequence": 32,
+  "number": "1",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 318,
+  "dimensions": {
+   "width_mm": 154.0,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3dc73eb5-db8a-4d79-9800-e5d53dcb21d1",
+   "external_id": "3dc73eb5-db8a-4d79-9800-e5d53dcb21d1",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 1 (January 1997).pdf",
+   "bytes": 297199047,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-9",
+  "publication": "pc-gamer-us",
+  "sequence": 33,
+  "number": "2",
+  "date": {
+   "display": "February 1997",
+   "start": "1997-02",
+   "precision": "month"
+  },
+  "pages": 254,
+  "dimensions": {
+   "width_mm": 204.3,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d60b0ee3-b6c7-43b2-90c0-869aef4fb417",
+   "external_id": "d60b0ee3-b6c7-43b2-90c0-869aef4fb417",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 2 (February 1997).pdf",
+   "bytes": 171297251,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-7",
+  "publication": "pc-gamer-us",
+  "sequence": 34,
+  "number": "3",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 240,
+  "dimensions": {
+   "width_mm": 190.0,
+   "height_mm": 258.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/008599e4-9847-41aa-b24d-193d813f8d38",
+   "external_id": "008599e4-9847-41aa-b24d-193d813f8d38",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 3 (March 1997).pdf",
+   "bytes": 248066427,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-8",
+  "publication": "pc-gamer-us",
+  "sequence": 35,
+  "number": "4",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 228,
+  "dimensions": {
+   "width_mm": 160.1,
+   "height_mm": 216.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1e97ee5-ba46-480b-b86f-dccc329adb1c",
+   "external_id": "f1e97ee5-ba46-480b-b86f-dccc329adb1c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 4 (April 1997).pdf",
+   "bytes": 202722677,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 4,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-8",
+  "publication": "pc-gamer-us",
+  "sequence": 36,
+  "number": "5",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 226,
+  "dimensions": {
+   "width_mm": 189.0,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/311116d9-4dfe-4d0a-b1d5-efed69deaa8b",
+   "external_id": "311116d9-4dfe-4d0a-b1d5-efed69deaa8b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 5 (May 1997).pdf",
+   "bytes": 154873720,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-9",
+  "publication": "pc-gamer-us",
+  "sequence": 37,
+  "number": "6",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 222,
+  "dimensions": {
+   "width_mm": 383.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2485f098-e286-4e3e-ad94-03215c9c6994",
+   "external_id": "2485f098-e286-4e3e-ad94-03215c9c6994",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 6 (June 1997).pdf",
+   "bytes": 177813099,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-8",
+  "publication": "pc-gamer-us",
+  "sequence": 38,
+  "number": "7",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 292,
+  "dimensions": {
+   "width_mm": 386.8,
+   "height_mm": 270.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc60b3c6-8365-4003-a6f2-ab1feb16fc87",
+   "external_id": "bc60b3c6-8365-4003-a6f2-ab1feb16fc87",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 7 (July 1997).pdf",
+   "bytes": 209778339,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-9",
+  "publication": "pc-gamer-us",
+  "sequence": 39,
+  "number": "8",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 226,
+  "dimensions": {
+   "width_mm": 183.0,
+   "height_mm": 254.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f862dc88-7a5f-40ed-a075-6b9720f86736",
+   "external_id": "f862dc88-7a5f-40ed-a075-6b9720f86736",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 8 (August 1997).pdf",
+   "bytes": 158474668,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-8",
+  "publication": "pc-gamer-us",
+  "sequence": 40,
+  "number": "9",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 298,
+  "dimensions": {
+   "width_mm": 175.9,
+   "height_mm": 245.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6d6c2fea-14d1-4445-b553-bc6401d5f2bb",
+   "external_id": "6d6c2fea-14d1-4445-b553-bc6401d5f2bb",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 9 (September 1997).pdf",
+   "bytes": 191488014,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-9",
+  "publication": "pc-gamer-us",
+  "sequence": 41,
+  "number": "12",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 469,
+  "dimensions": {
+   "width_mm": 132.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28748f29-a1d4-4c39-82f2-7feffbada420",
+   "external_id": "28748f29-a1d4-4c39-82f2-7feffbada420",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 4, Number 12 (December 1997).pdf",
+   "bytes": 551972728,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-10",
+  "publication": "pc-gamer-us",
+  "sequence": 42,
+  "number": "1",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 393,
+  "dimensions": {
+   "width_mm": 150.9,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c2232030-8076-4c84-b6bf-59133a7d0906",
+   "external_id": "c2232030-8076-4c84-b6bf-59133a7d0906",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 1 (January 1998).pdf",
+   "bytes": 217071738,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-10",
+  "publication": "pc-gamer-us",
+  "sequence": 43,
+  "number": "2",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 281,
+  "dimensions": {
+   "width_mm": 168.8,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38141bdf-9963-4f09-9a7a-3fb55fefa4d8",
+   "external_id": "38141bdf-9963-4f09-9a7a-3fb55fefa4d8",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 2 (February 1998).pdf",
+   "bytes": 179030090,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-8",
+  "publication": "pc-gamer-us",
+  "sequence": 44,
+  "number": "3",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 246,
+  "dimensions": {
+   "width_mm": 133.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/762784bd-11d7-4370-b912-6e3a17e8ddb2",
+   "external_id": "762784bd-11d7-4370-b912-6e3a17e8ddb2",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 3 (March 1998).pdf",
+   "bytes": 187012038,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-9",
+  "publication": "pc-gamer-us",
+  "sequence": 45,
+  "number": "4",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 260,
+  "dimensions": {
+   "width_mm": 176.3,
+   "height_mm": 245.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/22287a48-39c9-4c25-b659-f842258ba9a2",
+   "external_id": "22287a48-39c9-4c25-b659-f842258ba9a2",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 4 (April 1998).pdf",
+   "bytes": 177555166,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-9",
+  "publication": "pc-gamer-us",
+  "sequence": 46,
+  "number": "5",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 246,
+  "dimensions": {
+   "width_mm": 381.5,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2e0b6d24-42f4-4314-a373-0bfbabb55c0d",
+   "external_id": "2e0b6d24-42f4-4314-a373-0bfbabb55c0d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 5 (May 1998).pdf",
+   "bytes": 197354927,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 5,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-10",
+  "publication": "pc-gamer-us",
+  "sequence": 47,
+  "number": "6",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 252,
+  "dimensions": {
+   "width_mm": 383.6,
+   "height_mm": 269.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0f49c5e-f932-4024-9351-fe4d8d52cc17",
+   "external_id": "a0f49c5e-f932-4024-9351-fe4d8d52cc17",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 6 (June 1998).pdf",
+   "bytes": 192516945,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-9",
+  "publication": "pc-gamer-us",
+  "sequence": 48,
+  "number": "7",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 268,
+  "dimensions": {
+   "width_mm": 132.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eb1f488a-dda8-4f2e-a5b3-851a91ea5d6c",
+   "external_id": "eb1f488a-dda8-4f2e-a5b3-851a91ea5d6c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 7 (July 1998).pdf",
+   "bytes": 244874023,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-10",
+  "publication": "pc-gamer-us",
+  "sequence": 49,
+  "number": "8",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 260,
+  "dimensions": {
+   "width_mm": 385.1,
+   "height_mm": 272.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/da7a6f8b-9be5-42d8-9f5c-5681d3d1ce9a",
+   "external_id": "da7a6f8b-9be5-42d8-9f5c-5681d3d1ce9a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 8 (August 1998).pdf",
+   "bytes": 201427843,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-9",
+  "publication": "pc-gamer-us",
+  "sequence": 50,
+  "number": "9",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 312,
+  "dimensions": {
+   "width_mm": 133.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/019ac935-48f6-4eca-8377-350db4959c08",
+   "external_id": "019ac935-48f6-4eca-8377-350db4959c08",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 9 (September 1998).pdf",
+   "bytes": 278309921,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-8",
+  "publication": "pc-gamer-us",
+  "sequence": 51,
+  "number": "10",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 377,
+  "dimensions": {
+   "width_mm": 197.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2be36175-b0a5-4b65-acfd-03acb22d3bd0",
+   "external_id": "2be36175-b0a5-4b65-acfd-03acb22d3bd0",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 10 (October 1998).pdf",
+   "bytes": 354420874,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-10",
+  "publication": "pc-gamer-us",
+  "sequence": 52,
+  "number": "12",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 452,
+  "dimensions": {
+   "width_mm": 197.6,
+   "height_mm": 276.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6d3b28af-5a5c-43dc-b7ee-1d0ea3c2dc41",
+   "external_id": "6d3b28af-5a5c-43dc-b7ee-1d0ea3c2dc41",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 5, Number 12 (December 1998).pdf",
+   "bytes": 360410962,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-11",
+  "publication": "pc-gamer-us",
+  "sequence": 53,
+  "number": "1",
+  "date": {
+   "display": "January 1999",
+   "start": "1999-01",
+   "precision": "month"
+  },
+  "pages": 372,
+  "dimensions": {
+   "width_mm": 133.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/40dc3788-6dfc-49b0-b52b-3afa1b1fc93e",
+   "external_id": "40dc3788-6dfc-49b0-b52b-3afa1b1fc93e",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 1 (January 1999).pdf",
+   "bytes": 246272192,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-11",
+  "publication": "pc-gamer-us",
+  "sequence": 54,
+  "number": "2",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 288,
+  "dimensions": {
+   "width_mm": 382.6,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4bea0f89-8f93-4e66-90bf-e7fd95f4e7c9",
+   "external_id": "4bea0f89-8f93-4e66-90bf-e7fd95f4e7c9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 2 (February 1999).pdf",
+   "bytes": 231841805,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-9",
+  "publication": "pc-gamer-us",
+  "sequence": 55,
+  "number": "3",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 224,
+  "dimensions": {
+   "width_mm": 381.2,
+   "height_mm": 269.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d48460a7-9bad-497c-9e98-83dbff50a3f8",
+   "external_id": "d48460a7-9bad-497c-9e98-83dbff50a3f8",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 3 (March 1999).pdf",
+   "bytes": 168518237,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-10",
+  "publication": "pc-gamer-us",
+  "sequence": 56,
+  "number": "4",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 236,
+  "dimensions": {
+   "width_mm": 382.6,
+   "height_mm": 271.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/982f5c79-f8e2-4d4e-8b35-382e307415ec",
+   "external_id": "982f5c79-f8e2-4d4e-8b35-382e307415ec",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 4 (April 1999).pdf",
+   "bytes": 187581534,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-10",
+  "publication": "pc-gamer-us",
+  "sequence": 57,
+  "number": "5",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 230,
+  "dimensions": {
+   "width_mm": 134.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eef0c691-89b6-419e-b858-2236654f0904",
+   "external_id": "eef0c691-89b6-419e-b858-2236654f0904",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 5 (May 1999).pdf",
+   "bytes": 192367558,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-11",
+  "publication": "pc-gamer-us",
+  "sequence": 58,
+  "number": "6",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 216,
+  "dimensions": {
+   "width_mm": 381.7,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2c368013-cec1-4d83-8ebb-a84078af5f38",
+   "external_id": "2c368013-cec1-4d83-8ebb-a84078af5f38",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 6 (June 1999).pdf",
+   "bytes": 163405083,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 6,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-10",
+  "publication": "pc-gamer-us",
+  "sequence": 59,
+  "number": "7",
+  "date": {
+   "display": "July 1999",
+   "start": "1999-07",
+   "precision": "month"
+  },
+  "pages": 200,
+  "dimensions": {
+   "width_mm": 380.7,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/84ff2416-6d60-4b41-9039-6d8af32ca2a4",
+   "external_id": "84ff2416-6d60-4b41-9039-6d8af32ca2a4",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 7 (July 1999).pdf",
+   "bytes": 149202042,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-11",
+  "publication": "pc-gamer-us",
+  "sequence": 60,
+  "number": "8",
+  "date": {
+   "display": "August 1999",
+   "start": "1999-08",
+   "precision": "month"
+  },
+  "pages": 198,
+  "dimensions": {
+   "width_mm": 380.0,
+   "height_mm": 270.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f3e4a8f9-c36a-4a16-bb0d-4ccbe873de0e",
+   "external_id": "f3e4a8f9-c36a-4a16-bb0d-4ccbe873de0e",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 8 (August 1999).pdf",
+   "bytes": 150195500,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-10",
+  "publication": "pc-gamer-us",
+  "sequence": 61,
+  "number": "9",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 218,
+  "dimensions": {
+   "width_mm": 378.2,
+   "height_mm": 272.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/05b166c0-c5a5-4acb-8474-caae8d2fb953",
+   "external_id": "05b166c0-c5a5-4acb-8474-caae8d2fb953",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 9 (September 1999).pdf",
+   "bytes": 170668759,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-9",
+  "publication": "pc-gamer-us",
+  "sequence": 62,
+  "number": "10",
+  "date": {
+   "display": "October 1999",
+   "start": "1999-10",
+   "precision": "month"
+  },
+  "pages": 290,
+  "dimensions": {
+   "width_mm": 377.8,
+   "height_mm": 270.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/811c735f-20cd-4630-8c84-52aeb1ce48e7",
+   "external_id": "811c735f-20cd-4630-8c84-52aeb1ce48e7",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 10 (October 1999).pdf",
+   "bytes": 231636814,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-9",
+  "publication": "pc-gamer-us",
+  "sequence": 63,
+  "number": "11",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 300,
+  "dimensions": {
+   "width_mm": 378.5,
+   "height_mm": 270.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5369caf1-ba93-4824-bc5b-82c1ad2da98d",
+   "external_id": "5369caf1-ba93-4824-bc5b-82c1ad2da98d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 11 (November 1999).pdf",
+   "bytes": 236646110,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-11",
+  "publication": "pc-gamer-us",
+  "sequence": 64,
+  "number": "12",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 276,
+  "dimensions": {
+   "width_mm": 375.4,
+   "height_mm": 272.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/072e1cc1-b25b-4a45-a51e-86f5e2f50262",
+   "external_id": "072e1cc1-b25b-4a45-a51e-86f5e2f50262",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 6, Number 12 (December 1999).pdf",
+   "bytes": 207114162,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-12",
+  "publication": "pc-gamer-us",
+  "sequence": 65,
+  "number": "1",
+  "date": {
+   "display": "2000",
+   "start": "2000",
+   "precision": "year"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 189.3,
+   "height_mm": 258.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d5ca405-5215-4647-bb86-2e08868aea48",
+   "external_id": "8d5ca405-5215-4647-bb86-2e08868aea48",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/Online Arena- The Definitive Guide to Levels, Maps, Mods, and Do-It-Yourself Levels, Edition 2000, Issue Number 1 (2000).pdf",
+   "bytes": 87526825,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-13",
+  "publication": "pc-gamer-us",
+  "sequence": 66,
+  "number": "1",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 276,
+  "dimensions": {
+   "width_mm": 378.6,
+   "height_mm": 271.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef5b4f57-eba0-4442-b1b7-de2f9604441a",
+   "external_id": "ef5b4f57-eba0-4442-b1b7-de2f9604441a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 1 (January 2000).pdf",
+   "bytes": 208594219,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-12",
+  "publication": "pc-gamer-us",
+  "sequence": 67,
+  "number": "2",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 210,
+  "dimensions": {
+   "width_mm": 132.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bdcad663-2998-4cbc-9235-e661f8c8a93f",
+   "external_id": "bdcad663-2998-4cbc-9235-e661f8c8a93f",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 2 (February 2000).pdf",
+   "bytes": 175145869,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-10",
+  "publication": "pc-gamer-us",
+  "sequence": 68,
+  "number": "3",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 195,
+  "dimensions": {
+   "width_mm": 134.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/109734a7-aef6-4ce1-aa69-7478327d269d",
+   "external_id": "109734a7-aef6-4ce1-aa69-7478327d269d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 3 (March 2000).pdf",
+   "bytes": 227792299,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-11",
+  "publication": "pc-gamer-us",
+  "sequence": 69,
+  "number": "4",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 185,
+  "dimensions": {
+   "width_mm": 140.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c1a0f03-600e-40f9-8f61-992955b84adb",
+   "external_id": "3c1a0f03-600e-40f9-8f61-992955b84adb",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 4 (April 2000).pdf",
+   "bytes": 198370566,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-11",
+  "publication": "pc-gamer-us",
+  "sequence": 70,
+  "number": "5",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 166,
+  "dimensions": {
+   "width_mm": 137.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d321e547-69f7-48f9-90be-7254f2e6704d",
+   "external_id": "d321e547-69f7-48f9-90be-7254f2e6704d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 5 (May 2000).pdf",
+   "bytes": 146355879,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-12",
+  "publication": "pc-gamer-us",
+  "sequence": 71,
+  "number": "6",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 168,
+  "dimensions": {
+   "width_mm": 139.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a3368fb-72d8-477c-8be7-02f752facb1f",
+   "external_id": "7a3368fb-72d8-477c-8be7-02f752facb1f",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 6 (June 2000).pdf",
+   "bytes": 84190556,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-11",
+  "publication": "pc-gamer-us",
+  "sequence": 72,
+  "number": "7",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 166,
+  "dimensions": {
+   "width_mm": 380.7,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/09062115-61d4-4344-80e7-3a9c6c07774f",
+   "external_id": "09062115-61d4-4344-80e7-3a9c6c07774f",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 7 (July 2000).pdf",
+   "bytes": 131988087,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 7,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-12",
+  "publication": "pc-gamer-us",
+  "sequence": 73,
+  "number": "8",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 176,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ae08e70-6744-4988-a2a9-2555015bb346",
+   "external_id": "6ae08e70-6744-4988-a2a9-2555015bb346",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 8 (August 2000).pdf",
+   "bytes": 403914084,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-11",
+  "publication": "pc-gamer-us",
+  "sequence": 74,
+  "number": "9",
+  "date": {
+   "display": "September 2000",
+   "start": "2000-09",
+   "precision": "month"
+  },
+  "pages": 188,
+  "dimensions": {
+   "width_mm": 199.6,
+   "height_mm": 271.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dcef822e-cb9b-4706-af04-817c8acfd37b",
+   "external_id": "dcef822e-cb9b-4706-af04-817c8acfd37b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 9 (September 2000).pdf",
+   "bytes": 146468436,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-10",
+  "publication": "pc-gamer-us",
+  "sequence": 75,
+  "number": "10",
+  "date": {
+   "display": "October 2000",
+   "start": "2000-10",
+   "precision": "month"
+  },
+  "pages": 214,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 271.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90e8d16d-f2b0-4e6b-8aa6-dcacc73f1255",
+   "external_id": "90e8d16d-f2b0-4e6b-8aa6-dcacc73f1255",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 10 (October 2000).pdf",
+   "bytes": 168529767,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-10",
+  "publication": "pc-gamer-us",
+  "sequence": 76,
+  "number": "11",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 244,
+  "dimensions": {
+   "width_mm": 382.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8a884275-615c-4ca0-b7d9-813e8e5a2a40",
+   "external_id": "8a884275-615c-4ca0-b7d9-813e8e5a2a40",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 11 (November 2000).pdf",
+   "bytes": 187273335,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-12",
+  "publication": "pc-gamer-us",
+  "sequence": 77,
+  "number": "12",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 266,
+  "dimensions": {
+   "width_mm": 195.3,
+   "height_mm": 272.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f39171e5-5638-4b43-bf16-b09e19a70c12",
+   "external_id": "f39171e5-5638-4b43-bf16-b09e19a70c12",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 7, Number 12 (December 2000).pdf",
+   "bytes": 488901773,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-14",
+  "publication": "pc-gamer-us",
+  "sequence": 78,
+  "number": "1",
+  "date": {
+   "display": "January 2001",
+   "start": "2001-01",
+   "precision": "month"
+  },
+  "pages": 220,
+  "dimensions": {
+   "width_mm": 379.5,
+   "height_mm": 270.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d3ef0f2e-ddcc-4d07-a8ae-77c866b4cedd",
+   "external_id": "d3ef0f2e-ddcc-4d07-a8ae-77c866b4cedd",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 1 (January 2001).pdf",
+   "bytes": 164362713,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-13",
+  "publication": "pc-gamer-us",
+  "sequence": 79,
+  "number": "2",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 154,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a15dad77-969e-4205-8bda-b86810dfb5f7",
+   "external_id": "a15dad77-969e-4205-8bda-b86810dfb5f7",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 2 (February 2001).pdf",
+   "bytes": 244184160,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-11",
+  "publication": "pc-gamer-us",
+  "sequence": 80,
+  "number": "3",
+  "date": {
+   "display": "March 2001",
+   "start": "2001-03",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 384.0,
+   "height_mm": 270.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4b2a86c5-de3c-46ee-bad2-d2c192f3c928",
+   "external_id": "4b2a86c5-de3c-46ee-bad2-d2c192f3c928",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 3 (March 2001).pdf",
+   "bytes": 99909943,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-12",
+  "publication": "pc-gamer-us",
+  "sequence": 81,
+  "number": "4",
+  "date": {
+   "display": "April 2001",
+   "start": "2001-04",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 270.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba491a16-3f6f-4f2a-ba08-a9cd7e2be562",
+   "external_id": "ba491a16-3f6f-4f2a-ba08-a9cd7e2be562",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 4 (April 2001).pdf",
+   "bytes": 98067478,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-12",
+  "publication": "pc-gamer-us",
+  "sequence": 82,
+  "number": "5",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1eb7724-5899-4f21-a278-ced05b857095",
+   "external_id": "b1eb7724-5899-4f21-a278-ced05b857095",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 5 (May 2001).pdf",
+   "bytes": 88100976,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-13",
+  "publication": "pc-gamer-us",
+  "sequence": 83,
+  "number": "6",
+  "date": {
+   "display": "June 2001",
+   "start": "2001-06",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 200.0,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d195cb23-0485-46dd-a767-f590b0937472",
+   "external_id": "d195cb23-0485-46dd-a767-f590b0937472",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 6 (June 2001).pdf",
+   "bytes": 99553440,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-12",
+  "publication": "pc-gamer-us",
+  "sequence": 84,
+  "number": "7",
+  "date": {
+   "display": "July 2001",
+   "start": "2001-07",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 142.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/86f1cc32-f128-41ee-8477-759943dd88b5",
+   "external_id": "86f1cc32-f128-41ee-8477-759943dd88b5",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 7 (July 2001).pdf",
+   "bytes": 119226395,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-13",
+  "publication": "pc-gamer-us",
+  "sequence": 85,
+  "number": "8",
+  "date": {
+   "display": "August 2001",
+   "start": "2001-08",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 196.5,
+   "height_mm": 267.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/83c0b536-f718-4816-8de9-4d730b1ac117",
+   "external_id": "83c0b536-f718-4816-8de9-4d730b1ac117",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 8 (August 2001).pdf",
+   "bytes": 169512698,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 8,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9",
+  "publication": "pc-gamer-us",
+  "sequence": 86,
+  "number": "9",
+  "date": {
+   "display": "September 2001",
+   "start": "2001-09",
+   "precision": "month"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 379.6,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e00a8913-f106-4af6-8fc4-3a38a599a4f4",
+   "external_id": "e00a8913-f106-4af6-8fc4-3a38a599a4f4",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 9, Issue 88 (September 2001).pdf",
+   "bytes": 102510266,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10",
+  "publication": "pc-gamer-us",
+  "sequence": 87,
+  "number": "10",
+  "date": {
+   "display": "October 2001",
+   "start": "2001-10",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 137.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/010ea1bd-37d6-4cb5-ac38-ac956c03142f",
+   "external_id": "010ea1bd-37d6-4cb5-ac38-ac956c03142f",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 10, Issue 89 (October 2001).pdf",
+   "bytes": 179242964,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12",
+  "publication": "pc-gamer-us",
+  "sequence": 88,
+  "number": "12",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 168,
+  "dimensions": {
+   "width_mm": 136.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bd7350a5-4c40-4852-8742-6c5d94b32fb9",
+   "external_id": "bd7350a5-4c40-4852-8742-6c5d94b32fb9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 8, Number 12, Issue 91 (December 2001).pdf",
+   "bytes": 217189608,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1",
+  "publication": "pc-gamer-us",
+  "sequence": 89,
+  "number": "1",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 380.8,
+   "height_mm": 264.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e835e582-f67b-4cdb-8265-edd052b7fc94",
+   "external_id": "e835e582-f67b-4cdb-8265-edd052b7fc94",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 1, Issue 93 (January 2002).pdf",
+   "bytes": 121396963,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2",
+  "publication": "pc-gamer-us",
+  "sequence": 90,
+  "number": "2",
+  "date": {
+   "display": "February 2002",
+   "start": "2002-02",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 197.9,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f9002528-65c5-4cb2-a875-a0e798c90a06",
+   "external_id": "f9002528-65c5-4cb2-a875-a0e798c90a06",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 2, Issue 94 (February 2002).pdf",
+   "bytes": 148158027,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3",
+  "publication": "pc-gamer-us",
+  "sequence": 91,
+  "number": "3",
+  "date": {
+   "display": "March 2002",
+   "start": "2002-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 198.0,
+   "height_mm": 263.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/72fbabfb-2183-4423-9ae8-54bffe844168",
+   "external_id": "72fbabfb-2183-4423-9ae8-54bffe844168",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 3, Issue 95 (March 2002).pdf",
+   "bytes": 147000701,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4",
+  "publication": "pc-gamer-us",
+  "sequence": 92,
+  "number": "4",
+  "date": {
+   "display": "April 2002",
+   "start": "2002-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.6,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/187c7d3c-e90a-4499-9216-cc2d6ed34348",
+   "external_id": "187c7d3c-e90a-4499-9216-cc2d6ed34348",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 4, Issue 96 (April 2002).pdf",
+   "bytes": 154579589,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5",
+  "publication": "pc-gamer-us",
+  "sequence": 93,
+  "number": "5",
+  "date": {
+   "display": "May 2002",
+   "start": "2002-05",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 198.9,
+   "height_mm": 265.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a56fed0-ae89-4e56-ba43-8c1d4953a477",
+   "external_id": "7a56fed0-ae89-4e56-ba43-8c1d4953a477",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 5, Issue 97 (May 2002).pdf",
+   "bytes": 147484141,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6",
+  "publication": "pc-gamer-us",
+  "sequence": 94,
+  "number": "6",
+  "date": {
+   "display": "June 2002",
+   "start": "2002-06",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 379.3,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/14b38171-4670-466d-87bd-64f36fd1bd0d",
+   "external_id": "14b38171-4670-466d-87bd-64f36fd1bd0d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 6, Issue 98 (June 2002).pdf",
+   "bytes": 137783389,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7",
+  "publication": "pc-gamer-us",
+  "sequence": 95,
+  "number": "7",
+  "date": {
+   "display": "July 2002",
+   "start": "2002-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 379.1,
+   "height_mm": 263.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a996444-f0c3-460d-a2f8-928d41db6873",
+   "external_id": "0a996444-f0c3-460d-a2f8-928d41db6873",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 7, Issue 99 (July 2002).pdf",
+   "bytes": 84370578,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8",
+  "publication": "pc-gamer-us",
+  "sequence": 96,
+  "number": "8",
+  "date": {
+   "display": "August 2002",
+   "start": "2002-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 382.9,
+   "height_mm": 265.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1fc17e81-35c0-4904-977a-04b885c36b57",
+   "external_id": "1fc17e81-35c0-4904-977a-04b885c36b57",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 8, Issue 100 (August 2002).pdf",
+   "bytes": 80411303,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-2",
+  "publication": "pc-gamer-us",
+  "sequence": 97,
+  "number": "9",
+  "date": {
+   "display": "September 2002",
+   "start": "2002-09",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 381.4,
+   "height_mm": 264.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2fab1d26-7277-4e0d-8fe6-be86e79f152c",
+   "external_id": "2fab1d26-7277-4e0d-8fe6-be86e79f152c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 9, Issue 101 (September 2002).pdf",
+   "bytes": 94749633,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 9,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-2",
+  "publication": "pc-gamer-us",
+  "sequence": 98,
+  "number": "10",
+  "date": {
+   "display": "October 2002",
+   "start": "2002-10",
+   "precision": "month"
+  },
+  "pages": 158,
+  "dimensions": {
+   "width_mm": 377.9,
+   "height_mm": 264.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1c299088-ed0b-40b2-9c91-d44906524958",
+   "external_id": "1c299088-ed0b-40b2-9c91-d44906524958",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 10, Issue 102 (October 2002).pdf",
+   "bytes": 112121872,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11",
+  "publication": "pc-gamer-us",
+  "sequence": 99,
+  "number": "11",
+  "date": {
+   "display": "November 2002",
+   "start": "2002-11",
+   "precision": "month"
+  },
+  "pages": 180,
+  "dimensions": {
+   "width_mm": 379.6,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/244b48fa-3a00-4438-943b-097e75a72e95",
+   "external_id": "244b48fa-3a00-4438-943b-097e75a72e95",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 11, Issue 103 (November 2002).pdf",
+   "bytes": 133297418,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-2",
+  "publication": "pc-gamer-us",
+  "sequence": 100,
+  "number": "12",
+  "date": {
+   "display": "December 2002",
+   "start": "2002-12",
+   "precision": "month"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 381.1,
+   "height_mm": 264.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/388768f6-4f2c-43cf-b28a-771e24701574",
+   "external_id": "388768f6-4f2c-43cf-b28a-771e24701574",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 12, Issue 104 (December 2002).pdf",
+   "bytes": 129606523,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-13",
+  "publication": "pc-gamer-us",
+  "sequence": 101,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2002",
+   "start": "2002-12",
+   "precision": "season"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 379.8,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aa8a20ea-56f6-4906-ac7d-a1960001c1c1",
+   "external_id": "aa8a20ea-56f6-4906-ac7d-a1960001c1c1",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 9, Number 13, Issue 105 (Holiday 2002).pdf",
+   "bytes": 122521266,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-2",
+  "publication": "pc-gamer-us",
+  "sequence": 102,
+  "number": "6",
+  "date": {
+   "display": "June 2003",
+   "start": "2003-06",
+   "precision": "month"
+  },
+  "pages": 130,
+  "dimensions": {
+   "width_mm": 137.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29f3a670-f396-4f87-b417-7fcd3c787d0e",
+   "external_id": "29f3a670-f396-4f87-b417-7fcd3c787d0e",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 10, Number 6, Issue 111 (June 2003).pdf",
+   "bytes": 136371417,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-2",
+  "publication": "pc-gamer-us",
+  "sequence": 103,
+  "number": "8",
+  "date": {
+   "display": "August 2003",
+   "start": "2003-08",
+   "precision": "month"
+  },
+  "pages": 113,
+  "dimensions": {
+   "width_mm": 137.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ea54410-97eb-47eb-a6be-c0dcacbc7f07",
+   "external_id": "6ea54410-97eb-47eb-a6be-c0dcacbc7f07",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 10, Number 8, Issue 113 (August 2003).pdf",
+   "bytes": 148193972,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-2",
+  "publication": "pc-gamer-us",
+  "sequence": 104,
+  "number": "11",
+  "date": {
+   "display": "November 2003",
+   "start": "2003-11",
+   "precision": "month"
+  },
+  "pages": 182,
+  "dimensions": {
+   "width_mm": 137.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d919a577-c4ca-4573-af97-85923c055273",
+   "external_id": "d919a577-c4ca-4573-af97-85923c055273",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 10, Number 11, Issue 116 (November 2003).pdf",
+   "bytes": 235684458,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-2",
+  "publication": "pc-gamer-us",
+  "sequence": 105,
+  "number": "1",
+  "date": {
+   "display": "January 2004",
+   "start": "2004-01",
+   "precision": "month"
+  },
+  "pages": 151,
+  "dimensions": {
+   "width_mm": 136.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df22f1e7-b1b9-4ba8-b31a-ee7fa236c9d0",
+   "external_id": "df22f1e7-b1b9-4ba8-b31a-ee7fa236c9d0",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 1, Issue 119 (January 2004).pdf",
+   "bytes": 196594266,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-2",
+  "publication": "pc-gamer-us",
+  "sequence": 106,
+  "number": "2",
+  "date": {
+   "display": "February 2004",
+   "start": "2004-02",
+   "precision": "month"
+  },
+  "pages": 117,
+  "dimensions": {
+   "width_mm": 136.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4fe98365-bc1b-49bf-87b8-e950e6821950",
+   "external_id": "4fe98365-bc1b-49bf-87b8-e950e6821950",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 2, Issue 120 (February 2004).pdf",
+   "bytes": 156290980,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-2",
+  "publication": "pc-gamer-us",
+  "sequence": 107,
+  "number": "3",
+  "date": {
+   "display": "March 2004",
+   "start": "2004-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cd574235-6da1-4661-bd89-9b373297d16d",
+   "external_id": "cd574235-6da1-4661-bd89-9b373297d16d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 3, Issue 121 (March 2004).pdf",
+   "bytes": 142627372,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-2",
+  "publication": "pc-gamer-us",
+  "sequence": 108,
+  "number": "4",
+  "date": {
+   "display": "April 2004",
+   "start": "2004-04",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ed3712ab-f6d8-45db-8317-9ec7b70c0fda",
+   "external_id": "ed3712ab-f6d8-45db-8317-9ec7b70c0fda",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 4, Issue 122 (April 2004).pdf",
+   "bytes": 161389050,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-2",
+  "publication": "pc-gamer-us",
+  "sequence": 109,
+  "number": "5",
+  "date": {
+   "display": "May 2004",
+   "start": "2004-05",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6a4d3f57-fbc6-465a-8969-4cb15d41ebd2",
+   "external_id": "6a4d3f57-fbc6-465a-8969-4cb15d41ebd2",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 5, Issue 123 (May 2004).pdf",
+   "bytes": 140288738,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-3",
+  "publication": "pc-gamer-us",
+  "sequence": 110,
+  "number": "6",
+  "date": {
+   "display": "June 2004",
+   "start": "2004-06",
+   "precision": "month"
+  },
+  "pages": 121,
+  "dimensions": {
+   "width_mm": 141.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a50c57ed-7a21-4b1e-a18d-383b3a9dfe03",
+   "external_id": "a50c57ed-7a21-4b1e-a18d-383b3a9dfe03",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 6, Issue 124 (June 2004).pdf",
+   "bytes": 161858258,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-2",
+  "publication": "pc-gamer-us",
+  "sequence": 111,
+  "number": "7",
+  "date": {
+   "display": "July 2004",
+   "start": "2004-07",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 141.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4dfe8592-7ba7-41cd-aaa2-df24ac8a62d9",
+   "external_id": "4dfe8592-7ba7-41cd-aaa2-df24ac8a62d9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 7, Issue 125 (July 2004).pdf",
+   "bytes": 152501106,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-3",
+  "publication": "pc-gamer-us",
+  "sequence": 112,
+  "number": "8",
+  "date": {
+   "display": "August 2004",
+   "start": "2004-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98bf53bb-1a08-4481-81a3-bc5cab52c54e",
+   "external_id": "98bf53bb-1a08-4481-81a3-bc5cab52c54e",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 8, Issue 126 (August 2004).pdf",
+   "bytes": 129035372,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-3",
+  "publication": "pc-gamer-us",
+  "sequence": 113,
+  "number": "9",
+  "date": {
+   "display": "September 2004",
+   "start": "2004-09",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 195.8,
+   "height_mm": 269.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/541bfc62-1fef-493b-ab52-b65fb1313304",
+   "external_id": "541bfc62-1fef-493b-ab52-b65fb1313304",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 9, Issue 127 (September 2004).pdf",
+   "bytes": 264506062,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-3",
+  "publication": "pc-gamer-us",
+  "sequence": 114,
+  "number": "10",
+  "date": {
+   "display": "October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 139,
+  "dimensions": {
+   "width_mm": 136.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9e4b39d7-b59f-455d-8100-cc747b86b3ac",
+   "external_id": "9e4b39d7-b59f-455d-8100-cc747b86b3ac",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 10, Issue 128 (October 2004).pdf",
+   "bytes": 194499368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-3",
+  "publication": "pc-gamer-us",
+  "sequence": 115,
+  "number": "11",
+  "date": {
+   "display": "November 2004",
+   "start": "2004-11",
+   "precision": "month"
+  },
+  "pages": 153,
+  "dimensions": {
+   "width_mm": 138.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/518f21ec-32ab-4b7d-8d96-1d3e45cd2234",
+   "external_id": "518f21ec-32ab-4b7d-8d96-1d3e45cd2234",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 11, Issue 129 (November 2004).pdf",
+   "bytes": 201174811,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 11,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-3",
+  "publication": "pc-gamer-us",
+  "sequence": 116,
+  "number": "12",
+  "date": {
+   "display": "December 2004",
+   "start": "2004-12",
+   "precision": "month"
+  },
+  "pages": 157,
+  "dimensions": {
+   "width_mm": 136.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9e4f8ca7-3531-4e70-8aae-384da2868fc1",
+   "external_id": "9e4f8ca7-3531-4e70-8aae-384da2868fc1",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 12, Issue 130 (December 2004).pdf",
+   "bytes": 217813894,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-13-2",
+  "publication": "pc-gamer-us",
+  "sequence": 117,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2004",
+   "start": "2004-12",
+   "precision": "season"
+  },
+  "pages": 145,
+  "dimensions": {
+   "width_mm": 137.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/676b9787-3182-4d4c-99c9-9601f5b8ce94",
+   "external_id": "676b9787-3182-4d4c-99c9-9601f5b8ce94",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 11, Number 13, Issue 131 (Holiday 2004).pdf",
+   "bytes": 196765541,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-13-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-3",
+  "publication": "pc-gamer-us",
+  "sequence": 118,
+  "number": "4",
+  "date": {
+   "display": "April 2005",
+   "start": "2005-04",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0b35ee1a-ce5b-4f37-beb9-b4ed2632e6cf",
+   "external_id": "0b35ee1a-ce5b-4f37-beb9-b4ed2632e6cf",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 12, Number 4, Issue 135 (April 2005).pdf",
+   "bytes": 86876999,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-4",
+  "publication": "pc-gamer-us",
+  "sequence": 119,
+  "number": "8",
+  "date": {
+   "display": "August 2005",
+   "start": "2005-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.9,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/131ac2f5-0215-42c9-a51d-f11e07c20afa",
+   "external_id": "131ac2f5-0215-42c9-a51d-f11e07c20afa",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 12, Number 8, Issue 139 (August 2005).pdf",
+   "bytes": 82305281,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-4",
+  "publication": "pc-gamer-us",
+  "sequence": 120,
+  "number": "11",
+  "date": {
+   "display": "November 2005",
+   "start": "2005-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/46a8d26a-9025-4921-81d1-bfbbdca3173b",
+   "external_id": "46a8d26a-9025-4921-81d1-bfbbdca3173b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 12, Number 11, Issue 142 (November 2005).pdf",
+   "bytes": 96993862,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-4",
+  "publication": "pc-gamer-us",
+  "sequence": 121,
+  "number": "12",
+  "date": {
+   "display": "December 2005",
+   "start": "2005-12",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 381.8,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7ae74772-a744-4365-b0a9-d4ca6f2fb30f",
+   "external_id": "7ae74772-a744-4365-b0a9-d4ca6f2fb30f",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 12, Number 12, Issue 143 (December 2005).pdf",
+   "bytes": 118620193,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 12,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-13-3",
+  "publication": "pc-gamer-us",
+  "sequence": 122,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2005",
+   "start": "2005-12",
+   "precision": "season"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 136.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/22a79a22-ce86-4690-81c0-5e3f353f6a05",
+   "external_id": "22a79a22-ce86-4690-81c0-5e3f353f6a05",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 12, Number 13, Issue 144 (Holiday 2005).pdf",
+   "bytes": 121943701,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-13-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-3",
+  "publication": "pc-gamer-us",
+  "sequence": 123,
+  "number": "1",
+  "date": {
+   "display": "January 2006",
+   "start": "2006-01",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 198.0,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a9b7ef1-f0f3-405e-8658-a7cf9e12d26e",
+   "external_id": "0a9b7ef1-f0f3-405e-8658-a7cf9e12d26e",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 1, Issue 145 (January 2006).pdf",
+   "bytes": 97936104,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-3",
+  "publication": "pc-gamer-us",
+  "sequence": 124,
+  "number": "2",
+  "date": {
+   "display": "February 2006",
+   "start": "2006-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 265.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/01232a50-71e1-4841-be55-d4bc9c9ab04c",
+   "external_id": "01232a50-71e1-4841-be55-d4bc9c9ab04c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 2, Issue 146 (February 2006).pdf",
+   "bytes": 79744305,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-12",
+  "publication": "pc-gamer-us",
+  "sequence": 125,
+  "number": "3",
+  "date": {
+   "display": "March 2006",
+   "start": "2006-03",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 141.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/73f7ae37-e74c-4178-8dcc-56ac4b64d981",
+   "external_id": "73f7ae37-e74c-4178-8dcc-56ac4b64d981",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 3, Issue 147a (March 2006).pdf",
+   "bytes": 145076459,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-13",
+  "publication": "pc-gamer-us",
+  "sequence": 126,
+  "number": "4",
+  "date": {
+   "display": "April 2006",
+   "start": "2006-04",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 199.6,
+   "height_mm": 266.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6870a54d-fac1-4057-aa44-eaaf6857070e",
+   "external_id": "6870a54d-fac1-4057-aa44-eaaf6857070e",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 4, Issue 147b (April 2006).pdf",
+   "bytes": 89554296,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-3",
+  "publication": "pc-gamer-us",
+  "sequence": 127,
+  "number": "5",
+  "date": {
+   "display": "May 2006",
+   "start": "2006-05",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 198.7,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba7e627d-ebcf-402c-9af5-667daaebd020",
+   "external_id": "ba7e627d-ebcf-402c-9af5-667daaebd020",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 5, Issue 148 (May 2006).pdf",
+   "bytes": 87773749,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-4",
+  "publication": "pc-gamer-us",
+  "sequence": 128,
+  "number": "6",
+  "date": {
+   "display": "June 2006",
+   "start": "2006-06",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 200.0,
+   "height_mm": 265.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c8649c62-84b3-467d-8d65-4631bb06f3fc",
+   "external_id": "c8649c62-84b3-467d-8d65-4631bb06f3fc",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 6, Issue 149 (June 2006).pdf",
+   "bytes": 95279133,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-3",
+  "publication": "pc-gamer-us",
+  "sequence": 129,
+  "number": "7",
+  "date": {
+   "display": "July 2006",
+   "start": "2006-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 197.9,
+   "height_mm": 267.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c3232623-80ed-4b91-a031-d79c72778c2b",
+   "external_id": "c3232623-80ed-4b91-a031-d79c72778c2b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 7, Issue 150 (July 2006).pdf",
+   "bytes": 85607632,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-5",
+  "publication": "pc-gamer-us",
+  "sequence": 130,
+  "number": "8",
+  "date": {
+   "display": "August 2006",
+   "start": "2006-08",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 199.6,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/809c4d3b-030e-461f-87b4-2010064ad047",
+   "external_id": "809c4d3b-030e-461f-87b4-2010064ad047",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 8, Issue 151 (August 2006).pdf",
+   "bytes": 82285811,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-4",
+  "publication": "pc-gamer-us",
+  "sequence": 131,
+  "number": "9",
+  "date": {
+   "display": "September 2006",
+   "start": "2006-09",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 141.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38afb2ac-7e0a-478e-b86a-8b72afe7f59a",
+   "external_id": "38afb2ac-7e0a-478e-b86a-8b72afe7f59a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 9, Issue 152 (September 2006).pdf",
+   "bytes": 135966999,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-4",
+  "publication": "pc-gamer-us",
+  "sequence": 132,
+  "number": "10",
+  "date": {
+   "display": "October 2006",
+   "start": "2006-10",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 199.7,
+   "height_mm": 268.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6042b672-40ac-4a86-aa5e-cf856240ef9a",
+   "external_id": "6042b672-40ac-4a86-aa5e-cf856240ef9a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 10, Issue 153 (October 2006).pdf",
+   "bytes": 97557437,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-5",
+  "publication": "pc-gamer-us",
+  "sequence": 133,
+  "number": "11",
+  "date": {
+   "display": "November 2006",
+   "start": "2006-11",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 267.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6f60d159-7fa9-4051-b1af-1f2088e92976",
+   "external_id": "6f60d159-7fa9-4051-b1af-1f2088e92976",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 11, Issue 154 (November 2006).pdf",
+   "bytes": 111685742,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-5",
+  "publication": "pc-gamer-us",
+  "sequence": 134,
+  "number": "12",
+  "date": {
+   "display": "December 2006",
+   "start": "2006-12",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 200.4,
+   "height_mm": 267.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec20ef30-066c-403c-a92d-f3b43b9df8cf",
+   "external_id": "ec20ef30-066c-403c-a92d-f3b43b9df8cf",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 12, Issue 155 (December 2006).pdf",
+   "bytes": 113124057,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-13-4",
+  "publication": "pc-gamer-us",
+  "sequence": 135,
+  "number": "13",
+  "date": {
+   "display": "Holiday 2006",
+   "start": "2006-12",
+   "precision": "season"
+  },
+  "pages": 160,
+  "dimensions": {
+   "width_mm": 199.8,
+   "height_mm": 268.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9347d1ac-7334-4395-9b0a-414d7602612a",
+   "external_id": "9347d1ac-7334-4395-9b0a-414d7602612a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 13, Number 13, Issue 156 (Holiday 2006).pdf",
+   "bytes": 127496535,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 13,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-13-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-4",
+  "publication": "pc-gamer-us",
+  "sequence": 136,
+  "number": "1",
+  "date": {
+   "display": "January 2007",
+   "start": "2007-01",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 384.9,
+   "height_mm": 265.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4ade6788-15bc-423d-81b8-7e8b3d36c148",
+   "external_id": "4ade6788-15bc-423d-81b8-7e8b3d36c148",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 1, Issue 157 (January 2007).pdf",
+   "bytes": 93344054,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-4",
+  "publication": "pc-gamer-us",
+  "sequence": 137,
+  "number": "2",
+  "date": {
+   "display": "February 2007",
+   "start": "2007-02",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 382.2,
+   "height_mm": 267.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d526bc0-632f-45a4-89f2-6811cc77d653",
+   "external_id": "1d526bc0-632f-45a4-89f2-6811cc77d653",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 2, Issue 158 (February 2007).pdf",
+   "bytes": 90470628,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-3-3",
+  "publication": "pc-gamer-us",
+  "sequence": 138,
+  "number": "3",
+  "date": {
+   "display": "March 2007",
+   "start": "2007-03",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 382.7,
+   "height_mm": 268.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aab36077-b4d9-42de-81c9-d6f4921df9c9",
+   "external_id": "aab36077-b4d9-42de-81c9-d6f4921df9c9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 3, Issue 159 (March 2007).pdf",
+   "bytes": 88247717,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-4-4",
+  "publication": "pc-gamer-us",
+  "sequence": 139,
+  "number": "4",
+  "date": {
+   "display": "April 2007",
+   "start": "2007-04",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 141.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/317a967e-e151-449e-b5b3-fe613be24026",
+   "external_id": "317a967e-e151-449e-b5b3-fe613be24026",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 4, Issue 160 (April 2007).pdf",
+   "bytes": 143140875,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-4-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-5-4",
+  "publication": "pc-gamer-us",
+  "sequence": 140,
+  "number": "5",
+  "date": {
+   "display": "May 2007",
+   "start": "2007-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 140.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/627fce59-5340-4efd-8e1b-a975ddb4ab18",
+   "external_id": "627fce59-5340-4efd-8e1b-a975ddb4ab18",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 5, Issue 161 (May 2007).pdf",
+   "bytes": 127306242,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-5-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-6-5",
+  "publication": "pc-gamer-us",
+  "sequence": 141,
+  "number": "6",
+  "date": {
+   "display": "June 2007",
+   "start": "2007-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 267.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a5c9faf1-4fa7-4942-87a8-d2b34181faa7",
+   "external_id": "a5c9faf1-4fa7-4942-87a8-d2b34181faa7",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 6, Issue 162 (June 2007).pdf",
+   "bytes": 80402472,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-6-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-7-4",
+  "publication": "pc-gamer-us",
+  "sequence": 142,
+  "number": "7",
+  "date": {
+   "display": "July 2007",
+   "start": "2007-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 197.9,
+   "height_mm": 263.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/327d32f9-5d37-4878-ab60-00f91561c31b",
+   "external_id": "327d32f9-5d37-4878-ab60-00f91561c31b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 7, Issue 163 (July 2007).pdf",
+   "bytes": 86053746,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-7-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-8-6",
+  "publication": "pc-gamer-us",
+  "sequence": 143,
+  "number": "8",
+  "date": {
+   "display": "August 2007",
+   "start": "2007-08",
+   "precision": "month"
+  },
+  "pages": 111,
+  "dimensions": {
+   "width_mm": 141.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8f786f91-40dd-4f9d-b2cd-97d4b7895adf",
+   "external_id": "8f786f91-40dd-4f9d-b2cd-97d4b7895adf",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 8, Issue 164 (August 2007).pdf",
+   "bytes": 138535192,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-8-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-9-5",
+  "publication": "pc-gamer-us",
+  "sequence": 144,
+  "number": "9",
+  "date": {
+   "display": "September 2007",
+   "start": "2007-09",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 198.0,
+   "height_mm": 268.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b5a6334a-e697-4a2f-a5f4-f7201ac80ef5",
+   "external_id": "b5a6334a-e697-4a2f-a5f4-f7201ac80ef5",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 9, Issue 165 (September 2007).pdf",
+   "bytes": 97616302,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-9-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-10-5",
+  "publication": "pc-gamer-us",
+  "sequence": 145,
+  "number": "10",
+  "date": {
+   "display": "October 2007",
+   "start": "2007-10",
+   "precision": "month"
+  },
+  "pages": 111,
+  "dimensions": {
+   "width_mm": 141.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fededd49-8bf1-4136-ab48-c37494a63c0f",
+   "external_id": "fededd49-8bf1-4136-ab48-c37494a63c0f",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 10, Issue 166 (October 2007).pdf",
+   "bytes": 135605402,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-10-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-11-6",
+  "publication": "pc-gamer-us",
+  "sequence": 146,
+  "number": "11",
+  "date": {
+   "display": "November 2007",
+   "start": "2007-11",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 197.6,
+   "height_mm": 263.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/531e80e0-d9d0-4d65-bf82-6dbe951043b0",
+   "external_id": "531e80e0-d9d0-4d65-bf82-6dbe951043b0",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 11, Issue 167 (November 2007).pdf",
+   "bytes": 117647584,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-11-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-12-6",
+  "publication": "pc-gamer-us",
+  "sequence": 147,
+  "number": "12",
+  "date": {
+   "display": "December 2007",
+   "start": "2007-12",
+   "precision": "month"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 198.6,
+   "height_mm": 268.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8e61c296-b09b-471c-a395-48ae03bfc0a1",
+   "external_id": "8e61c296-b09b-471c-a395-48ae03bfc0a1",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 12, Issue 168 (December 2007).pdf",
+   "bytes": 114661674,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-12-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-14",
+  "publication": "pc-gamer-us",
+  "sequence": 148,
+  "number": "14",
+  "date": {
+   "display": "Holiday 2007",
+   "start": "2007-12",
+   "precision": "season"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 139.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba762365-dc72-406c-809e-b078efdf8719",
+   "external_id": "ba762365-dc72-406c-809e-b078efdf8719",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 14, Number 14, Issue 169 (Holiday 2007).pdf",
+   "bytes": 202992309,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "volume": 14,
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-1-5",
+  "publication": "pc-gamer-us",
+  "sequence": 149,
+  "number": "1",
+  "date": {
+   "display": "January 2008",
+   "start": "2008-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 200.3,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/69b2c0c2-fe4a-4b3a-842d-52d4ee4883c6",
+   "external_id": "69b2c0c2-fe4a-4b3a-842d-52d4ee4883c6",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 15, Number 1, Issue 170 (January 2008).pdf",
+   "bytes": 129470627,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-1-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-2-5",
+  "publication": "pc-gamer-us",
+  "sequence": 150,
+  "number": "2",
+  "date": {
+   "display": "February 2008",
+   "start": "2008-02",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 141.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6cc98d3-b40d-4688-aaa7-a01a5000b9da",
+   "external_id": "a6cc98d3-b40d-4688-aaa7-a01a5000b9da",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Volume 15, Number 2, Issue 171 (February 2008).pdf",
+   "bytes": 133094029,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-2-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-172",
+  "publication": "pc-gamer-us",
+  "sequence": 151,
+  "number": "172",
+  "date": {
+   "display": "March 2008",
+   "start": "2008-03",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 197.7,
+   "height_mm": 263.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7f33e868-247d-4acb-abe7-170d4f321a94",
+   "external_id": "7f33e868-247d-4acb-abe7-170d4f321a94",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 172 (March 2008).pdf",
+   "bytes": 94530045,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-172.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-173",
+  "publication": "pc-gamer-us",
+  "sequence": 152,
+  "number": "173",
+  "date": {
+   "display": "April 2008",
+   "start": "2008-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.7,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2a63b99a-4f9a-47e8-ace3-98beaca25e0d",
+   "external_id": "2a63b99a-4f9a-47e8-ace3-98beaca25e0d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 173 (April 2008).pdf",
+   "bytes": 81835331,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-173.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-174",
+  "publication": "pc-gamer-us",
+  "sequence": 153,
+  "number": "174",
+  "date": {
+   "display": "May 2008",
+   "start": "2008-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/457b8ab5-448f-4be0-87da-1c26dcffa5f7",
+   "external_id": "457b8ab5-448f-4be0-87da-1c26dcffa5f7",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 174 (May 2008).pdf",
+   "bytes": 77715612,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-174.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-175",
+  "publication": "pc-gamer-us",
+  "sequence": 154,
+  "number": "175",
+  "date": {
+   "display": "June 2008",
+   "start": "2008-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.0,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/383cb531-78f8-45b5-917f-766df47ab8e0",
+   "external_id": "383cb531-78f8-45b5-917f-766df47ab8e0",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 175 (June 2008).pdf",
+   "bytes": 79437060,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-175.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-176",
+  "publication": "pc-gamer-us",
+  "sequence": 155,
+  "number": "176",
+  "date": {
+   "display": "July 2008",
+   "start": "2008-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.4,
+   "height_mm": 265.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8e9d56ed-f94e-4a5b-8050-da23397fd4b6",
+   "external_id": "8e9d56ed-f94e-4a5b-8050-da23397fd4b6",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 176 (July 2008).pdf",
+   "bytes": 79851004,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-176.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-177",
+  "publication": "pc-gamer-us",
+  "sequence": 156,
+  "number": "177",
+  "date": {
+   "display": "August 2008",
+   "start": "2008-08",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 198.2,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b49532f2-3d5e-4b3e-aa40-beb30fc19ce5",
+   "external_id": "b49532f2-3d5e-4b3e-aa40-beb30fc19ce5",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 177 (August 2008).pdf",
+   "bytes": 83506807,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-177.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-179",
+  "publication": "pc-gamer-us",
+  "sequence": 157,
+  "number": "179",
+  "date": {
+   "display": "October 2008",
+   "start": "2008-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1e5de18f-1386-4b5e-a9ed-7854f9b49d8a",
+   "external_id": "1e5de18f-1386-4b5e-a9ed-7854f9b49d8a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 179 (October 2008).pdf",
+   "bytes": 80580806,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-179.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-180",
+  "publication": "pc-gamer-us",
+  "sequence": 158,
+  "number": "180",
+  "date": {
+   "display": "November 2008",
+   "start": "2008-11",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c664366-62a4-476f-bbad-a09af57b8841",
+   "external_id": "6c664366-62a4-476f-bbad-a09af57b8841",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 180 (November 2008).pdf",
+   "bytes": 86830265,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-180.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-181",
+  "publication": "pc-gamer-us",
+  "sequence": 159,
+  "number": "181",
+  "date": {
+   "display": "December 2008",
+   "start": "2008-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.1,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ffd32c9e-9d71-4bbd-bb48-7f14b43cb376",
+   "external_id": "ffd32c9e-9d71-4bbd-bb48-7f14b43cb376",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 181 (December 2008).pdf",
+   "bytes": 75683533,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-181.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-182",
+  "publication": "pc-gamer-us",
+  "sequence": 160,
+  "number": "182",
+  "date": {
+   "display": "Holiday 2008",
+   "start": "2008-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 265.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b256eebe-d013-40d0-beba-855b1b0e2959",
+   "external_id": "b256eebe-d013-40d0-beba-855b1b0e2959",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 182 (Holiday 2008).pdf",
+   "bytes": 83849199,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-182.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-183",
+  "publication": "pc-gamer-us",
+  "sequence": 161,
+  "number": "183",
+  "date": {
+   "display": "January 2009",
+   "start": "2009-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.3,
+   "height_mm": 263.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50f99fe5-dbd1-465b-a639-ba21240249a7",
+   "external_id": "50f99fe5-dbd1-465b-a639-ba21240249a7",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 183 (January 2009).pdf",
+   "bytes": 76687769,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-183.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-184",
+  "publication": "pc-gamer-us",
+  "sequence": 162,
+  "number": "184",
+  "date": {
+   "display": "February 2009",
+   "start": "2009-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 266.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ff75e8d-b2f4-4b39-b84c-8069f2966e4c",
+   "external_id": "6ff75e8d-b2f4-4b39-b84c-8069f2966e4c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 184 (February 2009).pdf",
+   "bytes": 85796940,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-184.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-185",
+  "publication": "pc-gamer-us",
+  "sequence": 163,
+  "number": "185",
+  "date": {
+   "display": "March 2009",
+   "start": "2009-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.3,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/122d0000-f7f5-4fbc-a782-94e8585ae8b2",
+   "external_id": "122d0000-f7f5-4fbc-a782-94e8585ae8b2",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 185 (March 2009).pdf",
+   "bytes": 78400119,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-185.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-187",
+  "publication": "pc-gamer-us",
+  "sequence": 164,
+  "number": "187",
+  "date": {
+   "display": "May 2009",
+   "start": "2009-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.6,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/850b4812-eec5-46f2-bf49-4649ab2f6c6c",
+   "external_id": "850b4812-eec5-46f2-bf49-4649ab2f6c6c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 187 (May 2009).pdf",
+   "bytes": 80248821,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-187.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-188",
+  "publication": "pc-gamer-us",
+  "sequence": 165,
+  "number": "188",
+  "date": {
+   "display": "June 2009",
+   "start": "2009-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.0,
+   "height_mm": 263.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b013c9a8-a5cd-4e03-af64-06cb82950ac5",
+   "external_id": "b013c9a8-a5cd-4e03-af64-06cb82950ac5",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 188 (June 2009).pdf",
+   "bytes": 83993377,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-188.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-189",
+  "publication": "pc-gamer-us",
+  "sequence": 166,
+  "number": "189",
+  "date": {
+   "display": "July 2009",
+   "start": "2009-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.4,
+   "height_mm": 263.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/55808150-4913-438e-83b9-e8b7abec278f",
+   "external_id": "55808150-4913-438e-83b9-e8b7abec278f",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 189 (July 2009).pdf",
+   "bytes": 78877431,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-189.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-190",
+  "publication": "pc-gamer-us",
+  "sequence": 167,
+  "number": "190",
+  "date": {
+   "display": "August 2009",
+   "start": "2009-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.7,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8110f374-2cae-4eae-8c74-41d10a94a9c9",
+   "external_id": "8110f374-2cae-4eae-8c74-41d10a94a9c9",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 190 (August 2009).pdf",
+   "bytes": 74668595,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-190.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-194",
+  "publication": "pc-gamer-us",
+  "sequence": 168,
+  "number": "194",
+  "date": {
+   "display": "December 2009",
+   "start": "2009-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.9,
+   "height_mm": 262.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb893045-98e0-434f-ac3f-12d33538473b",
+   "external_id": "bb893045-98e0-434f-ac3f-12d33538473b",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 194 (December 2009).pdf",
+   "bytes": 78434364,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-194.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-195",
+  "publication": "pc-gamer-us",
+  "sequence": 169,
+  "number": "195",
+  "date": {
+   "display": "Holiday 2009",
+   "start": "2009-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab5160e1-8c74-4498-a2b5-3e5fdd4d447e",
+   "external_id": "ab5160e1-8c74-4498-a2b5-3e5fdd4d447e",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 195 (Holiday 2009).pdf",
+   "bytes": 76769175,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-195.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-196",
+  "publication": "pc-gamer-us",
+  "sequence": 170,
+  "number": "196",
+  "date": {
+   "display": "January 2010",
+   "start": "2010-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.6,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a5fb5437-f21b-4dfe-b6b0-233e36b81d88",
+   "external_id": "a5fb5437-f21b-4dfe-b6b0-233e36b81d88",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 196 (January 2010).pdf",
+   "bytes": 88673391,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-196.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-197",
+  "publication": "pc-gamer-us",
+  "sequence": 171,
+  "number": "197",
+  "date": {
+   "display": "February 2010",
+   "start": "2010-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.4,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ee0eb027-d607-4473-b910-bb6e8a91e626",
+   "external_id": "ee0eb027-d607-4473-b910-bb6e8a91e626",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 197 (February 2010).pdf",
+   "bytes": 80130096,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-197.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-198",
+  "publication": "pc-gamer-us",
+  "sequence": 172,
+  "number": "198",
+  "date": {
+   "display": "March 2010",
+   "start": "2010-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.9,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/08e48e1c-0991-4364-90cc-d4a961ba34ee",
+   "external_id": "08e48e1c-0991-4364-90cc-d4a961ba34ee",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 198 (March 2010).pdf",
+   "bytes": 78586979,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-198.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-199",
+  "publication": "pc-gamer-us",
+  "sequence": 173,
+  "number": "199",
+  "date": {
+   "display": "April 2010",
+   "start": "2010-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.9,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8ca63e44-aa1b-4f71-97b6-40f595697e2d",
+   "external_id": "8ca63e44-aa1b-4f71-97b6-40f595697e2d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 199 (April 2010).pdf",
+   "bytes": 77927093,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-199.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-200",
+  "publication": "pc-gamer-us",
+  "sequence": 174,
+  "number": "200",
+  "date": {
+   "display": "May 2010",
+   "start": "2010-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.6,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/907059e2-f2d3-452b-88f3-c094d7ca1623",
+   "external_id": "907059e2-f2d3-452b-88f3-c094d7ca1623",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 200 (May 2010).pdf",
+   "bytes": 68709614,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-200.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-201",
+  "publication": "pc-gamer-us",
+  "sequence": 175,
+  "number": "201",
+  "date": {
+   "display": "June 2010",
+   "start": "2010-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/282302c3-79d5-4b71-86fb-964a0cd1ebb1",
+   "external_id": "282302c3-79d5-4b71-86fb-964a0cd1ebb1",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 201 (June 2010).pdf",
+   "bytes": 73236619,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-201.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-202",
+  "publication": "pc-gamer-us",
+  "sequence": 176,
+  "number": "202",
+  "date": {
+   "display": "July 2010",
+   "start": "2010-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 198.2,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e81255df-492c-4e95-976a-f22c5063bdfd",
+   "external_id": "e81255df-492c-4e95-976a-f22c5063bdfd",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 202 (July 2010).pdf",
+   "bytes": 77372379,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-202.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-203",
+  "publication": "pc-gamer-us",
+  "sequence": 177,
+  "number": "203",
+  "date": {
+   "display": "August 2010",
+   "start": "2010-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45642c81-4b51-4739-a76a-311858344a2d",
+   "external_id": "45642c81-4b51-4739-a76a-311858344a2d",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 203 (August 2010).pdf",
+   "bytes": 126471115,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-203.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-204",
+  "publication": "pc-gamer-us",
+  "sequence": 178,
+  "number": "204",
+  "date": {
+   "display": "September 2010",
+   "start": "2010-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4031539d-a097-4b65-9f18-80d97e3b581c",
+   "external_id": "4031539d-a097-4b65-9f18-80d97e3b581c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 204 (September 2010).pdf",
+   "bytes": 104278047,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-204.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-205",
+  "publication": "pc-gamer-us",
+  "sequence": 179,
+  "number": "205",
+  "date": {
+   "display": "October 2010",
+   "start": "2010-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/de383f83-a87f-432e-b62b-4920c4bb2ad4",
+   "external_id": "de383f83-a87f-432e-b62b-4920c4bb2ad4",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 205 (October 2010).pdf",
+   "bytes": 179475266,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-205.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-206",
+  "publication": "pc-gamer-us",
+  "sequence": 180,
+  "number": "206",
+  "date": {
+   "display": "November 2010",
+   "start": "2010-11",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/204f1052-1a44-484c-833a-5d0881414af8",
+   "external_id": "204f1052-1a44-484c-833a-5d0881414af8",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 206 (November 2010).pdf",
+   "bytes": 104941592,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-206.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-207",
+  "publication": "pc-gamer-us",
+  "sequence": 181,
+  "number": "207",
+  "date": {
+   "display": "December 2010",
+   "start": "2010-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a285d645-80aa-4b0b-8cb2-4d2fb0f3ddd8",
+   "external_id": "a285d645-80aa-4b0b-8cb2-4d2fb0f3ddd8",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 207 (December 2010).pdf",
+   "bytes": 107643265,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-207.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-208",
+  "publication": "pc-gamer-us",
+  "sequence": 182,
+  "number": "208",
+  "date": {
+   "display": "Holiday 2010",
+   "start": "2010-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/be2328e9-bf94-4d60-ace5-e6046268ce53",
+   "external_id": "be2328e9-bf94-4d60-ace5-e6046268ce53",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 208 (Holiday 2010).pdf",
+   "bytes": 115906163,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-208.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-210",
+  "publication": "pc-gamer-us",
+  "sequence": 183,
+  "number": "210",
+  "date": {
+   "display": "February 2011",
+   "start": "2011-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6cf022c-cc65-49bf-9633-29eddcc9aedf",
+   "external_id": "a6cf022c-cc65-49bf-9633-29eddcc9aedf",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 210 (February 2011).pdf",
+   "bytes": 127146765,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-210.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-211",
+  "publication": "pc-gamer-us",
+  "sequence": 184,
+  "number": "211",
+  "date": {
+   "display": "March 2011",
+   "start": "2011-03",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 198.0,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50ad5d61-384b-4e10-b62f-2bb130b1f071",
+   "external_id": "50ad5d61-384b-4e10-b62f-2bb130b1f071",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 211 (March 2011).pdf",
+   "bytes": 79290412,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-211.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-213",
+  "publication": "pc-gamer-us",
+  "sequence": 185,
+  "number": "213",
+  "date": {
+   "display": "May 2011",
+   "start": "2011-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ed2a87e6-6f88-4a26-81ab-03a23eefa828",
+   "external_id": "ed2a87e6-6f88-4a26-81ab-03a23eefa828",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 213 (May 2011).pdf",
+   "bytes": 129192926,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-213.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-214",
+  "publication": "pc-gamer-us",
+  "sequence": 186,
+  "number": "214",
+  "date": {
+   "display": "June 2011",
+   "start": "2011-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.1,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/53980f3f-cf40-4eb1-9722-028b457a58b5",
+   "external_id": "53980f3f-cf40-4eb1-9722-028b457a58b5",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 214 (June 2011).pdf",
+   "bytes": 180292347,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-214.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-216",
+  "publication": "pc-gamer-us",
+  "sequence": 187,
+  "number": "216",
+  "date": {
+   "display": "August 2011",
+   "start": "2011-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c01210ba-0018-45d7-97b1-e8d7c604d4e2",
+   "external_id": "c01210ba-0018-45d7-97b1-e8d7c604d4e2",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 216 (August 2011).pdf",
+   "bytes": 136045059,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-216.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-217",
+  "publication": "pc-gamer-us",
+  "sequence": 188,
+  "number": "217",
+  "date": {
+   "display": "September 2011",
+   "start": "2011-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 143.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe354ec9-ddaf-47f9-aadb-65167550650a",
+   "external_id": "fe354ec9-ddaf-47f9-aadb-65167550650a",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 217 (September 2011).pdf",
+   "bytes": 126569663,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-217.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-218",
+  "publication": "pc-gamer-us",
+  "sequence": 189,
+  "number": "218",
+  "date": {
+   "display": "October 2011",
+   "start": "2011-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 140.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d0be736-b54d-4283-943e-85ab9649cf39",
+   "external_id": "8d0be736-b54d-4283-943e-85ab9649cf39",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 218 (October 2011).pdf",
+   "bytes": 184348982,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-218.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-219",
+  "publication": "pc-gamer-us",
+  "sequence": 190,
+  "number": "219",
+  "date": {
+   "display": "November 2011",
+   "start": "2011-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3360c03e-eee7-4ad7-85d1-253eb7d4e633",
+   "external_id": "3360c03e-eee7-4ad7-85d1-253eb7d4e633",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 219 (November 2011).pdf",
+   "bytes": 135433141,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-219.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-220",
+  "publication": "pc-gamer-us",
+  "sequence": 191,
+  "number": "220",
+  "date": {
+   "display": "December 2011",
+   "start": "2011-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cd53b669-d1b9-4ee8-b7d2-b2bc176aa710",
+   "external_id": "cd53b669-d1b9-4ee8-b7d2-b2bc176aa710",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 220 (December 2011).pdf",
+   "bytes": 134647500,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-220.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-221",
+  "publication": "pc-gamer-us",
+  "sequence": 192,
+  "number": "221",
+  "date": {
+   "display": "Holiday 2011",
+   "start": "2011-12",
+   "precision": "season"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 197.5,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eff296fc-61f1-4029-a607-9820f8677780",
+   "external_id": "eff296fc-61f1-4029-a607-9820f8677780",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 221 (Holiday 2011).pdf",
+   "bytes": 91120692,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-221.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-222",
+  "publication": "pc-gamer-us",
+  "sequence": 193,
+  "number": "222",
+  "date": {
+   "display": "January 2012",
+   "start": "2012-01",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 140.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb46fb41-6376-4d61-b10f-9cfe8086851c",
+   "external_id": "bb46fb41-6376-4d61-b10f-9cfe8086851c",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 222 (January 2012).pdf",
+   "bytes": 184636278,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-222.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-223",
+  "publication": "pc-gamer-us",
+  "sequence": 194,
+  "number": "223",
+  "date": {
+   "display": "February 2012",
+   "start": "2012-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9ef1f4f7-536a-4230-9917-19ea15dfbb48",
+   "external_id": "9ef1f4f7-536a-4230-9917-19ea15dfbb48",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 223 (February 2012).pdf",
+   "bytes": 125430084,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-223.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-gamer-us-224",
+  "publication": "pc-gamer-us",
+  "sequence": 195,
+  "number": "224",
+  "date": {
+   "display": "March 2012",
+   "start": "2012-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 141.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/854ff76a-bfbf-4df9-b20e-a27f13983d32",
+   "external_id": "854ff76a-bfbf-4df9-b20e-a27f13983d32",
+   "retrieved_at": "2026-09-14T09:35:44+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-gamer-us/pdf/PC Gamer, Issue 224 (March 2012).pdf",
+   "bytes": 136045160,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:44+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-gamer-us-224.jpg",
+   "pages_rendered": false
+  }
+ }
+]

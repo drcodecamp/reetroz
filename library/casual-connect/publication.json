@@ -47,10 +47,12 @@
     }
   ],
   "stats": {
-    "issues": 0,
-    "pages": 0,
+    "issues": 15,
+    "pages": 1028,
     "readable": 0,
-    "with_text": 0
+    "with_text": 8,
+    "first_year": 2006,
+    "last_year": 2015
   },
-  "updated_at": "2026-09-13T21:27:15+00:00"
+  "updated_at": "2026-09-14T18:59:56+00:00"
 }

@@ -1,1 +1,528 @@
-[]
+[
+ {
+  "id": "casual-connect-1",
+  "publication": "casual-connect",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "June 2006",
+   "start": "2006-06",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 237.1,
+   "height_mm": 300.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a45888c4-bfed-44fe-a2d9-aecabafdade0",
+   "external_id": "a45888c4-bfed-44fe-a2d9-aecabafdade0",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Minna Magazine, Volume 1, Issue 1 (June 2006).pdf",
+   "bytes": 3259210,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/casual-connect-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-200806-magazine",
+  "publication": "casual-connect",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "Summer 2008",
+   "start": "2008-06",
+   "precision": "season"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9138a10-b541-4891-9516-3c421bdfe2c4",
+   "external_id": "a9138a10-b541-4891-9516-3c421bdfe2c4",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect Magazine (Summer 2008).pdf",
+   "bytes": 12342520,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-200806-magazine.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-200809-magazine",
+  "publication": "casual-connect",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "Fall 2008",
+   "start": "2008-09",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb6c93a8-6fb1-4d42-949c-3954f9995a5b",
+   "external_id": "bb6c93a8-6fb1-4d42-949c-3954f9995a5b",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect Magazine (Fall 2008).pdf",
+   "bytes": 12957944,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-200809-magazine.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-200909-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "Fall 2009",
+   "start": "2009-09",
+   "precision": "season"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6d4f3196-6239-40e1-b086-f14490fa7ac5",
+   "external_id": "6d4f3196-6239-40e1-b086-f14490fa7ac5",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Fall 2009).pdf",
+   "bytes": 7942003,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-200909-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-200912-magazine",
+  "publication": "casual-connect",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "Winter 2009",
+   "start": "2009-12",
+   "precision": "season"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e18483d5-a2e0-4ffd-981d-bc5833f5ec4e",
+   "external_id": "e18483d5-a2e0-4ffd-981d-bc5833f5ec4e",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect Magazine (Winter 2009).pdf",
+   "bytes": 19803055,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-200912-magazine.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201006-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "Summer 2010",
+   "start": "2010-06",
+   "precision": "season"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/660d3fef-e7e8-4ff6-a7c0-0fcec7fff249",
+   "external_id": "660d3fef-e7e8-4ff6-a7c0-0fcec7fff249",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Summer 2010).pdf",
+   "bytes": 7763320,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201006-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201009-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "Fall 2010",
+   "start": "2010-09",
+   "precision": "season"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7b97a6e0-5134-4c46-ab82-7b79b5206f10",
+   "external_id": "7b97a6e0-5134-4c46-ab82-7b79b5206f10",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Fall 2010).pdf",
+   "bytes": 5115205,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201009-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201012-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 8,
+  "number": "special",
+  "date": {
+   "display": "Winter 2010",
+   "start": "2010-12",
+   "precision": "season"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/665c0a21-5c79-4efe-a64e-22cb4407718c",
+   "external_id": "665c0a21-5c79-4efe-a64e-22cb4407718c",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Winter 2010).pdf",
+   "bytes": 5752974,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201012-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201109-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 9,
+  "number": "special",
+  "date": {
+   "display": "Fall 2011",
+   "start": "2011-09",
+   "precision": "season"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cb6f2f21-f563-4b4f-a1e6-91b6c3cd68e1",
+   "external_id": "cb6f2f21-f563-4b4f-a1e6-91b6c3cd68e1",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Fall 2011).pdf",
+   "bytes": 11321820,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201109-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201112-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "Winter 2011",
+   "start": "2011-12",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/02e71d63-2a77-4c05-ab15-f71252138b1b",
+   "external_id": "02e71d63-2a77-4c05-ab15-f71252138b1b",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Winter 2011).pdf",
+   "bytes": 14950702,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201112-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201212-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "Winter 2012",
+   "start": "2012-12",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/874cfd19-59ad-4cda-a196-01d5bf249a82",
+   "external_id": "874cfd19-59ad-4cda-a196-01d5bf249a82",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Winter 2012).pdf",
+   "bytes": 19669188,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201212-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201306-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "Summer 2013",
+   "start": "2013-06",
+   "precision": "season"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8344f10d-3c78-4d83-9ea0-25926093627b",
+   "external_id": "8344f10d-3c78-4d83-9ea0-25926093627b",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Summer 2013).pdf",
+   "bytes": 24932679,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201306-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201406-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "Summer 2014",
+   "start": "2014-06",
+   "precision": "season"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/78a926d3-160d-4c56-b8f7-d25d58a7841b",
+   "external_id": "78a926d3-160d-4c56-b8f7-d25d58a7841b",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Summer 2014).pdf",
+   "bytes": 34139307,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201406-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201506-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 14,
+  "number": "special",
+  "date": {
+   "display": "Summer 2015",
+   "start": "2015-06",
+   "precision": "season"
+  },
+  "pages": 40,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/198543f1-b63f-4e80-a66b-29e7c2f3a7ef",
+   "external_id": "198543f1-b63f-4e80-a66b-29e7c2f3a7ef",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Summer 2015).pdf",
+   "bytes": 10244797,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201506-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "casual-connect-201512-casual-connect",
+  "publication": "casual-connect",
+  "sequence": 15,
+  "number": "special",
+  "date": {
+   "display": "Winter 2015",
+   "start": "2015-12",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/62226906-dfc5-4743-8c65-19cb87de8b4e",
+   "external_id": "62226906-dfc5-4743-8c65-19cb87de8b4e",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/casual-connect/pdf/Casual Connect (Winter 2015).pdf",
+   "bytes": 10059985,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/casual-connect-201512-casual-connect.jpg",
+   "pages_rendered": false
+  }
+ }
+]

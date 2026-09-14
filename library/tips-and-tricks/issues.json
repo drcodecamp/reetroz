@@ -1,1 +1,6562 @@
-[]
+[
+ {
+  "id": "tips-and-tricks-1",
+  "publication": "tips-and-tricks",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Spring 1994",
+   "start": "1994-03",
+   "precision": "season"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 212.3,
+   "height_mm": 276.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/624db3f6-ddac-4d4a-8e97-ae6b75297369",
+   "external_id": "624db3f6-ddac-4d4a-8e97-ae6b75297369",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Volume 1, Number 1 (Spring 1994).pdf",
+   "bytes": 101435439,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-2",
+  "publication": "tips-and-tricks",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "Summer 1994",
+   "start": "1994-06",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 212.1,
+   "height_mm": 278.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b9b5a377-2880-4495-bb5b-50ef4f2baeb3",
+   "external_id": "b9b5a377-2880-4495-bb5b-50ef4f2baeb3",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Volume 1, Number 2 (Summer 1994).pdf",
+   "bytes": 96088932,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-3",
+  "publication": "tips-and-tricks",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "Fall 1994",
+   "start": "1994-09",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 66.1,
+   "height_mm": 86.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7a69119-1d5f-4c81-b6a1-5b15eecd0d1f",
+   "external_id": "c7a69119-1d5f-4c81-b6a1-5b15eecd0d1f",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Volume 1, Number 3 (Fall 1994).pdf",
+   "bytes": 85615077,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-5",
+  "publication": "tips-and-tricks",
+  "sequence": 4,
+  "number": "5",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 208.2,
+   "height_mm": 277.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d9f81ec-08a5-42cf-9148-afb40ac648f2",
+   "external_id": "9d9f81ec-08a5-42cf-9148-afb40ac648f2",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 5 (May 1995).pdf",
+   "bytes": 108554842,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-6",
+  "publication": "tips-and-tricks",
+  "sequence": 5,
+  "number": "6",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 212.3,
+   "height_mm": 280.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac670d56-02b0-4940-af2a-934f5630e753",
+   "external_id": "ac670d56-02b0-4940-af2a-934f5630e753",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 6 (July 1995).pdf",
+   "bytes": 109530112,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-7",
+  "publication": "tips-and-tricks",
+  "sequence": 6,
+  "number": "7",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 210.2,
+   "height_mm": 272.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/421c85d6-292e-4d6c-9e6f-3a9fbe7920b1",
+   "external_id": "421c85d6-292e-4d6c-9e6f-3a9fbe7920b1",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 7 (September 1995).pdf",
+   "bytes": 90245577,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-8",
+  "publication": "tips-and-tricks",
+  "sequence": 7,
+  "number": "8",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 214.0,
+   "height_mm": 279.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93523a5b-4592-4565-8168-2e44401c0565",
+   "external_id": "93523a5b-4592-4565-8168-2e44401c0565",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 8 (October 1995).pdf",
+   "bytes": 100949944,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-9",
+  "publication": "tips-and-tricks",
+  "sequence": 8,
+  "number": "9",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 75,
+  "dimensions": {
+   "width_mm": 209.4,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/78d8245f-2560-4c4c-8e88-26bc050b2c61",
+   "external_id": "78d8245f-2560-4c4c-8e88-26bc050b2c61",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 9 (November 1995).pdf",
+   "bytes": 77048765,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-4",
+  "publication": "tips-and-tricks",
+  "sequence": 9,
+  "number": "4",
+  "date": {
+   "display": "Winter 1995",
+   "start": "1995-12",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 210.6,
+   "height_mm": 276.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd320dd6-121a-4f07-ad81-cfde95ad63ee",
+   "external_id": "fd320dd6-121a-4f07-ad81-cfde95ad63ee",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Volume 1, Number 4 (Winter 1995).pdf",
+   "bytes": 96016245,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-10",
+  "publication": "tips-and-tricks",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 286.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2dc3fc7-78f3-4908-9a48-b095f8e04bd1",
+   "external_id": "a2dc3fc7-78f3-4908-9a48-b095f8e04bd1",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 10 (December 1995).pdf",
+   "bytes": 101354133,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-11",
+  "publication": "tips-and-tricks",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 159.4,
+   "height_mm": 216.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0f260c29-497f-45c0-b3fe-0c5e8cf61756",
+   "external_id": "0f260c29-497f-45c0-b3fe-0c5e8cf61756",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 11 (January 1996).pdf",
+   "bytes": 35694999,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-12",
+  "publication": "tips-and-tricks",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 211.6,
+   "height_mm": 285.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/139933c6-2b80-4f5a-998f-2eb055d7f7a4",
+   "external_id": "139933c6-2b80-4f5a-998f-2eb055d7f7a4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 12 (February 1996).pdf",
+   "bytes": 124252800,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-13",
+  "publication": "tips-and-tricks",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 210.7,
+   "height_mm": 285.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/309c876d-58ba-4cca-9ab1-8fadd37124bd",
+   "external_id": "309c876d-58ba-4cca-9ab1-8fadd37124bd",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 13 (March 1996).pdf",
+   "bytes": 107816443,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-14",
+  "publication": "tips-and-tricks",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 276.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b24aa026-ed6a-400f-960f-044307595e40",
+   "external_id": "b24aa026-ed6a-400f-960f-044307595e40",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 14 (April 1996).pdf",
+   "bytes": 108612771,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-15",
+  "publication": "tips-and-tricks",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 274.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8c4502f8-aa77-4ffe-b4b9-6688efba511b",
+   "external_id": "8c4502f8-aa77-4ffe-b4b9-6688efba511b",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 15 (May 1996).pdf",
+   "bytes": 110482557,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-16",
+  "publication": "tips-and-tricks",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 278.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/54b31cdd-d136-4064-a904-70f0bd33cac4",
+   "external_id": "54b31cdd-d136-4064-a904-70f0bd33cac4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 16 (June 1996).pdf",
+   "bytes": 113687797,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-17",
+  "publication": "tips-and-tricks",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 204.3,
+   "height_mm": 277.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f47c2b31-e559-4e7a-9502-df185773c349",
+   "external_id": "f47c2b31-e559-4e7a-9502-df185773c349",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 17 (July 1996).pdf",
+   "bytes": 116952230,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-18",
+  "publication": "tips-and-tricks",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 199.7,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c4feef64-4d64-4c12-96db-9f1790cc0de5",
+   "external_id": "c4feef64-4d64-4c12-96db-9f1790cc0de5",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 18 (August 1996).pdf",
+   "bytes": 115959248,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-19",
+  "publication": "tips-and-tricks",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 94.4,
+   "height_mm": 128.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2084d631-0ff7-43d7-a730-48033d3ffccb",
+   "external_id": "2084d631-0ff7-43d7-a730-48033d3ffccb",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 19 (September 1996).pdf",
+   "bytes": 42844635,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-20",
+  "publication": "tips-and-tricks",
+  "sequence": 20,
+  "number": "20",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 200.9,
+   "height_mm": 274.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28f2d8fb-8576-4f26-be71-5215af287a1c",
+   "external_id": "28f2d8fb-8576-4f26-be71-5215af287a1c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 20 (October 1996).pdf",
+   "bytes": 106153126,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-21",
+  "publication": "tips-and-tricks",
+  "sequence": 21,
+  "number": "21",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 212.3,
+   "height_mm": 285.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c3f71ab-ac7c-4265-9d69-21add073e15e",
+   "external_id": "9c3f71ab-ac7c-4265-9d69-21add073e15e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 21 (November 1996).pdf",
+   "bytes": 109334850,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-22",
+  "publication": "tips-and-tricks",
+  "sequence": 22,
+  "number": "22",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 197.2,
+   "height_mm": 268.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/074592a9-4e96-4438-ad7d-7a66e34654ac",
+   "external_id": "074592a9-4e96-4438-ad7d-7a66e34654ac",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 22 (December 1996).pdf",
+   "bytes": 59854142,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-23",
+  "publication": "tips-and-tricks",
+  "sequence": 23,
+  "number": "23",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.0,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a48fd033-d5a9-4b96-bf24-b007e569b35a",
+   "external_id": "a48fd033-d5a9-4b96-bf24-b007e569b35a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 23 (January 1997).pdf",
+   "bytes": 124563208,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-24",
+  "publication": "tips-and-tricks",
+  "sequence": 24,
+  "number": "24",
+  "date": {
+   "display": "February 1997",
+   "start": "1997-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 197.2,
+   "height_mm": 268.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a68ca6a-3426-4cb2-ad33-a9f042955425",
+   "external_id": "0a68ca6a-3426-4cb2-ad33-a9f042955425",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 24 (February 1997).pdf",
+   "bytes": 62726797,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-25",
+  "publication": "tips-and-tricks",
+  "sequence": 25,
+  "number": "25",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 82,
+  "dimensions": {
+   "width_mm": 197.2,
+   "height_mm": 268.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d36917d8-5aaa-43a6-9f4d-c3e065cacfad",
+   "external_id": "d36917d8-5aaa-43a6-9f4d-c3e065cacfad",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 25 (March 1997).pdf",
+   "bytes": 60974560,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-26",
+  "publication": "tips-and-tricks",
+  "sequence": 26,
+  "number": "26",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 85,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0dc839cc-abaa-4158-bce8-8ee5accb08a9",
+   "external_id": "0dc839cc-abaa-4158-bce8-8ee5accb08a9",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 26 (April 1997).pdf",
+   "bytes": 60093209,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-27",
+  "publication": "tips-and-tricks",
+  "sequence": 27,
+  "number": "27",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 87,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a8cb9005-9725-4990-b7f1-6efcbff419a3",
+   "external_id": "a8cb9005-9725-4990-b7f1-6efcbff419a3",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 27 (May 1997).pdf",
+   "bytes": 63003555,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-28",
+  "publication": "tips-and-tricks",
+  "sequence": 28,
+  "number": "28",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 85,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5fe6a33b-5ae0-4e9b-a77e-b7cf76819c92",
+   "external_id": "5fe6a33b-5ae0-4e9b-a77e-b7cf76819c92",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 28 (June 1997).pdf",
+   "bytes": 62792709,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-29",
+  "publication": "tips-and-tricks",
+  "sequence": 29,
+  "number": "29",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 199.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/14cc7036-ee33-4133-8595-c41cca8af567",
+   "external_id": "14cc7036-ee33-4133-8595-c41cca8af567",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 29 (July 1997).pdf",
+   "bytes": 61512422,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-30",
+  "publication": "tips-and-tricks",
+  "sequence": 30,
+  "number": "30",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 85,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b8f6aaa3-e7f1-45fa-a3db-da25d7ae81c5",
+   "external_id": "b8f6aaa3-e7f1-45fa-a3db-da25d7ae81c5",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 30 (August 1997).pdf",
+   "bytes": 62447851,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-31",
+  "publication": "tips-and-tricks",
+  "sequence": 31,
+  "number": "31",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9a7eab4-eea0-4883-9951-09775589b37b",
+   "external_id": "a9a7eab4-eea0-4883-9951-09775589b37b",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 31 (September 1997).pdf",
+   "bytes": 62435646,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-32",
+  "publication": "tips-and-tricks",
+  "sequence": 32,
+  "number": "32",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 91,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8550e13d-52f4-4ac9-9126-b60337dd96b1",
+   "external_id": "8550e13d-52f4-4ac9-9126-b60337dd96b1",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 32 (October 1997).pdf",
+   "bytes": 71780274,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-33",
+  "publication": "tips-and-tricks",
+  "sequence": 33,
+  "number": "33",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/69e91fb9-083f-45e0-b93a-190a3708228a",
+   "external_id": "69e91fb9-083f-45e0-b93a-190a3708228a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 33 (November 1997).pdf",
+   "bytes": 64993631,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-34",
+  "publication": "tips-and-tricks",
+  "sequence": 34,
+  "number": "34",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 203.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ebf49d19-d54b-4372-b6d8-ee900cd295e4",
+   "external_id": "ebf49d19-d54b-4372-b6d8-ee900cd295e4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 34 (December 1997).pdf",
+   "bytes": 63834404,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-1998-tips-tricks-1998-video-game-codebook-collector-s",
+  "publication": "tips-and-tricks",
+  "sequence": 35,
+  "number": "special",
+  "date": {
+   "display": "1998",
+   "start": "1998",
+   "precision": "year"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b319635-6770-4bc4-b0df-62e4e5cdd994",
+   "external_id": "2b319635-6770-4bc4-b0df-62e4e5cdd994",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 1998 Video Game Codebook, Collector's Edition (1998).pdf",
+   "bytes": 57010002,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-1998-tips-tricks-1998-video-game-codebook-collector-s.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-35",
+  "publication": "tips-and-tricks",
+  "sequence": 36,
+  "number": "35",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/244a8eb3-d85f-4675-a99d-664ca42bc5e6",
+   "external_id": "244a8eb3-d85f-4675-a99d-664ca42bc5e6",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 35 (January 1998).pdf",
+   "bytes": 63563201,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-36",
+  "publication": "tips-and-tricks",
+  "sequence": 37,
+  "number": "36",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 85,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f4c95a87-d99d-4b88-9646-7d7978e094f0",
+   "external_id": "f4c95a87-d99d-4b88-9646-7d7978e094f0",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 36 (February 1998).pdf",
+   "bytes": 62822989,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-37",
+  "publication": "tips-and-tricks",
+  "sequence": 38,
+  "number": "37",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9ab958e7-2690-498c-af8f-cd96fe995495",
+   "external_id": "9ab958e7-2690-498c-af8f-cd96fe995495",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 37 (March 1998).pdf",
+   "bytes": 77622637,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-38",
+  "publication": "tips-and-tricks",
+  "sequence": 39,
+  "number": "38",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/532e3f2b-ad7a-4f97-b607-bfbb579ce15e",
+   "external_id": "532e3f2b-ad7a-4f97-b607-bfbb579ce15e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 38 (April 1998).pdf",
+   "bytes": 74735897,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-39",
+  "publication": "tips-and-tricks",
+  "sequence": 40,
+  "number": "39",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 200.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0927372f-2e65-48ac-9a32-3e374286c558",
+   "external_id": "0927372f-2e65-48ac-9a32-3e374286c558",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 39 (May 1998).pdf",
+   "bytes": 79703191,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-40",
+  "publication": "tips-and-tricks",
+  "sequence": 41,
+  "number": "40",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a97f405-c886-461e-9e80-e179f00cb411",
+   "external_id": "5a97f405-c886-461e-9e80-e179f00cb411",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 40 (June 1998).pdf",
+   "bytes": 80650444,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-41",
+  "publication": "tips-and-tricks",
+  "sequence": 42,
+  "number": "41",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1ee77437-a1d8-425f-9f02-fc0650549d6d",
+   "external_id": "1ee77437-a1d8-425f-9f02-fc0650549d6d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 41 (July 1998).pdf",
+   "bytes": 75951711,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-42",
+  "publication": "tips-and-tricks",
+  "sequence": 43,
+  "number": "42",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bff2c45d-0b41-4b4d-9508-edbab285c5c3",
+   "external_id": "bff2c45d-0b41-4b4d-9508-edbab285c5c3",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 42 (August 1998).pdf",
+   "bytes": 75154280,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-43",
+  "publication": "tips-and-tricks",
+  "sequence": 44,
+  "number": "43",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ca02490f-8e2b-4e89-8882-5f45976753ae",
+   "external_id": "ca02490f-8e2b-4e89-8882-5f45976753ae",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 43 (September 1998).pdf",
+   "bytes": 85504587,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-44",
+  "publication": "tips-and-tricks",
+  "sequence": 45,
+  "number": "44",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 204.4,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d94a393d-0d01-4ca1-9738-cc05a83de07c",
+   "external_id": "d94a393d-0d01-4ca1-9738-cc05a83de07c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 44 (October 1998).pdf",
+   "bytes": 96216772,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-45",
+  "publication": "tips-and-tricks",
+  "sequence": 46,
+  "number": "45",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 203.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d2ee2ae0-8fc5-492b-835c-56a5300a3f10",
+   "external_id": "d2ee2ae0-8fc5-492b-835c-56a5300a3f10",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 45 (November 1998).pdf",
+   "bytes": 87475287,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-46",
+  "publication": "tips-and-tricks",
+  "sequence": 47,
+  "number": "46",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1081f496-5cbc-4fb0-8b62-2556a7976e0d",
+   "external_id": "1081f496-5cbc-4fb0-8b62-2556a7976e0d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 46 (December 1998).pdf",
+   "bytes": 87141820,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-1999-tips-tricks-1999-video-game-codebook-special-edi",
+  "publication": "tips-and-tricks",
+  "sequence": 48,
+  "number": "special",
+  "date": {
+   "display": "1999",
+   "start": "1999",
+   "precision": "year"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.0,
+   "height_mm": 278.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e5843fe3-5c27-46a3-be89-57899d40b781",
+   "external_id": "e5843fe3-5c27-46a3-be89-57899d40b781",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 1999 Video-Game Codebook, Special Edition (1999).pdf",
+   "bytes": 65610352,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-1999-tips-tricks-1999-video-game-codebook-special-edi.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-47",
+  "publication": "tips-and-tricks",
+  "sequence": 49,
+  "number": "47",
+  "date": {
+   "display": "January 1999",
+   "start": "1999-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/91f7604a-d730-47b9-acd5-06457f69202d",
+   "external_id": "91f7604a-d730-47b9-acd5-06457f69202d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 47 (January 1999).pdf",
+   "bytes": 99237752,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-47.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-48",
+  "publication": "tips-and-tricks",
+  "sequence": 50,
+  "number": "48",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 203.8,
+   "height_mm": 276.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/99bed9f5-495e-4229-9259-cf06987d9e44",
+   "external_id": "99bed9f5-495e-4229-9259-cf06987d9e44",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 48 (February 1999).pdf",
+   "bytes": 96966993,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-49",
+  "publication": "tips-and-tricks",
+  "sequence": 51,
+  "number": "49",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 200.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/674e4cf5-5a17-4a96-818e-7c80de064c75",
+   "external_id": "674e4cf5-5a17-4a96-818e-7c80de064c75",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 49 (March 1999).pdf",
+   "bytes": 93306862,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-50",
+  "publication": "tips-and-tricks",
+  "sequence": 52,
+  "number": "50",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 200.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9665d169-fa71-426d-9740-fa239d35ef44",
+   "external_id": "9665d169-fa71-426d-9740-fa239d35ef44",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 50 (April 1999).pdf",
+   "bytes": 77179164,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-51",
+  "publication": "tips-and-tricks",
+  "sequence": 53,
+  "number": "51",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5f791be2-c842-433a-8d3f-2b69cf4fb359",
+   "external_id": "5f791be2-c842-433a-8d3f-2b69cf4fb359",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 51 (May 1999).pdf",
+   "bytes": 74838905,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-52",
+  "publication": "tips-and-tricks",
+  "sequence": 54,
+  "number": "52",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0fc60773-8cf4-43f9-841c-01451011e3e4",
+   "external_id": "0fc60773-8cf4-43f9-841c-01451011e3e4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 52 (June 1999).pdf",
+   "bytes": 135964478,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-53",
+  "publication": "tips-and-tricks",
+  "sequence": 55,
+  "number": "53",
+  "date": {
+   "display": "July 1999",
+   "start": "1999-07",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ea208ad-1854-4f9c-a9a0-15d158486b1e",
+   "external_id": "3ea208ad-1854-4f9c-a9a0-15d158486b1e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 53 (July 1999).pdf",
+   "bytes": 76318836,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-54",
+  "publication": "tips-and-tricks",
+  "sequence": 56,
+  "number": "54",
+  "date": {
+   "display": "August 1999",
+   "start": "1999-08",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93d07947-ae0b-4144-935d-a9eb7b3aad84",
+   "external_id": "93d07947-ae0b-4144-935d-a9eb7b3aad84",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 54 (August 1999).pdf",
+   "bytes": 72182642,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-55",
+  "publication": "tips-and-tricks",
+  "sequence": 57,
+  "number": "55",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 200.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8583bf74-6e2f-4091-bac2-672281e030bc",
+   "external_id": "8583bf74-6e2f-4091-bac2-672281e030bc",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 55 (September 1999).pdf",
+   "bytes": 73211521,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-56",
+  "publication": "tips-and-tricks",
+  "sequence": 58,
+  "number": "56",
+  "date": {
+   "display": "October 1999",
+   "start": "1999-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a751d164-a732-4819-8512-6accf73b1988",
+   "external_id": "a751d164-a732-4819-8512-6accf73b1988",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 56 (October 1999).pdf",
+   "bytes": 71754849,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-57",
+  "publication": "tips-and-tricks",
+  "sequence": 59,
+  "number": "57",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 203.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1981b2df-79bc-43a1-a59d-eb443ea49bbd",
+   "external_id": "1981b2df-79bc-43a1-a59d-eb443ea49bbd",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 57 (November 1999).pdf",
+   "bytes": 72087732,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-57.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-58",
+  "publication": "tips-and-tricks",
+  "sequence": 60,
+  "number": "58",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf841e39-c6eb-41d2-898b-984194efab25",
+   "external_id": "cf841e39-c6eb-41d2-898b-984194efab25",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 58 (December 1999).pdf",
+   "bytes": 71999378,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-58.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-2000-tips-tricks-pok-mon-report-special-issue",
+  "publication": "tips-and-tricks",
+  "sequence": 61,
+  "number": "special",
+  "date": {
+   "display": "2000",
+   "start": "2000",
+   "precision": "year"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 281.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1455c6d7-f280-444d-9b89-91ea9eccc721",
+   "external_id": "1455c6d7-f280-444d-9b89-91ea9eccc721",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Pokémon Report, Special Issue (2000).pdf",
+   "bytes": 100032137,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-2000-tips-tricks-pok-mon-report-special-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-59",
+  "publication": "tips-and-tricks",
+  "sequence": 62,
+  "number": "59",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4fa5dc87-5c17-4e50-9729-a923f314e5d1",
+   "external_id": "4fa5dc87-5c17-4e50-9729-a923f314e5d1",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 59 (January 2000).pdf",
+   "bytes": 73880177,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-59.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-60",
+  "publication": "tips-and-tricks",
+  "sequence": 63,
+  "number": "60",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 200.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e8f919b-167d-46a1-b3a2-5ff6c380edf3",
+   "external_id": "6e8f919b-167d-46a1-b3a2-5ff6c380edf3",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 60 (February 2000).pdf",
+   "bytes": 70462833,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-60.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-61",
+  "publication": "tips-and-tricks",
+  "sequence": 64,
+  "number": "61",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/acf5511b-829f-484d-af89-6f07b4efe6ba",
+   "external_id": "acf5511b-829f-484d-af89-6f07b4efe6ba",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 61 (March 2000).pdf",
+   "bytes": 179844831,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-61.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-62",
+  "publication": "tips-and-tricks",
+  "sequence": 65,
+  "number": "62",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/49cc8ad3-ff37-457a-b5ea-82aa878bb273",
+   "external_id": "49cc8ad3-ff37-457a-b5ea-82aa878bb273",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 62 (April 2000).pdf",
+   "bytes": 65847115,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-62.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-63",
+  "publication": "tips-and-tricks",
+  "sequence": 66,
+  "number": "63",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9fc71cf4-2651-42c0-8f84-7e2be68ad85f",
+   "external_id": "9fc71cf4-2651-42c0-8f84-7e2be68ad85f",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 63 (May 2000).pdf",
+   "bytes": 191801938,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-63.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-64",
+  "publication": "tips-and-tricks",
+  "sequence": 67,
+  "number": "64",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a555c7c5-6646-4915-9fd9-83319ba543e3",
+   "external_id": "a555c7c5-6646-4915-9fd9-83319ba543e3",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 64 (June 2000).pdf",
+   "bytes": 177661368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-65",
+  "publication": "tips-and-tricks",
+  "sequence": 68,
+  "number": "65",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7aeea75-bc27-41d5-83f5-e3e3479c7c3c",
+   "external_id": "e7aeea75-bc27-41d5-83f5-e3e3479c7c3c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 65 (July 2000).pdf",
+   "bytes": 58389682,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-65.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-66",
+  "publication": "tips-and-tricks",
+  "sequence": 69,
+  "number": "66",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 195.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/09f15fd0-bcbc-4100-9362-f6cc4eaaff62",
+   "external_id": "09f15fd0-bcbc-4100-9362-f6cc4eaaff62",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 66 (August 2000).pdf",
+   "bytes": 73154257,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-66.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200008-tips-tricks-2000-video-game-codebook-special-edi",
+  "publication": "tips-and-tricks",
+  "sequence": 70,
+  "number": "special",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 274.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/addda76a-e991-40f0-8f58-78a0cd2e40d8",
+   "external_id": "addda76a-e991-40f0-8f58-78a0cd2e40d8",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 2000 Video-Game Codebook, Special Edition (August 2000).pdf",
+   "bytes": 121062841,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200008-tips-tricks-2000-video-game-codebook-special-edi.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-67",
+  "publication": "tips-and-tricks",
+  "sequence": 71,
+  "number": "67",
+  "date": {
+   "display": "September 2000",
+   "start": "2000-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/766db45e-b0b5-4d19-8f32-ffbce20c5f7f",
+   "external_id": "766db45e-b0b5-4d19-8f32-ffbce20c5f7f",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 67 (September 2000).pdf",
+   "bytes": 177606990,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-67.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-68",
+  "publication": "tips-and-tricks",
+  "sequence": 72,
+  "number": "68",
+  "date": {
+   "display": "October 2000",
+   "start": "2000-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7ec89c10-307a-43f7-8aea-2d9c041cbf6c",
+   "external_id": "7ec89c10-307a-43f7-8aea-2d9c041cbf6c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 68 (October 2000).pdf",
+   "bytes": 183299734,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-68.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-69",
+  "publication": "tips-and-tricks",
+  "sequence": 73,
+  "number": "69",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0235e88d-5a1c-4390-b1bf-76366f757c44",
+   "external_id": "0235e88d-5a1c-4390-b1bf-76366f757c44",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 69 (November 2000).pdf",
+   "bytes": 88669155,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-69.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-70",
+  "publication": "tips-and-tricks",
+  "sequence": 74,
+  "number": "70",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/220700a8-d373-492f-88ee-ad3117f0f181",
+   "external_id": "220700a8-d373-492f-88ee-ad3117f0f181",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 70 (December 2000).pdf",
+   "bytes": 104556379,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-70.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-71",
+  "publication": "tips-and-tricks",
+  "sequence": 75,
+  "number": "71",
+  "date": {
+   "display": "January 2001",
+   "start": "2001-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 200.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6d12a5de-db95-48e0-8b1a-ef5ad2b534ec",
+   "external_id": "6d12a5de-db95-48e0-8b1a-ef5ad2b534ec",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 71 (January 2001).pdf",
+   "bytes": 77508602,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-71.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-72",
+  "publication": "tips-and-tricks",
+  "sequence": 76,
+  "number": "72",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 200.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ad78f06-18a1-4da0-b82f-f9e1773199ba",
+   "external_id": "6ad78f06-18a1-4da0-b82f-f9e1773199ba",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 72 (February 2001).pdf",
+   "bytes": 67360165,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-72.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-73",
+  "publication": "tips-and-tricks",
+  "sequence": 77,
+  "number": "73",
+  "date": {
+   "display": "March 2001",
+   "start": "2001-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50718be5-b5d0-4c87-9224-02da49e0540a",
+   "external_id": "50718be5-b5d0-4c87-9224-02da49e0540a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 73 (March 2001).pdf",
+   "bytes": 68454195,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-73.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-74",
+  "publication": "tips-and-tricks",
+  "sequence": 78,
+  "number": "74",
+  "date": {
+   "display": "April 2001",
+   "start": "2001-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0cbd648-9189-4684-b7a6-bcc20699de53",
+   "external_id": "c0cbd648-9189-4684-b7a6-bcc20699de53",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 74 (April 2001).pdf",
+   "bytes": 71639145,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-74.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-75",
+  "publication": "tips-and-tricks",
+  "sequence": 79,
+  "number": "75",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7e7380fe-c45e-4ff4-b079-e3e3c7f44143",
+   "external_id": "7e7380fe-c45e-4ff4-b079-e3e3c7f44143",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 75 (May 2001).pdf",
+   "bytes": 156083461,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-75.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200105-tips-tricks-2001-video-game-codebook-special-col",
+  "publication": "tips-and-tricks",
+  "sequence": 80,
+  "number": "special",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/96aaab0b-8dde-4eaa-8759-a0252b9a482c",
+   "external_id": "96aaab0b-8dde-4eaa-8759-a0252b9a482c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 2001 Video-Game Codebook, Special Collector's Issue (May 2001).pdf",
+   "bytes": 68339200,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200105-tips-tricks-2001-video-game-codebook-special-col.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-76",
+  "publication": "tips-and-tricks",
+  "sequence": 81,
+  "number": "76",
+  "date": {
+   "display": "June 2001",
+   "start": "2001-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6392edd5-3a2f-4abf-9278-52ee384ee3d4",
+   "external_id": "6392edd5-3a2f-4abf-9278-52ee384ee3d4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 76 (June 2001).pdf",
+   "bytes": 65071071,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-76.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-77",
+  "publication": "tips-and-tricks",
+  "sequence": 82,
+  "number": "77",
+  "date": {
+   "display": "July 2001",
+   "start": "2001-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e9e3fa1-79a2-4588-8a87-481ca60338c0",
+   "external_id": "6e9e3fa1-79a2-4588-8a87-481ca60338c0",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 77 (July 2001).pdf",
+   "bytes": 69486397,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-77.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-78",
+  "publication": "tips-and-tricks",
+  "sequence": 83,
+  "number": "78",
+  "date": {
+   "display": "August 2001",
+   "start": "2001-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cdbaec5a-99b4-4f01-a39f-67e0984d6d50",
+   "external_id": "cdbaec5a-99b4-4f01-a39f-67e0984d6d50",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 78 (August 2001).pdf",
+   "bytes": 71444997,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-78.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-79",
+  "publication": "tips-and-tricks",
+  "sequence": 84,
+  "number": "79",
+  "date": {
+   "display": "September 2001",
+   "start": "2001-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b8206fc-1a7f-4257-9b22-a52130ad57f7",
+   "external_id": "8b8206fc-1a7f-4257-9b22-a52130ad57f7",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 79 (September 2001).pdf",
+   "bytes": 153799603,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-79.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-80",
+  "publication": "tips-and-tricks",
+  "sequence": 85,
+  "number": "80",
+  "date": {
+   "display": "October 2001",
+   "start": "2001-10",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 197.8,
+   "height_mm": 277.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d6896e0f-b11f-4d23-b4c3-cde70a2a76bb",
+   "external_id": "d6896e0f-b11f-4d23-b4c3-cde70a2a76bb",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 80 (October 2001).pdf",
+   "bytes": 165567818,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-80.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-81",
+  "publication": "tips-and-tricks",
+  "sequence": 86,
+  "number": "81",
+  "date": {
+   "display": "November 2001",
+   "start": "2001-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 198.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c53efabe-94b0-4d46-96ea-6079b61eeafd",
+   "external_id": "c53efabe-94b0-4d46-96ea-6079b61eeafd",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 81 (November 2001).pdf",
+   "bytes": 80546556,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-81.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200111-tips-tricks-video-game-codebook-special-edition",
+  "publication": "tips-and-tricks",
+  "sequence": 87,
+  "number": "special",
+  "date": {
+   "display": "November 2001",
+   "start": "2001-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bca27efb-33c6-4e45-93d8-c1a954592408",
+   "external_id": "bca27efb-33c6-4e45-93d8-c1a954592408",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video-Game Codebook, Special Edition (November 2001).pdf",
+   "bytes": 62560276,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200111-tips-tricks-video-game-codebook-special-edition.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-82",
+  "publication": "tips-and-tricks",
+  "sequence": 88,
+  "number": "82",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 198.3,
+   "height_mm": 275.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/67637b7c-0aee-48f0-9297-9b35dccc9acc",
+   "external_id": "67637b7c-0aee-48f0-9297-9b35dccc9acc",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 82 (December 2001).pdf",
+   "bytes": 175647670,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-82.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-83",
+  "publication": "tips-and-tricks",
+  "sequence": 89,
+  "number": "83",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eb2ca2aa-230e-4620-82bd-ff16b0aba1bf",
+   "external_id": "eb2ca2aa-230e-4620-82bd-ff16b0aba1bf",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 83 (January 2002).pdf",
+   "bytes": 70015331,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-83.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-84",
+  "publication": "tips-and-tricks",
+  "sequence": 90,
+  "number": "84",
+  "date": {
+   "display": "February 2002",
+   "start": "2002-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4f3105b5-2c74-4443-be5a-b70b9dc23030",
+   "external_id": "4f3105b5-2c74-4443-be5a-b70b9dc23030",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 84 (February 2002).pdf",
+   "bytes": 68330821,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-84.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-85",
+  "publication": "tips-and-tricks",
+  "sequence": 91,
+  "number": "85",
+  "date": {
+   "display": "March 2002",
+   "start": "2002-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7e7cee9f-7327-4245-853e-ab4182773887",
+   "external_id": "7e7cee9f-7327-4245-853e-ab4182773887",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 85 (March 2002).pdf",
+   "bytes": 67936929,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-85.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-86",
+  "publication": "tips-and-tricks",
+  "sequence": 92,
+  "number": "86",
+  "date": {
+   "display": "April 2002",
+   "start": "2002-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe0c054d-3ea4-45b5-aa1b-4ea03f74cd6d",
+   "external_id": "fe0c054d-3ea4-45b5-aa1b-4ea03f74cd6d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 86 (April 2002).pdf",
+   "bytes": 69878524,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-86.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-87",
+  "publication": "tips-and-tricks",
+  "sequence": 93,
+  "number": "87",
+  "date": {
+   "display": "May 2002",
+   "start": "2002-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e065f0be-fe9e-46bb-931b-4b51125fc8a7",
+   "external_id": "e065f0be-fe9e-46bb-931b-4b51125fc8a7",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 87 (May 2002).pdf",
+   "bytes": 70500906,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-87.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200205-tips-tricks-summer-2002-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 94,
+  "number": "special",
+  "date": {
+   "display": "May 2002",
+   "start": "2002-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5c562128-1c3a-4d7f-af6c-42c1f4ffe08e",
+   "external_id": "5c562128-1c3a-4d7f-af6c-42c1f4ffe08e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Summer 2002 Video-Game Codebook (May 2002).pdf",
+   "bytes": 59088243,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200205-tips-tricks-summer-2002-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-88",
+  "publication": "tips-and-tricks",
+  "sequence": 95,
+  "number": "88",
+  "date": {
+   "display": "June 2002",
+   "start": "2002-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 278.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7aea0014-a652-499c-9833-f78b650f16bd",
+   "external_id": "7aea0014-a652-499c-9833-f78b650f16bd",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 88 (June 2002).pdf",
+   "bytes": 167345034,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-88.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-89",
+  "publication": "tips-and-tricks",
+  "sequence": 96,
+  "number": "89",
+  "date": {
+   "display": "July 2002",
+   "start": "2002-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec08f7f7-7fd9-431d-9aec-3d4c59861dfa",
+   "external_id": "ec08f7f7-7fd9-431d-9aec-3d4c59861dfa",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 89 (July 2002).pdf",
+   "bytes": 66279880,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-89.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-90",
+  "publication": "tips-and-tricks",
+  "sequence": 97,
+  "number": "90",
+  "date": {
+   "display": "August 2002",
+   "start": "2002-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.2,
+   "height_mm": 272.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ba57b324-3ac8-454f-9b3c-05c95ad4955a",
+   "external_id": "ba57b324-3ac8-454f-9b3c-05c95ad4955a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 90 (August 2002).pdf",
+   "bytes": 65240126,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-90.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-91",
+  "publication": "tips-and-tricks",
+  "sequence": 98,
+  "number": "91",
+  "date": {
+   "display": "September 2002",
+   "start": "2002-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.0,
+   "height_mm": 272.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e8c3bfc6-5465-4860-a940-3cdcc6455e6b",
+   "external_id": "e8c3bfc6-5465-4860-a940-3cdcc6455e6b",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 91 (September 2002).pdf",
+   "bytes": 64903694,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-91.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-92",
+  "publication": "tips-and-tricks",
+  "sequence": 99,
+  "number": "92",
+  "date": {
+   "display": "October 2002",
+   "start": "2002-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.3,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/410a74c9-03c4-43ea-902e-c58e0a3c37ff",
+   "external_id": "410a74c9-03c4-43ea-902e-c58e0a3c37ff",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 92 (October 2002).pdf",
+   "bytes": 152151362,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-92.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-93",
+  "publication": "tips-and-tricks",
+  "sequence": 100,
+  "number": "93",
+  "date": {
+   "display": "November 2002",
+   "start": "2002-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.7,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/494eda13-a25e-4359-b8cc-13bcbe682953",
+   "external_id": "494eda13-a25e-4359-b8cc-13bcbe682953",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 93 (November 2002).pdf",
+   "bytes": 178455556,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-93.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200211-tips-tricks-holiday-2002-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 101,
+  "number": "special",
+  "date": {
+   "display": "November 2002",
+   "start": "2002-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 281.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0333844-3abf-487c-a3e0-3cb462e568b0",
+   "external_id": "a0333844-3abf-487c-a3e0-3cb462e568b0",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Holiday 2002 Video-Game Codebook (November 2002).pdf",
+   "bytes": 106669654,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200211-tips-tricks-holiday-2002-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-94",
+  "publication": "tips-and-tricks",
+  "sequence": 102,
+  "number": "94",
+  "date": {
+   "display": "December 2002",
+   "start": "2002-12",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 278.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe4e5796-251d-4c03-b0fc-db4f1b152025",
+   "external_id": "fe4e5796-251d-4c03-b0fc-db4f1b152025",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 94 (December 2002).pdf",
+   "bytes": 168637975,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-94.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-95",
+  "publication": "tips-and-tricks",
+  "sequence": 103,
+  "number": "95",
+  "date": {
+   "display": "January 2003",
+   "start": "2003-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.0,
+   "height_mm": 272.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2c4d3be9-21a9-4c26-b1f0-d475e51a901a",
+   "external_id": "2c4d3be9-21a9-4c26-b1f0-d475e51a901a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 95 (January 2003).pdf",
+   "bytes": 63117399,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-95.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-96",
+  "publication": "tips-and-tricks",
+  "sequence": 104,
+  "number": "96",
+  "date": {
+   "display": "February 2003",
+   "start": "2003-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e1ecb9c-5805-4a0a-ad5b-c15a57523143",
+   "external_id": "6e1ecb9c-5805-4a0a-ad5b-c15a57523143",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 96 (February 2003).pdf",
+   "bytes": 53200852,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-96.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-97",
+  "publication": "tips-and-tricks",
+  "sequence": 105,
+  "number": "97",
+  "date": {
+   "display": "March 2003",
+   "start": "2003-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.8,
+   "height_mm": 275.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5fdb6ef2-3f05-4895-a74c-97c460bbba31",
+   "external_id": "5fdb6ef2-3f05-4895-a74c-97c460bbba31",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 97 (March 2003).pdf",
+   "bytes": 146613981,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-97.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-98",
+  "publication": "tips-and-tricks",
+  "sequence": 106,
+  "number": "98",
+  "date": {
+   "display": "April 2003",
+   "start": "2003-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2815b288-e7f4-4592-9a1b-4cfb64eb319b",
+   "external_id": "2815b288-e7f4-4592-9a1b-4cfb64eb319b",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 98 (April 2003).pdf",
+   "bytes": 69455356,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-98.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-99",
+  "publication": "tips-and-tricks",
+  "sequence": 107,
+  "number": "99",
+  "date": {
+   "display": "May 2003",
+   "start": "2003-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b7a26288-210b-4a72-8353-5a87ce361f8e",
+   "external_id": "b7a26288-210b-4a72-8353-5a87ce361f8e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 99 (May 2003).pdf",
+   "bytes": 58412800,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-99.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200305-tips-tricks-2003-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 108,
+  "number": "special",
+  "date": {
+   "display": "May 2003",
+   "start": "2003-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26207b7a-e8c7-4315-bc6a-86fcc909642d",
+   "external_id": "26207b7a-e8c7-4315-bc6a-86fcc909642d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 2003 Video-Game Codebook (May 2003).pdf",
+   "bytes": 72508762,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200305-tips-tricks-2003-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-100",
+  "publication": "tips-and-tricks",
+  "sequence": 109,
+  "number": "100",
+  "date": {
+   "display": "June 2003",
+   "start": "2003-06",
+   "precision": "month"
+  },
+  "pages": 98,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a70459e-f56b-4842-9ce4-a8fbfbf43a68",
+   "external_id": "0a70459e-f56b-4842-9ce4-a8fbfbf43a68",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 100 (June 2003).pdf",
+   "bytes": 152190562,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-100.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-101",
+  "publication": "tips-and-tricks",
+  "sequence": 110,
+  "number": "101",
+  "date": {
+   "display": "July 2003",
+   "start": "2003-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e202f334-f917-40bc-921d-9e528032b4b4",
+   "external_id": "e202f334-f917-40bc-921d-9e528032b4b4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 101 (July 2003).pdf",
+   "bytes": 60682555,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-101.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-102",
+  "publication": "tips-and-tricks",
+  "sequence": 111,
+  "number": "102",
+  "date": {
+   "display": "August 2003",
+   "start": "2003-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a198c5dd-a5a5-421b-9f16-ee2696957d42",
+   "external_id": "a198c5dd-a5a5-421b-9f16-ee2696957d42",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 102 (August 2003).pdf",
+   "bytes": 64408326,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-102.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-103",
+  "publication": "tips-and-tricks",
+  "sequence": 112,
+  "number": "103",
+  "date": {
+   "display": "September 2003",
+   "start": "2003-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 200.9,
+   "height_mm": 271.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e37c472-b838-48dd-8919-29ee198873b9",
+   "external_id": "6e37c472-b838-48dd-8919-29ee198873b9",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 103 (September 2003).pdf",
+   "bytes": 149448607,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-103.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-104",
+  "publication": "tips-and-tricks",
+  "sequence": 113,
+  "number": "104",
+  "date": {
+   "display": "October 2003",
+   "start": "2003-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cdd72548-d01b-4d12-afca-e53ee9628ced",
+   "external_id": "cdd72548-d01b-4d12-afca-e53ee9628ced",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 104 (October 2003).pdf",
+   "bytes": 150903017,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-104.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-105",
+  "publication": "tips-and-tricks",
+  "sequence": 114,
+  "number": "105",
+  "date": {
+   "display": "November 2003",
+   "start": "2003-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d5770588-b57b-47ac-9168-909ea4a3f227",
+   "external_id": "d5770588-b57b-47ac-9168-909ea4a3f227",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 105 (November 2003).pdf",
+   "bytes": 63820430,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-105.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200311-tips-tricks-holiday-2003-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 115,
+  "number": "special",
+  "date": {
+   "display": "November 2003",
+   "start": "2003-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/357f61b3-0c3b-41c3-88f0-2b5b7140c8d4",
+   "external_id": "357f61b3-0c3b-41c3-88f0-2b5b7140c8d4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Holiday 2003 Codebook (November 2003).pdf",
+   "bytes": 61843725,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200311-tips-tricks-holiday-2003-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-106",
+  "publication": "tips-and-tricks",
+  "sequence": 116,
+  "number": "106",
+  "date": {
+   "display": "December 2003",
+   "start": "2003-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/34fb42b2-20d8-4fae-8455-a1ac3956d619",
+   "external_id": "34fb42b2-20d8-4fae-8455-a1ac3956d619",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 106 (December 2003).pdf",
+   "bytes": 65036086,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-106.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-107",
+  "publication": "tips-and-tricks",
+  "sequence": 117,
+  "number": "107",
+  "date": {
+   "display": "January 2004",
+   "start": "2004-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/31e482a4-42c2-4e45-b461-a08bc7386da9",
+   "external_id": "31e482a4-42c2-4e45-b461-a08bc7386da9",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 107 (January 2004).pdf",
+   "bytes": 64839675,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-107.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-108",
+  "publication": "tips-and-tricks",
+  "sequence": 118,
+  "number": "108",
+  "date": {
+   "display": "February 2004",
+   "start": "2004-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3db43162-8ef3-40b3-93ec-6774b928e74e",
+   "external_id": "3db43162-8ef3-40b3-93ec-6774b928e74e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 108 (February 2004).pdf",
+   "bytes": 67564508,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-108.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-109",
+  "publication": "tips-and-tricks",
+  "sequence": 119,
+  "number": "109",
+  "date": {
+   "display": "March 2004",
+   "start": "2004-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ad5ad7f7-9a1d-4d4d-a141-83ab130f94a1",
+   "external_id": "ad5ad7f7-9a1d-4d4d-a141-83ab130f94a1",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 109 (March 2004).pdf",
+   "bytes": 65047717,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-109.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-110",
+  "publication": "tips-and-tricks",
+  "sequence": 120,
+  "number": "110",
+  "date": {
+   "display": "April 2004",
+   "start": "2004-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.8,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3a7ad8b0-4756-4e31-a41b-3d8bd4111495",
+   "external_id": "3a7ad8b0-4756-4e31-a41b-3d8bd4111495",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 110 (April 2004).pdf",
+   "bytes": 152105074,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-110.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-111",
+  "publication": "tips-and-tricks",
+  "sequence": 121,
+  "number": "111",
+  "date": {
+   "display": "May 2004",
+   "start": "2004-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6af5400e-831b-42e6-b0c3-1c2f04d9034d",
+   "external_id": "6af5400e-831b-42e6-b0c3-1c2f04d9034d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 111 (May 2004).pdf",
+   "bytes": 64288240,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-111.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200405-tips-tricks-codebook-10th-anniversary-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 122,
+  "number": "special",
+  "date": {
+   "display": "May 2004",
+   "start": "2004-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 195.6,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/16cdc05f-0aeb-44e4-a45b-2ec8b549ee68",
+   "external_id": "16cdc05f-0aeb-44e4-a45b-2ec8b549ee68",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Codebook 10th Anniversary Codebook (May 2004).pdf",
+   "bytes": 72221211,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200405-tips-tricks-codebook-10th-anniversary-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-112",
+  "publication": "tips-and-tricks",
+  "sequence": 123,
+  "number": "112",
+  "date": {
+   "display": "June 2004",
+   "start": "2004-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5074c237-2572-4ae5-8e76-91dbf64c4c94",
+   "external_id": "5074c237-2572-4ae5-8e76-91dbf64c4c94",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 112 (June 2004).pdf",
+   "bytes": 64921668,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-112.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-113",
+  "publication": "tips-and-tricks",
+  "sequence": 124,
+  "number": "113",
+  "date": {
+   "display": "July 2004",
+   "start": "2004-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d4cfb710-7d76-4499-b043-163fc08c7f73",
+   "external_id": "d4cfb710-7d76-4499-b043-163fc08c7f73",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 113 (July 2004).pdf",
+   "bytes": 150222697,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-113.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-114",
+  "publication": "tips-and-tricks",
+  "sequence": 125,
+  "number": "114",
+  "date": {
+   "display": "August 2004",
+   "start": "2004-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/591ca338-4580-4a63-9b38-dd8f801ac000",
+   "external_id": "591ca338-4580-4a63-9b38-dd8f801ac000",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 114 (August 2004).pdf",
+   "bytes": 82290012,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-114.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-115",
+  "publication": "tips-and-tricks",
+  "sequence": 126,
+  "number": "115",
+  "date": {
+   "display": "September 2004",
+   "start": "2004-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c3d796c9-9976-461f-9750-12f6ec848531",
+   "external_id": "c3d796c9-9976-461f-9750-12f6ec848531",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 115 (September 2004).pdf",
+   "bytes": 84319462,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-115.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-116",
+  "publication": "tips-and-tricks",
+  "sequence": 127,
+  "number": "116",
+  "date": {
+   "display": "October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 298.1,
+   "height_mm": 403.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d7778b92-20bc-4398-988d-34ed8532dd6a",
+   "external_id": "d7778b92-20bc-4398-988d-34ed8532dd6a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 116 (October 2004).pdf",
+   "bytes": 86715523,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-116.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200410-tips-tricks-codebook-special-edition",
+  "publication": "tips-and-tricks",
+  "sequence": 128,
+  "number": "special",
+  "date": {
+   "display": "October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eae1633d-7c6c-4a44-8ec6-6cd19f88646c",
+   "external_id": "eae1633d-7c6c-4a44-8ec6-6cd19f88646c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Codebook, Special Edition (October 2004).pdf",
+   "bytes": 59525249,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200410-tips-tricks-codebook-special-edition.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-117",
+  "publication": "tips-and-tricks",
+  "sequence": 129,
+  "number": "117",
+  "date": {
+   "display": "November 2004",
+   "start": "2004-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b70f81bd-a262-475a-a52d-450e923e7c94",
+   "external_id": "b70f81bd-a262-475a-a52d-450e923e7c94",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 117 (November 2004).pdf",
+   "bytes": 68295954,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-117.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-118",
+  "publication": "tips-and-tricks",
+  "sequence": 130,
+  "number": "118",
+  "date": {
+   "display": "December 2004",
+   "start": "2004-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf5d7808-3533-4441-a5aa-75d398c0b50c",
+   "external_id": "cf5d7808-3533-4441-a5aa-75d398c0b50c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 118 (December 2004).pdf",
+   "bytes": 73037185,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-118.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-119",
+  "publication": "tips-and-tricks",
+  "sequence": 131,
+  "number": "119",
+  "date": {
+   "display": "January 2005",
+   "start": "2005-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c8df3aa-d0bb-46ae-961c-a5e191e410e0",
+   "external_id": "4c8df3aa-d0bb-46ae-961c-a5e191e410e0",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 119 (January 2005).pdf",
+   "bytes": 71533928,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-119.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-120",
+  "publication": "tips-and-tricks",
+  "sequence": 132,
+  "number": "120",
+  "date": {
+   "display": "February 2005",
+   "start": "2005-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/16c9b6cc-b010-4940-8e5f-753113503b52",
+   "external_id": "16c9b6cc-b010-4940-8e5f-753113503b52",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 120 (February 2005).pdf",
+   "bytes": 145710678,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-120.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-121",
+  "publication": "tips-and-tricks",
+  "sequence": 133,
+  "number": "121",
+  "date": {
+   "display": "March 2005",
+   "start": "2005-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/82fb7be9-eea9-4fb6-8f7a-75de0771328d",
+   "external_id": "82fb7be9-eea9-4fb6-8f7a-75de0771328d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 121 (March 2005).pdf",
+   "bytes": 70213782,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-121.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-122",
+  "publication": "tips-and-tricks",
+  "sequence": 134,
+  "number": "122",
+  "date": {
+   "display": "April 2005",
+   "start": "2005-04",
+   "precision": "month"
+  },
+  "pages": 99,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d4a3d78d-8039-4537-917e-b1ceb33c9002",
+   "external_id": "d4a3d78d-8039-4537-917e-b1ceb33c9002",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 122 (April 2005).pdf",
+   "bytes": 70958672,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-122.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-123",
+  "publication": "tips-and-tricks",
+  "sequence": 135,
+  "number": "123",
+  "date": {
+   "display": "May 2005",
+   "start": "2005-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/09b827a2-c15c-494d-97c0-09517efc34f4",
+   "external_id": "09b827a2-c15c-494d-97c0-09517efc34f4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 123 (May 2005).pdf",
+   "bytes": 66296942,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-123.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200505-tips-tricks-special-edition-2005-video-game-code",
+  "publication": "tips-and-tricks",
+  "sequence": 136,
+  "number": "special",
+  "date": {
+   "display": "May 2005",
+   "start": "2005-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/378671ac-157e-40eb-9a87-cc669669e240",
+   "external_id": "378671ac-157e-40eb-9a87-cc669669e240",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Special Edition 2005 Video-Game Codebook (May 2005).pdf",
+   "bytes": 68861067,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200505-tips-tricks-special-edition-2005-video-game-code.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-124",
+  "publication": "tips-and-tricks",
+  "sequence": 137,
+  "number": "124",
+  "date": {
+   "display": "June 2005",
+   "start": "2005-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/77d7e71a-4427-4a20-876d-00f61430f007",
+   "external_id": "77d7e71a-4427-4a20-876d-00f61430f007",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 124 (June 2005).pdf",
+   "bytes": 60908235,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-124.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-125",
+  "publication": "tips-and-tricks",
+  "sequence": 138,
+  "number": "125",
+  "date": {
+   "display": "July 2005",
+   "start": "2005-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c035636-6e53-4470-ba61-ca6e0316cb83",
+   "external_id": "6c035636-6e53-4470-ba61-ca6e0316cb83",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 125 (July 2005).pdf",
+   "bytes": 71300078,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-125.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-126",
+  "publication": "tips-and-tricks",
+  "sequence": 139,
+  "number": "126",
+  "date": {
+   "display": "August 2005",
+   "start": "2005-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 275.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9a42a41-e939-46c6-a266-c649e1970f1c",
+   "external_id": "a9a42a41-e939-46c6-a266-c649e1970f1c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 126 (August 2005).pdf",
+   "bytes": 148759442,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-126.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-127",
+  "publication": "tips-and-tricks",
+  "sequence": 140,
+  "number": "127",
+  "date": {
+   "display": "September 2005",
+   "start": "2005-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 384.6,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c390f3ca-d6cc-4156-9466-c90b9b622d30",
+   "external_id": "c390f3ca-d6cc-4156-9466-c90b9b622d30",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 127 (September 2005).pdf",
+   "bytes": 155570646,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-127.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-128",
+  "publication": "tips-and-tricks",
+  "sequence": 141,
+  "number": "128",
+  "date": {
+   "display": "October 2005",
+   "start": "2005-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.7,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8c44094-6503-4f0c-8074-9d8e97430b9d",
+   "external_id": "f8c44094-6503-4f0c-8074-9d8e97430b9d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 128 (October 2005).pdf",
+   "bytes": 145470492,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-128.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200510-tips-tricks-2005-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 142,
+  "number": "special",
+  "date": {
+   "display": "October 2005",
+   "start": "2005-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4b800e8d-8215-4426-a98d-7c4a8ba985bf",
+   "external_id": "4b800e8d-8215-4426-a98d-7c4a8ba985bf",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 2005 Video-Game Codebook (October 2005).pdf",
+   "bytes": 66438978,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200510-tips-tricks-2005-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-129",
+  "publication": "tips-and-tricks",
+  "sequence": 143,
+  "number": "129",
+  "date": {
+   "display": "November 2005",
+   "start": "2005-11",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1abf7e34-1acd-4224-ad10-fbf74a2ab5cf",
+   "external_id": "1abf7e34-1acd-4224-ad10-fbf74a2ab5cf",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 129 (November 2005).pdf",
+   "bytes": 185096430,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-129.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-130",
+  "publication": "tips-and-tricks",
+  "sequence": 144,
+  "number": "130",
+  "date": {
+   "display": "December 2005",
+   "start": "2005-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.0,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ee080257-e024-4456-ac27-4fd383017b7c",
+   "external_id": "ee080257-e024-4456-ac27-4fd383017b7c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 130 (December 2005).pdf",
+   "bytes": 58900542,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-130.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-131",
+  "publication": "tips-and-tricks",
+  "sequence": 145,
+  "number": "131",
+  "date": {
+   "display": "January 2006",
+   "start": "2006-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/23097a5a-76de-4dee-ba99-6441d1bfde0d",
+   "external_id": "23097a5a-76de-4dee-ba99-6441d1bfde0d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 131 (January 2006).pdf",
+   "bytes": 60594956,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-131.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-132",
+  "publication": "tips-and-tricks",
+  "sequence": 146,
+  "number": "132",
+  "date": {
+   "display": "February 2006",
+   "start": "2006-02",
+   "precision": "month"
+  },
+  "pages": 98,
+  "dimensions": {
+   "width_mm": 208.5,
+   "height_mm": 277.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/be39dffb-f0ed-4c4a-8184-b3ccb1a79170",
+   "external_id": "be39dffb-f0ed-4c4a-8184-b3ccb1a79170",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 132 (February 2006).pdf",
+   "bytes": 134637036,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-132.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-133",
+  "publication": "tips-and-tricks",
+  "sequence": 147,
+  "number": "133",
+  "date": {
+   "display": "March 2006",
+   "start": "2006-03",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 200.1,
+   "height_mm": 278.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d2a3e93f-ca92-4ed3-9f7e-b4c7787420eb",
+   "external_id": "d2a3e93f-ca92-4ed3-9f7e-b4c7787420eb",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 133 (March 2006).pdf",
+   "bytes": 164251607,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-133.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-134",
+  "publication": "tips-and-tricks",
+  "sequence": 148,
+  "number": "134",
+  "date": {
+   "display": "April 2006",
+   "start": "2006-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25d39bb7-88c8-4f4d-8804-8f36da9c05a5",
+   "external_id": "25d39bb7-88c8-4f4d-8804-8f36da9c05a5",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 134 (April 2006).pdf",
+   "bytes": 66915253,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-134.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-135",
+  "publication": "tips-and-tricks",
+  "sequence": 149,
+  "number": "135",
+  "date": {
+   "display": "May 2006",
+   "start": "2006-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a09aeb1-64f4-432a-9ae3-25d49d024ccb",
+   "external_id": "0a09aeb1-64f4-432a-9ae3-25d49d024ccb",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 135 (May 2006).pdf",
+   "bytes": 142457984,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-135.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200605-tips-tricks-2006-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 150,
+  "number": "special",
+  "date": {
+   "display": "May 2006",
+   "start": "2006-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.8,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d20fdcb-43a5-473f-a724-03c9631cb2a9",
+   "external_id": "2d20fdcb-43a5-473f-a724-03c9631cb2a9",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 2006 Video-Game Codebook (May 2006).pdf",
+   "bytes": 63168934,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200605-tips-tricks-2006-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-136",
+  "publication": "tips-and-tricks",
+  "sequence": 151,
+  "number": "136",
+  "date": {
+   "display": "June 2006",
+   "start": "2006-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.2,
+   "height_mm": 273.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/637afe03-85c5-44aa-a92d-a17549036954",
+   "external_id": "637afe03-85c5-44aa-a92d-a17549036954",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 136 (June 2006).pdf",
+   "bytes": 143657459,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-136.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-137",
+  "publication": "tips-and-tricks",
+  "sequence": 152,
+  "number": "137",
+  "date": {
+   "display": "July 2006",
+   "start": "2006-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6afbf923-6a6f-4772-b469-8095a1feeac5",
+   "external_id": "6afbf923-6a6f-4772-b469-8095a1feeac5",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 137 (July 2006).pdf",
+   "bytes": 64892211,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-137.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-138",
+  "publication": "tips-and-tricks",
+  "sequence": 153,
+  "number": "138",
+  "date": {
+   "display": "August 2006",
+   "start": "2006-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c1c5978f-36a7-45b8-8593-433bda547ca8",
+   "external_id": "c1c5978f-36a7-45b8-8593-433bda547ca8",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 138 (August 2006).pdf",
+   "bytes": 52050928,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-138.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-139",
+  "publication": "tips-and-tricks",
+  "sequence": 154,
+  "number": "139",
+  "date": {
+   "display": "September 2006",
+   "start": "2006-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 277.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0ebef927-e43b-47ff-a485-0c8961d4e00f",
+   "external_id": "0ebef927-e43b-47ff-a485-0c8961d4e00f",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 139 (September 2006).pdf",
+   "bytes": 80607332,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-139.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-140",
+  "publication": "tips-and-tricks",
+  "sequence": 155,
+  "number": "140",
+  "date": {
+   "display": "October 2006",
+   "start": "2006-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8e32ad12-382e-4728-a505-f4df840ffd42",
+   "external_id": "8e32ad12-382e-4728-a505-f4df840ffd42",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 140 (October 2006).pdf",
+   "bytes": 60170862,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-140.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200610-tips-tricks-2006-video-game-codebook-special-zom",
+  "publication": "tips-and-tricks",
+  "sequence": 156,
+  "number": "special",
+  "date": {
+   "display": "October 2006",
+   "start": "2006-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4893820a-ee07-46b7-b186-c72cdd136645",
+   "external_id": "4893820a-ee07-46b7-b186-c72cdd136645",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 2006 Video-Game Codebook, Special Zombie Edition (October 2006).pdf",
+   "bytes": 66739054,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200610-tips-tricks-2006-video-game-codebook-special-zom.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-141",
+  "publication": "tips-and-tricks",
+  "sequence": 157,
+  "number": "141",
+  "date": {
+   "display": "November 2006",
+   "start": "2006-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/03f8395a-2f98-4601-9813-c112919ba7cb",
+   "external_id": "03f8395a-2f98-4601-9813-c112919ba7cb",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 141 (November 2006).pdf",
+   "bytes": 145111991,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-141.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-143",
+  "publication": "tips-and-tricks",
+  "sequence": 158,
+  "number": "143",
+  "date": {
+   "display": "January 2007",
+   "start": "2007-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/12c49805-9561-40cb-a905-897213865774",
+   "external_id": "12c49805-9561-40cb-a905-897213865774",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 143 (January 2007).pdf",
+   "bytes": 140900395,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-143.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200701-tips-tricks-super-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 159,
+  "number": "special",
+  "date": {
+   "display": "January 2007",
+   "start": "2007-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/85835831-1c16-43d8-be50-74e4f29a8649",
+   "external_id": "85835831-1c16-43d8-be50-74e4f29a8649",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Super Video-Game Codebook (January 2007).pdf",
+   "bytes": 56474395,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200701-tips-tricks-super-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-144",
+  "publication": "tips-and-tricks",
+  "sequence": 160,
+  "number": "144",
+  "date": {
+   "display": "February 2007",
+   "start": "2007-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/36f31b35-ca41-4857-98b5-8b7c848ab7c7",
+   "external_id": "36f31b35-ca41-4857-98b5-8b7c848ab7c7",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 144 (February 2007).pdf",
+   "bytes": 61564966,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-144.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-145",
+  "publication": "tips-and-tricks",
+  "sequence": 161,
+  "number": "145",
+  "date": {
+   "display": "March 2007",
+   "start": "2007-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f6e795d2-96ff-45e1-b79e-1040a8908249",
+   "external_id": "f6e795d2-96ff-45e1-b79e-1040a8908249",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 145 (March 2007).pdf",
+   "bytes": 139787090,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-145.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200703-tips-tricks-spring-07-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 162,
+  "number": "special",
+  "date": {
+   "display": "March 2007",
+   "start": "2007-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e69898a5-8268-415e-9cb7-51cdd67c1007",
+   "external_id": "e69898a5-8268-415e-9cb7-51cdd67c1007",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Spring '07 Video-Game Codebook (March 2007).pdf",
+   "bytes": 87760469,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200703-tips-tricks-spring-07-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-146",
+  "publication": "tips-and-tricks",
+  "sequence": 163,
+  "number": "146",
+  "date": {
+   "display": "April 2007",
+   "start": "2007-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf915074-4a46-4588-8074-47b29d43972b",
+   "external_id": "bf915074-4a46-4588-8074-47b29d43972b",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 146 (April 2007).pdf",
+   "bytes": 145940759,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-146.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-147",
+  "publication": "tips-and-tricks",
+  "sequence": 164,
+  "number": "147",
+  "date": {
+   "display": "May 2007",
+   "start": "2007-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1b92762-49a3-4245-b068-7f403398f460",
+   "external_id": "f1b92762-49a3-4245-b068-7f403398f460",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 147 (May 2007).pdf",
+   "bytes": 75981951,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-147.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-148",
+  "publication": "tips-and-tricks",
+  "sequence": 165,
+  "number": "148",
+  "date": {
+   "display": "June 2007",
+   "start": "2007-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1beae394-35ef-4f43-82b4-828af84d5060",
+   "external_id": "1beae394-35ef-4f43-82b4-828af84d5060",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 148 (June 2007).pdf",
+   "bytes": 150470247,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-148.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200706-tips-tricks-2007-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 166,
+  "number": "special",
+  "date": {
+   "display": "Summer 2007",
+   "start": "2007-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2e984fdd-5b36-4864-a3a7-5e153e24e821",
+   "external_id": "2e984fdd-5b36-4864-a3a7-5e153e24e821",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks 2007 Video-Game Codebook (Summer 2007).pdf",
+   "bytes": 57222085,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200706-tips-tricks-2007-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-149",
+  "publication": "tips-and-tricks",
+  "sequence": 167,
+  "number": "149",
+  "date": {
+   "display": "July 2007",
+   "start": "2007-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ba7b2ac-4666-4a8a-8204-931bb0c7413a",
+   "external_id": "5ba7b2ac-4666-4a8a-8204-931bb0c7413a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 149 (July 2007).pdf",
+   "bytes": 64010810,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-149.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-150",
+  "publication": "tips-and-tricks",
+  "sequence": 168,
+  "number": "150",
+  "date": {
+   "display": "August 2007",
+   "start": "2007-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 278.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0d52efea-75b2-4241-9783-f5dc00ccaebb",
+   "external_id": "0d52efea-75b2-4241-9783-f5dc00ccaebb",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 150 (August 2007).pdf",
+   "bytes": 120178974,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-150.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200709-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 169,
+  "number": "special",
+  "date": {
+   "display": "September/October 2007",
+   "start": "2007-09",
+   "precision": "month",
+   "end": "2007-10"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b0ce9c7d-3517-4274-9ab6-0ff9ac65f225",
+   "external_id": "b0ce9c7d-3517-4274-9ab6-0ff9ac65f225",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (September-October 2007).pdf",
+   "bytes": 97067305,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200709-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200711-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 170,
+  "number": "special",
+  "date": {
+   "display": "November/December 2007",
+   "start": "2007-11",
+   "precision": "month",
+   "end": "2007-12"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.0,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d226e71a-4696-4669-b61b-e2ceef047e3e",
+   "external_id": "d226e71a-4696-4669-b61b-e2ceef047e3e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (November-December 2007).pdf",
+   "bytes": 104048681,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200711-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-142",
+  "publication": "tips-and-tricks",
+  "sequence": 171,
+  "number": "142",
+  "date": {
+   "display": "December 2007",
+   "start": "2007-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.8,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/abfb788f-7f58-45a9-be28-eea62dcddff8",
+   "external_id": "abfb788f-7f58-45a9-be28-eea62dcddff8",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks, Number 142 (December 2007).pdf",
+   "bytes": 147228444,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-142.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200801-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 172,
+  "number": "special",
+  "date": {
+   "display": "January/February 2008",
+   "start": "2008-01",
+   "precision": "month",
+   "end": "2008-02"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e789c50a-35ba-41df-848d-018125da68ef",
+   "external_id": "e789c50a-35ba-41df-848d-018125da68ef",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (January-February 2008).pdf",
+   "bytes": 58154566,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200801-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200803-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 173,
+  "number": "special",
+  "date": {
+   "display": "March/April 2008",
+   "start": "2008-03",
+   "precision": "month",
+   "end": "2008-04"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/adb7d80c-be97-4b49-9ed6-9973e1061f2d",
+   "external_id": "adb7d80c-be97-4b49-9ed6-9973e1061f2d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (March-April 2008).pdf",
+   "bytes": 56649482,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200803-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200805-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 174,
+  "number": "special",
+  "date": {
+   "display": "May/June 2008",
+   "start": "2008-05",
+   "precision": "month",
+   "end": "2008-06"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4a1e84f1-05df-4422-9c22-2c7822ef3a53",
+   "external_id": "4a1e84f1-05df-4422-9c22-2c7822ef3a53",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (May-June 2008).pdf",
+   "bytes": 60014110,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200805-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200807-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 175,
+  "number": "special",
+  "date": {
+   "display": "July/August 2008",
+   "start": "2008-07",
+   "precision": "month",
+   "end": "2008-08"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0336ba31-c218-473b-ba58-00fef5213dd2",
+   "external_id": "0336ba31-c218-473b-ba58-00fef5213dd2",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (July-August 2008).pdf",
+   "bytes": 57743138,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200807-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200809-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 176,
+  "number": "special",
+  "date": {
+   "display": "September/October 2008",
+   "start": "2008-09",
+   "precision": "month",
+   "end": "2008-10"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a3ca2b06-e544-4cae-b6be-f435700dbb1f",
+   "external_id": "a3ca2b06-e544-4cae-b6be-f435700dbb1f",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (September-October 2008).pdf",
+   "bytes": 68566466,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200809-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200811-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 177,
+  "number": "special",
+  "date": {
+   "display": "November/December 2008",
+   "start": "2008-11",
+   "precision": "month",
+   "end": "2008-12"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3fa3492e-4f36-476e-b550-3caa324c4e26",
+   "external_id": "3fa3492e-4f36-476e-b550-3caa324c4e26",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (November-December 2008).pdf",
+   "bytes": 112982825,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200811-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200901-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 178,
+  "number": "special",
+  "date": {
+   "display": "January/February 2009",
+   "start": "2009-01",
+   "precision": "month",
+   "end": "2009-02"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7eb91330-7830-4686-a88f-2a1157959bb0",
+   "external_id": "7eb91330-7830-4686-a88f-2a1157959bb0",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (January-February 2009).pdf",
+   "bytes": 56418390,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200901-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200903-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 179,
+  "number": "special",
+  "date": {
+   "display": "March/April 2009",
+   "start": "2009-03",
+   "precision": "month",
+   "end": "2009-04"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cb5fc0ec-b5e1-4230-aa27-62f808efe36e",
+   "external_id": "cb5fc0ec-b5e1-4230-aa27-62f808efe36e",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (March-April 2009).pdf",
+   "bytes": 56022558,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200903-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200905-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 180,
+  "number": "special",
+  "date": {
+   "display": "May/June 2009",
+   "start": "2009-05",
+   "precision": "month",
+   "end": "2009-06"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d25d3cb8-9b55-4157-907d-fef0a9656227",
+   "external_id": "d25d3cb8-9b55-4157-907d-fef0a9656227",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (May-June 2009).pdf",
+   "bytes": 53688338,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200905-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200907-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 181,
+  "number": "special",
+  "date": {
+   "display": "July/August 2009",
+   "start": "2009-07",
+   "precision": "month",
+   "end": "2009-08"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5b5aee06-4503-4854-9e61-c2040df594c2",
+   "external_id": "5b5aee06-4503-4854-9e61-c2040df594c2",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (July-August 2009).pdf",
+   "bytes": 57395455,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200907-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200909-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 182,
+  "number": "special",
+  "date": {
+   "display": "September/October 2009",
+   "start": "2009-09",
+   "precision": "month",
+   "end": "2009-10"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e5d440af-ab69-494b-9276-39b0b1c690d8",
+   "external_id": "e5d440af-ab69-494b-9276-39b0b1c690d8",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (September-October 2009).pdf",
+   "bytes": 70874197,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200909-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-200911-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 183,
+  "number": "special",
+  "date": {
+   "display": "November/December 2009",
+   "start": "2009-11",
+   "precision": "month",
+   "end": "2009-12"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8f6ed0de-56b9-4f6a-9352-677e0e345cc8",
+   "external_id": "8f6ed0de-56b9-4f6a-9352-677e0e345cc8",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (November-December 2009).pdf",
+   "bytes": 57505573,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-200911-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-201003-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 184,
+  "number": "special",
+  "date": {
+   "display": "March 2010",
+   "start": "2010-03",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6343a020-eae9-4b5c-b436-0294b8dc0ed0",
+   "external_id": "6343a020-eae9-4b5c-b436-0294b8dc0ed0",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (March 2010).pdf",
+   "bytes": 45132944,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-201003-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-201007-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 185,
+  "number": "special",
+  "date": {
+   "display": "July 2010",
+   "start": "2010-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6fa0d4d4-5cb4-4954-8f06-cfb1928b9ab9",
+   "external_id": "6fa0d4d4-5cb4-4954-8f06-cfb1928b9ab9",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (July 2010).pdf",
+   "bytes": 66984870,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-201007-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-201009-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 186,
+  "number": "special",
+  "date": {
+   "display": "September 2010",
+   "start": "2010-09",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d2617a9b-7520-4de8-869e-2461a34bdcb4",
+   "external_id": "d2617a9b-7520-4de8-869e-2461a34bdcb4",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (September 2010).pdf",
+   "bytes": 42624515,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-201009-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "tips-and-tricks-201011-tips-tricks-video-game-codebook",
+  "publication": "tips-and-tricks",
+  "sequence": 187,
+  "number": "special",
+  "date": {
+   "display": "November 2010",
+   "start": "2010-11",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1146fd2d-d6c3-4e2b-adb9-50c7fd5fb19a",
+   "external_id": "1146fd2d-d6c3-4e2b-adb9-50c7fd5fb19a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/tips-and-tricks/pdf/Tips & Tricks Video Game Codebook (November 2010).pdf",
+   "bytes": 45649517,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/tips-and-tricks-201011-tips-tricks-video-game-codebook.jpg",
+   "pages_rendered": false
+  }
+ }
+]

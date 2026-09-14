@@ -1,0 +1,1060 @@
+[
+ {
+  "id": "hardcore-gamer-1",
+  "publication": "hardcore-gamer",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "June 2005",
+   "start": "2005-06",
+   "precision": "month"
+  },
+  "pages": 43,
+  "dimensions": {
+   "width_mm": 219.1,
+   "height_mm": 282.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/86d96764-161b-47d5-84a4-301fa7aa5600",
+   "external_id": "86d96764-161b-47d5-84a4-301fa7aa5600",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 1 (June 2005).pdf",
+   "bytes": 24983818,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "volume": 1
+ },
+ {
+  "id": "hardcore-gamer-2",
+  "publication": "hardcore-gamer",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "July 2005",
+   "start": "2005-07",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 219.1,
+   "height_mm": 282.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c11f124c-7a94-4d51-aed5-73acf3720664",
+   "external_id": "c11f124c-7a94-4d51-aed5-73acf3720664",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 2 (July 2005).pdf",
+   "bytes": 28362717,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-3",
+  "publication": "hardcore-gamer",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "August 2005",
+   "start": "2005-08",
+   "precision": "month"
+  },
+  "pages": 43,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3559bbdc-684d-4f6a-8ffa-b0b3a3b0b15b",
+   "external_id": "3559bbdc-684d-4f6a-8ffa-b0b3a3b0b15b",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 3 (August 2005).pdf",
+   "bytes": 19948004,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-4",
+  "publication": "hardcore-gamer",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "September 2005",
+   "start": "2005-09",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5eaa1a99-e5b4-4ca2-8366-38b6e0af67f3",
+   "external_id": "5eaa1a99-e5b4-4ca2-8366-38b6e0af67f3",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 4 (September 2005).pdf",
+   "bytes": 25676279,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-5",
+  "publication": "hardcore-gamer",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "November 2005",
+   "start": "2005-11",
+   "precision": "month"
+  },
+  "pages": 49,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6aead728-3a72-48f6-acfa-3b782eeb97ae",
+   "external_id": "6aead728-3a72-48f6-acfa-3b782eeb97ae",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 5 (November 2005).pdf",
+   "bytes": 34149087,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-6",
+  "publication": "hardcore-gamer",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "December 2005",
+   "start": "2005-12",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d7876b7f-22d8-4dc5-866c-91a2beeda336",
+   "external_id": "d7876b7f-22d8-4dc5-866c-91a2beeda336",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 6 (December 2005).pdf",
+   "bytes": 25031443,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-7",
+  "publication": "hardcore-gamer",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "January 2006",
+   "start": "2006-01",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/14378d0d-5959-4c7b-976d-478c23b87ca6",
+   "external_id": "14378d0d-5959-4c7b-976d-478c23b87ca6",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 7 (January 2006).pdf",
+   "bytes": 26939558,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-8",
+  "publication": "hardcore-gamer",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "February 2006",
+   "start": "2006-02",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d55fbd97-7c0b-4018-bd1e-bf8ca451bd23",
+   "external_id": "d55fbd97-7c0b-4018-bd1e-bf8ca451bd23",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 8 (February 2006).pdf",
+   "bytes": 21273216,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-9",
+  "publication": "hardcore-gamer",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "March 2006",
+   "start": "2006-03",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7380b918-7305-467e-816e-00ae75df4e5b",
+   "external_id": "7380b918-7305-467e-816e-00ae75df4e5b",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 9 (March 2006).pdf",
+   "bytes": 23746902,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-10",
+  "publication": "hardcore-gamer",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "April 2006",
+   "start": "2006-04",
+   "precision": "month"
+  },
+  "pages": 46,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2369418a-e0c2-4d2c-aba6-72791452d6c3",
+   "external_id": "2369418a-e0c2-4d2c-aba6-72791452d6c3",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 10 (April 2006).pdf",
+   "bytes": 26878668,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-11",
+  "publication": "hardcore-gamer",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "May 2006",
+   "start": "2006-05",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b958890c-9f79-4bde-aa0f-31557f6e9518",
+   "external_id": "b958890c-9f79-4bde-aa0f-31557f6e9518",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 11 (May 2006).pdf",
+   "bytes": 28105583,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-12",
+  "publication": "hardcore-gamer",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "June 2006",
+   "start": "2006-06",
+   "precision": "month"
+  },
+  "pages": 45,
+  "dimensions": {
+   "width_mm": 219.1,
+   "height_mm": 282.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e822f9ea-511a-435d-9b8c-877480f18ea3",
+   "external_id": "e822f9ea-511a-435d-9b8c-877480f18ea3",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 1, Issue 12 (June 2006).pdf",
+   "bytes": 21909724,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-1-2",
+  "publication": "hardcore-gamer",
+  "sequence": 13,
+  "number": "1",
+  "date": {
+   "display": "July 2006",
+   "start": "2006-07",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c76680a-0414-4536-9153-a4a8e05d27cd",
+   "external_id": "4c76680a-0414-4536-9153-a4a8e05d27cd",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 1 (July 2006).pdf",
+   "bytes": 32928653,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-2-2",
+  "publication": "hardcore-gamer",
+  "sequence": 14,
+  "number": "2",
+  "date": {
+   "display": "August 2006",
+   "start": "2006-08",
+   "precision": "month"
+  },
+  "pages": 45,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3b5968b6-83b0-4f45-9b49-1f282468415b",
+   "external_id": "3b5968b6-83b0-4f45-9b49-1f282468415b",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 2 (August 2006).pdf",
+   "bytes": 34728202,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "volume": 2
+ },
+ {
+  "id": "hardcore-gamer-3-2",
+  "publication": "hardcore-gamer",
+  "sequence": 15,
+  "number": "3",
+  "date": {
+   "display": "September 2006",
+   "start": "2006-09",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6d144b7f-c12d-4b25-9d3d-da0cb15f402f",
+   "external_id": "6d144b7f-c12d-4b25-9d3d-da0cb15f402f",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 3 (September 2006).pdf",
+   "bytes": 25094584,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-4-2",
+  "publication": "hardcore-gamer",
+  "sequence": 16,
+  "number": "4",
+  "date": {
+   "display": "October 2006",
+   "start": "2006-10",
+   "precision": "month"
+  },
+  "pages": 45,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3205b582-b124-4529-89ae-e22f54243410",
+   "external_id": "3205b582-b124-4529-89ae-e22f54243410",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 4 (October 2006).pdf",
+   "bytes": 25087646,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-5-2",
+  "publication": "hardcore-gamer",
+  "sequence": 17,
+  "number": "5",
+  "date": {
+   "display": "November 2006",
+   "start": "2006-11",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c86b669f-d8e7-435d-bdbd-2aeafb4adf98",
+   "external_id": "c86b669f-d8e7-435d-bdbd-2aeafb4adf98",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 5 (November 2006).pdf",
+   "bytes": 57211229,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-6-2",
+  "publication": "hardcore-gamer",
+  "sequence": 18,
+  "number": "6",
+  "date": {
+   "display": "December 2006",
+   "start": "2006-12",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 219.1,
+   "height_mm": 282.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/55034653-602c-4e99-9551-355247cffb5b",
+   "external_id": "55034653-602c-4e99-9551-355247cffb5b",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 6 (December 2006).pdf",
+   "bytes": 42336802,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-7-2",
+  "publication": "hardcore-gamer",
+  "sequence": 19,
+  "number": "7",
+  "date": {
+   "display": "January 2007",
+   "start": "2007-01",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8957568d-717e-42c7-935d-622b835cee98",
+   "external_id": "8957568d-717e-42c7-935d-622b835cee98",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 7 (January 2007).pdf",
+   "bytes": 51578467,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-8-2",
+  "publication": "hardcore-gamer",
+  "sequence": 20,
+  "number": "8",
+  "date": {
+   "display": "February 2007",
+   "start": "2007-02",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/330baf1a-ee53-4403-982b-e5ffb32eddfe",
+   "external_id": "330baf1a-ee53-4403-982b-e5ffb32eddfe",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 8 (February 2007).pdf",
+   "bytes": 40851936,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-9-2",
+  "publication": "hardcore-gamer",
+  "sequence": 21,
+  "number": "9",
+  "date": {
+   "display": "March 2007",
+   "start": "2007-03",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e4445ddd-169c-4c1f-8e1f-552b4eab0ebc",
+   "external_id": "e4445ddd-169c-4c1f-8e1f-552b4eab0ebc",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 9 (March 2007).pdf",
+   "bytes": 53238269,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-10-2",
+  "publication": "hardcore-gamer",
+  "sequence": 22,
+  "number": "10",
+  "date": {
+   "display": "April 2007",
+   "start": "2007-04",
+   "precision": "month"
+  },
+  "pages": 40,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/44520fef-0901-4c14-9ea9-82a700f669b5",
+   "external_id": "44520fef-0901-4c14-9ea9-82a700f669b5",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 10 (April 2007).pdf",
+   "bytes": 48511599,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-11-2",
+  "publication": "hardcore-gamer",
+  "sequence": 23,
+  "number": "11",
+  "date": {
+   "display": "May 2007",
+   "start": "2007-05",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc05188e-54e6-4ca6-8f30-72607e2d2767",
+   "external_id": "cc05188e-54e6-4ca6-8f30-72607e2d2767",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 11 (May 2007).pdf",
+   "bytes": 51613275,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-12-2",
+  "publication": "hardcore-gamer",
+  "sequence": 24,
+  "number": "12",
+  "date": {
+   "display": "June 2007",
+   "start": "2007-06",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/05afb0ba-a15a-4462-ae5c-8bb539751255",
+   "external_id": "05afb0ba-a15a-4462-ae5c-8bb539751255",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 2, Issue 12 (June 2007).pdf",
+   "bytes": 48581067,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-1-3",
+  "publication": "hardcore-gamer",
+  "sequence": 25,
+  "number": "1",
+  "date": {
+   "display": "July 2007",
+   "start": "2007-07",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25e700f6-caf0-41e4-8f22-9b0c73900545",
+   "external_id": "25e700f6-caf0-41e4-8f22-9b0c73900545",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 3, Issue 1 (July 2007).pdf",
+   "bytes": 51899572,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-2-3",
+  "publication": "hardcore-gamer",
+  "sequence": 26,
+  "number": "2",
+  "date": {
+   "display": "August 2007",
+   "start": "2007-08",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1c5b12ee-91ca-45b0-ae45-4e91f3a3aac4",
+   "external_id": "1c5b12ee-91ca-45b0-ae45-4e91f3a3aac4",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 3, Issue 2 (August 2007).pdf",
+   "bytes": 31883912,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-3-3",
+  "publication": "hardcore-gamer",
+  "sequence": 27,
+  "number": "3",
+  "date": {
+   "display": "September 2007",
+   "start": "2007-09",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1340113f-c19c-4422-8c00-18be2f0356a4",
+   "external_id": "1340113f-c19c-4422-8c00-18be2f0356a4",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 3, Issue 3 (September 2007).pdf",
+   "bytes": 43305370,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "volume": 3
+ },
+ {
+  "id": "hardcore-gamer-4-3",
+  "publication": "hardcore-gamer",
+  "sequence": 28,
+  "number": "4",
+  "date": {
+   "display": "October 2007",
+   "start": "2007-10",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/006eb4a3-3cfe-4ee7-b1ba-a61836373ba6",
+   "external_id": "006eb4a3-3cfe-4ee7-b1ba-a61836373ba6",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 3, Issue 4 (October 2007).pdf",
+   "bytes": 40062138,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-5-3",
+  "publication": "hardcore-gamer",
+  "sequence": 29,
+  "number": "5",
+  "date": {
+   "display": "November 2007",
+   "start": "2007-11",
+   "precision": "month"
+  },
+  "pages": 46,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 275.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/51370570-705a-4988-8115-221152fd8b7d",
+   "external_id": "51370570-705a-4988-8115-221152fd8b7d",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 3, Issue 5 (November 2007).pdf",
+   "bytes": 30090884,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-6-3",
+  "publication": "hardcore-gamer",
+  "sequence": 30,
+  "number": "6",
+  "date": {
+   "display": "December 2007",
+   "start": "2007-12",
+   "precision": "month"
+  },
+  "pages": 45,
+  "dimensions": {
+   "width_mm": 213.0,
+   "height_mm": 276.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6dad6769-70b5-4ce8-98a0-cdaf653bbd7b",
+   "external_id": "6dad6769-70b5-4ce8-98a0-cdaf653bbd7b",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 3, Issue 6 (December 2007).pdf",
+   "bytes": 22326395,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-1-4",
+  "publication": "hardcore-gamer",
+  "sequence": 31,
+  "number": "1",
+  "date": {
+   "display": "Spring 2008",
+   "start": "2008-03",
+   "precision": "season"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7b517b0-7874-44fc-ac4e-06be50795387",
+   "external_id": "a7b517b0-7874-44fc-ac4e-06be50795387",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer Magazine, Volume 4, Issue 1 (Spring 2008).pdf",
+   "bytes": 25812653,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-2-4",
+  "publication": "hardcore-gamer",
+  "sequence": 32,
+  "number": "2",
+  "date": {
+   "display": "Summer 2008",
+   "start": "2008-06",
+   "precision": "season"
+  },
+  "pages": 35,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/05007af6-6cdd-497a-abd6-1796bfde433c",
+   "external_id": "05007af6-6cdd-497a-abd6-1796bfde433c",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer, Volume 4, Issue 2 (Summer 2008).pdf",
+   "bytes": 39309152,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-3-4",
+  "publication": "hardcore-gamer",
+  "sequence": 33,
+  "number": "3",
+  "date": {
+   "display": "Fall 2008",
+   "start": "2008-09",
+   "precision": "season"
+  },
+  "pages": 35,
+  "dimensions": {
+   "width_mm": 213.0,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6dbdcd0c-1ddc-4abc-9293-d07239a244ef",
+   "external_id": "6dbdcd0c-1ddc-4abc-9293-d07239a244ef",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer, Volume 4, Issue 3 (Fall 2008).pdf",
+   "bytes": 33213672,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00"
+ },
+ {
+  "id": "hardcore-gamer-4-4",
+  "publication": "hardcore-gamer",
+  "sequence": 34,
+  "number": "4",
+  "date": {
+   "display": "Winter 2008",
+   "start": "2008-12",
+   "precision": "season"
+  },
+  "pages": 35,
+  "dimensions": {
+   "width_mm": 212.6,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/10142cd2-e90e-435e-87ba-9fea0fce9b7a",
+   "external_id": "10142cd2-e90e-435e-87ba-9fea0fce9b7a",
+   "retrieved_at": "2026-09-14T09:33:56+00:00"
+  },
+  "files": {
+   "pdf": "library/hardcore-gamer/pdf/Hardcore Gamer, Volume 4, Issue 4 (Winter 2008).pdf",
+   "bytes": 33831846,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "volume": 4
+ }
+]

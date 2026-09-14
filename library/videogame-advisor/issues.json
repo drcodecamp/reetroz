@@ -1,1 +1,528 @@
-[]
+[
+ {
+  "id": "videogame-advisor-1",
+  "publication": "videogame-advisor",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c3df76dd-a9d1-4b72-89cb-ad3d130497c4",
+   "external_id": "c3df76dd-a9d1-4b72-89cb-ad3d130497c4",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 1, Number 1 (May 1995).pdf",
+   "bytes": 40984999,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-2",
+  "publication": "videogame-advisor",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 205.5,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a3a0bbd-4917-479e-8b7a-36d85154f3bd",
+   "external_id": "7a3a0bbd-4917-479e-8b7a-36d85154f3bd",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 1, Number 2 (June 1995).pdf",
+   "bytes": 28827872,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-3",
+  "publication": "videogame-advisor",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 205.5,
+   "height_mm": 275.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7845eccf-e2c6-40e6-96e1-90a391a11b15",
+   "external_id": "7845eccf-e2c6-40e6-96e1-90a391a11b15",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 1, Number 3 (July 1995).pdf",
+   "bytes": 27357984,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-4",
+  "publication": "videogame-advisor",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 50,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c607147b-0efa-4ef5-8898-aeded8c9a7a9",
+   "external_id": "c607147b-0efa-4ef5-8898-aeded8c9a7a9",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 1, Number 4 (August 1995).pdf",
+   "bytes": 42220500,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-7",
+  "publication": "videogame-advisor",
+  "sequence": 5,
+  "number": "7",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f5731370-061e-4e67-8d09-4e8d2acf888e",
+   "external_id": "f5731370-061e-4e67-8d09-4e8d2acf888e",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 1, Number 7 (November 1995).pdf",
+   "bytes": 44734595,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-8",
+  "publication": "videogame-advisor",
+  "sequence": 6,
+  "number": "8",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b29a60dc-9a4a-4ffb-baea-6be7c648db21",
+   "external_id": "b29a60dc-9a4a-4ffb-baea-6be7c648db21",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 1, Number 8 (December 1995).pdf",
+   "bytes": 44311420,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-1-2",
+  "publication": "videogame-advisor",
+  "sequence": 7,
+  "number": "1",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 48,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/69cb42e5-99b4-4248-b6f7-9decf68a4d1a",
+   "external_id": "69cb42e5-99b4-4248-b6f7-9decf68a4d1a",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 1 (January 1996).pdf",
+   "bytes": 46397723,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-3-2",
+  "publication": "videogame-advisor",
+  "sequence": 8,
+  "number": "3",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c5b0de8-774e-4cfc-ab3f-c552231251c2",
+   "external_id": "9c5b0de8-774e-4cfc-ab3f-c552231251c2",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 3 (March 1996).pdf",
+   "bytes": 52174928,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-5",
+  "publication": "videogame-advisor",
+  "sequence": 9,
+  "number": "5",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 69,
+  "dimensions": {
+   "width_mm": 203.8,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8882a6d7-46da-423d-8bfd-acfe28cd7296",
+   "external_id": "8882a6d7-46da-423d-8bfd-acfe28cd7296",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 5 (May 1996).pdf",
+   "bytes": 66938361,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-6",
+  "publication": "videogame-advisor",
+  "sequence": 10,
+  "number": "6",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8ccd8982-b9cf-4f20-b9d2-1d8fe2f3dccd",
+   "external_id": "8ccd8982-b9cf-4f20-b9d2-1d8fe2f3dccd",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 6 (June 1996).pdf",
+   "bytes": 63243060,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-8-2",
+  "publication": "videogame-advisor",
+  "sequence": 11,
+  "number": "8",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4ddd43bd-f272-4cb6-94c9-448eb59ab99f",
+   "external_id": "4ddd43bd-f272-4cb6-94c9-448eb59ab99f",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 8 (August 1996).pdf",
+   "bytes": 60623407,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-9",
+  "publication": "videogame-advisor",
+  "sequence": 12,
+  "number": "9",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.3,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f3d30431-598d-437c-b48b-0631a50cd27c",
+   "external_id": "f3d30431-598d-437c-b48b-0631a50cd27c",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 9 (September 1996).pdf",
+   "bytes": 44222386,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-10",
+  "publication": "videogame-advisor",
+  "sequence": 13,
+  "number": "10",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 66,
+  "dimensions": {
+   "width_mm": 205.5,
+   "height_mm": 276.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/501e1b8d-b718-4a15-8a1b-354c892a06c1",
+   "external_id": "501e1b8d-b718-4a15-8a1b-354c892a06c1",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 10 (October 1996).pdf",
+   "bytes": 44147570,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-11",
+  "publication": "videogame-advisor",
+  "sequence": 14,
+  "number": "11",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 207.5,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/32f1da45-6da6-4e1f-861f-415f12da4248",
+   "external_id": "32f1da45-6da6-4e1f-861f-415f12da4248",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 11 (November 1996).pdf",
+   "bytes": 55006669,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogame-advisor-12",
+  "publication": "videogame-advisor",
+  "sequence": 15,
+  "number": "12",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 280.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1dbda557-32cb-46e5-bc55-33bc0a4557b5",
+   "external_id": "1dbda557-32cb-46e5-bc55-33bc0a4557b5",
+   "retrieved_at": "2026-09-14T09:36:06+00:00"
+  },
+  "files": {
+   "pdf": "library/videogame-advisor/pdf/Videogame Advisor, Volume 2, Number 12 (December 1996).pdf",
+   "bytes": 95357379,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:06+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogame-advisor-12.jpg",
+   "pages_rendered": false
+  }
+ }
+]

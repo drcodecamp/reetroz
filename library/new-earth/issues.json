@@ -1,0 +1,1431 @@
+[
+ {
+  "id": "new-earth-1",
+  "publication": "new-earth",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0bbc8715-21d2-4dc9-b43d-9c99ebae0805",
+   "external_id": "0bbc8715-21d2-4dc9-b43d-9c99ebae0805",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 1 (November 1994).pdf",
+   "bytes": 8211408,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 1
+ },
+ {
+  "id": "new-earth-2",
+  "publication": "new-earth",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 9,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b534b6bb-eec0-4681-8ab2-0d07efc855e2",
+   "external_id": "b534b6bb-eec0-4681-8ab2-0d07efc855e2",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 2 (December 1994).pdf",
+   "bytes": 11819674,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-3",
+  "publication": "new-earth",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ee8ec82-b087-4849-a546-cf54d60e4295",
+   "external_id": "5ee8ec82-b087-4849-a546-cf54d60e4295",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 3 (January 1995).pdf",
+   "bytes": 9762102,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-4",
+  "publication": "new-earth",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c68a178-753d-4e3e-9637-f66710caec8f",
+   "external_id": "3c68a178-753d-4e3e-9637-f66710caec8f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 4 (February 1995).pdf",
+   "bytes": 8661664,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-5",
+  "publication": "new-earth",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/71a10f89-7443-4c62-b46a-23cf4ebcaff5",
+   "external_id": "71a10f89-7443-4c62-b46a-23cf4ebcaff5",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 5 (March 1995).pdf",
+   "bytes": 9668568,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-6",
+  "publication": "new-earth",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1941f3d9-620e-45a2-8032-ef52a3725137",
+   "external_id": "1941f3d9-620e-45a2-8032-ef52a3725137",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 6 (April 1995).pdf",
+   "bytes": 9232120,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-7",
+  "publication": "new-earth",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 11,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b0d7a2a5-5ee8-4449-8cd4-1276e065a9d2",
+   "external_id": "b0d7a2a5-5ee8-4449-8cd4-1276e065a9d2",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 7 (May 1995).pdf",
+   "bytes": 14153527,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-8",
+  "publication": "new-earth",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 6,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fc37d893-7ae3-453e-9be1-effec9c0de19",
+   "external_id": "fc37d893-7ae3-453e-9be1-effec9c0de19",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 8 (June 1995).pdf",
+   "bytes": 7948288,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-9",
+  "publication": "new-earth",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c4310f50-e24f-4ce9-90bb-db8e24d024c4",
+   "external_id": "c4310f50-e24f-4ce9-90bb-db8e24d024c4",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 9 (July 1995).pdf",
+   "bytes": 10301729,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-10",
+  "publication": "new-earth",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1ae4aae2-ad31-4afb-b522-2095a4ac7e33",
+   "external_id": "1ae4aae2-ad31-4afb-b522-2095a4ac7e33",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 10 (August 1995).pdf",
+   "bytes": 10738347,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-11",
+  "publication": "new-earth",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6315cd9e-6697-41e3-8434-aea89e19489c",
+   "external_id": "6315cd9e-6697-41e3-8434-aea89e19489c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 11 (September 1995).pdf",
+   "bytes": 10775350,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-12",
+  "publication": "new-earth",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e4255c1-e4c9-40ad-b4ef-892e0175bb7d",
+   "external_id": "6e4255c1-e4c9-40ad-b4ef-892e0175bb7d",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 12 (October 1995).pdf",
+   "bytes": 10682423,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-13",
+  "publication": "new-earth",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/273f19c2-4e9c-4ab8-a0ed-c23e2ede934e",
+   "external_id": "273f19c2-4e9c-4ab8-a0ed-c23e2ede934e",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 13 (November 1995).pdf",
+   "bytes": 11608931,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-14",
+  "publication": "new-earth",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 9,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/23ba0f5d-800f-41a1-a6ba-b27606c6b65d",
+   "external_id": "23ba0f5d-800f-41a1-a6ba-b27606c6b65d",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 14 (December 1995).pdf",
+   "bytes": 12383531,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-15",
+  "publication": "new-earth",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 10,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 121.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a3aca40d-81d5-4c9d-bf53-f087702bb949",
+   "external_id": "a3aca40d-81d5-4c9d-bf53-f087702bb949",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 1, Number 15 (January 1996).pdf",
+   "bytes": 13276337,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-1-2",
+  "publication": "new-earth",
+  "sequence": 16,
+  "number": "1",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6fddd693-5265-4340-a68b-4aff1e2a62b1",
+   "external_id": "6fddd693-5265-4340-a68b-4aff1e2a62b1",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 1 (May 1996).pdf",
+   "bytes": 10967943,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-2-2",
+  "publication": "new-earth",
+  "sequence": 17,
+  "number": "2",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0207b3f-931c-491a-938d-914f23466c75",
+   "external_id": "c0207b3f-931c-491a-938d-914f23466c75",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 2 (June 1996).pdf",
+   "bytes": 11184670,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 2
+ },
+ {
+  "id": "new-earth-3-2",
+  "publication": "new-earth",
+  "sequence": 18,
+  "number": "3",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a75935e1-5434-4a2c-af0e-a2cde91c66d6",
+   "external_id": "a75935e1-5434-4a2c-af0e-a2cde91c66d6",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 3 (July 1996).pdf",
+   "bytes": 11024778,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-4-2",
+  "publication": "new-earth",
+  "sequence": 19,
+  "number": "4",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8c0d62fd-8809-4137-8f36-0401daa858e1",
+   "external_id": "8c0d62fd-8809-4137-8f36-0401daa858e1",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 4 (August 1996).pdf",
+   "bytes": 10952759,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-5-2",
+  "publication": "new-earth",
+  "sequence": 20,
+  "number": "5",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/868f9d2d-dcb3-4e52-90ae-fc8af9200f36",
+   "external_id": "868f9d2d-dcb3-4e52-90ae-fc8af9200f36",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 5 (September 1996).pdf",
+   "bytes": 11653640,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-6-2",
+  "publication": "new-earth",
+  "sequence": 21,
+  "number": "6",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b3a19940-f22b-49a3-bf00-68c815c376b4",
+   "external_id": "b3a19940-f22b-49a3-bf00-68c815c376b4",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 6 (October 1996).pdf",
+   "bytes": 12366856,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-7-2",
+  "publication": "new-earth",
+  "sequence": 22,
+  "number": "7",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 9,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/44b65ead-54a6-4b89-adc1-6f02d7ea0d2c",
+   "external_id": "44b65ead-54a6-4b89-adc1-6f02d7ea0d2c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 7 (November 1996).pdf",
+   "bytes": 12941561,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-8-2",
+  "publication": "new-earth",
+  "sequence": 23,
+  "number": "8",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c77e2678-cdb5-4118-b2f5-c0456a750840",
+   "external_id": "c77e2678-cdb5-4118-b2f5-c0456a750840",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 8 (December 1996).pdf",
+   "bytes": 9186934,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-9-2",
+  "publication": "new-earth",
+  "sequence": 24,
+  "number": "9",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9a49ae88-10b7-4184-8473-36f11bdb638b",
+   "external_id": "9a49ae88-10b7-4184-8473-36f11bdb638b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 9 (January 1997).pdf",
+   "bytes": 9654675,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-10-2",
+  "publication": "new-earth",
+  "sequence": 25,
+  "number": "10",
+  "date": {
+   "display": "February 1997",
+   "start": "1997-02",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/691f9ba3-4d0b-48f3-834a-cf2e1728e0e2",
+   "external_id": "691f9ba3-4d0b-48f3-834a-cf2e1728e0e2",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 10 (February 1997).pdf",
+   "bytes": 11989191,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-11-2",
+  "publication": "new-earth",
+  "sequence": 26,
+  "number": "11",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cd583a5c-1f54-472b-a017-3c63b2b15392",
+   "external_id": "cd583a5c-1f54-472b-a017-3c63b2b15392",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 11 (March 1997).pdf",
+   "bytes": 10961196,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-12-2",
+  "publication": "new-earth",
+  "sequence": 27,
+  "number": "12",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a5cb4d81-ca04-4157-b2b8-3147010501ed",
+   "external_id": "a5cb4d81-ca04-4157-b2b8-3147010501ed",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 12 (April 1997).pdf",
+   "bytes": 12154540,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-13-2",
+  "publication": "new-earth",
+  "sequence": 28,
+  "number": "13",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8e2a53c2-4e3c-48e3-a42e-5e34c1e5f69f",
+   "external_id": "8e2a53c2-4e3c-48e3-a42e-5e34c1e5f69f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 13 (May 1997).pdf",
+   "bytes": 11696972,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-14-2",
+  "publication": "new-earth",
+  "sequence": 29,
+  "number": "14",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d5de9c62-5977-4345-a199-11714a6b6934",
+   "external_id": "d5de9c62-5977-4345-a199-11714a6b6934",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 14 (June 1997).pdf",
+   "bytes": 11177467,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-15-2",
+  "publication": "new-earth",
+  "sequence": 30,
+  "number": "15",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 85.3,
+   "height_mm": 122.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4545f064-89ca-40c9-b45c-a4954d550fed",
+   "external_id": "4545f064-89ca-40c9-b45c-a4954d550fed",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 2, Number 15 (July 1997).pdf",
+   "bytes": 8421584,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-1-3",
+  "publication": "new-earth",
+  "sequence": 31,
+  "number": "1",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25e30af2-7dae-408a-894d-dbe3ddcd82fb",
+   "external_id": "25e30af2-7dae-408a-894d-dbe3ddcd82fb",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 1 (August 1997).pdf",
+   "bytes": 10025492,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-2-3",
+  "publication": "new-earth",
+  "sequence": 32,
+  "number": "2",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c6635b9-7c0d-4245-afc3-7fa31a28dd52",
+   "external_id": "3c6635b9-7c0d-4245-afc3-7fa31a28dd52",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 2 (September 1997).pdf",
+   "bytes": 9611599,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-3-3",
+  "publication": "new-earth",
+  "sequence": 33,
+  "number": "3",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a16eedb7-1ebf-4376-bc84-7076777bf8ad",
+   "external_id": "a16eedb7-1ebf-4376-bc84-7076777bf8ad",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 3 (October 1997).pdf",
+   "bytes": 11024744,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 3
+ },
+ {
+  "id": "new-earth-4-3",
+  "publication": "new-earth",
+  "sequence": 34,
+  "number": "4",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/edd9c231-8601-43fd-b82c-823930dc9dd4",
+   "external_id": "edd9c231-8601-43fd-b82c-823930dc9dd4",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 4 (November 1997).pdf",
+   "bytes": 9231744,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-5-3",
+  "publication": "new-earth",
+  "sequence": 35,
+  "number": "5",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d16783e5-c4d4-4d7d-b435-7165bd6897e9",
+   "external_id": "d16783e5-c4d4-4d7d-b435-7165bd6897e9",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 5 (December 1997).pdf",
+   "bytes": 10436075,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-6-3",
+  "publication": "new-earth",
+  "sequence": 36,
+  "number": "6",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/998b7d0f-36e4-4826-8631-0ec07bdbe12b",
+   "external_id": "998b7d0f-36e4-4826-8631-0ec07bdbe12b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 6 (January 1998).pdf",
+   "bytes": 9201992,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-7-3",
+  "publication": "new-earth",
+  "sequence": 37,
+  "number": "7",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d9d69cb-997c-45c5-9c6a-27c99a27bbfd",
+   "external_id": "1d9d69cb-997c-45c5-9c6a-27c99a27bbfd",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 7 (February 1998).pdf",
+   "bytes": 9757926,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-8-3",
+  "publication": "new-earth",
+  "sequence": 38,
+  "number": "8",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/79b78d63-d3fa-440c-93b5-5a7b72b69ca9",
+   "external_id": "79b78d63-d3fa-440c-93b5-5a7b72b69ca9",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 8 (March 1998).pdf",
+   "bytes": 8923808,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-9-3",
+  "publication": "new-earth",
+  "sequence": 39,
+  "number": "9",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0fad22cc-ef1f-491c-8291-9ad48f36b640",
+   "external_id": "0fad22cc-ef1f-491c-8291-9ad48f36b640",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 9 (April 1998).pdf",
+   "bytes": 8997606,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-10-3",
+  "publication": "new-earth",
+  "sequence": 40,
+  "number": "10",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/523f5156-2f78-4cbe-a7eb-2c6ad4797813",
+   "external_id": "523f5156-2f78-4cbe-a7eb-2c6ad4797813",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 10 (May 1998).pdf",
+   "bytes": 11981048,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-11-3",
+  "publication": "new-earth",
+  "sequence": 41,
+  "number": "11",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 8,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/385e0821-a2af-4dbf-b2d4-fbb29d0177f2",
+   "external_id": "385e0821-a2af-4dbf-b2d4-fbb29d0177f2",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 11 (June 1998).pdf",
+   "bytes": 11532740,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-12-3",
+  "publication": "new-earth",
+  "sequence": 42,
+  "number": "12",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 9,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3304744c-c332-4325-b2c0-f022506a91de",
+   "external_id": "3304744c-c332-4325-b2c0-f022506a91de",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 12 (July 1998).pdf",
+   "bytes": 25563919,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-13-3",
+  "publication": "new-earth",
+  "sequence": 43,
+  "number": "13",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6b461631-3058-42e5-b602-73699d1734b6",
+   "external_id": "6b461631-3058-42e5-b602-73699d1734b6",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 13 (August 1998).pdf",
+   "bytes": 9395637,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-14-3",
+  "publication": "new-earth",
+  "sequence": 44,
+  "number": "14",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a122144a-f686-4123-8da6-7c2ef9e28bd3",
+   "external_id": "a122144a-f686-4123-8da6-7c2ef9e28bd3",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 3, Number 14 (September 1998).pdf",
+   "bytes": 9235071,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-1-4",
+  "publication": "new-earth",
+  "sequence": 45,
+  "number": "1",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e0a0ffc9-39ed-4a75-85c9-f3be803538e4",
+   "external_id": "e0a0ffc9-39ed-4a75-85c9-f3be803538e4",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 4, Number 1 (November 1998).pdf",
+   "bytes": 8288354,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ },
+ {
+  "id": "new-earth-2-4",
+  "publication": "new-earth",
+  "sequence": 46,
+  "number": "2",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 7,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 297.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/398d9f57-80a9-4700-a8ce-33afdf7b92a8",
+   "external_id": "398d9f57-80a9-4700-a8ce-33afdf7b92a8",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/new-earth/pdf/New Earth, Volume 4, Number 2 (December 1998).pdf",
+   "bytes": 8862536,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00"
+ }
+]

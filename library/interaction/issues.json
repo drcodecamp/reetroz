@@ -1,1 +1,983 @@
-[]
+[
+ {
+  "id": "interaction-1",
+  "publication": "interaction",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Spring 1990",
+   "start": "1990-03",
+   "precision": "season"
+  },
+  "pages": 48,
+  "dimensions": {
+   "width_mm": 210.5,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/57e5e6ee-90bf-419b-a818-096e4cb0f6a9",
+   "external_id": "57e5e6ee-90bf-419b-a818-096e4cb0f6a9",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/Sierra News Magazine, Volume 3, Number 1 (Spring 1990).pdf",
+   "bytes": 31965568,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2",
+  "publication": "interaction",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "Fall 1990",
+   "start": "1990-09",
+   "precision": "season"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 209.3,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc1bf26e-4d9b-4fd2-ab04-fd094b5325aa",
+   "external_id": "bc1bf26e-4d9b-4fd2-ab04-fd094b5325aa",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/Sierra News Magazine, Volume 3, Number 2 (Fall 1990).pdf",
+   "bytes": 48478438,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-199109-premiere-issue",
+  "publication": "interaction",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "Fall 1991",
+   "start": "1991-09",
+   "precision": "season"
+  },
+  "pages": 73,
+  "dimensions": {
+   "width_mm": 209.3,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/31fc1b2d-3aba-4763-9526-979c71da048e",
+   "external_id": "31fc1b2d-3aba-4763-9526-979c71da048e",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Premiere Issue (Fall 1991).pdf",
+   "bytes": 59618254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/interaction-199109-premiere-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-2",
+  "publication": "interaction",
+  "sequence": 4,
+  "number": "1",
+  "date": {
+   "display": "Spring 1992",
+   "start": "1992-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8261d307-0913-4dfc-b5b8-af76ecdaea41",
+   "external_id": "8261d307-0913-4dfc-b5b8-af76ecdaea41",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 5, Number 1 (Spring 1992).pdf",
+   "bytes": 79893406,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2-2",
+  "publication": "interaction",
+  "sequence": 5,
+  "number": "2",
+  "date": {
+   "display": "Summer 1992",
+   "start": "1992-06",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb9e671d-aa87-425b-9082-27a682bbf8e2",
+   "external_id": "bb9e671d-aa87-425b-9082-27a682bbf8e2",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 5, Number 2 (Summer 1992).pdf",
+   "bytes": 94190007,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-3",
+  "publication": "interaction",
+  "sequence": 6,
+  "number": "3",
+  "date": {
+   "display": "Fall 1992",
+   "start": "1992-09",
+   "precision": "season"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 209.0,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d2196ff-4a94-44f8-9200-a2ed7b7fed87",
+   "external_id": "9d2196ff-4a94-44f8-9200-a2ed7b7fed87",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 5, Number 3 (Fall 1992).pdf",
+   "bytes": 68973617,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-4",
+  "publication": "interaction",
+  "sequence": 7,
+  "number": "4",
+  "date": {
+   "display": "Winter 1992",
+   "start": "1992-12",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 207.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9f016533-f832-44f3-b97c-d599875a3604",
+   "external_id": "9f016533-f832-44f3-b97c-d599875a3604",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 5, Number 4 (Winter 1992).pdf",
+   "bytes": 69755592,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-3",
+  "publication": "interaction",
+  "sequence": 8,
+  "number": "1",
+  "date": {
+   "display": "Spring 1993",
+   "start": "1993-03",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 209.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6d71244d-430f-4b82-b01e-4db64eca0604",
+   "external_id": "6d71244d-430f-4b82-b01e-4db64eca0604",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 6, Number 1 (Spring 1993).pdf",
+   "bytes": 71126868,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2-3",
+  "publication": "interaction",
+  "sequence": 9,
+  "number": "2",
+  "date": {
+   "display": "Summer 1993",
+   "start": "1993-06",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 210.3,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/33507256-ea39-49b3-9344-e740324df4af",
+   "external_id": "33507256-ea39-49b3-9344-e740324df4af",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 6, Number 2 (Summer 1993).pdf",
+   "bytes": 116412852,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-3-2",
+  "publication": "interaction",
+  "sequence": 10,
+  "number": "3",
+  "date": {
+   "display": "Holiday 1993",
+   "start": "1993-12",
+   "precision": "season"
+  },
+  "pages": 70,
+  "dimensions": {
+   "width_mm": 210.5,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7af7e234-23bd-4371-bd9e-3ba2811e399e",
+   "external_id": "7af7e234-23bd-4371-bd9e-3ba2811e399e",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 6, Number 3 (Holiday 1993).pdf",
+   "bytes": 56963894,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-4-2",
+  "publication": "interaction",
+  "sequence": 11,
+  "number": "4",
+  "date": {
+   "display": "Spring 1994",
+   "start": "1994-03",
+   "precision": "season"
+  },
+  "pages": 93,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a3c789b0-4498-4228-87a6-10640fe1d32d",
+   "external_id": "a3c789b0-4498-4228-87a6-10640fe1d32d",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 6, Number 4 (Spring 1994).pdf",
+   "bytes": 72108294,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-4",
+  "publication": "interaction",
+  "sequence": 12,
+  "number": "1",
+  "date": {
+   "display": "Fall 1994",
+   "start": "1994-09",
+   "precision": "season"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 210.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e094a386-9724-48e3-ba4d-e7802f606f45",
+   "external_id": "e094a386-9724-48e3-ba4d-e7802f606f45",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 7, Number 1 (Fall 1994).pdf",
+   "bytes": 98395763,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2-4",
+  "publication": "interaction",
+  "sequence": 13,
+  "number": "2",
+  "date": {
+   "display": "Holiday 1994",
+   "start": "1994-12",
+   "precision": "season"
+  },
+  "pages": 94,
+  "dimensions": {
+   "width_mm": 210.8,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/357898a6-3780-433b-b987-959ab79c85e3",
+   "external_id": "357898a6-3780-433b-b987-959ab79c85e3",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 7, Number 2 (Holiday 1994).pdf",
+   "bytes": 101534235,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-5",
+  "publication": "interaction",
+  "sequence": 14,
+  "number": "1",
+  "date": {
+   "display": "Spring 1995",
+   "start": "1995-03",
+   "precision": "season"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 203.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/32dc74ac-241a-46e9-96af-92af600e6966",
+   "external_id": "32dc74ac-241a-46e9-96af-92af600e6966",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 8, Number 1 (Spring 1995).pdf",
+   "bytes": 115145137,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2-5",
+  "publication": "interaction",
+  "sequence": 15,
+  "number": "2",
+  "date": {
+   "display": "Fall 1995",
+   "start": "1995-09",
+   "precision": "season"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/60677a4f-f0b3-4014-9d2b-b8d47607d4a6",
+   "external_id": "60677a4f-f0b3-4014-9d2b-b8d47607d4a6",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 8, Number 2 (Fall 1995).pdf",
+   "bytes": 112550486,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-3-3",
+  "publication": "interaction",
+  "sequence": 16,
+  "number": "3",
+  "date": {
+   "display": "Holiday 1995",
+   "start": "1995-12",
+   "precision": "season"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5c9ab939-0a42-403c-94be-97521aab15aa",
+   "external_id": "5c9ab939-0a42-403c-94be-97521aab15aa",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 8, Number 3 (Holiday 1995).pdf",
+   "bytes": 122113859,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-6",
+  "publication": "interaction",
+  "sequence": 17,
+  "number": "1",
+  "date": {
+   "display": "Spring 1996",
+   "start": "1996-03",
+   "precision": "season"
+  },
+  "pages": 103,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/56869957-d2ab-43a4-8ddd-89b558dd55f8",
+   "external_id": "56869957-d2ab-43a4-8ddd-89b558dd55f8",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 9, Number 1 (Spring 1996).pdf",
+   "bytes": 115015521,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2-6",
+  "publication": "interaction",
+  "sequence": 18,
+  "number": "2",
+  "date": {
+   "display": "Summer 1996",
+   "start": "1996-06",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.8,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/91dc6688-2c06-44c7-a3a7-56eac3fe1c49",
+   "external_id": "91dc6688-2c06-44c7-a3a7-56eac3fe1c49",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 9, Number 2 (Summer 1996).pdf",
+   "bytes": 73351693,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-3-4",
+  "publication": "interaction",
+  "sequence": 19,
+  "number": "3",
+  "date": {
+   "display": "Fall 1996",
+   "start": "1996-09",
+   "precision": "season"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/27a632e1-e7e1-47e3-82ae-abcc34fca395",
+   "external_id": "27a632e1-e7e1-47e3-82ae-abcc34fca395",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 9, Number 3 (Fall 1996).pdf",
+   "bytes": 93064026,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-3-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-4-3",
+  "publication": "interaction",
+  "sequence": 20,
+  "number": "4",
+  "date": {
+   "display": "Holiday 1996",
+   "start": "1996-12",
+   "precision": "season"
+  },
+  "pages": 130,
+  "dimensions": {
+   "width_mm": 208.8,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45be9f85-311e-4522-b1d4-0b720aee7a3c",
+   "external_id": "45be9f85-311e-4522-b1d4-0b720aee7a3c",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 9, Number 4 (Holiday 1996).pdf",
+   "bytes": 104323952,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-7",
+  "publication": "interaction",
+  "sequence": 21,
+  "number": "1",
+  "date": {
+   "display": "Spring 1997",
+   "start": "1997-03",
+   "precision": "season"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/175ae582-c37e-4235-b499-7391e4657fdf",
+   "external_id": "175ae582-c37e-4235-b499-7391e4657fdf",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 10, Number 1 (Spring 1997).pdf",
+   "bytes": 77640408,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2-7",
+  "publication": "interaction",
+  "sequence": 22,
+  "number": "2",
+  "date": {
+   "display": "Summer 1997",
+   "start": "1997-06",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 207.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/32c14b2c-4b77-444b-8178-37217bf774f5",
+   "external_id": "32c14b2c-4b77-444b-8178-37217bf774f5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 10, Number 2 (Summer 1997).pdf",
+   "bytes": 75066472,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-3-5",
+  "publication": "interaction",
+  "sequence": 23,
+  "number": "3",
+  "date": {
+   "display": "Fall 1997",
+   "start": "1997-09",
+   "precision": "season"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 208.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/deabc4d3-5a13-4b82-9859-b39d67d47f9a",
+   "external_id": "deabc4d3-5a13-4b82-9859-b39d67d47f9a",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 10, Number 3 (Fall 1997).pdf",
+   "bytes": 84830765,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-3-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-4-4",
+  "publication": "interaction",
+  "sequence": 24,
+  "number": "4",
+  "date": {
+   "display": "Holiday 1997",
+   "start": "1997-12",
+   "precision": "season"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 206.3,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ea667812-8f2b-4a18-a114-48819776131e",
+   "external_id": "ea667812-8f2b-4a18-a114-48819776131e",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 10, Number 4 (Holiday 1997).pdf",
+   "bytes": 79741234,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-4-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-8",
+  "publication": "interaction",
+  "sequence": 25,
+  "number": "1",
+  "date": {
+   "display": "Spring 1998",
+   "start": "1998-03",
+   "precision": "season"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 207.2,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/19a755ce-a7e7-4338-99b7-d9ca3f24197c",
+   "external_id": "19a755ce-a7e7-4338-99b7-d9ca3f24197c",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 11, Number 1 (Spring 1998).pdf",
+   "bytes": 81104400,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-2-8",
+  "publication": "interaction",
+  "sequence": 26,
+  "number": "2",
+  "date": {
+   "display": "Summer 1998",
+   "start": "1998-06",
+   "precision": "season"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3abca386-a52c-4fd0-894a-b5cb48758c2b",
+   "external_id": "3abca386-a52c-4fd0-894a-b5cb48758c2b",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 11, Number 2 (Summer 1998).pdf",
+   "bytes": 82087410,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-2-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-4-5",
+  "publication": "interaction",
+  "sequence": 27,
+  "number": "4",
+  "date": {
+   "display": "Holiday 1998",
+   "start": "1998-12",
+   "precision": "season"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38abf0ee-8d9b-458c-97c0-50456ad19cd5",
+   "external_id": "38abf0ee-8d9b-458c-97c0-50456ad19cd5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 11, Number 4 (Holiday 1998).pdf",
+   "bytes": 82485435,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-4-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "interaction-1-9",
+  "publication": "interaction",
+  "sequence": 28,
+  "number": "1",
+  "date": {
+   "display": "Spring 1999",
+   "start": "1999-03",
+   "precision": "season"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 205.8,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/939596d1-4522-44e0-b792-aa9d1ec9f801",
+   "external_id": "939596d1-4522-44e0-b792-aa9d1ec9f801",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/interaction/pdf/InterAction, Volume 12, Number 1 (Spring 1999).pdf",
+   "bytes": 68051710,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/interaction-1-9.jpg",
+   "pages_rendered": false
+  }
+ }
+]

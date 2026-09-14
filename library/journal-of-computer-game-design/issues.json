@@ -1,1 +1,1977 @@
-[]
+[
+ {
+  "id": "journal-of-computer-game-design-1",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "June/July 1987",
+   "start": "1987-06",
+   "precision": "month",
+   "end": "1987-07"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/067de55e-98f1-415f-8fc6-e0bb73c18375",
+   "external_id": "067de55e-98f1-415f-8fc6-e0bb73c18375",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 1 (June-July 1987).pdf",
+   "bytes": 36243749,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "August/September 1987",
+   "start": "1987-08",
+   "precision": "month",
+   "end": "1987-09"
+  },
+  "pages": 14,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ce349f4-21f0-4482-87aa-d57fa72f2a57",
+   "external_id": "3ce349f4-21f0-4482-87aa-d57fa72f2a57",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 2 (August-September 1987).pdf",
+   "bytes": 45198807,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "October/November 1987",
+   "start": "1987-10",
+   "precision": "month",
+   "end": "1987-11"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e174dd60-106d-49bb-98c4-92420b0d90c3",
+   "external_id": "e174dd60-106d-49bb-98c4-92420b0d90c3",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 3 (October-November 1987).pdf",
+   "bytes": 49708688,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-9",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "December 1987 / January 1988",
+   "start": "1987-12",
+   "end": "1988-01",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6af01415-329d-4f3c-901f-424f18aa8dc5",
+   "external_id": "6af01415-329d-4f3c-901f-424f18aa8dc5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 4 (December 1987 - January 1988).pdf",
+   "bytes": 48193598,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "February/March 1988",
+   "start": "1988-02",
+   "precision": "month",
+   "end": "1988-03"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ddd8fd0e-e65c-4723-b61f-3179099dacb5",
+   "external_id": "ddd8fd0e-e65c-4723-b61f-3179099dacb5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 5 (February-March 1988).pdf",
+   "bytes": 48631756,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "April/May 1988",
+   "start": "1988-04",
+   "precision": "month",
+   "end": "1988-05"
+  },
+  "pages": 14,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1f4e2daf-c9a1-43e7-8896-741d4e84d1f6",
+   "external_id": "1f4e2daf-c9a1-43e7-8896-741d4e84d1f6",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 6 (April-May 1988).pdf",
+   "bytes": 39918313,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-7",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "June/July 1988",
+   "start": "1988-06",
+   "precision": "month",
+   "end": "1988-07"
+  },
+  "pages": 14,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/02286ca6-ca39-49d9-bbb9-839e7e5b1d62",
+   "external_id": "02286ca6-ca39-49d9-bbb9-839e7e5b1d62",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 7 (June-July 1988).pdf",
+   "bytes": 38550014,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-8",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "August/September 1988",
+   "start": "1988-08",
+   "precision": "month",
+   "end": "1988-09"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a20d83fe-55c2-4c23-96a7-c7e7c1a63977",
+   "external_id": "a20d83fe-55c2-4c23-96a7-c7e7c1a63977",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 1, Number 8 (August-September 1988).pdf",
+   "bytes": 48971487,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-2",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 9,
+  "number": "1",
+  "date": {
+   "display": "October/November 1988",
+   "start": "1988-10",
+   "precision": "month",
+   "end": "1988-11"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5b5ec072-3d49-4ba8-9652-492ceda7a107",
+   "external_id": "5b5ec072-3d49-4ba8-9652-492ceda7a107",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 2, Number 1 (October-November 1988).pdf",
+   "bytes": 54143228,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-2",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 10,
+  "number": "2",
+  "date": {
+   "display": "December 1988",
+   "start": "1988-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6bca6816-efd5-44a7-a9ab-22bb39bd1803",
+   "external_id": "6bca6816-efd5-44a7-a9ab-22bb39bd1803",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 2, Number 2 (December 1988).pdf",
+   "bytes": 43837884,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-2",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 11,
+  "number": "3",
+  "date": {
+   "display": "February 1989",
+   "start": "1989-02",
+   "precision": "month"
+  },
+  "pages": 18,
+  "dimensions": {
+   "width_mm": 215.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c317cef-32d9-4089-bd20-258e2001ea68",
+   "external_id": "6c317cef-32d9-4089-bd20-258e2001ea68",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 2, Number 3 (February 1989).pdf",
+   "bytes": 49626798,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 12,
+  "number": "4",
+  "date": {
+   "display": "April 1989",
+   "start": "1989-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0db82d4b-fb1c-4f1c-90be-7e97e9c339dd",
+   "external_id": "0db82d4b-fb1c-4f1c-90be-7e97e9c339dd",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 2, Number 4 (April 1989).pdf",
+   "bytes": 50154379,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-2",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 13,
+  "number": "5",
+  "date": {
+   "display": "June 1989",
+   "start": "1989-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ba3d702-4d07-4c98-8bd8-a36ac6075350",
+   "external_id": "3ba3d702-4d07-4c98-8bd8-a36ac6075350",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 2, Number 5 (June 1989).pdf",
+   "bytes": 44194098,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-2",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 14,
+  "number": "6",
+  "date": {
+   "display": "August 1989",
+   "start": "1989-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef8e099c-58d0-48c3-a2f7-d7994accc8f1",
+   "external_id": "ef8e099c-58d0-48c3-a2f7-d7994accc8f1",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 2, Number 6 (August 1989).pdf",
+   "bytes": 45753150,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-3",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 15,
+  "number": "1",
+  "date": {
+   "display": "October 1989",
+   "start": "1989-10",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/94531584-321d-47e8-bfae-49e6d7a5e626",
+   "external_id": "94531584-321d-47e8-bfae-49e6d7a5e626",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 3, Number 1 (October 1989).pdf",
+   "bytes": 43711105,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-3",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 16,
+  "number": "2",
+  "date": {
+   "display": "December 1989",
+   "start": "1989-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/181f0914-c79c-4d26-acdb-441b32303896",
+   "external_id": "181f0914-c79c-4d26-acdb-441b32303896",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 3, Number 2 (December 1989).pdf",
+   "bytes": 43178320,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-3",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 17,
+  "number": "3",
+  "date": {
+   "display": "February 1990",
+   "start": "1990-02",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/10d3a6f6-867f-46aa-a497-50421cd4bc03",
+   "external_id": "10d3a6f6-867f-46aa-a497-50421cd4bc03",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 3, Number 3 (February 1990).pdf",
+   "bytes": 49805003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-2",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 18,
+  "number": "4",
+  "date": {
+   "display": "April 1990",
+   "start": "1990-04",
+   "precision": "month"
+  },
+  "pages": 18,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/97edb5b2-7be3-4a77-a132-45f1532a23e0",
+   "external_id": "97edb5b2-7be3-4a77-a132-45f1532a23e0",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 3, Number 4 (April 1990).pdf",
+   "bytes": 45164923,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-3",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 19,
+  "number": "5",
+  "date": {
+   "display": "June 1990",
+   "start": "1990-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/086b6cd3-21db-4123-830e-f604330da6f2",
+   "external_id": "086b6cd3-21db-4123-830e-f604330da6f2",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 3, Number 5 (June 1990).pdf",
+   "bytes": 46963285,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-3",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 20,
+  "number": "6",
+  "date": {
+   "display": "August 1990",
+   "start": "1990-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dcb5ed42-6eda-4095-9402-60294ff922ba",
+   "external_id": "dcb5ed42-6eda-4095-9402-60294ff922ba",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 3, Number 6 (August 1990).pdf",
+   "bytes": 40763409,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-4",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 21,
+  "number": "1",
+  "date": {
+   "display": "October 1990",
+   "start": "1990-10",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/13278757-a8d0-4699-930b-2f41ae18a389",
+   "external_id": "13278757-a8d0-4699-930b-2f41ae18a389",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 4, Number 1 (October 1990).pdf",
+   "bytes": 44556395,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-4",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 22,
+  "number": "2",
+  "date": {
+   "display": "December 1990",
+   "start": "1990-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/be1a291b-9491-4e95-8627-fc1ed3bc4d86",
+   "external_id": "be1a291b-9491-4e95-8627-fc1ed3bc4d86",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 4, Number 2 (December 1990).pdf",
+   "bytes": 44034552,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-4",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 23,
+  "number": "3",
+  "date": {
+   "display": "February 1991",
+   "start": "1991-02",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3b996ad1-e9f0-41bd-a800-3f7d09a3c7f4",
+   "external_id": "3b996ad1-e9f0-41bd-a800-3f7d09a3c7f4",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 4, Number 3 (February 1991).pdf",
+   "bytes": 42200207,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-3",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 24,
+  "number": "4",
+  "date": {
+   "display": "April 1991",
+   "start": "1991-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/57841498-00dd-4002-b7c4-f5f6fa643c62",
+   "external_id": "57841498-00dd-4002-b7c4-f5f6fa643c62",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 4, Number 4 (April 1991).pdf",
+   "bytes": 42690699,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "volume": 4,
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-4",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 25,
+  "number": "5",
+  "date": {
+   "display": "June 1991",
+   "start": "1991-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b77dcbe-a750-4ed3-bff0-e020a930ffd1",
+   "external_id": "2b77dcbe-a750-4ed3-bff0-e020a930ffd1",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 4, Number 5 (June 1991).pdf",
+   "bytes": 43010594,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-4",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 26,
+  "number": "6",
+  "date": {
+   "display": "August 1991",
+   "start": "1991-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4b0741a0-d692-46b5-a2e4-da22fd9a7820",
+   "external_id": "4b0741a0-d692-46b5-a2e4-da22fd9a7820",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 4, Number 6 (August 1991).pdf",
+   "bytes": 42839602,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-5",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 27,
+  "number": "1",
+  "date": {
+   "display": "October 1991",
+   "start": "1991-10",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d24d574-5f25-4e25-aff9-bd5a1d940342",
+   "external_id": "2d24d574-5f25-4e25-aff9-bd5a1d940342",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 5, Number 1 (October 1991).pdf",
+   "bytes": 45250750,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-5",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 28,
+  "number": "2",
+  "date": {
+   "display": "December 1991",
+   "start": "1991-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d876c9f1-9929-477f-b765-c2e811b4382d",
+   "external_id": "d876c9f1-9929-477f-b765-c2e811b4382d",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 5, Number 2 (December 1991).pdf",
+   "bytes": 42375691,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-5",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 29,
+  "number": "3",
+  "date": {
+   "display": "February 1992",
+   "start": "1992-02",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2635ec80-d4b8-4c56-8a75-dd394ce8545d",
+   "external_id": "2635ec80-d4b8-4c56-8a75-dd394ce8545d",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 5, Number 3 (February 1992).pdf",
+   "bytes": 43342209,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-4",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 30,
+  "number": "4",
+  "date": {
+   "display": "April 1992",
+   "start": "1992-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0c270c32-1f06-49d0-a93b-4300eb23a011",
+   "external_id": "0c270c32-1f06-49d0-a93b-4300eb23a011",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 5, Number 4 (April 1992).pdf",
+   "bytes": 43552894,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-5",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 31,
+  "number": "5",
+  "date": {
+   "display": "June 1992",
+   "start": "1992-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8027027b-e98d-4855-804a-eed10295f114",
+   "external_id": "8027027b-e98d-4855-804a-eed10295f114",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 5, Number 5 (June 1992).pdf",
+   "bytes": 40045195,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "volume": 5,
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-5",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 32,
+  "number": "6",
+  "date": {
+   "display": "August 1992",
+   "start": "1992-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98fed3e3-6ea4-4654-a4f2-bacb87578367",
+   "external_id": "98fed3e3-6ea4-4654-a4f2-bacb87578367",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 5, Number 6 (August 1992).pdf",
+   "bytes": 38754243,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-6",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 33,
+  "number": "1",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5281562d-4df5-4770-86c0-86cba19fb513",
+   "external_id": "5281562d-4df5-4770-86c0-86cba19fb513",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 6, Number 1 (October 1992).pdf",
+   "bytes": 37453385,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-6",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 34,
+  "number": "2",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/445a58a8-147e-45c2-aa7c-4afc26e4aeaf",
+   "external_id": "445a58a8-147e-45c2-aa7c-4afc26e4aeaf",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 6, Number 2 (December 1992).pdf",
+   "bytes": 40745814,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-6",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 35,
+  "number": "3",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/00e0277d-589f-43cb-bbab-5b52e5bc79db",
+   "external_id": "00e0277d-589f-43cb-bbab-5b52e5bc79db",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 6, Number 3 (February 1993).pdf",
+   "bytes": 41428611,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-5",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 36,
+  "number": "4",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/03fd5135-3088-4a08-9746-d97f4aa48b09",
+   "external_id": "03fd5135-3088-4a08-9746-d97f4aa48b09",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 6, Number 4 (April 1993).pdf",
+   "bytes": 36529965,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-6",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 37,
+  "number": "5",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a628331f-dc4e-424d-a0af-7cd651a86e6d",
+   "external_id": "a628331f-dc4e-424d-a0af-7cd651a86e6d",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 6, Number 5 (June 1993).pdf",
+   "bytes": 40305889,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-6",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 38,
+  "number": "6",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6519887-71cb-4d01-977f-990805def9c2",
+   "external_id": "e6519887-71cb-4d01-977f-990805def9c2",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/The Journal of Computer Game Design, Volume 6, Number 6 (August 1993).pdf",
+   "bytes": 40711031,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "volume": 6,
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-7",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 39,
+  "number": "1",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1db5e0c-db92-4275-9ff8-eb6a87614c7f",
+   "external_id": "f1db5e0c-db92-4275-9ff8-eb6a87614c7f",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 7, Number 1 (October 1993).pdf",
+   "bytes": 44391545,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-7",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 40,
+  "number": "2",
+  "date": {
+   "display": "December 1993",
+   "start": "1993-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/815722b5-8d8c-4f91-85c9-0b502b89361d",
+   "external_id": "815722b5-8d8c-4f91-85c9-0b502b89361d",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 7, Number 2 (December 1993).pdf",
+   "bytes": 38794787,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-7",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 41,
+  "number": "3",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/deddb1f4-938f-44c4-b42c-4f8983d99b7c",
+   "external_id": "deddb1f4-938f-44c4-b42c-4f8983d99b7c",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 7, Number 3 (February 1994).pdf",
+   "bytes": 41937444,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-6",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 42,
+  "number": "4",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/abe164b5-033e-42e3-8800-c7e881a05f3a",
+   "external_id": "abe164b5-033e-42e3-8800-c7e881a05f3a",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 7, Number 4 (April 1994).pdf",
+   "bytes": 41983143,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-7",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 43,
+  "number": "5",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a92521aa-653f-4090-aae2-6df5a8a7cee8",
+   "external_id": "a92521aa-653f-4090-aae2-6df5a8a7cee8",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 7, Number 5 (June 1994).pdf",
+   "bytes": 42481337,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-7",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 44,
+  "number": "6",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/afa231a4-76c5-429d-badf-1026901a48bd",
+   "external_id": "afa231a4-76c5-429d-badf-1026901a48bd",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 7, Number 6 (August 1994).pdf",
+   "bytes": 46040160,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-8",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 45,
+  "number": "1",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4b6a8e4e-cd52-4a7b-8054-d0a49bbaa7cf",
+   "external_id": "4b6a8e4e-cd52-4a7b-8054-d0a49bbaa7cf",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 8, Number 1 (October 1994).pdf",
+   "bytes": 42309355,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-8",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 46,
+  "number": "2",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1f3074e-e38e-4df8-8077-6e84a0f9dc81",
+   "external_id": "b1f3074e-e38e-4df8-8077-6e84a0f9dc81",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 8, Number 2 (December 1994).pdf",
+   "bytes": 44109881,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-8",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 47,
+  "number": "3",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e123c9ef-0ed8-43a1-b9af-838dccb1e981",
+   "external_id": "e123c9ef-0ed8-43a1-b9af-838dccb1e981",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 8, Number 3 (February 1995).pdf",
+   "bytes": 43879743,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-7",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 48,
+  "number": "4",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7c1653a3-b99e-4a8b-a82d-19c9a2b048af",
+   "external_id": "7c1653a3-b99e-4a8b-a82d-19c9a2b048af",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 8, Number 4 (April 1995).pdf",
+   "bytes": 46215359,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-8",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 49,
+  "number": "5",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 214.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6308f76a-bdce-46d7-a2c5-24736cc58fb6",
+   "external_id": "6308f76a-bdce-46d7-a2c5-24736cc58fb6",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 8, Number 5 (June 1995).pdf",
+   "bytes": 43983653,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-8",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 50,
+  "number": "6",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7108ef57-ed37-4c67-800b-d8b5768387ce",
+   "external_id": "7108ef57-ed37-4c67-800b-d8b5768387ce",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 8, Number 6 (August 1995).pdf",
+   "bytes": 43170204,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-1-9",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 51,
+  "number": "1",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c2b9e3e4-2937-4585-a099-a7d089240755",
+   "external_id": "c2b9e3e4-2937-4585-a099-a7d089240755",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 9, Number 1 (October 1995).pdf",
+   "bytes": 42750241,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-1-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-2-9",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 52,
+  "number": "2",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/32359747-baf0-4532-bc33-b03a0cb32ae0",
+   "external_id": "32359747-baf0-4532-bc33-b03a0cb32ae0",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 9, Number 2 (December 1995).pdf",
+   "bytes": 41849294,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-2-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-3-9",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 53,
+  "number": "3",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e231b566-c7f6-48c4-bdaf-9eb8835a93df",
+   "external_id": "e231b566-c7f6-48c4-bdaf-9eb8835a93df",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 9, Number 3 (February 1996).pdf",
+   "bytes": 38921070,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-3-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-4-8",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 54,
+  "number": "4",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f54753a2-34d6-4328-a896-a87998329d41",
+   "external_id": "f54753a2-34d6-4328-a896-a87998329d41",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 9, Number 4 (April 1996).pdf",
+   "bytes": 42911690,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-4-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-5-9",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 55,
+  "number": "5",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/70040ccf-8ebb-4ff5-9ce2-2a60aabf0e23",
+   "external_id": "70040ccf-8ebb-4ff5-9ce2-2a60aabf0e23",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 9, Number 5 (June 1996).pdf",
+   "bytes": 41911384,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-5-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "journal-of-computer-game-design-6-9",
+  "publication": "journal-of-computer-game-design",
+  "sequence": 56,
+  "number": "6",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/930150ac-3671-4762-862a-25f6889c9e83",
+   "external_id": "930150ac-3671-4762-862a-25f6889c9e83",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/journal-of-computer-game-design/pdf/Interactive Entertainment Design, Volume 9, Number 6 (August 1996).pdf",
+   "bytes": 41668244,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "site/public/covers/journal-of-computer-game-design-6-9.jpg",
+   "pages_rendered": false
+  }
+ }
+]

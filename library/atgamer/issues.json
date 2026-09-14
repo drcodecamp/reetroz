@@ -1,1 +1,1129 @@
-[]
+[
+ {
+  "id": "atgamer-1",
+  "publication": "atgamer",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "July/August 2010",
+   "start": "2010-07",
+   "precision": "month",
+   "end": "2010-08"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/533d5e98-49da-45a8-b311-825593fc35a4",
+   "external_id": "533d5e98-49da-45a8-b311-825593fc35a4",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 1 (July-August 2010).pdf",
+   "bytes": 78816538,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-2",
+  "publication": "atgamer",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "September 2010",
+   "start": "2010-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7e01fe6-e0c6-481b-99b7-6badb0befe96",
+   "external_id": "a7e01fe6-e0c6-481b-99b7-6badb0befe96",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 2 (September 2010).pdf",
+   "bytes": 81375909,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-3",
+  "publication": "atgamer",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "October 2010",
+   "start": "2010-10",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.2,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b454eddb-b0f3-41c9-9857-207272e97dfc",
+   "external_id": "b454eddb-b0f3-41c9-9857-207272e97dfc",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 3 (October 2010).pdf",
+   "bytes": 86319034,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-4",
+  "publication": "atgamer",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "November 2010",
+   "start": "2010-11",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 207.8,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8104d78d-e835-4f99-8355-d1a1902eb6f4",
+   "external_id": "8104d78d-e835-4f99-8355-d1a1902eb6f4",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 4 (November 2010).pdf",
+   "bytes": 81813384,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-5",
+  "publication": "atgamer",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "December 2010",
+   "start": "2010-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.1,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e0d0add7-f2f6-491d-9d5d-bf5eb3c8156e",
+   "external_id": "e0d0add7-f2f6-491d-9d5d-bf5eb3c8156e",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 5 (December 2010).pdf",
+   "bytes": 86192993,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-6",
+  "publication": "atgamer",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "January/February 2011",
+   "start": "2011-01",
+   "precision": "month",
+   "end": "2011-02"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 208.3,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c386c870-8178-4eec-b024-f9558ffe12c7",
+   "external_id": "c386c870-8178-4eec-b024-f9558ffe12c7",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 6 (January-February 2011).pdf",
+   "bytes": 92526377,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-7",
+  "publication": "atgamer",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "March 2011",
+   "start": "2011-03",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.0,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc0ddb4d-2165-4409-ab94-4694d2b2e65d",
+   "external_id": "bc0ddb4d-2165-4409-ab94-4694d2b2e65d",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 7 (March 2011).pdf",
+   "bytes": 118403368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-8",
+  "publication": "atgamer",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "April 2011",
+   "start": "2011-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 206.7,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d02d882b-a641-4945-87f2-8860be4a1011",
+   "external_id": "d02d882b-a641-4945-87f2-8860be4a1011",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 8 (April 2011).pdf",
+   "bytes": 123134312,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-9",
+  "publication": "atgamer",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "May 2011",
+   "start": "2011-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c29b6cb7-e278-4181-af27-32b75e457a49",
+   "external_id": "c29b6cb7-e278-4181-af27-32b75e457a49",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 9 (May 2011).pdf",
+   "bytes": 121598684,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-10",
+  "publication": "atgamer",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "June 2011",
+   "start": "2011-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 207.6,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/440063fc-3832-4d3f-9673-a54db86a9998",
+   "external_id": "440063fc-3832-4d3f-9673-a54db86a9998",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 10 (June 2011).pdf",
+   "bytes": 86270105,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-11",
+  "publication": "atgamer",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "July/August 2011",
+   "start": "2011-07",
+   "precision": "month",
+   "end": "2011-08"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.1,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28489ff6-6e4d-44ec-b052-9e7ba233ee8e",
+   "external_id": "28489ff6-6e4d-44ec-b052-9e7ba233ee8e",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 11 (July-August 2011).pdf",
+   "bytes": 84292057,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-12",
+  "publication": "atgamer",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "September 2011",
+   "start": "2011-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.0,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb5f2e23-8066-4212-bf38-6ea3b1a2077a",
+   "external_id": "bb5f2e23-8066-4212-bf38-6ea3b1a2077a",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 12 (September 2011).pdf",
+   "bytes": 85852703,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-13",
+  "publication": "atgamer",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "October 2011",
+   "start": "2011-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 275.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d01d78c7-6c7e-4b33-9dd7-3958f30e7bf6",
+   "external_id": "d01d78c7-6c7e-4b33-9dd7-3958f30e7bf6",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 13 (October 2011).pdf",
+   "bytes": 74290521,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-14",
+  "publication": "atgamer",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "November 2011",
+   "start": "2011-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e1d998d8-e09f-45d3-b8fc-066f2a02bcc6",
+   "external_id": "e1d998d8-e09f-45d3-b8fc-066f2a02bcc6",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 14 (November 2011).pdf",
+   "bytes": 75344518,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-15",
+  "publication": "atgamer",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "December 2011",
+   "start": "2011-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 210.4,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c586ed38-5d02-416b-a43e-d56f06ae0219",
+   "external_id": "c586ed38-5d02-416b-a43e-d56f06ae0219",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 15 (December 2011).pdf",
+   "bytes": 84741967,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-16",
+  "publication": "atgamer",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "January/February 2012",
+   "start": "2012-01",
+   "precision": "month",
+   "end": "2012-02"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.1,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7071f57d-35b6-4f81-b095-418aa9dbc1bf",
+   "external_id": "7071f57d-35b6-4f81-b095-418aa9dbc1bf",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 16 (January-February 2012).pdf",
+   "bytes": 88427597,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-17",
+  "publication": "atgamer",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "March 2012",
+   "start": "2012-03",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 209.2,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fc799eb5-6e80-42b8-9076-b01aa21ced75",
+   "external_id": "fc799eb5-6e80-42b8-9076-b01aa21ced75",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 17 (March 2012).pdf",
+   "bytes": 80330942,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-18",
+  "publication": "atgamer",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "April 2012",
+   "start": "2012-04",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d7f38a65-57b8-4571-a734-5355cf766791",
+   "external_id": "d7f38a65-57b8-4571-a734-5355cf766791",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 18 (April 2012).pdf",
+   "bytes": 80420194,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-19",
+  "publication": "atgamer",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "May 2012",
+   "start": "2012-05",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 207.9,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/76c254b9-17c9-49ce-9793-4ded173e9de1",
+   "external_id": "76c254b9-17c9-49ce-9793-4ded173e9de1",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 19 (May 2012).pdf",
+   "bytes": 82648271,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-21",
+  "publication": "atgamer",
+  "sequence": 20,
+  "number": "21",
+  "date": {
+   "display": "July/August 2012",
+   "start": "2012-07",
+   "precision": "month",
+   "end": "2012-08"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.9,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/10d436cf-b164-42e3-974c-fca9c5b1676d",
+   "external_id": "10d436cf-b164-42e3-974c-fca9c5b1676d",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 21 (July-August 2012).pdf",
+   "bytes": 79716587,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-22",
+  "publication": "atgamer",
+  "sequence": 21,
+  "number": "22",
+  "date": {
+   "display": "September 2012",
+   "start": "2012-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.5,
+   "height_mm": 263.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/daccec69-cc4e-41a8-8a7d-5a1172f258a9",
+   "external_id": "daccec69-cc4e-41a8-8a7d-5a1172f258a9",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 22 (September 2012).pdf",
+   "bytes": 69524766,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-23",
+  "publication": "atgamer",
+  "sequence": 22,
+  "number": "23",
+  "date": {
+   "display": "October 2012",
+   "start": "2012-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 265.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/51122e85-7b50-4a82-8f8c-2b5fcc509f56",
+   "external_id": "51122e85-7b50-4a82-8f8c-2b5fcc509f56",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 23 (October 2012).pdf",
+   "bytes": 69111925,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-24",
+  "publication": "atgamer",
+  "sequence": 23,
+  "number": "24",
+  "date": {
+   "display": "November 2012",
+   "start": "2012-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.4,
+   "height_mm": 263.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b5968b67-f071-4761-909a-e54f6bc6a461",
+   "external_id": "b5968b67-f071-4761-909a-e54f6bc6a461",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 24 (November 2012).pdf",
+   "bytes": 69575210,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-25",
+  "publication": "atgamer",
+  "sequence": 24,
+  "number": "25",
+  "date": {
+   "display": "December 2012",
+   "start": "2012-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 263.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4e95be3b-bf6a-4ee0-9374-223d38bf10e6",
+   "external_id": "4e95be3b-bf6a-4ee0-9374-223d38bf10e6",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 25 (December 2012).pdf",
+   "bytes": 71648709,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-26",
+  "publication": "atgamer",
+  "sequence": 25,
+  "number": "26",
+  "date": {
+   "display": "January/February 2013",
+   "start": "2013-01",
+   "precision": "month",
+   "end": "2013-02"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.3,
+   "height_mm": 262.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7be6a16-d94b-411c-a18e-24681cd00b04",
+   "external_id": "c7be6a16-d94b-411c-a18e-24681cd00b04",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 26 (January-February 2013).pdf",
+   "bytes": 70156145,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-27",
+  "publication": "atgamer",
+  "sequence": 26,
+  "number": "27",
+  "date": {
+   "display": "March 2013",
+   "start": "2013-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.6,
+   "height_mm": 262.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50ade489-db8b-4730-aeab-e88d91290f55",
+   "external_id": "50ade489-db8b-4730-aeab-e88d91290f55",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 27 (March 2013).pdf",
+   "bytes": 69618254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-28",
+  "publication": "atgamer",
+  "sequence": 27,
+  "number": "28",
+  "date": {
+   "display": "April 2013",
+   "start": "2013-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 262.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/81030f64-50d4-4381-841b-3b6d8754a744",
+   "external_id": "81030f64-50d4-4381-841b-3b6d8754a744",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 28 (April 2013).pdf",
+   "bytes": 69709983,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-29",
+  "publication": "atgamer",
+  "sequence": 28,
+  "number": "29",
+  "date": {
+   "display": "May 2013",
+   "start": "2013-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 262.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8c807baf-ef2a-4105-a131-f8f328f1ddf5",
+   "external_id": "8c807baf-ef2a-4105-a131-f8f328f1ddf5",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 29 (May 2013).pdf",
+   "bytes": 69685149,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-30",
+  "publication": "atgamer",
+  "sequence": 29,
+  "number": "30",
+  "date": {
+   "display": "June 2013",
+   "start": "2013-06",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.8,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a621dd23-6fac-4ee0-895a-6f855030baab",
+   "external_id": "a621dd23-6fac-4ee0-895a-6f855030baab",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 30 (June 2013).pdf",
+   "bytes": 78597176,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-31",
+  "publication": "atgamer",
+  "sequence": 30,
+  "number": "31",
+  "date": {
+   "display": "July/August 2013",
+   "start": "2013-07",
+   "precision": "month",
+   "end": "2013-08"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 197.4,
+   "height_mm": 263.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f75e1228-6c4e-4c61-9349-aa39e389df35",
+   "external_id": "f75e1228-6c4e-4c61-9349-aa39e389df35",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 31 (July-August 2013).pdf",
+   "bytes": 69294825,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-32",
+  "publication": "atgamer",
+  "sequence": 31,
+  "number": "32",
+  "date": {
+   "display": "September 2013",
+   "start": "2013-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 271.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5eed1272-fab4-4cf5-89b9-6124ccf65e04",
+   "external_id": "5eed1272-fab4-4cf5-89b9-6124ccf65e04",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 32 (September 2013).pdf",
+   "bytes": 83779711,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "atgamer-33",
+  "publication": "atgamer",
+  "sequence": 32,
+  "number": "33",
+  "date": {
+   "display": "October 2013",
+   "start": "2013-10",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/435548f1-4e61-45c8-9200-851c903de85e",
+   "external_id": "435548f1-4e61-45c8-9200-851c903de85e",
+   "retrieved_at": "2026-09-14T09:32:45+00:00"
+  },
+  "files": {
+   "pdf": "library/atgamer/pdf/@Gamer, Issue 33 (October 2013).pdf",
+   "bytes": 109141006,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:32:45+00:00",
+  "assets": {
+   "cover": "site/public/covers/atgamer-33.jpg",
+   "pages_rendered": false
+  }
+ }
+]

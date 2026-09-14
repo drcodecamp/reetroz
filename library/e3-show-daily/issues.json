@@ -1,1 +1,1017 @@
-[]
+[
+ {
+  "id": "e3-show-daily-19950511-1995-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "May 11, 1995",
+   "start": "1995-05-11",
+   "precision": "day"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 277.2,
+   "height_mm": 366.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac3901f6-d3c6-47f5-8a0e-290c46fc0a86",
+   "external_id": "ac3901f6-d3c6-47f5-8a0e-290c46fc0a86",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1995, Day 1 (May 11, 1995).pdf",
+   "bytes": 122615465,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19950511-1995-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-19950513-1995-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "May 13, 1995",
+   "start": "1995-05-13",
+   "precision": "day"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 277.1,
+   "height_mm": 365.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3b8c5688-41d4-4929-9d2c-19014d9317c7",
+   "external_id": "3b8c5688-41d4-4929-9d2c-19014d9317c7",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1995, Day 3 (May 13, 1995).pdf",
+   "bytes": 122753873,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19950513-1995-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-19970619-1997-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "June 19, 1997",
+   "start": "1997-06-19",
+   "precision": "day"
+  },
+  "pages": 70,
+  "dimensions": {
+   "width_mm": 269.7,
+   "height_mm": 338.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab61b93a-cdd9-4840-90fc-34178f30bc4e",
+   "external_id": "ab61b93a-cdd9-4840-90fc-34178f30bc4e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1997, Day 1 (June 19, 1997).pdf",
+   "bytes": 103182723,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19970619-1997-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-19970620-1997-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "June 20, 1997",
+   "start": "1997-06-20",
+   "precision": "day"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 269.9,
+   "height_mm": 338.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/21e7d3fc-264a-4329-a050-4e44d31572ac",
+   "external_id": "21e7d3fc-264a-4329-a050-4e44d31572ac",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1997, Day 2 (June 20, 1997).pdf",
+   "bytes": 97659360,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19970620-1997-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-19970621-1997-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "June 21, 1997",
+   "start": "1997-06-21",
+   "precision": "day"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 270.4,
+   "height_mm": 339.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a1f6c63e-068b-4a1e-9923-118d7ffe4927",
+   "external_id": "a1f6c63e-068b-4a1e-9923-118d7ffe4927",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1997, Day 3 (June 21, 1997).pdf",
+   "bytes": 99419732,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19970621-1997-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-19980528-1998-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "May 28, 1998",
+   "start": "1998-05-28",
+   "precision": "day"
+  },
+  "pages": 83,
+  "dimensions": {
+   "width_mm": 268.4,
+   "height_mm": 334.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/65ce6bc1-bcf6-4b58-bbdf-2f0b0f69db4d",
+   "external_id": "65ce6bc1-bcf6-4b58-bbdf-2f0b0f69db4d",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1998, Day 1 (May 28, 1998).pdf",
+   "bytes": 148329758,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19980528-1998-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-19980529-1998-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "May 29, 1998",
+   "start": "1998-05-29",
+   "precision": "day"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 266.4,
+   "height_mm": 338.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/34930736-b110-48e2-b5c7-481171e57be0",
+   "external_id": "34930736-b110-48e2-b5c7-481171e57be0",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1998, Day 2 (May 29, 1998).pdf",
+   "bytes": 141145176,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19980529-1998-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-19980530-1998-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 8,
+  "number": "special",
+  "date": {
+   "display": "May 30, 1998",
+   "start": "1998-05-30",
+   "precision": "day"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 266.9,
+   "height_mm": 337.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e21d2d78-4f5b-4c37-b836-3f40d7fdef64",
+   "external_id": "e21d2d78-4f5b-4c37-b836-3f40d7fdef64",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 1998, Day 3 (May 30, 1998).pdf",
+   "bytes": 141027780,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-19980530-1998-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20100615-2010-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 9,
+  "number": "special",
+  "date": {
+   "display": "June 15, 2010",
+   "start": "2010-06-15",
+   "precision": "day"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6b95929a-0dee-4635-92b6-1d8f0ebeed6a",
+   "external_id": "6b95929a-0dee-4635-92b6-1d8f0ebeed6a",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2010, Day 1 (June 15, 2010).pdf",
+   "bytes": 58136488,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20100615-2010-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20100616-2010-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "June 16, 2010",
+   "start": "2010-06-16",
+   "precision": "day"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ee9aec0d-f5ab-4245-8dc5-d1cbdedda4d6",
+   "external_id": "ee9aec0d-f5ab-4245-8dc5-d1cbdedda4d6",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2010, Day 2 (June 16, 2010).pdf",
+   "bytes": 52560572,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20100616-2010-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20100617-2010-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "June 17, 2010",
+   "start": "2010-06-17",
+   "precision": "day"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28e69b16-b4c7-4e15-a9ff-ca74803b39f0",
+   "external_id": "28e69b16-b4c7-4e15-a9ff-ca74803b39f0",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2010, Day 3 (June 17, 2010).pdf",
+   "bytes": 54218160,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20100617-2010-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20110606-2011-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "June 6, 2011",
+   "start": "2011-06-06",
+   "precision": "day"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4cacbe19-a8f0-435e-acc8-aba0dd9f39b8",
+   "external_id": "4cacbe19-a8f0-435e-acc8-aba0dd9f39b8",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2011, Day 1 (June 6, 2011).pdf",
+   "bytes": 63169971,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20110606-2011-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20110607-2011-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "June 7, 2011",
+   "start": "2011-06-07",
+   "precision": "day"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0ad1898d-5f0d-43e4-a297-548a9ed02a51",
+   "external_id": "0ad1898d-5f0d-43e4-a297-548a9ed02a51",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2011, Day 2 (June 7, 2011).pdf",
+   "bytes": 63720124,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20110607-2011-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20110608-2011-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 14,
+  "number": "special",
+  "date": {
+   "display": "June 8, 2011",
+   "start": "2011-06-08",
+   "precision": "day"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7efabbca-600d-4b46-90f2-4b856ccf713c",
+   "external_id": "7efabbca-600d-4b46-90f2-4b856ccf713c",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2011, Day 3 (June 8, 2011).pdf",
+   "bytes": 63463376,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20110608-2011-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20120605-2012-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 15,
+  "number": "special",
+  "date": {
+   "display": "June 5, 2012",
+   "start": "2012-06-05",
+   "precision": "day"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/13826289-a6d6-4001-ac21-2071a855f49e",
+   "external_id": "13826289-a6d6-4001-ac21-2071a855f49e",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2012, Day 1 (June 5, 2012).pdf",
+   "bytes": 52859413,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20120605-2012-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20120606-2012-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 16,
+  "number": "special",
+  "date": {
+   "display": "June 6, 2012",
+   "start": "2012-06-06",
+   "precision": "day"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/67860757-1304-489e-a3bb-a40a2e9d9ed8",
+   "external_id": "67860757-1304-489e-a3bb-a40a2e9d9ed8",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2012, Day 2 (June 6, 2012).pdf",
+   "bytes": 53529758,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20120606-2012-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20120607-2012-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 17,
+  "number": "special",
+  "date": {
+   "display": "June 7, 2012",
+   "start": "2012-06-07",
+   "precision": "day"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1a774e85-51ee-4498-9c8a-7ca4431d8168",
+   "external_id": "1a774e85-51ee-4498-9c8a-7ca4431d8168",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2012, Day 3 (June 7, 2012).pdf",
+   "bytes": 52345886,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20120607-2012-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20130611-2013-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 18,
+  "number": "special",
+  "date": {
+   "display": "June 11, 2013",
+   "start": "2013-06-11",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/462f7fe1-bb87-47bf-99e3-8eca64d5e94c",
+   "external_id": "462f7fe1-bb87-47bf-99e3-8eca64d5e94c",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2013, Day 1 (June 11, 2013).pdf",
+   "bytes": 44277148,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20130611-2013-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20130612-2013-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 19,
+  "number": "special",
+  "date": {
+   "display": "June 12, 2013",
+   "start": "2013-06-12",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d335c38-217e-40db-8270-05208cb3d9f1",
+   "external_id": "8d335c38-217e-40db-8270-05208cb3d9f1",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2013, Day 2 (June 12, 2013).pdf",
+   "bytes": 45931572,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20130612-2013-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20130613-2013-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 20,
+  "number": "special",
+  "date": {
+   "display": "June 13, 2013",
+   "start": "2013-06-13",
+   "precision": "day"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0c805877-3e72-4161-84d3-823bff19a1be",
+   "external_id": "0c805877-3e72-4161-84d3-823bff19a1be",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2013, Day 3 (June 13, 2013).pdf",
+   "bytes": 42928828,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20130613-2013-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20140610-2014-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 21,
+  "number": "special",
+  "date": {
+   "display": "June 10, 2014",
+   "start": "2014-06-10",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d7b9c206-507a-4498-acae-c0aafc4ff498",
+   "external_id": "d7b9c206-507a-4498-acae-c0aafc4ff498",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2014, Day 1 (June 10, 2014).pdf",
+   "bytes": 41471864,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20140610-2014-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20140611-2014-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 22,
+  "number": "special",
+  "date": {
+   "display": "June 11, 2014",
+   "start": "2014-06-11",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/30795a54-8d5c-4236-83c1-95ebe83ed25a",
+   "external_id": "30795a54-8d5c-4236-83c1-95ebe83ed25a",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2014, Day 2 (June 11, 2014).pdf",
+   "bytes": 40611954,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20140611-2014-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20140612-2014-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 23,
+  "number": "special",
+  "date": {
+   "display": "June 12, 2014",
+   "start": "2014-06-12",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bbbc8ab8-780d-4c0a-a27e-03ec506bda51",
+   "external_id": "bbbc8ab8-780d-4c0a-a27e-03ec506bda51",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2014, Day 3 (June 12, 2014).pdf",
+   "bytes": 40690333,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20140612-2014-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20150616-2015-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 24,
+  "number": "special",
+  "date": {
+   "display": "June 16, 2015",
+   "start": "2015-06-16",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/68f80228-6079-4798-a4de-bd70f0bbb6ce",
+   "external_id": "68f80228-6079-4798-a4de-bd70f0bbb6ce",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2015, Day 1 (June 16, 2015).pdf",
+   "bytes": 37614241,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20150616-2015-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20150617-2015-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 25,
+  "number": "special",
+  "date": {
+   "display": "June 17, 2015",
+   "start": "2015-06-17",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5c308c38-288c-4c73-af53-a59ef33365e1",
+   "external_id": "5c308c38-288c-4c73-af53-a59ef33365e1",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2015, Day 2 (June 17, 2015).pdf",
+   "bytes": 38133487,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20150617-2015-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20150618-2015-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 26,
+  "number": "special",
+  "date": {
+   "display": "June 18, 2015",
+   "start": "2015-06-18",
+   "precision": "day"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/46043bf2-9b6b-4778-b448-e2eb6946f800",
+   "external_id": "46043bf2-9b6b-4778-b448-e2eb6946f800",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2015, Day 3 (June 18, 2015).pdf",
+   "bytes": 37851382,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20150618-2015-day-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20160614-2016-day-1",
+  "publication": "e3-show-daily",
+  "sequence": 27,
+  "number": "special",
+  "date": {
+   "display": "June 14, 2016",
+   "start": "2016-06-14",
+   "precision": "day"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/70ef7fa7-98ce-4dbf-b814-80c8ac648593",
+   "external_id": "70ef7fa7-98ce-4dbf-b814-80c8ac648593",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2016, Day 1 (June 14, 2016).pdf",
+   "bytes": 38166526,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20160614-2016-day-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20160615-2016-day-2",
+  "publication": "e3-show-daily",
+  "sequence": 28,
+  "number": "special",
+  "date": {
+   "display": "June 15, 2016",
+   "start": "2016-06-15",
+   "precision": "day"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/559603e0-e700-4184-92e7-25eb8242ecd0",
+   "external_id": "559603e0-e700-4184-92e7-25eb8242ecd0",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2016, Day 2 (June 15, 2016).pdf",
+   "bytes": 39161800,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20160615-2016-day-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "e3-show-daily-20160616-2016-day-3",
+  "publication": "e3-show-daily",
+  "sequence": 29,
+  "number": "special",
+  "date": {
+   "display": "June 16, 2016",
+   "start": "2016-06-16",
+   "precision": "day"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6e11ca6-effe-41ce-9385-14862184a610",
+   "external_id": "e6e11ca6-effe-41ce-9385-14862184a610",
+   "retrieved_at": "2026-09-14T09:33:14+00:00"
+  },
+  "files": {
+   "pdf": "library/e3-show-daily/pdf/E3 Show Daily 2016, Day 3 (June 16, 2016).pdf",
+   "bytes": 39262020,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:14+00:00",
+  "assets": {
+   "cover": "site/public/covers/e3-show-daily-20160616-2016-day-3.jpg",
+   "pages_rendered": false
+  }
+ }
+]

@@ -1,1 +1,1165 @@
-[]
+[
+ {
+  "id": "code-vault-200109-code-vault",
+  "publication": "code-vault",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "September 2001",
+   "start": "2001-09",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 266.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/992b111d-ede1-4e4a-b246-7ab1fb0e73cb",
+   "external_id": "992b111d-ede1-4e4a-b246-7ab1fb0e73cb",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (September 2001).pdf",
+   "bytes": 97292905,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200109-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200112-code-vault",
+  "publication": "code-vault",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0f4819b0-6e1b-49ec-abc2-343698497a84",
+   "external_id": "0f4819b0-6e1b-49ec-abc2-343698497a84",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (December 2001).pdf",
+   "bytes": 83855509,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200112-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200202-code-vault",
+  "publication": "code-vault",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "February 2002",
+   "start": "2002-02",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 204.2,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa9c1e67-812c-4227-8b00-977d1ec56ec4",
+   "external_id": "fa9c1e67-812c-4227-8b00-977d1ec56ec4",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (February 2002).pdf",
+   "bytes": 141557195,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200202-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200204-code-vault",
+  "publication": "code-vault",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "April 2002",
+   "start": "2002-04",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 265.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bef137cf-01ae-496d-b3aa-e802dea1bf37",
+   "external_id": "bef137cf-01ae-496d-b3aa-e802dea1bf37",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (April 2002).pdf",
+   "bytes": 86097585,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200204-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200206-code-vault",
+  "publication": "code-vault",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "June 2002",
+   "start": "2002-06",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 200.2,
+   "height_mm": 264.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2d925d0-2420-442c-92b4-99cecbcd57c9",
+   "external_id": "a2d925d0-2420-442c-92b4-99cecbcd57c9",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (June 2002).pdf",
+   "bytes": 81777375,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200206-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200208-code-vault",
+  "publication": "code-vault",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "August 2002",
+   "start": "2002-08",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 208.9,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/641fa934-e186-471e-9fd9-28fc4840e830",
+   "external_id": "641fa934-e186-471e-9fd9-28fc4840e830",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (August 2002).pdf",
+   "bytes": 100732587,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200208-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200209-code-vault",
+  "publication": "code-vault",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "September/October 2002",
+   "start": "2002-09",
+   "precision": "month",
+   "end": "2002-10"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c1dfe1b-8c98-4298-a09b-6d24f7cc383e",
+   "external_id": "6c1dfe1b-8c98-4298-a09b-6d24f7cc383e",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (September-October 2002).pdf",
+   "bytes": 138072004,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200209-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200211-code-vault",
+  "publication": "code-vault",
+  "sequence": 8,
+  "number": "special",
+  "date": {
+   "display": "November/December 2002",
+   "start": "2002-11",
+   "precision": "month",
+   "end": "2002-12"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 198.2,
+   "height_mm": 262.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ddc351c-7b8e-4b6d-97f2-f0b1569ae6c0",
+   "external_id": "3ddc351c-7b8e-4b6d-97f2-f0b1569ae6c0",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (November-December 2002).pdf",
+   "bytes": 80557488,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200211-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200301-code-vault",
+  "publication": "code-vault",
+  "sequence": 9,
+  "number": "special",
+  "date": {
+   "display": "January/February 2003",
+   "start": "2003-01",
+   "precision": "month",
+   "end": "2003-02"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0d76a372-f412-4cfd-91b5-97edee57b615",
+   "external_id": "0d76a372-f412-4cfd-91b5-97edee57b615",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (January-February 2003).pdf",
+   "bytes": 138272371,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200301-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200303-code-vault",
+  "publication": "code-vault",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "March/April 2003",
+   "start": "2003-03",
+   "precision": "month",
+   "end": "2003-04"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9c972d42-8cf7-414d-a4d7-98ab0dd2c9e8",
+   "external_id": "9c972d42-8cf7-414d-a4d7-98ab0dd2c9e8",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (March-April 2003).pdf",
+   "bytes": 82294699,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200303-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200305-code-vault",
+  "publication": "code-vault",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "May/June 2003",
+   "start": "2003-05",
+   "precision": "month",
+   "end": "2003-06"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 204.3,
+   "height_mm": 264.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/25c0a934-67ff-47d8-942d-47470ca561af",
+   "external_id": "25c0a934-67ff-47d8-942d-47470ca561af",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (May-June 2003).pdf",
+   "bytes": 78670824,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200305-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200307-code-vault",
+  "publication": "code-vault",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "July 2003",
+   "start": "2003-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.1,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab71ae52-c81e-42d7-8a06-c107fe4f5799",
+   "external_id": "ab71ae52-c81e-42d7-8a06-c107fe4f5799",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (July 2003).pdf",
+   "bytes": 71086068,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200307-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200308-code-vault",
+  "publication": "code-vault",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "August 2003",
+   "start": "2003-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.4,
+   "height_mm": 266.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2a44171d-79c6-4424-8391-b788a34a9ca4",
+   "external_id": "2a44171d-79c6-4424-8391-b788a34a9ca4",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (August 2003).pdf",
+   "bytes": 69292403,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200308-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200309-code-vault",
+  "publication": "code-vault",
+  "sequence": 14,
+  "number": "special",
+  "date": {
+   "display": "September 2003",
+   "start": "2003-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.8,
+   "height_mm": 265.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/56e8481b-05cd-4145-9651-85d8d8f1caaf",
+   "external_id": "56e8481b-05cd-4145-9651-85d8d8f1caaf",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (September 2003).pdf",
+   "bytes": 69710265,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200309-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200310-code-vault",
+  "publication": "code-vault",
+  "sequence": 15,
+  "number": "special",
+  "date": {
+   "display": "October 2003",
+   "start": "2003-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 265.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f4606fba-fc35-4931-af8c-6627bbedaa44",
+   "external_id": "f4606fba-fc35-4931-af8c-6627bbedaa44",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (October 2003).pdf",
+   "bytes": 67207439,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200310-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200311-code-vault",
+  "publication": "code-vault",
+  "sequence": 16,
+  "number": "special",
+  "date": {
+   "display": "November 2003",
+   "start": "2003-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.5,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/36fd816c-d6c2-4a37-bbd1-06f2e7df58f5",
+   "external_id": "36fd816c-d6c2-4a37-bbd1-06f2e7df58f5",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (November 2003).pdf",
+   "bytes": 69750057,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200311-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200312-code-vault",
+  "publication": "code-vault",
+  "sequence": 17,
+  "number": "special",
+  "date": {
+   "display": "December 2003",
+   "start": "2003-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cb52c81b-9d15-46db-bfcc-ae95b6d227f5",
+   "external_id": "cb52c81b-9d15-46db-bfcc-ae95b6d227f5",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (December 2003).pdf",
+   "bytes": 69974175,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200312-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200401-code-vault",
+  "publication": "code-vault",
+  "sequence": 18,
+  "number": "special",
+  "date": {
+   "display": "January 2004",
+   "start": "2004-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 206.9,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9f42dbd4-26c0-4e2a-944e-0fa84539455e",
+   "external_id": "9f42dbd4-26c0-4e2a-944e-0fa84539455e",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (January 2004).pdf",
+   "bytes": 106901132,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200401-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200402-code-vault",
+  "publication": "code-vault",
+  "sequence": 19,
+  "number": "special",
+  "date": {
+   "display": "February 2004",
+   "start": "2004-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90cf7990-d3d8-4711-ab77-5287300e66e6",
+   "external_id": "90cf7990-d3d8-4711-ab77-5287300e66e6",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (February 2004).pdf",
+   "bytes": 71143819,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200402-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200403-code-vault",
+  "publication": "code-vault",
+  "sequence": 20,
+  "number": "special",
+  "date": {
+   "display": "March 2004",
+   "start": "2004-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 266.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/95915f56-2073-472f-aa24-16b2ef2293d1",
+   "external_id": "95915f56-2073-472f-aa24-16b2ef2293d1",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (March 2004).pdf",
+   "bytes": 72280028,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200403-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200405-code-vault",
+  "publication": "code-vault",
+  "sequence": 21,
+  "number": "special",
+  "date": {
+   "display": "May/June 2004",
+   "start": "2004-05",
+   "precision": "month",
+   "end": "2004-06"
+  },
+  "pages": 98,
+  "dimensions": {
+   "width_mm": 207.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2cc01949-ad89-4379-8273-4d04e61ad2dc",
+   "external_id": "2cc01949-ad89-4379-8273-4d04e61ad2dc",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (May-June 2004).pdf",
+   "bytes": 85098041,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200405-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200408-code-vault",
+  "publication": "code-vault",
+  "sequence": 22,
+  "number": "special",
+  "date": {
+   "display": "August/September 2004",
+   "start": "2004-08",
+   "precision": "month",
+   "end": "2004-09"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/134d38d1-cb31-490b-9524-90ad4bb6036a",
+   "external_id": "134d38d1-cb31-490b-9524-90ad4bb6036a",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (August-September 2004).pdf",
+   "bytes": 84828247,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200408-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200410-code-vault",
+  "publication": "code-vault",
+  "sequence": 23,
+  "number": "special",
+  "date": {
+   "display": "October/November 2004",
+   "start": "2004-10",
+   "precision": "month",
+   "end": "2004-11"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4ce3737b-52a5-422f-bfce-bf92953d3c41",
+   "external_id": "4ce3737b-52a5-422f-bfce-bf92953d3c41",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (October-November 2004).pdf",
+   "bytes": 91919043,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200410-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200503-code-vault",
+  "publication": "code-vault",
+  "sequence": 24,
+  "number": "special",
+  "date": {
+   "display": "Spring 2005",
+   "start": "2005-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.4,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1976e27d-6097-4bb1-a212-1a5f8ff09d26",
+   "external_id": "1976e27d-6097-4bb1-a212-1a5f8ff09d26",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Spring 2005).pdf",
+   "bytes": 71678170,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200503-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200509-code-vault",
+  "publication": "code-vault",
+  "sequence": 25,
+  "number": "special",
+  "date": {
+   "display": "Fall 2005",
+   "start": "2005-09",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.1,
+   "height_mm": 264.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0abbf285-202b-4fc5-b82f-c29b9cbf0358",
+   "external_id": "0abbf285-202b-4fc5-b82f-c29b9cbf0358",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Fall 2005).pdf",
+   "bytes": 68748686,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200509-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200512-code-vault",
+  "publication": "code-vault",
+  "sequence": 26,
+  "number": "special",
+  "date": {
+   "display": "Holiday 2005",
+   "start": "2005-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 264.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4b7163d3-a9f9-46e3-bc51-dfef4dadc685",
+   "external_id": "4b7163d3-a9f9-46e3-bc51-dfef4dadc685",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Holiday 2005).pdf",
+   "bytes": 67467665,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200512-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200603-code-vault",
+  "publication": "code-vault",
+  "sequence": 27,
+  "number": "special",
+  "date": {
+   "display": "Spring 2006",
+   "start": "2006-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 265.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0b1e54fc-5368-49ef-acbd-b61e37418ebc",
+   "external_id": "0b1e54fc-5368-49ef-acbd-b61e37418ebc",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Spring 2006).pdf",
+   "bytes": 77325400,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200603-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200609-code-vault",
+  "publication": "code-vault",
+  "sequence": 28,
+  "number": "special",
+  "date": {
+   "display": "Fall 2006",
+   "start": "2006-09",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.8,
+   "height_mm": 266.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c6c12d2a-bc4d-4777-94e2-af1de75991f2",
+   "external_id": "c6c12d2a-bc4d-4777-94e2-af1de75991f2",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Fall 2006).pdf",
+   "bytes": 83800810,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200609-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200612-code-vault",
+  "publication": "code-vault",
+  "sequence": 29,
+  "number": "special",
+  "date": {
+   "display": "Winter 2006",
+   "start": "2006-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a4730c01-09e1-44cc-bda7-39b14f95f89f",
+   "external_id": "a4730c01-09e1-44cc-bda7-39b14f95f89f",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Winter 2006).pdf",
+   "bytes": 71939030,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200612-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200703-code-vault",
+  "publication": "code-vault",
+  "sequence": 30,
+  "number": "special",
+  "date": {
+   "display": "Spring 2007",
+   "start": "2007-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.0,
+   "height_mm": 265.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d4636f21-dfb2-4534-9aaa-8ab6304c9fe0",
+   "external_id": "d4636f21-dfb2-4534-9aaa-8ab6304c9fe0",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Spring 2007).pdf",
+   "bytes": 83157315,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200703-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200706-code-vault",
+  "publication": "code-vault",
+  "sequence": 31,
+  "number": "special",
+  "date": {
+   "display": "Summer 2007",
+   "start": "2007-06",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 208.9,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d7713f19-f2f5-42a0-990c-d7119483e0ef",
+   "external_id": "d7713f19-f2f5-42a0-990c-d7119483e0ef",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Summer 2007).pdf",
+   "bytes": 91347642,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200706-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200709-code-vault",
+  "publication": "code-vault",
+  "sequence": 32,
+  "number": "special",
+  "date": {
+   "display": "Fall 2007",
+   "start": "2007-09",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 209.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d3d94a6-1b4e-464e-b365-984b32f7f5a9",
+   "external_id": "8d3d94a6-1b4e-464e-b365-984b32f7f5a9",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Fall 2007).pdf",
+   "bytes": 109490575,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200709-code-vault.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "code-vault-200712-code-vault",
+  "publication": "code-vault",
+  "sequence": 33,
+  "number": "special",
+  "date": {
+   "display": "Winter 2007",
+   "start": "2007-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.0,
+   "height_mm": 264.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/788eccc5-2083-453c-b3db-3e2b0c5a50c2",
+   "external_id": "788eccc5-2083-453c-b3db-3e2b0c5a50c2",
+   "retrieved_at": "2026-09-14T09:33:11+00:00"
+  },
+  "files": {
+   "pdf": "library/code-vault/pdf/Code Vault (Winter 2007).pdf",
+   "bytes": 80273107,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:11+00:00",
+  "assets": {
+   "cover": "site/public/covers/code-vault-200712-code-vault.jpg",
+   "pages_rendered": false
+  }
+ }
+]

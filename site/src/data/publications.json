@@ -20,11 +20,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/cc6ac688-13e0-4bff-824c-80a446951743",
-    "items": null
+    "items": 5
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 5,
+  "pages": 104,
   "readable": 0,
   "coverIssue": null
  },
@@ -78,7 +78,7 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/fdb5a523-54e5-40a3-aab4-efc9dc0faee7",
-    "items": null
+    "items": 10
    },
    {
     "provider": "internet-archive",
@@ -86,8 +86,8 @@
     "items": 9
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 10,
+  "pages": 53,
   "readable": 0,
   "coverIssue": null
  },
@@ -158,11 +158,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/14c6f023-c9dd-4ac8-ac7b-f243dc1dbe8f",
-    "items": null
+    "items": 53
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 53,
+  "pages": 424,
   "readable": 0,
   "coverIssue": null
  },
@@ -188,11 +188,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/5c58e229-93bc-412b-953e-36edd364689a",
-    "items": null
+    "items": 11
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 11,
+  "pages": 324,
   "readable": 0,
   "coverIssue": null
  },
@@ -217,7 +217,7 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/480eeb97-bb01-457d-a439-4ed1866b0e4f",
-    "items": null
+    "items": 32
    },
    {
     "provider": "internet-archive",
@@ -225,8 +225,8 @@
     "items": 32
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 32,
+  "pages": 3238,
   "readable": 0,
   "coverIssue": null
  },
@@ -251,7 +251,7 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/db7773e7-2f43-4581-8d57-0ec83281ed8b",
-    "items": null
+    "items": 7
    },
    {
     "provider": "internet-archive",
@@ -259,8 +259,8 @@
     "items": 9
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 7,
+  "pages": 248,
   "readable": 0,
   "coverIssue": null
  },
@@ -286,7 +286,7 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/e40d65ad-66bd-46f3-983d-4738683bf586",
-    "items": null
+    "items": 15
    },
    {
     "provider": "internet-archive",
@@ -294,8 +294,8 @@
     "items": 34
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 15,
+  "pages": 1028,
   "readable": 0,
   "coverIssue": null
  },
@@ -321,11 +321,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/f8071c2d-9960-4a23-951a-987b2824f453",
-    "items": null
+    "items": 28
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 28,
+  "pages": 3844,
   "readable": 0,
   "coverIssue": null
  },
@@ -365,7 +365,7 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/1de5cb2a-cc63-427a-a06e-adc4959d74c6",
-    "items": null
+    "items": 287
    }
   ],
   "issues": 268,
@@ -394,11 +394,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/236efd86-a9c7-49bd-b9ca-a7ba394cd9d9",
-    "items": null
+    "items": 33
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 33,
+  "pages": 3588,
   "readable": 0,
   "coverIssue": null
  },
@@ -446,11 +446,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/519c0dbd-0f5d-45fe-83c2-355a756391a9",
-    "items": null
+    "items": 102
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 102,
+  "pages": 1510,
   "readable": 0,
   "coverIssue": null
  },
@@ -475,11 +475,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/b07b30eb-9b20-4cc2-94b2-ab2250a5c95b",
-    "items": null
+    "items": 5
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 5,
+  "pages": 635,
   "readable": 0,
   "coverIssue": null
  },
@@ -535,11 +535,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/a7a3c4f5-3213-41ff-ab94-1260d3b6b0f1",
-    "items": null
+    "items": 66
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 66,
+  "pages": 7524,
   "readable": 0,
   "coverIssue": null
  },
@@ -564,11 +564,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/9d04d369-f4ba-413c-b0e3-d50271f157a4",
-    "items": null
+    "items": 117
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 117,
+  "pages": 14310,
   "readable": 0,
   "coverIssue": null
  },
@@ -593,11 +593,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/6bac8a74-a579-497e-9c25-18b1cc65e588",
-    "items": null
+    "items": 20
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 20,
+  "pages": 2108,
   "readable": 0,
   "coverIssue": null
  },
@@ -680,11 +680,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/aa6d2346-0750-4f14-9944-92b00365261a",
-    "items": null
+    "items": 38
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 36,
+  "pages": 2199,
   "readable": 0,
   "coverIssue": null
  },
@@ -705,9 +705,15 @@
   "metadataStatus": "stub",
   "rights": "community-scan",
   "provider": "Internet Archive",
-  "knownSources": [],
-  "issues": 0,
-  "pages": 0,
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/e3d7153a-504c-4383-a173-acace3680a6d",
+    "items": 21
+   }
+  ],
+  "issues": 21,
+  "pages": 2622,
   "readable": 0,
   "coverIssue": null
  },
@@ -732,11 +738,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/94ef167c-978b-464a-93ac-2e0047f8172f",
-    "items": null
+    "items": 2
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 2,
+  "pages": 268,
   "readable": 0,
   "coverIssue": null
  },
@@ -784,11 +790,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/ae5ac294-dcfd-45b8-86de-465d80e8dd8d",
-    "items": null
+    "items": 29
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 29,
+  "pages": 1909,
   "readable": 0,
   "coverIssue": null
  },
@@ -813,11 +819,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/00aa5458-1bf0-42ce-adf2-88f4d08c3dec",
-    "items": null
+    "items": 102
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 102,
+  "pages": 11477,
   "readable": 0,
   "coverIssue": null
  },
@@ -842,11 +848,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/0721dbc2-96ec-4ce9-a7a9-abe99dcbc6de",
-    "items": null
+    "items": 121
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 121,
+  "pages": 16172,
   "readable": 0,
   "coverIssue": null
  },
@@ -867,9 +873,15 @@
   "metadataStatus": "stub",
   "rights": "community-scan",
   "provider": "Internet Archive",
-  "knownSources": [],
-  "issues": 0,
-  "pages": 0,
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/39b2d5c8-8756-471f-af66-2e95396f2704",
+    "items": 41
+   }
+  ],
+  "issues": 41,
+  "pages": 4338,
   "readable": 0,
   "coverIssue": null
  },
@@ -895,10 +907,15 @@
     "provider": "internet-archive",
     "url": "https://archive.org/details/electronic-gaming-monthly",
     "items": 419
+   },
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/89024108-47f9-4718-a679-83a8710716d9",
+    "items": 347
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 347,
+  "pages": 46895,
   "readable": 0,
   "coverIssue": null
  },
@@ -924,10 +941,15 @@
     "provider": "internet-archive",
     "url": "https://archive.org/details/gameinformer",
     "items": 399
+   },
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/abd3f6bd-0a4d-47d9-930d-550b5564b86a",
+    "items": 367
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 366,
+  "pages": 38668,
   "readable": 0,
   "coverIssue": null
  },
@@ -948,9 +970,15 @@
   "metadataStatus": "stub",
   "rights": "community-scan",
   "provider": "Internet Archive",
-  "knownSources": [],
-  "issues": 0,
-  "pages": 0,
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/b3155081-1b6e-42a2-85de-ec742f7c29f5",
+    "items": 238
+   }
+  ],
+  "issues": 238,
+  "pages": 27281,
   "readable": 0,
   "coverIssue": null
  },
@@ -976,11 +1004,16 @@
     "provider": "internet-archive",
     "url": "https://archive.org/details/gamepromagazine",
     "items": 474
+   },
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/baf6da18-d798-448f-994d-af23f7f4ffad",
+    "items": 269
    }
   ],
-  "issues": 1,
-  "pages": 64,
-  "readable": 1,
+  "issues": 268,
+  "pages": 39092,
+  "readable": 268,
   "coverIssue": "gamepro-1"
  },
  {
@@ -1056,11 +1089,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/30d88818-a185-4138-8b43-127f55b01c69",
-    "items": null
+    "items": 98
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 98,
+  "pages": 9384,
   "readable": 0,
   "coverIssue": null
  },
@@ -1085,11 +1118,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/00855151-bc1a-4b0a-9189-d64f74179869",
-    "items": null
+    "items": 2
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 2,
+  "pages": 220,
   "readable": 0,
   "coverIssue": null
  },
@@ -1114,11 +1147,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/6187132e-315c-4be5-8498-8c55ac478ebe",
-    "items": null
+    "items": 3
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 3,
+  "pages": 60,
   "readable": 0,
   "coverIssue": null
  },
@@ -1144,11 +1177,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/56f6db10-774b-4a5c-83ec-832180d3b0b9",
-    "items": null
+    "items": 18
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 18,
+  "pages": 2732,
   "readable": 0,
   "coverIssue": null
  },
@@ -1173,11 +1206,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/b166d2f2-91e4-439f-9881-9dbd9faca78a",
-    "items": null
+    "items": 28
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 28,
+  "pages": 2657,
   "readable": 0,
   "coverIssue": null
  },
@@ -1202,11 +1235,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/e36eed31-c069-4599-b3e3-abcd65034c64",
-    "items": null
+    "items": 15
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 15,
+  "pages": 1286,
   "readable": 0,
   "coverIssue": null
  },
@@ -1231,11 +1264,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/2529ea9d-c993-4f19-bee4-676f85add53d",
-    "items": null
+    "items": 56
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 56,
+  "pages": 890,
   "readable": 0,
   "coverIssue": null
  },
@@ -1260,7 +1293,7 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/eb2067ae-1d19-4d6c-b07a-fc0b0ce68d5f",
-    "items": null
+    "items": 436
    }
   ],
   "issues": 0,
@@ -1312,11 +1345,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/f33a27b0-c20f-4214-92d5-d85629733ed9",
-    "items": null
+    "items": 35
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 35,
+  "pages": 4090,
   "readable": 0,
   "coverIssue": null
  },
@@ -1341,11 +1374,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/5f03e16e-de9d-4559-b108-aa8ea04e5f5d",
-    "items": null
+    "items": 12
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 12,
+  "pages": 1248,
   "readable": 0,
   "coverIssue": null
  },
@@ -1370,11 +1403,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/6d3a32ca-e350-43b5-a286-af48e32bc185",
-    "items": null
+    "items": 23
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 23,
+  "pages": 2164,
   "readable": 0,
   "coverIssue": null
  },
@@ -1399,11 +1432,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/ceb8e2a8-93a4-45f7-aca9-fbb9d3e93438",
-    "items": null
+    "items": 7
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 7,
+  "pages": 498,
   "readable": 0,
   "coverIssue": null
  },
@@ -1428,11 +1461,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
-    "items": null
+    "items": 10
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 10,
+  "pages": 1398,
   "readable": 0,
   "coverIssue": null
  },
@@ -1457,11 +1490,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/d1e64116-583a-4d88-9ddd-7fcec7d24a39",
-    "items": null
+    "items": 26
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 26,
+  "pages": 2222,
   "readable": 0,
   "coverIssue": null
  },
@@ -1486,11 +1519,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/b69d7088-b269-4070-9b46-1cbcff40312f",
-    "items": null
+    "items": 10
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 10,
+  "pages": 1182,
   "readable": 0,
   "coverIssue": null
  },
@@ -1515,11 +1548,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/cbefef2b-c575-4ce5-afe8-586b567e4eb8",
-    "items": null
+    "items": 85
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 85,
+  "pages": 12052,
   "readable": 0,
   "coverIssue": null
  },
@@ -1544,11 +1577,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/2b773cc8-53a1-4c3b-aa8b-cacb1cb20fe1",
-    "items": null
+    "items": 1
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 1,
+  "pages": 116,
   "readable": 0,
   "coverIssue": null
  },
@@ -1596,11 +1629,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/1944a7fc-6821-4685-9497-61b51c7e24e5",
-    "items": null
+    "items": 42
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 42,
+  "pages": 1038,
   "readable": 0,
   "coverIssue": null
  },
@@ -1625,11 +1658,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/32aa15bf-a3be-40fe-b75a-85f313c84368",
-    "items": null
+    "items": 294
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 294,
+  "pages": 36497,
   "readable": 0,
   "coverIssue": null
  },
@@ -1654,11 +1687,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/218ce001-1f8c-4370-bd1b-09de24c45b3e",
-    "items": null
+    "items": 7
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 7,
+  "pages": 84,
   "readable": 0,
   "coverIssue": null
  },
@@ -1683,11 +1716,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/5e733680-d965-4a5e-9852-14ae20b62691",
-    "items": null
+    "items": 14
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 14,
+  "pages": 1596,
   "readable": 0,
   "coverIssue": null
  },
@@ -1758,11 +1791,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/b434cdd1-e02e-4bd4-833e-6cc0884403ef",
-    "items": null
+    "items": 113
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 113,
+  "pages": 15850,
   "readable": 0,
   "coverIssue": null
  },
@@ -1787,11 +1820,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/4409f093-cafb-4bc5-b9b0-cacc3a651e87",
-    "items": null
+    "items": 139
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 139,
+  "pages": 14922,
   "readable": 0,
   "coverIssue": null
  },
@@ -1839,11 +1872,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/d41128f9-fb0f-4bcb-955d-4d44e9608d1a",
-    "items": null
+    "items": 195
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 195,
+  "pages": 31613,
   "readable": 0,
   "coverIssue": null
  },
@@ -1868,11 +1901,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/abbd549a-2caf-4632-bccb-0cb8c2fe27b2",
-    "items": null
+    "items": 75
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 75,
+  "pages": 9142,
   "readable": 0,
   "coverIssue": null
  },
@@ -1949,11 +1982,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/3d83b151-a682-43dc-98af-979b94dc31f4",
-    "items": null
+    "items": 97
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 97,
+  "pages": 10669,
   "readable": 0,
   "coverIssue": null
  },
@@ -1978,11 +2011,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/9f1aa694-751b-4a95-acde-d61baf94d3d9",
-    "items": null
+    "items": 64
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 64,
+  "pages": 6664,
   "readable": 0,
   "coverIssue": null
  },
@@ -2007,11 +2040,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/c4cbf766-d17b-4dfd-8641-1d09dfca86cc",
-    "items": null
+    "items": 13
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 13,
+  "pages": 1302,
   "readable": 0,
   "coverIssue": null
  },
@@ -2036,11 +2069,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/b9602704-d805-41ed-a725-0f71dedbed27",
-    "items": null
+    "items": 1
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 1,
+  "pages": 100,
   "readable": 0,
   "coverIssue": null
  },
@@ -2065,11 +2098,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/ff6f4f72-f79c-427b-a012-2ea671f4211d",
-    "items": null
+    "items": 74
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 74,
+  "pages": 6124,
   "readable": 0,
   "coverIssue": null
  },
@@ -2094,11 +2127,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/d0a22067-e86d-45a3-a3e4-a10a4c8a5ffb",
-    "items": null
+    "items": 131
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 131,
+  "pages": 15277,
   "readable": 0,
   "coverIssue": null
  },
@@ -2123,11 +2156,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/0990d6f3-cdfc-48a3-8454-c9f1bb722f3f",
-    "items": null
+    "items": 17
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 17,
+  "pages": 1509,
   "readable": 0,
   "coverIssue": null
  },
@@ -2152,11 +2185,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/79dae345-e20c-4f3a-acf4-967b35eee32e",
-    "items": null
+    "items": 7
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 6,
+  "pages": 712,
   "readable": 0,
   "coverIssue": null
  },
@@ -2227,11 +2260,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/8448d8d8-778d-4917-a6cd-99ddd4dc301a",
-    "items": null
+    "items": 25
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 25,
+  "pages": 2429,
   "readable": 0,
   "coverIssue": null
  },
@@ -2279,11 +2312,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/821e3f96-3fb0-433d-9f86-35124f8718d1",
-    "items": null
+    "items": 2
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 2,
+  "pages": 121,
   "readable": 0,
   "coverIssue": null
  },
@@ -2338,11 +2371,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/4241edfe-f81f-44c1-9c24-97892a9121ae",
-    "items": null
+    "items": 48
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 48,
+  "pages": 4542,
   "readable": 0,
   "coverIssue": null
  },
@@ -2367,11 +2400,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/19df3e0e-432f-410c-89f1-7f19de57e13b",
-    "items": null
+    "items": 4
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 4,
+  "pages": 512,
   "readable": 0,
   "coverIssue": null
  },
@@ -2396,11 +2429,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/6259ccf5-4944-4e3c-96f6-65b5ffea25d2",
-    "items": null
+    "items": 2
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 2,
+  "pages": 120,
   "readable": 0,
   "coverIssue": null
  },
@@ -2448,11 +2481,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/982b8274-6f9b-4130-9651-5b5750b5b360",
-    "items": null
+    "items": 16
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 16,
+  "pages": 359,
   "readable": 0,
   "coverIssue": null
  },
@@ -2502,11 +2535,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/eea584fc-380a-44ca-a485-d4dcc87114db",
-    "items": null
+    "items": 187
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 187,
+  "pages": 18550,
   "readable": 0,
   "coverIssue": null
  },
@@ -2531,11 +2564,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/3595f2aa-be7c-4cb0-a51e-c24523780a93",
-    "items": null
+    "items": 30
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 30,
+  "pages": 3020,
   "readable": 0,
   "coverIssue": null
  },
@@ -2560,11 +2593,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/3fa65659-9fac-4ba4-ae28-09bc68160e52",
-    "items": null
+    "items": 21
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 21,
+  "pages": 1766,
   "readable": 0,
   "coverIssue": null
  },
@@ -2589,11 +2622,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/be63cc87-93b6-4121-b7d8-706c78b7160a",
-    "items": null
+    "items": 15
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 15,
+  "pages": 917,
   "readable": 0,
   "coverIssue": null
  },
@@ -2618,11 +2651,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/677805d5-f5ca-440c-bb28-475df519602f",
-    "items": null
+    "items": 93
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 93,
+  "pages": 10908,
   "readable": 0,
   "coverIssue": null
  },
@@ -2647,11 +2680,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/527c4a20-6a7e-469d-8fa0-4c2455e0e4ed",
-    "items": null
+    "items": 14
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 14,
+  "pages": 1126,
   "readable": 0,
   "coverIssue": null
  },
@@ -2676,11 +2709,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/bd578486-2087-4b74-b50a-4a994e16b8e3",
-    "items": null
+    "items": 5
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 5,
+  "pages": 325,
   "readable": 0,
   "coverIssue": null
  },
@@ -2705,11 +2738,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/8dbeecd0-31ca-4fbe-bcb7-3a59932900bd",
-    "items": null
+    "items": 93
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 93,
+  "pages": 4807,
   "readable": 0,
   "coverIssue": null
  },
@@ -2734,11 +2767,11 @@
    {
     "provider": "vghf",
     "url": "https://archive.gamehistory.org/folder/e49f6729-f880-4a42-af81-fa7972cb6701",
-    "items": null
+    "items": 19
    }
   ],
-  "issues": 0,
-  "pages": 0,
+  "issues": 19,
+  "pages": 2196,
   "readable": 0,
   "coverIssue": null
  },

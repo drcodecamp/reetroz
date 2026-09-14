@@ -1,1 +1,601 @@
-[]
+[
+ {
+  "id": "psx-199509-p-s-x-premiere-issue",
+  "publication": "psx",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "Fall 1995",
+   "start": "1995-09",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8fada8d9-9b03-4b6a-9026-3f485fe9572a",
+   "external_id": "8fada8d9-9b03-4b6a-9026-3f485fe9572a",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X., Premiere Issue (Fall 1995).pdf",
+   "bytes": 64565443,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/psx-199509-p-s-x-premiere-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199601-p-s-x",
+  "publication": "psx",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d84c740-ddc7-418e-8127-64337cb7580d",
+   "external_id": "9d84c740-ddc7-418e-8127-64337cb7580d",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (January 1996).pdf",
+   "bytes": 119723685,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199601-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199603-p-s-x",
+  "publication": "psx",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 278.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c5c9e9df-14b6-42e2-b719-276e268da384",
+   "external_id": "c5c9e9df-14b6-42e2-b719-276e268da384",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (March 1996).pdf",
+   "bytes": 37515003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199603-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199605-p-s-x",
+  "publication": "psx",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 199.6,
+   "height_mm": 274.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/13373978-ad73-4a09-a2c2-d4aa6be87906",
+   "external_id": "13373978-ad73-4a09-a2c2-d4aa6be87906",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (May 1996).pdf",
+   "bytes": 70972789,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199605-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199606-p-s-x",
+  "publication": "psx",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "June/July 1996",
+   "start": "1996-06",
+   "precision": "month",
+   "end": "1996-07"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 200.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6fc40351-87e8-42b7-a6df-92a058b5023e",
+   "external_id": "6fc40351-87e8-42b7-a6df-92a058b5023e",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (June-July 1996).pdf",
+   "bytes": 53287953,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199606-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199608-p-s-x",
+  "publication": "psx",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "August/September 1996",
+   "start": "1996-08",
+   "precision": "month",
+   "end": "1996-09"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.2,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5d50fa0a-2a95-49f6-9882-01a2bee3c2e8",
+   "external_id": "5d50fa0a-2a95-49f6-9882-01a2bee3c2e8",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (August-September 1996).pdf",
+   "bytes": 54237895,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199608-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199610-p-s-x",
+  "publication": "psx",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c548c7ca-576c-4900-ab53-c929ae50a651",
+   "external_id": "c548c7ca-576c-4900-ab53-c929ae50a651",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (October 1996).pdf",
+   "bytes": 180334069,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199610-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199611-p-s-x",
+  "publication": "psx",
+  "sequence": 8,
+  "number": "special",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 198.2,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b5fab5f1-45ca-4451-8cee-de3173924c32",
+   "external_id": "b5fab5f1-45ca-4451-8cee-de3173924c32",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (November 1996).pdf",
+   "bytes": 110115635,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199611-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199612-p-s-x",
+  "publication": "psx",
+  "sequence": 9,
+  "number": "special",
+  "date": {
+   "display": "December 1996 / January 1997",
+   "start": "1996-12",
+   "end": "1997-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8cf291c0-0a01-4f42-929c-0b5c01133084",
+   "external_id": "8cf291c0-0a01-4f42-929c-0b5c01133084",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (December 1996 - January 1997).pdf",
+   "bytes": 62035202,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199612-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199702-p-s-x",
+  "publication": "psx",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "February 1997",
+   "start": "1997-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2674bb23-6e18-49b4-9beb-01da41f6f208",
+   "external_id": "2674bb23-6e18-49b4-9beb-01da41f6f208",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (February 1997).pdf",
+   "bytes": 101775456,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199702-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199703-p-s-x",
+  "publication": "psx",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd6860a5-ab76-49f3-9557-c2f2a32aa76c",
+   "external_id": "fd6860a5-ab76-49f3-9557-c2f2a32aa76c",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (March 1997).pdf",
+   "bytes": 60745329,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199703-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199704-p-s-x",
+  "publication": "psx",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 199.9,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0a98c53f-a0fe-4bc9-9773-7da590424553",
+   "external_id": "0a98c53f-a0fe-4bc9-9773-7da590424553",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (April 1997).pdf",
+   "bytes": 56263642,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199704-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199705-p-s-x",
+  "publication": "psx",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/821c91e6-6143-4ae1-8e5d-e651d5233a5a",
+   "external_id": "821c91e6-6143-4ae1-8e5d-e651d5233a5a",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (May 1997).pdf",
+   "bytes": 84530039,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199705-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199706-p-s-x",
+  "publication": "psx",
+  "sequence": 14,
+  "number": "special",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e1be4ae8-4ab3-4c77-8991-191478f745a2",
+   "external_id": "e1be4ae8-4ab3-4c77-8991-191478f745a2",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (June 1997).pdf",
+   "bytes": 101384061,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199706-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199707-p-s-x",
+  "publication": "psx",
+  "sequence": 15,
+  "number": "special",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 200.1,
+   "height_mm": 264.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df9b9088-a90c-4bc7-bab4-41d4edc0bf1d",
+   "external_id": "df9b9088-a90c-4bc7-bab4-41d4edc0bf1d",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (July 1997).pdf",
+   "bytes": 55295015,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199707-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199708-p-s-x",
+  "publication": "psx",
+  "sequence": 16,
+  "number": "special",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 208.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf6fc413-5bce-4a6c-a54b-2d4fecbfe241",
+   "external_id": "bf6fc413-5bce-4a6c-a54b-2d4fecbfe241",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (August 1997).pdf",
+   "bytes": 50290054,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199708-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "psx-199709-p-s-x",
+  "publication": "psx",
+  "sequence": 17,
+  "number": "special",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 85,
+  "dimensions": {
+   "width_mm": 210.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/00352954-d289-4c5e-b32f-8e3c123c5d27",
+   "external_id": "00352954-d289-4c5e-b32f-8e3c123c5d27",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/psx/pdf/P.S.X. (September 1997).pdf",
+   "bytes": 33867496,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/psx-199709-p-s-x.jpg",
+   "pages_rendered": false
+  }
+ }
+]

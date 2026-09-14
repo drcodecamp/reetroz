@@ -1,0 +1,97 @@
+[
+ {
+  "id": "game-intelligence-magazine-199809-special-preview-edition",
+  "publication": "game-intelligence-magazine",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 214.4,
+   "height_mm": 281.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d469eeb-acbc-476d-b547-880e42e9dda8",
+   "external_id": "2d469eeb-acbc-476d-b547-880e42e9dda8",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-intelligence-magazine/pdf/Game Intelligence Magazine, Special Preview Edition (September 1998).pdf",
+   "bytes": 20723811,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ },
+ {
+  "id": "game-intelligence-magazine-1",
+  "publication": "game-intelligence-magazine",
+  "sequence": 2,
+  "number": "1",
+  "date": {
+   "display": "November 30, 1998",
+   "start": "1998-11-30",
+   "precision": "day"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 212.5,
+   "height_mm": 274.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d0e944f3-ecf8-42eb-a301-e073476ed4a6",
+   "external_id": "d0e944f3-ecf8-42eb-a301-e073476ed4a6",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-intelligence-magazine/pdf/Game Intelligence Magazine, Volume 1, Number 1, Premiere Issue (November 30, 1998).pdf",
+   "bytes": 22189515,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00",
+  "volume": 1,
+  "special": "Premiere issue"
+ },
+ {
+  "id": "game-intelligence-magazine-199902-game-intelligence-magazine",
+  "publication": "game-intelligence-magazine",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 210.2,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f61d4f21-efce-44ee-bdc7-860d5713b1df",
+   "external_id": "f61d4f21-efce-44ee-bdc7-860d5713b1df",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-intelligence-magazine/pdf/Game Intelligence Magazine (February 1999).pdf",
+   "bytes": 24031834,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ }
+]

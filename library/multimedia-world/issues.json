@@ -1,1 +1,353 @@
-[]
+[
+ {
+  "id": "multimedia-world-2",
+  "publication": "multimedia-world",
+  "sequence": 1,
+  "number": "2",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d99e763-6496-4758-ab1e-3337e3c872b0",
+   "external_id": "9d99e763-6496-4758-ab1e-3337e3c872b0",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 1, Number 2 (January 1994).pdf",
+   "bytes": 101807055,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-4",
+  "publication": "multimedia-world",
+  "sequence": 2,
+  "number": "4",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fb132bdd-e4d8-4c3e-86f8-71a8855cd30f",
+   "external_id": "fb132bdd-e4d8-4c3e-86f8-71a8855cd30f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 1, Number 4 (March 1994).pdf",
+   "bytes": 92433714,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-12",
+  "publication": "multimedia-world",
+  "sequence": 3,
+  "number": "12",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 207.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29c63948-836c-4783-a83d-859d4691742c",
+   "external_id": "29c63948-836c-4783-a83d-859d4691742c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 1, Number 12 (November 1994).pdf",
+   "bytes": 135342564,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-1",
+  "publication": "multimedia-world",
+  "sequence": 4,
+  "number": "1",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8f686aa6-a40a-4783-9607-40ee26a57634",
+   "external_id": "8f686aa6-a40a-4783-9607-40ee26a57634",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 2, Number 1 (December 1994).pdf",
+   "bytes": 182917605,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-2-2",
+  "publication": "multimedia-world",
+  "sequence": 5,
+  "number": "2",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 204.2,
+   "height_mm": 276.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/204a5e5e-e024-4c16-9cf1-338e04cb1a23",
+   "external_id": "204a5e5e-e024-4c16-9cf1-338e04cb1a23",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 2, Number 2 (January 1995).pdf",
+   "bytes": 112175097,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-4-2",
+  "publication": "multimedia-world",
+  "sequence": 6,
+  "number": "4",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 276.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8ca009ca-75c0-44fc-b131-fdd5aa81abff",
+   "external_id": "8ca009ca-75c0-44fc-b131-fdd5aa81abff",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 2, Number 4 (March 1995).pdf",
+   "bytes": 109112440,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-5",
+  "publication": "multimedia-world",
+  "sequence": 7,
+  "number": "5",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e1170e2f-360b-4b6b-a7bd-b8c8889ffa38",
+   "external_id": "e1170e2f-360b-4b6b-a7bd-b8c8889ffa38",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 2, Number 5 (April 1995).pdf",
+   "bytes": 116620970,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-6",
+  "publication": "multimedia-world",
+  "sequence": 8,
+  "number": "6",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/745f0d3b-1c8f-436b-b8ce-1a365b6a6e54",
+   "external_id": "745f0d3b-1c8f-436b-b8ce-1a365b6a6e54",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 2, Number 6 (May 1995).pdf",
+   "bytes": 104039308,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-7",
+  "publication": "multimedia-world",
+  "sequence": 9,
+  "number": "7",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 146,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fb275a40-5fb1-45e8-bb88-d49986a3e1c7",
+   "external_id": "fb275a40-5fb1-45e8-bb88-d49986a3e1c7",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 2, Number 7 (June 1995).pdf",
+   "bytes": 144500960,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "multimedia-world-9",
+  "publication": "multimedia-world",
+  "sequence": 10,
+  "number": "9",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c6e81bc1-a495-4827-a420-3b2ba5b3c3f1",
+   "external_id": "c6e81bc1-a495-4827-a420-3b2ba5b3c3f1",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/multimedia-world/pdf/Multimedia World, Volume 2, Number 9 (August 1995).pdf",
+   "bytes": 94413975,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/multimedia-world-9.jpg",
+   "pages_rendered": false
+  }
+ }
+]

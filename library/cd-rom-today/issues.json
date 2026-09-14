@@ -1,1 +1,989 @@
-[]
+[
+ {
+  "id": "cd-rom-today-199306-premiere-issue",
+  "publication": "cd-rom-today",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "July/Summer 1993",
+   "start": "1993-06",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a242c056-8b87-4222-b160-7671208ad539",
+   "external_id": "a242c056-8b87-4222-b160-7671208ad539",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Premiere Issue (July-Summer 1993).pdf",
+   "bytes": 129733527,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-199306-premiere-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-2",
+  "publication": "cd-rom-today",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "Fall 1993",
+   "start": "1993-09",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 211.6,
+   "height_mm": 275.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7600d02-7d76-4db0-a2eb-34d9b14e3aae",
+   "external_id": "c7600d02-7d76-4db0-a2eb-34d9b14e3aae",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 1, Number 2 (Fall 1993).pdf",
+   "bytes": 128519166,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-1",
+  "publication": "cd-rom-today",
+  "sequence": 3,
+  "number": "1",
+  "date": {
+   "display": "Spring 1994",
+   "start": "1994-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b49ca7a0-c250-4ec4-9253-cad5a5b53b84",
+   "external_id": "b49ca7a0-c250-4ec4-9253-cad5a5b53b84",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 2, Number 1 (Spring 1994).pdf",
+   "bytes": 112537778,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-2-2",
+  "publication": "cd-rom-today",
+  "sequence": 4,
+  "number": "2",
+  "date": {
+   "display": "April/May 1994",
+   "start": "1994-04",
+   "precision": "month",
+   "end": "1994-05"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 213.0,
+   "height_mm": 276.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/187f3631-6f85-4545-ba1d-3323e4a7b933",
+   "external_id": "187f3631-6f85-4545-ba1d-3323e4a7b933",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 2, Number 2 (April-May 1994).pdf",
+   "bytes": 123498867,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-3",
+  "publication": "cd-rom-today",
+  "sequence": 5,
+  "number": "3",
+  "date": {
+   "display": "June/July 1994",
+   "start": "1994-06",
+   "precision": "month",
+   "end": "1994-07"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 277.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/034df49e-d5f0-46cb-a0e8-adfaac450f1d",
+   "external_id": "034df49e-d5f0-46cb-a0e8-adfaac450f1d",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 2, Number 3 (June-July 1994).pdf",
+   "bytes": 125152891,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-4",
+  "publication": "cd-rom-today",
+  "sequence": 6,
+  "number": "4",
+  "date": {
+   "display": "August/September 1994",
+   "start": "1994-08",
+   "precision": "month",
+   "end": "1994-09"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 212.5,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c40a333c-9947-481d-85cc-cefc0d090f44",
+   "external_id": "c40a333c-9947-481d-85cc-cefc0d090f44",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 2, Number 4 (August-September 1994).pdf",
+   "bytes": 125505579,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-5",
+  "publication": "cd-rom-today",
+  "sequence": 7,
+  "number": "5",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 276.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/81f21f2c-7dd6-4e17-919b-b98438154046",
+   "external_id": "81f21f2c-7dd6-4e17-919b-b98438154046",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 2, Number 5 (October 1994).pdf",
+   "bytes": 137256705,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-6",
+  "publication": "cd-rom-today",
+  "sequence": 8,
+  "number": "6",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 151,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c05efedb-8ca2-4b94-b872-aca5d915ae7a",
+   "external_id": "c05efedb-8ca2-4b94-b872-aca5d915ae7a",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 2, Number 6 (November 1994).pdf",
+   "bytes": 161991916,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-7",
+  "publication": "cd-rom-today",
+  "sequence": 9,
+  "number": "7",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 166,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1ba4140f-1969-4aa3-aafc-d22f3b859bf6",
+   "external_id": "1ba4140f-1969-4aa3-aafc-d22f3b859bf6",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 2, Number 7 (December 1994).pdf",
+   "bytes": 172671428,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-1-2",
+  "publication": "cd-rom-today",
+  "sequence": 10,
+  "number": "1",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 207.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a5f34402-7be8-4328-8fb6-cc43cdd9ecac",
+   "external_id": "a5f34402-7be8-4328-8fb6-cc43cdd9ecac",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 1 (January 1995).pdf",
+   "bytes": 148290761,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-2-3",
+  "publication": "cd-rom-today",
+  "sequence": 11,
+  "number": "2",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bfd1c9f8-d7e6-4c51-84f4-9dcee98983b2",
+   "external_id": "bfd1c9f8-d7e6-4c51-84f4-9dcee98983b2",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 2 (February 1995).pdf",
+   "bytes": 158034713,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-3-2",
+  "publication": "cd-rom-today",
+  "sequence": 12,
+  "number": "3",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ce61aa5a-a7db-4215-a3a7-97146eb667a2",
+   "external_id": "ce61aa5a-a7db-4215-a3a7-97146eb667a2",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 3 (March 1995).pdf",
+   "bytes": 147940335,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-4-2",
+  "publication": "cd-rom-today",
+  "sequence": 13,
+  "number": "4",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1af63480-4b02-4109-964a-d6dae896b4ab",
+   "external_id": "1af63480-4b02-4109-964a-d6dae896b4ab",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 4 (April 1995).pdf",
+   "bytes": 142103957,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-5-2",
+  "publication": "cd-rom-today",
+  "sequence": 14,
+  "number": "5",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8fe82e1a-5b0b-43b6-a334-6835dcd46982",
+   "external_id": "8fe82e1a-5b0b-43b6-a334-6835dcd46982",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 5 (May 1995).pdf",
+   "bytes": 155377646,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-6-2",
+  "publication": "cd-rom-today",
+  "sequence": 15,
+  "number": "6",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/672e01f5-d78c-4ff6-acd5-d00721359b7c",
+   "external_id": "672e01f5-d78c-4ff6-acd5-d00721359b7c",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 6 (June 1995).pdf",
+   "bytes": 141675368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-7-2",
+  "publication": "cd-rom-today",
+  "sequence": 16,
+  "number": "7",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf5f4088-ade2-4fae-81aa-f8ea6c296fcb",
+   "external_id": "bf5f4088-ade2-4fae-81aa-f8ea6c296fcb",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 7 (July 1995).pdf",
+   "bytes": 132281773,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-8",
+  "publication": "cd-rom-today",
+  "sequence": 17,
+  "number": "8",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a5d99862-8532-44ec-a4e0-13776a5bf459",
+   "external_id": "a5d99862-8532-44ec-a4e0-13776a5bf459",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 8 (August 1995).pdf",
+   "bytes": 113156322,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-9",
+  "publication": "cd-rom-today",
+  "sequence": 18,
+  "number": "9",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 152,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/333f811b-6878-4755-94e4-149ddb15db28",
+   "external_id": "333f811b-6878-4755-94e4-149ddb15db28",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 9 (September 1995).pdf",
+   "bytes": 144591951,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-10",
+  "publication": "cd-rom-today",
+  "sequence": 19,
+  "number": "10",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 154,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d8726feb-d81b-4193-8c7c-dd7e323b1db3",
+   "external_id": "d8726feb-d81b-4193-8c7c-dd7e323b1db3",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 10 (October 1995).pdf",
+   "bytes": 146905688,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-11",
+  "publication": "cd-rom-today",
+  "sequence": 20,
+  "number": "11",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 201,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/331697df-eff6-44c7-b671-9b31dd6b5689",
+   "external_id": "331697df-eff6-44c7-b671-9b31dd6b5689",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 11 (November 1995).pdf",
+   "bytes": 195715992,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-12",
+  "publication": "cd-rom-today",
+  "sequence": 21,
+  "number": "12",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 212,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/741e76fe-cc09-4bc4-b5a2-9494188f9acc",
+   "external_id": "741e76fe-cc09-4bc4-b5a2-9494188f9acc",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 3, Number 12 (December 1995).pdf",
+   "bytes": 215769178,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-1-3",
+  "publication": "cd-rom-today",
+  "sequence": 22,
+  "number": "1",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ffa90e5f-2bd9-4b0e-b97d-8edf0cb3e682",
+   "external_id": "ffa90e5f-2bd9-4b0e-b97d-8edf0cb3e682",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 4, Number 1 (January 1996).pdf",
+   "bytes": 158945033,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-2-4",
+  "publication": "cd-rom-today",
+  "sequence": 23,
+  "number": "2",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/126fd87c-df91-4c0e-b79a-ba8f155fe7c9",
+   "external_id": "126fd87c-df91-4c0e-b79a-ba8f155fe7c9",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 4, Number 2 (February 1996).pdf",
+   "bytes": 138408869,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-2-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-3-3",
+  "publication": "cd-rom-today",
+  "sequence": 24,
+  "number": "3",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 203.4,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/34d6b755-bd85-42e9-b045-f91e33276e8e",
+   "external_id": "34d6b755-bd85-42e9-b045-f91e33276e8e",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 4, Number 3 (March 1996).pdf",
+   "bytes": 117321719,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-4-3",
+  "publication": "cd-rom-today",
+  "sequence": 25,
+  "number": "4",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e3707516-e02f-4d76-bf7d-f294b4085ffe",
+   "external_id": "e3707516-e02f-4d76-bf7d-f294b4085ffe",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 4, Number 4 (April 1996).pdf",
+   "bytes": 109316059,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "volume": 4,
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-5-3",
+  "publication": "cd-rom-today",
+  "sequence": 26,
+  "number": "5",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d88508ec-7d3a-4e03-9045-ad28b0dc3c4d",
+   "external_id": "d88508ec-7d3a-4e03-9045-ad28b0dc3c4d",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 4, Number 5 (May 1996).pdf",
+   "bytes": 109519281,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-5-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-6-3",
+  "publication": "cd-rom-today",
+  "sequence": 27,
+  "number": "6",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cbbcdbe2-7de9-4a91-a736-6ee24503f6c6",
+   "external_id": "cbbcdbe2-7de9-4a91-a736-6ee24503f6c6",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 4, Number 6 (June 1996).pdf",
+   "bytes": 116101239,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-6-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "cd-rom-today-7-3",
+  "publication": "cd-rom-today",
+  "sequence": 28,
+  "number": "7",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 204.5,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/126f3e5b-9d5e-4fc9-a0aa-be351bc63764",
+   "external_id": "126f3e5b-9d5e-4fc9-a0aa-be351bc63764",
+   "retrieved_at": "2026-09-14T09:33:10+00:00"
+  },
+  "files": {
+   "pdf": "library/cd-rom-today/pdf/CD-ROM Today, Volume 4, Number 7 (July 1996).pdf",
+   "bytes": 98216250,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:10+00:00",
+  "assets": {
+   "cover": "site/public/covers/cd-rom-today-7-3.jpg",
+   "pages_rendered": false
+  }
+ }
+]

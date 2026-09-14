@@ -36,10 +36,12 @@
     }
   ],
   "stats": {
-    "issues": 0,
-    "pages": 0,
+    "issues": 15,
+    "pages": 917,
     "readable": 0,
-    "with_text": 0
+    "with_text": 15,
+    "first_year": 1995,
+    "last_year": 1996
   },
-  "updated_at": "2026-09-13T21:27:15+00:00"
+  "updated_at": "2026-09-14T18:59:56+00:00"
 }

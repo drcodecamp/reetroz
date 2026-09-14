@@ -1,0 +1,436 @@
+[
+ {
+  "id": "gameweek-iemagazine-15",
+  "publication": "gameweek-iemagazine",
+  "sequence": 1,
+  "number": "15",
+  "date": {
+   "display": "September 15, 1998",
+   "start": "1998-09-15",
+   "precision": "day"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 267.9,
+   "height_mm": 335.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/954761f1-e57f-404a-8a8d-39cc48ef6e4b",
+   "external_id": "954761f1-e57f-404a-8a8d-39cc48ef6e4b",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 4, Issue 15 (September 15, 1998).pdf",
+   "bytes": 88481867,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-14",
+  "publication": "gameweek-iemagazine",
+  "sequence": 2,
+  "number": "14",
+  "date": {
+   "display": "April 21, 1999",
+   "start": "1999-04-21",
+   "precision": "day"
+  },
+  "pages": 31,
+  "dimensions": {
+   "width_mm": 268.4,
+   "height_mm": 333.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/da437e0c-ebad-4e7a-8b8f-a53e8b70cc81",
+   "external_id": "da437e0c-ebad-4e7a-8b8f-a53e8b70cc81",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 5, Issue 14 (April 21, 1999).pdf",
+   "bytes": 32151763,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-17",
+  "publication": "gameweek-iemagazine",
+  "sequence": 3,
+  "number": "17",
+  "date": {
+   "display": "May 12, 1999",
+   "start": "1999-05-12",
+   "precision": "day"
+  },
+  "pages": 82,
+  "dimensions": {
+   "width_mm": 266.8,
+   "height_mm": 332.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/33abe840-4e8a-48de-9be1-b497927b8d33",
+   "external_id": "33abe840-4e8a-48de-9be1-b497927b8d33",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 5, Issue 17 (May 12, 1999).pdf",
+   "bytes": 91268844,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-41",
+  "publication": "gameweek-iemagazine",
+  "sequence": 4,
+  "number": "41",
+  "date": {
+   "display": "December 8, 1999",
+   "start": "1999-12-08",
+   "precision": "day"
+  },
+  "pages": 40,
+  "dimensions": {
+   "width_mm": 270.7,
+   "height_mm": 336.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b198be50-d3b7-4492-805d-58882a0275d5",
+   "external_id": "b198be50-d3b7-4492-805d-58882a0275d5",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 5, Issue 41 (December 8, 1999).pdf",
+   "bytes": 40310284,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-2",
+  "publication": "gameweek-iemagazine",
+  "sequence": 5,
+  "number": "2",
+  "date": {
+   "display": "January 17, 2000",
+   "start": "2000-01-17",
+   "precision": "day"
+  },
+  "pages": 40,
+  "dimensions": {
+   "width_mm": 268.6,
+   "height_mm": 336.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3192b383-c1ac-4888-b586-2c8b4309f223",
+   "external_id": "3192b383-c1ac-4888-b586-2c8b4309f223",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 2 (January 17, 2000).pdf",
+   "bytes": 41834906,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-3",
+  "publication": "gameweek-iemagazine",
+  "sequence": 6,
+  "number": "3",
+  "date": {
+   "display": "January 31, 2000",
+   "start": "2000-01-31",
+   "precision": "day"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 270.3,
+   "height_mm": 336.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8cb084b8-19e3-4dff-b0ec-1dace3061c68",
+   "external_id": "8cb084b8-19e3-4dff-b0ec-1dace3061c68",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 3 (January 31, 2000).pdf",
+   "bytes": 45643559,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-5",
+  "publication": "gameweek-iemagazine",
+  "sequence": 7,
+  "number": "5",
+  "date": {
+   "display": "February 14, 2000",
+   "start": "2000-02-14",
+   "precision": "day"
+  },
+  "pages": 40,
+  "dimensions": {
+   "width_mm": 269.2,
+   "height_mm": 333.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9e051b6-d7d3-419e-815e-4aec5c46e782",
+   "external_id": "a9e051b6-d7d3-419e-815e-4aec5c46e782",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 5 (February 14, 2000).pdf",
+   "bytes": 41127566,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-14-2",
+  "publication": "gameweek-iemagazine",
+  "sequence": 8,
+  "number": "14",
+  "date": {
+   "display": "May 8, 2000",
+   "start": "2000-05-08",
+   "precision": "day"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 268.2,
+   "height_mm": 333.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd769533-5345-435d-aad0-eb8ba40ddabd",
+   "external_id": "fd769533-5345-435d-aad0-eb8ba40ddabd",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 14 (May 8, 2000).pdf",
+   "bytes": 56867447,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-16",
+  "publication": "gameweek-iemagazine",
+  "sequence": 9,
+  "number": "16",
+  "date": {
+   "display": "May 29, 2000",
+   "start": "2000-05-29",
+   "precision": "day"
+  },
+  "pages": 56,
+  "dimensions": {
+   "width_mm": 268.8,
+   "height_mm": 337.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07470dc0-3f7f-4e6e-bfe5-ba12cca5987b",
+   "external_id": "07470dc0-3f7f-4e6e-bfe5-ba12cca5987b",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 16 (May 29, 2000).pdf",
+   "bytes": 58929749,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-18",
+  "publication": "gameweek-iemagazine",
+  "sequence": 10,
+  "number": "18",
+  "date": {
+   "display": "June 19, 2000",
+   "start": "2000-06-19",
+   "precision": "day"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 269.4,
+   "height_mm": 336.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1270f2f5-7d89-46b4-b633-6e3a5974145a",
+   "external_id": "1270f2f5-7d89-46b4-b633-6e3a5974145a",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 18 (June 19, 2000).pdf",
+   "bytes": 33652239,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-20",
+  "publication": "gameweek-iemagazine",
+  "sequence": 11,
+  "number": "20",
+  "date": {
+   "display": "July 3, 2000",
+   "start": "2000-07-03",
+   "precision": "day"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 269.3,
+   "height_mm": 335.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0d2687e4-f60a-43bd-ac07-5618e8906e16",
+   "external_id": "0d2687e4-f60a-43bd-ac07-5618e8906e16",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 20 (July 3, 2000).pdf",
+   "bytes": 48069695,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-27",
+  "publication": "gameweek-iemagazine",
+  "sequence": 12,
+  "number": "27",
+  "date": {
+   "display": "October 16, 2000",
+   "start": "2000-10-16",
+   "precision": "day"
+  },
+  "pages": 78,
+  "dimensions": {
+   "width_mm": 260.9,
+   "height_mm": 335.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/906f787c-6f94-4f8d-8cf0-5102d75a41f1",
+   "external_id": "906f787c-6f94-4f8d-8cf0-5102d75a41f1",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 27 (October 16, 2000).pdf",
+   "bytes": 108350013,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-28",
+  "publication": "gameweek-iemagazine",
+  "sequence": 13,
+  "number": "28",
+  "date": {
+   "display": "November 6, 2000",
+   "start": "2000-11-06",
+   "precision": "day"
+  },
+  "pages": 54,
+  "dimensions": {
+   "width_mm": 268.1,
+   "height_mm": 336.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/98864cfc-a30d-4dba-aec5-bcb74505067f",
+   "external_id": "98864cfc-a30d-4dba-aec5-bcb74505067f",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 28 (November 6, 2000).pdf",
+   "bytes": 57759326,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ },
+ {
+  "id": "gameweek-iemagazine-30",
+  "publication": "gameweek-iemagazine",
+  "sequence": 14,
+  "number": "30",
+  "date": {
+   "display": "December 11, 2000",
+   "start": "2000-12-11",
+   "precision": "day"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 267.1,
+   "height_mm": 336.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/20498024-7534-433b-a776-ff8675dff386",
+   "external_id": "20498024-7534-433b-a776-ff8675dff386",
+   "retrieved_at": "2026-09-14T09:33:55+00:00"
+  },
+  "files": {
+   "pdf": "library/gameweek-iemagazine/pdf/GameWEEK Magazine, Volume 6, Issue 30 (December 11, 2000).pdf",
+   "bytes": 73596926,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:55+00:00"
+ }
+]

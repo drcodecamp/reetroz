@@ -1,0 +1,221 @@
+[
+ {
+  "id": "future-play-1",
+  "publication": "future-play",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "September 1989",
+   "start": "1989-09",
+   "precision": "month"
+  },
+  "pages": 28,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/729f7464-a98b-4aa3-8f65-510b4d96dff7",
+   "external_id": "729f7464-a98b-4aa3-8f65-510b4d96dff7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/future-play/pdf/Future Play, Issue 1 (September 1989).pdf",
+   "bytes": 48983548,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "future-play-2",
+  "publication": "future-play",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "Christmas 1989",
+   "start": "1989-12",
+   "precision": "season"
+  },
+  "pages": 28,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f29545a8-0e8b-40d7-b919-705d507bc970",
+   "external_id": "f29545a8-0e8b-40d7-b919-705d507bc970",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/future-play/pdf/Future Play, Issue 2 (Christmas 1989).pdf",
+   "bytes": 51573429,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "future-play-199002-future-play",
+  "publication": "future-play",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "February/March 1990",
+   "start": "1990-02",
+   "precision": "month",
+   "end": "1990-03"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 208.0,
+   "height_mm": 276.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/64ac45ef-9619-4863-8080-8648d449135a",
+   "external_id": "64ac45ef-9619-4863-8080-8648d449135a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/future-play/pdf/Future Play (February-March 1990).pdf",
+   "bytes": 52451360,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "future-play-199004-future-play",
+  "publication": "future-play",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "April/May 1990",
+   "start": "1990-04",
+   "precision": "month",
+   "end": "1990-05"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 211.2,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/375c86ca-6075-4f24-ba9f-e3f1de8ba384",
+   "external_id": "375c86ca-6075-4f24-ba9f-e3f1de8ba384",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/future-play/pdf/Future Play (April-May 1990).pdf",
+   "bytes": 33944884,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "future-play-199008-future-play",
+  "publication": "future-play",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "August 1990",
+   "start": "1990-08",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 211.2,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2f1aee0e-4dc8-4870-b85a-98490938fdda",
+   "external_id": "2f1aee0e-4dc8-4870-b85a-98490938fdda",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/future-play/pdf/Future Play (August 1990).pdf",
+   "bytes": 51668759,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "future-play-199009-future-play",
+  "publication": "future-play",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "September 1990",
+   "start": "1990-09",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 211.2,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e8611823-10b8-4834-a2cd-dc4ef0f9b86c",
+   "external_id": "e8611823-10b8-4834-a2cd-dc4ef0f9b86c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/future-play/pdf/Future Play (September 1990).pdf",
+   "bytes": 50499248,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "future-play-199010-future-play",
+  "publication": "future-play",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "October 1990",
+   "start": "1990-10",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 211.2,
+   "height_mm": 276.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/db974062-c71f-44cd-ae2b-cb51636c5604",
+   "external_id": "db974062-c71f-44cd-ae2b-cb51636c5604",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/future-play/pdf/Future Play (October 1990).pdf",
+   "bytes": 48633882,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ }
+]

@@ -1,0 +1,220 @@
+[
+ {
+  "id": "game-on-usa-1",
+  "publication": "game-on-usa",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.4,
+   "height_mm": 280.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/644879d1-c64a-466a-9a78-1aef06423924",
+   "external_id": "644879d1-c64a-466a-9a78-1aef06423924",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-on-usa/pdf/Game On! USA, Volume 1, Issue 1 (May 1996).pdf",
+   "bytes": 70643709,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00",
+  "volume": 1
+ },
+ {
+  "id": "game-on-usa-2",
+  "publication": "game-on-usa",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 280.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7f14a557-36f9-4698-be33-5287248e5ea2",
+   "external_id": "7f14a557-36f9-4698-be33-5287248e5ea2",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-on-usa/pdf/Game On! USA, Volume 1, Issue 2 (June 1996).pdf",
+   "bytes": 70731310,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ },
+ {
+  "id": "game-on-usa-3",
+  "publication": "game-on-usa",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.5,
+   "height_mm": 281.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3efd7010-2b0c-443c-a6f8-392b1ae9a261",
+   "external_id": "3efd7010-2b0c-443c-a6f8-392b1ae9a261",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-on-usa/pdf/Game On! USA, Volume 1, Issue 3 (July 1996).pdf",
+   "bytes": 75520262,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ },
+ {
+  "id": "game-on-usa-4",
+  "publication": "game-on-usa",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.5,
+   "height_mm": 279.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f72e0651-32fb-49fd-90a7-6da2bd2a1117",
+   "external_id": "f72e0651-32fb-49fd-90a7-6da2bd2a1117",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-on-usa/pdf/Game On! USA, Volume 1, Issue 4 (August 1996).pdf",
+   "bytes": 77025952,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ },
+ {
+  "id": "game-on-usa-5",
+  "publication": "game-on-usa",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 213.9,
+   "height_mm": 280.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/919a29b0-6184-425f-a767-55b87e595e22",
+   "external_id": "919a29b0-6184-425f-a767-55b87e595e22",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-on-usa/pdf/Game On! USA, Volume 1, Issue 5 (September 1996).pdf",
+   "bytes": 74901277,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ },
+ {
+  "id": "game-on-usa-6",
+  "publication": "game-on-usa",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.1,
+   "height_mm": 281.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d04d9232-5154-4b1a-9f00-3c38c0ce933f",
+   "external_id": "d04d9232-5154-4b1a-9f00-3c38c0ce933f",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-on-usa/pdf/Game On! USA, Volume 1, Issue 6 (October 1996).pdf",
+   "bytes": 76463382,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ },
+ {
+  "id": "game-on-usa-7",
+  "publication": "game-on-usa",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.5,
+   "height_mm": 279.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5dd53d33-640d-4acd-9dcd-68cf3d92f637",
+   "external_id": "5dd53d33-640d-4acd-9dcd-68cf3d92f637",
+   "retrieved_at": "2026-09-14T09:33:44+00:00"
+  },
+  "files": {
+   "pdf": "library/game-on-usa/pdf/Game On! USA, Volume 1, Issue 7 (November 1996).pdf",
+   "bytes": 76472716,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:44+00:00"
+ }
+]

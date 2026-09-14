@@ -1,0 +1,7045 @@
+[
+ {
+  "id": "game-developer-1-2",
+  "publication": "game-developer",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0e78301b-8bef-40e8-8b69-6f270abc8796",
+   "external_id": "0e78301b-8bef-40e8-8b69-6f270abc8796",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 1, Number 1 (April 1994).pdf",
+   "bytes": 40343408,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 1
+ },
+ {
+  "id": "game-developer-2-2",
+  "publication": "game-developer",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/60eb40ac-9d4a-4e69-a688-594a9d1522f5",
+   "external_id": "60eb40ac-9d4a-4e69-a688-594a9d1522f5",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 1, Number 2 (June 1994).pdf",
+   "bytes": 47158876,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-2",
+  "publication": "game-developer",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3679baa7-e3f8-410b-814d-831cb0adf26d",
+   "external_id": "3679baa7-e3f8-410b-814d-831cb0adf26d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 1, Number 3 (September 1994).pdf",
+   "bytes": 46340849,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4",
+  "publication": "game-developer",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a10c0b48-d033-4633-8b7a-52f8c29677e8",
+   "external_id": "a10c0b48-d033-4633-8b7a-52f8c29677e8",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 1, Number 4 (December 1994).pdf",
+   "bytes": 48665639,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-3",
+  "publication": "game-developer",
+  "sequence": 5,
+  "number": "1",
+  "date": {
+   "display": "February/March 1995",
+   "start": "1995-02",
+   "precision": "month",
+   "end": "1995-03"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/39b9b86f-d3d1-496f-bd91-5368997b0e42",
+   "external_id": "39b9b86f-d3d1-496f-bd91-5368997b0e42",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 2, Number 1 (February-March 1995).pdf",
+   "bytes": 49168694,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-3",
+  "publication": "game-developer",
+  "sequence": 6,
+  "number": "2",
+  "date": {
+   "display": "April/May 1995",
+   "start": "1995-04",
+   "precision": "month",
+   "end": "1995-05"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/377ad675-3101-4848-86c0-0fda52d09853",
+   "external_id": "377ad675-3101-4848-86c0-0fda52d09853",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 2, Number 2 (April-May 1995).pdf",
+   "bytes": 48065150,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 2
+ },
+ {
+  "id": "game-developer-3-3",
+  "publication": "game-developer",
+  "sequence": 7,
+  "number": "3",
+  "date": {
+   "display": "June/July 1995",
+   "start": "1995-06",
+   "precision": "month",
+   "end": "1995-07"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7f0983d8-e6c5-438b-85c3-a77e12d7b8bc",
+   "external_id": "7f0983d8-e6c5-438b-85c3-a77e12d7b8bc",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 2, Number 3 (June-July 1995).pdf",
+   "bytes": 46367585,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-2",
+  "publication": "game-developer",
+  "sequence": 8,
+  "number": "4",
+  "date": {
+   "display": "August/September 1995",
+   "start": "1995-08",
+   "precision": "month",
+   "end": "1995-09"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4932396b-6547-4070-867e-237f389192a1",
+   "external_id": "4932396b-6547-4070-867e-237f389192a1",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 2, Number 4 (August-September 1995).pdf",
+   "bytes": 47408510,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5",
+  "publication": "game-developer",
+  "sequence": 9,
+  "number": "5",
+  "date": {
+   "display": "October/November 1995",
+   "start": "1995-10",
+   "precision": "month",
+   "end": "1995-11"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d76cd338-66e5-4815-aeb6-c559959139b3",
+   "external_id": "d76cd338-66e5-4815-aeb6-c559959139b3",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 2, Number 5 (October-November 1995).pdf",
+   "bytes": 50918532,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-19",
+  "publication": "game-developer",
+  "sequence": 10,
+  "number": "6",
+  "date": {
+   "display": "December 1995/January 1996",
+   "start": "1995-12",
+   "end": "1996-01",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ec45e29-80c9-4af3-b2a2-8ef1ec081d0d",
+   "external_id": "3ec45e29-80c9-4af3-b2a2-8ef1ec081d0d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 2, Number 6 (December 1995-January 1996).pdf",
+   "bytes": 48712334,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-4",
+  "publication": "game-developer",
+  "sequence": 11,
+  "number": "1",
+  "date": {
+   "display": "February/March 1996",
+   "start": "1996-02",
+   "precision": "month",
+   "end": "1996-03"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/153f12df-8441-48d2-acb5-c40fa792ce11",
+   "external_id": "153f12df-8441-48d2-acb5-c40fa792ce11",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 3, Number 1 (February-March 1996).pdf",
+   "bytes": 59572367,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-4",
+  "publication": "game-developer",
+  "sequence": 12,
+  "number": "2",
+  "date": {
+   "display": "April/May 1996",
+   "start": "1996-04",
+   "precision": "month",
+   "end": "1996-05"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 205.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1284a9f3-5c06-413b-b733-71c702b2ce7b",
+   "external_id": "1284a9f3-5c06-413b-b733-71c702b2ce7b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 3, Number 2 (April-May 1996).pdf",
+   "bytes": 52564719,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-4",
+  "publication": "game-developer",
+  "sequence": 13,
+  "number": "3",
+  "date": {
+   "display": "June/July 1996",
+   "start": "1996-06",
+   "precision": "month",
+   "end": "1996-07"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/310a8544-35fe-44ba-aeb1-ba979bf0e8e9",
+   "external_id": "310a8544-35fe-44ba-aeb1-ba979bf0e8e9",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 3, Number 3 (June-July 1996).pdf",
+   "bytes": 48124441,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 3
+ },
+ {
+  "id": "game-developer-4-3",
+  "publication": "game-developer",
+  "sequence": 14,
+  "number": "4",
+  "date": {
+   "display": "August/September 1996",
+   "start": "1996-08",
+   "precision": "month",
+   "end": "1996-09"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/329cc2e0-1153-4faf-ba59-8dd1b94192f0",
+   "external_id": "329cc2e0-1153-4faf-ba59-8dd1b94192f0",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 3, Number 4 (August-September 1996).pdf",
+   "bytes": 46823809,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-2",
+  "publication": "game-developer",
+  "sequence": 15,
+  "number": "5",
+  "date": {
+   "display": "October/November 1996",
+   "start": "1996-10",
+   "precision": "month",
+   "end": "1996-11"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b158cda2-1217-4262-bba4-c3782735d1ac",
+   "external_id": "b158cda2-1217-4262-bba4-c3782735d1ac",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 3, Number 5 (October-November 1996).pdf",
+   "bytes": 48673333,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-5",
+  "publication": "game-developer",
+  "sequence": 16,
+  "number": "1",
+  "date": {
+   "display": "February/March 1997",
+   "start": "1997-02",
+   "precision": "month",
+   "end": "1997-03"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/77e5bb12-0524-4caf-ae7e-35bd724b65a0",
+   "external_id": "77e5bb12-0524-4caf-ae7e-35bd724b65a0",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 1 (February-March 1997).pdf",
+   "bytes": 44880958,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-5",
+  "publication": "game-developer",
+  "sequence": 17,
+  "number": "2",
+  "date": {
+   "display": "April/May 1997",
+   "start": "1997-04",
+   "precision": "month",
+   "end": "1997-05"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 202.1,
+   "height_mm": 273.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6fbe8535-ecb3-4f80-aae3-e3960ac08fc2",
+   "external_id": "6fbe8535-ecb3-4f80-aae3-e3960ac08fc2",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 2 (April-May 1997).pdf",
+   "bytes": 53103641,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-5",
+  "publication": "game-developer",
+  "sequence": 18,
+  "number": "3",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f0370b0e-5c16-4c26-ab51-0d4b848d7c24",
+   "external_id": "f0370b0e-5c16-4c26-ab51-0d4b848d7c24",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 3 (June 1997).pdf",
+   "bytes": 51182765,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-4",
+  "publication": "game-developer",
+  "sequence": 19,
+  "number": "4",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/23718300-213b-4766-aa22-9c32dc57a3c9",
+   "external_id": "23718300-213b-4766-aa22-9c32dc57a3c9",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 4 (July 1997).pdf",
+   "bytes": 52371031,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 4
+ },
+ {
+  "id": "game-developer-5-3",
+  "publication": "game-developer",
+  "sequence": 20,
+  "number": "5",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/79e0012e-638d-4a89-883d-8742e7cb0f43",
+   "external_id": "79e0012e-638d-4a89-883d-8742e7cb0f43",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 5 (August 1997).pdf",
+   "bytes": 54615468,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6",
+  "publication": "game-developer",
+  "sequence": 21,
+  "number": "6",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d13846f-d71b-42e3-94fd-19612f93f6be",
+   "external_id": "9d13846f-d71b-42e3-94fd-19612f93f6be",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 6 (September 1997).pdf",
+   "bytes": 45349537,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7",
+  "publication": "game-developer",
+  "sequence": 22,
+  "number": "7",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 204.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7e258cb-fbbd-4117-b19b-c009f799a889",
+   "external_id": "a7e258cb-fbbd-4117-b19b-c009f799a889",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 7 (October 1997).pdf",
+   "bytes": 51342493,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8",
+  "publication": "game-developer",
+  "sequence": 23,
+  "number": "8",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa1fb593-29fd-4101-8ff5-78e9a7d6f2ad",
+   "external_id": "fa1fb593-29fd-4101-8ff5-78e9a7d6f2ad",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 8 (November 1997).pdf",
+   "bytes": 53747098,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-2",
+  "publication": "game-developer",
+  "sequence": 24,
+  "number": "6",
+  "date": {
+   "display": "December/January 1997",
+   "start": "1997-12",
+   "precision": "month",
+   "end": "1998-01"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/362f5b87-2b6f-4845-8687-22da87d77ad8",
+   "external_id": "362f5b87-2b6f-4845-8687-22da87d77ad8",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 3, Number 6 (December-January 1997).pdf",
+   "bytes": 46652174,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9",
+  "publication": "game-developer",
+  "sequence": 25,
+  "number": "9",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38bc4a3c-637c-46b0-8391-06c3fdd88f66",
+   "external_id": "38bc4a3c-637c-46b0-8391-06c3fdd88f66",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 4, Number 9 (December 1997).pdf",
+   "bytes": 60646828,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-6",
+  "publication": "game-developer",
+  "sequence": 26,
+  "number": "1",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5768751e-046d-4710-83a2-8a24476a7b90",
+   "external_id": "5768751e-046d-4710-83a2-8a24476a7b90",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 1 (January 1998).pdf",
+   "bytes": 52496431,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-6",
+  "publication": "game-developer",
+  "sequence": 27,
+  "number": "2",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f873a7cc-fccb-4964-8109-0fc737ee516a",
+   "external_id": "f873a7cc-fccb-4964-8109-0fc737ee516a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 2 (February 1998).pdf",
+   "bytes": 49477060,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-6",
+  "publication": "game-developer",
+  "sequence": 28,
+  "number": "3",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c5311a8-dc59-4680-9967-e56c36170462",
+   "external_id": "3c5311a8-dc59-4680-9967-e56c36170462",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 3 (March 1998).pdf",
+   "bytes": 51813607,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-199803-developing-games-for-the-public-pc",
+  "publication": "game-developer",
+  "sequence": 29,
+  "number": "special",
+  "date": {
+   "display": "Spring 1998",
+   "start": "1998-03",
+   "precision": "season"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e5c45f99-12bf-488b-b2dc-e820e4d08e05",
+   "external_id": "e5c45f99-12bf-488b-b2dc-e820e4d08e05",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Developing Games for the Public PC (Spring 1998).pdf",
+   "bytes": 16940127,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-5",
+  "publication": "game-developer",
+  "sequence": 30,
+  "number": "4",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 204.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/815047f2-eed8-4cc7-b979-18824070b09b",
+   "external_id": "815047f2-eed8-4cc7-b979-18824070b09b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 4 (April 1998).pdf",
+   "bytes": 57019361,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-4",
+  "publication": "game-developer",
+  "sequence": 31,
+  "number": "5",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c9fa7b83-d15b-4182-b59c-eaaab449fa84",
+   "external_id": "c9fa7b83-d15b-4182-b59c-eaaab449fa84",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 5 (May 1998).pdf",
+   "bytes": 62302636,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 5
+ },
+ {
+  "id": "game-developer-6-3",
+  "publication": "game-developer",
+  "sequence": 32,
+  "number": "6",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 205.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3fefafa5-5547-4646-a255-589f4117168b",
+   "external_id": "3fefafa5-5547-4646-a255-589f4117168b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 6 (June 1998).pdf",
+   "bytes": 68679466,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-2",
+  "publication": "game-developer",
+  "sequence": 33,
+  "number": "7",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eb23e3dc-0bf1-4398-8f9b-c73b59767cf9",
+   "external_id": "eb23e3dc-0bf1-4398-8f9b-c73b59767cf9",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 7 (July 1998).pdf",
+   "bytes": 47344144,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-2",
+  "publication": "game-developer",
+  "sequence": 34,
+  "number": "8",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/884751df-adea-4af0-9c2b-1bb0f559a035",
+   "external_id": "884751df-adea-4af0-9c2b-1bb0f559a035",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 8 (August 1998).pdf",
+   "bytes": 59642061,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-2",
+  "publication": "game-developer",
+  "sequence": 35,
+  "number": "9",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac9eeb53-da8e-4c15-bb60-eb657c33ef6d",
+   "external_id": "ac9eeb53-da8e-4c15-bb60-eb657c33ef6d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 9 (September 1998).pdf",
+   "bytes": 51758001,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10",
+  "publication": "game-developer",
+  "sequence": 36,
+  "number": "10",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7dd392ab-7b65-4527-bc5c-522293bcaa3b",
+   "external_id": "7dd392ab-7b65-4527-bc5c-522293bcaa3b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 10 (October 1998).pdf",
+   "bytes": 56400287,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11",
+  "publication": "game-developer",
+  "sequence": 37,
+  "number": "11",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/59b52028-18a9-4477-803b-88d4e475762e",
+   "external_id": "59b52028-18a9-4477-803b-88d4e475762e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 11 (November 1998).pdf",
+   "bytes": 56373050,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-12",
+  "publication": "game-developer",
+  "sequence": 38,
+  "number": "12",
+  "date": {
+   "display": "November/December 1998",
+   "start": "1998-11",
+   "precision": "month",
+   "end": "1998-12"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7baf4bf6-9cb6-4fd4-92c4-7b8eb01fb722",
+   "external_id": "7baf4bf6-9cb6-4fd4-92c4-7b8eb01fb722",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 12, The 1999 Buyer's Guide (November-December 1998).pdf",
+   "bytes": 61890700,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-13",
+  "publication": "game-developer",
+  "sequence": 39,
+  "number": "13",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d167e0a1-f5dc-4707-954d-0603645d70f8",
+   "external_id": "d167e0a1-f5dc-4707-954d-0603645d70f8",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 5, Number 13 (December 1998).pdf",
+   "bytes": 57553241,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-7",
+  "publication": "game-developer",
+  "sequence": 40,
+  "number": "1",
+  "date": {
+   "display": "January 1999",
+   "start": "1999-01",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 204.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0de577bf-d886-4192-8b2f-800e65853d2d",
+   "external_id": "0de577bf-d886-4192-8b2f-800e65853d2d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 1 (January 1999).pdf",
+   "bytes": 56930561,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-7",
+  "publication": "game-developer",
+  "sequence": 41,
+  "number": "2",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 206.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0c236e5-c54e-4be6-a380-77e8f21d071c",
+   "external_id": "a0c236e5-c54e-4be6-a380-77e8f21d071c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 2 (February 1999).pdf",
+   "bytes": 58349528,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-7",
+  "publication": "game-developer",
+  "sequence": 42,
+  "number": "3",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 72,
+  "dimensions": {
+   "width_mm": 205.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8e55b11-f19f-4ebe-9739-87d4ffe30af7",
+   "external_id": "f8e55b11-f19f-4ebe-9739-87d4ffe30af7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 3 (March 1999).pdf",
+   "bytes": 51629579,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-6",
+  "publication": "game-developer",
+  "sequence": 43,
+  "number": "4",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 201.2,
+   "height_mm": 274.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f733589d-5ac2-41f3-9461-caa2ea4076f7",
+   "external_id": "f733589d-5ac2-41f3-9461-caa2ea4076f7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 4 (April 1999).pdf",
+   "bytes": 48912011,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-5",
+  "publication": "game-developer",
+  "sequence": 44,
+  "number": "5",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/44fbf318-2806-4ac8-a4d4-270e97859156",
+   "external_id": "44fbf318-2806-4ac8-a4d4-270e97859156",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 5 (May 1999).pdf",
+   "bytes": 103376149,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-4",
+  "publication": "game-developer",
+  "sequence": 45,
+  "number": "6",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dc01b82e-920e-4ab7-8067-4e34a06c9b5d",
+   "external_id": "dc01b82e-920e-4ab7-8067-4e34a06c9b5d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 6 (June 1999).pdf",
+   "bytes": 56914131,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 6
+ },
+ {
+  "id": "game-developer-7-3",
+  "publication": "game-developer",
+  "sequence": 46,
+  "number": "7",
+  "date": {
+   "display": "July 1999",
+   "start": "1999-07",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8f1230f8-b841-42f7-8f56-19acd06afc19",
+   "external_id": "8f1230f8-b841-42f7-8f56-19acd06afc19",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 7 (July 1999).pdf",
+   "bytes": 50739563,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-3",
+  "publication": "game-developer",
+  "sequence": 47,
+  "number": "8",
+  "date": {
+   "display": "August 1999",
+   "start": "1999-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7423a47-cbe7-4cfe-8d8c-b702ca6d62c1",
+   "external_id": "e7423a47-cbe7-4cfe-8d8c-b702ca6d62c1",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 8 (August 1999).pdf",
+   "bytes": 51130464,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-3",
+  "publication": "game-developer",
+  "sequence": 48,
+  "number": "9",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6870eac8-668a-4672-93fa-ada8f7f10514",
+   "external_id": "6870eac8-668a-4672-93fa-ada8f7f10514",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 9 (September 1999).pdf",
+   "bytes": 56890120,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-2",
+  "publication": "game-developer",
+  "sequence": 49,
+  "number": "10",
+  "date": {
+   "display": "October 1999",
+   "start": "1999-10",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 204.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ae0d3fe7-d3ec-4498-bb5c-e2535554567c",
+   "external_id": "ae0d3fe7-d3ec-4498-bb5c-e2535554567c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 10 (October 1999).pdf",
+   "bytes": 49414156,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-2",
+  "publication": "game-developer",
+  "sequence": 50,
+  "number": "11",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a02dd855-601d-43e7-b1dc-1c0996f8dc6c",
+   "external_id": "a02dd855-601d-43e7-b1dc-1c0996f8dc6c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 11 (November 1999).pdf",
+   "bytes": 50117220,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-199911-game-audio-technology-2000-supplement",
+  "publication": "game-developer",
+  "sequence": 51,
+  "number": "special",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 28,
+  "dimensions": {
+   "width_mm": 204.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/129c5d96-cceb-4ce9-8152-92a72435fc68",
+   "external_id": "129c5d96-cceb-4ce9-8152-92a72435fc68",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Audio Technology 2000 supplement (November 1999).pdf",
+   "bytes": 23725353,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-12-2",
+  "publication": "game-developer",
+  "sequence": 52,
+  "number": "12",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/865a1a42-2a10-42d7-800b-a6779a9d1d95",
+   "external_id": "865a1a42-2a10-42d7-800b-a6779a9d1d95",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 6, Number 12 (December 1999).pdf",
+   "bytes": 57411103,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-8",
+  "publication": "game-developer",
+  "sequence": 53,
+  "number": "1",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/030e4f14-3b83-468d-b7b9-434ff5c00152",
+   "external_id": "030e4f14-3b83-468d-b7b9-434ff5c00152",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 1 (January 2000).pdf",
+   "bytes": 51315301,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200001-game-developers-conference-2000-conference-broch",
+  "publication": "game-developer",
+  "sequence": 54,
+  "number": "special",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fc4edf53-b166-4780-b9ed-3bb1be78306c",
+   "external_id": "fc4edf53-b166-4780-b9ed-3bb1be78306c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developers Conference 2000 Conference Brochure (January 2000).pdf",
+   "bytes": 11225592,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-8",
+  "publication": "game-developer",
+  "sequence": 55,
+  "number": "2",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6aae487e-8658-4afd-b8cf-affa716f6b7c",
+   "external_id": "6aae487e-8658-4afd-b8cf-affa716f6b7c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 2 (February 2000).pdf",
+   "bytes": 49221284,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-8",
+  "publication": "game-developer",
+  "sequence": 56,
+  "number": "3",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/935de262-f07c-4f4e-8010-b72d206a5680",
+   "external_id": "935de262-f07c-4f4e-8010-b72d206a5680",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 3 (March 2000).pdf",
+   "bytes": 53078368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-7",
+  "publication": "game-developer",
+  "sequence": 57,
+  "number": "4",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e229203-96a7-4f55-a211-914ed28b8ca4",
+   "external_id": "6e229203-96a7-4f55-a211-914ed28b8ca4",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 4 (April 2000).pdf",
+   "bytes": 55292754,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-6",
+  "publication": "game-developer",
+  "sequence": 58,
+  "number": "5",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f9062daa-c339-4c94-80fa-02134d411e72",
+   "external_id": "f9062daa-c339-4c94-80fa-02134d411e72",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 5 (May 2000).pdf",
+   "bytes": 48973616,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-5",
+  "publication": "game-developer",
+  "sequence": 59,
+  "number": "6",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 204.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/77cbd690-cc0c-4a90-a62b-d241bb512301",
+   "external_id": "77cbd690-cc0c-4a90-a62b-d241bb512301",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 6 (June 2000).pdf",
+   "bytes": 53188061,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-4",
+  "publication": "game-developer",
+  "sequence": 60,
+  "number": "7",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c47b084d-c5f6-4120-b25b-938174ba95d4",
+   "external_id": "c47b084d-c5f6-4120-b25b-938174ba95d4",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 7 (July 2000).pdf",
+   "bytes": 41060425,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 7
+ },
+ {
+  "id": "game-developer-8-4",
+  "publication": "game-developer",
+  "sequence": 61,
+  "number": "8",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b0aa9b0a-22fb-4a27-bdb0-ea14081f5999",
+   "external_id": "b0aa9b0a-22fb-4a27-bdb0-ea14081f5999",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 8 (August 2000).pdf",
+   "bytes": 50207884,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-4",
+  "publication": "game-developer",
+  "sequence": 62,
+  "number": "9",
+  "date": {
+   "display": "September 2000",
+   "start": "2000-09",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f3c797e7-76b2-462b-821e-952d40e9b024",
+   "external_id": "f3c797e7-76b2-462b-821e-952d40e9b024",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 9 (September 2000).pdf",
+   "bytes": 51904263,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-3",
+  "publication": "game-developer",
+  "sequence": 63,
+  "number": "10",
+  "date": {
+   "display": "October 2000",
+   "start": "2000-10",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fdad175a-10e9-4397-b74b-bcc3bc45f98c",
+   "external_id": "fdad175a-10e9-4397-b74b-bcc3bc45f98c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 10 (October 2000).pdf",
+   "bytes": 45720152,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-3",
+  "publication": "game-developer",
+  "sequence": 64,
+  "number": "11",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/830b87d5-d00d-4ffd-a5b1-d2cf5cb15953",
+   "external_id": "830b87d5-d00d-4ffd-a5b1-d2cf5cb15953",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 11 (November 2000).pdf",
+   "bytes": 45405822,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-12-3",
+  "publication": "game-developer",
+  "sequence": 65,
+  "number": "12",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 203.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/203d93f8-546c-4d2d-ab4e-09213755055e",
+   "external_id": "203d93f8-546c-4d2d-ab4e-09213755055e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 7, Number 12 (December 2000).pdf",
+   "bytes": 40379841,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-9",
+  "publication": "game-developer",
+  "sequence": 66,
+  "number": "1",
+  "date": {
+   "display": "January 2001",
+   "start": "2001-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d5806c83-5fd6-4072-8b21-bcde464bc0da",
+   "external_id": "d5806c83-5fd6-4072-8b21-bcde464bc0da",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 1 (January 2001).pdf",
+   "bytes": 46709203,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-9",
+  "publication": "game-developer",
+  "sequence": 67,
+  "number": "2",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0873b685-b1b7-4031-9025-92a3cdd771b5",
+   "external_id": "0873b685-b1b7-4031-9025-92a3cdd771b5",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 2 (February 2001).pdf",
+   "bytes": 50179248,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200102-game-developers-conference-2001-guide",
+  "publication": "game-developer",
+  "sequence": 68,
+  "number": "special",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/77bbba97-b306-4e70-8c11-c819bffce1d1",
+   "external_id": "77bbba97-b306-4e70-8c11-c819bffce1d1",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developers Conference 2001 guide (February 2001).pdf",
+   "bytes": 10056028,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-9",
+  "publication": "game-developer",
+  "sequence": 69,
+  "number": "3",
+  "date": {
+   "display": "March 2001",
+   "start": "2001-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5214b4f1-9b51-4022-b9ce-1a1edd74787e",
+   "external_id": "5214b4f1-9b51-4022-b9ce-1a1edd74787e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 3 (March 2001).pdf",
+   "bytes": 58524280,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-8",
+  "publication": "game-developer",
+  "sequence": 70,
+  "number": "4",
+  "date": {
+   "display": "April 2001",
+   "start": "2001-04",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 205.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dbbf249c-cc1b-4584-a62f-5b14a4198c3a",
+   "external_id": "dbbf249c-cc1b-4584-a62f-5b14a4198c3a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 4 (April 2001).pdf",
+   "bytes": 65086133,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-7",
+  "publication": "game-developer",
+  "sequence": 71,
+  "number": "5",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 206.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6f889c13-6028-4466-bccc-8c7f18b487e2",
+   "external_id": "6f889c13-6028-4466-bccc-8c7f18b487e2",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 5 (May 2001).pdf",
+   "bytes": 47793978,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-6",
+  "publication": "game-developer",
+  "sequence": 72,
+  "number": "6",
+  "date": {
+   "display": "June 2001",
+   "start": "2001-06",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 204.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d4061881-f166-44f5-90cd-ab2ad5d6f159",
+   "external_id": "d4061881-f166-44f5-90cd-ab2ad5d6f159",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 6 (June 2001).pdf",
+   "bytes": 76082738,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-5",
+  "publication": "game-developer",
+  "sequence": 73,
+  "number": "7",
+  "date": {
+   "display": "July 2001",
+   "start": "2001-07",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.1,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d9e5e21f-3a63-4ebd-810a-24bed2502aea",
+   "external_id": "d9e5e21f-3a63-4ebd-810a-24bed2502aea",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 7 (July 2001).pdf",
+   "bytes": 49896170,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-5",
+  "publication": "game-developer",
+  "sequence": 74,
+  "number": "8",
+  "date": {
+   "display": "August 2001",
+   "start": "2001-08",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c23fe4b3-de34-4eb9-aa5f-e7ca69ce5162",
+   "external_id": "c23fe4b3-de34-4eb9-aa5f-e7ca69ce5162",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 8 (August 2001).pdf",
+   "bytes": 55327834,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 8
+ },
+ {
+  "id": "game-developer-9-5",
+  "publication": "game-developer",
+  "sequence": 75,
+  "number": "9",
+  "date": {
+   "display": "September 2001",
+   "start": "2001-09",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9bd9fb6a-9aaf-4ee4-8b6b-c3660d1452bb",
+   "external_id": "9bd9fb6a-9aaf-4ee4-8b6b-c3660d1452bb",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 9 (September 2001).pdf",
+   "bytes": 47614727,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-4",
+  "publication": "game-developer",
+  "sequence": 76,
+  "number": "10",
+  "date": {
+   "display": "October 2001",
+   "start": "2001-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 204.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7e379a31-8863-43e4-9333-da6dfc67e64b",
+   "external_id": "7e379a31-8863-43e4-9333-da6dfc67e64b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 10 (October 2001).pdf",
+   "bytes": 44367024,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-4",
+  "publication": "game-developer",
+  "sequence": 77,
+  "number": "11",
+  "date": {
+   "display": "November 2001",
+   "start": "2001-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d11b97a-9e5d-4418-b7e8-f635a78004ed",
+   "external_id": "1d11b97a-9e5d-4418-b7e8-f635a78004ed",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 11 (November 2001).pdf",
+   "bytes": 42284899,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-12-4",
+  "publication": "game-developer",
+  "sequence": 78,
+  "number": "12",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5c25d903-f245-42bb-a460-b30f38eefbba",
+   "external_id": "5c25d903-f245-42bb-a460-b30f38eefbba",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 8, Number 12 (December 2001).pdf",
+   "bytes": 59595771,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-10",
+  "publication": "game-developer",
+  "sequence": 79,
+  "number": "1",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 205.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ff023277-107e-450f-a64c-86ada9977559",
+   "external_id": "ff023277-107e-450f-a64c-86ada9977559",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 1 (January 2002).pdf",
+   "bytes": 48526551,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-10",
+  "publication": "game-developer",
+  "sequence": 80,
+  "number": "2",
+  "date": {
+   "display": "February 2002",
+   "start": "2002-02",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2895e487-080b-489d-b1aa-6a0474c12a96",
+   "external_id": "2895e487-080b-489d-b1aa-6a0474c12a96",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 2 (February 2002).pdf",
+   "bytes": 38897092,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200202-game-developers-conference-2002-conference-broch",
+  "publication": "game-developer",
+  "sequence": 81,
+  "number": "special",
+  "date": {
+   "display": "February 2002",
+   "start": "2002-02",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/84352d1d-14a4-45f6-b381-fe01eb93df9a",
+   "external_id": "84352d1d-14a4-45f6-b381-fe01eb93df9a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developers Conference 2002 Conference Brochure (February 2002).pdf",
+   "bytes": 10283373,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-10",
+  "publication": "game-developer",
+  "sequence": 82,
+  "number": "3",
+  "date": {
+   "display": "March 2002",
+   "start": "2002-03",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/769a8bbe-32de-42d1-b3a1-f093099753f7",
+   "external_id": "769a8bbe-32de-42d1-b3a1-f093099753f7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 3 (March 2002).pdf",
+   "bytes": 52294712,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-9",
+  "publication": "game-developer",
+  "sequence": 83,
+  "number": "4",
+  "date": {
+   "display": "April 2002",
+   "start": "2002-04",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c01d41c-d3d9-4ba6-8e34-2c7b9b4c4748",
+   "external_id": "3c01d41c-d3d9-4ba6-8e34-2c7b9b4c4748",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 4 (April 2002).pdf",
+   "bytes": 53847762,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200204-igda-2001-annual-report",
+  "publication": "game-developer",
+  "sequence": 84,
+  "number": "special",
+  "date": {
+   "display": "April 2002",
+   "start": "2002-04",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 194.2,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/04c312e5-764a-4105-9b04-eccef5387b82",
+   "external_id": "04c312e5-764a-4105-9b04-eccef5387b82",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/IGDA 2001 Annual Report (April 2002).pdf",
+   "bytes": 6816210,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-8",
+  "publication": "game-developer",
+  "sequence": 85,
+  "number": "5",
+  "date": {
+   "display": "May 2002",
+   "start": "2002-05",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5e8b6cac-45ca-40a7-9d87-323080c6d006",
+   "external_id": "5e8b6cac-45ca-40a7-9d87-323080c6d006",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 5 (May 2002).pdf",
+   "bytes": 40955231,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-7",
+  "publication": "game-developer",
+  "sequence": 86,
+  "number": "6",
+  "date": {
+   "display": "June 2002",
+   "start": "2002-06",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b04c5f25-4b2d-450c-8a18-5c61e22bfa51",
+   "external_id": "b04c5f25-4b2d-450c-8a18-5c61e22bfa51",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 6 (June 2002).pdf",
+   "bytes": 51025118,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-6",
+  "publication": "game-developer",
+  "sequence": 87,
+  "number": "7",
+  "date": {
+   "display": "July 2002",
+   "start": "2002-07",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4246e36a-06c8-4ebe-94ed-0c92b4737d98",
+   "external_id": "4246e36a-06c8-4ebe-94ed-0c92b4737d98",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 7 (July 2002).pdf",
+   "bytes": 42154309,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-6",
+  "publication": "game-developer",
+  "sequence": 88,
+  "number": "8",
+  "date": {
+   "display": "August 2002",
+   "start": "2002-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/be103b03-5690-4978-8e7a-1a80fa682d55",
+   "external_id": "be103b03-5690-4978-8e7a-1a80fa682d55",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 8 (August 2002).pdf",
+   "bytes": 43592705,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-6",
+  "publication": "game-developer",
+  "sequence": 89,
+  "number": "9",
+  "date": {
+   "display": "September 2002",
+   "start": "2002-09",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/235fb872-f93b-435a-86e3-975111275b42",
+   "external_id": "235fb872-f93b-435a-86e3-975111275b42",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 9 (September 2002).pdf",
+   "bytes": 34871538,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 9
+ },
+ {
+  "id": "game-developer-10-5",
+  "publication": "game-developer",
+  "sequence": 90,
+  "number": "10",
+  "date": {
+   "display": "October 2002",
+   "start": "2002-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7068f473-8136-4428-a9c4-2a6320866ff3",
+   "external_id": "7068f473-8136-4428-a9c4-2a6320866ff3",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 10 (October 2002).pdf",
+   "bytes": 33602234,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-5",
+  "publication": "game-developer",
+  "sequence": 91,
+  "number": "11",
+  "date": {
+   "display": "November 2002",
+   "start": "2002-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/18128776-f204-4679-a593-18ceb984092e",
+   "external_id": "18128776-f204-4679-a593-18ceb984092e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 11 (November 2002).pdf",
+   "bytes": 33327685,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-12-5",
+  "publication": "game-developer",
+  "sequence": 92,
+  "number": "12",
+  "date": {
+   "display": "December 2002",
+   "start": "2002-12",
+   "precision": "month"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/639ed313-0f3e-4cb0-be67-e12e38631d8c",
+   "external_id": "639ed313-0f3e-4cb0-be67-e12e38631d8c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 9, Number 12 (December 2002).pdf",
+   "bytes": 35865519,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-11",
+  "publication": "game-developer",
+  "sequence": 93,
+  "number": "1",
+  "date": {
+   "display": "January 2003",
+   "start": "2003-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6b9d4f18-cc31-498f-977d-54a5fc4ffd70",
+   "external_id": "6b9d4f18-cc31-498f-977d-54a5fc4ffd70",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 1 (January 2003).pdf",
+   "bytes": 40281873,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1",
+  "publication": "game-developer",
+  "sequence": 94,
+  "number": "1",
+  "date": {
+   "display": "February 2003",
+   "start": "2003-02",
+   "precision": "month"
+  },
+  "pages": 4,
+  "dimensions": {
+   "width_mm": 190.2,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/13ef464c-bf15-43c3-a548-258313315fb6",
+   "external_id": "13ef464c-bf15-43c3-a548-258313315fb6",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 1 (February 2003).pdf",
+   "bytes": 2491921,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 1
+ },
+ {
+  "id": "game-developer-2-11",
+  "publication": "game-developer",
+  "sequence": 95,
+  "number": "2",
+  "date": {
+   "display": "February 2003",
+   "start": "2003-02",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/87e158ed-2ff0-42db-ab6f-a028c6b33457",
+   "external_id": "87e158ed-2ff0-42db-ab6f-a028c6b33457",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 2 (February 2003).pdf",
+   "bytes": 45029170,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-11",
+  "publication": "game-developer",
+  "sequence": 96,
+  "number": "3",
+  "date": {
+   "display": "March 2003",
+   "start": "2003-03",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/876dee8f-da46-4c39-9165-209ba82702ad",
+   "external_id": "876dee8f-da46-4c39-9165-209ba82702ad",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 3 (March 2003).pdf",
+   "bytes": 43591367,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2",
+  "publication": "game-developer",
+  "sequence": 97,
+  "number": "2",
+  "date": {
+   "display": "April 2003",
+   "start": "2003-04",
+   "precision": "month"
+  },
+  "pages": 4,
+  "dimensions": {
+   "width_mm": 193.2,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/685a7ab3-41ce-430b-a98a-fd0917d2f662",
+   "external_id": "685a7ab3-41ce-430b-a98a-fd0917d2f662",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 2 (April 2003).pdf",
+   "bytes": 2486071,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-10",
+  "publication": "game-developer",
+  "sequence": 98,
+  "number": "4",
+  "date": {
+   "display": "April 2003",
+   "start": "2003-04",
+   "precision": "month"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a0411e8-adbe-435d-862d-9162924e80ca",
+   "external_id": "5a0411e8-adbe-435d-862d-9162924e80ca",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 4 (April 2003).pdf",
+   "bytes": 49007205,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-9",
+  "publication": "game-developer",
+  "sequence": 99,
+  "number": "5",
+  "date": {
+   "display": "May 2003",
+   "start": "2003-05",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dcde1359-04c4-4c01-b708-659188e25af1",
+   "external_id": "dcde1359-04c4-4c01-b708-659188e25af1",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 5 (May 2003).pdf",
+   "bytes": 35633864,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200305-igda-2002-annual-report",
+  "publication": "game-developer",
+  "sequence": 100,
+  "number": "special",
+  "date": {
+   "display": "May 2003",
+   "start": "2003-05",
+   "precision": "month"
+  },
+  "pages": 16,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/03a51768-a0bc-4628-8232-906a6deff36d",
+   "external_id": "03a51768-a0bc-4628-8232-906a6deff36d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/IGDA 2002 Annual Report (May 2003).pdf",
+   "bytes": 7249598,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3",
+  "publication": "game-developer",
+  "sequence": 101,
+  "number": "3",
+  "date": {
+   "display": "June 2003",
+   "start": "2003-06",
+   "precision": "month"
+  },
+  "pages": 4,
+  "dimensions": {
+   "width_mm": 192.5,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cd768e55-3771-4310-82ed-b64cc7dc1705",
+   "external_id": "cd768e55-3771-4310-82ed-b64cc7dc1705",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 3 (June 2003).pdf",
+   "bytes": 2343958,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-8",
+  "publication": "game-developer",
+  "sequence": 102,
+  "number": "6",
+  "date": {
+   "display": "June 2003",
+   "start": "2003-06",
+   "precision": "month"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb891f6f-7741-4beb-956a-558a24a83a2c",
+   "external_id": "bb891f6f-7741-4beb-956a-558a24a83a2c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 6 (June 2003).pdf",
+   "bytes": 50502023,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-7",
+  "publication": "game-developer",
+  "sequence": 103,
+  "number": "7",
+  "date": {
+   "display": "July 2003",
+   "start": "2003-07",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2fb68618-40f8-41c0-8f65-0abb11c8e20b",
+   "external_id": "2fb68618-40f8-41c0-8f65-0abb11c8e20b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 7 (July 2003).pdf",
+   "bytes": 32363554,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-7",
+  "publication": "game-developer",
+  "sequence": 104,
+  "number": "8",
+  "date": {
+   "display": "August 2003",
+   "start": "2003-08",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6dfaf97b-8fd8-4dcd-a700-187b07f107b6",
+   "external_id": "6dfaf97b-8fd8-4dcd-a700-187b07f107b6",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 8 (August 2003).pdf",
+   "bytes": 34970317,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-7",
+  "publication": "game-developer",
+  "sequence": 105,
+  "number": "9",
+  "date": {
+   "display": "September 2003",
+   "start": "2003-09",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9b809132-9d3b-4e44-9125-95e9c0d52e0d",
+   "external_id": "9b809132-9d3b-4e44-9125-95e9c0d52e0d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 9 (September 2003).pdf",
+   "bytes": 34723941,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200309-2003-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 106,
+  "number": "special",
+  "date": {
+   "display": "Fall 2003",
+   "start": "2003-09",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bbfd97b3-d0fa-4c1c-b725-efe2dc63d17a",
+   "external_id": "bbfd97b3-d0fa-4c1c-b725-efe2dc63d17a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2003 Game Career Guide (Fall 2003).pdf",
+   "bytes": 44692711,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-6",
+  "publication": "game-developer",
+  "sequence": 107,
+  "number": "10",
+  "date": {
+   "display": "October 2003",
+   "start": "2003-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9cff49c9-f173-4213-a8e9-790576bfc9c7",
+   "external_id": "9cff49c9-f173-4213-a8e9-790576bfc9c7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 10 (October 2003).pdf",
+   "bytes": 34823889,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 10
+ },
+ {
+  "id": "game-developer-11-6",
+  "publication": "game-developer",
+  "sequence": 108,
+  "number": "11",
+  "date": {
+   "display": "November 2003",
+   "start": "2003-11",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e185bd25-0016-4a6c-9173-f84adeea9830",
+   "external_id": "e185bd25-0016-4a6c-9173-f84adeea9830",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 11 (November 2003).pdf",
+   "bytes": 45232865,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-12-6",
+  "publication": "game-developer",
+  "sequence": 109,
+  "number": "12",
+  "date": {
+   "display": "December 2003",
+   "start": "2003-12",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/49f0dc06-fb40-401c-8481-83ce0b43789d",
+   "external_id": "49f0dc06-fb40-401c-8481-83ce0b43789d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 10, Number 12 (December 2003).pdf",
+   "bytes": 35480593,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-12",
+  "publication": "game-developer",
+  "sequence": 110,
+  "number": "1",
+  "date": {
+   "display": "January 2004",
+   "start": "2004-01",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/058040b7-27e5-4755-932d-8fdc3622f3b2",
+   "external_id": "058040b7-27e5-4755-932d-8fdc3622f3b2",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 1 (January 2004).pdf",
+   "bytes": 34158051,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-12",
+  "publication": "game-developer",
+  "sequence": 111,
+  "number": "2",
+  "date": {
+   "display": "February 2004",
+   "start": "2004-02",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1dee8943-6e66-48e2-8a8f-c55ad348a502",
+   "external_id": "1dee8943-6e66-48e2-8a8f-c55ad348a502",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 2 (February 2004).pdf",
+   "bytes": 34006632,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200402-gdc-04-program-guide",
+  "publication": "game-developer",
+  "sequence": 112,
+  "number": "special",
+  "date": {
+   "display": "February 2004",
+   "start": "2004-02",
+   "precision": "month"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 196.0,
+   "height_mm": 266.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d5208f9-e695-4289-a51c-65f5ba3a64b2",
+   "external_id": "2d5208f9-e695-4289-a51c-65f5ba3a64b2",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/GDC 04 Program Guide (February 2004).pdf",
+   "bytes": 15207183,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-12",
+  "publication": "game-developer",
+  "sequence": 113,
+  "number": "3",
+  "date": {
+   "display": "March 2004",
+   "start": "2004-03",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1723c8af-f9f8-45c1-b058-fbddae9f31ce",
+   "external_id": "1723c8af-f9f8-45c1-b058-fbddae9f31ce",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 3 (March 2004).pdf",
+   "bytes": 45381430,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-11",
+  "publication": "game-developer",
+  "sequence": 114,
+  "number": "4",
+  "date": {
+   "display": "April 2004",
+   "start": "2004-04",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/09208a13-36d8-4a86-b543-3a8bb832bf3a",
+   "external_id": "09208a13-36d8-4a86-b543-3a8bb832bf3a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 4 (April 2004).pdf",
+   "bytes": 44189773,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200404-ati-focus-on-developers",
+  "publication": "game-developer",
+  "sequence": 115,
+  "number": "special",
+  "date": {
+   "display": "April 2004",
+   "start": "2004-04",
+   "precision": "month"
+  },
+  "pages": 12,
+  "dimensions": {
+   "width_mm": 194.4,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0c6459b-dc13-44c0-9dbb-8cb92b102325",
+   "external_id": "a0c6459b-dc13-44c0-9dbb-8cb92b102325",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/ATI Focus on Developers (April 2004).pdf",
+   "bytes": 6175381,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-10",
+  "publication": "game-developer",
+  "sequence": 116,
+  "number": "5",
+  "date": {
+   "display": "May 2004",
+   "start": "2004-05",
+   "precision": "month"
+  },
+  "pages": 74,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d9b97339-af8f-47a5-990e-5efb9e15da3f",
+   "external_id": "d9b97339-af8f-47a5-990e-5efb9e15da3f",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 5 (May 2004).pdf",
+   "bytes": 10685515,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-9",
+  "publication": "game-developer",
+  "sequence": 117,
+  "number": "6",
+  "date": {
+   "display": "June/July 2004",
+   "start": "2004-06",
+   "precision": "month",
+   "end": "2004-07"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e574831a-dc90-41ec-9cea-c00a6c0cdd2d",
+   "external_id": "e574831a-dc90-41ec-9cea-c00a6c0cdd2d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 6 (June-July 2004).pdf",
+   "bytes": 9314770,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-8",
+  "publication": "game-developer",
+  "sequence": 118,
+  "number": "7",
+  "date": {
+   "display": "August 2004",
+   "start": "2004-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/253f9dd6-1460-4cf1-afd9-1a316acb6d68",
+   "external_id": "253f9dd6-1460-4cf1-afd9-1a316acb6d68",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 7 (August 2004).pdf",
+   "bytes": 5442715,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-8",
+  "publication": "game-developer",
+  "sequence": 119,
+  "number": "8",
+  "date": {
+   "display": "September 2004",
+   "start": "2004-09",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/41e19a68-2fff-46f4-b7bd-451ad9e8972a",
+   "external_id": "41e19a68-2fff-46f4-b7bd-451ad9e8972a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 8 (September 2004).pdf",
+   "bytes": 10424814,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200409-2004-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 120,
+  "number": "special",
+  "date": {
+   "display": "Fall 2004",
+   "start": "2004-09",
+   "precision": "season"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 194.1,
+   "height_mm": 265.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c96bc35a-04c1-43e0-81c1-f1d17642bce9",
+   "external_id": "c96bc35a-04c1-43e0-81c1-f1d17642bce9",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2004 Game Career Guide (Fall 2004).pdf",
+   "bytes": 32517644,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-8",
+  "publication": "game-developer",
+  "sequence": 121,
+  "number": "9",
+  "date": {
+   "display": "October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50c7af5c-23b8-441d-ab2a-ded7da2f047b",
+   "external_id": "50c7af5c-23b8-441d-ab2a-ded7da2f047b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 9 (October 2004).pdf",
+   "bytes": 9743111,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-7",
+  "publication": "game-developer",
+  "sequence": 122,
+  "number": "10",
+  "date": {
+   "display": "November 2004",
+   "start": "2004-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/edd505b5-4a79-43bb-a2d1-5b5db2a7344c",
+   "external_id": "edd505b5-4a79-43bb-a2d1-5b5db2a7344c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 10 (November 2004).pdf",
+   "bytes": 9469257,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-7",
+  "publication": "game-developer",
+  "sequence": 123,
+  "number": "11",
+  "date": {
+   "display": "December 2004",
+   "start": "2004-12",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 261.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/24cf83f7-4b31-4e74-8add-2e10806f0cac",
+   "external_id": "24cf83f7-4b31-4e74-8add-2e10806f0cac",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 11, Number 11 (December 2004).pdf",
+   "bytes": 35727397,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "volume": 11
+ },
+ {
+  "id": "game-developer-1-13",
+  "publication": "game-developer",
+  "sequence": 124,
+  "number": "1",
+  "date": {
+   "display": "January 2005",
+   "start": "2005-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef4358d1-579c-4691-bf4e-203da09a5635",
+   "external_id": "ef4358d1-579c-4691-bf4e-203da09a5635",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 1 (January 2005).pdf",
+   "bytes": 14854263,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200501-gdc-05-conference-guide",
+  "publication": "game-developer",
+  "sequence": 125,
+  "number": "special",
+  "date": {
+   "display": "January 2005",
+   "start": "2005-01",
+   "precision": "month"
+  },
+  "pages": 34,
+  "dimensions": {
+   "width_mm": 196.0,
+   "height_mm": 267.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d122883-71d8-429a-b97d-172ca257ff94",
+   "external_id": "2d122883-71d8-429a-b97d-172ca257ff94",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/GDC 05 Conference Guide (January 2005).pdf",
+   "bytes": 13280177,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-13",
+  "publication": "game-developer",
+  "sequence": 126,
+  "number": "2",
+  "date": {
+   "display": "February 2005",
+   "start": "2005-02",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f43873d0-260c-4968-a542-cc5f9e7c9a9c",
+   "external_id": "f43873d0-260c-4968-a542-cc5f9e7c9a9c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 2 (February 2005).pdf",
+   "bytes": 10155024,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-13",
+  "publication": "game-developer",
+  "sequence": 127,
+  "number": "3",
+  "date": {
+   "display": "March 2005",
+   "start": "2005-03",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0d39943-fa0f-41d5-8180-ccd1a4561988",
+   "external_id": "c0d39943-fa0f-41d5-8180-ccd1a4561988",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 3 (March 2005).pdf",
+   "bytes": 20711565,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-12",
+  "publication": "game-developer",
+  "sequence": 128,
+  "number": "4",
+  "date": {
+   "display": "April 2005",
+   "start": "2005-04",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7af112e-2e5e-4373-b140-f763a6d06a85",
+   "external_id": "a7af112e-2e5e-4373-b140-f763a6d06a85",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 4 (April 2005).pdf",
+   "bytes": 8221157,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-11",
+  "publication": "game-developer",
+  "sequence": 129,
+  "number": "5",
+  "date": {
+   "display": "May 2005",
+   "start": "2005-05",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d78c8c3c-8b43-4d63-9cba-d568e71ba9c4",
+   "external_id": "d78c8c3c-8b43-4d63-9cba-d568e71ba9c4",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 5 (May 2005).pdf",
+   "bytes": 11074976,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-10",
+  "publication": "game-developer",
+  "sequence": 130,
+  "number": "6",
+  "date": {
+   "display": "June/July 2005",
+   "start": "2005-06",
+   "precision": "month",
+   "end": "2005-07"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aadc1767-9f9a-41da-a25a-3900d6f1a47f",
+   "external_id": "aadc1767-9f9a-41da-a25a-3900d6f1a47f",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 6 (June-July 2005).pdf",
+   "bytes": 6952616,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-9",
+  "publication": "game-developer",
+  "sequence": 131,
+  "number": "7",
+  "date": {
+   "display": "August 2005",
+   "start": "2005-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf0a0a15-18a2-4524-a59e-25af9ff208b0",
+   "external_id": "cf0a0a15-18a2-4524-a59e-25af9ff208b0",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 7 (August 2005).pdf",
+   "bytes": 9575804,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-9",
+  "publication": "game-developer",
+  "sequence": 132,
+  "number": "8",
+  "date": {
+   "display": "September 2005",
+   "start": "2005-09",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2a07917-edf8-41cb-9c6b-e43c6296cc13",
+   "external_id": "a2a07917-edf8-41cb-9c6b-e43c6296cc13",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 8 (September 2005).pdf",
+   "bytes": 6803727,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200509-2005-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 133,
+  "number": "special",
+  "date": {
+   "display": "Fall 2005",
+   "start": "2005-09",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 195.3,
+   "height_mm": 263.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/797e1663-82f2-499b-9760-b7e4fd37ae5a",
+   "external_id": "797e1663-82f2-499b-9760-b7e4fd37ae5a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2005 Game Career Guide (Fall 2005).pdf",
+   "bytes": 40392168,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-9",
+  "publication": "game-developer",
+  "sequence": 134,
+  "number": "9",
+  "date": {
+   "display": "October 2005",
+   "start": "2005-10",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/41741d72-618b-4b89-8244-609eda27c990",
+   "external_id": "41741d72-618b-4b89-8244-609eda27c990",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 9 (October 2005).pdf",
+   "bytes": 9416376,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-8",
+  "publication": "game-developer",
+  "sequence": 135,
+  "number": "10",
+  "date": {
+   "display": "November 2005",
+   "start": "2005-11",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/204df954-5c3f-4ccc-80bb-5e32b531265c",
+   "external_id": "204df954-5c3f-4ccc-80bb-5e32b531265c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 10 (November 2005).pdf",
+   "bytes": 8795047,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-8",
+  "publication": "game-developer",
+  "sequence": 136,
+  "number": "11",
+  "date": {
+   "display": "December 2005",
+   "start": "2005-12",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0178abba-bda4-45fc-ac92-e59fe58aa84e",
+   "external_id": "0178abba-bda4-45fc-ac92-e59fe58aa84e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 12, Number 11 (December 2005).pdf",
+   "bytes": 5812106,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-14",
+  "publication": "game-developer",
+  "sequence": 137,
+  "number": "1",
+  "date": {
+   "display": "January 2006",
+   "start": "2006-01",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/000543fb-5301-44d1-a7aa-27c60407b034",
+   "external_id": "000543fb-5301-44d1-a7aa-27c60407b034",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 1 (January 2006).pdf",
+   "bytes": 7688284,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200601-gdc-06-preview-guide",
+  "publication": "game-developer",
+  "sequence": 138,
+  "number": "special",
+  "date": {
+   "display": "January 2006",
+   "start": "2006-01",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 195.2,
+   "height_mm": 266.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf42a9ea-b2b3-44a1-a4fb-1ac5bd5c0e12",
+   "external_id": "bf42a9ea-b2b3-44a1-a4fb-1ac5bd5c0e12",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/GDC 06 Preview Guide (January 2006).pdf",
+   "bytes": 8799169,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-14",
+  "publication": "game-developer",
+  "sequence": 139,
+  "number": "2",
+  "date": {
+   "display": "February 2006",
+   "start": "2006-02",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c8ea6d78-6579-4971-a9a7-4a8469f84297",
+   "external_id": "c8ea6d78-6579-4971-a9a7-4a8469f84297",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 2 (February 2006).pdf",
+   "bytes": 9559970,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-14",
+  "publication": "game-developer",
+  "sequence": 140,
+  "number": "3",
+  "date": {
+   "display": "March 2006",
+   "start": "2006-03",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab2e5979-b594-4ecc-9e5e-03ec5a80cc7e",
+   "external_id": "ab2e5979-b594-4ecc-9e5e-03ec5a80cc7e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 3 (March 2006).pdf",
+   "bytes": 14839355,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-13",
+  "publication": "game-developer",
+  "sequence": 141,
+  "number": "4",
+  "date": {
+   "display": "April 2006",
+   "start": "2006-04",
+   "precision": "month"
+  },
+  "pages": 109,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/67eadc4f-c216-4703-9aec-9a68427c67c7",
+   "external_id": "67eadc4f-c216-4703-9aec-9a68427c67c7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 4 (April 2006).pdf",
+   "bytes": 16968066,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-12",
+  "publication": "game-developer",
+  "sequence": 142,
+  "number": "5",
+  "date": {
+   "display": "May 2006",
+   "start": "2006-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0e6f314e-3452-4630-86d0-4ed7e912a857",
+   "external_id": "0e6f314e-3452-4630-86d0-4ed7e912a857",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 5 (May 2006).pdf",
+   "bytes": 21171356,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-11",
+  "publication": "game-developer",
+  "sequence": 143,
+  "number": "6",
+  "date": {
+   "display": "June/July 2006",
+   "start": "2006-06",
+   "precision": "month",
+   "end": "2006-07"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a1d7e8a8-0a46-4bc6-a536-de2e07980db5",
+   "external_id": "a1d7e8a8-0a46-4bc6-a536-de2e07980db5",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 6 (June-July 2006).pdf",
+   "bytes": 5000410,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-10",
+  "publication": "game-developer",
+  "sequence": 144,
+  "number": "7",
+  "date": {
+   "display": "August 2006",
+   "start": "2006-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8be0fd3c-0077-44ba-8743-f09bc0e85d86",
+   "external_id": "8be0fd3c-0077-44ba-8743-f09bc0e85d86",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 7 (August 2006).pdf",
+   "bytes": 22485847,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-10",
+  "publication": "game-developer",
+  "sequence": 145,
+  "number": "8",
+  "date": {
+   "display": "September 2006",
+   "start": "2006-09",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/95e71457-7741-4a09-92a1-3d6ef2278d19",
+   "external_id": "95e71457-7741-4a09-92a1-3d6ef2278d19",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 8 (September 2006).pdf",
+   "bytes": 10277413,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200609-2006-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 146,
+  "number": "special",
+  "date": {
+   "display": "Fall 2006",
+   "start": "2006-09",
+   "precision": "season"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 195.5,
+   "height_mm": 264.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0aab6829-2285-42cf-9f37-a9029913c553",
+   "external_id": "0aab6829-2285-42cf-9f37-a9029913c553",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2006 Game Career Guide (Fall 2006).pdf",
+   "bytes": 46618633,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-10",
+  "publication": "game-developer",
+  "sequence": 147,
+  "number": "9",
+  "date": {
+   "display": "October 2006",
+   "start": "2006-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f0403f29-418b-483f-a7b8-c096071a0149",
+   "external_id": "f0403f29-418b-483f-a7b8-c096071a0149",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 9 (October 2006).pdf",
+   "bytes": 16300800,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-9",
+  "publication": "game-developer",
+  "sequence": 148,
+  "number": "10",
+  "date": {
+   "display": "November 2006",
+   "start": "2006-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/323e9458-4bbc-4c5c-95fe-a72c8f67da17",
+   "external_id": "323e9458-4bbc-4c5c-95fe-a72c8f67da17",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 10 (November 2006).pdf",
+   "bytes": 11133795,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-9",
+  "publication": "game-developer",
+  "sequence": 149,
+  "number": "11",
+  "date": {
+   "display": "December 2006",
+   "start": "2006-12",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b8ca4640-fd4d-4759-b7ae-c5d3a659d899",
+   "external_id": "b8ca4640-fd4d-4759-b7ae-c5d3a659d899",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 13, Number 11 (December 2006).pdf",
+   "bytes": 7976235,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-15",
+  "publication": "game-developer",
+  "sequence": 150,
+  "number": "1",
+  "date": {
+   "display": "January 2007",
+   "start": "2007-01",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0e484dfa-7cc5-4f84-99a2-2ca3c6952c14",
+   "external_id": "0e484dfa-7cc5-4f84-99a2-2ca3c6952c14",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 1 (January 2007).pdf",
+   "bytes": 15430742,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-15",
+  "publication": "game-developer",
+  "sequence": 151,
+  "number": "2",
+  "date": {
+   "display": "February 2007",
+   "start": "2007-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3182b33c-cbe4-4173-b9f6-8c0e44e4edd6",
+   "external_id": "3182b33c-cbe4-4173-b9f6-8c0e44e4edd6",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 2 (February 2007).pdf",
+   "bytes": 20276051,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-15",
+  "publication": "game-developer",
+  "sequence": 152,
+  "number": "3",
+  "date": {
+   "display": "March 2007",
+   "start": "2007-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6495a5ff-4fd0-4935-b603-b7e9e99091d7",
+   "external_id": "6495a5ff-4fd0-4935-b603-b7e9e99091d7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 3 (March 2007).pdf",
+   "bytes": 21892803,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-14",
+  "publication": "game-developer",
+  "sequence": 153,
+  "number": "4",
+  "date": {
+   "display": "April 2007",
+   "start": "2007-04",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26e51d5e-c72b-4563-9af0-5337ddceb256",
+   "external_id": "26e51d5e-c72b-4563-9af0-5337ddceb256",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 4 (April 2007).pdf",
+   "bytes": 6453487,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-13",
+  "publication": "game-developer",
+  "sequence": 154,
+  "number": "5",
+  "date": {
+   "display": "May 2007",
+   "start": "2007-05",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c5eb7c1-3ae7-4ac7-9f8a-a536b8966058",
+   "external_id": "6c5eb7c1-3ae7-4ac7-9f8a-a536b8966058",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 5 (May 2007).pdf",
+   "bytes": 7155072,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-12",
+  "publication": "game-developer",
+  "sequence": 155,
+  "number": "6",
+  "date": {
+   "display": "June/July 2007",
+   "start": "2007-06",
+   "precision": "month",
+   "end": "2007-07"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d4ee457-de7a-4355-bd93-66c266771206",
+   "external_id": "2d4ee457-de7a-4355-bd93-66c266771206",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 6 (June-July 2007).pdf",
+   "bytes": 5531534,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-11",
+  "publication": "game-developer",
+  "sequence": 156,
+  "number": "7",
+  "date": {
+   "display": "August 2007",
+   "start": "2007-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c37963dd-20d0-47a1-a6c6-d37814ad0a96",
+   "external_id": "c37963dd-20d0-47a1-a6c6-d37814ad0a96",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 7 (August 2007).pdf",
+   "bytes": 13421716,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-11",
+  "publication": "game-developer",
+  "sequence": 157,
+  "number": "8",
+  "date": {
+   "display": "September 2007",
+   "start": "2007-09",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/932d87cb-b565-4813-bd04-bd7ae2977b2b",
+   "external_id": "932d87cb-b565-4813-bd04-bd7ae2977b2b",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 8 (September 2007).pdf",
+   "bytes": 9560754,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200709-2007-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 158,
+  "number": "special",
+  "date": {
+   "display": "Fall 2007",
+   "start": "2007-09",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.1,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ffb91315-6515-46e1-9395-3b4ee6d6c652",
+   "external_id": "ffb91315-6515-46e1-9395-3b4ee6d6c652",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2007 Game Career Guide (Fall 2007).pdf",
+   "bytes": 61888225,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-11",
+  "publication": "game-developer",
+  "sequence": 159,
+  "number": "9",
+  "date": {
+   "display": "October 2007",
+   "start": "2007-10",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a52873b6-2e79-4987-807c-4ab2ff75422a",
+   "external_id": "a52873b6-2e79-4987-807c-4ab2ff75422a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 9 (October 2007).pdf",
+   "bytes": 14175172,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-10",
+  "publication": "game-developer",
+  "sequence": 160,
+  "number": "10",
+  "date": {
+   "display": "November 2007",
+   "start": "2007-11",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4490efcf-6f53-487a-87a2-8cba23fe38d4",
+   "external_id": "4490efcf-6f53-487a-87a2-8cba23fe38d4",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 10 (November 2007).pdf",
+   "bytes": 5018818,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-10",
+  "publication": "game-developer",
+  "sequence": 161,
+  "number": "11",
+  "date": {
+   "display": "December 2007",
+   "start": "2007-12",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0f911b07-3354-4905-aa32-705b7ce03c27",
+   "external_id": "0f911b07-3354-4905-aa32-705b7ce03c27",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 14, Number 11 (December 2007).pdf",
+   "bytes": 8251865,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-16",
+  "publication": "game-developer",
+  "sequence": 162,
+  "number": "1",
+  "date": {
+   "display": "January 2008",
+   "start": "2008-01",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c44ddbd6-d7cf-4b05-8d68-7d16856105b9",
+   "external_id": "c44ddbd6-d7cf-4b05-8d68-7d16856105b9",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 1 (January 2008).pdf",
+   "bytes": 13364233,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-16",
+  "publication": "game-developer",
+  "sequence": 163,
+  "number": "2",
+  "date": {
+   "display": "February 2008",
+   "start": "2008-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4fcde7b9-6a88-42cd-b5ee-96e521c96601",
+   "external_id": "4fcde7b9-6a88-42cd-b5ee-96e521c96601",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 2 (February 2008).pdf",
+   "bytes": 24288887,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-16",
+  "publication": "game-developer",
+  "sequence": 164,
+  "number": "3",
+  "date": {
+   "display": "March 2008",
+   "start": "2008-03",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb77bf06-dc75-41b8-a543-108d722ec108",
+   "external_id": "bb77bf06-dc75-41b8-a543-108d722ec108",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 3 (March 2008).pdf",
+   "bytes": 16464243,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-15",
+  "publication": "game-developer",
+  "sequence": 165,
+  "number": "4",
+  "date": {
+   "display": "April 2008",
+   "start": "2008-04",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc1cf67b-d52f-4d3b-bd76-5d454ea2e3af",
+   "external_id": "bc1cf67b-d52f-4d3b-bd76-5d454ea2e3af",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 4 (April 2008).pdf",
+   "bytes": 18691799,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-14",
+  "publication": "game-developer",
+  "sequence": 166,
+  "number": "5",
+  "date": {
+   "display": "May 2008",
+   "start": "2008-05",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b84146d-45e1-44cc-93c0-f9ffacaaff24",
+   "external_id": "8b84146d-45e1-44cc-93c0-f9ffacaaff24",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 5 (May 2008).pdf",
+   "bytes": 40417145,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-13",
+  "publication": "game-developer",
+  "sequence": 167,
+  "number": "6",
+  "date": {
+   "display": "June/July 2008",
+   "start": "2008-06",
+   "precision": "month",
+   "end": "2008-07"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1f6a87c2-3218-4a2e-bbfa-e92acd5ba8e6",
+   "external_id": "1f6a87c2-3218-4a2e-bbfa-e92acd5ba8e6",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 6 (June-July 2008).pdf",
+   "bytes": 20371912,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-12",
+  "publication": "game-developer",
+  "sequence": 168,
+  "number": "7",
+  "date": {
+   "display": "August 2008",
+   "start": "2008-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/13848027-c17a-4e84-8f70-404d85aa96b9",
+   "external_id": "13848027-c17a-4e84-8f70-404d85aa96b9",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 7 (August 2008).pdf",
+   "bytes": 16466281,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-12",
+  "publication": "game-developer",
+  "sequence": 169,
+  "number": "8",
+  "date": {
+   "display": "September 2008",
+   "start": "2008-09",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d564f90-f86a-48db-ad28-94b5ba8bf24f",
+   "external_id": "9d564f90-f86a-48db-ad28-94b5ba8bf24f",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 8 (September 2008).pdf",
+   "bytes": 16726384,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-200809-2008-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 170,
+  "number": "special",
+  "date": {
+   "display": "Fall 2008",
+   "start": "2008-09",
+   "precision": "season"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 198.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3eb7e51e-4afb-4114-83cf-f9c88ec6e15c",
+   "external_id": "3eb7e51e-4afb-4114-83cf-f9c88ec6e15c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2008 Game Career Guide (Fall 2008).pdf",
+   "bytes": 73366698,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-12",
+  "publication": "game-developer",
+  "sequence": 171,
+  "number": "9",
+  "date": {
+   "display": "October 2008",
+   "start": "2008-10",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45b03d58-fb65-4b8c-92fa-901730bad110",
+   "external_id": "45b03d58-fb65-4b8c-92fa-901730bad110",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 9 (October 2008).pdf",
+   "bytes": 38749161,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-11",
+  "publication": "game-developer",
+  "sequence": 172,
+  "number": "10",
+  "date": {
+   "display": "November 2008",
+   "start": "2008-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2e0d4f70-293d-4bce-a62d-62c8dd3eb597",
+   "external_id": "2e0d4f70-293d-4bce-a62d-62c8dd3eb597",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 10 (November 2008).pdf",
+   "bytes": 11638064,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-11",
+  "publication": "game-developer",
+  "sequence": 173,
+  "number": "11",
+  "date": {
+   "display": "December 2008",
+   "start": "2008-12",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c05ae0f5-c39b-4b03-bd20-c4e79780c5be",
+   "external_id": "c05ae0f5-c39b-4b03-bd20-c4e79780c5be",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 15, Number 11 (December 2008).pdf",
+   "bytes": 9504025,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-17",
+  "publication": "game-developer",
+  "sequence": 174,
+  "number": "1",
+  "date": {
+   "display": "January 2009",
+   "start": "2009-01",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 262.7,
+   "height_mm": 355.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/66f3de7a-7006-4738-87fc-b0a8173a5bee",
+   "external_id": "66f3de7a-7006-4738-87fc-b0a8173a5bee",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 1 (January 2009).pdf",
+   "bytes": 42044533,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-17",
+  "publication": "game-developer",
+  "sequence": 175,
+  "number": "2",
+  "date": {
+   "display": "February 2009",
+   "start": "2009-02",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 262.7,
+   "height_mm": 355.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/05c3bdb1-adce-4196-b8ff-b6414288d5d9",
+   "external_id": "05c3bdb1-adce-4196-b8ff-b6414288d5d9",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 2 (February 2009).pdf",
+   "bytes": 68035201,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-17",
+  "publication": "game-developer",
+  "sequence": 176,
+  "number": "3",
+  "date": {
+   "display": "March 2009",
+   "start": "2009-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/67dcb767-f212-4064-9729-05510b9d0513",
+   "external_id": "67dcb767-f212-4064-9729-05510b9d0513",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 3 (March 2009).pdf",
+   "bytes": 21464209,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-16",
+  "publication": "game-developer",
+  "sequence": 177,
+  "number": "4",
+  "date": {
+   "display": "April 2009",
+   "start": "2009-04",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 262.7,
+   "height_mm": 355.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1ccd375a-c4c1-4e0f-b980-19d83f04d021",
+   "external_id": "1ccd375a-c4c1-4e0f-b980-19d83f04d021",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 4 (April 2009).pdf",
+   "bytes": 49666279,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-15",
+  "publication": "game-developer",
+  "sequence": 178,
+  "number": "5",
+  "date": {
+   "display": "May 2009",
+   "start": "2009-05",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 262.7,
+   "height_mm": 355.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/09aa3ca8-e4d1-4375-b830-133b9b5f91d7",
+   "external_id": "09aa3ca8-e4d1-4375-b830-133b9b5f91d7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 5 (May 2009).pdf",
+   "bytes": 62745447,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-14",
+  "publication": "game-developer",
+  "sequence": 179,
+  "number": "6",
+  "date": {
+   "display": "June/July 2009",
+   "start": "2009-06",
+   "precision": "month",
+   "end": "2009-07"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2742dbb7-24f7-47cd-838e-9841bd7478d7",
+   "external_id": "2742dbb7-24f7-47cd-838e-9841bd7478d7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 6 (June-July 2009).pdf",
+   "bytes": 68454287,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-13",
+  "publication": "game-developer",
+  "sequence": 180,
+  "number": "7",
+  "date": {
+   "display": "August 2009",
+   "start": "2009-08",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9b6c062f-631e-4b07-a9e9-5addd1375e74",
+   "external_id": "9b6c062f-631e-4b07-a9e9-5addd1375e74",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 7 (August 2009).pdf",
+   "bytes": 12619364,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-13",
+  "publication": "game-developer",
+  "sequence": 181,
+  "number": "8",
+  "date": {
+   "display": "September 2009",
+   "start": "2009-09",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/28df342f-b42a-428f-9075-759010f3825e",
+   "external_id": "28df342f-b42a-428f-9075-759010f3825e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 8 (September 2009).pdf",
+   "bytes": 31206565,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-13",
+  "publication": "game-developer",
+  "sequence": 182,
+  "number": "9",
+  "date": {
+   "display": "October 2009",
+   "start": "2009-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/04b7be34-b6f0-43c2-850f-0b6d4dbda9a4",
+   "external_id": "04b7be34-b6f0-43c2-850f-0b6d4dbda9a4",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 9 (October 2009).pdf",
+   "bytes": 57034593,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-12",
+  "publication": "game-developer",
+  "sequence": 183,
+  "number": "10",
+  "date": {
+   "display": "November 2009",
+   "start": "2009-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/31b25fb3-0602-45f6-aae7-45aa2eb93424",
+   "external_id": "31b25fb3-0602-45f6-aae7-45aa2eb93424",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 10 (November 2009).pdf",
+   "bytes": 10246351,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-12",
+  "publication": "game-developer",
+  "sequence": 184,
+  "number": "11",
+  "date": {
+   "display": "December 2009",
+   "start": "2009-12",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/617c3569-fc0c-4845-8327-b94382a3dce7",
+   "external_id": "617c3569-fc0c-4845-8327-b94382a3dce7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 16, Number 11 (December 2009).pdf",
+   "bytes": 23997954,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-18",
+  "publication": "game-developer",
+  "sequence": 185,
+  "number": "1",
+  "date": {
+   "display": "January 2010",
+   "start": "2010-01",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b748ca4f-cdc9-4b66-bb90-888e970b8c56",
+   "external_id": "b748ca4f-cdc9-4b66-bb90-888e970b8c56",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 1 (January 2010).pdf",
+   "bytes": 9207244,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-18",
+  "publication": "game-developer",
+  "sequence": 186,
+  "number": "2",
+  "date": {
+   "display": "February 2010",
+   "start": "2010-02",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5f2f8242-6d16-4570-afef-0bac77e921fa",
+   "external_id": "5f2f8242-6d16-4570-afef-0bac77e921fa",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 2 (February 2010).pdf",
+   "bytes": 504052140,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-18",
+  "publication": "game-developer",
+  "sequence": 187,
+  "number": "3",
+  "date": {
+   "display": "March 2010",
+   "start": "2010-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0ae4dfc2-66f7-4caf-8a19-562fd67eef8f",
+   "external_id": "0ae4dfc2-66f7-4caf-8a19-562fd67eef8f",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 3 (March 2010).pdf",
+   "bytes": 22079631,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-17",
+  "publication": "game-developer",
+  "sequence": 188,
+  "number": "4",
+  "date": {
+   "display": "April 2010",
+   "start": "2010-04",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93c1c9ea-6d8c-4cb7-94ef-8731c06eb2b0",
+   "external_id": "93c1c9ea-6d8c-4cb7-94ef-8731c06eb2b0",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 4 (April 2010).pdf",
+   "bytes": 23142294,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-16",
+  "publication": "game-developer",
+  "sequence": 189,
+  "number": "5",
+  "date": {
+   "display": "May 2010",
+   "start": "2010-05",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4428b532-7dd9-43ab-836f-78fac3094853",
+   "external_id": "4428b532-7dd9-43ab-836f-78fac3094853",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 5 (May 2010).pdf",
+   "bytes": 10006203,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-15",
+  "publication": "game-developer",
+  "sequence": 190,
+  "number": "6",
+  "date": {
+   "display": "June/July 2010",
+   "start": "2010-06",
+   "precision": "month",
+   "end": "2010-07"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2a4d2780-7c26-442f-9524-832e6a665a46",
+   "external_id": "2a4d2780-7c26-442f-9524-832e6a665a46",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 6 (June-July 2010).pdf",
+   "bytes": 9635553,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-14",
+  "publication": "game-developer",
+  "sequence": 191,
+  "number": "7",
+  "date": {
+   "display": "August 2010",
+   "start": "2010-08",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4d763808-b83a-4f25-a68b-d7528981c2cf",
+   "external_id": "4d763808-b83a-4f25-a68b-d7528981c2cf",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 7 (August 2010).pdf",
+   "bytes": 10945312,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-14",
+  "publication": "game-developer",
+  "sequence": 192,
+  "number": "8",
+  "date": {
+   "display": "September 2010",
+   "start": "2010-09",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1f04d174-c243-48db-8b95-f3fcbb7304cd",
+   "external_id": "1f04d174-c243-48db-8b95-f3fcbb7304cd",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 8 (September 2010).pdf",
+   "bytes": 13262304,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-201009-2010-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 193,
+  "number": "special",
+  "date": {
+   "display": "Fall 2010",
+   "start": "2010-09",
+   "precision": "season"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 1217.5,
+   "height_mm": 1651.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/63880860-c184-4dd7-8da0-7159574c2dcd",
+   "external_id": "63880860-c184-4dd7-8da0-7159574c2dcd",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2010 Game Career Guide (Fall 2010).pdf",
+   "bytes": 66253013,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-14",
+  "publication": "game-developer",
+  "sequence": 194,
+  "number": "9",
+  "date": {
+   "display": "October 2010",
+   "start": "2010-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6678d317-0ca5-41e7-a3d2-fab2ffdee76e",
+   "external_id": "6678d317-0ca5-41e7-a3d2-fab2ffdee76e",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 9 (October 2010).pdf",
+   "bytes": 11399443,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-13",
+  "publication": "game-developer",
+  "sequence": 195,
+  "number": "10",
+  "date": {
+   "display": "November 2010",
+   "start": "2010-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5804ccb1-8366-4843-8611-70423d0e215a",
+   "external_id": "5804ccb1-8366-4843-8611-70423d0e215a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 10 (November 2010).pdf",
+   "bytes": 9682911,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-13",
+  "publication": "game-developer",
+  "sequence": 196,
+  "number": "11",
+  "date": {
+   "display": "December 2010",
+   "start": "2010-12",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/35a1bc25-ebb7-4396-b828-6c4aed4d1641",
+   "external_id": "35a1bc25-ebb7-4396-b828-6c4aed4d1641",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 17, Number 11 (December 2010).pdf",
+   "bytes": 8648702,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-19",
+  "publication": "game-developer",
+  "sequence": 197,
+  "number": "1",
+  "date": {
+   "display": "January 2011",
+   "start": "2011-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/114197ff-6b2a-488c-847f-cb5f63a7b4d7",
+   "external_id": "114197ff-6b2a-488c-847f-cb5f63a7b4d7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 1 (January 2011).pdf",
+   "bytes": 14280515,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-19",
+  "publication": "game-developer",
+  "sequence": 198,
+  "number": "2",
+  "date": {
+   "display": "February 2011",
+   "start": "2011-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dffa7bc5-484a-4616-a814-973161295d61",
+   "external_id": "dffa7bc5-484a-4616-a814-973161295d61",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 2 (February 2011).pdf",
+   "bytes": 36203440,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-19",
+  "publication": "game-developer",
+  "sequence": 199,
+  "number": "3",
+  "date": {
+   "display": "March 2011",
+   "start": "2011-03",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/00185fa3-5c10-44c6-9663-ef373362a458",
+   "external_id": "00185fa3-5c10-44c6-9663-ef373362a458",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 3 (March 2011).pdf",
+   "bytes": 13586646,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-18",
+  "publication": "game-developer",
+  "sequence": 200,
+  "number": "4",
+  "date": {
+   "display": "April 2011",
+   "start": "2011-04",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38f42de3-e41f-4b27-b769-14300d9e3a6d",
+   "external_id": "38f42de3-e41f-4b27-b769-14300d9e3a6d",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 4 (April 2011).pdf",
+   "bytes": 10349520,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-17",
+  "publication": "game-developer",
+  "sequence": 201,
+  "number": "5",
+  "date": {
+   "display": "May 2011",
+   "start": "2011-05",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/03439b27-e3ca-4263-94e7-e458fbd1199c",
+   "external_id": "03439b27-e3ca-4263-94e7-e458fbd1199c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 5 (May 2011).pdf",
+   "bytes": 14450665,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-16",
+  "publication": "game-developer",
+  "sequence": 202,
+  "number": "6",
+  "date": {
+   "display": "June/July 2011",
+   "start": "2011-06",
+   "precision": "month",
+   "end": "2011-07"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29835be3-94da-4640-ae62-c7135092e57a",
+   "external_id": "29835be3-94da-4640-ae62-c7135092e57a",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 6 (June-July 2011).pdf",
+   "bytes": 14935672,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-7-15",
+  "publication": "game-developer",
+  "sequence": 203,
+  "number": "7",
+  "date": {
+   "display": "August 2011",
+   "start": "2011-08",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bd384575-48f9-406c-992d-b4cca4e34348",
+   "external_id": "bd384575-48f9-406c-992d-b4cca4e34348",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 7 (August 2011).pdf",
+   "bytes": 10615474,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-15",
+  "publication": "game-developer",
+  "sequence": 204,
+  "number": "8",
+  "date": {
+   "display": "September 2011",
+   "start": "2011-09",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0ee73f29-7875-4614-8d2e-8a88d0d82d11",
+   "external_id": "0ee73f29-7875-4614-8d2e-8a88d0d82d11",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 8 (September 2011).pdf",
+   "bytes": 7978662,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-201109-2011-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 205,
+  "number": "special",
+  "date": {
+   "display": "Fall 2011",
+   "start": "2011-09",
+   "precision": "season"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/72890294-724b-4fd7-911e-49ec5b57ec04",
+   "external_id": "72890294-724b-4fd7-911e-49ec5b57ec04",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2011 Game Career Guide (Fall 2011).pdf",
+   "bytes": 62877170,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-15",
+  "publication": "game-developer",
+  "sequence": 206,
+  "number": "9",
+  "date": {
+   "display": "October 2011",
+   "start": "2011-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/028225c4-4835-4cd5-a8fc-4259d4498072",
+   "external_id": "028225c4-4835-4cd5-a8fc-4259d4498072",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 9 (October 2011).pdf",
+   "bytes": 15913279,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-14",
+  "publication": "game-developer",
+  "sequence": 207,
+  "number": "10",
+  "date": {
+   "display": "November 2011",
+   "start": "2011-11",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/47ea5ec6-42f0-434e-b08d-9a1a4b371f84",
+   "external_id": "47ea5ec6-42f0-434e-b08d-9a1a4b371f84",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 10 (November 2011).pdf",
+   "bytes": 8219551,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-14",
+  "publication": "game-developer",
+  "sequence": 208,
+  "number": "11",
+  "date": {
+   "display": "December 2011",
+   "start": "2011-12",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/41872a31-9c9d-406a-af06-c91f463443d3",
+   "external_id": "41872a31-9c9d-406a-af06-c91f463443d3",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 18, Number 11 (December 2011).pdf",
+   "bytes": 25627648,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-20",
+  "publication": "game-developer",
+  "sequence": 209,
+  "number": "1",
+  "date": {
+   "display": "January 2012",
+   "start": "2012-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/115731e6-2d78-4bb6-b76f-fd768f0d9701",
+   "external_id": "115731e6-2d78-4bb6-b76f-fd768f0d9701",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 1 (January 2012).pdf",
+   "bytes": 15806513,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-20",
+  "publication": "game-developer",
+  "sequence": 210,
+  "number": "2",
+  "date": {
+   "display": "February 2012",
+   "start": "2012-02",
+   "precision": "month"
+  },
+  "pages": 85,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e78123f2-5f9a-446a-8c51-35e194e5f0b6",
+   "external_id": "e78123f2-5f9a-446a-8c51-35e194e5f0b6",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 2 (February 2012).pdf",
+   "bytes": 20487123,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-20",
+  "publication": "game-developer",
+  "sequence": 211,
+  "number": "3",
+  "date": {
+   "display": "March 2012",
+   "start": "2012-03",
+   "precision": "month"
+  },
+  "pages": 61,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/290f41d3-bafa-4094-9e59-2cb6ee389288",
+   "external_id": "290f41d3-bafa-4094-9e59-2cb6ee389288",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 3 (March 2012).pdf",
+   "bytes": 13894313,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-19",
+  "publication": "game-developer",
+  "sequence": 212,
+  "number": "4",
+  "date": {
+   "display": "April 2012",
+   "start": "2012-04",
+   "precision": "month"
+  },
+  "pages": 61,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e5cb1aab-307e-4499-aa13-1cf27e7e0032",
+   "external_id": "e5cb1aab-307e-4499-aa13-1cf27e7e0032",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 4 (April 2012).pdf",
+   "bytes": 13826702,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-18",
+  "publication": "game-developer",
+  "sequence": 213,
+  "number": "5",
+  "date": {
+   "display": "May 2012",
+   "start": "2012-05",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/605c1521-f1aa-409b-bda9-b73da8a37bfb",
+   "external_id": "605c1521-f1aa-409b-bda9-b73da8a37bfb",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 5 (May 2012).pdf",
+   "bytes": 13652082,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-17",
+  "publication": "game-developer",
+  "sequence": 214,
+  "number": "6",
+  "date": {
+   "display": "June/July 2012",
+   "start": "2012-06",
+   "precision": "month",
+   "end": "2012-07"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8deb8789-0e57-45ca-95b9-46752a170d89",
+   "external_id": "8deb8789-0e57-45ca-95b9-46752a170d89",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 6 (June-July 2012).pdf",
+   "bytes": 375669913,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-8-16",
+  "publication": "game-developer",
+  "sequence": 215,
+  "number": "8",
+  "date": {
+   "display": "August 2012",
+   "start": "2012-08",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/01e8c073-0512-47e3-a8f6-fbfb2dda194f",
+   "external_id": "01e8c073-0512-47e3-a8f6-fbfb2dda194f",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 8 (August 2012).pdf",
+   "bytes": 20532585,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-9-16",
+  "publication": "game-developer",
+  "sequence": 216,
+  "number": "9",
+  "date": {
+   "display": "September 2012",
+   "start": "2012-09",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/be3254e7-80b4-476c-880a-b396156ba485",
+   "external_id": "be3254e7-80b4-476c-880a-b396156ba485",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 9 (September 2012).pdf",
+   "bytes": 15553389,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-201209-2012-game-career-guide",
+  "publication": "game-developer",
+  "sequence": 217,
+  "number": "special",
+  "date": {
+   "display": "Fall 2012",
+   "start": "2012-09",
+   "precision": "season"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 198.8,
+   "height_mm": 269.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c98dda74-680a-4d79-a7bc-5c7bc7d63148",
+   "external_id": "c98dda74-680a-4d79-a7bc-5c7bc7d63148",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, 2012 Game Career Guide (Fall 2012).pdf",
+   "bytes": 70408458,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-10-15",
+  "publication": "game-developer",
+  "sequence": 218,
+  "number": "10",
+  "date": {
+   "display": "October 2012",
+   "start": "2012-10",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/02414a41-cc04-4eb9-a645-4d7f57f8ace8",
+   "external_id": "02414a41-cc04-4eb9-a645-4d7f57f8ace8",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 10 (October 2012).pdf",
+   "bytes": 11941355,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-11-15",
+  "publication": "game-developer",
+  "sequence": 219,
+  "number": "11",
+  "date": {
+   "display": "November 2012",
+   "start": "2012-11",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/48ad51de-1bf4-498b-83bd-02d9f30e8d5c",
+   "external_id": "48ad51de-1bf4-498b-83bd-02d9f30e8d5c",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 11 (November 2012).pdf",
+   "bytes": 15485395,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-12-7",
+  "publication": "game-developer",
+  "sequence": 220,
+  "number": "12",
+  "date": {
+   "display": "December 2012",
+   "start": "2012-12",
+   "precision": "month"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6213a09-4f5e-4847-9c3e-da4df5afc392",
+   "external_id": "e6213a09-4f5e-4847-9c3e-da4df5afc392",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 19, Number 12 (December 2012).pdf",
+   "bytes": 13534715,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-1-21",
+  "publication": "game-developer",
+  "sequence": 221,
+  "number": "1",
+  "date": {
+   "display": "January 2013",
+   "start": "2013-01",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8ef7c317-68bf-4e1b-9ef9-51b8e6273718",
+   "external_id": "8ef7c317-68bf-4e1b-9ef9-51b8e6273718",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 20, Number 1 (January 2013).pdf",
+   "bytes": 11077215,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-2-21",
+  "publication": "game-developer",
+  "sequence": 222,
+  "number": "2",
+  "date": {
+   "display": "February 2013",
+   "start": "2013-02",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0ebb7033-7228-40fc-bd0d-8246484efb51",
+   "external_id": "0ebb7033-7228-40fc-bd0d-8246484efb51",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 20, Number 2 (February 2013).pdf",
+   "bytes": 24048219,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-3-21",
+  "publication": "game-developer",
+  "sequence": 223,
+  "number": "3",
+  "date": {
+   "display": "March 2013",
+   "start": "2013-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 196.8,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/465251c8-89cf-4db7-b0f5-fd8228aaadea",
+   "external_id": "465251c8-89cf-4db7-b0f5-fd8228aaadea",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 20, Number 3 (March 2013).pdf",
+   "bytes": 39493981,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-4-20",
+  "publication": "game-developer",
+  "sequence": 224,
+  "number": "4",
+  "date": {
+   "display": "April 2013",
+   "start": "2013-04",
+   "precision": "month"
+  },
+  "pages": 78,
+  "dimensions": {
+   "width_mm": 189.7,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1fa5b12-5a6f-4b4f-b3c8-4fd4554d8c77",
+   "external_id": "f1fa5b12-5a6f-4b4f-b3c8-4fd4554d8c77",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 20, Number 4 (April 2013).pdf",
+   "bytes": 15561497,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-5-19",
+  "publication": "game-developer",
+  "sequence": 225,
+  "number": "5",
+  "date": {
+   "display": "May 2013",
+   "start": "2013-05",
+   "precision": "month"
+  },
+  "pages": 70,
+  "dimensions": {
+   "width_mm": 189.7,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0cdb9f1-23e5-4ddf-983a-a24ef80ad1a7",
+   "external_id": "c0cdb9f1-23e5-4ddf-983a-a24ef80ad1a7",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 20, Number 5 (May 2013).pdf",
+   "bytes": 8596004,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ },
+ {
+  "id": "game-developer-6-18",
+  "publication": "game-developer",
+  "sequence": 226,
+  "number": "6",
+  "date": {
+   "display": "June/July 2013",
+   "start": "2013-06",
+   "precision": "month",
+   "end": "2013-07"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 196.1,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d98f6c76-ecf9-47b4-a428-ab15f196bb09",
+   "external_id": "d98f6c76-ecf9-47b4-a428-ab15f196bb09",
+   "retrieved_at": "2026-09-14T09:33:41+00:00"
+  },
+  "files": {
+   "pdf": "library/game-developer/pdf/Game Developer, Volume 20, Number 6 (June-July 2013).pdf",
+   "bytes": 9289657,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:41+00:00"
+ }
+]

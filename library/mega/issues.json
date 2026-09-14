@@ -1,1 +1,422 @@
-[]
+[
+ {
+  "id": "mega-1",
+  "publication": "mega",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 67.7,
+   "height_mm": 87.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ab99372-8a15-4173-a420-39e8cbfb4b29",
+   "external_id": "3ab99372-8a15-4173-a420-39e8cbfb4b29",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 1 (October 1992).pdf",
+   "bytes": 66032484,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-3",
+  "publication": "mega",
+  "sequence": 2,
+  "number": "3",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 141.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c30feb4-2fec-4701-961c-c38656e709ef",
+   "external_id": "4c30feb4-2fec-4701-961c-c38656e709ef",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 3 (December 1992).pdf",
+   "bytes": 236815779,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-5",
+  "publication": "mega",
+  "sequence": 3,
+  "number": "5",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 146.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9afef0a1-365d-4c7a-9de7-11c53e7c50d7",
+   "external_id": "9afef0a1-365d-4c7a-9de7-11c53e7c50d7",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 5 (February 1993).pdf",
+   "bytes": 238999701,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-6",
+  "publication": "mega",
+  "sequence": 4,
+  "number": "6",
+  "date": {
+   "display": "March 1993",
+   "start": "1993-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 140.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f49ed59f-c486-481e-8592-a636c60a3c18",
+   "external_id": "f49ed59f-c486-481e-8592-a636c60a3c18",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 6 (March 1993).pdf",
+   "bytes": 233289464,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-8",
+  "publication": "mega",
+  "sequence": 5,
+  "number": "8",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 140.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/081bc151-265c-41c5-8395-261fa5b5b34d",
+   "external_id": "081bc151-265c-41c5-8395-261fa5b5b34d",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 8 (May 1993).pdf",
+   "bytes": 246078845,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-9",
+  "publication": "mega",
+  "sequence": 6,
+  "number": "9",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 141.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b348e533-857f-4919-8cb2-4923bab9c2f9",
+   "external_id": "b348e533-857f-4919-8cb2-4923bab9c2f9",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 9 (June 1993).pdf",
+   "bytes": 186894309,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-10",
+  "publication": "mega",
+  "sequence": 7,
+  "number": "10",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 141.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/02dc4465-0d43-48a6-bb73-c6dcda98affb",
+   "external_id": "02dc4465-0d43-48a6-bb73-c6dcda98affb",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 10 (July 1993).pdf",
+   "bytes": 182267594,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-12",
+  "publication": "mega",
+  "sequence": 8,
+  "number": "12",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 141.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/19b34799-3029-4eb7-872f-f56089c314ec",
+   "external_id": "19b34799-3029-4eb7-872f-f56089c314ec",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 12 (September 1993).pdf",
+   "bytes": 211371104,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-13",
+  "publication": "mega",
+  "sequence": 9,
+  "number": "13",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 141.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa1ec58b-247f-4827-90be-86437426f330",
+   "external_id": "fa1ec58b-247f-4827-90be-86437426f330",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 13 (October 1993).pdf",
+   "bytes": 201500973,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-14",
+  "publication": "mega",
+  "sequence": 10,
+  "number": "14",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 141.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9ddf8a8e-fcec-4caa-9d8e-6a8adf29ff02",
+   "external_id": "9ddf8a8e-fcec-4caa-9d8e-6a8adf29ff02",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 14 (November 1993).pdf",
+   "bytes": 219068483,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-15",
+  "publication": "mega",
+  "sequence": 11,
+  "number": "15",
+  "date": {
+   "display": "December 1993",
+   "start": "1993-12",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 108.4,
+   "height_mm": 141.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d36342d8-62ae-4d98-81e0-d0a632ae8791",
+   "external_id": "d36342d8-62ae-4d98-81e0-d0a632ae8791",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 15 (December 1993).pdf",
+   "bytes": 205347704,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "mega-16",
+  "publication": "mega",
+  "sequence": 12,
+  "number": "16",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 67.7,
+   "height_mm": 87.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f7ce6183-3152-4e59-9f46-41487caff88d",
+   "external_id": "f7ce6183-3152-4e59-9f46-41487caff88d",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/mega/pdf/Mega, Issue 16 (January 1994).pdf",
+   "bytes": 90775369,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/mega-16.jpg",
+   "pages_rendered": false
+  }
+ }
+]

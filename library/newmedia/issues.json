@@ -1,1 +1,353 @@
-[]
+[
+ {
+  "id": "newmedia-12",
+  "publication": "newmedia",
+  "sequence": 1,
+  "number": "12",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 93,
+  "dimensions": {
+   "width_mm": 210.2,
+   "height_mm": 276.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3562fadd-cb00-43ed-925b-d962a9d3b8ea",
+   "external_id": "3562fadd-cb00-43ed-925b-d962a9d3b8ea",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 2, Number 12 (December 1992).pdf",
+   "bytes": 96171299,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-5",
+  "publication": "newmedia",
+  "sequence": 2,
+  "number": "5",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 101,
+  "dimensions": {
+   "width_mm": 212.4,
+   "height_mm": 276.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a1aa66a0-23da-4687-bbb0-7f1ecc42d092",
+   "external_id": "a1aa66a0-23da-4687-bbb0-7f1ecc42d092",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 3, Number 5 (May 1993).pdf",
+   "bytes": 108506975,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-8",
+  "publication": "newmedia",
+  "sequence": 3,
+  "number": "8",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 203.4,
+   "height_mm": 271.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ee6cc8a-fadf-4949-b140-b53b850de9cf",
+   "external_id": "6ee6cc8a-fadf-4949-b140-b53b850de9cf",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 3, Number 8 (August 1993).pdf",
+   "bytes": 121696042,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-1",
+  "publication": "newmedia",
+  "sequence": 4,
+  "number": "1",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 135,
+  "dimensions": {
+   "width_mm": 200.5,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ce64530e-2584-40bd-9c4d-f02311f39b85",
+   "external_id": "ce64530e-2584-40bd-9c4d-f02311f39b85",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 4, Number 1 (January 1994).pdf",
+   "bytes": 138613442,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-8-2",
+  "publication": "newmedia",
+  "sequence": 5,
+  "number": "8",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 135,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ed4c1068-287a-4e46-a6b6-ff04116ed180",
+   "external_id": "ed4c1068-287a-4e46-a6b6-ff04116ed180",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 4, Number 8 (August 1994).pdf",
+   "bytes": 125787709,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-5-2",
+  "publication": "newmedia",
+  "sequence": 6,
+  "number": "5",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7edc6660-e2e2-4d25-a082-801ad375d568",
+   "external_id": "7edc6660-e2e2-4d25-a082-801ad375d568",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 5, Number 5 (May 1995).pdf",
+   "bytes": 140108632,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 5,
+  "assets": {
+   "cover": "site/public/covers/newmedia-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-8-3",
+  "publication": "newmedia",
+  "sequence": 7,
+  "number": "8",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 204.0,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dba134cd-b9d0-4c97-9147-5e678b770344",
+   "external_id": "dba134cd-b9d0-4c97-9147-5e678b770344",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 5, Number 8 (August 1995).pdf",
+   "bytes": 149672310,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-8-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-9",
+  "publication": "newmedia",
+  "sequence": 8,
+  "number": "9",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f16f67e0-25e3-4505-858e-78bc6378c5a0",
+   "external_id": "f16f67e0-25e3-4505-858e-78bc6378c5a0",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 5, Number 9 (September 1995).pdf",
+   "bytes": 113673161,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-10",
+  "publication": "newmedia",
+  "sequence": 9,
+  "number": "10",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/32b6a276-d1bc-4e23-8bc9-28e90caa39f2",
+   "external_id": "32b6a276-d1bc-4e23-8bc9-28e90caa39f2",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 5, Number 10 (October 1995).pdf",
+   "bytes": 112030044,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "newmedia-14",
+  "publication": "newmedia",
+  "sequence": 10,
+  "number": "14",
+  "date": {
+   "display": "October 28, 1996",
+   "start": "1996-10-28",
+   "precision": "day"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 203.5,
+   "height_mm": 270.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e19f8e2a-1cdc-4f15-b3ad-aa8c621d68b7",
+   "external_id": "e19f8e2a-1cdc-4f15-b3ad-aa8c621d68b7",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/newmedia/pdf/NewMedia, Volume 6, Number 14 (October 28, 1996).pdf",
+   "bytes": 85818555,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/newmedia-14.jpg",
+   "pages_rendered": false
+  }
+ }
+]

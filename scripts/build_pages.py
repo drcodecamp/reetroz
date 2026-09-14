@@ -2,7 +2,8 @@
 """Turn library/ PDFs into web assets for the Next.js site.
 
 Always:
-  * renders a cover thumbnail for every issue with a PDF into site/public/covers/<issue-id>.jpg
+  * renders a cover thumbnail for every issue with a PDF into
+    H:/cat-library/covers/<issue-id>.jpg
   * writes site/src/data/catalog.json   (light issue records for the site)
   * writes site/src/data/publications.json (publication records + counts)
   * updates assets/stats back into library/<pub>/issues.json and publication.json
@@ -27,28 +28,45 @@ import argparse
 import io
 import json
 import time
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 
 import pymupdf
 from PIL import Image
 
-from library_paths import ROOT, resolve_pdf
+from library_paths import COVERS_ROOT, ROOT, cover_path, pages_dir, resolve_pdf
 
 LIB = ROOT / "library"
 SITE = ROOT / "site"
-COVERS_DIR = SITE / "public" / "covers"
-PAGES_DIR = SITE / "public" / "pages"
 DATA_DIR = SITE / "src" / "data"
 
 THUMB_WIDTH = 240
 THUMB_QUALITY = 72
 FALLBACK_JPEG_QUALITY = 88  # only used when a page has to be rendered instead of extracted
-# Experiment: re-encode the read tier as WebP instead of keeping the source JPEG.
-# Set via --webp-read / --webp-quality. Off by default (source JPEGs are already ~q64).
-WEBP_READ: int | None = None
+# Read-tier WebP. Set via --webp-read / --webp-quality, or CAT_WEBP_QUALITY (workers).
+WEBP_READ: int | None = int(os.environ["CAT_WEBP_QUALITY"]) if os.environ.get("CAT_WEBP_QUALITY") else None
+READ_SCALE: float = float(os.environ.get("CAT_READ_SCALE", "1"))
 MAX_FALLBACK_WIDTH = 1600
 COVER_HEIGHT = 600
+
+
+def encoder_id() -> str:
+    if not WEBP_READ:
+        return "jpeg-native"
+    return f"webp-checked-v1-s{int(round(READ_SCALE * 100))}-q{WEBP_READ}"
+
+
+def shrink_read(img: Image.Image) -> Image.Image:
+    """Downscale read-tier pages. Even sides keep WebP 4:2:0 chroma aligned."""
+    if READ_SCALE >= 0.999:
+        return img
+    w, h = img.size
+    nw = max(2, int(round(w * READ_SCALE))) & ~1
+    nh = max(2, int(round(h * READ_SCALE))) & ~1
+    if (nw, nh) == (w, h):
+        return img
+    return img.resize((nw, nh), Image.Resampling.LANCZOS)
 
 
 def era_for(year: int) -> str:
@@ -85,15 +103,18 @@ def render_cover(issue: dict, force: bool = False) -> str | None:
     pdf = resolve_pdf(issue["files"]["pdf"])
     if not pdf.exists():
         return None
-    COVERS_DIR.mkdir(parents=True, exist_ok=True)
-    out = COVERS_DIR / f"{issue['id']}.jpg"
+    COVERS_ROOT.mkdir(parents=True, exist_ok=True)
+    out = cover_path(issue["id"])
     if not out.exists() or force:
-        doc = pymupdf.open(pdf)
-        page = doc[0]
-        zoom = COVER_HEIGHT / page.rect.height
-        pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False)
-        pix_to_image(pix).save(out, "JPEG", quality=84, optimize=True)
-        doc.close()
+        try:
+            doc = pymupdf.open(pdf)
+            page = doc[0]
+            zoom = COVER_HEIGHT / page.rect.height
+            pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False)
+            pix_to_image(pix).save(out, "JPEG", quality=84, optimize=True)
+            doc.close()
+        except Exception:
+            return None
     return f"/covers/{out.name}"
 
 
@@ -123,9 +144,49 @@ def extract_page(doc: pymupdf.Document, page: pymupdf.Page) -> tuple[bytes, str,
     return buf.getvalue(), "jpg", img.width, img.height
 
 
+def _mean_abs_err(src: Image.Image, other: Image.Image) -> float:
+    a = src.resize((64, 64), Image.Resampling.BOX).convert("RGB")
+    b = other.resize((64, 64), Image.Resampling.BOX).convert("RGB")
+    total = 0
+    n = 0
+    for p, q in zip(a.getdata(), b.getdata()):
+        total += abs(p[0] - q[0]) + abs(p[1] - q[1]) + abs(p[2] - q[2])
+        n += 1
+    return total / (n * 3)
+
+
+def save_webp_checked(img: Image.Image, dest: Path, quality: int, *, compare: bool = True) -> None:
+    """Encode WebP in memory, decode it, reject garbage, then write."""
+    rgb = img.convert("RGB")
+    last_error: Exception | None = None
+    # method=4/6 can emit well-formed but psychedelic WebPs under load; 0 is
+    # cheaper and retries usually clear the bad frames.
+    for method in (0, 0, 4, 0, 6, 0):
+        buf = io.BytesIO()
+        rgb.save(buf, "WEBP", quality=quality, method=method)
+        data = buf.getvalue()
+        try:
+            with Image.open(io.BytesIO(data)) as check:
+                check.load()
+                decoded = check.convert("RGB")
+                if decoded.size != rgb.size:
+                    raise ValueError(f"size {decoded.size} != {rgb.size}")
+                if compare and _mean_abs_err(rgb, decoded) > 18:
+                    raise ValueError("decoded WebP does not match source")
+            tmp = dest.with_name(dest.name + ".tmp")
+            tmp.write_bytes(data)
+            if dest.exists():
+                dest.unlink()
+            tmp.replace(dest)
+            return
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+    raise RuntimeError(f"WebP encode failed for {dest.name}: {last_error}")
+
+
 def render_issue(issue: dict, force: bool = False) -> dict:
     iid = issue["id"]
-    out_dir = PAGES_DIR / iid
+    out_dir = pages_dir(iid)
     (out_dir / "read").mkdir(parents=True, exist_ok=True)
     (out_dir / "thumb").mkdir(parents=True, exist_ok=True)
     read_ext = "webp" if WEBP_READ else "jpg"
@@ -150,13 +211,15 @@ def render_issue(issue: dict, force: bool = False) -> dict:
         if len(page.get_images()) != 1:
             fallbacks += 1
         with Image.open(io.BytesIO(data)) as img:
-            img = img.convert("RGB")
+            img.load()
+            img = shrink_read(img.convert("RGB"))
+            w, h = img.size
             if WEBP_READ:
-                img.save(read_path, "WEBP", quality=WEBP_READ, method=6)
+                save_webp_checked(img, read_path, WEBP_READ)
             else:
                 read_path.write_bytes(data)
             thumb = img.resize((THUMB_WIDTH, round(THUMB_WIDTH * h / w)), Image.Resampling.LANCZOS)
-            thumb.save(thumb_path, "WEBP", quality=THUMB_QUALITY, method=4)
+            save_webp_checked(thumb, thumb_path, THUMB_QUALITY, compare=False)
             color = average_color(thumb)
         pages_meta.append({"n": index, "w": w, "h": h, "color": color})
         if index % 50 == 0 or index == doc.page_count:
@@ -170,6 +233,7 @@ def render_issue(issue: dict, force: bool = False) -> dict:
         "date": issue["date"]["display"],
         "pages": doc.page_count,
         "format": {"read": read_ext, "thumb": "webp"},
+        "encoder": encoder_id(),
         "thumbWidth": THUMB_WIDTH,
         "pageList": pages_meta,
     }
@@ -186,13 +250,15 @@ def main() -> int:
     parser.add_argument("--publication", action="append", default=[], help="render every issue of a publication")
     parser.add_argument("--all", action="store_true")
     parser.add_argument("--force", action="store_true", help="re-render existing files")
-    parser.add_argument("--webp-read", action="store_true", help="EXPERIMENT: store read-size pages as WebP instead of the source JPEG")
+    parser.add_argument("--webp-read", action="store_true", help="store read-size pages as WebP instead of the source JPEG")
     parser.add_argument("--webp-quality", type=int, default=70)
+    parser.add_argument("--read-scale", type=float, default=1.0, help="shrink read-tier pages, e.g. 0.7")
     args = parser.parse_args()
 
-    global WEBP_READ
+    global WEBP_READ, READ_SCALE
     if args.webp_read:
         WEBP_READ = args.webp_quality
+    READ_SCALE = args.read_scale
 
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     providers = load_json(LIB / "providers.json")
@@ -200,6 +266,8 @@ def main() -> int:
     site_issues: list[dict] = []
     site_publications: list[dict] = []
     for pub_dir in sorted(p for p in LIB.iterdir() if p.is_dir()):
+        if not (pub_dir / "publication.json").exists() or not (pub_dir / "issues.json").exists():
+            continue
         pub = load_json(pub_dir / "publication.json")
         issues = load_json(pub_dir / "issues.json")
         publications.append(pub)
@@ -212,10 +280,10 @@ def main() -> int:
                 print(f"  done: {manifest['pages']} pages", flush=True)
 
             cover = render_cover(issue)
-            manifest_path = PAGES_DIR / issue["id"] / "manifest.json"
+            manifest_path = pages_dir(issue["id"]) / "manifest.json"
             assets = issue.setdefault("assets", {})
             if cover:
-                assets["cover"] = f"site/public/covers/{issue['id']}.jpg"
+                assets["cover"] = f"covers/{issue['id']}.jpg"
             assets["pages_rendered"] = manifest_path.exists()
             if manifest_path.exists():
                 assets["manifest"] = f"site/public/pages/{issue['id']}/manifest.json"

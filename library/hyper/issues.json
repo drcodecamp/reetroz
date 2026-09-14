@@ -1,1 +1,3432 @@
-[]
+[
+ {
+  "id": "hyper-2",
+  "publication": "hyper",
+  "sequence": 1,
+  "number": "2",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 232.7,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cbefff12-bd2e-492a-90c8-a63ed6d668ba",
+   "external_id": "cbefff12-bd2e-492a-90c8-a63ed6d668ba",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 2 (January 1994).pdf",
+   "bytes": 99652282,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-6",
+  "publication": "hyper",
+  "sequence": 2,
+  "number": "6",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/95f9678e-bc1d-4fcf-b4d1-cc9085ff4aa6",
+   "external_id": "95f9678e-bc1d-4fcf-b4d1-cc9085ff4aa6",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 6 (May 1994).pdf",
+   "bytes": 95799240,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-7",
+  "publication": "hyper",
+  "sequence": 3,
+  "number": "7",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/72157914-45ef-4bd5-ba03-3543c6a15511",
+   "external_id": "72157914-45ef-4bd5-ba03-3543c6a15511",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 7 (June 1994).pdf",
+   "bytes": 102197022,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-8",
+  "publication": "hyper",
+  "sequence": 4,
+  "number": "8",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/351d85a0-1247-442a-adcf-535f9160a478",
+   "external_id": "351d85a0-1247-442a-adcf-535f9160a478",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 8 (July 1994).pdf",
+   "bytes": 96887880,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-9",
+  "publication": "hyper",
+  "sequence": 5,
+  "number": "9",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 231.4,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0fc03458-1572-490f-8c4d-1c8fb06e0fd2",
+   "external_id": "0fc03458-1572-490f-8c4d-1c8fb06e0fd2",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 9 (August 1994).pdf",
+   "bytes": 98164108,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-10",
+  "publication": "hyper",
+  "sequence": 6,
+  "number": "10",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/78c7fa8b-467d-444e-b138-246893826840",
+   "external_id": "78c7fa8b-467d-444e-b138-246893826840",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 10 (September 1994).pdf",
+   "bytes": 98692247,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-11",
+  "publication": "hyper",
+  "sequence": 7,
+  "number": "11",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf0f2d56-116b-4788-9787-2b705341df17",
+   "external_id": "cf0f2d56-116b-4788-9787-2b705341df17",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 11 (October 1994).pdf",
+   "bytes": 95815285,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-12",
+  "publication": "hyper",
+  "sequence": 8,
+  "number": "12",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 233.3,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d4bc9dc8-c020-4df5-8ff8-b2e86bf57ddb",
+   "external_id": "d4bc9dc8-c020-4df5-8ff8-b2e86bf57ddb",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 12 (November 1994).pdf",
+   "bytes": 116966686,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-13",
+  "publication": "hyper",
+  "sequence": 9,
+  "number": "13",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/411324d4-7a95-462a-971c-a5028033fd38",
+   "external_id": "411324d4-7a95-462a-971c-a5028033fd38",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 13 (December 1994).pdf",
+   "bytes": 118412437,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-14",
+  "publication": "hyper",
+  "sequence": 10,
+  "number": "14",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/559c46b6-7bfb-43e1-90f4-269654f96686",
+   "external_id": "559c46b6-7bfb-43e1-90f4-269654f96686",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 14 (January 1995).pdf",
+   "bytes": 116566015,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-15",
+  "publication": "hyper",
+  "sequence": 11,
+  "number": "15",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a5cc8a75-0886-429b-9195-457308479dc9",
+   "external_id": "a5cc8a75-0886-429b-9195-457308479dc9",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 15 (February 1995).pdf",
+   "bytes": 94601611,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-16",
+  "publication": "hyper",
+  "sequence": 12,
+  "number": "16",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ae315135-240d-4a68-85a5-32052587a9bc",
+   "external_id": "ae315135-240d-4a68-85a5-32052587a9bc",
+   "retrieved_at": "2026-09-14T09:49:26+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 16 (March 1995).pdf",
+   "bytes": 102619239,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:49:26+00:00",
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "assets": {
+   "cover": "site/public/covers/hyper-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-17",
+  "publication": "hyper",
+  "sequence": 13,
+  "number": "17",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 230.0,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8f20eb2d-abe6-4a0f-9d65-9b484105f054",
+   "external_id": "8f20eb2d-abe6-4a0f-9d65-9b484105f054",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 17 (April 1995).pdf",
+   "bytes": 104568042,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-18",
+  "publication": "hyper",
+  "sequence": 14,
+  "number": "18",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f9d1def0-c30f-4f00-8287-0a5f3e7ec76c",
+   "external_id": "f9d1def0-c30f-4f00-8287-0a5f3e7ec76c",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 18 (May 1995).pdf",
+   "bytes": 103967584,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-19",
+  "publication": "hyper",
+  "sequence": 15,
+  "number": "19",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2e162b5f-bd5f-4e1a-812d-8245a8bd376e",
+   "external_id": "2e162b5f-bd5f-4e1a-812d-8245a8bd376e",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 19 (June 1995).pdf",
+   "bytes": 97567087,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-21",
+  "publication": "hyper",
+  "sequence": 16,
+  "number": "21",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 231.8,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/db2cebd5-1445-4ed0-a84d-c60b79ee2632",
+   "external_id": "db2cebd5-1445-4ed0-a84d-c60b79ee2632",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 21 (August 1995).pdf",
+   "bytes": 100488632,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-23",
+  "publication": "hyper",
+  "sequence": 17,
+  "number": "23",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 237.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5ddf37c6-2bdf-463e-b43e-88be34ea58fa",
+   "external_id": "5ddf37c6-2bdf-463e-b43e-88be34ea58fa",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 23 (October 1995).pdf",
+   "bytes": 101944516,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-24",
+  "publication": "hyper",
+  "sequence": 18,
+  "number": "24",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 233.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d21a609b-46a2-41d3-9302-025fa73d9ab5",
+   "external_id": "d21a609b-46a2-41d3-9302-025fa73d9ab5",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 24 (November 1995).pdf",
+   "bytes": 95941012,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-25",
+  "publication": "hyper",
+  "sequence": 19,
+  "number": "25",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b09d960-ba9d-41ad-b468-12901ad34591",
+   "external_id": "8b09d960-ba9d-41ad-b468-12901ad34591",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 25 (December 1995).pdf",
+   "bytes": 115201123,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-28",
+  "publication": "hyper",
+  "sequence": 20,
+  "number": "28",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe607696-87ea-4b49-bd68-268f57612ad2",
+   "external_id": "fe607696-87ea-4b49-bd68-268f57612ad2",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 28 (February 1996).pdf",
+   "bytes": 118224400,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-29",
+  "publication": "hyper",
+  "sequence": 21,
+  "number": "29",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df8ae373-2238-42be-b83a-990244c05b8f",
+   "external_id": "df8ae373-2238-42be-b83a-990244c05b8f",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 29 (March 1996).pdf",
+   "bytes": 114593394,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-30",
+  "publication": "hyper",
+  "sequence": 22,
+  "number": "30",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c08ed96c-e51c-4e37-bb4a-80d4655b38d4",
+   "external_id": "c08ed96c-e51c-4e37-bb4a-80d4655b38d4",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 30 (April 1996).pdf",
+   "bytes": 94287635,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-31",
+  "publication": "hyper",
+  "sequence": 23,
+  "number": "31",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a0aec72-06e5-45be-87f3-597f486db757",
+   "external_id": "5a0aec72-06e5-45be-87f3-597f486db757",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 31 (May 1996).pdf",
+   "bytes": 114808736,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-32",
+  "publication": "hyper",
+  "sequence": 24,
+  "number": "32",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7d5f2aa-ad69-4a43-8cda-8d8604f55639",
+   "external_id": "c7d5f2aa-ad69-4a43-8cda-8d8604f55639",
+   "retrieved_at": "2026-09-14T09:49:26+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 32 (June 1996).pdf",
+   "bytes": 97354181,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:49:26+00:00",
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "assets": {
+   "cover": "site/public/covers/hyper-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-33",
+  "publication": "hyper",
+  "sequence": 25,
+  "number": "33",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 80,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/066b069d-429e-4fc2-8b75-6c0616309e56",
+   "external_id": "066b069d-429e-4fc2-8b75-6c0616309e56",
+   "retrieved_at": "2026-09-14T09:49:26+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 33 (July 1996).pdf",
+   "bytes": 98223855,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:49:26+00:00",
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "assets": {
+   "cover": "site/public/covers/hyper-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-34",
+  "publication": "hyper",
+  "sequence": 26,
+  "number": "34",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/192bb0a8-1e98-4a13-a2bb-1c89257200a4",
+   "external_id": "192bb0a8-1e98-4a13-a2bb-1c89257200a4",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 34 (August 1996).pdf",
+   "bytes": 115545036,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-35",
+  "publication": "hyper",
+  "sequence": 27,
+  "number": "35",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/442cca9b-6fb0-49ac-93db-c743fffa4259",
+   "external_id": "442cca9b-6fb0-49ac-93db-c743fffa4259",
+   "retrieved_at": "2026-09-14T09:49:26+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 35 (September 1996).pdf",
+   "bytes": 125261993,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:49:26+00:00",
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "assets": {
+   "cover": "site/public/covers/hyper-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-36",
+  "publication": "hyper",
+  "sequence": 28,
+  "number": "36",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4ac12bc5-ca41-4da1-be6c-8865dbb480f6",
+   "external_id": "4ac12bc5-ca41-4da1-be6c-8865dbb480f6",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 36 (October 1996).pdf",
+   "bytes": 124070366,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-37",
+  "publication": "hyper",
+  "sequence": 29,
+  "number": "37",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a3c9523-8996-471b-a06a-3088c87ca929",
+   "external_id": "7a3c9523-8996-471b-a06a-3088c87ca929",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 37 (November 1996).pdf",
+   "bytes": 99524219,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-38",
+  "publication": "hyper",
+  "sequence": 30,
+  "number": "38",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 96,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/72a59b08-0a42-4d59-a6d7-a990f81b3a24",
+   "external_id": "72a59b08-0a42-4d59-a6d7-a990f81b3a24",
+   "retrieved_at": "2026-09-14T09:49:26+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 38 (December 1996).pdf",
+   "bytes": 139600247,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:49:26+00:00",
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "assets": {
+   "cover": "site/public/covers/hyper-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-39",
+  "publication": "hyper",
+  "sequence": 31,
+  "number": "39",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/85cf614e-5867-4709-bb84-e633b98e46cc",
+   "external_id": "85cf614e-5867-4709-bb84-e633b98e46cc",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 39 (January 1997).pdf",
+   "bytes": 116775740,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-40",
+  "publication": "hyper",
+  "sequence": 32,
+  "number": "40",
+  "date": {
+   "display": "February 1997",
+   "start": "1997-02",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 230.6,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bfe64564-1940-41c3-bc38-169e459a5d6f",
+   "external_id": "bfe64564-1940-41c3-bc38-169e459a5d6f",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 40 (February 1997).pdf",
+   "bytes": 90030700,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-41",
+  "publication": "hyper",
+  "sequence": 33,
+  "number": "41",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/496bfcad-6cbc-4a4f-9664-c9da3f44adbf",
+   "external_id": "496bfcad-6cbc-4a4f-9664-c9da3f44adbf",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 41 (March 1997).pdf",
+   "bytes": 112866846,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-42",
+  "publication": "hyper",
+  "sequence": 34,
+  "number": "42",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3944b698-ff95-45a6-aab3-2fc3596d1695",
+   "external_id": "3944b698-ff95-45a6-aab3-2fc3596d1695",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 42 (April 1997).pdf",
+   "bytes": 109259087,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-43",
+  "publication": "hyper",
+  "sequence": 35,
+  "number": "43",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.8,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6cb0e640-9272-4e40-8169-a25e604d9bc8",
+   "external_id": "6cb0e640-9272-4e40-8169-a25e604d9bc8",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 43 (May 1997).pdf",
+   "bytes": 110230136,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-44",
+  "publication": "hyper",
+  "sequence": 36,
+  "number": "44",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 229.5,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d958b0b1-9534-4cef-92f4-bf4255be504f",
+   "external_id": "d958b0b1-9534-4cef-92f4-bf4255be504f",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 44 (June 1997).pdf",
+   "bytes": 115662187,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-45",
+  "publication": "hyper",
+  "sequence": 37,
+  "number": "45",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ce0c26fe-f8ce-43bc-8deb-74cd8295927a",
+   "external_id": "ce0c26fe-f8ce-43bc-8deb-74cd8295927a",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 45 (July 1997).pdf",
+   "bytes": 116765130,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-46",
+  "publication": "hyper",
+  "sequence": 38,
+  "number": "46",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6af9e655-054b-493d-9ce2-a984ba848659",
+   "external_id": "6af9e655-054b-493d-9ce2-a984ba848659",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 46 (August 1997).pdf",
+   "bytes": 116638496,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-47",
+  "publication": "hyper",
+  "sequence": 39,
+  "number": "47",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4c9f30de-5023-470d-8cb4-9501c62b51f8",
+   "external_id": "4c9f30de-5023-470d-8cb4-9501c62b51f8",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 47 (September 1997).pdf",
+   "bytes": 115561654,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-47.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-48",
+  "publication": "hyper",
+  "sequence": 40,
+  "number": "48",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.4,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d88bead0-c051-4d06-8bee-1088bcc737e8",
+   "external_id": "d88bead0-c051-4d06-8bee-1088bcc737e8",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 48 (October 1997).pdf",
+   "bytes": 113575220,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-49",
+  "publication": "hyper",
+  "sequence": 41,
+  "number": "49",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0da94273-5bfb-4580-b10e-db34e7e8066b",
+   "external_id": "0da94273-5bfb-4580-b10e-db34e7e8066b",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 49 (November 1997).pdf",
+   "bytes": 125749589,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-50",
+  "publication": "hyper",
+  "sequence": 42,
+  "number": "50",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6f723eb8-0e18-4f23-8dd5-7cf6e64cb0cd",
+   "external_id": "6f723eb8-0e18-4f23-8dd5-7cf6e64cb0cd",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 50 (December 1997).pdf",
+   "bytes": 128768266,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-51",
+  "publication": "hyper",
+  "sequence": 43,
+  "number": "51",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 233.8,
+   "height_mm": 299.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b53ad57-10e0-447a-a126-3d66de5a0ca3",
+   "external_id": "2b53ad57-10e0-447a-a126-3d66de5a0ca3",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 51 (January 1998).pdf",
+   "bytes": 155624584,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-52",
+  "publication": "hyper",
+  "sequence": 44,
+  "number": "52",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11346f7c-db19-4b96-8411-eec846674751",
+   "external_id": "11346f7c-db19-4b96-8411-eec846674751",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 52 (February 1998).pdf",
+   "bytes": 111489992,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-53",
+  "publication": "hyper",
+  "sequence": 45,
+  "number": "53",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/53b0b2e2-2f50-4881-a6c0-e67f408554a8",
+   "external_id": "53b0b2e2-2f50-4881-a6c0-e67f408554a8",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 53 (March 1998).pdf",
+   "bytes": 112507776,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-54",
+  "publication": "hyper",
+  "sequence": 46,
+  "number": "54",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 234.9,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/337ccb03-bf4f-40c4-a085-f53cb6e68c9b",
+   "external_id": "337ccb03-bf4f-40c4-a085-f53cb6e68c9b",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 54 (April 1998).pdf",
+   "bytes": 123067055,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-55",
+  "publication": "hyper",
+  "sequence": 47,
+  "number": "55",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 234.6,
+   "height_mm": 297.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6dd0ed6f-80a5-4f22-a93b-b7d02a1b2984",
+   "external_id": "6dd0ed6f-80a5-4f22-a93b-b7d02a1b2984",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 55 (May 1998).pdf",
+   "bytes": 105503479,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-56",
+  "publication": "hyper",
+  "sequence": 48,
+  "number": "56",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6b2cdb9-7834-4e71-8895-ae48095b66f4",
+   "external_id": "e6b2cdb9-7834-4e71-8895-ae48095b66f4",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 56 (June 1998).pdf",
+   "bytes": 118543148,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-57",
+  "publication": "hyper",
+  "sequence": 49,
+  "number": "57",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 229.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f79f4ef7-40c2-4db6-a1f4-c346683883e9",
+   "external_id": "f79f4ef7-40c2-4db6-a1f4-c346683883e9",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 57 (July 1998).pdf",
+   "bytes": 116773609,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-57.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-58",
+  "publication": "hyper",
+  "sequence": 50,
+  "number": "58",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec8ee39d-fcea-4b58-aa6f-aaffbc85dbcf",
+   "external_id": "ec8ee39d-fcea-4b58-aa6f-aaffbc85dbcf",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 58 (August 1998).pdf",
+   "bytes": 108408139,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-58.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-59",
+  "publication": "hyper",
+  "sequence": 51,
+  "number": "59",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 229.7,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e1900f59-c6c5-4510-ba33-7d3fb8602703",
+   "external_id": "e1900f59-c6c5-4510-ba33-7d3fb8602703",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 59 (September 1998).pdf",
+   "bytes": 106508705,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-59.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-60",
+  "publication": "hyper",
+  "sequence": 52,
+  "number": "60",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf1ec649-5b5b-4485-bb40-4fc84d48c24d",
+   "external_id": "cf1ec649-5b5b-4485-bb40-4fc84d48c24d",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 60 (October 1998).pdf",
+   "bytes": 106191599,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-60.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-61",
+  "publication": "hyper",
+  "sequence": 53,
+  "number": "61",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/99f4360d-fe4e-476c-b923-0d9d7d9cba36",
+   "external_id": "99f4360d-fe4e-476c-b923-0d9d7d9cba36",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 61 (November 1998).pdf",
+   "bytes": 123489221,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-61.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-62",
+  "publication": "hyper",
+  "sequence": 54,
+  "number": "62",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c771fc9f-22f4-4bb3-a6f0-67dde19e5264",
+   "external_id": "c771fc9f-22f4-4bb3-a6f0-67dde19e5264",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 62 (December 1998).pdf",
+   "bytes": 122525079,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-62.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-63",
+  "publication": "hyper",
+  "sequence": 55,
+  "number": "63",
+  "date": {
+   "display": "January 1999",
+   "start": "1999-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fbe96aeb-9132-4b8f-80a6-f88d75c6e13e",
+   "external_id": "fbe96aeb-9132-4b8f-80a6-f88d75c6e13e",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 63 (January 1999).pdf",
+   "bytes": 126123738,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-63.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-64",
+  "publication": "hyper",
+  "sequence": 56,
+  "number": "64",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.2,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/71332fa7-b7f6-454b-b457-48f20349103a",
+   "external_id": "71332fa7-b7f6-454b-b457-48f20349103a",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 64 (February 1999).pdf",
+   "bytes": 104597247,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-64.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-65",
+  "publication": "hyper",
+  "sequence": 57,
+  "number": "65",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 230.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe519711-d69e-4d89-9ba2-8fd766187885",
+   "external_id": "fe519711-d69e-4d89-9ba2-8fd766187885",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 65 (March 1999).pdf",
+   "bytes": 99529170,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-65.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-66",
+  "publication": "hyper",
+  "sequence": 58,
+  "number": "66",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c1994737-dbce-4f35-b01a-2a26378447c8",
+   "external_id": "c1994737-dbce-4f35-b01a-2a26378447c8",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 66 (April 1999).pdf",
+   "bytes": 100337354,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-66.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-67",
+  "publication": "hyper",
+  "sequence": 59,
+  "number": "67",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4d87ce21-2151-4d37-99f0-018cb5ba7265",
+   "external_id": "4d87ce21-2151-4d37-99f0-018cb5ba7265",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 67 (May 1999).pdf",
+   "bytes": 101285127,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-67.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-68",
+  "publication": "hyper",
+  "sequence": 60,
+  "number": "68",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/59e8215a-6344-498e-9c2a-7f5ac8731678",
+   "external_id": "59e8215a-6344-498e-9c2a-7f5ac8731678",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 68 (June 1999).pdf",
+   "bytes": 102244887,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-68.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-69",
+  "publication": "hyper",
+  "sequence": 61,
+  "number": "69",
+  "date": {
+   "display": "July 1999",
+   "start": "1999-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3de1afab-1af4-4274-a860-94b7e64a3082",
+   "external_id": "3de1afab-1af4-4274-a860-94b7e64a3082",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 69 (July 1999).pdf",
+   "bytes": 99992884,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-69.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-70",
+  "publication": "hyper",
+  "sequence": 62,
+  "number": "70",
+  "date": {
+   "display": "August 1999",
+   "start": "1999-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3df9dcb8-8b06-4135-9ccd-d5482b96e713",
+   "external_id": "3df9dcb8-8b06-4135-9ccd-d5482b96e713",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 70 (August 1999).pdf",
+   "bytes": 101872120,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-70.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-71",
+  "publication": "hyper",
+  "sequence": 63,
+  "number": "71",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e34e9534-8b29-47f0-9322-229661876a46",
+   "external_id": "e34e9534-8b29-47f0-9322-229661876a46",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 71 (September 1999).pdf",
+   "bytes": 105038659,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-71.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-72",
+  "publication": "hyper",
+  "sequence": 64,
+  "number": "72",
+  "date": {
+   "display": "October 1999",
+   "start": "1999-10",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 229.6,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/36debb74-20e4-4b61-8ca5-fa68d0b2b4ed",
+   "external_id": "36debb74-20e4-4b61-8ca5-fa68d0b2b4ed",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 72 (October 1999).pdf",
+   "bytes": 98695171,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-72.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-73",
+  "publication": "hyper",
+  "sequence": 65,
+  "number": "73",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 232.1,
+   "height_mm": 298.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf1cd4a7-cab5-4596-87bb-71117c30da10",
+   "external_id": "bf1cd4a7-cab5-4596-87bb-71117c30da10",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 73 (November 1999).pdf",
+   "bytes": 114240086,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-73.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-74",
+  "publication": "hyper",
+  "sequence": 66,
+  "number": "74",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8785f656-a519-4ac7-a953-e0bc6148f311",
+   "external_id": "8785f656-a519-4ac7-a953-e0bc6148f311",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 74 (December 1999).pdf",
+   "bytes": 106910890,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-74.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-75",
+  "publication": "hyper",
+  "sequence": 67,
+  "number": "75",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 230.0,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/84cc14da-b4f7-49c2-9efb-cfd9b2dacfd8",
+   "external_id": "84cc14da-b4f7-49c2-9efb-cfd9b2dacfd8",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 75 (January 2000).pdf",
+   "bytes": 123740453,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-75.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-76",
+  "publication": "hyper",
+  "sequence": 68,
+  "number": "76",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 229.3,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/503abf73-d612-4677-968a-60195f18fdfd",
+   "external_id": "503abf73-d612-4677-968a-60195f18fdfd",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 76 (February 2000).pdf",
+   "bytes": 122702850,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-76.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-77",
+  "publication": "hyper",
+  "sequence": 69,
+  "number": "77",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f50939cc-9c73-4273-9c42-6cca00848481",
+   "external_id": "f50939cc-9c73-4273-9c42-6cca00848481",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 77 (March 2000).pdf",
+   "bytes": 104794095,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-77.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-78",
+  "publication": "hyper",
+  "sequence": 70,
+  "number": "78",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/743a12a1-88ff-4a4b-a4bd-b0fdae42148f",
+   "external_id": "743a12a1-88ff-4a4b-a4bd-b0fdae42148f",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 78 (April 2000).pdf",
+   "bytes": 122323286,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-78.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-79",
+  "publication": "hyper",
+  "sequence": 71,
+  "number": "79",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/392b730a-5de7-4bc0-93d9-f5e35d12acf0",
+   "external_id": "392b730a-5de7-4bc0-93d9-f5e35d12acf0",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 79 (May 2000).pdf",
+   "bytes": 103125237,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-79.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-80",
+  "publication": "hyper",
+  "sequence": 72,
+  "number": "80",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b93d737c-300a-48c1-828e-d210fc15c05d",
+   "external_id": "b93d737c-300a-48c1-828e-d210fc15c05d",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 80 (June 2000).pdf",
+   "bytes": 99982182,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-80.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-81",
+  "publication": "hyper",
+  "sequence": 73,
+  "number": "81",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 231.8,
+   "height_mm": 302.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2cdb4b22-9a09-4283-ba8d-c7bf6b8cc3a2",
+   "external_id": "2cdb4b22-9a09-4283-ba8d-c7bf6b8cc3a2",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 81 (July 2000).pdf",
+   "bytes": 91144684,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-81.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-82",
+  "publication": "hyper",
+  "sequence": 74,
+  "number": "82",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 230.7,
+   "height_mm": 298.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/04a34d8e-dda4-49ff-b196-be8199018878",
+   "external_id": "04a34d8e-dda4-49ff-b196-be8199018878",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 82 (August 2000).pdf",
+   "bytes": 98881734,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-82.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-83",
+  "publication": "hyper",
+  "sequence": 75,
+  "number": "83",
+  "date": {
+   "display": "September 2000",
+   "start": "2000-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 230.0,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eb8d150c-d684-4e90-b6f7-deea7a51fccd",
+   "external_id": "eb8d150c-d684-4e90-b6f7-deea7a51fccd",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 83 (September 2000).pdf",
+   "bytes": 104599937,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-83.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-84",
+  "publication": "hyper",
+  "sequence": 76,
+  "number": "84",
+  "date": {
+   "display": "October 2000",
+   "start": "2000-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/790c1f4b-dc9a-46c3-82cf-2918f5366eb0",
+   "external_id": "790c1f4b-dc9a-46c3-82cf-2918f5366eb0",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 84 (October 2000).pdf",
+   "bytes": 102349732,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-84.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-85",
+  "publication": "hyper",
+  "sequence": 77,
+  "number": "85",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 230.6,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1df070c9-b95e-42db-8b78-707d32795661",
+   "external_id": "1df070c9-b95e-42db-8b78-707d32795661",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 85 (November 2000).pdf",
+   "bytes": 97942910,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-85.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-86",
+  "publication": "hyper",
+  "sequence": 78,
+  "number": "86",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c9f6981a-8dc8-469b-a4da-36ba9057f1e6",
+   "external_id": "c9f6981a-8dc8-469b-a4da-36ba9057f1e6",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 86 (December 2000).pdf",
+   "bytes": 111885625,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-86.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-88",
+  "publication": "hyper",
+  "sequence": 79,
+  "number": "88",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/da0af3f0-71a6-44fa-9f8a-6f36ff70af02",
+   "external_id": "da0af3f0-71a6-44fa-9f8a-6f36ff70af02",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 88 (February 2001).pdf",
+   "bytes": 128872254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-88.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-89",
+  "publication": "hyper",
+  "sequence": 80,
+  "number": "89",
+  "date": {
+   "display": "March 2001",
+   "start": "2001-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bc6eec8c-54d8-4abe-a060-b1495a12fcc9",
+   "external_id": "bc6eec8c-54d8-4abe-a060-b1495a12fcc9",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 89 (March 2001).pdf",
+   "bytes": 127973294,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-89.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-90",
+  "publication": "hyper",
+  "sequence": 81,
+  "number": "90",
+  "date": {
+   "display": "April 2001",
+   "start": "2001-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 232.1,
+   "height_mm": 299.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/17ff5f57-86ff-4f15-a3b7-c0e4bacaee05",
+   "external_id": "17ff5f57-86ff-4f15-a3b7-c0e4bacaee05",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 90 (April 2001).pdf",
+   "bytes": 126136590,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-90.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-91",
+  "publication": "hyper",
+  "sequence": 82,
+  "number": "91",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ff91a88b-130c-48ca-9781-b5155d65d37b",
+   "external_id": "ff91a88b-130c-48ca-9781-b5155d65d37b",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 91 (May 2001).pdf",
+   "bytes": 109073759,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-91.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-92",
+  "publication": "hyper",
+  "sequence": 83,
+  "number": "92",
+  "date": {
+   "display": "June 2001",
+   "start": "2001-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 234.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29c7d56f-b13c-41b5-b4d1-16c3c49f93c5",
+   "external_id": "29c7d56f-b13c-41b5-b4d1-16c3c49f93c5",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 92 (June 2001).pdf",
+   "bytes": 144905513,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-92.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-94",
+  "publication": "hyper",
+  "sequence": 84,
+  "number": "94",
+  "date": {
+   "display": "August 2001",
+   "start": "2001-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 231.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/40528704-aa0c-45f0-99f3-717d8e1e5697",
+   "external_id": "40528704-aa0c-45f0-99f3-717d8e1e5697",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 94 (August 2001).pdf",
+   "bytes": 109060184,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-94.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-95",
+  "publication": "hyper",
+  "sequence": 85,
+  "number": "95",
+  "date": {
+   "display": "September 2001",
+   "start": "2001-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 228.9,
+   "height_mm": 296.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e66c2085-8d57-423f-b867-1512bfe9aefe",
+   "external_id": "e66c2085-8d57-423f-b867-1512bfe9aefe",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 95 (September 2001).pdf",
+   "bytes": 84901678,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-95.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-96",
+  "publication": "hyper",
+  "sequence": 86,
+  "number": "96",
+  "date": {
+   "display": "October 2001",
+   "start": "2001-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 217.1,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe58f9b6-4f50-4efa-b5e3-e4bfc4192fa3",
+   "external_id": "fe58f9b6-4f50-4efa-b5e3-e4bfc4192fa3",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 96 (October 2001).pdf",
+   "bytes": 100922398,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-96.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-97",
+  "publication": "hyper",
+  "sequence": 87,
+  "number": "97",
+  "date": {
+   "display": "November 2001",
+   "start": "2001-11",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 214.9,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8ce0b8b-3faa-45dc-bd59-d171a2ff2f5f",
+   "external_id": "f8ce0b8b-3faa-45dc-bd59-d171a2ff2f5f",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 97 (November 2001).pdf",
+   "bytes": 117402468,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-97.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-98",
+  "publication": "hyper",
+  "sequence": 88,
+  "number": "98",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.2,
+   "height_mm": 299.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b4567fed-43c9-44fa-82e1-579a738c2e29",
+   "external_id": "b4567fed-43c9-44fa-82e1-579a738c2e29",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 98 (December 2001).pdf",
+   "bytes": 107622977,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-98.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-99",
+  "publication": "hyper",
+  "sequence": 89,
+  "number": "99",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 220.0,
+   "height_mm": 300.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/32bb01a3-4c34-4268-acbe-c6c17dd88585",
+   "external_id": "32bb01a3-4c34-4268-acbe-c6c17dd88585",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 99 (January 2002).pdf",
+   "bytes": 131681448,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-99.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-103",
+  "publication": "hyper",
+  "sequence": 90,
+  "number": "103",
+  "date": {
+   "display": "May 2002",
+   "start": "2002-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.6,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/15bf6664-2d52-45a4-bdf9-2d5b43345ccf",
+   "external_id": "15bf6664-2d52-45a4-bdf9-2d5b43345ccf",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 103 (May 2002).pdf",
+   "bytes": 100876286,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-103.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-105",
+  "publication": "hyper",
+  "sequence": 91,
+  "number": "105",
+  "date": {
+   "display": "July 2002",
+   "start": "2002-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 217.6,
+   "height_mm": 302.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6a1022de-4452-4ae1-abbe-5f47a34ddd32",
+   "external_id": "6a1022de-4452-4ae1-abbe-5f47a34ddd32",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 105 (July 2002).pdf",
+   "bytes": 103027643,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-105.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-106",
+  "publication": "hyper",
+  "sequence": 92,
+  "number": "106",
+  "date": {
+   "display": "August 2002",
+   "start": "2002-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 218.8,
+   "height_mm": 301.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e4da4f14-1c01-4b6d-9a58-c4627c099c6a",
+   "external_id": "e4da4f14-1c01-4b6d-9a58-c4627c099c6a",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 106 (August 2002).pdf",
+   "bytes": 117042223,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-106.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-107",
+  "publication": "hyper",
+  "sequence": 93,
+  "number": "107",
+  "date": {
+   "display": "September 2002",
+   "start": "2002-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 215.8,
+   "height_mm": 301.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1c1a5fef-8aab-4954-8fa3-d653e16c5b65",
+   "external_id": "1c1a5fef-8aab-4954-8fa3-d653e16c5b65",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 107 (September 2002).pdf",
+   "bytes": 102080272,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-107.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-108",
+  "publication": "hyper",
+  "sequence": 94,
+  "number": "108",
+  "date": {
+   "display": "October 2002",
+   "start": "2002-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 219.5,
+   "height_mm": 299.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/675a49f0-c721-48cd-b2fd-7e604eb614ff",
+   "external_id": "675a49f0-c721-48cd-b2fd-7e604eb614ff",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 108 (October 2002).pdf",
+   "bytes": 116823704,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-108.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-109",
+  "publication": "hyper",
+  "sequence": 95,
+  "number": "109",
+  "date": {
+   "display": "November 2002",
+   "start": "2002-11",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 214.8,
+   "height_mm": 299.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec3d6e8a-ac0a-43cd-b69e-a135a210497b",
+   "external_id": "ec3d6e8a-ac0a-43cd-b69e-a135a210497b",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 109 (November 2002).pdf",
+   "bytes": 117387429,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-109.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-110",
+  "publication": "hyper",
+  "sequence": 96,
+  "number": "110",
+  "date": {
+   "display": "December 2002",
+   "start": "2002-12",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 217.5,
+   "height_mm": 298.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b7f3e8c4-50d0-4b03-8d3b-53c83f9eae7c",
+   "external_id": "b7f3e8c4-50d0-4b03-8d3b-53c83f9eae7c",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 110 (December 2002).pdf",
+   "bytes": 114756692,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-110.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-111",
+  "publication": "hyper",
+  "sequence": 97,
+  "number": "111",
+  "date": {
+   "display": "January 2003",
+   "start": "2003-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 220.0,
+   "height_mm": 296.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1ff4aee0-5da5-4151-9192-a16d3609bdc2",
+   "external_id": "1ff4aee0-5da5-4151-9192-a16d3609bdc2",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 111 (January 2003).pdf",
+   "bytes": 104710988,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-111.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "hyper-112",
+  "publication": "hyper",
+  "sequence": 98,
+  "number": "112",
+  "date": {
+   "display": "February 2003",
+   "start": "2003-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 220.0,
+   "height_mm": 298.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/89bfd51b-137d-4171-835b-a39fb3aa3ea9",
+   "external_id": "89bfd51b-137d-4171-835b-a39fb3aa3ea9",
+   "retrieved_at": "2026-09-14T09:33:57+00:00"
+  },
+  "files": {
+   "pdf": "library/hyper/pdf/Hyper, Issue 112 (February 2003).pdf",
+   "bytes": 105111914,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:57+00:00",
+  "assets": {
+   "cover": "site/public/covers/hyper-112.jpg",
+   "pages_rendered": false
+  }
+ }
+]

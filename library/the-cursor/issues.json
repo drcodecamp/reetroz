@@ -1,1 +1,73 @@
-[]
+[
+ {
+  "id": "the-cursor-199706-game-developer-life-premier-issue",
+  "publication": "the-cursor",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "Summer 1997",
+   "start": "1997-06",
+   "precision": "season"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 269.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/449ab436-169c-4bba-a988-8d6d9e384a26",
+   "external_id": "449ab436-169c-4bba-a988-8d6d9e384a26",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-cursor/pdf/The Cursor- Game Developer Life, Premier Issue (Summer 1997).pdf",
+   "bytes": 69308158,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/the-cursor-199706-game-developer-life-premier-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-cursor-199809-game-developer-life",
+  "publication": "the-cursor",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "Summer/Fall 1998",
+   "start": "1998-09",
+   "precision": "season"
+  },
+  "pages": 60,
+  "dimensions": {
+   "width_mm": 211.9,
+   "height_mm": 274.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/070874db-a0c1-4a37-8b56-869fc061633d",
+   "external_id": "070874db-a0c1-4a37-8b56-869fc061633d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-cursor/pdf/The Cursor- Game Developer Life (Summer-Fall 1998).pdf",
+   "bytes": 57682532,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-cursor-199809-game-developer-life.jpg",
+   "pages_rendered": false
+  }
+ }
+]

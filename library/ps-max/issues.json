@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "id": "ps-max-1",
+  "publication": "ps-max",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Fall/Winter 1999",
+   "start": "1999-12",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 142.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d0afc9ed-ab12-41e7-afe6-ad86af35f9cf",
+   "external_id": "d0afc9ed-ab12-41e7-afe6-ad86af35f9cf",
+   "retrieved_at": "2026-09-14T09:35:59+00:00"
+  },
+  "files": {
+   "pdf": "library/ps-max/pdf/PS Max, Volume 1, Number 1, Issue 1 (Fall-Winter 1999).pdf",
+   "bytes": 160043272,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:59+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/ps-max-1.jpg",
+   "pages_rendered": false
+  }
+ }
+]

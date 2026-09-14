@@ -1,0 +1,344 @@
+[
+ {
+  "id": "electronic-gaming-retail-news-2",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 1,
+  "number": "2",
+  "date": {
+   "display": "July 1, 1991",
+   "start": "1991-07-01",
+   "precision": "day"
+  },
+  "pages": 40,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 281.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/97ca5235-4f61-49ec-b68f-3bfcfc8059f9",
+   "external_id": "97ca5235-4f61-49ec-b68f-3bfcfc8059f9",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 1, Number 2, Issue 2 (July 1, 1991).pdf",
+   "bytes": 43989232,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-3",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 2,
+  "number": "3",
+  "date": {
+   "display": "August 1991",
+   "start": "1991-08",
+   "precision": "month"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 281.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ea743db-e212-4b99-a9cb-fe6440369ba9",
+   "external_id": "3ea743db-e212-4b99-a9cb-fe6440369ba9",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 1, Number 3, Issue 3 (August 1991).pdf",
+   "bytes": 30239435,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-4",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 3,
+  "number": "4",
+  "date": {
+   "display": "September 1991",
+   "start": "1991-09",
+   "precision": "month"
+  },
+  "pages": 32,
+  "dimensions": {
+   "width_mm": 212.5,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45a972c4-0ff4-45c0-bca8-c2ff0d935cf2",
+   "external_id": "45a972c4-0ff4-45c0-bca8-c2ff0d935cf2",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 1, Number 4, Issue 4 (September 1991).pdf",
+   "bytes": 21374599,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-5",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 4,
+  "number": "5",
+  "date": {
+   "display": "October 1991",
+   "start": "1991-10",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6605e6e4-64b9-4388-82c2-5c5f73775134",
+   "external_id": "6605e6e4-64b9-4388-82c2-5c5f73775134",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 1, Number 5, Issue 5 (October 1991).pdf",
+   "bytes": 30504986,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-6",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 5,
+  "number": "6",
+  "date": {
+   "display": "November 1991",
+   "start": "1991-11",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 214.4,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2b522c1a-5da6-4bb2-be3a-c68760d6ab93",
+   "external_id": "2b522c1a-5da6-4bb2-be3a-c68760d6ab93",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 1, Number 6, Issue 6 (November 1991).pdf",
+   "bytes": 31353206,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-7",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 6,
+  "number": "7",
+  "date": {
+   "display": "December 1991",
+   "start": "1991-12",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 215.6,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ed228c6d-a53b-4a93-995c-e6db75b700af",
+   "external_id": "ed228c6d-a53b-4a93-995c-e6db75b700af",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 1, Number 7, Issue 7 (December 1991).pdf",
+   "bytes": 30681304,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-1",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 7,
+  "number": "1",
+  "date": {
+   "display": "January 1992",
+   "start": "1992-01",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 211.5,
+   "height_mm": 276.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/382ac2fa-1c4b-48a7-a34e-bfe38b9db0c8",
+   "external_id": "382ac2fa-1c4b-48a7-a34e-bfe38b9db0c8",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 2, Number 1, Issue 8 (January 1992).pdf",
+   "bytes": 29190592,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-2-2",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 8,
+  "number": "2",
+  "date": {
+   "display": "February 1992",
+   "start": "1992-02",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 214.4,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93351113-0e2d-431e-b780-09e503dbd75c",
+   "external_id": "93351113-0e2d-431e-b780-09e503dbd75c",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 2, Number 2, Issue 9 (February 1992).pdf",
+   "bytes": 31498198,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "volume": 2
+ },
+ {
+  "id": "electronic-gaming-retail-news-3-2",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 9,
+  "number": "3",
+  "date": {
+   "display": "Summer 1992",
+   "start": "1992-06",
+   "precision": "season"
+  },
+  "pages": 48,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 281.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d98ee39-0922-4262-ba3f-307f239496f9",
+   "external_id": "7d98ee39-0922-4262-ba3f-307f239496f9",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, Volume 2, Number 3, Issue 10, 1992 Summer CES (Summer 1992).pdf",
+   "bytes": 43952828,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-199301-1993-winter-ces",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 213.4,
+   "height_mm": 281.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/944ab4a6-cf72-44e8-9d9d-ddbcc341fb96",
+   "external_id": "944ab4a6-cf72-44e8-9d9d-ddbcc341fb96",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, 1993 Winter CES (January 1993).pdf",
+   "bytes": 41483290,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ },
+ {
+  "id": "electronic-gaming-retail-news-199306-1993-summer-ces",
+  "publication": "electronic-gaming-retail-news",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 24,
+  "dimensions": {
+   "width_mm": 214.4,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4a20239b-ac23-4fd2-ab1c-aee267e04eea",
+   "external_id": "4a20239b-ac23-4fd2-ab1c-aee267e04eea",
+   "retrieved_at": "2026-09-14T09:33:40+00:00"
+  },
+  "files": {
+   "pdf": "library/electronic-gaming-retail-news/pdf/Electronic Gaming Retail News, 1993 Summer CES (June 1993).pdf",
+   "bytes": 20602127,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:40+00:00"
+ }
+]

@@ -46,13 +46,13 @@
     }
   ],
   "stats": {
-    "issues": 1,
-    "pages": 64,
-    "readable": 1,
-    "with_text": 1,
+    "issues": 268,
+    "pages": 39092,
+    "readable": 268,
+    "with_text": 248,
     "first_year": 1989,
-    "last_year": 1989
+    "last_year": 2011
   },
-  "updated_at": "2026-09-13T22:34:30+00:00",
+  "updated_at": "2026-09-14T18:59:56+00:00",
   "cover_issue": "gamepro-1"
 }

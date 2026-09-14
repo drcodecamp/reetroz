@@ -1,1 +1,739 @@
-[]
+[
+ {
+  "id": "video-games-magazine-1",
+  "publication": "video-games-magazine",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "August 1982",
+   "start": "1982-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 275.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/daeaab13-9a5b-4244-9bf2-1c0b98b0265b",
+   "external_id": "daeaab13-9a5b-4244-9bf2-1c0b98b0265b",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 1, Issue 1 (August 1982).pdf",
+   "bytes": 96869208,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-3",
+  "publication": "video-games-magazine",
+  "sequence": 2,
+  "number": "3",
+  "date": {
+   "display": "December 1982",
+   "start": "1982-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 397.2,
+   "height_mm": 276.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/14c2227b-e159-4063-a74b-1b77da88b512",
+   "external_id": "14c2227b-e159-4063-a74b-1b77da88b512",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 3, Issue 3 (December 1982).pdf",
+   "bytes": 104805867,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-4",
+  "publication": "video-games-magazine",
+  "sequence": 3,
+  "number": "4",
+  "date": {
+   "display": "January 1983",
+   "start": "1983-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.9,
+   "height_mm": 276.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ce885cc3-f333-4bf9-ac08-51cf5b6c89c7",
+   "external_id": "ce885cc3-f333-4bf9-ac08-51cf5b6c89c7",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 4, Issue 4 (January 1983).pdf",
+   "bytes": 111070335,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-5",
+  "publication": "video-games-magazine",
+  "sequence": 4,
+  "number": "5",
+  "date": {
+   "display": "February 1983",
+   "start": "1983-02",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 205.9,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9920dbf6-5b5b-447d-bc60-6f3ac6df2665",
+   "external_id": "9920dbf6-5b5b-447d-bc60-6f3ac6df2665",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 5, Issue 5 (February 1983).pdf",
+   "bytes": 134271588,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-6",
+  "publication": "video-games-magazine",
+  "sequence": 5,
+  "number": "6",
+  "date": {
+   "display": "March 1983",
+   "start": "1983-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 206.0,
+   "height_mm": 273.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/19d542da-1bc1-4341-81c7-3e93976b1916",
+   "external_id": "19d542da-1bc1-4341-81c7-3e93976b1916",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 6, Issue 6 (March 1983).pdf",
+   "bytes": 101449583,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-7",
+  "publication": "video-games-magazine",
+  "sequence": 6,
+  "number": "7",
+  "date": {
+   "display": "April 1983",
+   "start": "1983-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.9,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ccafc2bb-655d-4f27-9b47-bb3091892660",
+   "external_id": "ccafc2bb-655d-4f27-9b47-bb3091892660",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 7, Issue 7 (April 1983).pdf",
+   "bytes": 102552765,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-8",
+  "publication": "video-games-magazine",
+  "sequence": 7,
+  "number": "8",
+  "date": {
+   "display": "May 1983",
+   "start": "1983-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 207.3,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b75b86c-257c-4895-a5a9-e1d24e67ee6f",
+   "external_id": "8b75b86c-257c-4895-a5a9-e1d24e67ee6f",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 8, Issue 8 (May 1983).pdf",
+   "bytes": 117162113,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-9",
+  "publication": "video-games-magazine",
+  "sequence": 8,
+  "number": "9",
+  "date": {
+   "display": "June 1983",
+   "start": "1983-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.8,
+   "height_mm": 275.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2cf0d12-2f72-4ad9-8ed1-5226a2d8c573",
+   "external_id": "a2cf0d12-2f72-4ad9-8ed1-5226a2d8c573",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 9, Issue 9 (June 1983).pdf",
+   "bytes": 108667992,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-10",
+  "publication": "video-games-magazine",
+  "sequence": 9,
+  "number": "10",
+  "date": {
+   "display": "July 1983",
+   "start": "1983-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.0,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dc53451f-0bea-4f80-aea5-fdb1e61f1eac",
+   "external_id": "dc53451f-0bea-4f80-aea5-fdb1e61f1eac",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 10, Issue 10 (July 1983).pdf",
+   "bytes": 116611209,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-11",
+  "publication": "video-games-magazine",
+  "sequence": 10,
+  "number": "11",
+  "date": {
+   "display": "August 1983",
+   "start": "1983-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.7,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45abc416-bbb5-4d01-bbf2-50010c824299",
+   "external_id": "45abc416-bbb5-4d01-bbf2-50010c824299",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 11, Issue 11 (August 1983).pdf",
+   "bytes": 115500537,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-12",
+  "publication": "video-games-magazine",
+  "sequence": 11,
+  "number": "12",
+  "date": {
+   "display": "September 1983",
+   "start": "1983-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.8,
+   "height_mm": 275.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/791b395d-07f5-4381-8789-0848a2980149",
+   "external_id": "791b395d-07f5-4381-8789-0848a2980149",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 12, Issue 12 (September 1983).pdf",
+   "bytes": 111114390,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-1-2",
+  "publication": "video-games-magazine",
+  "sequence": 12,
+  "number": "1",
+  "date": {
+   "display": "October 1983",
+   "start": "1983-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.1,
+   "height_mm": 272.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3799ebfd-50ad-4077-a74e-94245b52c6e8",
+   "external_id": "3799ebfd-50ad-4077-a74e-94245b52c6e8",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 1, Issue 13 (October 1983).pdf",
+   "bytes": 30354534,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-2",
+  "publication": "video-games-magazine",
+  "sequence": 13,
+  "number": "2",
+  "date": {
+   "display": "October 1983",
+   "start": "1983-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.3,
+   "height_mm": 274.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/813a41a8-c2d0-43c5-85cd-89c1aa9d1c49",
+   "external_id": "813a41a8-c2d0-43c5-85cd-89c1aa9d1c49",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 1, Number 2, Issue 2 (October 1983).pdf",
+   "bytes": 103743967,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-2-2",
+  "publication": "video-games-magazine",
+  "sequence": 14,
+  "number": "2",
+  "date": {
+   "display": "November 1983",
+   "start": "1983-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 207.8,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/75cd700d-707c-46c6-9df6-de1a88cc2a2d",
+   "external_id": "75cd700d-707c-46c6-9df6-de1a88cc2a2d",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 2, Issue 14 (November 1983).pdf",
+   "bytes": 68422801,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-3-2",
+  "publication": "video-games-magazine",
+  "sequence": 15,
+  "number": "3",
+  "date": {
+   "display": "December 1983",
+   "start": "1983-12",
+   "precision": "month"
+  },
+  "pages": 82,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 272.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/93c8fc6d-3913-4e83-8b9f-1aa11e0b749f",
+   "external_id": "93c8fc6d-3913-4e83-8b9f-1aa11e0b749f",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 3, Issue 15 (December 1983).pdf",
+   "bytes": 33799487,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-4-2",
+  "publication": "video-games-magazine",
+  "sequence": 16,
+  "number": "4",
+  "date": {
+   "display": "January 1984",
+   "start": "1984-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.7,
+   "height_mm": 275.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b32bded6-46f8-4913-84d5-04b59975e196",
+   "external_id": "b32bded6-46f8-4913-84d5-04b59975e196",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 4, Issue 16 (January 1984).pdf",
+   "bytes": 96245414,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-5-2",
+  "publication": "video-games-magazine",
+  "sequence": 17,
+  "number": "5",
+  "date": {
+   "display": "February 1984",
+   "start": "1984-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 201.5,
+   "height_mm": 273.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9be5265-732a-4f36-ab98-407cdd610855",
+   "external_id": "a9be5265-732a-4f36-ab98-407cdd610855",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 5, Issue 17 (February 1984).pdf",
+   "bytes": 36658309,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-6-2",
+  "publication": "video-games-magazine",
+  "sequence": 18,
+  "number": "6",
+  "date": {
+   "display": "March 1984",
+   "start": "1984-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.3,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dd0449c2-3354-4543-b7af-3a0e64ebdccb",
+   "external_id": "dd0449c2-3354-4543-b7af-3a0e64ebdccb",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 6, Issue 18 (March 1984).pdf",
+   "bytes": 88806163,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-7-2",
+  "publication": "video-games-magazine",
+  "sequence": 19,
+  "number": "7",
+  "date": {
+   "display": "April 1984",
+   "start": "1984-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.3,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dccad19d-c2b4-4c57-8dbd-5b797def6d38",
+   "external_id": "dccad19d-c2b4-4c57-8dbd-5b797def6d38",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 7, Issue 19 (April 1984).pdf",
+   "bytes": 88198392,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-8-2",
+  "publication": "video-games-magazine",
+  "sequence": 20,
+  "number": "8",
+  "date": {
+   "display": "May 1984",
+   "start": "1984-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 275.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f96c6ff0-59ca-4050-a9bb-4047e3953570",
+   "external_id": "f96c6ff0-59ca-4050-a9bb-4047e3953570",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 8, Issue 20 (May 1984).pdf",
+   "bytes": 30928398,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "video-games-magazine-9-2",
+  "publication": "video-games-magazine",
+  "sequence": 21,
+  "number": "9",
+  "date": {
+   "display": "Summer/Fall 1984",
+   "start": "1984-09",
+   "precision": "season"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 275.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4f1e4700-2e79-40cd-8444-e33df4148514",
+   "external_id": "4f1e4700-2e79-40cd-8444-e33df4148514",
+   "retrieved_at": "2026-09-14T09:36:05+00:00"
+  },
+  "files": {
+   "pdf": "library/video-games-magazine/pdf/Video Games, Volume 2, Number 9, Issue 21 (Summer-Fall 1984).pdf",
+   "bytes": 76591783,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:05+00:00",
+  "assets": {
+   "cover": "site/public/covers/video-games-magazine-9-2.jpg",
+   "pages_rendered": false
+  }
+ }
+]

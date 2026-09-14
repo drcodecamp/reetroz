@@ -7,7 +7,7 @@ cf.api.key
 # python
 __pycache__/
 
-# big local data lives on H:/cat-library (override with CAT_PDF_ROOT)
+# PDFs, page scans, and covers live on H:/cat-library — never in the repo
 CGW/
 library/**/pdf/
 site/public/pages/

@@ -1,1 +1,2984 @@
-[]
+[
+ {
+  "id": "next-generation-1",
+  "publication": "next-generation",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 163.3,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd91c4a7-2e71-4de7-b2de-2ddd326a1195",
+   "external_id": "fd91c4a7-2e71-4de7-b2de-2ddd326a1195",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 1, Issue 1 (January 1995).pdf",
+   "bytes": 135535779,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/next-generation-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-2",
+  "publication": "next-generation",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 135.1,
+   "height_mm": 185.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3b8a563d-dae8-4a9c-bc19-80f2635bd684",
+   "external_id": "3b8a563d-dae8-4a9c-bc19-80f2635bd684",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 2, Issue 2 (February 1995).pdf",
+   "bytes": 122771539,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-3",
+  "publication": "next-generation",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 117,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 182.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d35adac5-015c-4aa7-bd9e-200521efeeae",
+   "external_id": "d35adac5-015c-4aa7-bd9e-200521efeeae",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 3, Issue 3 (March 1995).pdf",
+   "bytes": 118635596,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-4",
+  "publication": "next-generation",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 178.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f75ffd39-6dab-4684-a393-618162a9824b",
+   "external_id": "f75ffd39-6dab-4684-a393-618162a9824b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 4, Issue 4 (April 1995).pdf",
+   "bytes": 111288467,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-5",
+  "publication": "next-generation",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 209.6,
+   "height_mm": 270.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/140e51a1-efed-49c2-8fa0-875fd0392cbd",
+   "external_id": "140e51a1-efed-49c2-8fa0-875fd0392cbd",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 5, Issue 5 (May 1995).pdf",
+   "bytes": 112718262,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-6",
+  "publication": "next-generation",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 142,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 176.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3e0095d6-abcd-45d6-bf7b-b18abf2e610b",
+   "external_id": "3e0095d6-abcd-45d6-bf7b-b18abf2e610b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 6, Issue 6 (June 1995).pdf",
+   "bytes": 133766115,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-7",
+  "publication": "next-generation",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 177.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5d59cb83-3fa9-4172-8991-fce96e4e4ba3",
+   "external_id": "5d59cb83-3fa9-4172-8991-fce96e4e4ba3",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 7, Issue 7 (July 1995).pdf",
+   "bytes": 97398524,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-8",
+  "publication": "next-generation",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 174.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3399980f-fa55-4412-9bb1-a61760967925",
+   "external_id": "3399980f-fa55-4412-9bb1-a61760967925",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 8, Issue 8 (August 1995).pdf",
+   "bytes": 94666811,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-9",
+  "publication": "next-generation",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 177.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bdb23a85-1c2d-40f4-93a8-5986db73898b",
+   "external_id": "bdb23a85-1c2d-40f4-93a8-5986db73898b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 9, Issue 9 (September 1995).pdf",
+   "bytes": 119795725,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-10",
+  "publication": "next-generation",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 177.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/835ed8e5-b674-46e2-9d40-667bc78fbba8",
+   "external_id": "835ed8e5-b674-46e2-9d40-667bc78fbba8",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 10, Issue 10 (October 1995).pdf",
+   "bytes": 129652327,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-11",
+  "publication": "next-generation",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 212,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 178.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8a1d1457-5d1e-4671-a683-bd1eefa93930",
+   "external_id": "8a1d1457-5d1e-4671-a683-bd1eefa93930",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 11, Issue 11 (November 1995).pdf",
+   "bytes": 193343205,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-12",
+  "publication": "next-generation",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 228,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 182.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a8019ff3-a916-4af4-85fb-e9cba5b58dbc",
+   "external_id": "a8019ff3-a916-4af4-85fb-e9cba5b58dbc",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 1, Number 12, Issue 12 (December 1995).pdf",
+   "bytes": 214656170,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-1-2",
+  "publication": "next-generation",
+  "sequence": 13,
+  "number": "1",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 195,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 178.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b9008a3e-a1a9-4793-a04e-fd8add012f7d",
+   "external_id": "b9008a3e-a1a9-4793-a04e-fd8add012f7d",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 1, Issue 13 (January 1996).pdf",
+   "bytes": 188286171,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-2-2",
+  "publication": "next-generation",
+  "sequence": 14,
+  "number": "2",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 200,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 176.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/de797a08-b088-43b6-834d-f240ceb15d55",
+   "external_id": "de797a08-b088-43b6-834d-f240ceb15d55",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 2, Issue 14 (February 1996).pdf",
+   "bytes": 209485187,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/next-generation-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-3-2",
+  "publication": "next-generation",
+  "sequence": 15,
+  "number": "3",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 177.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b0ea856-a939-4345-aa70-897de36662c6",
+   "external_id": "8b0ea856-a939-4345-aa70-897de36662c6",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 3, Issue 15 (March 1996).pdf",
+   "bytes": 106619149,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-4-2",
+  "publication": "next-generation",
+  "sequence": 16,
+  "number": "4",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 178.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/68275373-d57e-431b-b368-84878dff650c",
+   "external_id": "68275373-d57e-431b-b368-84878dff650c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 4, Issue 16 (April 1996).pdf",
+   "bytes": 124644697,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-5-2",
+  "publication": "next-generation",
+  "sequence": 17,
+  "number": "5",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 169.3,
+   "height_mm": 226.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8727de72-063e-4a40-b915-b4afb8941d1c",
+   "external_id": "8727de72-063e-4a40-b915-b4afb8941d1c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 5, Issue 17 (May 1996).pdf",
+   "bytes": 162248985,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-6-2",
+  "publication": "next-generation",
+  "sequence": 18,
+  "number": "6",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 169.3,
+   "height_mm": 224.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/157778be-0a6e-49ee-b493-08194f9e3eaf",
+   "external_id": "157778be-0a6e-49ee-b493-08194f9e3eaf",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 6, Issue 18 (June 1996).pdf",
+   "bytes": 177248554,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-7-2",
+  "publication": "next-generation",
+  "sequence": 19,
+  "number": "7",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 169.3,
+   "height_mm": 224.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11c764c9-1ffe-4049-9622-73e044fdfb9b",
+   "external_id": "11c764c9-1ffe-4049-9622-73e044fdfb9b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 7, Issue 19 (July 1996).pdf",
+   "bytes": 122173433,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-8-2",
+  "publication": "next-generation",
+  "sequence": 20,
+  "number": "8",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 121.9,
+   "height_mm": 162.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/954135f2-1920-4613-877f-595b2ff4cfcf",
+   "external_id": "954135f2-1920-4613-877f-595b2ff4cfcf",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 8, Issue 20 (August 1996).pdf",
+   "bytes": 67240798,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-9-2",
+  "publication": "next-generation",
+  "sequence": 21,
+  "number": "9",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 182,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 180.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/68b3189e-593f-421f-80ee-6be7f11aa2af",
+   "external_id": "68b3189e-593f-421f-80ee-6be7f11aa2af",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 9, Issue 21 (September 1996).pdf",
+   "bytes": 197772572,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-9-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-10-2",
+  "publication": "next-generation",
+  "sequence": 22,
+  "number": "10",
+  "date": {
+   "display": "October 1996",
+   "start": "1996-10",
+   "precision": "month"
+  },
+  "pages": 212,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 181.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/545eee3a-7c15-4943-9799-f9f568b04ab6",
+   "external_id": "545eee3a-7c15-4943-9799-f9f568b04ab6",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 10, Issue 22 (October 1996).pdf",
+   "bytes": 209283999,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-10-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-11-2",
+  "publication": "next-generation",
+  "sequence": 23,
+  "number": "11",
+  "date": {
+   "display": "November 1996",
+   "start": "1996-11",
+   "precision": "month"
+  },
+  "pages": 300,
+  "dimensions": {
+   "width_mm": 151.0,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b49d968c-94d1-4717-abae-a28fcbfd3ef9",
+   "external_id": "b49d968c-94d1-4717-abae-a28fcbfd3ef9",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 11, Issue 23 (November 1996).pdf",
+   "bytes": 319161237,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-11-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-12-2",
+  "publication": "next-generation",
+  "sequence": 24,
+  "number": "12",
+  "date": {
+   "display": "December 1996",
+   "start": "1996-12",
+   "precision": "month"
+  },
+  "pages": 292,
+  "dimensions": {
+   "width_mm": 147.7,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3bb2c7c8-0df3-41ce-bcd9-953d2ab276dd",
+   "external_id": "3bb2c7c8-0df3-41ce-bcd9-953d2ab276dd",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 2, Number 12, Issue 24 (December 1996).pdf",
+   "bytes": 308532955,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-12-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-1-3",
+  "publication": "next-generation",
+  "sequence": 25,
+  "number": "1",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 204,
+  "dimensions": {
+   "width_mm": 162.1,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ca21bf22-37fb-460e-aaff-d86d03eb6a92",
+   "external_id": "ca21bf22-37fb-460e-aaff-d86d03eb6a92",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 1, Issue 25 (January 1997).pdf",
+   "bytes": 238246639,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-2-3",
+  "publication": "next-generation",
+  "sequence": 26,
+  "number": "2",
+  "date": {
+   "display": "February 1997",
+   "start": "1997-02",
+   "precision": "month"
+  },
+  "pages": 158,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 181.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0fbf2e3-c4ef-4259-8be1-83726a4480f6",
+   "external_id": "a0fbf2e3-c4ef-4259-8be1-83726a4480f6",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 2, Issue 26 (February 1997).pdf",
+   "bytes": 158868767,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-3-3",
+  "publication": "next-generation",
+  "sequence": 27,
+  "number": "3",
+  "date": {
+   "display": "March 1997",
+   "start": "1997-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 161.8,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa9c8f96-4ce4-44f4-9f2b-f5994c1b8a9b",
+   "external_id": "fa9c8f96-4ce4-44f4-9f2b-f5994c1b8a9b",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 3, Issue 27 (March 1997).pdf",
+   "bytes": 139700373,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/next-generation-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-4-3",
+  "publication": "next-generation",
+  "sequence": 28,
+  "number": "4",
+  "date": {
+   "display": "April 1997",
+   "start": "1997-04",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 162.3,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1d1e6610-0dfe-4ecc-911a-bc9da8b110f6",
+   "external_id": "1d1e6610-0dfe-4ecc-911a-bc9da8b110f6",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 4, Issue 28 (April 1997).pdf",
+   "bytes": 184131134,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-5-3",
+  "publication": "next-generation",
+  "sequence": 29,
+  "number": "5",
+  "date": {
+   "display": "May 1997",
+   "start": "1997-05",
+   "precision": "month"
+  },
+  "pages": 176,
+  "dimensions": {
+   "width_mm": 137.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cd8760bf-3320-405c-aafc-b4d2713fe3fe",
+   "external_id": "cd8760bf-3320-405c-aafc-b4d2713fe3fe",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 5, Issue 29 (May 1997).pdf",
+   "bytes": 180041567,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-5-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-6-3",
+  "publication": "next-generation",
+  "sequence": 30,
+  "number": "6",
+  "date": {
+   "display": "June 1997",
+   "start": "1997-06",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 162.1,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aa7040cf-6ef1-4cf5-a6fe-fcf7d97e98f3",
+   "external_id": "aa7040cf-6ef1-4cf5-a6fe-fcf7d97e98f3",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 6, Issue 30 (June 1997).pdf",
+   "bytes": 168794920,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-6-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-7-3",
+  "publication": "next-generation",
+  "sequence": 31,
+  "number": "7",
+  "date": {
+   "display": "July 1997",
+   "start": "1997-07",
+   "precision": "month"
+  },
+  "pages": 200,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 179.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d10794e6-411b-41ff-9ce6-9f0026d1a11c",
+   "external_id": "d10794e6-411b-41ff-9ce6-9f0026d1a11c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 7, Issue 31 (July 1997).pdf",
+   "bytes": 184133112,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-7-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-8-3",
+  "publication": "next-generation",
+  "sequence": 32,
+  "number": "8",
+  "date": {
+   "display": "August 1997",
+   "start": "1997-08",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 163.7,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4068804b-5429-49fb-97eb-d8caf94e2e8f",
+   "external_id": "4068804b-5429-49fb-97eb-d8caf94e2e8f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 8, Issue 32 (August 1997).pdf",
+   "bytes": 164277296,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-8-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-9-3",
+  "publication": "next-generation",
+  "sequence": 33,
+  "number": "9",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 160,
+  "dimensions": {
+   "width_mm": 150.5,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a24cfb89-90f4-4d1c-a034-e651c3ecd004",
+   "external_id": "a24cfb89-90f4-4d1c-a034-e651c3ecd004",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 9, Issue 33 (September 1997).pdf",
+   "bytes": 150284629,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-9-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-10-3",
+  "publication": "next-generation",
+  "sequence": 34,
+  "number": "10",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 202,
+  "dimensions": {
+   "width_mm": 148.9,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/738f646c-269e-4182-b47f-7bc4e1680ca8",
+   "external_id": "738f646c-269e-4182-b47f-7bc4e1680ca8",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 10, Issue 34 (October 1997).pdf",
+   "bytes": 197176564,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-10-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-11-3",
+  "publication": "next-generation",
+  "sequence": 35,
+  "number": "11",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 228,
+  "dimensions": {
+   "width_mm": 149.5,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6bcbd4e6-4ae1-461c-8c71-41520c40d4d8",
+   "external_id": "6bcbd4e6-4ae1-461c-8c71-41520c40d4d8",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 11, Issue 35 (November 1997).pdf",
+   "bytes": 252705710,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-11-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-12-3",
+  "publication": "next-generation",
+  "sequence": 36,
+  "number": "12",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 196,
+  "dimensions": {
+   "width_mm": 149.5,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/671893c7-1755-4fbb-98ef-c0e755ef690c",
+   "external_id": "671893c7-1755-4fbb-98ef-c0e755ef690c",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 3, Number 12, Issue 36 (December 1997).pdf",
+   "bytes": 203707312,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-12-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-1-4",
+  "publication": "next-generation",
+  "sequence": 37,
+  "number": "1",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 180,
+  "dimensions": {
+   "width_mm": 150.5,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9a0a3fea-c75c-489c-8975-dd1e3c4adbe4",
+   "external_id": "9a0a3fea-c75c-489c-8975-dd1e3c4adbe4",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 1, Issue 37 (January 1998).pdf",
+   "bytes": 195734677,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-1-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-2-4",
+  "publication": "next-generation",
+  "sequence": 38,
+  "number": "2",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 162.3,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/477f74e8-dbee-446b-ab9c-ccd3e1cfb954",
+   "external_id": "477f74e8-dbee-446b-ab9c-ccd3e1cfb954",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 2, Issue 38 (February 1998).pdf",
+   "bytes": 167125510,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-2-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-3-4",
+  "publication": "next-generation",
+  "sequence": 39,
+  "number": "3",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 161.2,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45491100-9a7d-4a69-a120-5fc2a31cefb5",
+   "external_id": "45491100-9a7d-4a69-a120-5fc2a31cefb5",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 3, Issue 39 (March 1998).pdf",
+   "bytes": 172500554,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-3-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-4-4",
+  "publication": "next-generation",
+  "sequence": 40,
+  "number": "4",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 161.3,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e3cb274a-1572-491c-81f8-b7373c8f9308",
+   "external_id": "e3cb274a-1572-491c-81f8-b7373c8f9308",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 4, Issue 40 (April 1998).pdf",
+   "bytes": 157536215,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 4,
+  "assets": {
+   "cover": "site/public/covers/next-generation-4-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-5-4",
+  "publication": "next-generation",
+  "sequence": 41,
+  "number": "5",
+  "date": {
+   "display": "May 1998",
+   "start": "1998-05",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 161.5,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1f8b0462-c5d8-4e23-9e8e-020373f22ff7",
+   "external_id": "1f8b0462-c5d8-4e23-9e8e-020373f22ff7",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 5, Issue 41 (May 1998).pdf",
+   "bytes": 169711549,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-5-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-6-4",
+  "publication": "next-generation",
+  "sequence": 42,
+  "number": "6",
+  "date": {
+   "display": "June 1998",
+   "start": "1998-06",
+   "precision": "month"
+  },
+  "pages": 170,
+  "dimensions": {
+   "width_mm": 161.6,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/10bdf55d-d33d-420e-a22b-1bc55a44eee0",
+   "external_id": "10bdf55d-d33d-420e-a22b-1bc55a44eee0",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 6, Issue 42 (June 1998).pdf",
+   "bytes": 215145331,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-6-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-7-4",
+  "publication": "next-generation",
+  "sequence": 43,
+  "number": "7",
+  "date": {
+   "display": "July 1998",
+   "start": "1998-07",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 161.6,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9a161e8a-c5e4-4142-8779-d5d368e83b03",
+   "external_id": "9a161e8a-c5e4-4142-8779-d5d368e83b03",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 7, Issue 43 (July 1998).pdf",
+   "bytes": 179425512,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-7-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-8-4",
+  "publication": "next-generation",
+  "sequence": 44,
+  "number": "8",
+  "date": {
+   "display": "August 1998",
+   "start": "1998-08",
+   "precision": "month"
+  },
+  "pages": 120,
+  "dimensions": {
+   "width_mm": 161.9,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/74c92c9c-8ad3-41dd-a614-f9c41d57f507",
+   "external_id": "74c92c9c-8ad3-41dd-a614-f9c41d57f507",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 8, Issue 44 (August 1998).pdf",
+   "bytes": 139256900,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-8-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-9-4",
+  "publication": "next-generation",
+  "sequence": 45,
+  "number": "9",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 162.0,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8f075215-2c80-494b-88ec-0ed09dc0dc14",
+   "external_id": "8f075215-2c80-494b-88ec-0ed09dc0dc14",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 9, Issue 45 (September 1998).pdf",
+   "bytes": 205357925,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-9-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-10-4",
+  "publication": "next-generation",
+  "sequence": 46,
+  "number": "10",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 158,
+  "dimensions": {
+   "width_mm": 144.4,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7456b9d-6c19-4786-bccf-ea305ed506a7",
+   "external_id": "c7456b9d-6c19-4786-bccf-ea305ed506a7",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 10, Issue 46 (October 1998).pdf",
+   "bytes": 156117162,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-10-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-11-4",
+  "publication": "next-generation",
+  "sequence": 47,
+  "number": "11",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 190,
+  "dimensions": {
+   "width_mm": 147.2,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d45a1c18-e2c1-48dd-bb6f-54d6f915ae42",
+   "external_id": "d45a1c18-e2c1-48dd-bb6f-54d6f915ae42",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 11, Issue 47 (November 1998).pdf",
+   "bytes": 201122250,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-11-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-12-4",
+  "publication": "next-generation",
+  "sequence": 48,
+  "number": "12",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 169,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c3b68b2-2456-4acf-922e-9e5a2149dee8",
+   "external_id": "6c3b68b2-2456-4acf-922e-9e5a2149dee8",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Volume 4, Number 12, Issue 48 (December 1998).pdf",
+   "bytes": 180764173,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-12-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-49",
+  "publication": "next-generation",
+  "sequence": 49,
+  "number": "49",
+  "date": {
+   "display": "January 1999",
+   "start": "1999-01",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a21f7c91-ab9f-43a0-a77b-c594ca8a041a",
+   "external_id": "a21f7c91-ab9f-43a0-a77b-c594ca8a041a",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 49 (January 1999).pdf",
+   "bytes": 149316681,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-50",
+  "publication": "next-generation",
+  "sequence": 50,
+  "number": "50",
+  "date": {
+   "display": "February 1999",
+   "start": "1999-02",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 161.7,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/22f52af8-fb74-46ec-a049-5b666fb4f552",
+   "external_id": "22f52af8-fb74-46ec-a049-5b666fb4f552",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 50 (February 1999).pdf",
+   "bytes": 167638949,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-51",
+  "publication": "next-generation",
+  "sequence": 51,
+  "number": "51",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 161.6,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e38dd84f-94a4-4fa3-80fe-f451fdf240d9",
+   "external_id": "e38dd84f-94a4-4fa3-80fe-f451fdf240d9",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 51 (March 1999).pdf",
+   "bytes": 136426219,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-52",
+  "publication": "next-generation",
+  "sequence": 52,
+  "number": "52",
+  "date": {
+   "display": "April 1999",
+   "start": "1999-04",
+   "precision": "month"
+  },
+  "pages": 115,
+  "dimensions": {
+   "width_mm": 137.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d1d0633-9e41-4c3d-b89a-cd413bb6efbf",
+   "external_id": "2d1d0633-9e41-4c3d-b89a-cd413bb6efbf",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 52 (April 1999).pdf",
+   "bytes": 115981696,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-53",
+  "publication": "next-generation",
+  "sequence": 53,
+  "number": "53",
+  "date": {
+   "display": "May 1999",
+   "start": "1999-05",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 138.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d7a0c613-aeb9-4d47-9a83-e06bf2e79bd4",
+   "external_id": "d7a0c613-aeb9-4d47-9a83-e06bf2e79bd4",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 53 (May 1999).pdf",
+   "bytes": 119334003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-54",
+  "publication": "next-generation",
+  "sequence": 54,
+  "number": "54",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 138.6,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d3d0dcba-4da3-428d-a1d7-7391a857ce2f",
+   "external_id": "d3d0dcba-4da3-428d-a1d7-7391a857ce2f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 54 (June 1999).pdf",
+   "bytes": 118977676,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-55",
+  "publication": "next-generation",
+  "sequence": 55,
+  "number": "55",
+  "date": {
+   "display": "July 1999",
+   "start": "1999-07",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 138.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6806030-4b1a-45c0-afae-5802f11f28f2",
+   "external_id": "a6806030-4b1a-45c0-afae-5802f11f28f2",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 55 (July 1999).pdf",
+   "bytes": 117069812,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-56",
+  "publication": "next-generation",
+  "sequence": 56,
+  "number": "56",
+  "date": {
+   "display": "August 1999",
+   "start": "1999-08",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 138.0,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9460ded1-e380-4f24-bc78-e9358ae87fc3",
+   "external_id": "9460ded1-e380-4f24-bc78-e9358ae87fc3",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/Next Generation, Issue 56 (August 1999).pdf",
+   "bytes": 110578835,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-1-5",
+  "publication": "next-generation",
+  "sequence": 57,
+  "number": "1",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 137.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6cd20320-cca7-4c5b-a234-cd94c02a53c2",
+   "external_id": "6cd20320-cca7-4c5b-a234-cd94c02a53c2",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 1, Number 1 (September 1999).pdf",
+   "bytes": 128878827,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/next-generation-1-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-2-5",
+  "publication": "next-generation",
+  "sequence": 58,
+  "number": "2",
+  "date": {
+   "display": "October 1999",
+   "start": "1999-10",
+   "precision": "month"
+  },
+  "pages": 136,
+  "dimensions": {
+   "width_mm": 138.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3d9eb48b-942d-4182-9a9e-4955dc9fc054",
+   "external_id": "3d9eb48b-942d-4182-9a9e-4955dc9fc054",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 1, Number 2 (October 1999).pdf",
+   "bytes": 167733282,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-2-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-3-5",
+  "publication": "next-generation",
+  "sequence": 59,
+  "number": "3",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 145,
+  "dimensions": {
+   "width_mm": 134.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/08caf8e3-fee9-4bfc-9c5b-5cbcc87cc5c1",
+   "external_id": "08caf8e3-fee9-4bfc-9c5b-5cbcc87cc5c1",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 1, Number 3 (November 1999).pdf",
+   "bytes": 165387810,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-3-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-4-5",
+  "publication": "next-generation",
+  "sequence": 60,
+  "number": "4",
+  "date": {
+   "display": "December 1999",
+   "start": "1999-12",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 138.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f6150fd1-5e38-4144-83eb-a94dbdf199d7",
+   "external_id": "f6150fd1-5e38-4144-83eb-a94dbdf199d7",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 1, Number 4 (December 1999).pdf",
+   "bytes": 159217119,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-4-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-1-6",
+  "publication": "next-generation",
+  "sequence": 61,
+  "number": "1",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 138.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c21ba2ba-84a7-4ee1-a253-9c0c53b4aefa",
+   "external_id": "c21ba2ba-84a7-4ee1-a253-9c0c53b4aefa",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 1 (January 2000).pdf",
+   "bytes": 132710459,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-1-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-2-6",
+  "publication": "next-generation",
+  "sequence": 62,
+  "number": "2",
+  "date": {
+   "display": "February 2000",
+   "start": "2000-02",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/89cfbc47-53ea-4bfb-ac8b-b5e6dc362cef",
+   "external_id": "89cfbc47-53ea-4bfb-ac8b-b5e6dc362cef",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 2 (February 2000).pdf",
+   "bytes": 138560949,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/next-generation-2-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-3-6",
+  "publication": "next-generation",
+  "sequence": 63,
+  "number": "3",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 138.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/973262ee-1774-4708-80a0-9daae0ea2d9d",
+   "external_id": "973262ee-1774-4708-80a0-9daae0ea2d9d",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 3 (March 2000).pdf",
+   "bytes": 138502093,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-3-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-4-6",
+  "publication": "next-generation",
+  "sequence": 64,
+  "number": "4",
+  "date": {
+   "display": "April 2000",
+   "start": "2000-04",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 139.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/967d71a4-c10b-4aec-9424-00b2aa01d672",
+   "external_id": "967d71a4-c10b-4aec-9424-00b2aa01d672",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 4 (April 2000).pdf",
+   "bytes": 131909696,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-4-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-5-5",
+  "publication": "next-generation",
+  "sequence": 65,
+  "number": "5",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 153.1,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/18e79712-43e2-413f-bfca-86b68824675e",
+   "external_id": "18e79712-43e2-413f-bfca-86b68824675e",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 5 (May 2000).pdf",
+   "bytes": 141818013,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-5-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-6-5",
+  "publication": "next-generation",
+  "sequence": 66,
+  "number": "6",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 153.4,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/081f3f63-80b3-41d7-9685-e07969d265dd",
+   "external_id": "081f3f63-80b3-41d7-9685-e07969d265dd",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 6 (June 2000).pdf",
+   "bytes": 142644210,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-6-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-7-5",
+  "publication": "next-generation",
+  "sequence": 67,
+  "number": "7",
+  "date": {
+   "display": "July 2000",
+   "start": "2000-07",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 152.5,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a6b63845-cd33-46ca-8bbf-734dc1dff69e",
+   "external_id": "a6b63845-cd33-46ca-8bbf-734dc1dff69e",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 7 (July 2000).pdf",
+   "bytes": 134495834,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-7-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-8-5",
+  "publication": "next-generation",
+  "sequence": 68,
+  "number": "8",
+  "date": {
+   "display": "August 2000",
+   "start": "2000-08",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 152.7,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a1b374df-7577-4282-937c-081b3e63c951",
+   "external_id": "a1b374df-7577-4282-937c-081b3e63c951",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 8 (August 2000).pdf",
+   "bytes": 129246865,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-8-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-9-5",
+  "publication": "next-generation",
+  "sequence": 69,
+  "number": "9",
+  "date": {
+   "display": "September 2000",
+   "start": "2000-09",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 170.4,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c03cc2de-06b1-4b6f-9ba4-6f87c6109694",
+   "external_id": "c03cc2de-06b1-4b6f-9ba4-6f87c6109694",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 9 (September 2000).pdf",
+   "bytes": 167178182,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-9-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-10-5",
+  "publication": "next-generation",
+  "sequence": 70,
+  "number": "10",
+  "date": {
+   "display": "October 2000",
+   "start": "2000-10",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 171.4,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a0872e36-c404-4806-96b4-fa597923b981",
+   "external_id": "a0872e36-c404-4806-96b4-fa597923b981",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 10 (October 2000).pdf",
+   "bytes": 192179248,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-10-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-11-5",
+  "publication": "next-generation",
+  "sequence": 71,
+  "number": "11",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 158,
+  "dimensions": {
+   "width_mm": 228.6,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d4b9ccb7-60c1-4637-86f0-2a8e8ee61471",
+   "external_id": "d4b9ccb7-60c1-4637-86f0-2a8e8ee61471",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 11 (November 2000).pdf",
+   "bytes": 166710942,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-11-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-12-5",
+  "publication": "next-generation",
+  "sequence": 72,
+  "number": "12",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 156,
+  "dimensions": {
+   "width_mm": 170.9,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/46f27f99-5f5f-42c8-91e1-58e686630170",
+   "external_id": "46f27f99-5f5f-42c8-91e1-58e686630170",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 2, Number 12 (December 2000).pdf",
+   "bytes": 211097254,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-12-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-1-7",
+  "publication": "next-generation",
+  "sequence": 73,
+  "number": "1",
+  "date": {
+   "display": "January 2001",
+   "start": "2001-01",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 171.8,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/daa4e7ea-3386-451d-93a2-138aa53925ba",
+   "external_id": "daa4e7ea-3386-451d-93a2-138aa53925ba",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 1 (January 2001).pdf",
+   "bytes": 170365272,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-1-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-2-7",
+  "publication": "next-generation",
+  "sequence": 74,
+  "number": "2",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 171.1,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/16792724-4167-4433-9bb9-ed76900361c1",
+   "external_id": "16792724-4167-4433-9bb9-ed76900361c1",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 2 (February 2001).pdf",
+   "bytes": 133556530,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-2-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-3-7",
+  "publication": "next-generation",
+  "sequence": 75,
+  "number": "3",
+  "date": {
+   "display": "March 2001",
+   "start": "2001-03",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 171.1,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d2540d9b-42b7-400d-bc70-07b70df4e3c5",
+   "external_id": "d2540d9b-42b7-400d-bc70-07b70df4e3c5",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 3 (March 2001).pdf",
+   "bytes": 137806842,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/next-generation-3-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-4-7",
+  "publication": "next-generation",
+  "sequence": 76,
+  "number": "4",
+  "date": {
+   "display": "April 2001",
+   "start": "2001-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 172.6,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/479919b6-1208-448a-a708-a5148e18c38a",
+   "external_id": "479919b6-1208-448a-a708-a5148e18c38a",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 4 (April 2001).pdf",
+   "bytes": 147239791,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-4-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-5-6",
+  "publication": "next-generation",
+  "sequence": 77,
+  "number": "5",
+  "date": {
+   "display": "May 2001",
+   "start": "2001-05",
+   "precision": "month"
+  },
+  "pages": 103,
+  "dimensions": {
+   "width_mm": 132.8,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7c3c52eb-5596-42b1-9404-b82a08c5ec95",
+   "external_id": "7c3c52eb-5596-42b1-9404-b82a08c5ec95",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 5 (May 2001).pdf",
+   "bytes": 122152641,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-5-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-6-6",
+  "publication": "next-generation",
+  "sequence": 78,
+  "number": "6",
+  "date": {
+   "display": "June 2001",
+   "start": "2001-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 153.1,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b94dd0fb-36f5-4573-9ef5-183eca3bec22",
+   "external_id": "b94dd0fb-36f5-4573-9ef5-183eca3bec22",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 6 (June 2001).pdf",
+   "bytes": 113080932,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-6-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-7-6",
+  "publication": "next-generation",
+  "sequence": 79,
+  "number": "7",
+  "date": {
+   "display": "July 2001",
+   "start": "2001-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 152.0,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26ed9201-b239-49d5-b593-d53d03f65123",
+   "external_id": "26ed9201-b239-49d5-b593-d53d03f65123",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 7 (July 2001).pdf",
+   "bytes": 114672783,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-7-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-8-6",
+  "publication": "next-generation",
+  "sequence": 80,
+  "number": "8",
+  "date": {
+   "display": "August 2001",
+   "start": "2001-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 153.1,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6db5ac78-ddd2-40e9-8d08-32678df6be4f",
+   "external_id": "6db5ac78-ddd2-40e9-8d08-32678df6be4f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 8 (August 2001).pdf",
+   "bytes": 115055449,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-8-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-9-6",
+  "publication": "next-generation",
+  "sequence": 81,
+  "number": "9",
+  "date": {
+   "display": "September 2001",
+   "start": "2001-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 153.3,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d3e64736-2834-46aa-9fd5-2a7708bd9a34",
+   "external_id": "d3e64736-2834-46aa-9fd5-2a7708bd9a34",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 9 (September 2001).pdf",
+   "bytes": 113925359,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-9-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-10-6",
+  "publication": "next-generation",
+  "sequence": 82,
+  "number": "10",
+  "date": {
+   "display": "October 2001",
+   "start": "2001-10",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 153.4,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d276a8b1-7237-4748-87a5-bb3f135866c0",
+   "external_id": "d276a8b1-7237-4748-87a5-bb3f135866c0",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 10 (October 2001).pdf",
+   "bytes": 119725583,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-10-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-11-6",
+  "publication": "next-generation",
+  "sequence": 83,
+  "number": "11",
+  "date": {
+   "display": "November 2001",
+   "start": "2001-11",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 154.6,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1ae86139-92e6-47ad-b0e2-48a35612d693",
+   "external_id": "1ae86139-92e6-47ad-b0e2-48a35612d693",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 11 (November 2001).pdf",
+   "bytes": 138964671,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-11-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-12-6",
+  "publication": "next-generation",
+  "sequence": 84,
+  "number": "12",
+  "date": {
+   "display": "December 2001",
+   "start": "2001-12",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 153.9,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/57cb9cd7-5e8e-4563-914e-0adc4d6f930f",
+   "external_id": "57cb9cd7-5e8e-4563-914e-0adc4d6f930f",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 3, Number 12 (December 2001).pdf",
+   "bytes": 157941368,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-12-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "next-generation-1-8",
+  "publication": "next-generation",
+  "sequence": 85,
+  "number": "1",
+  "date": {
+   "display": "January 2002",
+   "start": "2002-01",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 151.8,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3291caa3-9d14-4c56-aea5-1ee1bbd3cfcf",
+   "external_id": "3291caa3-9d14-4c56-aea5-1ee1bbd3cfcf",
+   "retrieved_at": "2026-09-14T09:34:01+00:00"
+  },
+  "files": {
+   "pdf": "library/next-generation/pdf/NextGen, Volume 4, Number 1 (January 2002).pdf",
+   "bytes": 123574430,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/next-generation-1-8.jpg",
+   "pages_rendered": false
+  }
+ }
+]

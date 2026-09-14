@@ -41,10 +41,12 @@
     }
   ],
   "stats": {
-    "issues": 0,
-    "pages": 0,
+    "issues": 11,
+    "pages": 324,
     "readable": 0,
-    "with_text": 0
+    "with_text": 10,
+    "first_year": 1982,
+    "last_year": 1984
   },
-  "updated_at": "2026-09-13T21:27:15+00:00"
+  "updated_at": "2026-09-14T18:59:56+00:00"
 }

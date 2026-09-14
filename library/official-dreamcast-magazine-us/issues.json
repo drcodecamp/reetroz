@@ -1,1 +1,495 @@
-[]
+[
+ {
+  "id": "official-dreamcast-magazine-us-0",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 1,
+  "number": "0",
+  "date": {
+   "display": "June 1999",
+   "start": "1999-06",
+   "precision": "month"
+  },
+  "pages": 36,
+  "dimensions": {
+   "width_mm": 253.5,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ecd66e25-553b-425e-a53a-173a5b8c9f6f",
+   "external_id": "ecd66e25-553b-425e-a53a-173a5b8c9f6f",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 0 (June 1999).pdf",
+   "bytes": 47055461,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-0.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-1",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 2,
+  "number": "1",
+  "date": {
+   "display": "September 1999",
+   "start": "1999-09",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 248.1,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/44f70a3b-b3cc-407e-87f4-46e90d1a1a33",
+   "external_id": "44f70a3b-b3cc-407e-87f4-46e90d1a1a33",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 1 (September 1999).pdf",
+   "bytes": 193320898,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-2",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 3,
+  "number": "2",
+  "date": {
+   "display": "November 1999",
+   "start": "1999-11",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 253.9,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7423395b-14e2-4feb-8f44-05606bb7ced6",
+   "external_id": "7423395b-14e2-4feb-8f44-05606bb7ced6",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 2 (November 1999).pdf",
+   "bytes": 196898251,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-3",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 4,
+  "number": "3",
+  "date": {
+   "display": "January 2000",
+   "start": "2000-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 253.9,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/777fdaa7-14ac-4533-b454-a54379523664",
+   "external_id": "777fdaa7-14ac-4533-b454-a54379523664",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 3 (January 2000).pdf",
+   "bytes": 224598187,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-4",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 5,
+  "number": "4",
+  "date": {
+   "display": "March 2000",
+   "start": "2000-03",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 251.3,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/99fbd8f6-e1d2-4ecb-8940-6c923f09747e",
+   "external_id": "99fbd8f6-e1d2-4ecb-8940-6c923f09747e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 4 (March 2000).pdf",
+   "bytes": 196223315,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-5",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 6,
+  "number": "5",
+  "date": {
+   "display": "May 2000",
+   "start": "2000-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 253.3,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c50d7083-a6c7-492d-bc0c-e8fd6f363c3e",
+   "external_id": "c50d7083-a6c7-492d-bc0c-e8fd6f363c3e",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 5 (May 2000).pdf",
+   "bytes": 203615816,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-6",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 7,
+  "number": "6",
+  "date": {
+   "display": "July/August 2000",
+   "start": "2000-07",
+   "precision": "month",
+   "end": "2000-08"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 255.4,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ccca4611-cebe-4a4c-9b68-219a309860b8",
+   "external_id": "ccca4611-cebe-4a4c-9b68-219a309860b8",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 6 (July-August 2000).pdf",
+   "bytes": 211929281,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-7",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 8,
+  "number": "7",
+  "date": {
+   "display": "September/October 2000",
+   "start": "2000-09",
+   "precision": "month",
+   "end": "2000-10"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 246.4,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/49aae703-9cbe-4d25-b6c8-fa8271eebbad",
+   "external_id": "49aae703-9cbe-4d25-b6c8-fa8271eebbad",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 7 (September-October 2000).pdf",
+   "bytes": 231636103,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-8",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 9,
+  "number": "8",
+  "date": {
+   "display": "November 2000",
+   "start": "2000-11",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 246.0,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/33876acf-b17b-485f-9cab-a7eb22cff7cf",
+   "external_id": "33876acf-b17b-485f-9cab-a7eb22cff7cf",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 8 (November 2000).pdf",
+   "bytes": 246427875,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-9",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 10,
+  "number": "9",
+  "date": {
+   "display": "December 2000",
+   "start": "2000-12",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 252.0,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/95d404e4-5ca6-4ec3-a14a-2a45e4165cc9",
+   "external_id": "95d404e4-5ca6-4ec3-a14a-2a45e4165cc9",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 9 (December 2000).pdf",
+   "bytes": 225355202,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-10",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 11,
+  "number": "10",
+  "date": {
+   "display": "Holiday 2000",
+   "start": "2000-12",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 254.0,
+   "height_mm": 305.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ff43eb97-a1aa-4488-a0e9-06681ba3dc25",
+   "external_id": "ff43eb97-a1aa-4488-a0e9-06681ba3dc25",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 10 (Holiday 2000).pdf",
+   "bytes": 214647412,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-200012-official-sega-dreamcast-magazine-presents-codebo",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "Winter 2000",
+   "start": "2000-12",
+   "precision": "season"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ea16e5b3-e524-4e1d-b2c0-bcc961c8d1ff",
+   "external_id": "ea16e5b3-e524-4e1d-b2c0-bcc961c8d1ff",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine presents Codebook (Winter 2000).pdf",
+   "bytes": 127238112,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-200012-official-sega-dreamcast-magazine-presents-codebo.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-11",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 13,
+  "number": "11",
+  "date": {
+   "display": "February 2001",
+   "start": "2001-02",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 269.1,
+   "height_mm": 329.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7113b108-4b5c-45cb-9695-9fdbd388385b",
+   "external_id": "7113b108-4b5c-45cb-9695-9fdbd388385b",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 11 (February 2001).pdf",
+   "bytes": 211146186,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "official-dreamcast-magazine-us-12",
+  "publication": "official-dreamcast-magazine-us",
+  "sequence": 14,
+  "number": "12",
+  "date": {
+   "display": "March/April 2001",
+   "start": "2001-03",
+   "precision": "month",
+   "end": "2001-04"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 329.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aaaaabfa-6138-4bb1-a153-8d7b6eb8a9f1",
+   "external_id": "aaaaabfa-6138-4bb1-a153-8d7b6eb8a9f1",
+   "retrieved_at": "2026-09-14T09:35:43+00:00"
+  },
+  "files": {
+   "pdf": "library/official-dreamcast-magazine-us/pdf/Official Sega Dreamcast Magazine, Issue 12 (March-April 2001).pdf",
+   "bytes": 221666851,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:43+00:00",
+  "assets": {
+   "cover": "site/public/covers/official-dreamcast-magazine-us-12.jpg",
+   "pages_rendered": false
+  }
+ }
+]

@@ -1,1 +1,2315 @@
-[]
+[
+ {
+  "id": "computer-game-review-199006-computer-fun-games-premiere-issue",
+  "publication": "computer-game-review",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "June 1990",
+   "start": "1990-06",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 214.0,
+   "height_mm": 282.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8caaa96d-c178-45ac-ac8c-03f9df9eadb7",
+   "external_id": "8caaa96d-c178-45ac-ac8c-03f9df9eadb7",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Fun & Games, Premiere Issue (June 1990).pdf",
+   "bytes": 68134653,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-199006-computer-fun-games-premiere-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-2",
+  "publication": "computer-game-review",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "September 1990",
+   "start": "1990-09",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 281.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc993f6c-7847-4786-9308-74d257647f4c",
+   "external_id": "cc993f6c-7847-4786-9308-74d257647f4c",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Fun & Games, Issue 2 (September 1990).pdf",
+   "bytes": 75691518,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-1",
+  "publication": "computer-game-review",
+  "sequence": 3,
+  "number": "1",
+  "date": {
+   "display": "August 1991",
+   "start": "1991-08",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 210.8,
+   "height_mm": 274.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b08b993e-b7fa-4049-b368-fe95ae8b6994",
+   "external_id": "b08b993e-b7fa-4049-b368-fe95ae8b6994",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 1, Number 1 (August 1991).pdf",
+   "bytes": 51555338,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-2-2",
+  "publication": "computer-game-review",
+  "sequence": 4,
+  "number": "2",
+  "date": {
+   "display": "September 1991",
+   "start": "1991-09",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 211.8,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/41434f49-fdbd-4fcc-bc81-23261831133b",
+   "external_id": "41434f49-fdbd-4fcc-bc81-23261831133b",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 2, Number 2 (September 1991).pdf",
+   "bytes": 58811599,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-3",
+  "publication": "computer-game-review",
+  "sequence": 5,
+  "number": "3",
+  "date": {
+   "display": "October 1991",
+   "start": "1991-10",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 210.1,
+   "height_mm": 273.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/64591cfe-6179-4076-8a37-9527ad905481",
+   "external_id": "64591cfe-6179-4076-8a37-9527ad905481",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 3, Number 3 (October 1991).pdf",
+   "bytes": 62079781,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-4",
+  "publication": "computer-game-review",
+  "sequence": 6,
+  "number": "4",
+  "date": {
+   "display": "November 1991",
+   "start": "1991-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1a09d624-7b76-42ab-8e9a-7c661183b075",
+   "external_id": "1a09d624-7b76-42ab-8e9a-7c661183b075",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 4, Number 4 (November 1991).pdf",
+   "bytes": 113495633,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-5",
+  "publication": "computer-game-review",
+  "sequence": 7,
+  "number": "5",
+  "date": {
+   "display": "December 1991",
+   "start": "1991-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e4fe8bec-5bd8-4667-8320-6aa087071dfd",
+   "external_id": "e4fe8bec-5bd8-4667-8320-6aa087071dfd",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 5, Number 5 (December 1991).pdf",
+   "bytes": 112207908,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-6",
+  "publication": "computer-game-review",
+  "sequence": 8,
+  "number": "6",
+  "date": {
+   "display": "January 1992",
+   "start": "1992-01",
+   "precision": "month"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d17736dd-b008-46d2-89c1-e53b24264e6f",
+   "external_id": "d17736dd-b008-46d2-89c1-e53b24264e6f",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 6, Number 6 (January 1992).pdf",
+   "bytes": 83648949,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-7",
+  "publication": "computer-game-review",
+  "sequence": 9,
+  "number": "7",
+  "date": {
+   "display": "February 1992",
+   "start": "1992-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eae25f21-4e1d-4f9c-b124-87f028b0730a",
+   "external_id": "eae25f21-4e1d-4f9c-b124-87f028b0730a",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 7, Number 7 (February 1992).pdf",
+   "bytes": 116238688,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-8",
+  "publication": "computer-game-review",
+  "sequence": 10,
+  "number": "8",
+  "date": {
+   "display": "March 1992",
+   "start": "1992-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 215.0,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7bbc0263-25ff-4c50-8a55-5920d6db0662",
+   "external_id": "7bbc0263-25ff-4c50-8a55-5920d6db0662",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 8, Number 8 (March 1992).pdf",
+   "bytes": 77106144,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-9",
+  "publication": "computer-game-review",
+  "sequence": 11,
+  "number": "9",
+  "date": {
+   "display": "April 1992",
+   "start": "1992-04",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6f9b0057-4783-4802-91a4-27811f7c57ab",
+   "external_id": "6f9b0057-4783-4802-91a4-27811f7c57ab",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 9, Number 9 (April 1992).pdf",
+   "bytes": 95078976,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-10",
+  "publication": "computer-game-review",
+  "sequence": 12,
+  "number": "10",
+  "date": {
+   "display": "May 1992",
+   "start": "1992-05",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 212.4,
+   "height_mm": 272.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ff87dc73-437c-4a90-a268-b3bd03540145",
+   "external_id": "ff87dc73-437c-4a90-a268-b3bd03540145",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 10, Number 10 (May 1992).pdf",
+   "bytes": 56202027,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-11",
+  "publication": "computer-game-review",
+  "sequence": 13,
+  "number": "11",
+  "date": {
+   "display": "June 1992",
+   "start": "1992-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 272.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/efdbdd6a-ffe0-4750-9f32-0c24f0b8e7fc",
+   "external_id": "efdbdd6a-ffe0-4750-9f32-0c24f0b8e7fc",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 11, Number 11 (June 1992).pdf",
+   "bytes": 77972120,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-12",
+  "publication": "computer-game-review",
+  "sequence": 14,
+  "number": "12",
+  "date": {
+   "display": "July 1992",
+   "start": "1992-07",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 211.8,
+   "height_mm": 275.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bb028781-ea95-4859-8617-aac089be8b8e",
+   "external_id": "bb028781-ea95-4859-8617-aac089be8b8e",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 12, Number 12 (July 1992).pdf",
+   "bytes": 58039701,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-13",
+  "publication": "computer-game-review",
+  "sequence": 15,
+  "number": "13",
+  "date": {
+   "display": "August 1992",
+   "start": "1992-08",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 135.5,
+   "height_mm": 179.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e6be575a-c6c7-4e16-8bf1-d842dbd9c998",
+   "external_id": "e6be575a-c6c7-4e16-8bf1-d842dbd9c998",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 1, Number 13 (August 1992).pdf",
+   "bytes": 113511039,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-14",
+  "publication": "computer-game-review",
+  "sequence": 16,
+  "number": "14",
+  "date": {
+   "display": "September 1992",
+   "start": "1992-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/514136e4-14fa-47e9-ba1c-94c3d2173cb1",
+   "external_id": "514136e4-14fa-47e9-ba1c-94c3d2173cb1",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 2, Number 14 (September 1992).pdf",
+   "bytes": 84483167,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-15",
+  "publication": "computer-game-review",
+  "sequence": 17,
+  "number": "15",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 212.0,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6dce14fb-151c-4325-9f3e-51e2a443664d",
+   "external_id": "6dce14fb-151c-4325-9f3e-51e2a443664d",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 3, Number 15 (October 1992).pdf",
+   "bytes": 90923858,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-16",
+  "publication": "computer-game-review",
+  "sequence": 18,
+  "number": "16",
+  "date": {
+   "display": "November 1992",
+   "start": "1992-11",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 213.2,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac42333d-0d75-4890-a05a-761bd8ad7d34",
+   "external_id": "ac42333d-0d75-4890-a05a-761bd8ad7d34",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 4, Number 16 (November 1992).pdf",
+   "bytes": 88399575,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-17",
+  "publication": "computer-game-review",
+  "sequence": 19,
+  "number": "17",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 211.5,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4fcb9073-2ad2-45a7-a737-0dcbe9d1eb3c",
+   "external_id": "4fcb9073-2ad2-45a7-a737-0dcbe9d1eb3c",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 5, Number 17 (December 1992).pdf",
+   "bytes": 119933835,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-18",
+  "publication": "computer-game-review",
+  "sequence": 20,
+  "number": "18",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 210.7,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4a534e1b-20ec-4bc4-bff1-ae2a117322fd",
+   "external_id": "4a534e1b-20ec-4bc4-bff1-ae2a117322fd",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 6, Number 18 (January 1993).pdf",
+   "bytes": 111368772,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-19",
+  "publication": "computer-game-review",
+  "sequence": 21,
+  "number": "19",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 211.5,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e228feb3-960e-4958-8c42-eaff020495e2",
+   "external_id": "e228feb3-960e-4958-8c42-eaff020495e2",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 7, Number 19 (February 1993).pdf",
+   "bytes": 156868862,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-20",
+  "publication": "computer-game-review",
+  "sequence": 22,
+  "number": "20",
+  "date": {
+   "display": "March 1993",
+   "start": "1993-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 212.5,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/35c151cb-877b-456f-b716-ab818e575d34",
+   "external_id": "35c151cb-877b-456f-b716-ab818e575d34",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 8, Number 20 (March 1993).pdf",
+   "bytes": 89124977,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-21",
+  "publication": "computer-game-review",
+  "sequence": 23,
+  "number": "21",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 211.5,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1fbb001a-a533-4320-bd6d-590ed158ecbb",
+   "external_id": "1fbb001a-a533-4320-bd6d-590ed158ecbb",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 9, Number 21 (April 1993).pdf",
+   "bytes": 170243481,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-22",
+  "publication": "computer-game-review",
+  "sequence": 24,
+  "number": "22",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 212.1,
+   "height_mm": 273.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f9a117fd-1802-4385-bed1-f507d06cf815",
+   "external_id": "f9a117fd-1802-4385-bed1-f507d06cf815",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 10, Number 22 (May 1993).pdf",
+   "bytes": 97227943,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-23",
+  "publication": "computer-game-review",
+  "sequence": 25,
+  "number": "23",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 213.0,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e53f85ca-369d-4ff0-9655-3240a01cd873",
+   "external_id": "e53f85ca-369d-4ff0-9655-3240a01cd873",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 11, Number 23 (June 1993).pdf",
+   "bytes": 101139230,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-24",
+  "publication": "computer-game-review",
+  "sequence": 26,
+  "number": "24",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 170.4,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e0861fc9-e1d7-4271-8e5d-c60b5a90df00",
+   "external_id": "e0861fc9-e1d7-4271-8e5d-c60b5a90df00",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 12, Number 24 (July 1993).pdf",
+   "bytes": 98372060,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-25",
+  "publication": "computer-game-review",
+  "sequence": 27,
+  "number": "25",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 211.8,
+   "height_mm": 272.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d6ca89f-a33c-49a2-ac2c-344f641ae59f",
+   "external_id": "7d6ca89f-a33c-49a2-ac2c-344f641ae59f",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 1, Number 25 (August 1993).pdf",
+   "bytes": 69144035,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-26",
+  "publication": "computer-game-review",
+  "sequence": 28,
+  "number": "26",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c40871e7-26c2-4d3b-9f14-bcdbdbf6d8d3",
+   "external_id": "c40871e7-26c2-4d3b-9f14-bcdbdbf6d8d3",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 2, Number 26 (September 1993).pdf",
+   "bytes": 115243415,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-27",
+  "publication": "computer-game-review",
+  "sequence": 29,
+  "number": "27",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 212.6,
+   "height_mm": 273.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/38c367de-a64b-4fca-afac-9812c78464f9",
+   "external_id": "38c367de-a64b-4fca-afac-9812c78464f9",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 3, Number 27 (October 1993).pdf",
+   "bytes": 96143853,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-28",
+  "publication": "computer-game-review",
+  "sequence": 30,
+  "number": "28",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 196,
+  "dimensions": {
+   "width_mm": 210.2,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df5d034d-67ae-4aed-8ba8-df529fec3262",
+   "external_id": "df5d034d-67ae-4aed-8ba8-df529fec3262",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 4, Number 28 (November 1993).pdf",
+   "bytes": 157763535,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-29",
+  "publication": "computer-game-review",
+  "sequence": 31,
+  "number": "29",
+  "date": {
+   "display": "December 1993",
+   "start": "1993-12",
+   "precision": "month"
+  },
+  "pages": 168,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/551750e8-a314-4ccb-afdd-5d692b014110",
+   "external_id": "551750e8-a314-4ccb-afdd-5d692b014110",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 5, Number 29 (December 1993).pdf",
+   "bytes": 135781076,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-30",
+  "publication": "computer-game-review",
+  "sequence": 32,
+  "number": "30",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 272.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c938c7f8-3842-462b-9afd-d88c1395ce41",
+   "external_id": "c938c7f8-3842-462b-9afd-d88c1395ce41",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 6, Number 30 (January 1994).pdf",
+   "bytes": 109104125,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-31",
+  "publication": "computer-game-review",
+  "sequence": 33,
+  "number": "31",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 210.7,
+   "height_mm": 272.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ee36f422-488c-4627-8544-379468dd6955",
+   "external_id": "ee36f422-488c-4627-8544-379468dd6955",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 7, Number 31 (February 1994).pdf",
+   "bytes": 91582665,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-32",
+  "publication": "computer-game-review",
+  "sequence": 34,
+  "number": "32",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.5,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e934dd06-848a-4a56-a9c8-3593f8bfa84d",
+   "external_id": "e934dd06-848a-4a56-a9c8-3593f8bfa84d",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 8, Number 32 (March 1994).pdf",
+   "bytes": 83605732,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-33",
+  "publication": "computer-game-review",
+  "sequence": 35,
+  "number": "33",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 274.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c12fb6b4-8e15-4e82-b98a-d67fcf956309",
+   "external_id": "c12fb6b4-8e15-4e82-b98a-d67fcf956309",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 9, Number 33 (April 1994).pdf",
+   "bytes": 98723443,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-1-2",
+  "publication": "computer-game-review",
+  "sequence": 36,
+  "number": "1",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 214.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f4b253ae-8534-4d09-9c13-99a84b575a75",
+   "external_id": "f4b253ae-8534-4d09-9c13-99a84b575a75",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/CD-ROM Entertainment, Volume 1, Issue 1 (May 1994).pdf",
+   "bytes": 77192794,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-34",
+  "publication": "computer-game-review",
+  "sequence": 37,
+  "number": "34",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 212.7,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8b36a67-17d4-4d15-90ee-43dd9a14af76",
+   "external_id": "f8b36a67-17d4-4d15-90ee-43dd9a14af76",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 3, Issue 10, Number 34 (May 1994).pdf",
+   "bytes": 96568505,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-35",
+  "publication": "computer-game-review",
+  "sequence": 38,
+  "number": "35",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 172.0,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2d1fcde5-e8db-48c2-9f89-419cb9d53e8d",
+   "external_id": "2d1fcde5-e8db-48c2-9f89-419cb9d53e8d",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 3, Issue 11, Number 35 (June 1994).pdf",
+   "bytes": 99778664,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-199406-cd-rom-entertainment",
+  "publication": "computer-game-review",
+  "sequence": 39,
+  "number": "special",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 214.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/43cf98ff-37a1-48a6-8f62-d4a8d7cf7468",
+   "external_id": "43cf98ff-37a1-48a6-8f62-d4a8d7cf7468",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/CD-ROM Entertainment (June 1994).pdf",
+   "bytes": 61520713,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-199406-cd-rom-entertainment.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-36",
+  "publication": "computer-game-review",
+  "sequence": 40,
+  "number": "36",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 211.7,
+   "height_mm": 273.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/84074748-f81e-49a6-ad0a-965e7738cdea",
+   "external_id": "84074748-f81e-49a6-ad0a-965e7738cdea",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 3, Issue 12, Number 36 (July 1994).pdf",
+   "bytes": 78855153,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-199407-cd-rom-entertainment",
+  "publication": "computer-game-review",
+  "sequence": 41,
+  "number": "special",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 214.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9adc4c58-a9d6-4d00-acfb-e870cde2f07c",
+   "external_id": "9adc4c58-a9d6-4d00-acfb-e870cde2f07c",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/CD-ROM Entertainment (July 1994).pdf",
+   "bytes": 77735863,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-199407-cd-rom-entertainment.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-37",
+  "publication": "computer-game-review",
+  "sequence": 42,
+  "number": "37",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 212.2,
+   "height_mm": 273.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/504a93f2-53d6-4b14-a573-a5cb6ef37139",
+   "external_id": "504a93f2-53d6-4b14-a573-a5cb6ef37139",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 4, Issue 1, Number 37 (August 1994).pdf",
+   "bytes": 76786149,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-199408-cd-rom-entertainment",
+  "publication": "computer-game-review",
+  "sequence": 43,
+  "number": "special",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 214.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dfdb9d05-d142-4cbe-907c-16e5f49809f7",
+   "external_id": "dfdb9d05-d142-4cbe-907c-16e5f49809f7",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/CD-ROM Entertainment (August 1994).pdf",
+   "bytes": 55282412,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-199408-cd-rom-entertainment.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-38",
+  "publication": "computer-game-review",
+  "sequence": 44,
+  "number": "38",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.2,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a979870b-620d-467e-89e5-5cea51a71b3a",
+   "external_id": "a979870b-620d-467e-89e5-5cea51a71b3a",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 4, Issue 2, Number 38 (September 1994).pdf",
+   "bytes": 78657269,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-199409-cd-rom-entertainment",
+  "publication": "computer-game-review",
+  "sequence": 45,
+  "number": "special",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 52,
+  "dimensions": {
+   "width_mm": 215.3,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/77a8388e-c4ec-4a49-b9eb-716c4f316c00",
+   "external_id": "77a8388e-c4ec-4a49-b9eb-716c4f316c00",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/CD-ROM Entertainment (September 1994).pdf",
+   "bytes": 60210431,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-199409-cd-rom-entertainment.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-39",
+  "publication": "computer-game-review",
+  "sequence": 46,
+  "number": "39",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 211.8,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4a4f526d-2a06-40f9-9e63-9dbe5b8bbf47",
+   "external_id": "4a4f526d-2a06-40f9-9e63-9dbe5b8bbf47",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 3, Number 39 (October 1994).pdf",
+   "bytes": 111758922,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-40",
+  "publication": "computer-game-review",
+  "sequence": 47,
+  "number": "40",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 180,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4ea8348d-e13b-4865-8c48-ac2117c8804b",
+   "external_id": "4ea8348d-e13b-4865-8c48-ac2117c8804b",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 4, Number 40 (November 1994).pdf",
+   "bytes": 144652777,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-41",
+  "publication": "computer-game-review",
+  "sequence": 48,
+  "number": "41",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 196,
+  "dimensions": {
+   "width_mm": 210.9,
+   "height_mm": 273.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b452b6b7-f97f-49f9-8586-d1dc3bb49d5d",
+   "external_id": "b452b6b7-f97f-49f9-8586-d1dc3bb49d5d",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 5, Number 41 (December 1994).pdf",
+   "bytes": 158287757,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-42",
+  "publication": "computer-game-review",
+  "sequence": 49,
+  "number": "42",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 168,
+  "dimensions": {
+   "width_mm": 211.3,
+   "height_mm": 274.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/acbabfcb-e4ea-409e-8f47-8c93f9a8ac58",
+   "external_id": "acbabfcb-e4ea-409e-8f47-8c93f9a8ac58",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 6, Number 42 (January 1995).pdf",
+   "bytes": 135106688,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-43",
+  "publication": "computer-game-review",
+  "sequence": 50,
+  "number": "43",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 200.6,
+   "height_mm": 275.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b439e52d-93b4-4c90-9b7d-10a614801c46",
+   "external_id": "b439e52d-93b4-4c90-9b7d-10a614801c46",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 7, Number 43 (February 1995).pdf",
+   "bytes": 109649808,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-44",
+  "publication": "computer-game-review",
+  "sequence": 51,
+  "number": "44",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 199.8,
+   "height_mm": 275.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e51f3374-dd18-480f-bd17-3a64d5b4d000",
+   "external_id": "e51f3374-dd18-480f-bd17-3a64d5b4d000",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 8, Number 44 (March 1995).pdf",
+   "bytes": 101730673,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-45",
+  "publication": "computer-game-review",
+  "sequence": 52,
+  "number": "45",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 201.0,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/23e26186-a395-4d12-abbb-806f36996d90",
+   "external_id": "23e26186-a395-4d12-abbb-806f36996d90",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 9, Number 45 (April 1995).pdf",
+   "bytes": 97820186,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-46",
+  "publication": "computer-game-review",
+  "sequence": 53,
+  "number": "46",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 271.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eb1d32f8-d021-45c4-8ca1-a617d03f82ed",
+   "external_id": "eb1d32f8-d021-45c4-8ca1-a617d03f82ed",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 10, Number 46 (May 1995).pdf",
+   "bytes": 95273827,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-47",
+  "publication": "computer-game-review",
+  "sequence": 54,
+  "number": "47",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 199.3,
+   "height_mm": 274.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c05e9dde-4570-4060-96a0-5511cbf99587",
+   "external_id": "c05e9dde-4570-4060-96a0-5511cbf99587",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 11, Number 47 (June 1995).pdf",
+   "bytes": 113171676,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-47.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-48",
+  "publication": "computer-game-review",
+  "sequence": 55,
+  "number": "48",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 200.6,
+   "height_mm": 275.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e2bac784-e324-47ab-b878-7b864a8c66bd",
+   "external_id": "e2bac784-e324-47ab-b878-7b864a8c66bd",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 12, Number 48 (July 1995).pdf",
+   "bytes": 89779467,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-48.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-49",
+  "publication": "computer-game-review",
+  "sequence": 56,
+  "number": "49",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 199.2,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/deb0d7d4-583e-4583-bc41-7f1dede349e3",
+   "external_id": "deb0d7d4-583e-4583-bc41-7f1dede349e3",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review and CD-ROM Entertainment, Volume 5, Issue 1, Number 49 (August 1995).pdf",
+   "bytes": 92796469,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-49.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-50",
+  "publication": "computer-game-review",
+  "sequence": 57,
+  "number": "50",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 198.5,
+   "height_mm": 271.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6eef81ef-6ad9-41ea-a46e-5d98c80dd16b",
+   "external_id": "6eef81ef-6ad9-41ea-a46e-5d98c80dd16b",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 2, Number 50 (September 1995).pdf",
+   "bytes": 88605054,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-50.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-51",
+  "publication": "computer-game-review",
+  "sequence": 58,
+  "number": "51",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 199.4,
+   "height_mm": 274.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aa0682f9-42b7-43ec-85aa-b586c297e802",
+   "external_id": "aa0682f9-42b7-43ec-85aa-b586c297e802",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 3, Number 51 (October 1995).pdf",
+   "bytes": 110549685,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-51.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-52",
+  "publication": "computer-game-review",
+  "sequence": 59,
+  "number": "52",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 244,
+  "dimensions": {
+   "width_mm": 199.5,
+   "height_mm": 273.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a8205856-9d06-475a-9fcb-cd75e1df770a",
+   "external_id": "a8205856-9d06-475a-9fcb-cd75e1df770a",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 4, Number 52 (November 1995).pdf",
+   "bytes": 174775034,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-52.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-53",
+  "publication": "computer-game-review",
+  "sequence": 60,
+  "number": "53",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 214,
+  "dimensions": {
+   "width_mm": 199.2,
+   "height_mm": 272.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8b45f9e9-177c-4664-b90d-70ee54108f4d",
+   "external_id": "8b45f9e9-177c-4664-b90d-70ee54108f4d",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 5, Number 53 (December 1995).pdf",
+   "bytes": 150124829,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-53.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-54",
+  "publication": "computer-game-review",
+  "sequence": 61,
+  "number": "54",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 182,
+  "dimensions": {
+   "width_mm": 198.0,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b67c0d35-8c2b-45a4-ab34-6362524f7944",
+   "external_id": "b67c0d35-8c2b-45a4-ab34-6362524f7944",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 6, Number 54 (January 1996).pdf",
+   "bytes": 124743951,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-54.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-55",
+  "publication": "computer-game-review",
+  "sequence": 62,
+  "number": "55",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 272.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3041ba23-8e2a-44dc-b04f-331aea322625",
+   "external_id": "3041ba23-8e2a-44dc-b04f-331aea322625",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 7, Number 55 (February 1996).pdf",
+   "bytes": 108658978,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-55.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-56",
+  "publication": "computer-game-review",
+  "sequence": 63,
+  "number": "56",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 150,
+  "dimensions": {
+   "width_mm": 199.3,
+   "height_mm": 273.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a56e38f0-b5c9-4fd8-bed3-25b0b0fe3d72",
+   "external_id": "a56e38f0-b5c9-4fd8-bed3-25b0b0fe3d72",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 8, Number 56 (March 1996).pdf",
+   "bytes": 105202060,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-56.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-57",
+  "publication": "computer-game-review",
+  "sequence": 64,
+  "number": "57",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 198.9,
+   "height_mm": 272.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/24f249d8-77d1-4727-bf22-348bceadeda4",
+   "external_id": "24f249d8-77d1-4727-bf22-348bceadeda4",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 9, Number 57 (April 1996).pdf",
+   "bytes": 82082295,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-57.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-58",
+  "publication": "computer-game-review",
+  "sequence": 65,
+  "number": "58",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 274.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/50b95173-1d61-4049-aa8d-4dfe7536b38f",
+   "external_id": "50b95173-1d61-4049-aa8d-4dfe7536b38f",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 10, Number 58 (May 1996).pdf",
+   "bytes": 80690464,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-58.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "computer-game-review-59",
+  "publication": "computer-game-review",
+  "sequence": 66,
+  "number": "59",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 198.4,
+   "height_mm": 273.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/667ed45a-3374-49f3-8835-3c052b38c9d0",
+   "external_id": "667ed45a-3374-49f3-8835-3c052b38c9d0",
+   "retrieved_at": "2026-09-14T09:33:12+00:00"
+  },
+  "files": {
+   "pdf": "library/computer-game-review/pdf/Computer Game Review, Volume 5, Issue 11, Number 59 (June 1996).pdf",
+   "bytes": 65946683,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:12+00:00",
+  "assets": {
+   "cover": "site/public/covers/computer-game-review-59.jpg",
+   "pages_rendered": false
+  }
+ }
+]

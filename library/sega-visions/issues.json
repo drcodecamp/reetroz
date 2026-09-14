@@ -1,1 +1,897 @@
-[]
+[
+ {
+  "id": "sega-visions-1",
+  "publication": "sega-visions",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "June/July 1990",
+   "start": "1990-06",
+   "precision": "month",
+   "end": "1990-07"
+  },
+  "pages": 43,
+  "dimensions": {
+   "width_mm": 209.7,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/90455f10-611a-4fce-8b4d-b12f60a74fb0",
+   "external_id": "90455f10-611a-4fce-8b4d-b12f60a74fb0",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 1 (June-July 1990).pdf",
+   "bytes": 53262367,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/sega-visions-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-2",
+  "publication": "sega-visions",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "October/November 1990",
+   "start": "1990-10",
+   "precision": "month",
+   "end": "1990-11"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 272.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/969bc740-c508-45ad-b7e4-08aa360eea3d",
+   "external_id": "969bc740-c508-45ad-b7e4-08aa360eea3d",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 2 (October-November 1990).pdf",
+   "bytes": 23744952,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-3",
+  "publication": "sega-visions",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "Winter 1990",
+   "start": "1990-12",
+   "precision": "season"
+  },
+  "pages": 65,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 258.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5feeed03-155d-4cfa-929b-6233854b873e",
+   "external_id": "5feeed03-155d-4cfa-929b-6233854b873e",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 3 (Winter 1990).pdf",
+   "bytes": 31467365,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-4",
+  "publication": "sega-visions",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "April/May 1991",
+   "start": "1991-04",
+   "precision": "month",
+   "end": "1991-05"
+  },
+  "pages": 48,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/47b864d8-43ef-4bca-b451-aaba2901cf94",
+   "external_id": "47b864d8-43ef-4bca-b451-aaba2901cf94",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 4 (April-May 1991).pdf",
+   "bytes": 24144463,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-5",
+  "publication": "sega-visions",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "Summer 1991",
+   "start": "1991-06",
+   "precision": "season"
+  },
+  "pages": 48,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c1567a74-b3d1-42a7-99e0-fe42a68284d9",
+   "external_id": "c1567a74-b3d1-42a7-99e0-fe42a68284d9",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 5 (Summer 1991).pdf",
+   "bytes": 24986158,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-6",
+  "publication": "sega-visions",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "Fall 1991",
+   "start": "1991-09",
+   "precision": "season"
+  },
+  "pages": 48,
+  "dimensions": {
+   "width_mm": 212.9,
+   "height_mm": 280.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df53e8c1-be4f-4983-98c8-4d31e6bc5505",
+   "external_id": "df53e8c1-be4f-4983-98c8-4d31e6bc5505",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 6 (Fall 1991).pdf",
+   "bytes": 38605669,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-7",
+  "publication": "sega-visions",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "Winter 1991",
+   "start": "1991-12",
+   "precision": "season"
+  },
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 273.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bde94e2e-2ea0-4b13-96da-71fc8a64bba3",
+   "external_id": "bde94e2e-2ea0-4b13-96da-71fc8a64bba3",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 7 (Winter 1991).pdf",
+   "bytes": 32459442,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-8",
+  "publication": "sega-visions",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "May/June 1992",
+   "start": "1992-05",
+   "precision": "month",
+   "end": "1992-06"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4e85720a-1eac-425f-875b-6eedb1d054e0",
+   "external_id": "4e85720a-1eac-425f-875b-6eedb1d054e0",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 8 (May-June 1992).pdf",
+   "bytes": 35090075,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-9",
+  "publication": "sega-visions",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "August/September 1992",
+   "start": "1992-08",
+   "precision": "month",
+   "end": "1992-09"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/15f05413-947c-40fd-a307-813b19aeda9d",
+   "external_id": "15f05413-947c-40fd-a307-813b19aeda9d",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions, Volume 1, Issue 9 (August-September 1992).pdf",
+   "bytes": 36187484,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199211-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "November/December 1992",
+   "start": "1992-11",
+   "precision": "month",
+   "end": "1992-12"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/44db4c5f-d626-40b9-bebb-6cbf2dbafe0d",
+   "external_id": "44db4c5f-d626-40b9-bebb-6cbf2dbafe0d",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (November-December 1992).pdf",
+   "bytes": 83608888,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199211-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199302-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "February/March 1993",
+   "start": "1993-02",
+   "precision": "month",
+   "end": "1993-03"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3e761b1d-3309-42ba-b161-bc5d0cc54a11",
+   "external_id": "3e761b1d-3309-42ba-b161-bc5d0cc54a11",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (February-March 1993).pdf",
+   "bytes": 91500755,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199302-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199304-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "April/May 1993",
+   "start": "1993-04",
+   "precision": "month",
+   "end": "1993-05"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ba51582-526c-4cc3-9446-ff76e42ed5eb",
+   "external_id": "3ba51582-526c-4cc3-9446-ff76e42ed5eb",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (April-May 1993).pdf",
+   "bytes": 95115744,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199304-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199306-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "June/July 1993",
+   "start": "1993-06",
+   "precision": "month",
+   "end": "1993-07"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3b049a84-455d-4533-8c75-9e918c285709",
+   "external_id": "3b049a84-455d-4533-8c75-9e918c285709",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (June-July 1993).pdf",
+   "bytes": 85649009,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199306-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199308-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 14,
+  "number": "special",
+  "date": {
+   "display": "August/September 1993",
+   "start": "1993-08",
+   "precision": "month",
+   "end": "1993-09"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 263.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0022df07-b538-4249-8558-ff4cc9465fa6",
+   "external_id": "0022df07-b538-4249-8558-ff4cc9465fa6",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (August-September 1993).pdf",
+   "bytes": 61853008,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199308-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199310-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 15,
+  "number": "special",
+  "date": {
+   "display": "October/November 1993",
+   "start": "1993-10",
+   "precision": "month",
+   "end": "1993-11"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/87d2e7e1-b98b-4284-bb49-11b20e2ea708",
+   "external_id": "87d2e7e1-b98b-4284-bb49-11b20e2ea708",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (October-November 1993).pdf",
+   "bytes": 116583652,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199310-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199402-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 16,
+  "number": "special",
+  "date": {
+   "display": "February/March 1994",
+   "start": "1994-02",
+   "precision": "month",
+   "end": "1994-03"
+  },
+  "pages": 134,
+  "dimensions": {
+   "width_mm": 218.1,
+   "height_mm": 298.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/316028fa-cd53-4412-83c6-dbcf8801b8e9",
+   "external_id": "316028fa-cd53-4412-83c6-dbcf8801b8e9",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (February-March 1994).pdf",
+   "bytes": 72120677,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199402-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199404-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 17,
+  "number": "special",
+  "date": {
+   "display": "April/May 1994",
+   "start": "1994-04",
+   "precision": "month",
+   "end": "1994-05"
+  },
+  "pages": 138,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9b145e50-e18a-4071-adc1-cf0a09753f77",
+   "external_id": "9b145e50-e18a-4071-adc1-cf0a09753f77",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (April-May 1994).pdf",
+   "bytes": 115393355,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199404-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199406-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 18,
+  "number": "special",
+  "date": {
+   "display": "June/July 1994",
+   "start": "1994-06",
+   "precision": "month",
+   "end": "1994-07"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/288db780-2325-474e-aa70-2ae83ddd7d79",
+   "external_id": "288db780-2325-474e-aa70-2ae83ddd7d79",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (June-July 1994).pdf",
+   "bytes": 111067222,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199406-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199408-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 19,
+  "number": "special",
+  "date": {
+   "display": "August/September 1994",
+   "start": "1994-08",
+   "precision": "month",
+   "end": "1994-09"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/828e3b69-59a3-4645-9353-7af7ddc2f667",
+   "external_id": "828e3b69-59a3-4645-9353-7af7ddc2f667",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (August-September 1994).pdf",
+   "bytes": 104691414,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199408-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199410-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 20,
+  "number": "special",
+  "date": {
+   "display": "October/November 1994",
+   "start": "1994-10",
+   "precision": "month",
+   "end": "1994-11"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 207.1,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07dcdc14-6b94-4682-8df5-2d6175cbec25",
+   "external_id": "07dcdc14-6b94-4682-8df5-2d6175cbec25",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (October-November 1994).pdf",
+   "bytes": 106409626,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199410-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199412-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 21,
+  "number": "special",
+  "date": {
+   "display": "December/January 1994",
+   "start": "1994-12",
+   "precision": "month",
+   "end": "1995-01"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 194.7,
+   "height_mm": 273.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/eb353328-3a87-4e88-af6d-1281db6279f2",
+   "external_id": "eb353328-3a87-4e88-af6d-1281db6279f2",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (December-January 1994).pdf",
+   "bytes": 91888043,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199412-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199502-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 22,
+  "number": "special",
+  "date": {
+   "display": "February/March 1995",
+   "start": "1995-02",
+   "precision": "month",
+   "end": "1995-03"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 199.2,
+   "height_mm": 269.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6b2b11e2-09bc-460e-8c07-dc7c83e327b8",
+   "external_id": "6b2b11e2-09bc-460e-8c07-dc7c83e327b8",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (February-March 1995).pdf",
+   "bytes": 125017086,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199502-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199505-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 23,
+  "number": "special",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 101,
+  "dimensions": {
+   "width_mm": 200.6,
+   "height_mm": 277.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd6ea231-548c-4dbf-957a-4d488a14eb09",
+   "external_id": "fd6ea231-548c-4dbf-957a-4d488a14eb09",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (May 1995).pdf",
+   "bytes": 90426436,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199505-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199509-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 24,
+  "number": "special",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef7f4991-71c3-4d98-bb5b-a5a01eed947e",
+   "external_id": "ef7f4991-71c3-4d98-bb5b-a5a01eed947e",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (September 1995).pdf",
+   "bytes": 112620834,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199509-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "sega-visions-199512-sega-visions",
+  "publication": "sega-visions",
+  "sequence": 25,
+  "number": "special",
+  "date": {
+   "display": "December/January 1995",
+   "start": "1995-12",
+   "precision": "month",
+   "end": "1996-01"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 277.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c8031557-b615-4eac-8c84-6ab8b8a3cc29",
+   "external_id": "c8031557-b615-4eac-8c84-6ab8b8a3cc29",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/sega-visions/pdf/Sega Visions (December-January 1995).pdf",
+   "bytes": 170869673,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/sega-visions-199512-sega-visions.jpg",
+   "pages_rendered": false
+  }
+ }
+]

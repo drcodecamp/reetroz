@@ -1,1 +1,807 @@
-[]
+[
+ {
+  "id": "megatech-1",
+  "publication": "megatech",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Christmas 1991",
+   "start": "1991-12",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/14089aaf-33d3-4173-a82e-acf78df176bc",
+   "external_id": "14089aaf-33d3-4173-a82e-acf78df176bc",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 1 (Christmas 1991).pdf",
+   "bytes": 78457634,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-2",
+  "publication": "megatech",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "February 1992",
+   "start": "1992-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9881e533-fe4c-4470-b49b-1fe5716588e6",
+   "external_id": "9881e533-fe4c-4470-b49b-1fe5716588e6",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 2 (February 1992).pdf",
+   "bytes": 87334287,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-3",
+  "publication": "megatech",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "March 1992",
+   "start": "1992-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ff6735bb-85a5-40af-a190-7a9878fd6206",
+   "external_id": "ff6735bb-85a5-40af-a190-7a9878fd6206",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 3 (March 1992).pdf",
+   "bytes": 87085039,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-4",
+  "publication": "megatech",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "April 1992",
+   "start": "1992-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/916eb003-f801-4252-b45c-54e5c3e696d2",
+   "external_id": "916eb003-f801-4252-b45c-54e5c3e696d2",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 4 (April 1992).pdf",
+   "bytes": 94831540,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-5",
+  "publication": "megatech",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "May 1992",
+   "start": "1992-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1bab2216-234a-4368-8914-cf119a51825f",
+   "external_id": "1bab2216-234a-4368-8914-cf119a51825f",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 5 (May 1992).pdf",
+   "bytes": 85847529,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-6",
+  "publication": "megatech",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "June 1992",
+   "start": "1992-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/684ef0b0-9ddf-4bd5-b405-28dd8e6ad1f7",
+   "external_id": "684ef0b0-9ddf-4bd5-b405-28dd8e6ad1f7",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 6 (June 1992).pdf",
+   "bytes": 95678397,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-7",
+  "publication": "megatech",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "July 1992",
+   "start": "1992-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2bf9151c-c6fa-490c-b6b8-5939f56145c1",
+   "external_id": "2bf9151c-c6fa-490c-b6b8-5939f56145c1",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 7 (July 1992).pdf",
+   "bytes": 90735707,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-8",
+  "publication": "megatech",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "August 1992",
+   "start": "1992-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8f3396e-3e55-4238-85fe-0d10ee32a959",
+   "external_id": "f8f3396e-3e55-4238-85fe-0d10ee32a959",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 8 (August 1992).pdf",
+   "bytes": 92384666,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-9",
+  "publication": "megatech",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "September 1992",
+   "start": "1992-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d125e2d2-c848-4c00-b24d-007846e999f2",
+   "external_id": "d125e2d2-c848-4c00-b24d-007846e999f2",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 9 (September 1992).pdf",
+   "bytes": 90076647,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-10",
+  "publication": "megatech",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4f116173-bbba-439a-b556-6414074bb09f",
+   "external_id": "4f116173-bbba-439a-b556-6414074bb09f",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 10 (October 1992).pdf",
+   "bytes": 92062540,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-11",
+  "publication": "megatech",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "November 1992",
+   "start": "1992-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/64796a4d-6410-4816-aaca-654882439614",
+   "external_id": "64796a4d-6410-4816-aaca-654882439614",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 11 (November 1992).pdf",
+   "bytes": 90072943,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-12",
+  "publication": "megatech",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/15bd35d9-fd48-460f-8a58-b78d4c8eb0e6",
+   "external_id": "15bd35d9-fd48-460f-8a58-b78d4c8eb0e6",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 12 (December 1992).pdf",
+   "bytes": 111933138,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-13",
+  "publication": "megatech",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a5a4961a-9dea-4aa7-a04b-37a208dbea99",
+   "external_id": "a5a4961a-9dea-4aa7-a04b-37a208dbea99",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 13 (January 1993).pdf",
+   "bytes": 112236066,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-14",
+  "publication": "megatech",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aa60a2b9-5c35-43e4-b438-f000af457c69",
+   "external_id": "aa60a2b9-5c35-43e4-b438-f000af457c69",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 14 (February 1993).pdf",
+   "bytes": 92660952,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-15",
+  "publication": "megatech",
+  "sequence": 15,
+  "number": "15",
+  "date": {
+   "display": "March 1993",
+   "start": "1993-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d6bafcaf-5757-4aa2-87a7-ab612df9dbe5",
+   "external_id": "d6bafcaf-5757-4aa2-87a7-ab612df9dbe5",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 15 (March 1993).pdf",
+   "bytes": 94509749,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-16",
+  "publication": "megatech",
+  "sequence": 16,
+  "number": "16",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 291.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/39014270-3082-402b-b3a3-3ae55292f588",
+   "external_id": "39014270-3082-402b-b3a3-3ae55292f588",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 16 (April 1993).pdf",
+   "bytes": 91143917,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-17",
+  "publication": "megatech",
+  "sequence": 17,
+  "number": "17",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d2a6a6f-cd0d-4717-a0c2-d875e25c2bed",
+   "external_id": "7d2a6a6f-cd0d-4717-a0c2-d875e25c2bed",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 17 (May 1993).pdf",
+   "bytes": 124045552,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-18",
+  "publication": "megatech",
+  "sequence": 18,
+  "number": "18",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d67a50b-9cbb-43ea-84af-f47128d396bc",
+   "external_id": "7d67a50b-9cbb-43ea-84af-f47128d396bc",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 18 (June 1993).pdf",
+   "bytes": 113082108,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-19",
+  "publication": "megatech",
+  "sequence": 19,
+  "number": "19",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ed742dc8-9e5c-4fc4-a31c-02b07d83bada",
+   "external_id": "ed742dc8-9e5c-4fc4-a31c-02b07d83bada",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 19 (July 1993).pdf",
+   "bytes": 129766624,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-20",
+  "publication": "megatech",
+  "sequence": 20,
+  "number": "20",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/06998db0-2176-4b14-80e4-66247471c1a3",
+   "external_id": "06998db0-2176-4b14-80e4-66247471c1a3",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 20 (August 1993).pdf",
+   "bytes": 123783393,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-21",
+  "publication": "megatech",
+  "sequence": 21,
+  "number": "21",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/43093243-e768-4438-8385-e2b457d52e1c",
+   "external_id": "43093243-e768-4438-8385-e2b457d52e1c",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 21 (September 1993).pdf",
+   "bytes": 122414246,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-22",
+  "publication": "megatech",
+  "sequence": 22,
+  "number": "22",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8227c4d0-dc04-4a9f-916e-c08f9995c4c4",
+   "external_id": "8227c4d0-dc04-4a9f-916e-c08f9995c4c4",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 22 (October 1993).pdf",
+   "bytes": 113202014,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "megatech-23",
+  "publication": "megatech",
+  "sequence": 23,
+  "number": "23",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 284.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d6e0193a-35f9-49e6-a914-b60afc511cb5",
+   "external_id": "d6e0193a-35f9-49e6-a914-b60afc511cb5",
+   "retrieved_at": "2026-09-14T09:34:00+00:00"
+  },
+  "files": {
+   "pdf": "library/megatech/pdf/MegaTech, Issue 23 (November 1993).pdf",
+   "bytes": 112385901,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:34:00+00:00",
+  "assets": {
+   "cover": "site/public/covers/megatech-23.jpg",
+   "pages_rendered": false
+  }
+ }
+]

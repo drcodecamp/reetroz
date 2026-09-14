@@ -1,1 +1,1682 @@
-[]
+[
+ {
+  "id": "super-play-1",
+  "publication": "super-play",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "November 1992",
+   "start": "1992-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a2c75405-95c0-43c7-b5d7-e1dfec121bec",
+   "external_id": "a2c75405-95c0-43c7-b5d7-e1dfec121bec",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 1 (November 1992).pdf",
+   "bytes": 211434507,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-2",
+  "publication": "super-play",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1f10d3c7-8bc3-42fb-9a86-7827f4126aa2",
+   "external_id": "1f10d3c7-8bc3-42fb-9a86-7827f4126aa2",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 2 (December 1992).pdf",
+   "bytes": 246180609,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-1993-gold-the-complete-super-nintendo-annual-1993",
+  "publication": "super-play",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "1993",
+   "start": "1993",
+   "precision": "year"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 210.0,
+   "height_mm": 277.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef980d57-e68b-40b0-90b2-60809573def4",
+   "external_id": "ef980d57-e68b-40b0-90b2-60809573def4",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play Gold- The Complete Super Nintendo Annual 1993 (1993).pdf",
+   "bytes": 170875288,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-1993-gold-the-complete-super-nintendo-annual-1993.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-3",
+  "publication": "super-play",
+  "sequence": 4,
+  "number": "3",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1bf17d57-7a06-41a6-8c5c-9c821ebe4363",
+   "external_id": "1bf17d57-7a06-41a6-8c5c-9c821ebe4363",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 3 (January 1993).pdf",
+   "bytes": 265189610,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-4",
+  "publication": "super-play",
+  "sequence": 5,
+  "number": "4",
+  "date": {
+   "display": "February 1993",
+   "start": "1993-02",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/972d7077-225f-4fac-b73a-cd13697daeea",
+   "external_id": "972d7077-225f-4fac-b73a-cd13697daeea",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 4 (February 1993).pdf",
+   "bytes": 238946114,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-5",
+  "publication": "super-play",
+  "sequence": 6,
+  "number": "5",
+  "date": {
+   "display": "March 1993",
+   "start": "1993-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/61817996-6dd9-49db-a81e-4f170b66af9f",
+   "external_id": "61817996-6dd9-49db-a81e-4f170b66af9f",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 5 (March 1993).pdf",
+   "bytes": 223116372,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-6",
+  "publication": "super-play",
+  "sequence": 7,
+  "number": "6",
+  "date": {
+   "display": "April 1993",
+   "start": "1993-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab7fbc63-dba5-4788-8b9d-b44112fd8eec",
+   "external_id": "ab7fbc63-dba5-4788-8b9d-b44112fd8eec",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 6 (April 1993).pdf",
+   "bytes": 211202504,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-7",
+  "publication": "super-play",
+  "sequence": 8,
+  "number": "7",
+  "date": {
+   "display": "May 1993",
+   "start": "1993-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/77d01612-e3d6-4130-9934-9c0ace9d1c2c",
+   "external_id": "77d01612-e3d6-4130-9934-9c0ace9d1c2c",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 7 (May 1993).pdf",
+   "bytes": 220585009,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-8",
+  "publication": "super-play",
+  "sequence": 9,
+  "number": "8",
+  "date": {
+   "display": "June 1993",
+   "start": "1993-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/91c97268-1fbe-43d1-970e-5b0584f6bb70",
+   "external_id": "91c97268-1fbe-43d1-970e-5b0584f6bb70",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 8 (June 1993).pdf",
+   "bytes": 226284476,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-9",
+  "publication": "super-play",
+  "sequence": 10,
+  "number": "9",
+  "date": {
+   "display": "July 1993",
+   "start": "1993-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f7dd226d-92f5-4150-a678-ab56f568d5ed",
+   "external_id": "f7dd226d-92f5-4150-a678-ab56f568d5ed",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 9 (July 1993).pdf",
+   "bytes": 241758783,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-10",
+  "publication": "super-play",
+  "sequence": 11,
+  "number": "10",
+  "date": {
+   "display": "August 1993",
+   "start": "1993-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6e7d3992-f6f0-426b-9b42-aa8af3ff14f9",
+   "external_id": "6e7d3992-f6f0-426b-9b42-aa8af3ff14f9",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 10 (August 1993).pdf",
+   "bytes": 224643497,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-11",
+  "publication": "super-play",
+  "sequence": 12,
+  "number": "11",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4497ca26-c9a3-46cf-8c76-ba40b7e82424",
+   "external_id": "4497ca26-c9a3-46cf-8c76-ba40b7e82424",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 11 (September 1993).pdf",
+   "bytes": 204066822,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-12",
+  "publication": "super-play",
+  "sequence": 13,
+  "number": "12",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a962ca00-2b35-41f5-b3d9-5ec32e7c2806",
+   "external_id": "a962ca00-2b35-41f5-b3d9-5ec32e7c2806",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 12 (October 1993).pdf",
+   "bytes": 198423556,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-13",
+  "publication": "super-play",
+  "sequence": 14,
+  "number": "13",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bfb2fcfa-103a-44cb-b57d-9787236c9115",
+   "external_id": "bfb2fcfa-103a-44cb-b57d-9787236c9115",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 13 (November 1993).pdf",
+   "bytes": 208626978,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-14",
+  "publication": "super-play",
+  "sequence": 15,
+  "number": "14",
+  "date": {
+   "display": "December 1993",
+   "start": "1993-12",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd632e8e-5a00-497b-99d5-139ef3235abd",
+   "external_id": "fd632e8e-5a00-497b-99d5-139ef3235abd",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 14 (December 1993).pdf",
+   "bytes": 206367859,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-14.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-15",
+  "publication": "super-play",
+  "sequence": 16,
+  "number": "15",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3bec23a9-feeb-4692-8cc0-c2f3e9716599",
+   "external_id": "3bec23a9-feeb-4692-8cc0-c2f3e9716599",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 15 (January 1994).pdf",
+   "bytes": 203727440,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-15.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-16",
+  "publication": "super-play",
+  "sequence": 17,
+  "number": "16",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/effa99a5-3900-44e1-81ed-95d5f6faad28",
+   "external_id": "effa99a5-3900-44e1-81ed-95d5f6faad28",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 16 (February 1994).pdf",
+   "bytes": 191560658,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-16.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-17",
+  "publication": "super-play",
+  "sequence": 18,
+  "number": "17",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f85fcee5-608c-4e43-8d0f-614b920caeed",
+   "external_id": "f85fcee5-608c-4e43-8d0f-614b920caeed",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 17 (March 1994).pdf",
+   "bytes": 192747979,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-17.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-18",
+  "publication": "super-play",
+  "sequence": 19,
+  "number": "18",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/766eb576-46cd-4c0b-ae3d-62d0ccd89116",
+   "external_id": "766eb576-46cd-4c0b-ae3d-62d0ccd89116",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 18 (April 1994).pdf",
+   "bytes": 200327837,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-18.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-19",
+  "publication": "super-play",
+  "sequence": 20,
+  "number": "19",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/97931052-3d03-477a-a9d8-9e2ba7e093b3",
+   "external_id": "97931052-3d03-477a-a9d8-9e2ba7e093b3",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 19 (May 1994).pdf",
+   "bytes": 199703632,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-19.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-20",
+  "publication": "super-play",
+  "sequence": 21,
+  "number": "20",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b6234d2b-478a-4a7a-9510-7f93acaaafa2",
+   "external_id": "b6234d2b-478a-4a7a-9510-7f93acaaafa2",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 20 (June 1994).pdf",
+   "bytes": 206045296,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-20.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-21",
+  "publication": "super-play",
+  "sequence": 22,
+  "number": "21",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3aeed853-1a37-4135-8b4e-6ad793ea9056",
+   "external_id": "3aeed853-1a37-4135-8b4e-6ad793ea9056",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 21 (July 1994).pdf",
+   "bytes": 205595806,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-21.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-22",
+  "publication": "super-play",
+  "sequence": 23,
+  "number": "22",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef0dc684-9c88-47d4-bc54-d4b6eced757e",
+   "external_id": "ef0dc684-9c88-47d4-bc54-d4b6eced757e",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 22 (August 1994).pdf",
+   "bytes": 204214378,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-22.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-23",
+  "publication": "super-play",
+  "sequence": 24,
+  "number": "23",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ed65d73-0cc8-493a-acdb-acfd0c8d4120",
+   "external_id": "6ed65d73-0cc8-493a-acdb-acfd0c8d4120",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 23 (September 1994).pdf",
+   "bytes": 190558113,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-23.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-24",
+  "publication": "super-play",
+  "sequence": 25,
+  "number": "24",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cb74184d-35cd-4e77-a240-3f6936be00a9",
+   "external_id": "cb74184d-35cd-4e77-a240-3f6936be00a9",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 24 (October 1994).pdf",
+   "bytes": 196958464,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-24.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-25",
+  "publication": "super-play",
+  "sequence": 26,
+  "number": "25",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/17863d91-d805-4576-bd96-b7c70fc784a6",
+   "external_id": "17863d91-d805-4576-bd96-b7c70fc784a6",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 25 (November 1994).pdf",
+   "bytes": 204543674,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-25.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-26",
+  "publication": "super-play",
+  "sequence": 27,
+  "number": "26",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/45820cf8-9cd3-4508-8b7d-dca3776cf861",
+   "external_id": "45820cf8-9cd3-4508-8b7d-dca3776cf861",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 26 (December 1994).pdf",
+   "bytes": 187590695,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-26.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-27",
+  "publication": "super-play",
+  "sequence": 28,
+  "number": "27",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4a8b2b0c-cbda-4060-abe5-a45fd03d71b5",
+   "external_id": "4a8b2b0c-cbda-4060-abe5-a45fd03d71b5",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 27 (January 1995).pdf",
+   "bytes": 200577414,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-27.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-28",
+  "publication": "super-play",
+  "sequence": 29,
+  "number": "28",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b09db4f4-a682-4039-9fe2-bed94bc8c26c",
+   "external_id": "b09db4f4-a682-4039-9fe2-bed94bc8c26c",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 28 (February 1995).pdf",
+   "bytes": 184434975,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-28.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-29",
+  "publication": "super-play",
+  "sequence": 30,
+  "number": "29",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/97e57919-1cd6-4577-8f65-80f2392dbbe5",
+   "external_id": "97e57919-1cd6-4577-8f65-80f2392dbbe5",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 29 (March 1995).pdf",
+   "bytes": 186651331,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-29.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-30",
+  "publication": "super-play",
+  "sequence": 31,
+  "number": "30",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aefe0f40-0fa0-4a6f-9523-f83607e36b90",
+   "external_id": "aefe0f40-0fa0-4a6f-9523-f83607e36b90",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 30 (April 1995).pdf",
+   "bytes": 172570576,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-30.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-31",
+  "publication": "super-play",
+  "sequence": 32,
+  "number": "31",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9daaa451-332b-4b74-8e89-c1900e952cbd",
+   "external_id": "9daaa451-332b-4b74-8e89-c1900e952cbd",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 31 (May 1995).pdf",
+   "bytes": 171989092,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-31.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-32",
+  "publication": "super-play",
+  "sequence": 33,
+  "number": "32",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bf2c1e2d-f81b-4571-89ab-c59262302fa8",
+   "external_id": "bf2c1e2d-f81b-4571-89ab-c59262302fa8",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 32 (June 1995).pdf",
+   "bytes": 177978589,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-32.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-33",
+  "publication": "super-play",
+  "sequence": 34,
+  "number": "33",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/27fe1e84-d219-415a-84d8-2c206c3ee5d8",
+   "external_id": "27fe1e84-d219-415a-84d8-2c206c3ee5d8",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 33 (July 1995).pdf",
+   "bytes": 171026045,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-33.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-34",
+  "publication": "super-play",
+  "sequence": 35,
+  "number": "34",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 283.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6685b051-ef54-4b9c-aea6-3fc32d5e5480",
+   "external_id": "6685b051-ef54-4b9c-aea6-3fc32d5e5480",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 34 (August 1995).pdf",
+   "bytes": 164073197,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-34.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-35",
+  "publication": "super-play",
+  "sequence": 36,
+  "number": "35",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8d191c9d-1c5d-4949-96df-61682ca9a51a",
+   "external_id": "8d191c9d-1c5d-4949-96df-61682ca9a51a",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 35 (September 1995).pdf",
+   "bytes": 159133794,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-35.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-36",
+  "publication": "super-play",
+  "sequence": 37,
+  "number": "36",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/04558827-8496-4b1b-a339-a0515dbd1c65",
+   "external_id": "04558827-8496-4b1b-a339-a0515dbd1c65",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 36 (October 1995).pdf",
+   "bytes": 163316640,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-36.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-37",
+  "publication": "super-play",
+  "sequence": 38,
+  "number": "37",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a466a1cd-15cb-4aa2-a150-7a198ae77d97",
+   "external_id": "a466a1cd-15cb-4aa2-a150-7a198ae77d97",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 37 (November 1995).pdf",
+   "bytes": 160246651,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-37.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-38",
+  "publication": "super-play",
+  "sequence": 39,
+  "number": "38",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/24f9752f-b2c6-4cd2-9a5b-3386d7411ade",
+   "external_id": "24f9752f-b2c6-4cd2-9a5b-3386d7411ade",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 38 (December 1995).pdf",
+   "bytes": 168660627,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-38.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-39",
+  "publication": "super-play",
+  "sequence": 40,
+  "number": "39",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5f003dfc-a1b7-4615-9c6c-9b7ea862f2d9",
+   "external_id": "5f003dfc-a1b7-4615-9c6c-9b7ea862f2d9",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 39 (January 1996).pdf",
+   "bytes": 162493187,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-39.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-40",
+  "publication": "super-play",
+  "sequence": 41,
+  "number": "40",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/496e886b-9620-4245-a68f-78fac2135b0d",
+   "external_id": "496e886b-9620-4245-a68f-78fac2135b0d",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 40 (February 1996).pdf",
+   "bytes": 161013603,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-40.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-41",
+  "publication": "super-play",
+  "sequence": 42,
+  "number": "41",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/81234d6c-f90b-47aa-8f36-e97460f33ad1",
+   "external_id": "81234d6c-f90b-47aa-8f36-e97460f33ad1",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 41 (March 1996).pdf",
+   "bytes": 164634220,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-41.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-42",
+  "publication": "super-play",
+  "sequence": 43,
+  "number": "42",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b2a35e14-3b57-4de1-86ba-6e21cd692c5c",
+   "external_id": "b2a35e14-3b57-4de1-86ba-6e21cd692c5c",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 42 (April 1996).pdf",
+   "bytes": 165860018,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-42.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-43",
+  "publication": "super-play",
+  "sequence": 44,
+  "number": "43",
+  "date": {
+   "display": "May 1996",
+   "start": "1996-05",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2ff2e423-c546-4698-ba7f-39bd0f6b95fd",
+   "external_id": "2ff2e423-c546-4698-ba7f-39bd0f6b95fd",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 43 (May 1996).pdf",
+   "bytes": 159223373,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-43.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-44",
+  "publication": "super-play",
+  "sequence": 45,
+  "number": "44",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e8e11ccd-1759-41d4-891b-942ef609a459",
+   "external_id": "e8e11ccd-1759-41d4-891b-942ef609a459",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 44 (June 1996).pdf",
+   "bytes": 154165160,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-44.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-45",
+  "publication": "super-play",
+  "sequence": 46,
+  "number": "45",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/715c15d8-76ff-4f31-8471-dd8f223663a5",
+   "external_id": "715c15d8-76ff-4f31-8471-dd8f223663a5",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 45 (July 1996).pdf",
+   "bytes": 158873158,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-45.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-46",
+  "publication": "super-play",
+  "sequence": 47,
+  "number": "46",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2116edf2-e546-41d4-9eec-d1c31ff1a67a",
+   "external_id": "2116edf2-e546-41d4-9eec-d1c31ff1a67a",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 46 (August 1996).pdf",
+   "bytes": 152729522,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-46.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "super-play-47",
+  "publication": "super-play",
+  "sequence": 48,
+  "number": "47",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 294.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e63c6718-414f-4112-898d-992bc9f68144",
+   "external_id": "e63c6718-414f-4112-898d-992bc9f68144",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/super-play/pdf/Super Play, Issue 47 (September 1996).pdf",
+   "bytes": 153881732,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/super-play-47.jpg",
+   "pages_rendered": false
+  }
+ }
+]

@@ -1,1 +1,565 @@
-[]
+[
+ {
+  "id": "the-logical-gamer-1",
+  "publication": "the-logical-gamer",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "August 1982",
+   "start": "1982-08",
+   "precision": "month"
+  },
+  "pages": 17,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 283.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/08325f3d-83a3-4c62-a23f-1dba3889acf7",
+   "external_id": "08325f3d-83a3-4c62-a23f-1dba3889acf7",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 1 (August 1982).pdf",
+   "bytes": 46977056,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-2",
+  "publication": "the-logical-gamer",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "September 1982",
+   "start": "1982-09",
+   "precision": "month"
+  },
+  "pages": 17,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3d24b5aa-5b3b-4c76-b3b7-1c0aaa820dd2",
+   "external_id": "3d24b5aa-5b3b-4c76-b3b7-1c0aaa820dd2",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 2 (September 1982).pdf",
+   "bytes": 60046970,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-3",
+  "publication": "the-logical-gamer",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "October 1982",
+   "start": "1982-10",
+   "precision": "month"
+  },
+  "pages": 17,
+  "dimensions": {
+   "width_mm": 213.6,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fd1b349f-5a9d-4f99-878e-fcb06c5d287c",
+   "external_id": "fd1b349f-5a9d-4f99-878e-fcb06c5d287c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 3 (October 1982).pdf",
+   "bytes": 38908147,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-4",
+  "publication": "the-logical-gamer",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "November 1982",
+   "start": "1982-11",
+   "precision": "month"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 207.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e4fa905f-011e-4da6-8430-16eeef69b193",
+   "external_id": "e4fa905f-011e-4da6-8430-16eeef69b193",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 4 (November 1982).pdf",
+   "bytes": 45837726,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-5",
+  "publication": "the-logical-gamer",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "December 1982",
+   "start": "1982-12",
+   "precision": "month"
+  },
+  "pages": 21,
+  "dimensions": {
+   "width_mm": 209.5,
+   "height_mm": 282.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf7b15fa-2886-4f47-9795-e8d59243b00c",
+   "external_id": "cf7b15fa-2886-4f47-9795-e8d59243b00c",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 5 (December 1982).pdf",
+   "bytes": 53090278,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-6",
+  "publication": "the-logical-gamer",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "January 1983",
+   "start": "1983-01",
+   "precision": "month"
+  },
+  "pages": 21,
+  "dimensions": {
+   "width_mm": 208.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f2f37eef-bc4c-463b-9699-553ad2502732",
+   "external_id": "f2f37eef-bc4c-463b-9699-553ad2502732",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 6 (January 1983).pdf",
+   "bytes": 48430380,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-7",
+  "publication": "the-logical-gamer",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "February 1983",
+   "start": "1983-02",
+   "precision": "month"
+  },
+  "pages": 21,
+  "dimensions": {
+   "width_mm": 218.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0dd83336-d102-4a6e-bd53-45ab23d6d527",
+   "external_id": "0dd83336-d102-4a6e-bd53-45ab23d6d527",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 7 (February 1983).pdf",
+   "bytes": 53410795,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-8",
+  "publication": "the-logical-gamer",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "March 1983",
+   "start": "1983-03",
+   "precision": "month"
+  },
+  "pages": 21,
+  "dimensions": {
+   "width_mm": 212.8,
+   "height_mm": 285.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e353d12d-ec20-4663-933c-93acf73dea57",
+   "external_id": "e353d12d-ec20-4663-933c-93acf73dea57",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 8 (March 1983).pdf",
+   "bytes": 43841580,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-9",
+  "publication": "the-logical-gamer",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "April 1983",
+   "start": "1983-04",
+   "precision": "month"
+  },
+  "pages": 25,
+  "dimensions": {
+   "width_mm": 221.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7443c70-9314-4af7-9f18-7c94b9db8eba",
+   "external_id": "c7443c70-9314-4af7-9f18-7c94b9db8eba",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 9 (April 1983).pdf",
+   "bytes": 53960606,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-10",
+  "publication": "the-logical-gamer",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "May 1983",
+   "start": "1983-05",
+   "precision": "month"
+  },
+  "pages": 25,
+  "dimensions": {
+   "width_mm": 221.8,
+   "height_mm": 284.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26e0d640-e02c-4d13-b99f-207bf2c9383d",
+   "external_id": "26e0d640-e02c-4d13-b99f-207bf2c9383d",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 10 (May 1983).pdf",
+   "bytes": 44321251,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-11",
+  "publication": "the-logical-gamer",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "June 1983",
+   "start": "1983-06",
+   "precision": "month"
+  },
+  "pages": 25,
+  "dimensions": {
+   "width_mm": 209.2,
+   "height_mm": 290.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ede84b1-751d-4945-ab72-44b8f7863fba",
+   "external_id": "3ede84b1-751d-4945-ab72-44b8f7863fba",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 11 (June 1983).pdf",
+   "bytes": 21565730,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-12",
+  "publication": "the-logical-gamer",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "July 1983",
+   "start": "1983-07",
+   "precision": "month"
+  },
+  "pages": 29,
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 289.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/bac6d39c-d4dd-4394-8f2f-e1fdcd2454fd",
+   "external_id": "bac6d39c-d4dd-4394-8f2f-e1fdcd2454fd",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 1, Number 12 (July 1983).pdf",
+   "bytes": 22151809,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-1-2",
+  "publication": "the-logical-gamer",
+  "sequence": 13,
+  "number": "1",
+  "date": {
+   "display": "August 1983",
+   "start": "1983-08",
+   "precision": "month"
+  },
+  "pages": 25,
+  "dimensions": {
+   "width_mm": 205.8,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/265fff3a-6234-4aa0-a346-091cf34db49a",
+   "external_id": "265fff3a-6234-4aa0-a346-091cf34db49a",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 2, Number 1 (August 1983).pdf",
+   "bytes": 58196931,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-2-2",
+  "publication": "the-logical-gamer",
+  "sequence": 14,
+  "number": "2",
+  "date": {
+   "display": "September 1983",
+   "start": "1983-09",
+   "precision": "month"
+  },
+  "pages": 25,
+  "dimensions": {
+   "width_mm": 217.9,
+   "height_mm": 286.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b99105f2-4ea6-46e8-a3a8-b6a69bc29dcd",
+   "external_id": "b99105f2-4ea6-46e8-a3a8-b6a69bc29dcd",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 2, Number 2 (September 1983).pdf",
+   "bytes": 25167786,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-3-2",
+  "publication": "the-logical-gamer",
+  "sequence": 15,
+  "number": "3",
+  "date": {
+   "display": "October 1983",
+   "start": "1983-10",
+   "precision": "month"
+  },
+  "pages": 25,
+  "dimensions": {
+   "width_mm": 213.5,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/87114f3d-9f8e-477f-bca4-2ac597418652",
+   "external_id": "87114f3d-9f8e-477f-bca4-2ac597418652",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 2, Number 3 (October 1983).pdf",
+   "bytes": 61838400,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "the-logical-gamer-4-2",
+  "publication": "the-logical-gamer",
+  "sequence": 16,
+  "number": "4",
+  "date": {
+   "display": "November/December 1983",
+   "start": "1983-11",
+   "precision": "month",
+   "end": "1983-12"
+  },
+  "pages": 25,
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/74bdfb39-e10b-405e-8d11-2d5a615193bb",
+   "external_id": "74bdfb39-e10b-405e-8d11-2d5a615193bb",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/the-logical-gamer/pdf/The Logical Gamer, Volume 2, Number 4 (November-December 1983).pdf",
+   "bytes": 65422713,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/the-logical-gamer-4-2.jpg",
+   "pages_rendered": false
+  }
+ }
+]

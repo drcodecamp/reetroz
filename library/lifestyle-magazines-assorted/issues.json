@@ -1,0 +1,126 @@
+[
+ {
+  "id": "lifestyle-magazines-assorted-0",
+  "publication": "lifestyle-magazines-assorted",
+  "sequence": 1,
+  "number": "0",
+  "date": {
+   "display": "1995",
+   "start": "1995",
+   "precision": "year"
+  },
+  "pages": 44,
+  "dimensions": {
+   "width_mm": 168.3,
+   "height_mm": 260.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/642ea239-64b2-49aa-b5e6-ee0c5eea924a",
+   "external_id": "642ea239-64b2-49aa-b5e6-ee0c5eea924a",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/lifestyle-magazines-assorted/pdf/Christian Comics & Games Magazine, Issue 0 (1995).pdf",
+   "bytes": 79431512,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00"
+ },
+ {
+  "id": "lifestyle-magazines-assorted-3",
+  "publication": "lifestyle-magazines-assorted",
+  "sequence": 2,
+  "number": "3",
+  "date": {
+   "display": "March 1999",
+   "start": "1999-03",
+   "precision": "month"
+  },
+  "pages": 20,
+  "dimensions": {
+   "width_mm": 206.9,
+   "height_mm": 271.5
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/318f1bc1-7f86-4983-95c2-7ea64cb8c32b",
+   "external_id": "318f1bc1-7f86-4983-95c2-7ea64cb8c32b",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/lifestyle-magazines-assorted/pdf/Keyboard, Volume 25, Number 3, Issue 275 (March 1999).pdf",
+   "bytes": 24228168,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00"
+ },
+ {
+  "id": "lifestyle-magazines-assorted-2008-guitar-one-presents-guitars-and-gaming",
+  "publication": "lifestyle-magazines-assorted",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "circa 2008",
+   "start": "2008",
+   "precision": "year"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 199.8,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c4d3f3ec-ab7e-42fa-bef8-93bcffe6ff46",
+   "external_id": "c4d3f3ec-ab7e-42fa-bef8-93bcffe6ff46",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/lifestyle-magazines-assorted/pdf/Guitar One presents Guitars and Gaming (circa 2008).pdf",
+   "bytes": 84162004,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00"
+ },
+ {
+  "id": "lifestyle-magazines-assorted-9",
+  "publication": "lifestyle-magazines-assorted",
+  "sequence": 4,
+  "number": "9",
+  "date": {
+   "display": "November 2008",
+   "start": "2008-11",
+   "precision": "month"
+  },
+  "pages": 9,
+  "dimensions": {
+   "width_mm": 196.9,
+   "height_mm": 265.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d89c8d67-112c-4d41-95c1-ea5b4e5b1fb5",
+   "external_id": "d89c8d67-112c-4d41-95c1-ea5b4e5b1fb5",
+   "retrieved_at": "2026-09-14T09:33:59+00:00"
+  },
+  "files": {
+   "pdf": "library/lifestyle-magazines-assorted/pdf/Men's Fitness, Volume 24, Number 9 (November 2008).pdf",
+   "bytes": 13002641,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:59+00:00"
+ }
+]

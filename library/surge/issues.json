@@ -1,1 +1,143 @@
-[]
+[
+ {
+  "id": "surge-2",
+  "publication": "surge",
+  "sequence": 1,
+  "number": "2",
+  "date": {
+   "display": "Spring 2004",
+   "start": "2004-03",
+   "precision": "season"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 204.4,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/53e668fd-c0dd-4422-ad32-61f2721b8a40",
+   "external_id": "53e668fd-c0dd-4422-ad32-61f2721b8a40",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/surge/pdf/Surge, Volume 1, Issue 2 (Spring 2004).pdf",
+   "bytes": 156628300,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/surge-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "surge-3",
+  "publication": "surge",
+  "sequence": 2,
+  "number": "3",
+  "date": {
+   "display": "Summer 2004",
+   "start": "2004-06",
+   "precision": "season"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/96d257c3-7e54-4c87-88c5-b4bc12f5ffb3",
+   "external_id": "96d257c3-7e54-4c87-88c5-b4bc12f5ffb3",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/surge/pdf/Surge, Volume 1, Issue 3 (Summer 2004).pdf",
+   "bytes": 154362065,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/surge-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "surge-4",
+  "publication": "surge",
+  "sequence": 3,
+  "number": "4",
+  "date": {
+   "display": "Fall 2004",
+   "start": "2004-09",
+   "precision": "season"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 203.1,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8fe9a7a6-fa32-4cd0-a838-6a697eea3337",
+   "external_id": "8fe9a7a6-fa32-4cd0-a838-6a697eea3337",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/surge/pdf/Surge, Volume 1, Issue 4 (Fall 2004).pdf",
+   "bytes": 153935999,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "assets": {
+   "cover": "site/public/covers/surge-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "surge-1",
+  "publication": "surge",
+  "sequence": 4,
+  "number": "1",
+  "date": {
+   "display": "Winter 2004",
+   "start": "2004-12",
+   "precision": "season"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 273.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/03bc5ba0-ead7-4901-a87c-b4ba429f5022",
+   "external_id": "03bc5ba0-ead7-4901-a87c-b4ba429f5022",
+   "retrieved_at": "2026-09-14T09:36:02+00:00"
+  },
+  "files": {
+   "pdf": "library/surge/pdf/Surge, Volume 1, Issue 1 (Winter 2004).pdf",
+   "bytes": 129454446,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:02+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/surge-1.jpg",
+   "pages_rendered": false
+  }
+ }
+]

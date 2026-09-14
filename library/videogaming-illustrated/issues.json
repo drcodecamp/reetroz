@@ -1,1 +1,492 @@
-[]
+[
+ {
+  "id": "videogaming-illustrated-1",
+  "publication": "videogaming-illustrated",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "August 1982",
+   "start": "1982-08",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 203.4,
+   "height_mm": 277.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/190dcafd-b23c-4657-a77d-31836812662b",
+   "external_id": "190dcafd-b23c-4657-a77d-31836812662b",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming Illustrated, Number 1 (August 1982).pdf",
+   "bytes": 45841914,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-2",
+  "publication": "videogaming-illustrated",
+  "sequence": 2,
+  "number": "2",
+  "date": {
+   "display": "October 1982",
+   "start": "1982-10",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 275.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c54eabe-9576-462d-b33f-d0dcd807d3b0",
+   "external_id": "6c54eabe-9576-462d-b33f-d0dcd807d3b0",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming Illustrated, Number 2 (October 1982).pdf",
+   "bytes": 46850517,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-3",
+  "publication": "videogaming-illustrated",
+  "sequence": 3,
+  "number": "3",
+  "date": {
+   "display": "December 1982",
+   "start": "1982-12",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 275.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f1388525-8433-4b31-b5ea-29509ab6e761",
+   "external_id": "f1388525-8433-4b31-b5ea-29509ab6e761",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming Illustrated, Number 3 (December 1982).pdf",
+   "bytes": 46039776,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-4",
+  "publication": "videogaming-illustrated",
+  "sequence": 4,
+  "number": "4",
+  "date": {
+   "display": "February 1983",
+   "start": "1983-02",
+   "precision": "month"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 275.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e547a9b7-3032-4317-8859-940d1dc4df24",
+   "external_id": "e547a9b7-3032-4317-8859-940d1dc4df24",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming Illustrated, Number 4 (February 1983).pdf",
+   "bytes": 51891747,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-5",
+  "publication": "videogaming-illustrated",
+  "sequence": 5,
+  "number": "5",
+  "date": {
+   "display": "April 1983",
+   "start": "1983-04",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.0,
+   "height_mm": 273.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c914ef20-51b5-4e2d-8cc3-42621b238178",
+   "external_id": "c914ef20-51b5-4e2d-8cc3-42621b238178",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming Illustrated, Number 5 (April 1983).pdf",
+   "bytes": 60970641,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-6",
+  "publication": "videogaming-illustrated",
+  "sequence": 6,
+  "number": "6",
+  "date": {
+   "display": "June 1983",
+   "start": "1983-06",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.3,
+   "height_mm": 273.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/21fd8f74-b9b2-4655-b6e2-8b5a66637c4e",
+   "external_id": "21fd8f74-b9b2-4655-b6e2-8b5a66637c4e",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming and Computer Gaming Illustrated, Number 6 (June 1983).pdf",
+   "bytes": 64246497,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-7",
+  "publication": "videogaming-illustrated",
+  "sequence": 7,
+  "number": "7",
+  "date": {
+   "display": "July 1983",
+   "start": "1983-07",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 274.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/57ba6bdc-4c49-44d2-b876-4d927148f143",
+   "external_id": "57ba6bdc-4c49-44d2-b876-4d927148f143",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming and Computergaming Illustrated, Number 7 (July 1983).pdf",
+   "bytes": 60746575,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-8",
+  "publication": "videogaming-illustrated",
+  "sequence": 8,
+  "number": "8",
+  "date": {
+   "display": "August 1983",
+   "start": "1983-08",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.9,
+   "height_mm": 271.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fc6c7fd5-eebb-4d7e-8f1a-7713cee7869f",
+   "external_id": "fc6c7fd5-eebb-4d7e-8f1a-7713cee7869f",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming & Computergaming Illustrated, Number 8 (August 1983).pdf",
+   "bytes": 59712959,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-9",
+  "publication": "videogaming-illustrated",
+  "sequence": 9,
+  "number": "9",
+  "date": {
+   "display": "September 1983",
+   "start": "1983-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.3,
+   "height_mm": 272.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d6425021-96b2-490c-a88d-fecceb06384b",
+   "external_id": "d6425021-96b2-490c-a88d-fecceb06384b",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming & Computergaming Illustrated, Number 9 (September 1983).pdf",
+   "bytes": 56062274,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-10",
+  "publication": "videogaming-illustrated",
+  "sequence": 10,
+  "number": "10",
+  "date": {
+   "display": "October 1983",
+   "start": "1983-10",
+   "precision": "month"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c0b89df1-e798-41bd-bd39-840eff6762cd",
+   "external_id": "c0b89df1-e798-41bd-bd39-840eff6762cd",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming & Computergaming Illustrated, Number 10 (October 1983).pdf",
+   "bytes": 67927803,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-11",
+  "publication": "videogaming-illustrated",
+  "sequence": 11,
+  "number": "11",
+  "date": {
+   "display": "November 1983",
+   "start": "1983-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 203.3,
+   "height_mm": 273.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3a9398c9-091b-4306-96ee-332808bc269c",
+   "external_id": "3a9398c9-091b-4306-96ee-332808bc269c",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming & Computergaming Illustrated, Number 11 (November 1983).pdf",
+   "bytes": 58429436,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-12",
+  "publication": "videogaming-illustrated",
+  "sequence": 12,
+  "number": "12",
+  "date": {
+   "display": "December 1983",
+   "start": "1983-12",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.7,
+   "height_mm": 274.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/617a4e6d-41aa-453b-bf61-bfd69f53a2ae",
+   "external_id": "617a4e6d-41aa-453b-bf61-bfd69f53a2ae",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Videogaming & Computergaming Illustrated, Number 12 (December 1983).pdf",
+   "bytes": 52534910,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-13",
+  "publication": "videogaming-illustrated",
+  "sequence": 13,
+  "number": "13",
+  "date": {
+   "display": "January 1984",
+   "start": "1984-01",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 272.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f2ace685-b8fb-4995-9e83-aad20a23a103",
+   "external_id": "f2ace685-b8fb-4995-9e83-aad20a23a103",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Video & Computer Gaming Illustrated, Number 13 (January 1984).pdf",
+   "bytes": 55787626,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-13.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "videogaming-illustrated-14",
+  "publication": "videogaming-illustrated",
+  "sequence": 14,
+  "number": "14",
+  "date": {
+   "display": "March 1984",
+   "start": "1984-03",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 204.6,
+   "height_mm": 273.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/aea4b603-ecb1-4945-bd12-61545a3d3892",
+   "external_id": "aea4b603-ecb1-4945-bd12-61545a3d3892",
+   "retrieved_at": "2026-09-14T09:36:07+00:00"
+  },
+  "files": {
+   "pdf": "library/videogaming-illustrated/pdf/Video & Computer Gaming Illustrated, Number 14 (March 1984).pdf",
+   "bytes": 54876691,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:07+00:00",
+  "assets": {
+   "cover": "site/public/covers/videogaming-illustrated-14.jpg",
+   "pages_rendered": false
+  }
+ }
+]

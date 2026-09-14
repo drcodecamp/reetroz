@@ -1,1 +1,2643 @@
-[]
+[
+ {
+  "id": "pc-games-1",
+  "publication": "pc-games",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "Fall 1988",
+   "start": "1988-09",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 176.3,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/92ce9550-ec02-4874-bb11-fbb2f6f0ebeb",
+   "external_id": "92ce9550-ec02-4874-bb11-fbb2f6f0ebeb",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames, Volume 1, Number 1, Premiere Issue (Fall 1988).pdf",
+   "bytes": 116188317,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "volume": 1,
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "site/public/covers/pc-games-1.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-1-2",
+  "publication": "pc-games",
+  "sequence": 2,
+  "number": "1",
+  "date": {
+   "display": "Spring 1989",
+   "start": "1989-03",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.2,
+   "height_mm": 270.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d28b3494-df66-4add-9a88-9ddc270e7994",
+   "external_id": "d28b3494-df66-4add-9a88-9ddc270e7994",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames, Volume 2, Number 1 (Spring 1989).pdf",
+   "bytes": 71749077,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-1-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-2",
+  "publication": "pc-games",
+  "sequence": 3,
+  "number": "2",
+  "date": {
+   "display": "Summer 1989",
+   "start": "1989-06",
+   "precision": "season"
+  },
+  "pages": 74,
+  "dimensions": {
+   "width_mm": 199.1,
+   "height_mm": 266.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/0f1bb64f-f548-4424-8a1f-c0bc4dba53b5",
+   "external_id": "0f1bb64f-f548-4424-8a1f-c0bc4dba53b5",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames, Volume 2, Number 2 (Summer 1989).pdf",
+   "bytes": 67634108,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/pc-games-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-3",
+  "publication": "pc-games",
+  "sequence": 4,
+  "number": "3",
+  "date": {
+   "display": "Fall 1989",
+   "start": "1989-09",
+   "precision": "season"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b74a85f9-81a8-4067-8473-931c950511ea",
+   "external_id": "b74a85f9-81a8-4067-8473-931c950511ea",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames, Volume 2, Number 3 (Fall 1989).pdf",
+   "bytes": 89122361,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-198912-pcgames",
+  "publication": "pc-games",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "December 1989",
+   "start": "1989-12",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/07d3c246-c933-4b58-83df-4b55ccbd6f44",
+   "external_id": "07d3c246-c933-4b58-83df-4b55ccbd6f44",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (December 1989).pdf",
+   "bytes": 182221339,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-198912-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199002-pcgames",
+  "publication": "pc-games",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "February 1990",
+   "start": "1990-02",
+   "precision": "month"
+  },
+  "pages": 86,
+  "dimensions": {
+   "width_mm": 201.8,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1985d727-00ba-4b4e-a840-b3831a62eda1",
+   "external_id": "1985d727-00ba-4b4e-a840-b3831a62eda1",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (February 1990).pdf",
+   "bytes": 139308377,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199002-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199004-pcgames",
+  "publication": "pc-games",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "April 1990",
+   "start": "1990-04",
+   "precision": "month"
+  },
+  "pages": 68,
+  "dimensions": {
+   "width_mm": 138.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7b830efd-a40f-4ec1-8cfd-50ffdba6a7f9",
+   "external_id": "7b830efd-a40f-4ec1-8cfd-50ffdba6a7f9",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (April 1990).pdf",
+   "bytes": 46600850,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199004-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199009-pcgames",
+  "publication": "pc-games",
+  "sequence": 8,
+  "number": "special",
+  "date": {
+   "display": "September/October 1990",
+   "start": "1990-09",
+   "precision": "month",
+   "end": "1990-10"
+  },
+  "pages": 76,
+  "dimensions": {
+   "width_mm": 138.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/14253d8d-689b-4784-befa-816c8ead4a0d",
+   "external_id": "14253d8d-689b-4784-befa-816c8ead4a0d",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (September-October 1990).pdf",
+   "bytes": 47939464,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199009-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199012-pcgames",
+  "publication": "pc-games",
+  "sequence": 9,
+  "number": "special",
+  "date": {
+   "display": "December 1990",
+   "start": "1990-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 200.7,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8cc8294e-24af-4773-999c-64d2c08f6851",
+   "external_id": "8cc8294e-24af-4773-999c-64d2c08f6851",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (December 1990).pdf",
+   "bytes": 121327104,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199012-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199101-pcgames",
+  "publication": "pc-games",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "January/February 1991",
+   "start": "1991-01",
+   "precision": "month",
+   "end": "1991-02"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 139.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/de121185-5418-41ab-b9aa-27aae025f6e8",
+   "external_id": "de121185-5418-41ab-b9aa-27aae025f6e8",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (January-February 1991).pdf",
+   "bytes": 53632093,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199101-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199103-pcgames",
+  "publication": "pc-games",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "March/April 1991",
+   "start": "1991-03",
+   "precision": "month",
+   "end": "1991-04"
+  },
+  "pages": 80,
+  "dimensions": {
+   "width_mm": 138.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1a2c9cb-d5db-4ddd-829d-e22f5a0ae928",
+   "external_id": "b1a2c9cb-d5db-4ddd-829d-e22f5a0ae928",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (March-April 1991).pdf",
+   "bytes": 70909169,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199103-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199110-pcgames",
+  "publication": "pc-games",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "October 1991",
+   "start": "1991-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 205.3,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f2c41f3f-d15f-491c-9fdd-eb594c4ddb47",
+   "external_id": "f2c41f3f-d15f-491c-9fdd-eb594c4ddb47",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (October 1991).pdf",
+   "bytes": 77978468,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199110-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199111-pcgames",
+  "publication": "pc-games",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "November 1991",
+   "start": "1991-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ac8e807b-75f4-4fb9-8944-c55cf068f89a",
+   "external_id": "ac8e807b-75f4-4fb9-8944-c55cf068f89a",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (November 1991).pdf",
+   "bytes": 109758475,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199111-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199112-pcgames",
+  "publication": "pc-games",
+  "sequence": 14,
+  "number": "special",
+  "date": {
+   "display": "December 1991",
+   "start": "1991-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 202.0,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c9365fb-e52f-4b68-ae82-48433b3787ee",
+   "external_id": "3c9365fb-e52f-4b68-ae82-48433b3787ee",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (December 1991).pdf",
+   "bytes": 134161190,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199112-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199201-pcgames",
+  "publication": "pc-games",
+  "sequence": 15,
+  "number": "special",
+  "date": {
+   "display": "January/February 1992",
+   "start": "1992-01",
+   "precision": "month",
+   "end": "1992-02"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/db569854-6b5c-4c3a-ae87-8a802420c713",
+   "external_id": "db569854-6b5c-4c3a-ae87-8a802420c713",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (January-February 1992).pdf",
+   "bytes": 129476675,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199201-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199206-pcgames",
+  "publication": "pc-games",
+  "sequence": 16,
+  "number": "special",
+  "date": {
+   "display": "Spring/Summer 1992",
+   "start": "1992-06",
+   "precision": "season"
+  },
+  "pages": 176,
+  "dimensions": {
+   "width_mm": 203.9,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6f5f0999-48ba-446d-b843-a366a66762f9",
+   "external_id": "6f5f0999-48ba-446d-b843-a366a66762f9",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (Spring-Summer 1992).pdf",
+   "bytes": 184725746,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199206-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199208-pcgames",
+  "publication": "pc-games",
+  "sequence": 17,
+  "number": "special",
+  "date": {
+   "display": "August/September 1992",
+   "start": "1992-08",
+   "precision": "month",
+   "end": "1992-09"
+  },
+  "pages": 92,
+  "dimensions": {
+   "width_mm": 165.6,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/71fdb1f6-423b-4224-ae01-2e866096440c",
+   "external_id": "71fdb1f6-423b-4224-ae01-2e866096440c",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (August-September 1992).pdf",
+   "bytes": 88146371,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199208-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199210-pcgames",
+  "publication": "pc-games",
+  "sequence": 18,
+  "number": "special",
+  "date": {
+   "display": "October 1992",
+   "start": "1992-10",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 200.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f365e747-e142-429a-b46d-8d5fab89bc33",
+   "external_id": "f365e747-e142-429a-b46d-8d5fab89bc33",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (October 1992).pdf",
+   "bytes": 112026804,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199210-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199211-pcgames",
+  "publication": "pc-games",
+  "sequence": 19,
+  "number": "special",
+  "date": {
+   "display": "November 1992",
+   "start": "1992-11",
+   "precision": "month"
+  },
+  "pages": 90,
+  "dimensions": {
+   "width_mm": 165.5,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b11c4acf-d8ba-49f0-b5db-ec7c579307b5",
+   "external_id": "b11c4acf-d8ba-49f0-b5db-ec7c579307b5",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (November 1992).pdf",
+   "bytes": 87700571,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199211-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199212-pcgames",
+  "publication": "pc-games",
+  "sequence": 20,
+  "number": "special",
+  "date": {
+   "display": "December 1992",
+   "start": "1992-12",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.9,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df44d689-165c-4f2e-a7c4-1fbdb3b9a4fe",
+   "external_id": "df44d689-165c-4f2e-a7c4-1fbdb3b9a4fe",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (December 1992).pdf",
+   "bytes": 136157563,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199212-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199301-pcgames",
+  "publication": "pc-games",
+  "sequence": 21,
+  "number": "special",
+  "date": {
+   "display": "January 1993",
+   "start": "1993-01",
+   "precision": "month"
+  },
+  "pages": 96,
+  "dimensions": {
+   "width_mm": 158.6,
+   "height_mm": 211.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/58423ac8-f2a1-43ed-9867-0b00c469d3b9",
+   "external_id": "58423ac8-f2a1-43ed-9867-0b00c469d3b9",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (January 1993).pdf",
+   "bytes": 98167739,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199301-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199302-pcgames",
+  "publication": "pc-games",
+  "sequence": 22,
+  "number": "special",
+  "date": {
+   "display": "February/March 1993",
+   "start": "1993-02",
+   "precision": "month",
+   "end": "1993-03"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 165.6,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/88706cd5-7898-4438-ad2c-346fbc1a0c20",
+   "external_id": "88706cd5-7898-4438-ad2c-346fbc1a0c20",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (February-March 1993).pdf",
+   "bytes": 83758815,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199302-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199304-pcgames",
+  "publication": "pc-games",
+  "sequence": 23,
+  "number": "special",
+  "date": {
+   "display": "April/May 1993",
+   "start": "1993-04",
+   "precision": "month",
+   "end": "1993-05"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 206.4,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fa6416ee-ebad-4b4f-a2e3-49c3ddb18b4c",
+   "external_id": "fa6416ee-ebad-4b4f-a2e3-49c3ddb18b4c",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (April-May 1993).pdf",
+   "bytes": 89386329,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199304-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199306-pcgames",
+  "publication": "pc-games",
+  "sequence": 24,
+  "number": "special",
+  "date": {
+   "display": "June/July 1993",
+   "start": "1993-06",
+   "precision": "month",
+   "end": "1993-07"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.4,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/efc8e3e9-6077-42fd-bd31-5310aa1e5a9d",
+   "external_id": "efc8e3e9-6077-42fd-bd31-5310aa1e5a9d",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (June-July 1993).pdf",
+   "bytes": 93639411,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199306-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199309-pcgames",
+  "publication": "pc-games",
+  "sequence": 25,
+  "number": "special",
+  "date": {
+   "display": "September 1993",
+   "start": "1993-09",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 201.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dde341ed-9e75-46be-8618-de658c3a2c2f",
+   "external_id": "dde341ed-9e75-46be-8618-de658c3a2c2f",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (September 1993).pdf",
+   "bytes": 115567574,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199309-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199310-pcgames",
+  "publication": "pc-games",
+  "sequence": 26,
+  "number": "special",
+  "date": {
+   "display": "October 1993",
+   "start": "1993-10",
+   "precision": "month"
+  },
+  "pages": 88,
+  "dimensions": {
+   "width_mm": 207.0,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3f0e2b48-9352-410c-a429-30a8dd2c41f1",
+   "external_id": "3f0e2b48-9352-410c-a429-30a8dd2c41f1",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (October 1993).pdf",
+   "bytes": 90569289,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199310-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199311-pcgames",
+  "publication": "pc-games",
+  "sequence": 27,
+  "number": "special",
+  "date": {
+   "display": "November 1993",
+   "start": "1993-11",
+   "precision": "month"
+  },
+  "pages": 84,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9f899445-7fc9-4589-988e-dff726fa9ec7",
+   "external_id": "9f899445-7fc9-4589-988e-dff726fa9ec7",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (November 1993).pdf",
+   "bytes": 113801208,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199311-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-1-3",
+  "publication": "pc-games",
+  "sequence": 28,
+  "number": "1",
+  "date": {
+   "display": "January 1994",
+   "start": "1994-01",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 163.1,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a011cfa2-f329-4aaa-8a20-757c54ecc63f",
+   "external_id": "a011cfa2-f329-4aaa-8a20-757c54ecc63f",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 1 (January 1994).pdf",
+   "bytes": 204498577,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "volume": 1,
+  "assets": {
+   "cover": "site/public/covers/pc-games-1-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-2-2",
+  "publication": "pc-games",
+  "sequence": 29,
+  "number": "2",
+  "date": {
+   "display": "February 1994",
+   "start": "1994-02",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 138.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fc9fb376-c278-4d1b-ac90-bf7b3d37ff9b",
+   "external_id": "fc9fb376-c278-4d1b-ac90-bf7b3d37ff9b",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 2 (February 1994).pdf",
+   "bytes": 102984162,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-2-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-3-2",
+  "publication": "pc-games",
+  "sequence": 30,
+  "number": "3",
+  "date": {
+   "display": "March 1994",
+   "start": "1994-03",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 151.3,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2bfd7208-fe15-4e0d-bbc4-10462fab97ec",
+   "external_id": "2bfd7208-fe15-4e0d-bbc4-10462fab97ec",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 3 (March 1994).pdf",
+   "bytes": 151012904,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-3-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-4",
+  "publication": "pc-games",
+  "sequence": 31,
+  "number": "4",
+  "date": {
+   "display": "April 1994",
+   "start": "1994-04",
+   "precision": "month"
+  },
+  "pages": 128,
+  "dimensions": {
+   "width_mm": 150.5,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5212a93f-e6b8-41dc-9f6d-f63a3d733ede",
+   "external_id": "5212a93f-e6b8-41dc-9f6d-f63a3d733ede",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 4 (April 1994).pdf",
+   "bytes": 145674734,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-5",
+  "publication": "pc-games",
+  "sequence": 32,
+  "number": "5",
+  "date": {
+   "display": "May 1994",
+   "start": "1994-05",
+   "precision": "month"
+  },
+  "pages": 130,
+  "dimensions": {
+   "width_mm": 136.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4b4d9467-5ba7-4f2b-b53f-defd8b793cec",
+   "external_id": "4b4d9467-5ba7-4f2b-b53f-defd8b793cec",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 5 (May 1994).pdf",
+   "bytes": 102939067,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-6",
+  "publication": "pc-games",
+  "sequence": 33,
+  "number": "6",
+  "date": {
+   "display": "June 1994",
+   "start": "1994-06",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 242.0,
+   "height_mm": 322.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c937792-98ad-4a65-985a-cad56d9901aa",
+   "external_id": "6c937792-98ad-4a65-985a-cad56d9901aa",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 6 (June 1994).pdf",
+   "bytes": 171394489,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-7",
+  "publication": "pc-games",
+  "sequence": 34,
+  "number": "7",
+  "date": {
+   "display": "July 1994",
+   "start": "1994-07",
+   "precision": "month"
+  },
+  "pages": 124,
+  "dimensions": {
+   "width_mm": 137.5,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a1f4207-16d7-41bf-97f7-c05b9e983c55",
+   "external_id": "5a1f4207-16d7-41bf-97f7-c05b9e983c55",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 7 (July 1994).pdf",
+   "bytes": 103918868,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-8",
+  "publication": "pc-games",
+  "sequence": 35,
+  "number": "8",
+  "date": {
+   "display": "August 1994",
+   "start": "1994-08",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 197.0,
+   "height_mm": 270.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/264adb22-19bf-48b0-9702-c0d37f7f16b1",
+   "external_id": "264adb22-19bf-48b0-9702-c0d37f7f16b1",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 8 (August 1994).pdf",
+   "bytes": 82336495,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-8.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-9",
+  "publication": "pc-games",
+  "sequence": 36,
+  "number": "9",
+  "date": {
+   "display": "September 1994",
+   "start": "1994-09",
+   "precision": "month"
+  },
+  "pages": 116,
+  "dimensions": {
+   "width_mm": 138.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/97529b2e-3467-411e-9075-7373356dca00",
+   "external_id": "97529b2e-3467-411e-9075-7373356dca00",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 9 (September 1994).pdf",
+   "bytes": 94847731,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-9.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-10",
+  "publication": "pc-games",
+  "sequence": 37,
+  "number": "10",
+  "date": {
+   "display": "October 1994",
+   "start": "1994-10",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 202.4,
+   "height_mm": 271.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d690ea42-a115-4412-a278-b8d6e7f15d9e",
+   "external_id": "d690ea42-a115-4412-a278-b8d6e7f15d9e",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 10 (October 1994).pdf",
+   "bytes": 80584747,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-10.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-11",
+  "publication": "pc-games",
+  "sequence": 38,
+  "number": "11",
+  "date": {
+   "display": "November 1994",
+   "start": "1994-11",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 138.7,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/731d6d19-e54f-48b7-85bb-cbe3a90b23d5",
+   "external_id": "731d6d19-e54f-48b7-85bb-cbe3a90b23d5",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 11 (November 1994).pdf",
+   "bytes": 106872646,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-11.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-12",
+  "publication": "pc-games",
+  "sequence": 39,
+  "number": "12",
+  "date": {
+   "display": "December 1994",
+   "start": "1994-12",
+   "precision": "month"
+  },
+  "pages": 168,
+  "dimensions": {
+   "width_mm": 150.2,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a76a260-1839-463e-a25e-edefc40de3d1",
+   "external_id": "5a76a260-1839-463e-a25e-edefc40de3d1",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 1, Number 12 (December 1994).pdf",
+   "bytes": 206685395,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-12.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-199412-pcgames",
+  "publication": "pc-games",
+  "sequence": 40,
+  "number": "special",
+  "date": {
+   "display": "Winter 1994",
+   "start": "1994-12",
+   "precision": "season"
+  },
+  "pages": 172,
+  "dimensions": {
+   "width_mm": 204.5,
+   "height_mm": 279.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/70b37f26-b1b1-4982-a903-4a9d08400e84",
+   "external_id": "70b37f26-b1b1-4982-a903-4a9d08400e84",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PCGames (Winter 1994).pdf",
+   "bytes": 152045044,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-199412-pcgames.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-1-4",
+  "publication": "pc-games",
+  "sequence": 41,
+  "number": "1",
+  "date": {
+   "display": "January 1995",
+   "start": "1995-01",
+   "precision": "month"
+  },
+  "pages": 140,
+  "dimensions": {
+   "width_mm": 138.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dafc40e8-6f48-412a-a450-3ee99ae54ab6",
+   "external_id": "dafc40e8-6f48-412a-a450-3ee99ae54ab6",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 1 (January 1995).pdf",
+   "bytes": 122280300,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-1-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-2-3",
+  "publication": "pc-games",
+  "sequence": 42,
+  "number": "2",
+  "date": {
+   "display": "February 1995",
+   "start": "1995-02",
+   "precision": "month"
+  },
+  "pages": 63,
+  "dimensions": {
+   "width_mm": 201.4,
+   "height_mm": 269.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5036ab7b-ea32-411d-81d5-010d0df4ddd8",
+   "external_id": "5036ab7b-ea32-411d-81d5-010d0df4ddd8",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 2 (February 1995).pdf",
+   "bytes": 41886287,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "volume": 2,
+  "assets": {
+   "cover": "site/public/covers/pc-games-2-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-3-3",
+  "publication": "pc-games",
+  "sequence": 43,
+  "number": "3",
+  "date": {
+   "display": "March 1995",
+   "start": "1995-03",
+   "precision": "month"
+  },
+  "pages": 104,
+  "dimensions": {
+   "width_mm": 150.4,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d9d9c43-27b8-4a58-b982-3584ea094ff9",
+   "external_id": "7d9d9c43-27b8-4a58-b982-3584ea094ff9",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 3 (March 1995).pdf",
+   "bytes": 150101206,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-3-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-4-2",
+  "publication": "pc-games",
+  "sequence": 44,
+  "number": "4",
+  "date": {
+   "display": "April 1995",
+   "start": "1995-04",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 176.0,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/17aaea50-38a9-4d5a-9bc6-5cd554a434b3",
+   "external_id": "17aaea50-38a9-4d5a-9bc6-5cd554a434b3",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 4 (April 1995).pdf",
+   "bytes": 186228919,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-4-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-5-2",
+  "publication": "pc-games",
+  "sequence": 45,
+  "number": "5",
+  "date": {
+   "display": "May 1995",
+   "start": "1995-05",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 150.2,
+   "height_mm": 203.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cc1de644-cf6b-48fe-93cd-f294138104e5",
+   "external_id": "cc1de644-cf6b-48fe-93cd-f294138104e5",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 5 (May 1995).pdf",
+   "bytes": 147981728,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-5-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-6-2",
+  "publication": "pc-games",
+  "sequence": 46,
+  "number": "6",
+  "date": {
+   "display": "June 1995",
+   "start": "1995-06",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 137.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf6216d9-3108-461c-bc81-0913a74f3774",
+   "external_id": "cf6216d9-3108-461c-bc81-0913a74f3774",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 6 (June 1995).pdf",
+   "bytes": 128798279,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-6-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-7-2",
+  "publication": "pc-games",
+  "sequence": 47,
+  "number": "7",
+  "date": {
+   "display": "July 1995",
+   "start": "1995-07",
+   "precision": "month"
+  },
+  "pages": 110,
+  "dimensions": {
+   "width_mm": 171.9,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6ef53640-1275-4900-9850-3647dc34f46c",
+   "external_id": "6ef53640-1275-4900-9850-3647dc34f46c",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 7 (July 1995).pdf",
+   "bytes": 199529439,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-7-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-8-2",
+  "publication": "pc-games",
+  "sequence": 48,
+  "number": "8",
+  "date": {
+   "display": "August 1995",
+   "start": "1995-08",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 174.4,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c476aa33-512b-477a-878b-48103758abd2",
+   "external_id": "c476aa33-512b-477a-878b-48103758abd2",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 8 (August 1995).pdf",
+   "bytes": 181846524,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-8-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-9-2",
+  "publication": "pc-games",
+  "sequence": 49,
+  "number": "9",
+  "date": {
+   "display": "September 1995",
+   "start": "1995-09",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 173.9,
+   "height_mm": 237.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab6b7e60-6bdf-49d1-9dc3-7a70b9047798",
+   "external_id": "ab6b7e60-6bdf-49d1-9dc3-7a70b9047798",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 9 (September 1995).pdf",
+   "bytes": 174544799,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-9-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-10-2",
+  "publication": "pc-games",
+  "sequence": 50,
+  "number": "10",
+  "date": {
+   "display": "October 1995",
+   "start": "1995-10",
+   "precision": "month"
+  },
+  "pages": 148,
+  "dimensions": {
+   "width_mm": 201.1,
+   "height_mm": 271.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a53dff05-ede9-495a-9343-28fd40272529",
+   "external_id": "a53dff05-ede9-495a-9343-28fd40272529",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 10 (October 1995).pdf",
+   "bytes": 102047922,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-10-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-11-2",
+  "publication": "pc-games",
+  "sequence": 51,
+  "number": "11",
+  "date": {
+   "display": "November 1995",
+   "start": "1995-11",
+   "precision": "month"
+  },
+  "pages": 180,
+  "dimensions": {
+   "width_mm": 202.9,
+   "height_mm": 272.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a45dd7f2-eaae-432a-9801-6bfc0dfec7ea",
+   "external_id": "a45dd7f2-eaae-432a-9801-6bfc0dfec7ea",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 11 (November 1995).pdf",
+   "bytes": 133531605,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-11-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-12-2",
+  "publication": "pc-games",
+  "sequence": 52,
+  "number": "12",
+  "date": {
+   "display": "December 1995",
+   "start": "1995-12",
+   "precision": "month"
+  },
+  "pages": 212,
+  "dimensions": {
+   "width_mm": 162.1,
+   "height_mm": 220.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1b829e79-c086-41e6-9d44-58350e157351",
+   "external_id": "1b829e79-c086-41e6-9d44-58350e157351",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/Electronic Entertainment, Volume 2, Number 12 (December 1995).pdf",
+   "bytes": 317673385,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-12-2.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-1-5",
+  "publication": "pc-games",
+  "sequence": 53,
+  "number": "1",
+  "date": {
+   "display": "January 1996",
+   "start": "1996-01",
+   "precision": "month"
+  },
+  "pages": 164,
+  "dimensions": {
+   "width_mm": 202.8,
+   "height_mm": 272.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b565e7bb-7e2c-4fce-b5dc-fcb49b739470",
+   "external_id": "b565e7bb-7e2c-4fce-b5dc-fcb49b739470",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Entertainment, Volume 3, Number 1 (January 1996).pdf",
+   "bytes": 130624905,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-1-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-2-4",
+  "publication": "pc-games",
+  "sequence": 54,
+  "number": "2",
+  "date": {
+   "display": "February 1996",
+   "start": "1996-02",
+   "precision": "month"
+  },
+  "pages": 132,
+  "dimensions": {
+   "width_mm": 201.3,
+   "height_mm": 270.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/605021ee-5f53-4d28-aa56-0c4083ef87d4",
+   "external_id": "605021ee-5f53-4d28-aa56-0c4083ef87d4",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Entertainment, Volume 3, Number 2 (February 1996).pdf",
+   "bytes": 100068729,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-2-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-3-4",
+  "publication": "pc-games",
+  "sequence": 55,
+  "number": "3",
+  "date": {
+   "display": "March 1996",
+   "start": "1996-03",
+   "precision": "month"
+  },
+  "pages": 102,
+  "dimensions": {
+   "width_mm": 202.6,
+   "height_mm": 271.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b9d88d11-3edf-4f25-aed5-90d82b5e1080",
+   "external_id": "b9d88d11-3edf-4f25-aed5-90d82b5e1080",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Entertainment, Volume 3, Number 3 (March 1996).pdf",
+   "bytes": 74988315,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "volume": 3,
+  "assets": {
+   "cover": "site/public/covers/pc-games-3-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-4-3",
+  "publication": "pc-games",
+  "sequence": 56,
+  "number": "4",
+  "date": {
+   "display": "April 1996",
+   "start": "1996-04",
+   "precision": "month"
+  },
+  "pages": 108,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/69da32db-9c50-466f-ae0b-ab3551954df5",
+   "external_id": "69da32db-9c50-466f-ae0b-ab3551954df5",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Entertainment, Volume 3, Number 4 (April 1996).pdf",
+   "bytes": 108479840,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-4-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-6-3",
+  "publication": "pc-games",
+  "sequence": 57,
+  "number": "6",
+  "date": {
+   "display": "June 1996",
+   "start": "1996-06",
+   "precision": "month"
+  },
+  "pages": 118,
+  "dimensions": {
+   "width_mm": 133.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9d9cb07b-0bca-4850-bbe5-a1e3a8d85188",
+   "external_id": "9d9cb07b-0bca-4850-bbe5-a1e3a8d85188",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 3, Number 6 (June 1996).pdf",
+   "bytes": 118280425,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-6-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-7-3",
+  "publication": "pc-games",
+  "sequence": 58,
+  "number": "7",
+  "date": {
+   "display": "July 1996",
+   "start": "1996-07",
+   "precision": "month"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 201.7,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e37f424c-f4e6-4f09-b174-945748484bfb",
+   "external_id": "e37f424c-f4e6-4f09-b174-945748484bfb",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 3, Number 7 (July 1996).pdf",
+   "bytes": 279337511,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-7-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-8-3",
+  "publication": "pc-games",
+  "sequence": 59,
+  "number": "8",
+  "date": {
+   "display": "August 1996",
+   "start": "1996-08",
+   "precision": "month"
+  },
+  "pages": 106,
+  "dimensions": {
+   "width_mm": 133.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fec33159-8cb0-4d4d-bae9-c0e80c917683",
+   "external_id": "fec33159-8cb0-4d4d-bae9-c0e80c917683",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 3, Number 8 (August 1996).pdf",
+   "bytes": 104851495,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-8-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-9-3",
+  "publication": "pc-games",
+  "sequence": 60,
+  "number": "9",
+  "date": {
+   "display": "September 1996",
+   "start": "1996-09",
+   "precision": "month"
+  },
+  "pages": 122,
+  "dimensions": {
+   "width_mm": 196.4,
+   "height_mm": 270.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/08c0b3b2-05be-44f9-9b25-97957df98590",
+   "external_id": "08c0b3b2-05be-44f9-9b25-97957df98590",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 3, Number 9 (September 1996).pdf",
+   "bytes": 283886002,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-9-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-1-6",
+  "publication": "pc-games",
+  "sequence": 61,
+  "number": "1",
+  "date": {
+   "display": "January 1997",
+   "start": "1997-01",
+   "precision": "month"
+  },
+  "pages": 168,
+  "dimensions": {
+   "width_mm": 195.7,
+   "height_mm": 266.0
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c69d1037-8983-4b74-b9eb-0136d54c2645",
+   "external_id": "c69d1037-8983-4b74-b9eb-0136d54c2645",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 4, Number 1 (January 1997).pdf",
+   "bytes": 124555855,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-1-6.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-6-4",
+  "publication": "pc-games",
+  "sequence": 62,
+  "number": "6",
+  "date": {
+   "display": "July/August 1997",
+   "start": "1997-07",
+   "precision": "month",
+   "end": "1997-08"
+  },
+  "pages": 221,
+  "dimensions": {
+   "width_mm": 139.4,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6546d3ad-8054-445b-94f9-17190ff571c1",
+   "external_id": "6546d3ad-8054-445b-94f9-17190ff571c1",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 4, Number 6 (July-August 1997).pdf",
+   "bytes": 170275602,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-6-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-7-4",
+  "publication": "pc-games",
+  "sequence": 63,
+  "number": "7",
+  "date": {
+   "display": "September 1997",
+   "start": "1997-09",
+   "precision": "month"
+  },
+  "pages": 178,
+  "dimensions": {
+   "width_mm": 137.2,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/171ccaf0-0b29-48f4-ad08-ba491280e630",
+   "external_id": "171ccaf0-0b29-48f4-ad08-ba491280e630",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 4, Number 7 (September 1997).pdf",
+   "bytes": 170609651,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-7-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-8-4",
+  "publication": "pc-games",
+  "sequence": 64,
+  "number": "8",
+  "date": {
+   "display": "October 1997",
+   "start": "1997-10",
+   "precision": "month"
+  },
+  "pages": 188,
+  "dimensions": {
+   "width_mm": 382.0,
+   "height_mm": 265.9
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d01f8145-2b6e-44e9-91d8-5c7023973380",
+   "external_id": "d01f8145-2b6e-44e9-91d8-5c7023973380",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 4, Number 8 (October 1997).pdf",
+   "bytes": 135235982,
+   "has_text_layer": false
+  },
+  "text": {
+   "status": "none"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-8-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-9-4",
+  "publication": "pc-games",
+  "sequence": 65,
+  "number": "9",
+  "date": {
+   "display": "November 1997",
+   "start": "1997-11",
+   "precision": "month"
+  },
+  "pages": 204,
+  "dimensions": {
+   "width_mm": 382.5,
+   "height_mm": 264.2
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2cbe82a1-9a3e-4c5d-93a0-dca5391a7dd0",
+   "external_id": "2cbe82a1-9a3e-4c5d-93a0-dca5391a7dd0",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 4, Number 9 (November 1997).pdf",
+   "bytes": 152852125,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-9-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-10-3",
+  "publication": "pc-games",
+  "sequence": 66,
+  "number": "10",
+  "date": {
+   "display": "December 1997",
+   "start": "1997-12",
+   "precision": "month"
+  },
+  "pages": 222,
+  "dimensions": {
+   "width_mm": 383.0,
+   "height_mm": 264.8
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a7279017-48d5-44cc-9d18-5aab85f5c462",
+   "external_id": "a7279017-48d5-44cc-9d18-5aab85f5c462",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 4, Number 10 (December 1997).pdf",
+   "bytes": 194451174,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-10-3.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-1-7",
+  "publication": "pc-games",
+  "sequence": 67,
+  "number": "1",
+  "date": {
+   "display": "January 1998",
+   "start": "1998-01",
+   "precision": "month"
+  },
+  "pages": 184,
+  "dimensions": {
+   "width_mm": 383.2,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a8c78938-649a-4a70-974c-6f38888dadae",
+   "external_id": "a8c78938-649a-4a70-974c-6f38888dadae",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 1 (January 1998).pdf",
+   "bytes": 132112512,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-1-7.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-2-5",
+  "publication": "pc-games",
+  "sequence": 68,
+  "number": "2",
+  "date": {
+   "display": "February 1998",
+   "start": "1998-02",
+   "precision": "month"
+  },
+  "pages": 114,
+  "dimensions": {
+   "width_mm": 136.3,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/874cde3e-f180-4a5a-975e-5203a4faf07f",
+   "external_id": "874cde3e-f180-4a5a-975e-5203a4faf07f",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 2 (February 1998).pdf",
+   "bytes": 91182707,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-2-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-3-5",
+  "publication": "pc-games",
+  "sequence": 69,
+  "number": "3",
+  "date": {
+   "display": "March 1998",
+   "start": "1998-03",
+   "precision": "month"
+  },
+  "pages": 135,
+  "dimensions": {
+   "width_mm": 132.1,
+   "height_mm": 178.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b198e802-a2ed-4ab3-a8b5-00833a27bfbe",
+   "external_id": "b198e802-a2ed-4ab3-a8b5-00833a27bfbe",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 3 (March 1998).pdf",
+   "bytes": 99925607,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-3-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-4-4",
+  "publication": "pc-games",
+  "sequence": 70,
+  "number": "4",
+  "date": {
+   "display": "April 1998",
+   "start": "1998-04",
+   "precision": "month"
+  },
+  "pages": 112,
+  "dimensions": {
+   "width_mm": 129.9,
+   "height_mm": 177.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b1901fc7-8701-41b6-b964-ad7577f9ed43",
+   "external_id": "b1901fc7-8701-41b6-b964-ad7577f9ed43",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 4 (April 1998).pdf",
+   "bytes": 80804997,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-4-4.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-6-5",
+  "publication": "pc-games",
+  "sequence": 71,
+  "number": "6",
+  "date": {
+   "display": "July/August 1998",
+   "start": "1998-07",
+   "precision": "month",
+   "end": "1998-08"
+  },
+  "pages": 149,
+  "dimensions": {
+   "width_mm": 131.3,
+   "height_mm": 178.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/54458b87-baf0-4c2f-9804-ccf45e352e68",
+   "external_id": "54458b87-baf0-4c2f-9804-ccf45e352e68",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 6 (July-August 1998).pdf",
+   "bytes": 113970942,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-6-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-7-5",
+  "publication": "pc-games",
+  "sequence": 72,
+  "number": "7",
+  "date": {
+   "display": "September 1998",
+   "start": "1998-09",
+   "precision": "month"
+  },
+  "pages": 126,
+  "dimensions": {
+   "width_mm": 384.6,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/536f5dd3-b8ee-4afe-98cf-3ae556a2ed81",
+   "external_id": "536f5dd3-b8ee-4afe-98cf-3ae556a2ed81",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 7 (September 1998).pdf",
+   "bytes": 101538417,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-7-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-8-5",
+  "publication": "pc-games",
+  "sequence": 73,
+  "number": "8",
+  "date": {
+   "display": "October 1998",
+   "start": "1998-10",
+   "precision": "month"
+  },
+  "pages": 144,
+  "dimensions": {
+   "width_mm": 383.0,
+   "height_mm": 264.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dea02206-f708-4719-a207-6dd41a0b96ee",
+   "external_id": "dea02206-f708-4719-a207-6dd41a0b96ee",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 8 (October 1998).pdf",
+   "bytes": 104064577,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-8-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-9-5",
+  "publication": "pc-games",
+  "sequence": 74,
+  "number": "9",
+  "date": {
+   "display": "November 1998",
+   "start": "1998-11",
+   "precision": "month"
+  },
+  "pages": 170,
+  "dimensions": {
+   "width_mm": 383.4,
+   "height_mm": 265.1
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/29e26268-f63f-4e8b-b649-aa889879da3f",
+   "external_id": "29e26268-f63f-4e8b-b649-aa889879da3f",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 9 (November 1998).pdf",
+   "bytes": 119385413,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-9-5.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "pc-games-10-4",
+  "publication": "pc-games",
+  "sequence": 75,
+  "number": "10",
+  "date": {
+   "display": "December 1998",
+   "start": "1998-12",
+   "precision": "month"
+  },
+  "pages": 186,
+  "dimensions": {
+   "width_mm": 385.1,
+   "height_mm": 264.6
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/91aa5df1-dfff-4504-a03a-abcfc0deba85",
+   "external_id": "91aa5df1-dfff-4504-a03a-abcfc0deba85",
+   "retrieved_at": "2026-09-14T09:35:56+00:00"
+  },
+  "files": {
+   "pdf": "library/pc-games/pdf/PC Games, Volume 5, Number 10 (December 1998).pdf",
+   "bytes": 132380934,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:35:56+00:00",
+  "assets": {
+   "cover": "site/public/covers/pc-games-10-4.jpg",
+   "pages_rendered": false
+  }
+ }
+]

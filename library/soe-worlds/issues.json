@@ -1,1 +1,72 @@
-[]
+[
+ {
+  "id": "soe-worlds-200410-the-official-magazine-special-preview-issue",
+  "publication": "soe-worlds",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "produced October 2004",
+   "start": "2004-10",
+   "precision": "month"
+  },
+  "pages": 21,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b33b03cc-b73b-4b3b-9458-5302915efa0d",
+   "external_id": "b33b03cc-b73b-4b3b-9458-5302915efa0d",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/soe-worlds/pdf/SOE Worlds- The Official Magazine, Special Preview Issue (produced October 2004).pdf",
+   "bytes": 9819763,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/soe-worlds-200410-the-official-magazine-special-preview-issue.jpg",
+   "pages_rendered": false
+  }
+ },
+ {
+  "id": "soe-worlds-200503-the-official-magazine",
+  "publication": "soe-worlds",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "Spring 2005",
+   "start": "2005-03",
+   "precision": "season"
+  },
+  "pages": 100,
+  "dimensions": {
+   "width_mm": 203.2,
+   "height_mm": 266.7
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/707a9a0b-a88e-406a-a9bc-e6444f4cb816",
+   "external_id": "707a9a0b-a88e-406a-a9bc-e6444f4cb816",
+   "retrieved_at": "2026-09-14T09:36:01+00:00"
+  },
+  "files": {
+   "pdf": "library/soe-worlds/pdf/SOE Worlds- The Official Magazine (Spring 2005).pdf",
+   "bytes": 191158050,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:36:01+00:00",
+  "assets": {
+   "cover": "site/public/covers/soe-worlds-200503-the-official-magazine.jpg",
+   "pages_rendered": false
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "id": "game-specific-promotional-magazines-assorted-1",
+  "publication": "game-specific-promotional-magazines-assorted",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "2005",
+   "start": "2005",
+   "precision": "year"
+  },
+  "pages": 28,
+  "dimensions": {
+   "width_mm": 169.3,
+   "height_mm": 260.4
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/5a7f52f0-e46d-47ed-9d5d-a9fda7b7464a",
+   "external_id": "5a7f52f0-e46d-47ed-9d5d-a9fda7b7464a",
+   "retrieved_at": "2026-09-14T09:33:48+00:00"
+  },
+  "files": {
+   "pdf": "library/game-specific-promotional-magazines-assorted/pdf/The Matrix Online- The Official Magazine, Volume 1, Issue 1 (2005).pdf",
+   "bytes": 25261988,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-14T09:33:48+00:00",
+  "volume": 1
+ }
+]
