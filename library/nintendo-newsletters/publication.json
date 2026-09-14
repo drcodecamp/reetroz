@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/1944a7fc-6821-4685-9497-61b51c7e24e5",
-      "date_range": "1988–1993"
+      "date_range": "1989 – Summer/Fall 1989",
+      "items": 42
     }
   ],
   "stats": {
@@ -44,6 +45,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Nintendo Fun Club News etc."
 }

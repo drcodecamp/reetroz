@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/5f03e16e-de9d-4559-b108-aa8ea04e5f5d",
-      "date_range": "October 1992 – October 1995"
+      "date_range": "October 1992 – January 1994",
+      "items": 12
     }
   ],
   "stats": {
@@ -44,5 +45,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

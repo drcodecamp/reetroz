@@ -1,0 +1,560 @@
+[
+ {
+  "vghf_id": "53fc0124-74b8-4449-9afc-bf072df77b34",
+  "title": "Geek Magazine, Issue 1",
+  "format": "pdf",
+  "date_display": "2017"
+ },
+ {
+  "vghf_id": "f6396652-9e05-4c09-990c-f34456fc0fe3",
+  "title": "Geek Magazine, Issue 2",
+  "format": "pdf",
+  "date_display": "est. October 2017"
+ },
+ {
+  "vghf_id": "bdc99077-a3f6-4b7b-ae3e-49f7f2c1cc96",
+  "title": "Geek Magazine, Issue 3",
+  "format": "pdf",
+  "date_display": "2018"
+ },
+ {
+  "vghf_id": "cc6e77b7-45a2-4fe1-89be-fca81df86f84",
+  "title": "Geek Magazine, Issue 4",
+  "format": "pdf",
+  "date_display": "2018"
+ },
+ {
+  "vghf_id": "e4860fa9-bf76-4301-9a1b-4b3c229612e0",
+  "title": "Geek Magazine, Issue 5",
+  "format": "pdf",
+  "date_display": "2018"
+ },
+ {
+  "vghf_id": "21b2a61e-e099-4bf8-abb1-e3ca6e1108bc",
+  "title": "Geek Magazine, Issue 6",
+  "format": "pdf",
+  "date_display": "March 2019"
+ },
+ {
+  "vghf_id": "07241be9-6a7a-4fd4-a9ff-eaa2810aede5",
+  "title": "Geek Magazine, Issue 7",
+  "format": "pdf",
+  "date_display": "July 2019"
+ },
+ {
+  "vghf_id": "d8282479-e943-416f-a70a-c4fbce906143",
+  "title": "Geek Magazine, Issue 8",
+  "format": "pdf",
+  "date_display": "August 2019"
+ },
+ {
+  "vghf_id": "31ad606b-1946-4987-84e3-0fe68875d6d9",
+  "title": "Geek Magazine, Issue 9",
+  "format": "pdf",
+  "date_display": "November 2019"
+ },
+ {
+  "vghf_id": "95cf9b64-a785-4e73-8ce1-1132c2400688",
+  "title": "Geek Magazine, Issue 10",
+  "format": "pdf",
+  "date_display": "June 2020"
+ },
+ {
+  "vghf_id": "2550fd2e-ca15-4158-9280-75b1907cf838",
+  "title": "Geek Magazine, Issue 11",
+  "format": "pdf",
+  "date_display": "August 2020"
+ },
+ {
+  "vghf_id": "0257fccf-a578-4d8e-901d-d8d944a35c80",
+  "title": "Geek Magazine, Issue 12",
+  "format": "pdf",
+  "date_display": "December 2020"
+ },
+ {
+  "vghf_id": "d17657a5-fdf8-4214-a750-2ed7d0b44ba9",
+  "title": "Walmart GameCenter, Issue 13",
+  "format": "pdf",
+  "date_display": "September 2013"
+ },
+ {
+  "vghf_id": "a4023bc2-c029-40d5-8ac8-a2e2b83fbcb8",
+  "title": "Geek Magazine, Issue 13",
+  "format": "pdf",
+  "date_display": "July 2021"
+ },
+ {
+  "vghf_id": "2c004e8b-4102-4cff-aed0-770c3b702385",
+  "title": "Walmart GameCenter, Issue 14",
+  "format": "pdf",
+  "date_display": "October 2013"
+ },
+ {
+  "vghf_id": "88c1d4fa-dc91-4de9-ae3b-3a8d4913fb1f",
+  "title": "Geek Magazine, Issue 14",
+  "format": "pdf",
+  "date_display": "Winter/January 2024"
+ },
+ {
+  "vghf_id": "0328da5b-5d98-4969-bbf2-76d6328604dd",
+  "title": "Walmart GameCenter, Issue 15",
+  "format": "pdf",
+  "date_display": "November 2013"
+ },
+ {
+  "vghf_id": "6834b23e-adf9-46ba-855e-e4f32c2e3521",
+  "title": "Walmart GameCenter, Issue 20",
+  "format": "pdf",
+  "date_display": "June 2014"
+ },
+ {
+  "vghf_id": "e982b10e-816a-48ef-90ec-739a9cd799df",
+  "title": "Walmart GameCenter, Issue 21",
+  "format": "pdf",
+  "date_display": "July 2014"
+ },
+ {
+  "vghf_id": "7b7eaa01-cb61-4c3e-97ed-70e836aee458",
+  "title": "Walmart GameCenter, Issue 22",
+  "format": "pdf",
+  "date_display": "August 2014"
+ },
+ {
+  "vghf_id": "f68f53c5-4532-4d9c-bfec-bb00022f1460",
+  "title": "Walmart GameCenter, Issue 23",
+  "format": "pdf",
+  "date_display": "September 2014"
+ },
+ {
+  "vghf_id": "4fbbaebc-e98c-4ad0-a59a-d58c8e9a8ed9",
+  "title": "Walmart GameCenter, Issue 24",
+  "format": "pdf",
+  "date_display": "October 2014"
+ },
+ {
+  "vghf_id": "31a9f064-37d3-4a27-84ce-8a4089ad03c8",
+  "title": "Walmart GameCenter, Issue 25",
+  "format": "pdf",
+  "date_display": "November 2014"
+ },
+ {
+  "vghf_id": "69805130-11a8-476c-8def-3a07ff0b9235",
+  "title": "Walmart GameCenter, Issue 26",
+  "format": "pdf",
+  "date_display": "December 2014"
+ },
+ {
+  "vghf_id": "89eb0ab4-2d89-43dc-884e-e8c6391c83c3",
+  "title": "Walmart GameCenter, Issue 27",
+  "format": "pdf",
+  "date_display": "February 2015"
+ },
+ {
+  "vghf_id": "674ccebc-b247-4fe2-9661-a295872efa6b",
+  "title": "Walmart GameCenter, Issue 28",
+  "format": "pdf",
+  "date_display": "March 2015"
+ },
+ {
+  "vghf_id": "1b119815-1b20-4020-81f0-3722ce11f7ce",
+  "title": "Walmart GameCenter, Issue 29",
+  "format": "pdf",
+  "date_display": "April 2015"
+ },
+ {
+  "vghf_id": "b0dc39e1-fc97-4489-b813-b47c3058794f",
+  "title": "Walmart GameCenter, Issue 30",
+  "format": "pdf",
+  "date_display": "May 2015"
+ },
+ {
+  "vghf_id": "28e84c19-2afe-47d3-914f-47037227b55a",
+  "title": "Walmart GameCenter, Issue 31",
+  "format": "pdf",
+  "date_display": "June 2015"
+ },
+ {
+  "vghf_id": "13710211-bcf3-44e8-bc7b-2f5756644e91",
+  "title": "Walmart GameCenter, Issue 32",
+  "format": "pdf",
+  "date_display": "August 2015"
+ },
+ {
+  "vghf_id": "9d2e03b8-abad-43fc-b8b0-c7e720dcf4a8",
+  "title": "Walmart GameCenter, Issue 33",
+  "format": "pdf",
+  "date_display": "September 2015"
+ },
+ {
+  "vghf_id": "5a0530b9-2a9f-4e10-b3f0-903e480cb214",
+  "title": "Walmart GameCenter, Issue 35",
+  "format": "pdf",
+  "date_display": "November 2015"
+ },
+ {
+  "vghf_id": "6eac109d-d7b7-4b5c-a40e-8ac82b7b3920",
+  "title": "Walmart GameCenter, Issue 36",
+  "format": "pdf",
+  "date_display": "December 2015"
+ },
+ {
+  "vghf_id": "15fae50b-c645-4e1e-9254-aa0dd9e51f86",
+  "title": "Walmart GameCenter, Issue 39",
+  "format": "pdf",
+  "date_display": "April 2016"
+ },
+ {
+  "vghf_id": "72e16671-4c0d-4fe7-8323-508d7b70d544",
+  "title": "Walmart GameCenter, Issue 40",
+  "format": "pdf",
+  "date_display": "June 2016"
+ },
+ {
+  "vghf_id": "e3209fb2-1e7f-4c36-91d2-a9e80be09dd4",
+  "title": "Walmart GameCenter, Issue 45",
+  "format": "pdf",
+  "date_display": "December 2016"
+ },
+ {
+  "vghf_id": "17fba2a5-84c9-495c-bb32-7f2ff2a433de",
+  "title": "Walmart GameCenter, Issue 46",
+  "format": "pdf",
+  "date_display": "January 2017"
+ },
+ {
+  "vghf_id": "3c2b2af8-bb62-4b0f-b355-b2f631345e79",
+  "title": "Walmart GameCenter, Issue 47",
+  "format": "pdf",
+  "date_display": "February 2017"
+ },
+ {
+  "vghf_id": "57b01adf-d48c-44ac-b461-15b4401d629f",
+  "title": "Walmart GameCenter, Issue 48",
+  "format": "pdf",
+  "date_display": "March 2017"
+ },
+ {
+  "vghf_id": "c6b4dc9d-f7c7-4894-9e09-46649ef83243",
+  "title": "Walmart GameCenter, Issue 52",
+  "format": "pdf",
+  "date_display": "November 2017"
+ },
+ {
+  "vghf_id": "29e0151f-9d7e-470c-b3ed-91fccc6f82d7",
+  "title": "Walmart GameCenter, Issue 53",
+  "format": "pdf",
+  "date_display": "December 2017"
+ },
+ {
+  "vghf_id": "77fb2981-2c59-40b2-a3d1-80878310538c",
+  "title": "Walmart GameCenter, Issue 54",
+  "format": "pdf",
+  "date_display": "January/February 2018"
+ },
+ {
+  "vghf_id": "ffa76d33-3ddc-46f5-9114-33e0ad98a099",
+  "title": "Walmart GameCenter, Issue 55",
+  "format": "pdf",
+  "date_display": "March 2018"
+ },
+ {
+  "vghf_id": "15afe17f-fb67-482e-a65c-3d7fce6bab8e",
+  "title": "Walmart GameCenter, Issue 56",
+  "format": "pdf",
+  "date_display": "April 2018"
+ },
+ {
+  "vghf_id": "f8b2ef15-0e0b-4bc1-ae29-105029f2ac93",
+  "title": "Walmart GameCenter, Issue 57",
+  "format": "pdf",
+  "date_display": "May/June 2018"
+ },
+ {
+  "vghf_id": "b758b899-53a7-4e1f-b453-1c3de033a5df",
+  "title": "Walmart GameCenter, Issue 58",
+  "format": "pdf",
+  "date_display": "July/August 2018"
+ },
+ {
+  "vghf_id": "3c9ead8c-87af-4a68-88dd-2e9b19fef45f",
+  "title": "Walmart GameCenter, Issue 59",
+  "format": "pdf",
+  "date_display": "2018"
+ },
+ {
+  "vghf_id": "22b48f5e-155c-4ca8-a351-d9b368a5b633",
+  "title": "Walmart GameCenter, Issue 60",
+  "format": "pdf",
+  "date_display": "2018"
+ },
+ {
+  "vghf_id": "45e4c44e-4810-4797-b70f-e386dbd21ab4",
+  "title": "Walmart GameCenter, Issue 61",
+  "format": "pdf",
+  "date_display": "2018"
+ },
+ {
+  "vghf_id": "6d52465f-dc43-44e3-b44c-d8bf3ccbb41f",
+  "title": "Walmart GameCenter, Issue 62",
+  "format": "pdf",
+  "date_display": "January/February 2019"
+ },
+ {
+  "vghf_id": "b2c7963d-c82d-479b-b054-0552c7aeb55e",
+  "title": "Walmart GameCenter, Issue 63",
+  "format": "pdf",
+  "date_display": "May 2019"
+ },
+ {
+  "vghf_id": "ffc12cbc-6c4d-488a-8583-3b25cbc34f20",
+  "title": "Walmart GameCenter, Issue 64",
+  "format": "pdf",
+  "date_display": "July 2019"
+ },
+ {
+  "vghf_id": "b16a3731-8505-4dfe-930d-3777c6297d30",
+  "title": "Walmart GameCenter, Issue 65",
+  "format": "pdf",
+  "date_display": "September 2019"
+ },
+ {
+  "vghf_id": "c8fbc3d4-d87b-4688-9073-f75c65045b0f",
+  "title": "Walmart GameCenter, Issue 66",
+  "format": "pdf",
+  "date_display": "November 2019"
+ },
+ {
+  "vghf_id": "090ed936-d89e-41c7-aac0-881629dfca59",
+  "title": "Walmart GameCenter, Issue 67",
+  "format": "pdf",
+  "date_display": "December 2019"
+ },
+ {
+  "vghf_id": "6de1402c-15b9-4bff-8588-85c4a9cbf03e",
+  "title": "Walmart GameCenter, Issue 68",
+  "format": "pdf",
+  "date_display": "February 2020"
+ },
+ {
+  "vghf_id": "4b2fe069-64b4-4287-9bc7-84477e097a7b",
+  "title": "Walmart GameCenter, Issue 69",
+  "format": "pdf",
+  "date_display": "March 2020"
+ },
+ {
+  "vghf_id": "34ca88fe-0963-4917-b06d-f74b8e1216c3",
+  "title": "Walmart GameCenter, Issue 70",
+  "format": "pdf",
+  "date_display": "May/June 2020"
+ },
+ {
+  "vghf_id": "befb36d8-fbe7-4de8-adf3-e92a25a89b10",
+  "title": "Walmart GameCenter, Issue 71",
+  "format": "pdf",
+  "date_display": "August/September 2020"
+ },
+ {
+  "vghf_id": "fc607d68-4ecb-4054-80df-0d3664e6dd90",
+  "title": "Walmart GameCenter, Issue 73",
+  "format": "pdf",
+  "date_display": "December 2020"
+ },
+ {
+  "vghf_id": "77dcc022-e1a9-44fa-a1ff-003a9b18d8a1",
+  "title": "Walmart GameCenter, Issue 74",
+  "format": "pdf",
+  "date_display": "February 2021"
+ },
+ {
+  "vghf_id": "f41047f1-7b32-4abc-8a65-411fd0c61025",
+  "title": "Walmart GameCenter, Issue 75",
+  "format": "pdf",
+  "date_display": "April/May 2021"
+ },
+ {
+  "vghf_id": "10114b12-4726-49ed-9635-f5c81b50fbfe",
+  "title": "Walmart GameCenter, Issue 79",
+  "format": "pdf",
+  "date_display": "November 2021"
+ },
+ {
+  "vghf_id": "a2cd2c9a-b8b1-48fa-b1db-2a026e021830",
+  "title": "Walmart GameCenter, Issue 80",
+  "format": "pdf",
+  "date_display": "December 2021"
+ },
+ {
+  "vghf_id": "ea60ddd0-1ecc-4218-86de-08a3c7ca51ed",
+  "title": "Walmart GameCenter, Issue 81",
+  "format": "pdf",
+  "date_display": "January 2022"
+ },
+ {
+  "vghf_id": "7b8e2e44-f192-4305-8a92-cbd03dac1985",
+  "title": "Walmart GameCenter, Issue 82",
+  "format": "pdf",
+  "date_display": "February/March 2022"
+ },
+ {
+  "vghf_id": "8bb6bee6-7a48-49d3-ab25-42fd70f1da9b",
+  "title": "Walmart GameCenter, Issue 83",
+  "format": "pdf",
+  "date_display": "April 2022"
+ },
+ {
+  "vghf_id": "8d2751e2-1593-426d-ab46-43e33f209ae5",
+  "title": "Walmart GameCenter, Issue 84",
+  "format": "pdf",
+  "date_display": "May 2022"
+ },
+ {
+  "vghf_id": "5a3a18e2-4d0b-403b-a7a4-bd7a99e60ff7",
+  "title": "Walmart GameCenter, Issue 85",
+  "format": "pdf",
+  "date_display": "June/July 2022"
+ },
+ {
+  "vghf_id": "87b7b65c-1838-4465-89a6-d304ea4d76cc",
+  "title": "Walmart GameCenter, Issue 86",
+  "format": "pdf",
+  "date_display": "August 2022"
+ },
+ {
+  "vghf_id": "0cc96783-9eb0-4057-84ad-635ac8992a7d",
+  "title": "Walmart GameCenter, Issue 87",
+  "format": "pdf",
+  "date_display": "September 2022"
+ },
+ {
+  "vghf_id": "ce33a7fb-8a38-42f8-8c53-ce8ca7b77cd9",
+  "title": "Walmart GameCenter, Issue 88",
+  "format": "pdf",
+  "date_display": "October 2022"
+ },
+ {
+  "vghf_id": "72ab4034-0c90-49df-8a59-eeee17a0e3fa",
+  "title": "Walmart GameCenter, Issue 89",
+  "format": "pdf",
+  "date_display": "November 2022"
+ },
+ {
+  "vghf_id": "5624a4b1-9e92-4b2d-af90-a9bd7fb41fee",
+  "title": "Walmart GameCenter, Issue 90",
+  "format": "pdf",
+  "date_display": "December 2022"
+ },
+ {
+  "vghf_id": "65631ef9-a08c-45d1-91a5-3fdeca3914aa",
+  "title": "Walmart GameCenter, Issue 91",
+  "format": "pdf",
+  "date_display": "Winter/January 2023"
+ },
+ {
+  "vghf_id": "e8e34f7d-f50c-4f41-9b9a-74c9675fe0f6",
+  "title": "Walmart GameCenter, Issue 92",
+  "format": "pdf",
+  "date_display": "February/March 2023"
+ },
+ {
+  "vghf_id": "3b3301d3-2522-42fc-a686-934895f16f07",
+  "title": "Walmart GameCenter, Issue 93",
+  "format": "pdf",
+  "date_display": "April/May 2023"
+ },
+ {
+  "vghf_id": "54b88024-b568-4402-b0f5-58b26909d3d4",
+  "title": "Walmart GameCenter, Issue 94",
+  "format": "pdf",
+  "date_display": "Summer 2023"
+ },
+ {
+  "vghf_id": "16b4c3c6-95ab-4a36-92b7-dc1bc9755ac8",
+  "title": "Walmart GameCenter, Issue 95",
+  "format": "pdf",
+  "date_display": "September 2023"
+ },
+ {
+  "vghf_id": "37a32aa5-1885-4896-a88b-41bf56fcf12c",
+  "title": "Walmart GameCenter, Issue 96",
+  "format": "pdf",
+  "date_display": "October 2023"
+ },
+ {
+  "vghf_id": "dce3603b-d76b-411a-a9cf-5b089a8df0c1",
+  "title": "Walmart GameCenter, Issue 97",
+  "format": "pdf",
+  "date_display": "November 2023"
+ },
+ {
+  "vghf_id": "28f40ca0-19b7-41a3-b452-60f355512e4d",
+  "title": "Walmart Parents Guide To Video Games",
+  "format": "pdf",
+  "date_display": "2017"
+ },
+ {
+  "vghf_id": "aca31375-350f-4900-bce5-238554cfc1f7",
+  "title": "Walmart Parents Guide To Video Games",
+  "format": "pdf",
+  "date_display": "2018"
+ },
+ {
+  "vghf_id": "fd486d89-5c19-4cfa-9948-b0c2c5965640",
+  "title": "Walmart Parents Guide To Video Games",
+  "format": "pdf",
+  "date_display": "2019"
+ },
+ {
+  "vghf_id": "f04204dd-da8f-4b4a-979c-9739d64b7e97",
+  "title": "Walmart Parents Guide To Video Games",
+  "format": "pdf",
+  "date_display": "2020"
+ },
+ {
+  "vghf_id": "b4781184-00cd-48bd-8277-eaf4272ac5f9",
+  "title": "Walmart Parents Guide To Video Games",
+  "format": "pdf",
+  "date_display": "2021"
+ },
+ {
+  "vghf_id": "90bd5902-78b6-4d65-b775-2fdc67fcf6dd",
+  "title": "Walmart Parents Guide To Video Games",
+  "format": "pdf",
+  "date_display": "2022"
+ },
+ {
+  "vghf_id": "e58bc8ac-4114-41ad-af85-74dbb85c8cbb",
+  "title": "Walmart Parents Guide To Video Games",
+  "format": "pdf",
+  "date_display": "2023"
+ },
+ {
+  "vghf_id": "71261a40-ad76-4951-81fe-b9c928c57d4a",
+  "title": "Launch Day Magazine, Alien: Isolation",
+  "format": "pdf",
+  "date_display": "October 7, 2014"
+ },
+ {
+  "vghf_id": "b4fe0029-d090-4437-b256-020f4e825d81",
+  "title": "Launch Day Magazine, Disney Infinity 2.0",
+  "format": "pdf",
+  "date_display": "September 23, 2014"
+ },
+ {
+  "vghf_id": "81104a94-cbb1-45d2-869f-f0efb81b5d4e",
+  "title": "Launch Day Magazine, Naruto Shippuden: Ultimate Ninja Storm Revolution",
+  "format": "pdf",
+  "date_display": "September 12, 2014"
+ },
+ {
+  "vghf_id": "4033f25c-6def-4142-8745-4c1175715ea8",
+  "title": "Launch Day Magazine, Sunset Overdrive",
+  "format": "pdf",
+  "date_display": "October 28, 2014"
+ },
+ {
+  "vghf_id": "a1394dcd-c7bd-46c2-b19a-8177dac8bec4",
+  "title": "Walmart Gamecenter - 072",
+  "format": "pdf",
+  "date_display": ""
+ }
+]

@@ -1,0 +1,3926 @@
+{
+  "provider": "vghf",
+  "folder_id": "4796164f-a6b6-46b6-82a8-cdcd064fb8a5",
+  "url": "https://archive.gamehistory.org/folder/4796164f-a6b6-46b6-82a8-cdcd064fb8a5",
+  "retrieved_at": "2026-09-13T22:50:52+00:00",
+  "expected": 205,
+  "count": 228,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "13ef464c-bf15-43c3-a548-258313315fb6",
+      "title": "Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/13ef464c-bf15-43c3-a548-258313315fb6",
+      "number": "1",
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "685a7ab3-41ce-430b-a98a-fd0917d2f662",
+      "title": "Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/685a7ab3-41ce-430b-a98a-fd0917d2f662",
+      "number": "2",
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "cd768e55-3771-4310-82ed-b64cc7dc1705",
+      "title": "Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cd768e55-3771-4310-82ed-b64cc7dc1705",
+      "number": "3",
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "0e78301b-8bef-40e8-8b69-6f270abc8796",
+      "title": "Game Developer, Volume 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0e78301b-8bef-40e8-8b69-6f270abc8796",
+      "number": null
+    },
+    {
+      "id": "60eb40ac-9d4a-4e69-a688-594a9d1522f5",
+      "title": "Game Developer, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/60eb40ac-9d4a-4e69-a688-594a9d1522f5",
+      "number": null
+    },
+    {
+      "id": "3679baa7-e3f8-410b-814d-831cb0adf26d",
+      "title": "Game Developer, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3679baa7-e3f8-410b-814d-831cb0adf26d",
+      "number": null
+    },
+    {
+      "id": "a10c0b48-d033-4633-8b7a-52f8c29677e8",
+      "title": "Game Developer, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a10c0b48-d033-4633-8b7a-52f8c29677e8",
+      "number": null
+    },
+    {
+      "id": "39b9b86f-d3d1-496f-bd91-5368997b0e42",
+      "title": "Game Developer, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1995",
+        "start": "1995-02",
+        "end": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39b9b86f-d3d1-496f-bd91-5368997b0e42",
+      "number": null
+    },
+    {
+      "id": "377ad675-3101-4848-86c0-0fda52d09853",
+      "title": "Game Developer, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1995",
+        "start": "1995-04",
+        "end": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/377ad675-3101-4848-86c0-0fda52d09853",
+      "number": null
+    },
+    {
+      "id": "7f0983d8-e6c5-438b-85c3-a77e12d7b8bc",
+      "title": "Game Developer, Volume 2, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1995",
+        "start": "1995-06",
+        "end": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7f0983d8-e6c5-438b-85c3-a77e12d7b8bc",
+      "number": null
+    },
+    {
+      "id": "4932396b-6547-4070-867e-237f389192a1",
+      "title": "Game Developer, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1995",
+        "start": "1995-08",
+        "end": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4932396b-6547-4070-867e-237f389192a1",
+      "number": null
+    },
+    {
+      "id": "d76cd338-66e5-4815-aeb6-c559959139b3",
+      "title": "Game Developer, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 1995",
+        "start": "1995-10",
+        "end": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d76cd338-66e5-4815-aeb6-c559959139b3",
+      "number": null
+    },
+    {
+      "id": "153f12df-8441-48d2-acb5-c40fa792ce11",
+      "title": "Game Developer, Volume 3, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1996",
+        "start": "1996-02",
+        "end": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/153f12df-8441-48d2-acb5-c40fa792ce11",
+      "number": null
+    },
+    {
+      "id": "1284a9f3-5c06-413b-b733-71c702b2ce7b",
+      "title": "Game Developer, Volume 3, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1996",
+        "start": "1996-04",
+        "end": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1284a9f3-5c06-413b-b733-71c702b2ce7b",
+      "number": null
+    },
+    {
+      "id": "310a8544-35fe-44ba-aeb1-ba979bf0e8e9",
+      "title": "Game Developer, Volume 3, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1996",
+        "start": "1996-06",
+        "end": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/310a8544-35fe-44ba-aeb1-ba979bf0e8e9",
+      "number": null
+    },
+    {
+      "id": "329cc2e0-1153-4faf-ba59-8dd1b94192f0",
+      "title": "Game Developer, Volume 3, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1996",
+        "start": "1996-08",
+        "end": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/329cc2e0-1153-4faf-ba59-8dd1b94192f0",
+      "number": null
+    },
+    {
+      "id": "b158cda2-1217-4262-bba4-c3782735d1ac",
+      "title": "Game Developer, Volume 3, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 1996",
+        "start": "1996-10",
+        "end": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b158cda2-1217-4262-bba4-c3782735d1ac",
+      "number": null
+    },
+    {
+      "id": "77e5bb12-0524-4caf-ae7e-35bd724b65a0",
+      "title": "Game Developer, Volume 4, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1997",
+        "start": "1997-02",
+        "end": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77e5bb12-0524-4caf-ae7e-35bd724b65a0",
+      "number": null
+    },
+    {
+      "id": "6fbe8535-ecb3-4f80-aae3-e3960ac08fc2",
+      "title": "Game Developer, Volume 4, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1997",
+        "start": "1997-04",
+        "end": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6fbe8535-ecb3-4f80-aae3-e3960ac08fc2",
+      "number": null
+    },
+    {
+      "id": "f0370b0e-5c16-4c26-ab51-0d4b848d7c24",
+      "title": "Game Developer, Volume 4, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f0370b0e-5c16-4c26-ab51-0d4b848d7c24",
+      "number": null
+    },
+    {
+      "id": "23718300-213b-4766-aa22-9c32dc57a3c9",
+      "title": "Game Developer, Volume 4, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/23718300-213b-4766-aa22-9c32dc57a3c9",
+      "number": null
+    },
+    {
+      "id": "79e0012e-638d-4a89-883d-8742e7cb0f43",
+      "title": "Game Developer, Volume 4, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/79e0012e-638d-4a89-883d-8742e7cb0f43",
+      "number": null
+    },
+    {
+      "id": "9d13846f-d71b-42e3-94fd-19612f93f6be",
+      "title": "Game Developer, Volume 4, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d13846f-d71b-42e3-94fd-19612f93f6be",
+      "number": null
+    },
+    {
+      "id": "a7e258cb-fbbd-4117-b19b-c009f799a889",
+      "title": "Game Developer, Volume 4, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7e258cb-fbbd-4117-b19b-c009f799a889",
+      "number": null
+    },
+    {
+      "id": "fa1fb593-29fd-4101-8ff5-78e9a7d6f2ad",
+      "title": "Game Developer, Volume 4, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fa1fb593-29fd-4101-8ff5-78e9a7d6f2ad",
+      "number": null
+    },
+    {
+      "id": "362f5b87-2b6f-4845-8687-22da87d77ad8",
+      "title": "Game Developer, Volume 3, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December/January 1997",
+        "start": "1997-12",
+        "end": "1997-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/362f5b87-2b6f-4845-8687-22da87d77ad8",
+      "number": null
+    },
+    {
+      "id": "38bc4a3c-637c-46b0-8391-06c3fdd88f66",
+      "title": "Game Developer, Volume 4, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1997",
+        "start": "1997-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38bc4a3c-637c-46b0-8391-06c3fdd88f66",
+      "number": null
+    },
+    {
+      "id": "5768751e-046d-4710-83a2-8a24476a7b90",
+      "title": "Game Developer, Volume 5, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1998",
+        "start": "1998-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5768751e-046d-4710-83a2-8a24476a7b90",
+      "number": null
+    },
+    {
+      "id": "f873a7cc-fccb-4964-8109-0fc737ee516a",
+      "title": "Game Developer, Volume 5, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1998",
+        "start": "1998-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f873a7cc-fccb-4964-8109-0fc737ee516a",
+      "number": null
+    },
+    {
+      "id": "e5c45f99-12bf-488b-b2dc-e820e4d08e05",
+      "title": "Developing Games for the Public PC",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1998",
+        "start": "1998-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e5c45f99-12bf-488b-b2dc-e820e4d08e05",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "3c5311a8-dc59-4680-9967-e56c36170462",
+      "title": "Game Developer, Volume 5, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1998",
+        "start": "1998-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c5311a8-dc59-4680-9967-e56c36170462",
+      "number": null
+    },
+    {
+      "id": "815047f2-eed8-4cc7-b979-18824070b09b",
+      "title": "Game Developer, Volume 5, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1998",
+        "start": "1998-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/815047f2-eed8-4cc7-b979-18824070b09b",
+      "number": null
+    },
+    {
+      "id": "c9fa7b83-d15b-4182-b59c-eaaab449fa84",
+      "title": "Game Developer, Volume 5, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1998",
+        "start": "1998-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c9fa7b83-d15b-4182-b59c-eaaab449fa84",
+      "number": null
+    },
+    {
+      "id": "3fefafa5-5547-4646-a255-589f4117168b",
+      "title": "Game Developer, Volume 5, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1998",
+        "start": "1998-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3fefafa5-5547-4646-a255-589f4117168b",
+      "number": null
+    },
+    {
+      "id": "eb23e3dc-0bf1-4398-8f9b-c73b59767cf9",
+      "title": "Game Developer, Volume 5, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1998",
+        "start": "1998-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eb23e3dc-0bf1-4398-8f9b-c73b59767cf9",
+      "number": null
+    },
+    {
+      "id": "884751df-adea-4af0-9c2b-1bb0f559a035",
+      "title": "Game Developer, Volume 5, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1998",
+        "start": "1998-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/884751df-adea-4af0-9c2b-1bb0f559a035",
+      "number": null
+    },
+    {
+      "id": "ac9eeb53-da8e-4c15-bb60-eb657c33ef6d",
+      "title": "Game Developer, Volume 5, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac9eeb53-da8e-4c15-bb60-eb657c33ef6d",
+      "number": null
+    },
+    {
+      "id": "7dd392ab-7b65-4527-bc5c-522293bcaa3b",
+      "title": "Game Developer, Volume 5, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1998",
+        "start": "1998-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7dd392ab-7b65-4527-bc5c-522293bcaa3b",
+      "number": null
+    },
+    {
+      "id": "59b52028-18a9-4477-803b-88d4e475762e",
+      "title": "Game Developer, Volume 5, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1998",
+        "start": "1998-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/59b52028-18a9-4477-803b-88d4e475762e",
+      "number": null
+    },
+    {
+      "id": "7baf4bf6-9cb6-4fd4-92c4-7b8eb01fb722",
+      "title": "Game Developer, Volume 5, Number 12, The 1999 Buyer's Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November/December 1998",
+        "start": "1998-11",
+        "end": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7baf4bf6-9cb6-4fd4-92c4-7b8eb01fb722",
+      "number": null
+    },
+    {
+      "id": "d167e0a1-f5dc-4707-954d-0603645d70f8",
+      "title": "Game Developer, Volume 5, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1998",
+        "start": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d167e0a1-f5dc-4707-954d-0603645d70f8",
+      "number": null
+    },
+    {
+      "id": "0de577bf-d886-4192-8b2f-800e65853d2d",
+      "title": "Game Developer, Volume 6, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1999",
+        "start": "1999-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0de577bf-d886-4192-8b2f-800e65853d2d",
+      "number": null
+    },
+    {
+      "id": "a0c236e5-c54e-4be6-a380-77e8f21d071c",
+      "title": "Game Developer, Volume 6, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0c236e5-c54e-4be6-a380-77e8f21d071c",
+      "number": null
+    },
+    {
+      "id": "f8e55b11-f19f-4ebe-9739-87d4ffe30af7",
+      "title": "Game Developer, Volume 6, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8e55b11-f19f-4ebe-9739-87d4ffe30af7",
+      "number": null
+    },
+    {
+      "id": "f733589d-5ac2-41f3-9461-caa2ea4076f7",
+      "title": "Game Developer, Volume 6, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1999",
+        "start": "1999-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f733589d-5ac2-41f3-9461-caa2ea4076f7",
+      "number": null
+    },
+    {
+      "id": "44fbf318-2806-4ac8-a4d4-270e97859156",
+      "title": "Game Developer, Volume 6, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1999",
+        "start": "1999-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/44fbf318-2806-4ac8-a4d4-270e97859156",
+      "number": null
+    },
+    {
+      "id": "dc01b82e-920e-4ab7-8067-4e34a06c9b5d",
+      "title": "Game Developer, Volume 6, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dc01b82e-920e-4ab7-8067-4e34a06c9b5d",
+      "number": null
+    },
+    {
+      "id": "8f1230f8-b841-42f7-8f56-19acd06afc19",
+      "title": "Game Developer, Volume 6, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1999",
+        "start": "1999-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8f1230f8-b841-42f7-8f56-19acd06afc19",
+      "number": null
+    },
+    {
+      "id": "e7423a47-cbe7-4cfe-8d8c-b702ca6d62c1",
+      "title": "Game Developer, Volume 6, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1999",
+        "start": "1999-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e7423a47-cbe7-4cfe-8d8c-b702ca6d62c1",
+      "number": null
+    },
+    {
+      "id": "6870eac8-668a-4672-93fa-ada8f7f10514",
+      "title": "Game Developer, Volume 6, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6870eac8-668a-4672-93fa-ada8f7f10514",
+      "number": null
+    },
+    {
+      "id": "ae0d3fe7-d3ec-4498-bb5c-e2535554567c",
+      "title": "Game Developer, Volume 6, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1999",
+        "start": "1999-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ae0d3fe7-d3ec-4498-bb5c-e2535554567c",
+      "number": null
+    },
+    {
+      "id": "129c5d96-cceb-4ce9-8152-92a72435fc68",
+      "title": "Game Audio Technology 2000 supplement",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/129c5d96-cceb-4ce9-8152-92a72435fc68",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "a02dd855-601d-43e7-b1dc-1c0996f8dc6c",
+      "title": "Game Developer, Volume 6, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a02dd855-601d-43e7-b1dc-1c0996f8dc6c",
+      "number": null
+    },
+    {
+      "id": "865a1a42-2a10-42d7-800b-a6779a9d1d95",
+      "title": "Game Developer, Volume 6, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/865a1a42-2a10-42d7-800b-a6779a9d1d95",
+      "number": null
+    },
+    {
+      "id": "030e4f14-3b83-468d-b7b9-434ff5c00152",
+      "title": "Game Developer, Volume 7, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/030e4f14-3b83-468d-b7b9-434ff5c00152",
+      "number": null
+    },
+    {
+      "id": "fc4edf53-b166-4780-b9ed-3bb1be78306c",
+      "title": "Game Developers Conference 2000 Conference Brochure",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fc4edf53-b166-4780-b9ed-3bb1be78306c",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "6aae487e-8658-4afd-b8cf-affa716f6b7c",
+      "title": "Game Developer, Volume 7, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6aae487e-8658-4afd-b8cf-affa716f6b7c",
+      "number": null
+    },
+    {
+      "id": "935de262-f07c-4f4e-8010-b72d206a5680",
+      "title": "Game Developer, Volume 7, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/935de262-f07c-4f4e-8010-b72d206a5680",
+      "number": null
+    },
+    {
+      "id": "6e229203-96a7-4f55-a211-914ed28b8ca4",
+      "title": "Game Developer, Volume 7, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6e229203-96a7-4f55-a211-914ed28b8ca4",
+      "number": null
+    },
+    {
+      "id": "f9062daa-c339-4c94-80fa-02134d411e72",
+      "title": "Game Developer, Volume 7, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f9062daa-c339-4c94-80fa-02134d411e72",
+      "number": null
+    },
+    {
+      "id": "77cbd690-cc0c-4a90-a62b-d241bb512301",
+      "title": "Game Developer, Volume 7, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77cbd690-cc0c-4a90-a62b-d241bb512301",
+      "number": null
+    },
+    {
+      "id": "c47b084d-c5f6-4120-b25b-938174ba95d4",
+      "title": "Game Developer, Volume 7, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c47b084d-c5f6-4120-b25b-938174ba95d4",
+      "number": null
+    },
+    {
+      "id": "b0aa9b0a-22fb-4a27-bdb0-ea14081f5999",
+      "title": "Game Developer, Volume 7, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b0aa9b0a-22fb-4a27-bdb0-ea14081f5999",
+      "number": null
+    },
+    {
+      "id": "f3c797e7-76b2-462b-821e-952d40e9b024",
+      "title": "Game Developer, Volume 7, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2000",
+        "start": "2000-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f3c797e7-76b2-462b-821e-952d40e9b024",
+      "number": null
+    },
+    {
+      "id": "fdad175a-10e9-4397-b74b-bcc3bc45f98c",
+      "title": "Game Developer, Volume 7, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2000",
+        "start": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fdad175a-10e9-4397-b74b-bcc3bc45f98c",
+      "number": null
+    },
+    {
+      "id": "830b87d5-d00d-4ffd-a5b1-d2cf5cb15953",
+      "title": "Game Developer, Volume 7, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/830b87d5-d00d-4ffd-a5b1-d2cf5cb15953",
+      "number": null
+    },
+    {
+      "id": "203d93f8-546c-4d2d-ab4e-09213755055e",
+      "title": "Game Developer, Volume 7, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/203d93f8-546c-4d2d-ab4e-09213755055e",
+      "number": null
+    },
+    {
+      "id": "d5806c83-5fd6-4072-8b21-bcde464bc0da",
+      "title": "Game Developer, Volume 8, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2001",
+        "start": "2001-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d5806c83-5fd6-4072-8b21-bcde464bc0da",
+      "number": null
+    },
+    {
+      "id": "0873b685-b1b7-4031-9025-92a3cdd771b5",
+      "title": "Game Developer, Volume 8, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0873b685-b1b7-4031-9025-92a3cdd771b5",
+      "number": null
+    },
+    {
+      "id": "77bbba97-b306-4e70-8c11-c819bffce1d1",
+      "title": "Game Developers Conference 2001 guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77bbba97-b306-4e70-8c11-c819bffce1d1",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "5214b4f1-9b51-4022-b9ce-1a1edd74787e",
+      "title": "Game Developer, Volume 8, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2001",
+        "start": "2001-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5214b4f1-9b51-4022-b9ce-1a1edd74787e",
+      "number": null
+    },
+    {
+      "id": "dbbf249c-cc1b-4584-a62f-5b14a4198c3a",
+      "title": "Game Developer, Volume 8, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2001",
+        "start": "2001-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dbbf249c-cc1b-4584-a62f-5b14a4198c3a",
+      "number": null
+    },
+    {
+      "id": "6f889c13-6028-4466-bccc-8c7f18b487e2",
+      "title": "Game Developer, Volume 8, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6f889c13-6028-4466-bccc-8c7f18b487e2",
+      "number": null
+    },
+    {
+      "id": "d4061881-f166-44f5-90cd-ab2ad5d6f159",
+      "title": "Game Developer, Volume 8, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2001",
+        "start": "2001-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d4061881-f166-44f5-90cd-ab2ad5d6f159",
+      "number": null
+    },
+    {
+      "id": "d9e5e21f-3a63-4ebd-810a-24bed2502aea",
+      "title": "Game Developer, Volume 8, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2001",
+        "start": "2001-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d9e5e21f-3a63-4ebd-810a-24bed2502aea",
+      "number": null
+    },
+    {
+      "id": "c23fe4b3-de34-4eb9-aa5f-e7ca69ce5162",
+      "title": "Game Developer, Volume 8, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2001",
+        "start": "2001-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c23fe4b3-de34-4eb9-aa5f-e7ca69ce5162",
+      "number": null
+    },
+    {
+      "id": "9bd9fb6a-9aaf-4ee4-8b6b-c3660d1452bb",
+      "title": "Game Developer, Volume 8, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2001",
+        "start": "2001-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9bd9fb6a-9aaf-4ee4-8b6b-c3660d1452bb",
+      "number": null
+    },
+    {
+      "id": "7e379a31-8863-43e4-9333-da6dfc67e64b",
+      "title": "Game Developer, Volume 8, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2001",
+        "start": "2001-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7e379a31-8863-43e4-9333-da6dfc67e64b",
+      "number": null
+    },
+    {
+      "id": "1d11b97a-9e5d-4418-b7e8-f635a78004ed",
+      "title": "Game Developer, Volume 8, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2001",
+        "start": "2001-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1d11b97a-9e5d-4418-b7e8-f635a78004ed",
+      "number": null
+    },
+    {
+      "id": "5c25d903-f245-42bb-a460-b30f38eefbba",
+      "title": "Game Developer, Volume 8, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2001",
+        "start": "2001-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5c25d903-f245-42bb-a460-b30f38eefbba",
+      "number": null
+    },
+    {
+      "id": "ff023277-107e-450f-a64c-86ada9977559",
+      "title": "Game Developer, Volume 9, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ff023277-107e-450f-a64c-86ada9977559",
+      "number": null
+    },
+    {
+      "id": "2895e487-080b-489d-b1aa-6a0474c12a96",
+      "title": "Game Developer, Volume 9, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2002",
+        "start": "2002-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2895e487-080b-489d-b1aa-6a0474c12a96",
+      "number": null
+    },
+    {
+      "id": "84352d1d-14a4-45f6-b381-fe01eb93df9a",
+      "title": "Game Developers Conference 2002 Conference Brochure",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2002",
+        "start": "2002-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/84352d1d-14a4-45f6-b381-fe01eb93df9a",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "769a8bbe-32de-42d1-b3a1-f093099753f7",
+      "title": "Game Developer, Volume 9, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2002",
+        "start": "2002-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/769a8bbe-32de-42d1-b3a1-f093099753f7",
+      "number": null
+    },
+    {
+      "id": "3c01d41c-d3d9-4ba6-8e34-2c7b9b4c4748",
+      "title": "Game Developer, Volume 9, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c01d41c-d3d9-4ba6-8e34-2c7b9b4c4748",
+      "number": null
+    },
+    {
+      "id": "04c312e5-764a-4105-9b04-eccef5387b82",
+      "title": "IGDA 2001 Annual Report",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/04c312e5-764a-4105-9b04-eccef5387b82",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "5e8b6cac-45ca-40a7-9d87-323080c6d006",
+      "title": "Game Developer, Volume 9, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2002",
+        "start": "2002-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5e8b6cac-45ca-40a7-9d87-323080c6d006",
+      "number": null
+    },
+    {
+      "id": "b04c5f25-4b2d-450c-8a18-5c61e22bfa51",
+      "title": "Game Developer, Volume 9, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2002",
+        "start": "2002-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b04c5f25-4b2d-450c-8a18-5c61e22bfa51",
+      "number": null
+    },
+    {
+      "id": "4246e36a-06c8-4ebe-94ed-0c92b4737d98",
+      "title": "Game Developer, Volume 9, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2002",
+        "start": "2002-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4246e36a-06c8-4ebe-94ed-0c92b4737d98",
+      "number": null
+    },
+    {
+      "id": "be103b03-5690-4978-8e7a-1a80fa682d55",
+      "title": "Game Developer, Volume 9, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2002",
+        "start": "2002-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/be103b03-5690-4978-8e7a-1a80fa682d55",
+      "number": null
+    },
+    {
+      "id": "235fb872-f93b-435a-86e3-975111275b42",
+      "title": "Game Developer, Volume 9, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2002",
+        "start": "2002-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/235fb872-f93b-435a-86e3-975111275b42",
+      "number": null
+    },
+    {
+      "id": "7068f473-8136-4428-a9c4-2a6320866ff3",
+      "title": "Game Developer, Volume 9, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2002",
+        "start": "2002-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7068f473-8136-4428-a9c4-2a6320866ff3",
+      "number": null
+    },
+    {
+      "id": "18128776-f204-4679-a593-18ceb984092e",
+      "title": "Game Developer, Volume 9, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2002",
+        "start": "2002-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/18128776-f204-4679-a593-18ceb984092e",
+      "number": null
+    },
+    {
+      "id": "639ed313-0f3e-4cb0-be67-e12e38631d8c",
+      "title": "Game Developer, Volume 9, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2002",
+        "start": "2002-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/639ed313-0f3e-4cb0-be67-e12e38631d8c",
+      "number": null
+    },
+    {
+      "id": "6b9d4f18-cc31-498f-977d-54a5fc4ffd70",
+      "title": "Game Developer, Volume 10, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2003",
+        "start": "2003-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b9d4f18-cc31-498f-977d-54a5fc4ffd70",
+      "number": null
+    },
+    {
+      "id": "87e158ed-2ff0-42db-ab6f-a028c6b33457",
+      "title": "Game Developer, Volume 10, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87e158ed-2ff0-42db-ab6f-a028c6b33457",
+      "number": null
+    },
+    {
+      "id": "876dee8f-da46-4c39-9165-209ba82702ad",
+      "title": "Game Developer, Volume 10, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2003",
+        "start": "2003-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/876dee8f-da46-4c39-9165-209ba82702ad",
+      "number": null
+    },
+    {
+      "id": "5a0411e8-adbe-435d-862d-9162924e80ca",
+      "title": "Game Developer, Volume 10, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a0411e8-adbe-435d-862d-9162924e80ca",
+      "number": null
+    },
+    {
+      "id": "dcde1359-04c4-4c01-b708-659188e25af1",
+      "title": "Game Developer, Volume 10, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dcde1359-04c4-4c01-b708-659188e25af1",
+      "number": null
+    },
+    {
+      "id": "03a51768-a0bc-4628-8232-906a6deff36d",
+      "title": "IGDA 2002 Annual Report",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/03a51768-a0bc-4628-8232-906a6deff36d",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "bb891f6f-7741-4beb-956a-558a24a83a2c",
+      "title": "Game Developer, Volume 10, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bb891f6f-7741-4beb-956a-558a24a83a2c",
+      "number": null
+    },
+    {
+      "id": "2fb68618-40f8-41c0-8f65-0abb11c8e20b",
+      "title": "Game Developer, Volume 10, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2fb68618-40f8-41c0-8f65-0abb11c8e20b",
+      "number": null
+    },
+    {
+      "id": "6dfaf97b-8fd8-4dcd-a700-187b07f107b6",
+      "title": "Game Developer, Volume 10, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6dfaf97b-8fd8-4dcd-a700-187b07f107b6",
+      "number": null
+    },
+    {
+      "id": "bbfd97b3-d0fa-4c1c-b725-efe2dc63d17a",
+      "title": "Game Developer, 2003 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2003",
+        "start": "2003-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/bbfd97b3-d0fa-4c1c-b725-efe2dc63d17a",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "9b809132-9d3b-4e44-9125-95e9c0d52e0d",
+      "title": "Game Developer, Volume 10, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9b809132-9d3b-4e44-9125-95e9c0d52e0d",
+      "number": null
+    },
+    {
+      "id": "9cff49c9-f173-4213-a8e9-790576bfc9c7",
+      "title": "Game Developer, Volume 10, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2003",
+        "start": "2003-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9cff49c9-f173-4213-a8e9-790576bfc9c7",
+      "number": null
+    },
+    {
+      "id": "e185bd25-0016-4a6c-9173-f84adeea9830",
+      "title": "Game Developer, Volume 10, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2003",
+        "start": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e185bd25-0016-4a6c-9173-f84adeea9830",
+      "number": null
+    },
+    {
+      "id": "49f0dc06-fb40-401c-8481-83ce0b43789d",
+      "title": "Game Developer, Volume 10, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/49f0dc06-fb40-401c-8481-83ce0b43789d",
+      "number": null
+    },
+    {
+      "id": "058040b7-27e5-4755-932d-8fdc3622f3b2",
+      "title": "Game Developer, Volume 11, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/058040b7-27e5-4755-932d-8fdc3622f3b2",
+      "number": null
+    },
+    {
+      "id": "2d5208f9-e695-4289-a51c-65f5ba3a64b2",
+      "title": "GDC 04 Program Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2004",
+        "start": "2004-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d5208f9-e695-4289-a51c-65f5ba3a64b2",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "1dee8943-6e66-48e2-8a8f-c55ad348a502",
+      "title": "Game Developer, Volume 11, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2004",
+        "start": "2004-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1dee8943-6e66-48e2-8a8f-c55ad348a502",
+      "number": null
+    },
+    {
+      "id": "1723c8af-f9f8-45c1-b058-fbddae9f31ce",
+      "title": "Game Developer, Volume 11, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2004",
+        "start": "2004-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1723c8af-f9f8-45c1-b058-fbddae9f31ce",
+      "number": null
+    },
+    {
+      "id": "a0c6459b-dc13-44c0-9dbb-8cb92b102325",
+      "title": "ATI Focus on Developers",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2004",
+        "start": "2004-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0c6459b-dc13-44c0-9dbb-8cb92b102325",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "09208a13-36d8-4a86-b543-3a8bb832bf3a",
+      "title": "Game Developer, Volume 11, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2004",
+        "start": "2004-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/09208a13-36d8-4a86-b543-3a8bb832bf3a",
+      "number": null
+    },
+    {
+      "id": "d9b97339-af8f-47a5-990e-5efb9e15da3f",
+      "title": "Game Developer, Volume 11, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2004",
+        "start": "2004-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d9b97339-af8f-47a5-990e-5efb9e15da3f",
+      "number": null
+    },
+    {
+      "id": "e574831a-dc90-41ec-9cea-c00a6c0cdd2d",
+      "title": "Game Developer, Volume 11, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2004",
+        "start": "2004-06",
+        "end": "2004-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e574831a-dc90-41ec-9cea-c00a6c0cdd2d",
+      "number": null
+    },
+    {
+      "id": "253f9dd6-1460-4cf1-afd9-1a316acb6d68",
+      "title": "Game Developer, Volume 11, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2004",
+        "start": "2004-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/253f9dd6-1460-4cf1-afd9-1a316acb6d68",
+      "number": null
+    },
+    {
+      "id": "c96bc35a-04c1-43e0-81c1-f1d17642bce9",
+      "title": "Game Developer, 2004 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2004",
+        "start": "2004-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/c96bc35a-04c1-43e0-81c1-f1d17642bce9",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "41e19a68-2fff-46f4-b7bd-451ad9e8972a",
+      "title": "Game Developer, Volume 11, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2004",
+        "start": "2004-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/41e19a68-2fff-46f4-b7bd-451ad9e8972a",
+      "number": null
+    },
+    {
+      "id": "50c7af5c-23b8-441d-ab2a-ded7da2f047b",
+      "title": "Game Developer, Volume 11, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2004",
+        "start": "2004-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50c7af5c-23b8-441d-ab2a-ded7da2f047b",
+      "number": null
+    },
+    {
+      "id": "edd505b5-4a79-43bb-a2d1-5b5db2a7344c",
+      "title": "Game Developer, Volume 11, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2004",
+        "start": "2004-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/edd505b5-4a79-43bb-a2d1-5b5db2a7344c",
+      "number": null
+    },
+    {
+      "id": "24cf83f7-4b31-4e74-8add-2e10806f0cac",
+      "title": "Game Developer, Volume 11, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2004",
+        "start": "2004-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24cf83f7-4b31-4e74-8add-2e10806f0cac",
+      "number": null
+    },
+    {
+      "id": "2d122883-71d8-429a-b97d-172ca257ff94",
+      "title": "GDC 05 Conference Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2005",
+        "start": "2005-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d122883-71d8-429a-b97d-172ca257ff94",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "ef4358d1-579c-4691-bf4e-203da09a5635",
+      "title": "Game Developer, Volume 12, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2005",
+        "start": "2005-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ef4358d1-579c-4691-bf4e-203da09a5635",
+      "number": null
+    },
+    {
+      "id": "f43873d0-260c-4968-a542-cc5f9e7c9a9c",
+      "title": "Game Developer, Volume 12, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2005",
+        "start": "2005-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f43873d0-260c-4968-a542-cc5f9e7c9a9c",
+      "number": null
+    },
+    {
+      "id": "c0d39943-fa0f-41d5-8180-ccd1a4561988",
+      "title": "Game Developer, Volume 12, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2005",
+        "start": "2005-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0d39943-fa0f-41d5-8180-ccd1a4561988",
+      "number": null
+    },
+    {
+      "id": "a7af112e-2e5e-4373-b140-f763a6d06a85",
+      "title": "Game Developer, Volume 12, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2005",
+        "start": "2005-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7af112e-2e5e-4373-b140-f763a6d06a85",
+      "number": null
+    },
+    {
+      "id": "d78c8c3c-8b43-4d63-9cba-d568e71ba9c4",
+      "title": "Game Developer, Volume 12, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2005",
+        "start": "2005-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d78c8c3c-8b43-4d63-9cba-d568e71ba9c4",
+      "number": null
+    },
+    {
+      "id": "aadc1767-9f9a-41da-a25a-3900d6f1a47f",
+      "title": "Game Developer, Volume 12, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2005",
+        "start": "2005-06",
+        "end": "2005-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aadc1767-9f9a-41da-a25a-3900d6f1a47f",
+      "number": null
+    },
+    {
+      "id": "cf0a0a15-18a2-4524-a59e-25af9ff208b0",
+      "title": "Game Developer, Volume 12, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2005",
+        "start": "2005-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cf0a0a15-18a2-4524-a59e-25af9ff208b0",
+      "number": null
+    },
+    {
+      "id": "797e1663-82f2-499b-9760-b7e4fd37ae5a",
+      "title": "Game Developer, 2005 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2005",
+        "start": "2005-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/797e1663-82f2-499b-9760-b7e4fd37ae5a",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "a2a07917-edf8-41cb-9c6b-e43c6296cc13",
+      "title": "Game Developer, Volume 12, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2005",
+        "start": "2005-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2a07917-edf8-41cb-9c6b-e43c6296cc13",
+      "number": null
+    },
+    {
+      "id": "41741d72-618b-4b89-8244-609eda27c990",
+      "title": "Game Developer, Volume 12, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2005",
+        "start": "2005-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/41741d72-618b-4b89-8244-609eda27c990",
+      "number": null
+    },
+    {
+      "id": "204df954-5c3f-4ccc-80bb-5e32b531265c",
+      "title": "Game Developer, Volume 12, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2005",
+        "start": "2005-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/204df954-5c3f-4ccc-80bb-5e32b531265c",
+      "number": null
+    },
+    {
+      "id": "0178abba-bda4-45fc-ac92-e59fe58aa84e",
+      "title": "Game Developer, Volume 12, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2005",
+        "start": "2005-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0178abba-bda4-45fc-ac92-e59fe58aa84e",
+      "number": null
+    },
+    {
+      "id": "bf42a9ea-b2b3-44a1-a4fb-1ac5bd5c0e12",
+      "title": "GDC 06 Preview Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2006",
+        "start": "2006-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bf42a9ea-b2b3-44a1-a4fb-1ac5bd5c0e12",
+      "number": null,
+      "parent_id": "45b29d79-3bf8-49a8-b02d-418955990702"
+    },
+    {
+      "id": "000543fb-5301-44d1-a7aa-27c60407b034",
+      "title": "Game Developer, Volume 13, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2006",
+        "start": "2006-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/000543fb-5301-44d1-a7aa-27c60407b034",
+      "number": null
+    },
+    {
+      "id": "c8ea6d78-6579-4971-a9a7-4a8469f84297",
+      "title": "Game Developer, Volume 13, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2006",
+        "start": "2006-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c8ea6d78-6579-4971-a9a7-4a8469f84297",
+      "number": null
+    },
+    {
+      "id": "ab2e5979-b594-4ecc-9e5e-03ec5a80cc7e",
+      "title": "Game Developer, Volume 13, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2006",
+        "start": "2006-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab2e5979-b594-4ecc-9e5e-03ec5a80cc7e",
+      "number": null
+    },
+    {
+      "id": "67eadc4f-c216-4703-9aec-9a68427c67c7",
+      "title": "Game Developer, Volume 13, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2006",
+        "start": "2006-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/67eadc4f-c216-4703-9aec-9a68427c67c7",
+      "number": null
+    },
+    {
+      "id": "0e6f314e-3452-4630-86d0-4ed7e912a857",
+      "title": "Game Developer, Volume 13, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2006",
+        "start": "2006-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0e6f314e-3452-4630-86d0-4ed7e912a857",
+      "number": null
+    },
+    {
+      "id": "a1d7e8a8-0a46-4bc6-a536-de2e07980db5",
+      "title": "Game Developer, Volume 13, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2006",
+        "start": "2006-06",
+        "end": "2006-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a1d7e8a8-0a46-4bc6-a536-de2e07980db5",
+      "number": null
+    },
+    {
+      "id": "8be0fd3c-0077-44ba-8743-f09bc0e85d86",
+      "title": "Game Developer, Volume 13, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2006",
+        "start": "2006-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8be0fd3c-0077-44ba-8743-f09bc0e85d86",
+      "number": null
+    },
+    {
+      "id": "0aab6829-2285-42cf-9f37-a9029913c553",
+      "title": "Game Developer, 2006 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2006",
+        "start": "2006-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/0aab6829-2285-42cf-9f37-a9029913c553",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "95e71457-7741-4a09-92a1-3d6ef2278d19",
+      "title": "Game Developer, Volume 13, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2006",
+        "start": "2006-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95e71457-7741-4a09-92a1-3d6ef2278d19",
+      "number": null
+    },
+    {
+      "id": "f0403f29-418b-483f-a7b8-c096071a0149",
+      "title": "Game Developer, Volume 13, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2006",
+        "start": "2006-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f0403f29-418b-483f-a7b8-c096071a0149",
+      "number": null
+    },
+    {
+      "id": "323e9458-4bbc-4c5c-95fe-a72c8f67da17",
+      "title": "Game Developer, Volume 13, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2006",
+        "start": "2006-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/323e9458-4bbc-4c5c-95fe-a72c8f67da17",
+      "number": null
+    },
+    {
+      "id": "b8ca4640-fd4d-4759-b7ae-c5d3a659d899",
+      "title": "Game Developer, Volume 13, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2006",
+        "start": "2006-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b8ca4640-fd4d-4759-b7ae-c5d3a659d899",
+      "number": null
+    },
+    {
+      "id": "0e484dfa-7cc5-4f84-99a2-2ca3c6952c14",
+      "title": "Game Developer, Volume 14, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2007",
+        "start": "2007-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0e484dfa-7cc5-4f84-99a2-2ca3c6952c14",
+      "number": null
+    },
+    {
+      "id": "3182b33c-cbe4-4173-b9f6-8c0e44e4edd6",
+      "title": "Game Developer, Volume 14, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2007",
+        "start": "2007-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3182b33c-cbe4-4173-b9f6-8c0e44e4edd6",
+      "number": null
+    },
+    {
+      "id": "6495a5ff-4fd0-4935-b603-b7e9e99091d7",
+      "title": "Game Developer, Volume 14, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2007",
+        "start": "2007-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6495a5ff-4fd0-4935-b603-b7e9e99091d7",
+      "number": null
+    },
+    {
+      "id": "26e51d5e-c72b-4563-9af0-5337ddceb256",
+      "title": "Game Developer, Volume 14, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2007",
+        "start": "2007-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/26e51d5e-c72b-4563-9af0-5337ddceb256",
+      "number": null
+    },
+    {
+      "id": "6c5eb7c1-3ae7-4ac7-9f8a-a536b8966058",
+      "title": "Game Developer, Volume 14, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2007",
+        "start": "2007-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c5eb7c1-3ae7-4ac7-9f8a-a536b8966058",
+      "number": null
+    },
+    {
+      "id": "2d4ee457-de7a-4355-bd93-66c266771206",
+      "title": "Game Developer, Volume 14, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2007",
+        "start": "2007-06",
+        "end": "2007-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d4ee457-de7a-4355-bd93-66c266771206",
+      "number": null
+    },
+    {
+      "id": "c37963dd-20d0-47a1-a6c6-d37814ad0a96",
+      "title": "Game Developer, Volume 14, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2007",
+        "start": "2007-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c37963dd-20d0-47a1-a6c6-d37814ad0a96",
+      "number": null
+    },
+    {
+      "id": "ffb91315-6515-46e1-9395-3b4ee6d6c652",
+      "title": "Game Developer, 2007 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2007",
+        "start": "2007-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/ffb91315-6515-46e1-9395-3b4ee6d6c652",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "932d87cb-b565-4813-bd04-bd7ae2977b2b",
+      "title": "Game Developer, Volume 14, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2007",
+        "start": "2007-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/932d87cb-b565-4813-bd04-bd7ae2977b2b",
+      "number": null
+    },
+    {
+      "id": "a52873b6-2e79-4987-807c-4ab2ff75422a",
+      "title": "Game Developer, Volume 14, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2007",
+        "start": "2007-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a52873b6-2e79-4987-807c-4ab2ff75422a",
+      "number": null
+    },
+    {
+      "id": "4490efcf-6f53-487a-87a2-8cba23fe38d4",
+      "title": "Game Developer, Volume 14, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2007",
+        "start": "2007-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4490efcf-6f53-487a-87a2-8cba23fe38d4",
+      "number": null
+    },
+    {
+      "id": "0f911b07-3354-4905-aa32-705b7ce03c27",
+      "title": "Game Developer, Volume 14, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2007",
+        "start": "2007-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0f911b07-3354-4905-aa32-705b7ce03c27",
+      "number": null
+    },
+    {
+      "id": "c44ddbd6-d7cf-4b05-8d68-7d16856105b9",
+      "title": "Game Developer, Volume 15, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2008",
+        "start": "2008-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c44ddbd6-d7cf-4b05-8d68-7d16856105b9",
+      "number": null
+    },
+    {
+      "id": "4fcde7b9-6a88-42cd-b5ee-96e521c96601",
+      "title": "Game Developer, Volume 15, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2008",
+        "start": "2008-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4fcde7b9-6a88-42cd-b5ee-96e521c96601",
+      "number": null
+    },
+    {
+      "id": "bb77bf06-dc75-41b8-a543-108d722ec108",
+      "title": "Game Developer, Volume 15, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2008",
+        "start": "2008-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bb77bf06-dc75-41b8-a543-108d722ec108",
+      "number": null
+    },
+    {
+      "id": "bc1cf67b-d52f-4d3b-bd76-5d454ea2e3af",
+      "title": "Game Developer, Volume 15, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2008",
+        "start": "2008-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bc1cf67b-d52f-4d3b-bd76-5d454ea2e3af",
+      "number": null
+    },
+    {
+      "id": "8b84146d-45e1-44cc-93c0-f9ffacaaff24",
+      "title": "Game Developer, Volume 15, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2008",
+        "start": "2008-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8b84146d-45e1-44cc-93c0-f9ffacaaff24",
+      "number": null
+    },
+    {
+      "id": "1f6a87c2-3218-4a2e-bbfa-e92acd5ba8e6",
+      "title": "Game Developer, Volume 15, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2008",
+        "start": "2008-06",
+        "end": "2008-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1f6a87c2-3218-4a2e-bbfa-e92acd5ba8e6",
+      "number": null
+    },
+    {
+      "id": "13848027-c17a-4e84-8f70-404d85aa96b9",
+      "title": "Game Developer, Volume 15, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2008",
+        "start": "2008-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/13848027-c17a-4e84-8f70-404d85aa96b9",
+      "number": null
+    },
+    {
+      "id": "3eb7e51e-4afb-4114-83cf-f9c88ec6e15c",
+      "title": "Game Developer, 2008 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2008",
+        "start": "2008-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/3eb7e51e-4afb-4114-83cf-f9c88ec6e15c",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "9d564f90-f86a-48db-ad28-94b5ba8bf24f",
+      "title": "Game Developer, Volume 15, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2008",
+        "start": "2008-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d564f90-f86a-48db-ad28-94b5ba8bf24f",
+      "number": null
+    },
+    {
+      "id": "45b03d58-fb65-4b8c-92fa-901730bad110",
+      "title": "Game Developer, Volume 15, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2008",
+        "start": "2008-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45b03d58-fb65-4b8c-92fa-901730bad110",
+      "number": null
+    },
+    {
+      "id": "2e0d4f70-293d-4bce-a62d-62c8dd3eb597",
+      "title": "Game Developer, Volume 15, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2008",
+        "start": "2008-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2e0d4f70-293d-4bce-a62d-62c8dd3eb597",
+      "number": null
+    },
+    {
+      "id": "c05ae0f5-c39b-4b03-bd20-c4e79780c5be",
+      "title": "Game Developer, Volume 15, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2008",
+        "start": "2008-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c05ae0f5-c39b-4b03-bd20-c4e79780c5be",
+      "number": null
+    },
+    {
+      "id": "66f3de7a-7006-4738-87fc-b0a8173a5bee",
+      "title": "Game Developer, Volume 16, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2009",
+        "start": "2009-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/66f3de7a-7006-4738-87fc-b0a8173a5bee",
+      "number": null
+    },
+    {
+      "id": "05c3bdb1-adce-4196-b8ff-b6414288d5d9",
+      "title": "Game Developer, Volume 16, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2009",
+        "start": "2009-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/05c3bdb1-adce-4196-b8ff-b6414288d5d9",
+      "number": null
+    },
+    {
+      "id": "67dcb767-f212-4064-9729-05510b9d0513",
+      "title": "Game Developer, Volume 16, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2009",
+        "start": "2009-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/67dcb767-f212-4064-9729-05510b9d0513",
+      "number": null
+    },
+    {
+      "id": "1ccd375a-c4c1-4e0f-b980-19d83f04d021",
+      "title": "Game Developer, Volume 16, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2009",
+        "start": "2009-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1ccd375a-c4c1-4e0f-b980-19d83f04d021",
+      "number": null
+    },
+    {
+      "id": "09aa3ca8-e4d1-4375-b830-133b9b5f91d7",
+      "title": "Game Developer, Volume 16, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2009",
+        "start": "2009-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/09aa3ca8-e4d1-4375-b830-133b9b5f91d7",
+      "number": null
+    },
+    {
+      "id": "2742dbb7-24f7-47cd-838e-9841bd7478d7",
+      "title": "Game Developer, Volume 16, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2009",
+        "start": "2009-06",
+        "end": "2009-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2742dbb7-24f7-47cd-838e-9841bd7478d7",
+      "number": null
+    },
+    {
+      "id": "9b6c062f-631e-4b07-a9e9-5addd1375e74",
+      "title": "Game Developer, Volume 16, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2009",
+        "start": "2009-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9b6c062f-631e-4b07-a9e9-5addd1375e74",
+      "number": null
+    },
+    {
+      "id": "28df342f-b42a-428f-9075-759010f3825e",
+      "title": "Game Developer, Volume 16, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2009",
+        "start": "2009-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/28df342f-b42a-428f-9075-759010f3825e",
+      "number": null
+    },
+    {
+      "id": "04b7be34-b6f0-43c2-850f-0b6d4dbda9a4",
+      "title": "Game Developer, Volume 16, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2009",
+        "start": "2009-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/04b7be34-b6f0-43c2-850f-0b6d4dbda9a4",
+      "number": null
+    },
+    {
+      "id": "31b25fb3-0602-45f6-aae7-45aa2eb93424",
+      "title": "Game Developer, Volume 16, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2009",
+        "start": "2009-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/31b25fb3-0602-45f6-aae7-45aa2eb93424",
+      "number": null
+    },
+    {
+      "id": "617c3569-fc0c-4845-8327-b94382a3dce7",
+      "title": "Game Developer, Volume 16, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2009",
+        "start": "2009-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/617c3569-fc0c-4845-8327-b94382a3dce7",
+      "number": null
+    },
+    {
+      "id": "b748ca4f-cdc9-4b66-bb90-888e970b8c56",
+      "title": "Game Developer, Volume 17, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2010",
+        "start": "2010-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b748ca4f-cdc9-4b66-bb90-888e970b8c56",
+      "number": null
+    },
+    {
+      "id": "5f2f8242-6d16-4570-afef-0bac77e921fa",
+      "title": "Game Developer, Volume 17, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2010",
+        "start": "2010-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f2f8242-6d16-4570-afef-0bac77e921fa",
+      "number": null
+    },
+    {
+      "id": "0ae4dfc2-66f7-4caf-8a19-562fd67eef8f",
+      "title": "Game Developer, Volume 17, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2010",
+        "start": "2010-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ae4dfc2-66f7-4caf-8a19-562fd67eef8f",
+      "number": null
+    },
+    {
+      "id": "93c1c9ea-6d8c-4cb7-94ef-8731c06eb2b0",
+      "title": "Game Developer, Volume 17, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2010",
+        "start": "2010-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93c1c9ea-6d8c-4cb7-94ef-8731c06eb2b0",
+      "number": null
+    },
+    {
+      "id": "4428b532-7dd9-43ab-836f-78fac3094853",
+      "title": "Game Developer, Volume 17, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2010",
+        "start": "2010-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4428b532-7dd9-43ab-836f-78fac3094853",
+      "number": null
+    },
+    {
+      "id": "2a4d2780-7c26-442f-9524-832e6a665a46",
+      "title": "Game Developer, Volume 17, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2010",
+        "start": "2010-06",
+        "end": "2010-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2a4d2780-7c26-442f-9524-832e6a665a46",
+      "number": null
+    },
+    {
+      "id": "4d763808-b83a-4f25-a68b-d7528981c2cf",
+      "title": "Game Developer, Volume 17, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2010",
+        "start": "2010-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4d763808-b83a-4f25-a68b-d7528981c2cf",
+      "number": null
+    },
+    {
+      "id": "63880860-c184-4dd7-8da0-7159574c2dcd",
+      "title": "Game Developer, 2010 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2010",
+        "start": "2010-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/63880860-c184-4dd7-8da0-7159574c2dcd",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "1f04d174-c243-48db-8b95-f3fcbb7304cd",
+      "title": "Game Developer, Volume 17, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2010",
+        "start": "2010-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1f04d174-c243-48db-8b95-f3fcbb7304cd",
+      "number": null
+    },
+    {
+      "id": "6678d317-0ca5-41e7-a3d2-fab2ffdee76e",
+      "title": "Game Developer, Volume 17, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2010",
+        "start": "2010-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6678d317-0ca5-41e7-a3d2-fab2ffdee76e",
+      "number": null
+    },
+    {
+      "id": "5804ccb1-8366-4843-8611-70423d0e215a",
+      "title": "Game Developer, Volume 17, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2010",
+        "start": "2010-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5804ccb1-8366-4843-8611-70423d0e215a",
+      "number": null
+    },
+    {
+      "id": "35a1bc25-ebb7-4396-b828-6c4aed4d1641",
+      "title": "Game Developer, Volume 17, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2010",
+        "start": "2010-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/35a1bc25-ebb7-4396-b828-6c4aed4d1641",
+      "number": null
+    },
+    {
+      "id": "114197ff-6b2a-488c-847f-cb5f63a7b4d7",
+      "title": "Game Developer, Volume 18, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2011",
+        "start": "2011-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/114197ff-6b2a-488c-847f-cb5f63a7b4d7",
+      "number": null
+    },
+    {
+      "id": "dffa7bc5-484a-4616-a814-973161295d61",
+      "title": "Game Developer, Volume 18, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2011",
+        "start": "2011-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dffa7bc5-484a-4616-a814-973161295d61",
+      "number": null
+    },
+    {
+      "id": "00185fa3-5c10-44c6-9663-ef373362a458",
+      "title": "Game Developer, Volume 18, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2011",
+        "start": "2011-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/00185fa3-5c10-44c6-9663-ef373362a458",
+      "number": null
+    },
+    {
+      "id": "38f42de3-e41f-4b27-b769-14300d9e3a6d",
+      "title": "Game Developer, Volume 18, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2011",
+        "start": "2011-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38f42de3-e41f-4b27-b769-14300d9e3a6d",
+      "number": null
+    },
+    {
+      "id": "03439b27-e3ca-4263-94e7-e458fbd1199c",
+      "title": "Game Developer, Volume 18, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2011",
+        "start": "2011-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/03439b27-e3ca-4263-94e7-e458fbd1199c",
+      "number": null
+    },
+    {
+      "id": "29835be3-94da-4640-ae62-c7135092e57a",
+      "title": "Game Developer, Volume 18, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2011",
+        "start": "2011-06",
+        "end": "2011-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29835be3-94da-4640-ae62-c7135092e57a",
+      "number": null
+    },
+    {
+      "id": "bd384575-48f9-406c-992d-b4cca4e34348",
+      "title": "Game Developer, Volume 18, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2011",
+        "start": "2011-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bd384575-48f9-406c-992d-b4cca4e34348",
+      "number": null
+    },
+    {
+      "id": "72890294-724b-4fd7-911e-49ec5b57ec04",
+      "title": "Game Developer, 2011 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2011",
+        "start": "2011-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/72890294-724b-4fd7-911e-49ec5b57ec04",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "0ee73f29-7875-4614-8d2e-8a88d0d82d11",
+      "title": "Game Developer, Volume 18, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2011",
+        "start": "2011-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ee73f29-7875-4614-8d2e-8a88d0d82d11",
+      "number": null
+    },
+    {
+      "id": "028225c4-4835-4cd5-a8fc-4259d4498072",
+      "title": "Game Developer, Volume 18, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2011",
+        "start": "2011-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/028225c4-4835-4cd5-a8fc-4259d4498072",
+      "number": null
+    },
+    {
+      "id": "47ea5ec6-42f0-434e-b08d-9a1a4b371f84",
+      "title": "Game Developer, Volume 18, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2011",
+        "start": "2011-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/47ea5ec6-42f0-434e-b08d-9a1a4b371f84",
+      "number": null
+    },
+    {
+      "id": "41872a31-9c9d-406a-af06-c91f463443d3",
+      "title": "Game Developer, Volume 18, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2011",
+        "start": "2011-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/41872a31-9c9d-406a-af06-c91f463443d3",
+      "number": null
+    },
+    {
+      "id": "115731e6-2d78-4bb6-b76f-fd768f0d9701",
+      "title": "Game Developer, Volume 19, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2012",
+        "start": "2012-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/115731e6-2d78-4bb6-b76f-fd768f0d9701",
+      "number": null
+    },
+    {
+      "id": "e78123f2-5f9a-446a-8c51-35e194e5f0b6",
+      "title": "Game Developer, Volume 19, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2012",
+        "start": "2012-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e78123f2-5f9a-446a-8c51-35e194e5f0b6",
+      "number": null
+    },
+    {
+      "id": "290f41d3-bafa-4094-9e59-2cb6ee389288",
+      "title": "Game Developer, Volume 19, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2012",
+        "start": "2012-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/290f41d3-bafa-4094-9e59-2cb6ee389288",
+      "number": null
+    },
+    {
+      "id": "e5cb1aab-307e-4499-aa13-1cf27e7e0032",
+      "title": "Game Developer, Volume 19, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2012",
+        "start": "2012-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e5cb1aab-307e-4499-aa13-1cf27e7e0032",
+      "number": null
+    },
+    {
+      "id": "605c1521-f1aa-409b-bda9-b73da8a37bfb",
+      "title": "Game Developer, Volume 19, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2012",
+        "start": "2012-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/605c1521-f1aa-409b-bda9-b73da8a37bfb",
+      "number": null
+    },
+    {
+      "id": "8deb8789-0e57-45ca-95b9-46752a170d89",
+      "title": "Game Developer, Volume 19, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2012",
+        "start": "2012-06",
+        "end": "2012-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8deb8789-0e57-45ca-95b9-46752a170d89",
+      "number": null
+    },
+    {
+      "id": "01e8c073-0512-47e3-a8f6-fbfb2dda194f",
+      "title": "Game Developer, Volume 19, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2012",
+        "start": "2012-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/01e8c073-0512-47e3-a8f6-fbfb2dda194f",
+      "number": null
+    },
+    {
+      "id": "c98dda74-680a-4d79-a7bc-5c7bc7d63148",
+      "title": "Game Developer, 2012 Game Career Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2012",
+        "start": "2012-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/c98dda74-680a-4d79-a7bc-5c7bc7d63148",
+      "number": null,
+      "parent_id": "18d4bb96-39ee-44df-a291-b5735af7c44e"
+    },
+    {
+      "id": "be3254e7-80b4-476c-880a-b396156ba485",
+      "title": "Game Developer, Volume 19, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2012",
+        "start": "2012-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/be3254e7-80b4-476c-880a-b396156ba485",
+      "number": null
+    },
+    {
+      "id": "02414a41-cc04-4eb9-a645-4d7f57f8ace8",
+      "title": "Game Developer, Volume 19, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2012",
+        "start": "2012-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/02414a41-cc04-4eb9-a645-4d7f57f8ace8",
+      "number": null
+    },
+    {
+      "id": "48ad51de-1bf4-498b-83bd-02d9f30e8d5c",
+      "title": "Game Developer, Volume 19, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2012",
+        "start": "2012-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/48ad51de-1bf4-498b-83bd-02d9f30e8d5c",
+      "number": null
+    },
+    {
+      "id": "e6213a09-4f5e-4847-9c3e-da4df5afc392",
+      "title": "Game Developer, Volume 19, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2012",
+        "start": "2012-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e6213a09-4f5e-4847-9c3e-da4df5afc392",
+      "number": null
+    },
+    {
+      "id": "8ef7c317-68bf-4e1b-9ef9-51b8e6273718",
+      "title": "Game Developer, Volume 20, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2013",
+        "start": "2013-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ef7c317-68bf-4e1b-9ef9-51b8e6273718",
+      "number": null
+    },
+    {
+      "id": "0ebb7033-7228-40fc-bd0d-8246484efb51",
+      "title": "Game Developer, Volume 20, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2013",
+        "start": "2013-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ebb7033-7228-40fc-bd0d-8246484efb51",
+      "number": null
+    },
+    {
+      "id": "465251c8-89cf-4db7-b0f5-fd8228aaadea",
+      "title": "Game Developer, Volume 20, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2013",
+        "start": "2013-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/465251c8-89cf-4db7-b0f5-fd8228aaadea",
+      "number": null
+    },
+    {
+      "id": "f1fa5b12-5a6f-4b4f-b3c8-4fd4554d8c77",
+      "title": "Game Developer, Volume 20, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2013",
+        "start": "2013-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1fa5b12-5a6f-4b4f-b3c8-4fd4554d8c77",
+      "number": null
+    },
+    {
+      "id": "c0cdb9f1-23e5-4ddf-983a-a24ef80ad1a7",
+      "title": "Game Developer, Volume 20, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2013",
+        "start": "2013-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0cdb9f1-23e5-4ddf-983a-a24ef80ad1a7",
+      "number": null
+    },
+    {
+      "id": "d98f6c76-ecf9-47b4-a428-ab15f196bb09",
+      "title": "Game Developer, Volume 20, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2013",
+        "start": "2013-06",
+        "end": "2013-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d98f6c76-ecf9-47b4-a428-ab15f196bb09",
+      "number": null
+    },
+    {
+      "id": "18d4bb96-39ee-44df-a291-b5735af7c44e",
+      "title": "Game Career Guides",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "Fall 2003 – Fall 2013"
+      },
+      "url": "https://archive.gamehistory.org/folder/18d4bb96-39ee-44df-a291-b5735af7c44e",
+      "number": null
+    },
+    {
+      "id": "45b29d79-3bf8-49a8-b02d-418955990702",
+      "title": "Game Developer supplements",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/45b29d79-3bf8-49a8-b02d-418955990702",
+      "number": null
+    },
+    {
+      "id": "3ec45e29-80c9-4af3-b2a2-8ef1ec081d0d",
+      "title": "Game Developer, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995/January 1996"
+      },
+      "url": "https://archive.gamehistory.org/item/3ec45e29-80c9-4af3-b2a2-8ef1ec081d0d",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 1": "13ef464c-bf15-43c3-a548-258313315fb6",
+    "Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 2": "685a7ab3-41ce-430b-a98a-fd0917d2f662",
+    "Game Developer Mobile, Sponsored by Nokia, Volume 1, Issue 3": "cd768e55-3771-4310-82ed-b64cc7dc1705",
+    "Game Developer, Volume 1, Number 1": "0e78301b-8bef-40e8-8b69-6f270abc8796",
+    "Game Developer, Volume 1, Number 2": "60eb40ac-9d4a-4e69-a688-594a9d1522f5",
+    "Game Developer, Volume 1, Number 3": "3679baa7-e3f8-410b-814d-831cb0adf26d",
+    "Game Developer, Volume 1, Number 4": "a10c0b48-d033-4633-8b7a-52f8c29677e8",
+    "Game Developer, Volume 2, Number 1": "39b9b86f-d3d1-496f-bd91-5368997b0e42",
+    "Game Developer, Volume 2, Number 2": "377ad675-3101-4848-86c0-0fda52d09853",
+    "Game Developer, Volume 2, Number 3": "7f0983d8-e6c5-438b-85c3-a77e12d7b8bc",
+    "Game Developer, Volume 2, Number 4": "4932396b-6547-4070-867e-237f389192a1",
+    "Game Developer, Volume 2, Number 5": "d76cd338-66e5-4815-aeb6-c559959139b3",
+    "Game Developer, Volume 3, Number 1": "153f12df-8441-48d2-acb5-c40fa792ce11",
+    "Game Developer, Volume 3, Number 2": "1284a9f3-5c06-413b-b733-71c702b2ce7b",
+    "Game Developer, Volume 3, Number 3": "310a8544-35fe-44ba-aeb1-ba979bf0e8e9",
+    "Game Developer, Volume 3, Number 4": "329cc2e0-1153-4faf-ba59-8dd1b94192f0",
+    "Game Developer, Volume 3, Number 5": "b158cda2-1217-4262-bba4-c3782735d1ac",
+    "Game Developer, Volume 4, Number 1": "77e5bb12-0524-4caf-ae7e-35bd724b65a0",
+    "Game Developer, Volume 4, Number 2": "6fbe8535-ecb3-4f80-aae3-e3960ac08fc2",
+    "Game Developer, Volume 4, Number 3": "f0370b0e-5c16-4c26-ab51-0d4b848d7c24",
+    "Game Developer, Volume 4, Number 4": "23718300-213b-4766-aa22-9c32dc57a3c9",
+    "Game Developer, Volume 4, Number 5": "79e0012e-638d-4a89-883d-8742e7cb0f43",
+    "Game Developer, Volume 4, Number 6": "9d13846f-d71b-42e3-94fd-19612f93f6be",
+    "Game Developer, Volume 4, Number 7": "a7e258cb-fbbd-4117-b19b-c009f799a889",
+    "Game Developer, Volume 4, Number 8": "fa1fb593-29fd-4101-8ff5-78e9a7d6f2ad",
+    "Game Developer, Volume 3, Number 6": "362f5b87-2b6f-4845-8687-22da87d77ad8",
+    "Game Developer, Volume 4, Number 9": "38bc4a3c-637c-46b0-8391-06c3fdd88f66",
+    "Game Developer, Volume 5, Number 1": "5768751e-046d-4710-83a2-8a24476a7b90",
+    "Game Developer, Volume 5, Number 2": "f873a7cc-fccb-4964-8109-0fc737ee516a",
+    "Developing Games for the Public PC": "e5c45f99-12bf-488b-b2dc-e820e4d08e05",
+    "Game Developer, Volume 5, Number 3": "3c5311a8-dc59-4680-9967-e56c36170462",
+    "Game Developer, Volume 5, Number 4": "815047f2-eed8-4cc7-b979-18824070b09b",
+    "Game Developer, Volume 5, Number 5": "c9fa7b83-d15b-4182-b59c-eaaab449fa84",
+    "Game Developer, Volume 5, Number 6": "3fefafa5-5547-4646-a255-589f4117168b",
+    "Game Developer, Volume 5, Number 7": "eb23e3dc-0bf1-4398-8f9b-c73b59767cf9",
+    "Game Developer, Volume 5, Number 8": "884751df-adea-4af0-9c2b-1bb0f559a035",
+    "Game Developer, Volume 5, Number 9": "ac9eeb53-da8e-4c15-bb60-eb657c33ef6d",
+    "Game Developer, Volume 5, Number 10": "7dd392ab-7b65-4527-bc5c-522293bcaa3b",
+    "Game Developer, Volume 5, Number 11": "59b52028-18a9-4477-803b-88d4e475762e",
+    "Game Developer, Volume 5, Number 12, The 1999 Buyer's Guide": "7baf4bf6-9cb6-4fd4-92c4-7b8eb01fb722",
+    "Game Developer, Volume 5, Number 13": "d167e0a1-f5dc-4707-954d-0603645d70f8",
+    "Game Developer, Volume 6, Number 1": "0de577bf-d886-4192-8b2f-800e65853d2d",
+    "Game Developer, Volume 6, Number 2": "a0c236e5-c54e-4be6-a380-77e8f21d071c",
+    "Game Developer, Volume 6, Number 3": "f8e55b11-f19f-4ebe-9739-87d4ffe30af7",
+    "Game Developer, Volume 6, Number 4": "f733589d-5ac2-41f3-9461-caa2ea4076f7",
+    "Game Developer, Volume 6, Number 5": "44fbf318-2806-4ac8-a4d4-270e97859156",
+    "Game Developer, Volume 6, Number 6": "dc01b82e-920e-4ab7-8067-4e34a06c9b5d",
+    "Game Developer, Volume 6, Number 7": "8f1230f8-b841-42f7-8f56-19acd06afc19",
+    "Game Developer, Volume 6, Number 8": "e7423a47-cbe7-4cfe-8d8c-b702ca6d62c1",
+    "Game Developer, Volume 6, Number 9": "6870eac8-668a-4672-93fa-ada8f7f10514",
+    "Game Developer, Volume 6, Number 10": "ae0d3fe7-d3ec-4498-bb5c-e2535554567c",
+    "Game Audio Technology 2000 supplement": "129c5d96-cceb-4ce9-8152-92a72435fc68",
+    "Game Developer, Volume 6, Number 11": "a02dd855-601d-43e7-b1dc-1c0996f8dc6c",
+    "Game Developer, Volume 6, Number 12": "865a1a42-2a10-42d7-800b-a6779a9d1d95",
+    "Game Developer, Volume 7, Number 1": "030e4f14-3b83-468d-b7b9-434ff5c00152",
+    "Game Developers Conference 2000 Conference Brochure": "fc4edf53-b166-4780-b9ed-3bb1be78306c",
+    "Game Developer, Volume 7, Number 2": "6aae487e-8658-4afd-b8cf-affa716f6b7c",
+    "Game Developer, Volume 7, Number 3": "935de262-f07c-4f4e-8010-b72d206a5680",
+    "Game Developer, Volume 7, Number 4": "6e229203-96a7-4f55-a211-914ed28b8ca4",
+    "Game Developer, Volume 7, Number 5": "f9062daa-c339-4c94-80fa-02134d411e72",
+    "Game Developer, Volume 7, Number 6": "77cbd690-cc0c-4a90-a62b-d241bb512301",
+    "Game Developer, Volume 7, Number 7": "c47b084d-c5f6-4120-b25b-938174ba95d4",
+    "Game Developer, Volume 7, Number 8": "b0aa9b0a-22fb-4a27-bdb0-ea14081f5999",
+    "Game Developer, Volume 7, Number 9": "f3c797e7-76b2-462b-821e-952d40e9b024",
+    "Game Developer, Volume 7, Number 10": "fdad175a-10e9-4397-b74b-bcc3bc45f98c",
+    "Game Developer, Volume 7, Number 11": "830b87d5-d00d-4ffd-a5b1-d2cf5cb15953",
+    "Game Developer, Volume 7, Number 12": "203d93f8-546c-4d2d-ab4e-09213755055e",
+    "Game Developer, Volume 8, Number 1": "d5806c83-5fd6-4072-8b21-bcde464bc0da",
+    "Game Developer, Volume 8, Number 2": "0873b685-b1b7-4031-9025-92a3cdd771b5",
+    "Game Developers Conference 2001 guide": "77bbba97-b306-4e70-8c11-c819bffce1d1",
+    "Game Developer, Volume 8, Number 3": "5214b4f1-9b51-4022-b9ce-1a1edd74787e",
+    "Game Developer, Volume 8, Number 4": "dbbf249c-cc1b-4584-a62f-5b14a4198c3a",
+    "Game Developer, Volume 8, Number 5": "6f889c13-6028-4466-bccc-8c7f18b487e2",
+    "Game Developer, Volume 8, Number 6": "d4061881-f166-44f5-90cd-ab2ad5d6f159",
+    "Game Developer, Volume 8, Number 7": "d9e5e21f-3a63-4ebd-810a-24bed2502aea",
+    "Game Developer, Volume 8, Number 8": "c23fe4b3-de34-4eb9-aa5f-e7ca69ce5162",
+    "Game Developer, Volume 8, Number 9": "9bd9fb6a-9aaf-4ee4-8b6b-c3660d1452bb",
+    "Game Developer, Volume 8, Number 10": "7e379a31-8863-43e4-9333-da6dfc67e64b",
+    "Game Developer, Volume 8, Number 11": "1d11b97a-9e5d-4418-b7e8-f635a78004ed",
+    "Game Developer, Volume 8, Number 12": "5c25d903-f245-42bb-a460-b30f38eefbba",
+    "Game Developer, Volume 9, Number 1": "ff023277-107e-450f-a64c-86ada9977559",
+    "Game Developer, Volume 9, Number 2": "2895e487-080b-489d-b1aa-6a0474c12a96",
+    "Game Developers Conference 2002 Conference Brochure": "84352d1d-14a4-45f6-b381-fe01eb93df9a",
+    "Game Developer, Volume 9, Number 3": "769a8bbe-32de-42d1-b3a1-f093099753f7",
+    "Game Developer, Volume 9, Number 4": "3c01d41c-d3d9-4ba6-8e34-2c7b9b4c4748",
+    "IGDA 2001 Annual Report": "04c312e5-764a-4105-9b04-eccef5387b82",
+    "Game Developer, Volume 9, Number 5": "5e8b6cac-45ca-40a7-9d87-323080c6d006",
+    "Game Developer, Volume 9, Number 6": "b04c5f25-4b2d-450c-8a18-5c61e22bfa51",
+    "Game Developer, Volume 9, Number 7": "4246e36a-06c8-4ebe-94ed-0c92b4737d98",
+    "Game Developer, Volume 9, Number 8": "be103b03-5690-4978-8e7a-1a80fa682d55",
+    "Game Developer, Volume 9, Number 9": "235fb872-f93b-435a-86e3-975111275b42",
+    "Game Developer, Volume 9, Number 10": "7068f473-8136-4428-a9c4-2a6320866ff3",
+    "Game Developer, Volume 9, Number 11": "18128776-f204-4679-a593-18ceb984092e",
+    "Game Developer, Volume 9, Number 12": "639ed313-0f3e-4cb0-be67-e12e38631d8c",
+    "Game Developer, Volume 10, Number 1": "6b9d4f18-cc31-498f-977d-54a5fc4ffd70",
+    "Game Developer, Volume 10, Number 2": "87e158ed-2ff0-42db-ab6f-a028c6b33457",
+    "Game Developer, Volume 10, Number 3": "876dee8f-da46-4c39-9165-209ba82702ad",
+    "Game Developer, Volume 10, Number 4": "5a0411e8-adbe-435d-862d-9162924e80ca",
+    "Game Developer, Volume 10, Number 5": "dcde1359-04c4-4c01-b708-659188e25af1",
+    "IGDA 2002 Annual Report": "03a51768-a0bc-4628-8232-906a6deff36d",
+    "Game Developer, Volume 10, Number 6": "bb891f6f-7741-4beb-956a-558a24a83a2c",
+    "Game Developer, Volume 10, Number 7": "2fb68618-40f8-41c0-8f65-0abb11c8e20b",
+    "Game Developer, Volume 10, Number 8": "6dfaf97b-8fd8-4dcd-a700-187b07f107b6",
+    "Game Developer, 2003 Game Career Guide": "bbfd97b3-d0fa-4c1c-b725-efe2dc63d17a",
+    "Game Developer, Volume 10, Number 9": "9b809132-9d3b-4e44-9125-95e9c0d52e0d",
+    "Game Developer, Volume 10, Number 10": "9cff49c9-f173-4213-a8e9-790576bfc9c7",
+    "Game Developer, Volume 10, Number 11": "e185bd25-0016-4a6c-9173-f84adeea9830",
+    "Game Developer, Volume 10, Number 12": "49f0dc06-fb40-401c-8481-83ce0b43789d",
+    "Game Developer, Volume 11, Number 1": "058040b7-27e5-4755-932d-8fdc3622f3b2",
+    "GDC 04 Program Guide": "2d5208f9-e695-4289-a51c-65f5ba3a64b2",
+    "Game Developer, Volume 11, Number 2": "1dee8943-6e66-48e2-8a8f-c55ad348a502",
+    "Game Developer, Volume 11, Number 3": "1723c8af-f9f8-45c1-b058-fbddae9f31ce",
+    "ATI Focus on Developers": "a0c6459b-dc13-44c0-9dbb-8cb92b102325",
+    "Game Developer, Volume 11, Number 4": "09208a13-36d8-4a86-b543-3a8bb832bf3a",
+    "Game Developer, Volume 11, Number 5": "d9b97339-af8f-47a5-990e-5efb9e15da3f",
+    "Game Developer, Volume 11, Number 6": "e574831a-dc90-41ec-9cea-c00a6c0cdd2d",
+    "Game Developer, Volume 11, Number 7": "253f9dd6-1460-4cf1-afd9-1a316acb6d68",
+    "Game Developer, 2004 Game Career Guide": "c96bc35a-04c1-43e0-81c1-f1d17642bce9",
+    "Game Developer, Volume 11, Number 8": "41e19a68-2fff-46f4-b7bd-451ad9e8972a",
+    "Game Developer, Volume 11, Number 9": "50c7af5c-23b8-441d-ab2a-ded7da2f047b",
+    "Game Developer, Volume 11, Number 10": "edd505b5-4a79-43bb-a2d1-5b5db2a7344c",
+    "Game Developer, Volume 11, Number 11": "24cf83f7-4b31-4e74-8add-2e10806f0cac",
+    "GDC 05 Conference Guide": "2d122883-71d8-429a-b97d-172ca257ff94",
+    "Game Developer, Volume 12, Number 1": "ef4358d1-579c-4691-bf4e-203da09a5635",
+    "Game Developer, Volume 12, Number 2": "f43873d0-260c-4968-a542-cc5f9e7c9a9c",
+    "Game Developer, Volume 12, Number 3": "c0d39943-fa0f-41d5-8180-ccd1a4561988",
+    "Game Developer, Volume 12, Number 4": "a7af112e-2e5e-4373-b140-f763a6d06a85",
+    "Game Developer, Volume 12, Number 5": "d78c8c3c-8b43-4d63-9cba-d568e71ba9c4",
+    "Game Developer, Volume 12, Number 6": "aadc1767-9f9a-41da-a25a-3900d6f1a47f",
+    "Game Developer, Volume 12, Number 7": "cf0a0a15-18a2-4524-a59e-25af9ff208b0",
+    "Game Developer, 2005 Game Career Guide": "797e1663-82f2-499b-9760-b7e4fd37ae5a",
+    "Game Developer, Volume 12, Number 8": "a2a07917-edf8-41cb-9c6b-e43c6296cc13",
+    "Game Developer, Volume 12, Number 9": "41741d72-618b-4b89-8244-609eda27c990",
+    "Game Developer, Volume 12, Number 10": "204df954-5c3f-4ccc-80bb-5e32b531265c",
+    "Game Developer, Volume 12, Number 11": "0178abba-bda4-45fc-ac92-e59fe58aa84e",
+    "GDC 06 Preview Guide": "bf42a9ea-b2b3-44a1-a4fb-1ac5bd5c0e12",
+    "Game Developer, Volume 13, Number 1": "000543fb-5301-44d1-a7aa-27c60407b034",
+    "Game Developer, Volume 13, Number 2": "c8ea6d78-6579-4971-a9a7-4a8469f84297",
+    "Game Developer, Volume 13, Number 3": "ab2e5979-b594-4ecc-9e5e-03ec5a80cc7e",
+    "Game Developer, Volume 13, Number 4": "67eadc4f-c216-4703-9aec-9a68427c67c7",
+    "Game Developer, Volume 13, Number 5": "0e6f314e-3452-4630-86d0-4ed7e912a857",
+    "Game Developer, Volume 13, Number 6": "a1d7e8a8-0a46-4bc6-a536-de2e07980db5",
+    "Game Developer, Volume 13, Number 7": "8be0fd3c-0077-44ba-8743-f09bc0e85d86",
+    "Game Developer, 2006 Game Career Guide": "0aab6829-2285-42cf-9f37-a9029913c553",
+    "Game Developer, Volume 13, Number 8": "95e71457-7741-4a09-92a1-3d6ef2278d19",
+    "Game Developer, Volume 13, Number 9": "f0403f29-418b-483f-a7b8-c096071a0149",
+    "Game Developer, Volume 13, Number 10": "323e9458-4bbc-4c5c-95fe-a72c8f67da17",
+    "Game Developer, Volume 13, Number 11": "b8ca4640-fd4d-4759-b7ae-c5d3a659d899",
+    "Game Developer, Volume 14, Number 1": "0e484dfa-7cc5-4f84-99a2-2ca3c6952c14",
+    "Game Developer, Volume 14, Number 2": "3182b33c-cbe4-4173-b9f6-8c0e44e4edd6",
+    "Game Developer, Volume 14, Number 3": "6495a5ff-4fd0-4935-b603-b7e9e99091d7",
+    "Game Developer, Volume 14, Number 4": "26e51d5e-c72b-4563-9af0-5337ddceb256",
+    "Game Developer, Volume 14, Number 5": "6c5eb7c1-3ae7-4ac7-9f8a-a536b8966058",
+    "Game Developer, Volume 14, Number 6": "2d4ee457-de7a-4355-bd93-66c266771206",
+    "Game Developer, Volume 14, Number 7": "c37963dd-20d0-47a1-a6c6-d37814ad0a96",
+    "Game Developer, 2007 Game Career Guide": "ffb91315-6515-46e1-9395-3b4ee6d6c652",
+    "Game Developer, Volume 14, Number 8": "932d87cb-b565-4813-bd04-bd7ae2977b2b",
+    "Game Developer, Volume 14, Number 9": "a52873b6-2e79-4987-807c-4ab2ff75422a",
+    "Game Developer, Volume 14, Number 10": "4490efcf-6f53-487a-87a2-8cba23fe38d4",
+    "Game Developer, Volume 14, Number 11": "0f911b07-3354-4905-aa32-705b7ce03c27",
+    "Game Developer, Volume 15, Number 1": "c44ddbd6-d7cf-4b05-8d68-7d16856105b9",
+    "Game Developer, Volume 15, Number 2": "4fcde7b9-6a88-42cd-b5ee-96e521c96601",
+    "Game Developer, Volume 15, Number 3": "bb77bf06-dc75-41b8-a543-108d722ec108",
+    "Game Developer, Volume 15, Number 4": "bc1cf67b-d52f-4d3b-bd76-5d454ea2e3af",
+    "Game Developer, Volume 15, Number 5": "8b84146d-45e1-44cc-93c0-f9ffacaaff24",
+    "Game Developer, Volume 15, Number 6": "1f6a87c2-3218-4a2e-bbfa-e92acd5ba8e6",
+    "Game Developer, Volume 15, Number 7": "13848027-c17a-4e84-8f70-404d85aa96b9",
+    "Game Developer, 2008 Game Career Guide": "3eb7e51e-4afb-4114-83cf-f9c88ec6e15c",
+    "Game Developer, Volume 15, Number 8": "9d564f90-f86a-48db-ad28-94b5ba8bf24f",
+    "Game Developer, Volume 15, Number 9": "45b03d58-fb65-4b8c-92fa-901730bad110",
+    "Game Developer, Volume 15, Number 10": "2e0d4f70-293d-4bce-a62d-62c8dd3eb597",
+    "Game Developer, Volume 15, Number 11": "c05ae0f5-c39b-4b03-bd20-c4e79780c5be",
+    "Game Developer, Volume 16, Number 1": "66f3de7a-7006-4738-87fc-b0a8173a5bee",
+    "Game Developer, Volume 16, Number 2": "05c3bdb1-adce-4196-b8ff-b6414288d5d9",
+    "Game Developer, Volume 16, Number 3": "67dcb767-f212-4064-9729-05510b9d0513",
+    "Game Developer, Volume 16, Number 4": "1ccd375a-c4c1-4e0f-b980-19d83f04d021",
+    "Game Developer, Volume 16, Number 5": "09aa3ca8-e4d1-4375-b830-133b9b5f91d7",
+    "Game Developer, Volume 16, Number 6": "2742dbb7-24f7-47cd-838e-9841bd7478d7",
+    "Game Developer, Volume 16, Number 7": "9b6c062f-631e-4b07-a9e9-5addd1375e74",
+    "Game Developer, Volume 16, Number 8": "28df342f-b42a-428f-9075-759010f3825e",
+    "Game Developer, Volume 16, Number 9": "04b7be34-b6f0-43c2-850f-0b6d4dbda9a4",
+    "Game Developer, Volume 16, Number 10": "31b25fb3-0602-45f6-aae7-45aa2eb93424",
+    "Game Developer, Volume 16, Number 11": "617c3569-fc0c-4845-8327-b94382a3dce7",
+    "Game Developer, Volume 17, Number 1": "b748ca4f-cdc9-4b66-bb90-888e970b8c56",
+    "Game Developer, Volume 17, Number 2": "5f2f8242-6d16-4570-afef-0bac77e921fa",
+    "Game Developer, Volume 17, Number 3": "0ae4dfc2-66f7-4caf-8a19-562fd67eef8f",
+    "Game Developer, Volume 17, Number 4": "93c1c9ea-6d8c-4cb7-94ef-8731c06eb2b0",
+    "Game Developer, Volume 17, Number 5": "4428b532-7dd9-43ab-836f-78fac3094853",
+    "Game Developer, Volume 17, Number 6": "2a4d2780-7c26-442f-9524-832e6a665a46",
+    "Game Developer, Volume 17, Number 7": "4d763808-b83a-4f25-a68b-d7528981c2cf",
+    "Game Developer, 2010 Game Career Guide": "63880860-c184-4dd7-8da0-7159574c2dcd",
+    "Game Developer, Volume 17, Number 8": "1f04d174-c243-48db-8b95-f3fcbb7304cd",
+    "Game Developer, Volume 17, Number 9": "6678d317-0ca5-41e7-a3d2-fab2ffdee76e",
+    "Game Developer, Volume 17, Number 10": "5804ccb1-8366-4843-8611-70423d0e215a",
+    "Game Developer, Volume 17, Number 11": "35a1bc25-ebb7-4396-b828-6c4aed4d1641",
+    "Game Developer, Volume 18, Number 1": "114197ff-6b2a-488c-847f-cb5f63a7b4d7",
+    "Game Developer, Volume 18, Number 2": "dffa7bc5-484a-4616-a814-973161295d61",
+    "Game Developer, Volume 18, Number 3": "00185fa3-5c10-44c6-9663-ef373362a458",
+    "Game Developer, Volume 18, Number 4": "38f42de3-e41f-4b27-b769-14300d9e3a6d",
+    "Game Developer, Volume 18, Number 5": "03439b27-e3ca-4263-94e7-e458fbd1199c",
+    "Game Developer, Volume 18, Number 6": "29835be3-94da-4640-ae62-c7135092e57a",
+    "Game Developer, Volume 18, Number 7": "bd384575-48f9-406c-992d-b4cca4e34348",
+    "Game Developer, 2011 Game Career Guide": "72890294-724b-4fd7-911e-49ec5b57ec04",
+    "Game Developer, Volume 18, Number 8": "0ee73f29-7875-4614-8d2e-8a88d0d82d11",
+    "Game Developer, Volume 18, Number 9": "028225c4-4835-4cd5-a8fc-4259d4498072",
+    "Game Developer, Volume 18, Number 10": "47ea5ec6-42f0-434e-b08d-9a1a4b371f84",
+    "Game Developer, Volume 18, Number 11": "41872a31-9c9d-406a-af06-c91f463443d3",
+    "Game Developer, Volume 19, Number 1": "115731e6-2d78-4bb6-b76f-fd768f0d9701",
+    "Game Developer, Volume 19, Number 2": "e78123f2-5f9a-446a-8c51-35e194e5f0b6",
+    "Game Developer, Volume 19, Number 3": "290f41d3-bafa-4094-9e59-2cb6ee389288",
+    "Game Developer, Volume 19, Number 4": "e5cb1aab-307e-4499-aa13-1cf27e7e0032",
+    "Game Developer, Volume 19, Number 5": "605c1521-f1aa-409b-bda9-b73da8a37bfb",
+    "Game Developer, Volume 19, Number 6": "8deb8789-0e57-45ca-95b9-46752a170d89",
+    "Game Developer, Volume 19, Number 8": "01e8c073-0512-47e3-a8f6-fbfb2dda194f",
+    "Game Developer, 2012 Game Career Guide": "c98dda74-680a-4d79-a7bc-5c7bc7d63148",
+    "Game Developer, Volume 19, Number 9": "be3254e7-80b4-476c-880a-b396156ba485",
+    "Game Developer, Volume 19, Number 10": "02414a41-cc04-4eb9-a645-4d7f57f8ace8",
+    "Game Developer, Volume 19, Number 11": "48ad51de-1bf4-498b-83bd-02d9f30e8d5c",
+    "Game Developer, Volume 19, Number 12": "e6213a09-4f5e-4847-9c3e-da4df5afc392",
+    "Game Developer, Volume 20, Number 1": "8ef7c317-68bf-4e1b-9ef9-51b8e6273718",
+    "Game Developer, Volume 20, Number 2": "0ebb7033-7228-40fc-bd0d-8246484efb51",
+    "Game Developer, Volume 20, Number 3": "465251c8-89cf-4db7-b0f5-fd8228aaadea",
+    "Game Developer, Volume 20, Number 4": "f1fa5b12-5a6f-4b4f-b3c8-4fd4554d8c77",
+    "Game Developer, Volume 20, Number 5": "c0cdb9f1-23e5-4ddf-983a-a24ef80ad1a7",
+    "Game Developer, Volume 20, Number 6": "d98f6c76-ecf9-47b4-a428-ab15f196bb09",
+    "Game Career Guides": "18d4bb96-39ee-44df-a291-b5735af7c44e",
+    "Game Developer supplements": "45b29d79-3bf8-49a8-b02d-418955990702",
+    "Game Developer, Volume 2, Number 6": "3ec45e29-80c9-4af3-b2a2-8ef1ec081d0d"
+  }
+}

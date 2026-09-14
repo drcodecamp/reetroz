@@ -31,7 +31,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/6187132e-315c-4be5-8498-8c55ac478ebe",
-      "date_range": "2008–2009"
+      "date_range": "Summer 2009 – undated, distributed December/January 2009",
+      "items": 3
     }
   ],
   "stats": {
@@ -40,5 +41,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

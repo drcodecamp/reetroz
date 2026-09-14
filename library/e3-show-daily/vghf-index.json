@@ -1,0 +1,448 @@
+{
+  "provider": "vghf",
+  "folder_id": "ae5ac294-dcfd-45b8-86de-465d80e8dd8d",
+  "url": "https://archive.gamehistory.org/folder/ae5ac294-dcfd-45b8-86de-465d80e8dd8d",
+  "retrieved_at": "2026-09-13T22:49:01+00:00",
+  "expected": 29,
+  "count": 29,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "ac3901f6-d3c6-47f5-8a0e-290c46fc0a86",
+      "title": "E3 Show Daily 1995, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 11, 1995"
+      },
+      "url": "https://archive.gamehistory.org/item/ac3901f6-d3c6-47f5-8a0e-290c46fc0a86",
+      "number": null
+    },
+    {
+      "id": "3b8c5688-41d4-4929-9d2c-19014d9317c7",
+      "title": "E3 Show Daily 1995, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 13, 1995"
+      },
+      "url": "https://archive.gamehistory.org/item/3b8c5688-41d4-4929-9d2c-19014d9317c7",
+      "number": null
+    },
+    {
+      "id": "ab61b93a-cdd9-4840-90fc-34178f30bc4e",
+      "title": "E3 Show Daily 1997, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 19, 1997"
+      },
+      "url": "https://archive.gamehistory.org/item/ab61b93a-cdd9-4840-90fc-34178f30bc4e",
+      "number": null
+    },
+    {
+      "id": "21e7d3fc-264a-4329-a050-4e44d31572ac",
+      "title": "E3 Show Daily 1997, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 20, 1997"
+      },
+      "url": "https://archive.gamehistory.org/item/21e7d3fc-264a-4329-a050-4e44d31572ac",
+      "number": null
+    },
+    {
+      "id": "a1f6c63e-068b-4a1e-9923-118d7ffe4927",
+      "title": "E3 Show Daily 1997, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 21, 1997"
+      },
+      "url": "https://archive.gamehistory.org/item/a1f6c63e-068b-4a1e-9923-118d7ffe4927",
+      "number": null
+    },
+    {
+      "id": "65ce6bc1-bcf6-4b58-bbdf-2f0b0f69db4d",
+      "title": "E3 Show Daily 1998, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 28, 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/65ce6bc1-bcf6-4b58-bbdf-2f0b0f69db4d",
+      "number": null
+    },
+    {
+      "id": "34930736-b110-48e2-b5c7-481171e57be0",
+      "title": "E3 Show Daily 1998, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 29, 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/34930736-b110-48e2-b5c7-481171e57be0",
+      "number": null
+    },
+    {
+      "id": "e21d2d78-4f5b-4c37-b836-3f40d7fdef64",
+      "title": "E3 Show Daily 1998, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 30, 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/e21d2d78-4f5b-4c37-b836-3f40d7fdef64",
+      "number": null
+    },
+    {
+      "id": "6b95929a-0dee-4635-92b6-1d8f0ebeed6a",
+      "title": "E3 Show Daily 2010, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 15, 2010"
+      },
+      "url": "https://archive.gamehistory.org/item/6b95929a-0dee-4635-92b6-1d8f0ebeed6a",
+      "number": null
+    },
+    {
+      "id": "ee9aec0d-f5ab-4245-8dc5-d1cbdedda4d6",
+      "title": "E3 Show Daily 2010, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 16, 2010"
+      },
+      "url": "https://archive.gamehistory.org/item/ee9aec0d-f5ab-4245-8dc5-d1cbdedda4d6",
+      "number": null
+    },
+    {
+      "id": "28e69b16-b4c7-4e15-a9ff-ca74803b39f0",
+      "title": "E3 Show Daily 2010, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 17, 2010"
+      },
+      "url": "https://archive.gamehistory.org/item/28e69b16-b4c7-4e15-a9ff-ca74803b39f0",
+      "number": null
+    },
+    {
+      "id": "4cacbe19-a8f0-435e-acc8-aba0dd9f39b8",
+      "title": "E3 Show Daily 2011, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 6, 2011"
+      },
+      "url": "https://archive.gamehistory.org/item/4cacbe19-a8f0-435e-acc8-aba0dd9f39b8",
+      "number": null
+    },
+    {
+      "id": "0ad1898d-5f0d-43e4-a297-548a9ed02a51",
+      "title": "E3 Show Daily 2011, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 7, 2011"
+      },
+      "url": "https://archive.gamehistory.org/item/0ad1898d-5f0d-43e4-a297-548a9ed02a51",
+      "number": null
+    },
+    {
+      "id": "7efabbca-600d-4b46-90f2-4b856ccf713c",
+      "title": "E3 Show Daily 2011, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 8, 2011"
+      },
+      "url": "https://archive.gamehistory.org/item/7efabbca-600d-4b46-90f2-4b856ccf713c",
+      "number": null
+    },
+    {
+      "id": "13826289-a6d6-4001-ac21-2071a855f49e",
+      "title": "E3 Show Daily 2012, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 5, 2012"
+      },
+      "url": "https://archive.gamehistory.org/item/13826289-a6d6-4001-ac21-2071a855f49e",
+      "number": null
+    },
+    {
+      "id": "67860757-1304-489e-a3bb-a40a2e9d9ed8",
+      "title": "E3 Show Daily 2012, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 6, 2012"
+      },
+      "url": "https://archive.gamehistory.org/item/67860757-1304-489e-a3bb-a40a2e9d9ed8",
+      "number": null
+    },
+    {
+      "id": "1a774e85-51ee-4498-9c8a-7ca4431d8168",
+      "title": "E3 Show Daily 2012, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 7, 2012"
+      },
+      "url": "https://archive.gamehistory.org/item/1a774e85-51ee-4498-9c8a-7ca4431d8168",
+      "number": null
+    },
+    {
+      "id": "462f7fe1-bb87-47bf-99e3-8eca64d5e94c",
+      "title": "E3 Show Daily 2013, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 11, 2013"
+      },
+      "url": "https://archive.gamehistory.org/item/462f7fe1-bb87-47bf-99e3-8eca64d5e94c",
+      "number": null
+    },
+    {
+      "id": "8d335c38-217e-40db-8270-05208cb3d9f1",
+      "title": "E3 Show Daily 2013, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 12, 2013"
+      },
+      "url": "https://archive.gamehistory.org/item/8d335c38-217e-40db-8270-05208cb3d9f1",
+      "number": null
+    },
+    {
+      "id": "0c805877-3e72-4161-84d3-823bff19a1be",
+      "title": "E3 Show Daily 2013, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 13, 2013"
+      },
+      "url": "https://archive.gamehistory.org/item/0c805877-3e72-4161-84d3-823bff19a1be",
+      "number": null
+    },
+    {
+      "id": "d7b9c206-507a-4498-acae-c0aafc4ff498",
+      "title": "E3 Show Daily 2014, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 10, 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/d7b9c206-507a-4498-acae-c0aafc4ff498",
+      "number": null
+    },
+    {
+      "id": "30795a54-8d5c-4236-83c1-95ebe83ed25a",
+      "title": "E3 Show Daily 2014, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 11, 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/30795a54-8d5c-4236-83c1-95ebe83ed25a",
+      "number": null
+    },
+    {
+      "id": "bbbc8ab8-780d-4c0a-a27e-03ec506bda51",
+      "title": "E3 Show Daily 2014, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 12, 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/bbbc8ab8-780d-4c0a-a27e-03ec506bda51",
+      "number": null
+    },
+    {
+      "id": "68f80228-6079-4798-a4de-bd70f0bbb6ce",
+      "title": "E3 Show Daily 2015, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 16, 2015"
+      },
+      "url": "https://archive.gamehistory.org/item/68f80228-6079-4798-a4de-bd70f0bbb6ce",
+      "number": null
+    },
+    {
+      "id": "5c308c38-288c-4c73-af53-a59ef33365e1",
+      "title": "E3 Show Daily 2015, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 17, 2015"
+      },
+      "url": "https://archive.gamehistory.org/item/5c308c38-288c-4c73-af53-a59ef33365e1",
+      "number": null
+    },
+    {
+      "id": "46043bf2-9b6b-4778-b448-e2eb6946f800",
+      "title": "E3 Show Daily 2015, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 18, 2015"
+      },
+      "url": "https://archive.gamehistory.org/item/46043bf2-9b6b-4778-b448-e2eb6946f800",
+      "number": null
+    },
+    {
+      "id": "70ef7fa7-98ce-4dbf-b814-80c8ac648593",
+      "title": "E3 Show Daily 2016, Day 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 14, 2016"
+      },
+      "url": "https://archive.gamehistory.org/item/70ef7fa7-98ce-4dbf-b814-80c8ac648593",
+      "number": null
+    },
+    {
+      "id": "559603e0-e700-4184-92e7-25eb8242ecd0",
+      "title": "E3 Show Daily 2016, Day 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 15, 2016"
+      },
+      "url": "https://archive.gamehistory.org/item/559603e0-e700-4184-92e7-25eb8242ecd0",
+      "number": null
+    },
+    {
+      "id": "e6e11ca6-effe-41ce-9385-14862184a610",
+      "title": "E3 Show Daily 2016, Day 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 16, 2016"
+      },
+      "url": "https://archive.gamehistory.org/item/e6e11ca6-effe-41ce-9385-14862184a610",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "E3 Show Daily 1995, Day 1": "ac3901f6-d3c6-47f5-8a0e-290c46fc0a86",
+    "E3 Show Daily 1995, Day 3": "3b8c5688-41d4-4929-9d2c-19014d9317c7",
+    "E3 Show Daily 1997, Day 1": "ab61b93a-cdd9-4840-90fc-34178f30bc4e",
+    "E3 Show Daily 1997, Day 2": "21e7d3fc-264a-4329-a050-4e44d31572ac",
+    "E3 Show Daily 1997, Day 3": "a1f6c63e-068b-4a1e-9923-118d7ffe4927",
+    "E3 Show Daily 1998, Day 1": "65ce6bc1-bcf6-4b58-bbdf-2f0b0f69db4d",
+    "E3 Show Daily 1998, Day 2": "34930736-b110-48e2-b5c7-481171e57be0",
+    "E3 Show Daily 1998, Day 3": "e21d2d78-4f5b-4c37-b836-3f40d7fdef64",
+    "E3 Show Daily 2010, Day 1": "6b95929a-0dee-4635-92b6-1d8f0ebeed6a",
+    "E3 Show Daily 2010, Day 2": "ee9aec0d-f5ab-4245-8dc5-d1cbdedda4d6",
+    "E3 Show Daily 2010, Day 3": "28e69b16-b4c7-4e15-a9ff-ca74803b39f0",
+    "E3 Show Daily 2011, Day 1": "4cacbe19-a8f0-435e-acc8-aba0dd9f39b8",
+    "E3 Show Daily 2011, Day 2": "0ad1898d-5f0d-43e4-a297-548a9ed02a51",
+    "E3 Show Daily 2011, Day 3": "7efabbca-600d-4b46-90f2-4b856ccf713c",
+    "E3 Show Daily 2012, Day 1": "13826289-a6d6-4001-ac21-2071a855f49e",
+    "E3 Show Daily 2012, Day 2": "67860757-1304-489e-a3bb-a40a2e9d9ed8",
+    "E3 Show Daily 2012, Day 3": "1a774e85-51ee-4498-9c8a-7ca4431d8168",
+    "E3 Show Daily 2013, Day 1": "462f7fe1-bb87-47bf-99e3-8eca64d5e94c",
+    "E3 Show Daily 2013, Day 2": "8d335c38-217e-40db-8270-05208cb3d9f1",
+    "E3 Show Daily 2013, Day 3": "0c805877-3e72-4161-84d3-823bff19a1be",
+    "E3 Show Daily 2014, Day 1": "d7b9c206-507a-4498-acae-c0aafc4ff498",
+    "E3 Show Daily 2014, Day 2": "30795a54-8d5c-4236-83c1-95ebe83ed25a",
+    "E3 Show Daily 2014, Day 3": "bbbc8ab8-780d-4c0a-a27e-03ec506bda51",
+    "E3 Show Daily 2015, Day 1": "68f80228-6079-4798-a4de-bd70f0bbb6ce",
+    "E3 Show Daily 2015, Day 2": "5c308c38-288c-4c73-af53-a59ef33365e1",
+    "E3 Show Daily 2015, Day 3": "46043bf2-9b6b-4778-b448-e2eb6946f800",
+    "E3 Show Daily 2016, Day 1": "70ef7fa7-98ce-4dbf-b814-80c8ac648593",
+    "E3 Show Daily 2016, Day 2": "559603e0-e700-4184-92e7-25eb8242ecd0",
+    "E3 Show Daily 2016, Day 3": "e6e11ca6-effe-41ce-9385-14862184a610"
+  }
+}

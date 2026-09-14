@@ -137,8 +137,16 @@ export function issuesInYear(year: number) {
   return catalog.filter((i) => i.year === year);
 }
 
-/** Page images: the scan's own JPEG at native resolution, plus a small WebP thumb. */
-export function pageUrl(slug: string, page: number, size: "thumb" | "read") {
-  const ext = size === "read" ? "jpg" : "webp";
+/**
+ * Page images: the scan's own JPEG at native resolution (or WebP for issues
+ * published with --webp-read; the manifest says which), plus a small WebP thumb.
+ */
+export function pageUrl(
+  slug: string,
+  page: number,
+  size: "thumb" | "read",
+  readFormat: "jpg" | "webp" = "jpg",
+) {
+  const ext = size === "read" ? readFormat : "webp";
   return assetUrl(`/pages/${slug}/${size}/${String(page).padStart(3, "0")}.${ext}`);
 }

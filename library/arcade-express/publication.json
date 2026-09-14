@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/14c6f023-c9dd-4ac8-ac7b-f243dc1dbe8f",
-      "date_range": "August 1982 – August 1984"
+      "date_range": "August 15, 1982 – August 12, 1984",
+      "items": 53
     }
   ],
   "stats": {
@@ -44,5 +45,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

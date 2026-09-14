@@ -1,0 +1,126 @@
+{
+  "provider": "vghf",
+  "folder_id": "79dae345-e20c-4f3a-acf4-967b35eee32e",
+  "url": "https://archive.gamehistory.org/folder/79dae345-e20c-4f3a-acf4-967b35eee32e",
+  "retrieved_at": "2026-09-13T22:59:30+00:00",
+  "expected": 7,
+  "count": 7,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "3a00af20-ca7e-4d58-8fc7-5d317aac5666",
+      "title": "Q64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1997",
+        "start": "1997-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/3a00af20-ca7e-4d58-8fc7-5d317aac5666",
+      "number": null
+    },
+    {
+      "id": "23f54a0e-2f3f-4efd-a016-4c35e75cbeaa",
+      "title": "Q64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1998",
+        "start": "1998-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/23f54a0e-2f3f-4efd-a016-4c35e75cbeaa",
+      "number": null
+    },
+    {
+      "id": "e81806b8-d551-4548-9bd0-2d7d06519ece",
+      "title": "Q64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1998",
+        "start": "1998-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e81806b8-d551-4548-9bd0-2d7d06519ece",
+      "number": null
+    },
+    {
+      "id": "38c5152c-8ee1-4a2b-ace7-b5d7cac0198f",
+      "title": "Q64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1998",
+        "start": "1998-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/38c5152c-8ee1-4a2b-ace7-b5d7cac0198f",
+      "number": null
+    },
+    {
+      "id": "7858ea13-b29e-4b65-801b-a47ddd97c29b",
+      "title": "Q64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1998",
+        "start": "1998-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/7858ea13-b29e-4b65-801b-a47ddd97c29b",
+      "number": null
+    },
+    {
+      "id": "e5695aad-bc48-449c-b48b-b1de42749144",
+      "title": "Q64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1999",
+        "start": "1999-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e5695aad-bc48-449c-b48b-b1de42749144",
+      "number": null
+    },
+    {
+      "id": "f57ddade-8465-4ce3-bcb2-ec0826bcab9f",
+      "title": "Q64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1999",
+        "start": "1999-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/f57ddade-8465-4ce3-bcb2-ec0826bcab9f",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Q64": "f57ddade-8465-4ce3-bcb2-ec0826bcab9f"
+  }
+}

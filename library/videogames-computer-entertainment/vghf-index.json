@@ -1,0 +1,1606 @@
+{
+  "provider": "vghf",
+  "folder_id": "677805d5-f5ca-440c-bb28-475df519602f",
+  "url": "https://archive.gamehistory.org/folder/677805d5-f5ca-440c-bb28-475df519602f",
+  "retrieved_at": "2026-09-13T23:00:50+00:00",
+  "expected": 93,
+  "count": 94,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "4035337c-d2ae-4c4e-b907-50ae885acb72",
+      "title": "VideoGames & Computer Entertainment, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1988",
+        "start": "1988-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4035337c-d2ae-4c4e-b907-50ae885acb72",
+      "number": "1"
+    },
+    {
+      "id": "0fb62308-bc13-4e3f-8b5a-9b2ebaadfebc",
+      "title": "VideoGames & Computer Entertainment, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1989",
+        "start": "1989-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0fb62308-bc13-4e3f-8b5a-9b2ebaadfebc",
+      "number": "2"
+    },
+    {
+      "id": "2fc23a58-3366-43ce-812f-0c718bb7bbb8",
+      "title": "VideoGames & Computer Entertainment, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1989",
+        "start": "1989-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2fc23a58-3366-43ce-812f-0c718bb7bbb8",
+      "number": "3"
+    },
+    {
+      "id": "54224d27-b903-4719-9256-b7a73d7a39d9",
+      "title": "VideoGames & Computer Entertainment, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1989",
+        "start": "1989-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/54224d27-b903-4719-9256-b7a73d7a39d9",
+      "number": "4"
+    },
+    {
+      "id": "ee1a490f-beb2-45bb-889c-f39317658a59",
+      "title": "VideoGames & Computer Entertainment, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1989",
+        "start": "1989-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ee1a490f-beb2-45bb-889c-f39317658a59",
+      "number": "5"
+    },
+    {
+      "id": "95fd0f25-7abe-47a9-b7ca-3f610063b51c",
+      "title": "VideoGames & Computer Entertainment, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1989",
+        "start": "1989-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95fd0f25-7abe-47a9-b7ca-3f610063b51c",
+      "number": "6"
+    },
+    {
+      "id": "a2052265-9ceb-48a7-9546-5c1d8d5bb69a",
+      "title": "VideoGames & Computer Entertainment, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1989",
+        "start": "1989-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2052265-9ceb-48a7-9546-5c1d8d5bb69a",
+      "number": "7"
+    },
+    {
+      "id": "c5702ca0-1c84-4bb2-9c6e-9f55fabcf7bd",
+      "title": "VideoGames & Computer Entertainment, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1989",
+        "start": "1989-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c5702ca0-1c84-4bb2-9c6e-9f55fabcf7bd",
+      "number": "8"
+    },
+    {
+      "id": "962d47f8-95c7-4dc8-b11d-f6561c40bbe3",
+      "title": "VideoGames & Computer Entertainment, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1989",
+        "start": "1989-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/962d47f8-95c7-4dc8-b11d-f6561c40bbe3",
+      "number": "9"
+    },
+    {
+      "id": "1a516bb0-788a-488a-9803-e20500b8c64f",
+      "title": "VideoGames & Computer Entertainment, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1989",
+        "start": "1989-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1a516bb0-788a-488a-9803-e20500b8c64f",
+      "number": "10"
+    },
+    {
+      "id": "aa949b20-4627-460a-90b5-b8a85871c38d",
+      "title": "VideoGames & Computer Entertainment, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1989",
+        "start": "1989-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa949b20-4627-460a-90b5-b8a85871c38d",
+      "number": "11"
+    },
+    {
+      "id": "e398375a-b6c9-49f2-a671-9f772a087346",
+      "title": "VideoGames & Computer Entertainment, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1990",
+        "start": "1990-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e398375a-b6c9-49f2-a671-9f772a087346",
+      "number": "12"
+    },
+    {
+      "id": "5cded14d-7941-42f6-98c9-bd27b26b3332",
+      "title": "VideoGames & Computer Entertainment, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1990",
+        "start": "1990-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5cded14d-7941-42f6-98c9-bd27b26b3332",
+      "number": "13"
+    },
+    {
+      "id": "b74729e1-17e7-46ca-bb74-748103215416",
+      "title": "VideoGames & Computer Entertainment, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1990",
+        "start": "1990-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b74729e1-17e7-46ca-bb74-748103215416",
+      "number": "14"
+    },
+    {
+      "id": "bd20ae43-3164-4c26-aeb7-0f376e1c0959",
+      "title": "VideoGames & Computer Entertainment, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1990",
+        "start": "1990-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bd20ae43-3164-4c26-aeb7-0f376e1c0959",
+      "number": "15"
+    },
+    {
+      "id": "e09bc562-f5bb-405b-a43a-2c8e6c6b1024",
+      "title": "VideoGames & Computer Entertainment, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1990",
+        "start": "1990-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e09bc562-f5bb-405b-a43a-2c8e6c6b1024",
+      "number": "16"
+    },
+    {
+      "id": "d371f9b6-4185-4ca7-97ee-27957c3a33ed",
+      "title": "VideoGames & Computer Entertainment, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1990",
+        "start": "1990-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d371f9b6-4185-4ca7-97ee-27957c3a33ed",
+      "number": "17"
+    },
+    {
+      "id": "b83b9691-b227-4558-972f-8d186a6c9b9f",
+      "title": "VideoGames & Computer Entertainment, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1990",
+        "start": "1990-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b83b9691-b227-4558-972f-8d186a6c9b9f",
+      "number": "18"
+    },
+    {
+      "id": "3820af07-11bb-480c-ac6b-be57f8b14a9b",
+      "title": "VideoGames & Computer Entertainment, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1990",
+        "start": "1990-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3820af07-11bb-480c-ac6b-be57f8b14a9b",
+      "number": "19"
+    },
+    {
+      "id": "26843147-5564-4a44-bbec-8c7861c7bd8d",
+      "title": "VideoGames & Computer Entertainment, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1990",
+        "start": "1990-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/26843147-5564-4a44-bbec-8c7861c7bd8d",
+      "number": "20"
+    },
+    {
+      "id": "854c9eed-356b-4c05-8c03-bfc9f9cd3b8e",
+      "title": "VideoGames & Computer Entertainment, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1990",
+        "start": "1990-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/854c9eed-356b-4c05-8c03-bfc9f9cd3b8e",
+      "number": "21"
+    },
+    {
+      "id": "c3be0455-4bd1-4a53-9165-a023e2bac27c",
+      "title": "VideoGames & Computer Entertainment, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1990",
+        "start": "1990-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c3be0455-4bd1-4a53-9165-a023e2bac27c",
+      "number": "22"
+    },
+    {
+      "id": "c128ad42-83d5-4fdd-b171-0e82cae31165",
+      "title": "VideoGames & Computer Entertainment, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1990",
+        "start": "1990-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c128ad42-83d5-4fdd-b171-0e82cae31165",
+      "number": "23"
+    },
+    {
+      "id": "7d94a448-10f3-450e-905b-7e7fffb76f2d",
+      "title": "VideoGames & Computer Entertainment, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1991",
+        "start": "1991-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d94a448-10f3-450e-905b-7e7fffb76f2d",
+      "number": "24"
+    },
+    {
+      "id": "02412348-9e87-46e5-a93a-8adf2c94efd7",
+      "title": "VideoGames & Computer Entertainment, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1991",
+        "start": "1991-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/02412348-9e87-46e5-a93a-8adf2c94efd7",
+      "number": "25"
+    },
+    {
+      "id": "4c3ce50f-2663-46f8-aa31-3475f627f445",
+      "title": "VideoGames & Computer Entertainment, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1991",
+        "start": "1991-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4c3ce50f-2663-46f8-aa31-3475f627f445",
+      "number": "26"
+    },
+    {
+      "id": "7b98659e-2d0a-4c33-8c32-e64fcede363c",
+      "title": "VideoGames & Computer Entertainment, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1991",
+        "start": "1991-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7b98659e-2d0a-4c33-8c32-e64fcede363c",
+      "number": "27"
+    },
+    {
+      "id": "ae41632a-dbd0-4ca1-8f4b-4579f6a06188",
+      "title": "VideoGames & Computer Entertainment, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1991",
+        "start": "1991-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ae41632a-dbd0-4ca1-8f4b-4579f6a06188",
+      "number": "28"
+    },
+    {
+      "id": "c3342b15-991e-4d23-8b51-ee99a1df9018",
+      "title": "VideoGames & Computer Entertainment, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1991",
+        "start": "1991-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c3342b15-991e-4d23-8b51-ee99a1df9018",
+      "number": "29"
+    },
+    {
+      "id": "4c678b14-8254-4747-8413-aba1bcecc191",
+      "title": "VideoGames & Computer Entertainment, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1991",
+        "start": "1991-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4c678b14-8254-4747-8413-aba1bcecc191",
+      "number": "30"
+    },
+    {
+      "id": "1dff3ff1-6b03-4455-8884-a7fb705161bd",
+      "title": "VideoGames & Computer Entertainment, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1991",
+        "start": "1991-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1dff3ff1-6b03-4455-8884-a7fb705161bd",
+      "number": "31"
+    },
+    {
+      "id": "a95f082e-9c0c-4278-b6b0-98fa8a1e450d",
+      "title": "VideoGames & Computer Entertainment, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1991",
+        "start": "1991-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a95f082e-9c0c-4278-b6b0-98fa8a1e450d",
+      "number": "32"
+    },
+    {
+      "id": "ba97fa43-27e9-490e-af79-b5d591251347",
+      "title": "VideoGames & Computer Entertainment, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1991",
+        "start": "1991-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ba97fa43-27e9-490e-af79-b5d591251347",
+      "number": "33"
+    },
+    {
+      "id": "ecabc14d-e10c-4384-9a84-793e884f2d56",
+      "title": "VideoGames & Computer Entertainment, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1991",
+        "start": "1991-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ecabc14d-e10c-4384-9a84-793e884f2d56",
+      "number": "34"
+    },
+    {
+      "id": "846306e6-e4ae-4930-b4f3-252c595c3377",
+      "title": "VideoGames & Computer Entertainment, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1991",
+        "start": "1991-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/846306e6-e4ae-4930-b4f3-252c595c3377",
+      "number": "35"
+    },
+    {
+      "id": "6515f184-9eb0-4e65-abd3-cea71ad514a6",
+      "title": "VideoGames & Computer Entertainment, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1992",
+        "start": "1992-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6515f184-9eb0-4e65-abd3-cea71ad514a6",
+      "number": "36"
+    },
+    {
+      "id": "9d5547ca-6dee-4304-b9e2-6ea795da20ee",
+      "title": "VideoGames & Computer Entertainment, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1992",
+        "start": "1992-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d5547ca-6dee-4304-b9e2-6ea795da20ee",
+      "number": "37"
+    },
+    {
+      "id": "6abe1d1a-07ce-4d85-bf8a-d0b14017e654",
+      "title": "VideoGames & Computer Entertainment, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1992",
+        "start": "1992-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6abe1d1a-07ce-4d85-bf8a-d0b14017e654",
+      "number": "38"
+    },
+    {
+      "id": "6a406b7b-2160-4ab3-b7eb-a5abfa64ea5f",
+      "title": "VideoGames & Computer Entertainment, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1992",
+        "start": "1992-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6a406b7b-2160-4ab3-b7eb-a5abfa64ea5f",
+      "number": "39"
+    },
+    {
+      "id": "485de408-9e75-4a93-802b-3f1b286384f2",
+      "title": "VideoGames & Computer Entertainment, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1992",
+        "start": "1992-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/485de408-9e75-4a93-802b-3f1b286384f2",
+      "number": "40"
+    },
+    {
+      "id": "d252b629-8bfb-4f9b-8cfc-d157f24497e7",
+      "title": "VideoGames & Computer Entertainment, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1992",
+        "start": "1992-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d252b629-8bfb-4f9b-8cfc-d157f24497e7",
+      "number": "41"
+    },
+    {
+      "id": "b8577fea-e1b4-46fe-a2c0-1800f49a1c3a",
+      "title": "VideoGames & Computer Entertainment, Issue 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1992",
+        "start": "1992-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b8577fea-e1b4-46fe-a2c0-1800f49a1c3a",
+      "number": "42"
+    },
+    {
+      "id": "87243894-c751-4552-a9ae-5c21de3e7058",
+      "title": "VideoGames & Computer Entertainment, Issue 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1992",
+        "start": "1992-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87243894-c751-4552-a9ae-5c21de3e7058",
+      "number": "43"
+    },
+    {
+      "id": "034d7ead-7a57-4783-a69d-6c46fb372804",
+      "title": "VideoGames & Computer Entertainment, Issue 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1992",
+        "start": "1992-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/034d7ead-7a57-4783-a69d-6c46fb372804",
+      "number": "44"
+    },
+    {
+      "id": "e96933b9-8b71-4c47-a5ff-538f77576300",
+      "title": "VideoGames & Computer Entertainment, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1992",
+        "start": "1992-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e96933b9-8b71-4c47-a5ff-538f77576300",
+      "number": "45"
+    },
+    {
+      "id": "8678d750-71a4-4c1b-ac97-8643da5ab409",
+      "title": "VideoGames & Computer Entertainment, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1992",
+        "start": "1992-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8678d750-71a4-4c1b-ac97-8643da5ab409",
+      "number": "46"
+    },
+    {
+      "id": "5369f94a-a9e6-4220-bd27-2dd7663aa0a9",
+      "title": "VideoGames & Computer Entertainment, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1992",
+        "start": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5369f94a-a9e6-4220-bd27-2dd7663aa0a9",
+      "number": "47"
+    },
+    {
+      "id": "f9bb1287-8976-487b-8a71-5079ef68b391",
+      "title": "VideoGames & Computer Entertainment, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f9bb1287-8976-487b-8a71-5079ef68b391",
+      "number": "48"
+    },
+    {
+      "id": "ad23408a-2db9-4afb-874b-452090b6f4c9",
+      "title": "VideoGames & Computer Entertainment, Issue 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1993",
+        "start": "1993-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ad23408a-2db9-4afb-874b-452090b6f4c9",
+      "number": "49"
+    },
+    {
+      "id": "34cad491-4796-427b-92b7-7bc2d8d1a29b",
+      "title": "VideoGames & Computer Entertainment, Issue 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1993",
+        "start": "1993-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/34cad491-4796-427b-92b7-7bc2d8d1a29b",
+      "number": "50"
+    },
+    {
+      "id": "d5a6bc37-28b0-47a5-9e89-39c8c4f4bc15",
+      "title": "VideoGames & Computer Entertainment, Issue 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1993",
+        "start": "1993-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d5a6bc37-28b0-47a5-9e89-39c8c4f4bc15",
+      "number": "51"
+    },
+    {
+      "id": "198835f8-112a-49c9-b622-d0b2bf7e2091",
+      "title": "VideoGames & Computer Entertainment, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1993",
+        "start": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/198835f8-112a-49c9-b622-d0b2bf7e2091",
+      "number": "52"
+    },
+    {
+      "id": "a67d77a1-16d6-4832-8d62-afb7c2e737f0",
+      "title": "VideoGames & Computer Entertainment, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1993",
+        "start": "1993-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a67d77a1-16d6-4832-8d62-afb7c2e737f0",
+      "number": "53"
+    },
+    {
+      "id": "dfef2ebd-260b-42ae-800a-ba799ff97a88",
+      "title": "VideoGames & Computer Entertainment, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1993",
+        "start": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dfef2ebd-260b-42ae-800a-ba799ff97a88",
+      "number": "54"
+    },
+    {
+      "id": "5ee6f2c8-827c-4f43-aefd-235ef0800982",
+      "title": "VideoGames & Computer Entertainment, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1993",
+        "start": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5ee6f2c8-827c-4f43-aefd-235ef0800982",
+      "number": "55"
+    },
+    {
+      "id": "96972c67-7869-456f-86c0-95a52b060825",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1993",
+        "start": "1993-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/96972c67-7869-456f-86c0-95a52b060825",
+      "number": "56"
+    },
+    {
+      "id": "6e2b74b4-6e0d-4f0f-ba68-399658649465",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1993",
+        "start": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6e2b74b4-6e0d-4f0f-ba68-399658649465",
+      "number": "57"
+    },
+    {
+      "id": "24fc68f4-4144-434e-88c0-a776cb3f4bbf",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1993",
+        "start": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24fc68f4-4144-434e-88c0-a776cb3f4bbf",
+      "number": "58"
+    },
+    {
+      "id": "6c2b088a-ef18-4f7d-9b82-672703976574",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1993",
+        "start": "1993-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c2b088a-ef18-4f7d-9b82-672703976574",
+      "number": "59"
+    },
+    {
+      "id": "5ee7f13a-20b5-4db3-821d-154ef5057c5a",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5ee7f13a-20b5-4db3-821d-154ef5057c5a",
+      "number": "60"
+    },
+    {
+      "id": "c46e4547-c6f9-476c-be2c-52c7c47765af",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1994",
+        "start": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c46e4547-c6f9-476c-be2c-52c7c47765af",
+      "number": "61"
+    },
+    {
+      "id": "45dc007c-69ba-4161-a63a-223f8c8b9b65",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45dc007c-69ba-4161-a63a-223f8c8b9b65",
+      "number": "62"
+    },
+    {
+      "id": "7e1fa6ec-496b-40ac-97b9-69b0a7e53b78",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7e1fa6ec-496b-40ac-97b9-69b0a7e53b78",
+      "number": "63"
+    },
+    {
+      "id": "90208699-1a7c-4134-b406-e952fd881987",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90208699-1a7c-4134-b406-e952fd881987",
+      "number": "64"
+    },
+    {
+      "id": "ac771d36-52d3-4151-a13d-f0775922555a",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac771d36-52d3-4151-a13d-f0775922555a",
+      "number": "65"
+    },
+    {
+      "id": "463e888d-ff89-4130-bba4-e4ec59909151",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 66",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/463e888d-ff89-4130-bba4-e4ec59909151",
+      "number": "66"
+    },
+    {
+      "id": "2e906c43-8e91-4f33-9be9-26ffbef2299e",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 67",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2e906c43-8e91-4f33-9be9-26ffbef2299e",
+      "number": "67"
+    },
+    {
+      "id": "f419e9fb-0e01-4fd5-a12a-ee346c65ca62",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 68",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f419e9fb-0e01-4fd5-a12a-ee346c65ca62",
+      "number": "68"
+    },
+    {
+      "id": "7c4eacb8-de8a-428f-b18e-6e7da436a7f1",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7c4eacb8-de8a-428f-b18e-6e7da436a7f1",
+      "number": "69"
+    },
+    {
+      "id": "cc1418fc-4ac4-49d4-a88f-51694a6819f1",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 70",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc1418fc-4ac4-49d4-a88f-51694a6819f1",
+      "number": "70"
+    },
+    {
+      "id": "93bebdd8-c0fb-443e-a08e-536e2e3a35db",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93bebdd8-c0fb-443e-a08e-536e2e3a35db",
+      "number": "71"
+    },
+    {
+      "id": "810a4f6c-24dc-4056-ad9a-b97d88d05c19",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 72",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/810a4f6c-24dc-4056-ad9a-b97d88d05c19",
+      "number": "72"
+    },
+    {
+      "id": "179efa2a-aac7-4a9c-8202-9b35fc9b2507",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/179efa2a-aac7-4a9c-8202-9b35fc9b2507",
+      "number": "73"
+    },
+    {
+      "id": "08bd437f-664f-4c16-bb51-a39a384c7e07",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/08bd437f-664f-4c16-bb51-a39a384c7e07",
+      "number": "74"
+    },
+    {
+      "id": "f659e492-777d-4dbc-b408-be99d440edf1",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f659e492-777d-4dbc-b408-be99d440edf1",
+      "number": "75"
+    },
+    {
+      "id": "d8f9acab-d6bb-467e-a449-520221acb9f3",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 76",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d8f9acab-d6bb-467e-a449-520221acb9f3",
+      "number": "76"
+    },
+    {
+      "id": "7bdd27b4-390d-4fd6-92ac-1544eee1c37f",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 77",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7bdd27b4-390d-4fd6-92ac-1544eee1c37f",
+      "number": "77"
+    },
+    {
+      "id": "c12ca03a-4024-45b8-b638-ade6c6e9b80b",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 78",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c12ca03a-4024-45b8-b638-ade6c6e9b80b",
+      "number": "78"
+    },
+    {
+      "id": "40acbb2c-8f44-47fd-a635-ac9a0d6eccef",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/40acbb2c-8f44-47fd-a635-ac9a0d6eccef",
+      "number": "79"
+    },
+    {
+      "id": "5a9eb13e-63bf-45db-9b7a-ee2a9a82676a",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a9eb13e-63bf-45db-9b7a-ee2a9a82676a",
+      "number": "80"
+    },
+    {
+      "id": "01a7f319-60cc-4c52-9882-b3e270a3457d",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 81",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/01a7f319-60cc-4c52-9882-b3e270a3457d",
+      "number": "81"
+    },
+    {
+      "id": "8d31014b-4804-4169-a280-69a94a2a9cd8",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 82",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8d31014b-4804-4169-a280-69a94a2a9cd8",
+      "number": "82"
+    },
+    {
+      "id": "de2719a8-5cc7-4772-b691-e1ddf6ad0cf5",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 83",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de2719a8-5cc7-4772-b691-e1ddf6ad0cf5",
+      "number": "83"
+    },
+    {
+      "id": "728447f7-e66d-4bd9-b3b6-29da387d5380",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 84",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/728447f7-e66d-4bd9-b3b6-29da387d5380",
+      "number": "84"
+    },
+    {
+      "id": "b62149e4-38b2-4a51-bc29-25e60b525694",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 85",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b62149e4-38b2-4a51-bc29-25e60b525694",
+      "number": "85"
+    },
+    {
+      "id": "ec6229b3-f6da-44ef-b838-f16b355167f6",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 86",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec6229b3-f6da-44ef-b838-f16b355167f6",
+      "number": "86"
+    },
+    {
+      "id": "004dd56a-7846-433c-bc65-56103a81ff2d",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 87",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/004dd56a-7846-433c-bc65-56103a81ff2d",
+      "number": "87"
+    },
+    {
+      "id": "664cffc3-edc9-4764-bbbc-137f552f640d",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 88",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/664cffc3-edc9-4764-bbbc-137f552f640d",
+      "number": "88"
+    },
+    {
+      "id": "4787581f-4a8d-49dd-a690-fa3f464c279c",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 89",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4787581f-4a8d-49dd-a690-fa3f464c279c",
+      "number": "89"
+    },
+    {
+      "id": "f72b42da-29ad-4ea0-84e4-10ba0bd5a591",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 90",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f72b42da-29ad-4ea0-84e4-10ba0bd5a591",
+      "number": "90"
+    },
+    {
+      "id": "cdd432a7-735a-407c-830a-820240fd89ea",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 91",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cdd432a7-735a-407c-830a-820240fd89ea",
+      "number": "91"
+    },
+    {
+      "id": "bad6da24-abd3-445e-965e-f6f5278d9bc0",
+      "title": "VideoGames: The Ultimate Gaming Magazine, Issue 92",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1996",
+        "start": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bad6da24-abd3-445e-965e-f6f5278d9bc0",
+      "number": "92"
+    },
+    {
+      "id": "fbc7bc85-0c0c-40cf-8132-5637b1f3fef1",
+      "title": "VideoGames: The Ultimate Gaming Magazine presents A Look at Mortal Kombat",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. first quarter 1996"
+      },
+      "url": "https://archive.gamehistory.org/item/fbc7bc85-0c0c-40cf-8132-5637b1f3fef1",
+      "number": null,
+      "parent_id": "bc142fed-08a1-4db9-9417-5df1a80337aa"
+    },
+    {
+      "id": "bc142fed-08a1-4db9-9417-5df1a80337aa",
+      "title": "VideoGames: The Ultimate Gaming Magazine special issues",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/bc142fed-08a1-4db9-9417-5df1a80337aa",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "VideoGames & Computer Entertainment, Issue 1": "4035337c-d2ae-4c4e-b907-50ae885acb72",
+    "VideoGames & Computer Entertainment, Issue 2": "0fb62308-bc13-4e3f-8b5a-9b2ebaadfebc",
+    "VideoGames & Computer Entertainment, Issue 3": "2fc23a58-3366-43ce-812f-0c718bb7bbb8",
+    "VideoGames & Computer Entertainment, Issue 4": "54224d27-b903-4719-9256-b7a73d7a39d9",
+    "VideoGames & Computer Entertainment, Issue 5": "ee1a490f-beb2-45bb-889c-f39317658a59",
+    "VideoGames & Computer Entertainment, Issue 6": "95fd0f25-7abe-47a9-b7ca-3f610063b51c",
+    "VideoGames & Computer Entertainment, Issue 7": "a2052265-9ceb-48a7-9546-5c1d8d5bb69a",
+    "VideoGames & Computer Entertainment, Issue 8": "c5702ca0-1c84-4bb2-9c6e-9f55fabcf7bd",
+    "VideoGames & Computer Entertainment, Issue 9": "962d47f8-95c7-4dc8-b11d-f6561c40bbe3",
+    "VideoGames & Computer Entertainment, Issue 10": "1a516bb0-788a-488a-9803-e20500b8c64f",
+    "VideoGames & Computer Entertainment, Issue 11": "aa949b20-4627-460a-90b5-b8a85871c38d",
+    "VideoGames & Computer Entertainment, Issue 12": "e398375a-b6c9-49f2-a671-9f772a087346",
+    "VideoGames & Computer Entertainment, Issue 13": "5cded14d-7941-42f6-98c9-bd27b26b3332",
+    "VideoGames & Computer Entertainment, Issue 14": "b74729e1-17e7-46ca-bb74-748103215416",
+    "VideoGames & Computer Entertainment, Issue 15": "bd20ae43-3164-4c26-aeb7-0f376e1c0959",
+    "VideoGames & Computer Entertainment, Issue 16": "e09bc562-f5bb-405b-a43a-2c8e6c6b1024",
+    "VideoGames & Computer Entertainment, Issue 17": "d371f9b6-4185-4ca7-97ee-27957c3a33ed",
+    "VideoGames & Computer Entertainment, Issue 18": "b83b9691-b227-4558-972f-8d186a6c9b9f",
+    "VideoGames & Computer Entertainment, Issue 19": "3820af07-11bb-480c-ac6b-be57f8b14a9b",
+    "VideoGames & Computer Entertainment, Issue 20": "26843147-5564-4a44-bbec-8c7861c7bd8d",
+    "VideoGames & Computer Entertainment, Issue 21": "854c9eed-356b-4c05-8c03-bfc9f9cd3b8e",
+    "VideoGames & Computer Entertainment, Issue 22": "c3be0455-4bd1-4a53-9165-a023e2bac27c",
+    "VideoGames & Computer Entertainment, Issue 23": "c128ad42-83d5-4fdd-b171-0e82cae31165",
+    "VideoGames & Computer Entertainment, Issue 24": "7d94a448-10f3-450e-905b-7e7fffb76f2d",
+    "VideoGames & Computer Entertainment, Issue 25": "02412348-9e87-46e5-a93a-8adf2c94efd7",
+    "VideoGames & Computer Entertainment, Issue 26": "4c3ce50f-2663-46f8-aa31-3475f627f445",
+    "VideoGames & Computer Entertainment, Issue 27": "7b98659e-2d0a-4c33-8c32-e64fcede363c",
+    "VideoGames & Computer Entertainment, Issue 28": "ae41632a-dbd0-4ca1-8f4b-4579f6a06188",
+    "VideoGames & Computer Entertainment, Issue 29": "c3342b15-991e-4d23-8b51-ee99a1df9018",
+    "VideoGames & Computer Entertainment, Issue 30": "4c678b14-8254-4747-8413-aba1bcecc191",
+    "VideoGames & Computer Entertainment, Issue 31": "1dff3ff1-6b03-4455-8884-a7fb705161bd",
+    "VideoGames & Computer Entertainment, Issue 32": "a95f082e-9c0c-4278-b6b0-98fa8a1e450d",
+    "VideoGames & Computer Entertainment, Issue 33": "ba97fa43-27e9-490e-af79-b5d591251347",
+    "VideoGames & Computer Entertainment, Issue 34": "ecabc14d-e10c-4384-9a84-793e884f2d56",
+    "VideoGames & Computer Entertainment, Issue 35": "846306e6-e4ae-4930-b4f3-252c595c3377",
+    "VideoGames & Computer Entertainment, Issue 36": "6515f184-9eb0-4e65-abd3-cea71ad514a6",
+    "VideoGames & Computer Entertainment, Issue 37": "9d5547ca-6dee-4304-b9e2-6ea795da20ee",
+    "VideoGames & Computer Entertainment, Issue 38": "6abe1d1a-07ce-4d85-bf8a-d0b14017e654",
+    "VideoGames & Computer Entertainment, Issue 39": "6a406b7b-2160-4ab3-b7eb-a5abfa64ea5f",
+    "VideoGames & Computer Entertainment, Issue 40": "485de408-9e75-4a93-802b-3f1b286384f2",
+    "VideoGames & Computer Entertainment, Issue 41": "d252b629-8bfb-4f9b-8cfc-d157f24497e7",
+    "VideoGames & Computer Entertainment, Issue 42": "b8577fea-e1b4-46fe-a2c0-1800f49a1c3a",
+    "VideoGames & Computer Entertainment, Issue 43": "87243894-c751-4552-a9ae-5c21de3e7058",
+    "VideoGames & Computer Entertainment, Issue 44": "034d7ead-7a57-4783-a69d-6c46fb372804",
+    "VideoGames & Computer Entertainment, Issue 45": "e96933b9-8b71-4c47-a5ff-538f77576300",
+    "VideoGames & Computer Entertainment, Issue 46": "8678d750-71a4-4c1b-ac97-8643da5ab409",
+    "VideoGames & Computer Entertainment, Issue 47": "5369f94a-a9e6-4220-bd27-2dd7663aa0a9",
+    "VideoGames & Computer Entertainment, Issue 48": "f9bb1287-8976-487b-8a71-5079ef68b391",
+    "VideoGames & Computer Entertainment, Issue 49": "ad23408a-2db9-4afb-874b-452090b6f4c9",
+    "VideoGames & Computer Entertainment, Issue 50": "34cad491-4796-427b-92b7-7bc2d8d1a29b",
+    "VideoGames & Computer Entertainment, Issue 51": "d5a6bc37-28b0-47a5-9e89-39c8c4f4bc15",
+    "VideoGames & Computer Entertainment, Issue 52": "198835f8-112a-49c9-b622-d0b2bf7e2091",
+    "VideoGames & Computer Entertainment, Issue 53": "a67d77a1-16d6-4832-8d62-afb7c2e737f0",
+    "VideoGames & Computer Entertainment, Issue 54": "dfef2ebd-260b-42ae-800a-ba799ff97a88",
+    "VideoGames & Computer Entertainment, Issue 55": "5ee6f2c8-827c-4f43-aefd-235ef0800982",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 56": "96972c67-7869-456f-86c0-95a52b060825",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 57": "6e2b74b4-6e0d-4f0f-ba68-399658649465",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 58": "24fc68f4-4144-434e-88c0-a776cb3f4bbf",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 59": "6c2b088a-ef18-4f7d-9b82-672703976574",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 60": "5ee7f13a-20b5-4db3-821d-154ef5057c5a",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 61": "c46e4547-c6f9-476c-be2c-52c7c47765af",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 62": "45dc007c-69ba-4161-a63a-223f8c8b9b65",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 63": "7e1fa6ec-496b-40ac-97b9-69b0a7e53b78",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 64": "90208699-1a7c-4134-b406-e952fd881987",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 65": "ac771d36-52d3-4151-a13d-f0775922555a",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 66": "463e888d-ff89-4130-bba4-e4ec59909151",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 67": "2e906c43-8e91-4f33-9be9-26ffbef2299e",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 68": "f419e9fb-0e01-4fd5-a12a-ee346c65ca62",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 69": "7c4eacb8-de8a-428f-b18e-6e7da436a7f1",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 70": "cc1418fc-4ac4-49d4-a88f-51694a6819f1",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 71": "93bebdd8-c0fb-443e-a08e-536e2e3a35db",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 72": "810a4f6c-24dc-4056-ad9a-b97d88d05c19",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 73": "179efa2a-aac7-4a9c-8202-9b35fc9b2507",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 74": "08bd437f-664f-4c16-bb51-a39a384c7e07",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 75": "f659e492-777d-4dbc-b408-be99d440edf1",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 76": "d8f9acab-d6bb-467e-a449-520221acb9f3",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 77": "7bdd27b4-390d-4fd6-92ac-1544eee1c37f",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 78": "c12ca03a-4024-45b8-b638-ade6c6e9b80b",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 79": "40acbb2c-8f44-47fd-a635-ac9a0d6eccef",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 80": "5a9eb13e-63bf-45db-9b7a-ee2a9a82676a",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 81": "01a7f319-60cc-4c52-9882-b3e270a3457d",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 82": "8d31014b-4804-4169-a280-69a94a2a9cd8",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 83": "de2719a8-5cc7-4772-b691-e1ddf6ad0cf5",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 84": "728447f7-e66d-4bd9-b3b6-29da387d5380",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 85": "b62149e4-38b2-4a51-bc29-25e60b525694",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 86": "ec6229b3-f6da-44ef-b838-f16b355167f6",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 87": "004dd56a-7846-433c-bc65-56103a81ff2d",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 88": "664cffc3-edc9-4764-bbbc-137f552f640d",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 89": "4787581f-4a8d-49dd-a690-fa3f464c279c",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 90": "f72b42da-29ad-4ea0-84e4-10ba0bd5a591",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 91": "cdd432a7-735a-407c-830a-820240fd89ea",
+    "VideoGames: The Ultimate Gaming Magazine, Issue 92": "bad6da24-abd3-445e-965e-f6f5278d9bc0",
+    "VideoGames: The Ultimate Gaming Magazine presents A Look at Mortal Kombat": "fbc7bc85-0c0c-40cf-8132-5637b1f3fef1",
+    "VideoGames: The Ultimate Gaming Magazine special issues": "bc142fed-08a1-4db9-9417-5df1a80337aa"
+  }
+}

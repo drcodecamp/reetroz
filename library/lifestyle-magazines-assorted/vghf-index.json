@@ -1,0 +1,79 @@
+{
+  "provider": "vghf",
+  "folder_id": "b75dcfec-943a-4b17-b534-a0b02867027e",
+  "url": "https://archive.gamehistory.org/folder/b75dcfec-943a-4b17-b534-a0b02867027e",
+  "retrieved_at": "2026-09-13T22:55:21+00:00",
+  "expected": 6,
+  "count": 4,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "642ea239-64b2-49aa-b5e6-ee0c5eea924a",
+      "title": "Christian Comics & Games Magazine, Issue 0",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1995",
+        "start": "1995",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/642ea239-64b2-49aa-b5e6-ee0c5eea924a",
+      "number": "0"
+    },
+    {
+      "id": "318f1bc1-7f86-4983-95c2-7ea64cb8c32b",
+      "title": "Keyboard, Volume 25, Number 3, Issue 275",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/318f1bc1-7f86-4983-95c2-7ea64cb8c32b",
+      "number": "275"
+    },
+    {
+      "id": "d89c8d67-112c-4d41-95c1-ea5b4e5b1fb5",
+      "title": "Men's Fitness, Volume 24, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2008",
+        "start": "2008-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d89c8d67-112c-4d41-95c1-ea5b4e5b1fb5",
+      "number": null
+    },
+    {
+      "id": "c4d3f3ec-ab7e-42fa-bef8-93bcffe6ff46",
+      "title": "Guitar One presents Guitars and Gaming",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "circa 2008"
+      },
+      "url": "https://archive.gamehistory.org/item/c4d3f3ec-ab7e-42fa-bef8-93bcffe6ff46",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Christian Comics & Games Magazine, Issue 0": "642ea239-64b2-49aa-b5e6-ee0c5eea924a",
+    "Keyboard, Volume 25, Number 3, Issue 275": "318f1bc1-7f86-4983-95c2-7ea64cb8c32b",
+    "Men's Fitness, Volume 24, Number 9": "d89c8d67-112c-4d41-95c1-ea5b4e5b1fb5",
+    "Guitar One presents Guitars and Gaming": "c4d3f3ec-ab7e-42fa-bef8-93bcffe6ff46"
+  }
+}

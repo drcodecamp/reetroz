@@ -1,0 +1,1756 @@
+{
+  "provider": "vghf",
+  "folder_id": "519c0dbd-0f5d-45fe-83c2-355a756391a9",
+  "url": "https://archive.gamehistory.org/folder/519c0dbd-0f5d-45fe-83c2-355a756391a9",
+  "retrieved_at": "2026-09-13T22:47:25+00:00",
+  "expected": 101,
+  "count": 103,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "69847e1c-e57b-4669-b693-817d468c16a7",
+      "title": "Video Take-Out newsletter, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1982",
+        "start": "1982-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/69847e1c-e57b-4669-b693-817d468c16a7",
+      "number": null
+    },
+    {
+      "id": "f2b85b5b-6a2a-4d16-a5bf-a7fed65f68c7",
+      "title": "The Video Game Update, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1982",
+        "start": "1982-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f2b85b5b-6a2a-4d16-a5bf-a7fed65f68c7",
+      "number": null
+    },
+    {
+      "id": "2ce6d34e-f732-4e40-a985-f058ec86db28",
+      "title": "The Video Game Update, Volume 1, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1982",
+        "start": "1982-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2ce6d34e-f732-4e40-a985-f058ec86db28",
+      "number": null
+    },
+    {
+      "id": "f6490686-9efa-4c88-b01e-ebe2b7078839",
+      "title": "The Video Game Update, Volume 1, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1982",
+        "start": "1982-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f6490686-9efa-4c88-b01e-ebe2b7078839",
+      "number": null
+    },
+    {
+      "id": "eea6c98e-3705-4c0e-9e54-defc4386930e",
+      "title": "The Video Game Update, Volume 1, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1982",
+        "start": "1982-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eea6c98e-3705-4c0e-9e54-defc4386930e",
+      "number": null
+    },
+    {
+      "id": "5f096ac9-01b4-470c-9fde-c4697f610307",
+      "title": "The Video Game Update, Volume 1, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1982",
+        "start": "1982-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f096ac9-01b4-470c-9fde-c4697f610307",
+      "number": null
+    },
+    {
+      "id": "0ca691e4-43c0-410c-87a5-3c28a22455ff",
+      "title": "The Video Game Update, Volume 1, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1982",
+        "start": "1982-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ca691e4-43c0-410c-87a5-3c28a22455ff",
+      "number": null
+    },
+    {
+      "id": "43d492b2-6526-4dfc-88fa-f11e24824455",
+      "title": "The Video Game Update, Volume 1, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1983",
+        "start": "1983-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43d492b2-6526-4dfc-88fa-f11e24824455",
+      "number": null
+    },
+    {
+      "id": "bdea2ede-676f-4319-8fdc-8d9602e3ee7a",
+      "title": "The Video Game Update, Volume 1, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1983",
+        "start": "1983-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bdea2ede-676f-4319-8fdc-8d9602e3ee7a",
+      "number": null
+    },
+    {
+      "id": "d198fa23-3a38-428a-9b02-f402c7fc4baf",
+      "title": "The Video Game Update, Volume 1, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1983",
+        "start": "1983-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d198fa23-3a38-428a-9b02-f402c7fc4baf",
+      "number": null
+    },
+    {
+      "id": "0dccd3dd-1a17-4e55-8920-b64b17f1876c",
+      "title": "The Video Game Update, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1983",
+        "start": "1983-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0dccd3dd-1a17-4e55-8920-b64b17f1876c",
+      "number": null
+    },
+    {
+      "id": "b5a61fa1-e7a2-4852-8fce-54657f9711bf",
+      "title": "The Video Game Update, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1983",
+        "start": "1983-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b5a61fa1-e7a2-4852-8fce-54657f9711bf",
+      "number": null
+    },
+    {
+      "id": "505ebff3-2b68-4471-a1aa-f39fe5e10c6b",
+      "title": "The Video Game Update, Volume 2, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1983",
+        "start": "1983-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/505ebff3-2b68-4471-a1aa-f39fe5e10c6b",
+      "number": null
+    },
+    {
+      "id": "4f15e4a0-29f7-4f48-b78b-26b0db25a607",
+      "title": "The Video Game Update, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1983",
+        "start": "1983-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4f15e4a0-29f7-4f48-b78b-26b0db25a607",
+      "number": null
+    },
+    {
+      "id": "10c61ddf-c654-4d98-8ddf-a0e47afd7933",
+      "title": "The Video Game Update, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1983",
+        "start": "1983-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/10c61ddf-c654-4d98-8ddf-a0e47afd7933",
+      "number": null
+    },
+    {
+      "id": "d106b023-bc44-4b0f-bd50-24264c8b010a",
+      "title": "The Video Game Update, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1983",
+        "start": "1983-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d106b023-bc44-4b0f-bd50-24264c8b010a",
+      "number": null
+    },
+    {
+      "id": "cb369928-f924-4272-8c95-6efbe447d008",
+      "title": "The Video Game Update, Volume 2, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1983",
+        "start": "1983-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cb369928-f924-4272-8c95-6efbe447d008",
+      "number": null
+    },
+    {
+      "id": "986f042e-b8fd-4c7a-94fd-d86c3065e39c",
+      "title": "The Video Game Update, Volume 2, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1983",
+        "start": "1983-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/986f042e-b8fd-4c7a-94fd-d86c3065e39c",
+      "number": null
+    },
+    {
+      "id": "1010e54e-fbe1-47aa-aca5-f043cf2153a4",
+      "title": "The Video Game Update, Volume 2, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1983",
+        "start": "1983-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1010e54e-fbe1-47aa-aca5-f043cf2153a4",
+      "number": null
+    },
+    {
+      "id": "37e4659e-11c3-45c9-821e-350cd45303ed",
+      "title": "The Video Game Update, Volume 2, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1984",
+        "start": "1984-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/37e4659e-11c3-45c9-821e-350cd45303ed",
+      "number": null
+    },
+    {
+      "id": "16d5f176-05e9-4f4c-9f76-9244f408ae6c",
+      "title": "The Video Game Update, Volume 2, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1984",
+        "start": "1984-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/16d5f176-05e9-4f4c-9f76-9244f408ae6c",
+      "number": null
+    },
+    {
+      "id": "37fe5432-d267-4327-ac84-98af0982eaf0",
+      "title": "The Video Game Update, Volume 2, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1984",
+        "start": "1984-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/37fe5432-d267-4327-ac84-98af0982eaf0",
+      "number": null
+    },
+    {
+      "id": "211bc931-fffd-4e97-82f3-f53e91578abe",
+      "title": "Computer Entertainer, Volume 3, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1984",
+        "start": "1984-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/211bc931-fffd-4e97-82f3-f53e91578abe",
+      "number": null
+    },
+    {
+      "id": "f316eb98-2116-4984-9360-1263e60e0acd",
+      "title": "Computer Entertainer, Volume 3, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1984",
+        "start": "1984-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f316eb98-2116-4984-9360-1263e60e0acd",
+      "number": null
+    },
+    {
+      "id": "96fe1307-c954-45e5-b954-282ff105571c",
+      "title": "Computer Entertainer, Volume 3, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1984",
+        "start": "1984-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/96fe1307-c954-45e5-b954-282ff105571c",
+      "number": null
+    },
+    {
+      "id": "581cc17e-add7-4949-b38f-313fda7936b8",
+      "title": "Computer Entertainer, Volume 3, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1984",
+        "start": "1984-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/581cc17e-add7-4949-b38f-313fda7936b8",
+      "number": null
+    },
+    {
+      "id": "6c8014da-ebb0-437d-a794-baf52becb3c2",
+      "title": "Computer Entertainer, Volume 3, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1984",
+        "start": "1984-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c8014da-ebb0-437d-a794-baf52becb3c2",
+      "number": null
+    },
+    {
+      "id": "b761a092-ca67-4d66-b3a1-77ccaf5001c3",
+      "title": "Computer Entertainer, Volume 3, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1984",
+        "start": "1984-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b761a092-ca67-4d66-b3a1-77ccaf5001c3",
+      "number": null
+    },
+    {
+      "id": "ffff81af-5235-4a9b-a121-4c400cea765d",
+      "title": "Computer Entertainer, Volume 3, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1984",
+        "start": "1984-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ffff81af-5235-4a9b-a121-4c400cea765d",
+      "number": null
+    },
+    {
+      "id": "72c4f6f7-56c1-476a-9000-7ba5007e2882",
+      "title": "Computer Entertainer, Volume 3, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1984",
+        "start": "1984-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72c4f6f7-56c1-476a-9000-7ba5007e2882",
+      "number": null
+    },
+    {
+      "id": "f0503916-a3d8-421a-9f97-d4cc50dfdce8",
+      "title": "Computer Entertainer, Volume 3, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1984",
+        "start": "1984-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f0503916-a3d8-421a-9f97-d4cc50dfdce8",
+      "number": null
+    },
+    {
+      "id": "613de5d8-64f3-4f94-850d-dfd543e84633",
+      "title": "Computer Entertainer, Volume 3, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1985",
+        "start": "1985-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/613de5d8-64f3-4f94-850d-dfd543e84633",
+      "number": null
+    },
+    {
+      "id": "4cc67eab-e26a-4820-981b-95e4abe36dd3",
+      "title": "Computer Entertainer, Volume 3, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1985",
+        "start": "1985-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4cc67eab-e26a-4820-981b-95e4abe36dd3",
+      "number": null
+    },
+    {
+      "id": "88a4d050-c23d-4ada-a596-8316ced8a491",
+      "title": "Computer Entertainer, Volume 3, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1985",
+        "start": "1985-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/88a4d050-c23d-4ada-a596-8316ced8a491",
+      "number": null
+    },
+    {
+      "id": "08f0b13f-9113-476a-a410-808d8aad6340",
+      "title": "Computer Entertainer, Volume 4, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1985",
+        "start": "1985-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/08f0b13f-9113-476a-a410-808d8aad6340",
+      "number": null
+    },
+    {
+      "id": "dbd05fe8-baa7-434e-93e7-e7e8ba39e413",
+      "title": "Computer Entertainer, Volume 4, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1985",
+        "start": "1985-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dbd05fe8-baa7-434e-93e7-e7e8ba39e413",
+      "number": null
+    },
+    {
+      "id": "a07b6c2a-ed1d-4ee1-aa5e-6e9aba4952bb",
+      "title": "Computer Entertainer, Volume 4, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1985",
+        "start": "1985-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a07b6c2a-ed1d-4ee1-aa5e-6e9aba4952bb",
+      "number": null
+    },
+    {
+      "id": "37cd2340-f586-454a-aef8-1ad8bbd4a82a",
+      "title": "Computer Entertainer, Volume 4, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1985",
+        "start": "1985-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/37cd2340-f586-454a-aef8-1ad8bbd4a82a",
+      "number": null
+    },
+    {
+      "id": "2f5acbd3-ed96-486b-b435-f3db3c0a2f01",
+      "title": "Computer Entertainer, Volume 4, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1985",
+        "start": "1985-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2f5acbd3-ed96-486b-b435-f3db3c0a2f01",
+      "number": null
+    },
+    {
+      "id": "aabb6b73-98c7-4f88-8ff2-689c1b009e15",
+      "title": "Computer Entertainer, Volume 4, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1985",
+        "start": "1985-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aabb6b73-98c7-4f88-8ff2-689c1b009e15",
+      "number": null
+    },
+    {
+      "id": "7d80c16e-b9a7-4ef9-864b-383c0ab06877",
+      "title": "Computer Entertainer, Volume 4, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1985",
+        "start": "1985-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d80c16e-b9a7-4ef9-864b-383c0ab06877",
+      "number": null
+    },
+    {
+      "id": "91a55ecb-ae99-41a4-a193-04b60c7f2857",
+      "title": "Computer Entertainer, Volume 4, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1985",
+        "start": "1985-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/91a55ecb-ae99-41a4-a193-04b60c7f2857",
+      "number": null
+    },
+    {
+      "id": "e68d8507-f84e-4ead-8ed5-edef7e18568a",
+      "title": "Computer Entertainer, Volume 4, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1985",
+        "start": "1985-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e68d8507-f84e-4ead-8ed5-edef7e18568a",
+      "number": null
+    },
+    {
+      "id": "07a5c316-474a-4ad6-b9f7-7f0f78b5d9f5",
+      "title": "Computer Entertainer, Volume 4, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1986",
+        "start": "1986-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07a5c316-474a-4ad6-b9f7-7f0f78b5d9f5",
+      "number": null
+    },
+    {
+      "id": "8d4ed6a6-ad4a-4f2a-a959-9378e8b4d172",
+      "title": "Computer Entertainer, Volume 4, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1986",
+        "start": "1986-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8d4ed6a6-ad4a-4f2a-a959-9378e8b4d172",
+      "number": null
+    },
+    {
+      "id": "9403f618-5e78-4051-a123-c6f530611906",
+      "title": "Computer Entertainer, Volume 4, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1986",
+        "start": "1986-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9403f618-5e78-4051-a123-c6f530611906",
+      "number": null
+    },
+    {
+      "id": "13d0d452-d898-4900-9c97-6c2441c43943",
+      "title": "Computer Entertainer, Volume 5, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1986",
+        "start": "1986-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/13d0d452-d898-4900-9c97-6c2441c43943",
+      "number": null
+    },
+    {
+      "id": "e6181b5d-f17d-4ef0-876b-270dfbc94cfb",
+      "title": "Computer Entertainer, Volume 5, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1986",
+        "start": "1986-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e6181b5d-f17d-4ef0-876b-270dfbc94cfb",
+      "number": null
+    },
+    {
+      "id": "d4e32107-2d52-4d81-88e8-f141f8e5a3c1",
+      "title": "Computer Entertainer, Volume 5, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1986",
+        "start": "1986-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d4e32107-2d52-4d81-88e8-f141f8e5a3c1",
+      "number": null
+    },
+    {
+      "id": "3501e5e8-db2c-4d87-af66-e5b3dbcd5dd4",
+      "title": "Computer Entertainer, Volume 5, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1986",
+        "start": "1986-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3501e5e8-db2c-4d87-af66-e5b3dbcd5dd4",
+      "number": null
+    },
+    {
+      "id": "77c4214a-d40f-4697-b5ef-0366b03963c9",
+      "title": "Computer Entertainer, Volume 5, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1986",
+        "start": "1986-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77c4214a-d40f-4697-b5ef-0366b03963c9",
+      "number": null
+    },
+    {
+      "id": "cd8f4048-393d-43c9-9b07-27ce82778f03",
+      "title": "Computer Entertainer, Volume 5, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1986",
+        "start": "1986-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cd8f4048-393d-43c9-9b07-27ce82778f03",
+      "number": null
+    },
+    {
+      "id": "ed58a5c7-0521-4d9e-8bf2-222ddaa7ecec",
+      "title": "Computer Entertainer, Volume 5, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1986",
+        "start": "1986-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ed58a5c7-0521-4d9e-8bf2-222ddaa7ecec",
+      "number": null
+    },
+    {
+      "id": "ccd5b85b-947c-4f46-8cc6-617b04b1a1dc",
+      "title": "Computer Entertainer, Volume 5, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1986",
+        "start": "1986-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ccd5b85b-947c-4f46-8cc6-617b04b1a1dc",
+      "number": null
+    },
+    {
+      "id": "0ff414b0-9fe1-4d28-b14f-f3971bfeec3b",
+      "title": "Computer Entertainer, Volume 5, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1986",
+        "start": "1986-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ff414b0-9fe1-4d28-b14f-f3971bfeec3b",
+      "number": null
+    },
+    {
+      "id": "f324dbcc-69e7-48e8-b4b5-7f61c51cfc52",
+      "title": "Computer Entertainer, Volume 5, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1987",
+        "start": "1987-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f324dbcc-69e7-48e8-b4b5-7f61c51cfc52",
+      "number": null
+    },
+    {
+      "id": "7f8d19fd-3fc0-4187-9aaf-d7e46224c7ef",
+      "title": "Computer Entertainer, Volume 5, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1987",
+        "start": "1987-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7f8d19fd-3fc0-4187-9aaf-d7e46224c7ef",
+      "number": null
+    },
+    {
+      "id": "dd9a69ff-3484-42e7-a34d-f28f45338279",
+      "title": "Computer Entertainer, Special Fifth Birthday Edition",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1987",
+        "start": "1987-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/dd9a69ff-3484-42e7-a34d-f28f45338279",
+      "number": null,
+      "parent_id": "91c76f18-ef61-49a0-bd10-e6a6fa49d262"
+    },
+    {
+      "id": "2d528d85-9f3a-4c01-88eb-18fee7cf4843",
+      "title": "Computer Entertainer, Volume 5, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1987",
+        "start": "1987-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d528d85-9f3a-4c01-88eb-18fee7cf4843",
+      "number": null
+    },
+    {
+      "id": "0ce483bb-baa9-4808-8d59-dd002e51248a",
+      "title": "Computer Entertainer, Volume 6, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1987",
+        "start": "1987-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ce483bb-baa9-4808-8d59-dd002e51248a",
+      "number": null
+    },
+    {
+      "id": "4947fd2d-2c68-4e0c-81fa-47282a33eaff",
+      "title": "Computer Entertainer, Volume 6, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1987",
+        "start": "1987-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4947fd2d-2c68-4e0c-81fa-47282a33eaff",
+      "number": null
+    },
+    {
+      "id": "223b8697-9fc7-471f-8603-20725c45c99a",
+      "title": "Computer Entertainer, Volume 6, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1987",
+        "start": "1987-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/223b8697-9fc7-471f-8603-20725c45c99a",
+      "number": null
+    },
+    {
+      "id": "aa71bdc4-c1ec-4afe-a687-90b4fb47445f",
+      "title": "Computer Entertainer, Volume 6, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1987",
+        "start": "1987-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa71bdc4-c1ec-4afe-a687-90b4fb47445f",
+      "number": null
+    },
+    {
+      "id": "502ba7b2-7790-48df-a2c2-9229d07514e6",
+      "title": "Computer Entertainer, Volume 6, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1987",
+        "start": "1987-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/502ba7b2-7790-48df-a2c2-9229d07514e6",
+      "number": null
+    },
+    {
+      "id": "677e52dc-e087-4b93-84f7-ab2672c49028",
+      "title": "Computer Entertainer, Volume 6, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1987",
+        "start": "1987-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/677e52dc-e087-4b93-84f7-ab2672c49028",
+      "number": null
+    },
+    {
+      "id": "1a385f6c-def7-41df-ad55-3fcc762e827d",
+      "title": "Computer Entertainer, Volume 6, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1987",
+        "start": "1987-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1a385f6c-def7-41df-ad55-3fcc762e827d",
+      "number": null
+    },
+    {
+      "id": "a2f4762f-ed48-4e52-8a89-4e188cbc5409",
+      "title": "Computer Entertainer, Volume 6, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1987",
+        "start": "1987-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2f4762f-ed48-4e52-8a89-4e188cbc5409",
+      "number": null
+    },
+    {
+      "id": "c9ee54e6-01aa-4f3d-b2e7-14e36677e5f5",
+      "title": "Computer Entertainer, Volume 6, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1987",
+        "start": "1987-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c9ee54e6-01aa-4f3d-b2e7-14e36677e5f5",
+      "number": null
+    },
+    {
+      "id": "b7770df3-1275-40f6-b122-44f99081d53f",
+      "title": "Computer Entertainer, Volume 6, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1988",
+        "start": "1988-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b7770df3-1275-40f6-b122-44f99081d53f",
+      "number": null
+    },
+    {
+      "id": "c09394af-6249-46ab-ac73-256346227e2f",
+      "title": "Computer Entertainer, Volume 6, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1988",
+        "start": "1988-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c09394af-6249-46ab-ac73-256346227e2f",
+      "number": null
+    },
+    {
+      "id": "f16a3947-76bb-4948-87fe-81425a21adcb",
+      "title": "Computer Entertainer, Volume 6, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1988",
+        "start": "1988-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f16a3947-76bb-4948-87fe-81425a21adcb",
+      "number": null
+    },
+    {
+      "id": "e45a949e-7d1a-4cf0-bbd1-a63b79ef58e8",
+      "title": "Computer Entertainer, Volume 7, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1988",
+        "start": "1988-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e45a949e-7d1a-4cf0-bbd1-a63b79ef58e8",
+      "number": null
+    },
+    {
+      "id": "e0d8f9c9-498e-4a18-a2eb-55100012720d",
+      "title": "Computer Entertainer, Volume 7, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1988",
+        "start": "1988-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0d8f9c9-498e-4a18-a2eb-55100012720d",
+      "number": null
+    },
+    {
+      "id": "3f676170-eed0-431e-a38e-469771a23e46",
+      "title": "Computer Entertainer, Volume 7, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1988",
+        "start": "1988-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3f676170-eed0-431e-a38e-469771a23e46",
+      "number": null
+    },
+    {
+      "id": "54fb89b8-2ade-40a3-ba6c-b042a812a66a",
+      "title": "Computer Entertainer, Volume 7, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1988",
+        "start": "1988-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/54fb89b8-2ade-40a3-ba6c-b042a812a66a",
+      "number": null
+    },
+    {
+      "id": "eaaeea02-196a-4c6b-9a83-2c2dab6255a6",
+      "title": "Computer Entertainer, Volume 7, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1988",
+        "start": "1988-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eaaeea02-196a-4c6b-9a83-2c2dab6255a6",
+      "number": null
+    },
+    {
+      "id": "a0358c56-b638-4760-b363-343c0e92f4d9",
+      "title": "Computer Entertainer, Volume 7, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1988",
+        "start": "1988-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0358c56-b638-4760-b363-343c0e92f4d9",
+      "number": null
+    },
+    {
+      "id": "1a743f9c-756c-448e-8483-3e670958a300",
+      "title": "Computer Entertainer, Volume 7, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1988",
+        "start": "1988-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1a743f9c-756c-448e-8483-3e670958a300",
+      "number": null
+    },
+    {
+      "id": "c75c6f2f-c0ef-463a-a1d6-844e63c9bfd9",
+      "title": "Computer Entertainer, Volume 7, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1988",
+        "start": "1988-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c75c6f2f-c0ef-463a-a1d6-844e63c9bfd9",
+      "number": null
+    },
+    {
+      "id": "26b7f98c-9a79-4422-8977-1f364ae529bb",
+      "title": "Computer Entertainer, Volume 7, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1988",
+        "start": "1988-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/26b7f98c-9a79-4422-8977-1f364ae529bb",
+      "number": null
+    },
+    {
+      "id": "aad8c276-4320-4683-b3f5-eb0052fc9175",
+      "title": "Computer Entertainer, Volume 7, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1989",
+        "start": "1989-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aad8c276-4320-4683-b3f5-eb0052fc9175",
+      "number": null
+    },
+    {
+      "id": "4894dc4d-52b2-447b-83c4-91f3ba837f9a",
+      "title": "Computer Entertainer, Volume 7, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1989",
+        "start": "1989-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4894dc4d-52b2-447b-83c4-91f3ba837f9a",
+      "number": null
+    },
+    {
+      "id": "fc8af5ac-7aa1-4ef2-ab75-eb56d48c718e",
+      "title": "Computer Entertainer, Volume 7, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1989",
+        "start": "1989-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fc8af5ac-7aa1-4ef2-ab75-eb56d48c718e",
+      "number": null
+    },
+    {
+      "id": "606ccc35-4412-4615-a8db-1def8c98762a",
+      "title": "Computer Entertainer, Volume 8, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1989",
+        "start": "1989-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/606ccc35-4412-4615-a8db-1def8c98762a",
+      "number": null
+    },
+    {
+      "id": "fb498176-e4dc-48fa-923c-a18d5b48788c",
+      "title": "Computer Entertainer, Volume 8, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1989",
+        "start": "1989-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb498176-e4dc-48fa-923c-a18d5b48788c",
+      "number": null
+    },
+    {
+      "id": "703a07b2-9936-4cd5-b90a-0d077c40970b",
+      "title": "Computer Entertainer, Volume 8, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1989",
+        "start": "1989-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/703a07b2-9936-4cd5-b90a-0d077c40970b",
+      "number": null
+    },
+    {
+      "id": "ff4e632c-0048-4245-b769-eb0b04fd9f41",
+      "title": "Computer Entertainer, Volume 8, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1989",
+        "start": "1989-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ff4e632c-0048-4245-b769-eb0b04fd9f41",
+      "number": null
+    },
+    {
+      "id": "f7bfc08b-0206-481f-82b5-05d50a7140e5",
+      "title": "Computer Entertainer, Volume 8, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1989",
+        "start": "1989-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f7bfc08b-0206-481f-82b5-05d50a7140e5",
+      "number": null
+    },
+    {
+      "id": "12ad9feb-28e7-4caa-bb8c-deccdb32f6fd",
+      "title": "Computer Entertainer, Volume 8, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1989",
+        "start": "1989-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/12ad9feb-28e7-4caa-bb8c-deccdb32f6fd",
+      "number": null
+    },
+    {
+      "id": "6b755cf7-58b4-4bfe-bdde-7ba0eccc7ae9",
+      "title": "Computer Entertainer, Volume 8, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1989",
+        "start": "1989-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b755cf7-58b4-4bfe-bdde-7ba0eccc7ae9",
+      "number": null
+    },
+    {
+      "id": "e00b5a6b-4612-4950-9e9c-44ff2576f94b",
+      "title": "Computer Entertainer, Volume 8, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1989",
+        "start": "1989-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e00b5a6b-4612-4950-9e9c-44ff2576f94b",
+      "number": null
+    },
+    {
+      "id": "2b0f3849-6358-4d5e-930b-77877546a547",
+      "title": "Computer Entertainer, Volume 8, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1989",
+        "start": "1989-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2b0f3849-6358-4d5e-930b-77877546a547",
+      "number": null
+    },
+    {
+      "id": "cff99160-03fe-4527-80d8-2cd40ae1a436",
+      "title": "Computer Entertainer, Volume 8, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1990",
+        "start": "1990-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cff99160-03fe-4527-80d8-2cd40ae1a436",
+      "number": null
+    },
+    {
+      "id": "ddedefce-ca07-490b-b66c-05400fa5322c",
+      "title": "Computer Entertainer, Volume 8, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1990",
+        "start": "1990-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ddedefce-ca07-490b-b66c-05400fa5322c",
+      "number": null
+    },
+    {
+      "id": "9175790f-7ac7-4c23-977f-faa7efae3b81",
+      "title": "Computer Entertainer, Volume 8, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1990",
+        "start": "1990-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9175790f-7ac7-4c23-977f-faa7efae3b81",
+      "number": null
+    },
+    {
+      "id": "17157094-bc0c-45b7-8447-d4e398ee6a1c",
+      "title": "Computer Entertainer, Volume 9, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1990",
+        "start": "1990-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/17157094-bc0c-45b7-8447-d4e398ee6a1c",
+      "number": null
+    },
+    {
+      "id": "c8542bc3-42c3-46d5-aa4e-74b294bbcfc6",
+      "title": "Computer Entertainer, Volume 9, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1990",
+        "start": "1990-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c8542bc3-42c3-46d5-aa4e-74b294bbcfc6",
+      "number": null
+    },
+    {
+      "id": "9a3697b8-7d6a-4b5b-930d-de71424b73ce",
+      "title": "Computer Entertainer, Volume 9, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1990",
+        "start": "1990-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a3697b8-7d6a-4b5b-930d-de71424b73ce",
+      "number": null
+    },
+    {
+      "id": "3783dc2d-0ea2-40f6-a9da-04743a333c10",
+      "title": "Computer Entertainer, Volume 9, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1990",
+        "start": "1990-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3783dc2d-0ea2-40f6-a9da-04743a333c10",
+      "number": null
+    },
+    {
+      "id": "91c76f18-ef61-49a0-bd10-e6a6fa49d262",
+      "title": "Computer Entertainer special issues",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/91c76f18-ef61-49a0-bd10-e6a6fa49d262",
+      "number": null
+    },
+    {
+      "id": "60718bb1-02a7-483d-af1b-732fffd4f53d",
+      "title": "Computer Entertainer, Master Index and Awards, 1982–1988",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "published February 1989"
+      },
+      "url": "https://archive.gamehistory.org/item/60718bb1-02a7-483d-af1b-732fffd4f53d",
+      "number": null,
+      "parent_id": "91c76f18-ef61-49a0-bd10-e6a6fa49d262"
+    },
+    {
+      "id": "3945176d-1fa1-429a-b8cc-90d3f86d75e5",
+      "title": "Video Take-Out newsletter, Volume 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "circa early 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/3945176d-1fa1-429a-b8cc-90d3f86d75e5",
+      "number": null
+    },
+    {
+      "id": "75ae0f3f-b551-4d07-a552-c5c3907448b0",
+      "title": "Video Take-Out newsletter, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "circa early 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/75ae0f3f-b551-4d07-a552-c5c3907448b0",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Video Take-Out newsletter, Volume 1, Number 3": "69847e1c-e57b-4669-b693-817d468c16a7",
+    "The Video Game Update, Volume 1, Number 4": "f2b85b5b-6a2a-4d16-a5bf-a7fed65f68c7",
+    "The Video Game Update, Volume 1, Number 5": "2ce6d34e-f732-4e40-a985-f058ec86db28",
+    "The Video Game Update, Volume 1, Number 6": "f6490686-9efa-4c88-b01e-ebe2b7078839",
+    "The Video Game Update, Volume 1, Number 7": "eea6c98e-3705-4c0e-9e54-defc4386930e",
+    "The Video Game Update, Volume 1, Number 8": "5f096ac9-01b4-470c-9fde-c4697f610307",
+    "The Video Game Update, Volume 1, Number 9": "0ca691e4-43c0-410c-87a5-3c28a22455ff",
+    "The Video Game Update, Volume 1, Number 10": "43d492b2-6526-4dfc-88fa-f11e24824455",
+    "The Video Game Update, Volume 1, Number 11": "bdea2ede-676f-4319-8fdc-8d9602e3ee7a",
+    "The Video Game Update, Volume 1, Number 12": "d198fa23-3a38-428a-9b02-f402c7fc4baf",
+    "The Video Game Update, Volume 2, Number 1": "0dccd3dd-1a17-4e55-8920-b64b17f1876c",
+    "The Video Game Update, Volume 2, Number 2": "b5a61fa1-e7a2-4852-8fce-54657f9711bf",
+    "The Video Game Update, Volume 2, Number 3": "505ebff3-2b68-4471-a1aa-f39fe5e10c6b",
+    "The Video Game Update, Volume 2, Number 4": "4f15e4a0-29f7-4f48-b78b-26b0db25a607",
+    "The Video Game Update, Volume 2, Number 5": "10c61ddf-c654-4d98-8ddf-a0e47afd7933",
+    "The Video Game Update, Volume 2, Number 6": "d106b023-bc44-4b0f-bd50-24264c8b010a",
+    "The Video Game Update, Volume 2, Number 7": "cb369928-f924-4272-8c95-6efbe447d008",
+    "The Video Game Update, Volume 2, Number 8": "986f042e-b8fd-4c7a-94fd-d86c3065e39c",
+    "The Video Game Update, Volume 2, Number 9": "1010e54e-fbe1-47aa-aca5-f043cf2153a4",
+    "The Video Game Update, Volume 2, Number 10": "37e4659e-11c3-45c9-821e-350cd45303ed",
+    "The Video Game Update, Volume 2, Number 11": "16d5f176-05e9-4f4c-9f76-9244f408ae6c",
+    "The Video Game Update, Volume 2, Number 12": "37fe5432-d267-4327-ac84-98af0982eaf0",
+    "Computer Entertainer, Volume 3, Number 1": "211bc931-fffd-4e97-82f3-f53e91578abe",
+    "Computer Entertainer, Volume 3, Number 2": "f316eb98-2116-4984-9360-1263e60e0acd",
+    "Computer Entertainer, Volume 3, Number 3": "96fe1307-c954-45e5-b954-282ff105571c",
+    "Computer Entertainer, Volume 3, Number 4": "581cc17e-add7-4949-b38f-313fda7936b8",
+    "Computer Entertainer, Volume 3, Number 5": "6c8014da-ebb0-437d-a794-baf52becb3c2",
+    "Computer Entertainer, Volume 3, Number 6": "b761a092-ca67-4d66-b3a1-77ccaf5001c3",
+    "Computer Entertainer, Volume 3, Number 7": "ffff81af-5235-4a9b-a121-4c400cea765d",
+    "Computer Entertainer, Volume 3, Number 8": "72c4f6f7-56c1-476a-9000-7ba5007e2882",
+    "Computer Entertainer, Volume 3, Number 9": "f0503916-a3d8-421a-9f97-d4cc50dfdce8",
+    "Computer Entertainer, Volume 3, Number 10": "613de5d8-64f3-4f94-850d-dfd543e84633",
+    "Computer Entertainer, Volume 3, Number 11": "4cc67eab-e26a-4820-981b-95e4abe36dd3",
+    "Computer Entertainer, Volume 3, Number 12": "88a4d050-c23d-4ada-a596-8316ced8a491",
+    "Computer Entertainer, Volume 4, Number 1": "08f0b13f-9113-476a-a410-808d8aad6340",
+    "Computer Entertainer, Volume 4, Number 2": "dbd05fe8-baa7-434e-93e7-e7e8ba39e413",
+    "Computer Entertainer, Volume 4, Number 3": "a07b6c2a-ed1d-4ee1-aa5e-6e9aba4952bb",
+    "Computer Entertainer, Volume 4, Number 4": "37cd2340-f586-454a-aef8-1ad8bbd4a82a",
+    "Computer Entertainer, Volume 4, Number 5": "2f5acbd3-ed96-486b-b435-f3db3c0a2f01",
+    "Computer Entertainer, Volume 4, Number 6": "aabb6b73-98c7-4f88-8ff2-689c1b009e15",
+    "Computer Entertainer, Volume 4, Number 7": "7d80c16e-b9a7-4ef9-864b-383c0ab06877",
+    "Computer Entertainer, Volume 4, Number 8": "91a55ecb-ae99-41a4-a193-04b60c7f2857",
+    "Computer Entertainer, Volume 4, Number 9": "e68d8507-f84e-4ead-8ed5-edef7e18568a",
+    "Computer Entertainer, Volume 4, Number 10": "07a5c316-474a-4ad6-b9f7-7f0f78b5d9f5",
+    "Computer Entertainer, Volume 4, Number 11": "8d4ed6a6-ad4a-4f2a-a959-9378e8b4d172",
+    "Computer Entertainer, Volume 4, Number 12": "9403f618-5e78-4051-a123-c6f530611906",
+    "Computer Entertainer, Volume 5, Number 1": "13d0d452-d898-4900-9c97-6c2441c43943",
+    "Computer Entertainer, Volume 5, Number 2": "e6181b5d-f17d-4ef0-876b-270dfbc94cfb",
+    "Computer Entertainer, Volume 5, Number 3": "d4e32107-2d52-4d81-88e8-f141f8e5a3c1",
+    "Computer Entertainer, Volume 5, Number 4": "3501e5e8-db2c-4d87-af66-e5b3dbcd5dd4",
+    "Computer Entertainer, Volume 5, Number 5": "77c4214a-d40f-4697-b5ef-0366b03963c9",
+    "Computer Entertainer, Volume 5, Number 6": "cd8f4048-393d-43c9-9b07-27ce82778f03",
+    "Computer Entertainer, Volume 5, Number 7": "ed58a5c7-0521-4d9e-8bf2-222ddaa7ecec",
+    "Computer Entertainer, Volume 5, Number 8": "ccd5b85b-947c-4f46-8cc6-617b04b1a1dc",
+    "Computer Entertainer, Volume 5, Number 9": "0ff414b0-9fe1-4d28-b14f-f3971bfeec3b",
+    "Computer Entertainer, Volume 5, Number 10": "f324dbcc-69e7-48e8-b4b5-7f61c51cfc52",
+    "Computer Entertainer, Volume 5, Number 11": "7f8d19fd-3fc0-4187-9aaf-d7e46224c7ef",
+    "Computer Entertainer, Special Fifth Birthday Edition": "dd9a69ff-3484-42e7-a34d-f28f45338279",
+    "Computer Entertainer, Volume 5, Number 12": "2d528d85-9f3a-4c01-88eb-18fee7cf4843",
+    "Computer Entertainer, Volume 6, Number 1": "0ce483bb-baa9-4808-8d59-dd002e51248a",
+    "Computer Entertainer, Volume 6, Number 2": "4947fd2d-2c68-4e0c-81fa-47282a33eaff",
+    "Computer Entertainer, Volume 6, Number 3": "223b8697-9fc7-471f-8603-20725c45c99a",
+    "Computer Entertainer, Volume 6, Number 4": "aa71bdc4-c1ec-4afe-a687-90b4fb47445f",
+    "Computer Entertainer, Volume 6, Number 5": "502ba7b2-7790-48df-a2c2-9229d07514e6",
+    "Computer Entertainer, Volume 6, Number 6": "677e52dc-e087-4b93-84f7-ab2672c49028",
+    "Computer Entertainer, Volume 6, Number 7": "1a385f6c-def7-41df-ad55-3fcc762e827d",
+    "Computer Entertainer, Volume 6, Number 8": "a2f4762f-ed48-4e52-8a89-4e188cbc5409",
+    "Computer Entertainer, Volume 6, Number 9": "c9ee54e6-01aa-4f3d-b2e7-14e36677e5f5",
+    "Computer Entertainer, Volume 6, Number 10": "b7770df3-1275-40f6-b122-44f99081d53f",
+    "Computer Entertainer, Volume 6, Number 11": "c09394af-6249-46ab-ac73-256346227e2f",
+    "Computer Entertainer, Volume 6, Number 12": "f16a3947-76bb-4948-87fe-81425a21adcb",
+    "Computer Entertainer, Volume 7, Number 1": "e45a949e-7d1a-4cf0-bbd1-a63b79ef58e8",
+    "Computer Entertainer, Volume 7, Number 2": "e0d8f9c9-498e-4a18-a2eb-55100012720d",
+    "Computer Entertainer, Volume 7, Number 3": "3f676170-eed0-431e-a38e-469771a23e46",
+    "Computer Entertainer, Volume 7, Number 4": "54fb89b8-2ade-40a3-ba6c-b042a812a66a",
+    "Computer Entertainer, Volume 7, Number 5": "eaaeea02-196a-4c6b-9a83-2c2dab6255a6",
+    "Computer Entertainer, Volume 7, Number 6": "a0358c56-b638-4760-b363-343c0e92f4d9",
+    "Computer Entertainer, Volume 7, Number 7": "1a743f9c-756c-448e-8483-3e670958a300",
+    "Computer Entertainer, Volume 7, Number 8": "c75c6f2f-c0ef-463a-a1d6-844e63c9bfd9",
+    "Computer Entertainer, Volume 7, Number 9": "26b7f98c-9a79-4422-8977-1f364ae529bb",
+    "Computer Entertainer, Volume 7, Number 10": "aad8c276-4320-4683-b3f5-eb0052fc9175",
+    "Computer Entertainer, Volume 7, Number 11": "4894dc4d-52b2-447b-83c4-91f3ba837f9a",
+    "Computer Entertainer, Volume 7, Number 12": "fc8af5ac-7aa1-4ef2-ab75-eb56d48c718e",
+    "Computer Entertainer, Volume 8, Number 1": "606ccc35-4412-4615-a8db-1def8c98762a",
+    "Computer Entertainer, Volume 8, Number 2": "fb498176-e4dc-48fa-923c-a18d5b48788c",
+    "Computer Entertainer, Volume 8, Number 3": "703a07b2-9936-4cd5-b90a-0d077c40970b",
+    "Computer Entertainer, Volume 8, Number 4": "ff4e632c-0048-4245-b769-eb0b04fd9f41",
+    "Computer Entertainer, Volume 8, Number 5": "f7bfc08b-0206-481f-82b5-05d50a7140e5",
+    "Computer Entertainer, Volume 8, Number 6": "12ad9feb-28e7-4caa-bb8c-deccdb32f6fd",
+    "Computer Entertainer, Volume 8, Number 7": "6b755cf7-58b4-4bfe-bdde-7ba0eccc7ae9",
+    "Computer Entertainer, Volume 8, Number 8": "e00b5a6b-4612-4950-9e9c-44ff2576f94b",
+    "Computer Entertainer, Volume 8, Number 9": "2b0f3849-6358-4d5e-930b-77877546a547",
+    "Computer Entertainer, Volume 8, Number 10": "cff99160-03fe-4527-80d8-2cd40ae1a436",
+    "Computer Entertainer, Volume 8, Number 11": "ddedefce-ca07-490b-b66c-05400fa5322c",
+    "Computer Entertainer, Volume 8, Number 12": "9175790f-7ac7-4c23-977f-faa7efae3b81",
+    "Computer Entertainer, Volume 9, Number 1": "17157094-bc0c-45b7-8447-d4e398ee6a1c",
+    "Computer Entertainer, Volume 9, Number 2": "c8542bc3-42c3-46d5-aa4e-74b294bbcfc6",
+    "Computer Entertainer, Volume 9, Number 3": "9a3697b8-7d6a-4b5b-930d-de71424b73ce",
+    "Computer Entertainer, Volume 9, Number 4": "3783dc2d-0ea2-40f6-a9da-04743a333c10",
+    "Computer Entertainer special issues": "91c76f18-ef61-49a0-bd10-e6a6fa49d262",
+    "Computer Entertainer, Master Index and Awards, 1982–1988": "60718bb1-02a7-483d-af1b-732fffd4f53d",
+    "Video Take-Out newsletter, Volume 1, Number 1": "3945176d-1fa1-429a-b8cc-90d3f86d75e5",
+    "Video Take-Out newsletter, Volume 1, Number 2": "75ae0f3f-b551-4d07-a552-c5c3907448b0"
+  }
+}

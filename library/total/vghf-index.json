@@ -1,0 +1,523 @@
+{
+  "provider": "vghf",
+  "folder_id": "3595f2aa-be7c-4cb0-a51e-c24523780a93",
+  "url": "https://archive.gamehistory.org/folder/3595f2aa-be7c-4cb0-a51e-c24523780a93",
+  "retrieved_at": "2026-09-13T23:00:30+00:00",
+  "expected": 30,
+  "count": 30,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "d6823657-7a4a-43ac-8618-feea550d6136",
+      "title": "Total!, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1992",
+        "start": "1992-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d6823657-7a4a-43ac-8618-feea550d6136",
+      "number": "1"
+    },
+    {
+      "id": "f4261c6f-e7e6-404e-8dac-bec383e7189f",
+      "title": "Total!, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1992",
+        "start": "1992-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f4261c6f-e7e6-404e-8dac-bec383e7189f",
+      "number": "2"
+    },
+    {
+      "id": "93d177ee-ef60-41c8-b146-231cdeca2f2a",
+      "title": "Total!, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1992",
+        "start": "1992-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93d177ee-ef60-41c8-b146-231cdeca2f2a",
+      "number": "3"
+    },
+    {
+      "id": "ab038e38-e823-4d59-8933-7649dabf07c8",
+      "title": "Total!, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1992",
+        "start": "1992-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab038e38-e823-4d59-8933-7649dabf07c8",
+      "number": "4"
+    },
+    {
+      "id": "23838de8-1f28-4285-ac09-130fbf9c05e2",
+      "title": "Total!, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1992",
+        "start": "1992-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/23838de8-1f28-4285-ac09-130fbf9c05e2",
+      "number": "5"
+    },
+    {
+      "id": "eeeb2aeb-59d4-48c0-b192-3f040133c4ec",
+      "title": "Total!, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1992",
+        "start": "1992-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eeeb2aeb-59d4-48c0-b192-3f040133c4ec",
+      "number": "7"
+    },
+    {
+      "id": "4b607006-8d60-465c-84e9-83590b0662a7",
+      "title": "Total!, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1992",
+        "start": "1992-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4b607006-8d60-465c-84e9-83590b0662a7",
+      "number": "11"
+    },
+    {
+      "id": "806431f5-e392-4415-8c1d-6214b4de0971",
+      "title": "Total!, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1992",
+        "start": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/806431f5-e392-4415-8c1d-6214b4de0971",
+      "number": "12"
+    },
+    {
+      "id": "b45a597a-0c4b-4e0d-ab77-3fd96fe33807",
+      "title": "Total!, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b45a597a-0c4b-4e0d-ab77-3fd96fe33807",
+      "number": "13"
+    },
+    {
+      "id": "05715170-72ef-4983-a7a0-52b95f9bd6cb",
+      "title": "Total!, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1993",
+        "start": "1993-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/05715170-72ef-4983-a7a0-52b95f9bd6cb",
+      "number": "14"
+    },
+    {
+      "id": "cc68785d-185f-4bdc-b2f8-a42438c23411",
+      "title": "Total!, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1993",
+        "start": "1993-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc68785d-185f-4bdc-b2f8-a42438c23411",
+      "number": "15"
+    },
+    {
+      "id": "ba8fcdb1-9385-4db3-a900-b65de2bf68c7",
+      "title": "Total!, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1993",
+        "start": "1993-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ba8fcdb1-9385-4db3-a900-b65de2bf68c7",
+      "number": "16"
+    },
+    {
+      "id": "e622777a-d62e-40dd-b75b-5fb8355cb003",
+      "title": "Total!, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1993",
+        "start": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e622777a-d62e-40dd-b75b-5fb8355cb003",
+      "number": "17"
+    },
+    {
+      "id": "9c869c7a-daad-45cf-b8eb-88f7e5020e9d",
+      "title": "Total!, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1993",
+        "start": "1993-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9c869c7a-daad-45cf-b8eb-88f7e5020e9d",
+      "number": "18"
+    },
+    {
+      "id": "33a0ddc1-c4ff-4898-9cc5-f5a364806bff",
+      "title": "Total!, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1993",
+        "start": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/33a0ddc1-c4ff-4898-9cc5-f5a364806bff",
+      "number": "19"
+    },
+    {
+      "id": "8243a22a-aec8-41cc-962c-7b67562c64fb",
+      "title": "Total!, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1993",
+        "start": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8243a22a-aec8-41cc-962c-7b67562c64fb",
+      "number": "20"
+    },
+    {
+      "id": "7de40699-248c-4b2b-8ebd-678efebcfff9",
+      "title": "Total!, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1993",
+        "start": "1993-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7de40699-248c-4b2b-8ebd-678efebcfff9",
+      "number": "21"
+    },
+    {
+      "id": "c0ec3c0b-f4b3-4c20-a5b3-42cb2e2edddd",
+      "title": "Total!, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1993",
+        "start": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0ec3c0b-f4b3-4c20-a5b3-42cb2e2edddd",
+      "number": "22"
+    },
+    {
+      "id": "07afac96-c5ba-4185-9951-c8bba748dbd5",
+      "title": "Total!, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1993",
+        "start": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07afac96-c5ba-4185-9951-c8bba748dbd5",
+      "number": "23"
+    },
+    {
+      "id": "f2ecc635-9c84-4381-b0ea-3b73189a9b94",
+      "title": "Total!, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f2ecc635-9c84-4381-b0ea-3b73189a9b94",
+      "number": "25"
+    },
+    {
+      "id": "8dec833f-851f-43de-94df-10e0577b20ab",
+      "title": "Total!, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1994",
+        "start": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8dec833f-851f-43de-94df-10e0577b20ab",
+      "number": "26"
+    },
+    {
+      "id": "37c81afd-6456-4e5d-90be-65de9bab9e3a",
+      "title": "Total!, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/37c81afd-6456-4e5d-90be-65de9bab9e3a",
+      "number": "27"
+    },
+    {
+      "id": "9784ed39-ab0b-467e-87a0-214af5da15a4",
+      "title": "Total!, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9784ed39-ab0b-467e-87a0-214af5da15a4",
+      "number": "28"
+    },
+    {
+      "id": "24c8bc15-a865-4e20-b8d8-910ffdbca3de",
+      "title": "Total!, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24c8bc15-a865-4e20-b8d8-910ffdbca3de",
+      "number": "29"
+    },
+    {
+      "id": "2623bf50-9ea7-40b4-b4d7-7df176eeb8e0",
+      "title": "Total!, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2623bf50-9ea7-40b4-b4d7-7df176eeb8e0",
+      "number": "30"
+    },
+    {
+      "id": "912ef0e6-a4c0-4bf1-9575-f218b52baf9d",
+      "title": "Total!, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/912ef0e6-a4c0-4bf1-9575-f218b52baf9d",
+      "number": "31"
+    },
+    {
+      "id": "0857714b-c209-46eb-9ce2-04416d130a1f",
+      "title": "Total!, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0857714b-c209-46eb-9ce2-04416d130a1f",
+      "number": "32"
+    },
+    {
+      "id": "2f08d1ae-59fd-469b-a4a1-0d90cb1f7326",
+      "title": "Total!, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2f08d1ae-59fd-469b-a4a1-0d90cb1f7326",
+      "number": "33"
+    },
+    {
+      "id": "1fb74932-58df-43df-a1fd-d48327d4229d",
+      "title": "Total!, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1fb74932-58df-43df-a1fd-d48327d4229d",
+      "number": "34"
+    },
+    {
+      "id": "0cf122ef-4347-48d6-8c08-82bfa8af6f14",
+      "title": "Total!, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0cf122ef-4347-48d6-8c08-82bfa8af6f14",
+      "number": "38"
+    }
+  ],
+  "by_title": {
+    "Total!, Issue 1": "d6823657-7a4a-43ac-8618-feea550d6136",
+    "Total!, Issue 2": "f4261c6f-e7e6-404e-8dac-bec383e7189f",
+    "Total!, Issue 3": "93d177ee-ef60-41c8-b146-231cdeca2f2a",
+    "Total!, Issue 4": "ab038e38-e823-4d59-8933-7649dabf07c8",
+    "Total!, Issue 5": "23838de8-1f28-4285-ac09-130fbf9c05e2",
+    "Total!, Issue 7": "eeeb2aeb-59d4-48c0-b192-3f040133c4ec",
+    "Total!, Issue 11": "4b607006-8d60-465c-84e9-83590b0662a7",
+    "Total!, Issue 12": "806431f5-e392-4415-8c1d-6214b4de0971",
+    "Total!, Issue 13": "b45a597a-0c4b-4e0d-ab77-3fd96fe33807",
+    "Total!, Issue 14": "05715170-72ef-4983-a7a0-52b95f9bd6cb",
+    "Total!, Issue 15": "cc68785d-185f-4bdc-b2f8-a42438c23411",
+    "Total!, Issue 16": "ba8fcdb1-9385-4db3-a900-b65de2bf68c7",
+    "Total!, Issue 17": "e622777a-d62e-40dd-b75b-5fb8355cb003",
+    "Total!, Issue 18": "9c869c7a-daad-45cf-b8eb-88f7e5020e9d",
+    "Total!, Issue 19": "33a0ddc1-c4ff-4898-9cc5-f5a364806bff",
+    "Total!, Issue 20": "8243a22a-aec8-41cc-962c-7b67562c64fb",
+    "Total!, Issue 21": "7de40699-248c-4b2b-8ebd-678efebcfff9",
+    "Total!, Issue 22": "c0ec3c0b-f4b3-4c20-a5b3-42cb2e2edddd",
+    "Total!, Issue 23": "07afac96-c5ba-4185-9951-c8bba748dbd5",
+    "Total!, Issue 25": "f2ecc635-9c84-4381-b0ea-3b73189a9b94",
+    "Total!, Issue 26": "8dec833f-851f-43de-94df-10e0577b20ab",
+    "Total!, Issue 27": "37c81afd-6456-4e5d-90be-65de9bab9e3a",
+    "Total!, Issue 28": "9784ed39-ab0b-467e-87a0-214af5da15a4",
+    "Total!, Issue 29": "24c8bc15-a865-4e20-b8d8-910ffdbca3de",
+    "Total!, Issue 30": "2623bf50-9ea7-40b4-b4d7-7df176eeb8e0",
+    "Total!, Issue 31": "912ef0e6-a4c0-4bf1-9575-f218b52baf9d",
+    "Total!, Issue 32": "0857714b-c209-46eb-9ce2-04416d130a1f",
+    "Total!, Issue 33": "2f08d1ae-59fd-469b-a4a1-0d90cb1f7326",
+    "Total!, Issue 34": "1fb74932-58df-43df-a1fd-d48327d4229d",
+    "Total!, Issue 38": "0cf122ef-4347-48d6-8c08-82bfa8af6f14"
+  }
+}

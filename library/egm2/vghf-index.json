@@ -1,0 +1,2257 @@
+{
+  "provider": "vghf",
+  "folder_id": "0721dbc2-96ec-4ce9-a7a9-abe99dcbc6de",
+  "url": "https://archive.gamehistory.org/folder/0721dbc2-96ec-4ce9-a7a9-abe99dcbc6de",
+  "retrieved_at": "2026-09-13T22:49:35+00:00",
+  "expected": 4,
+  "count": 126,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "0887ca65-b617-4bb1-9341-7505ab3803a1",
+      "title": "EGM2, Volume 1, Number 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0887ca65-b617-4bb1-9341-7505ab3803a1",
+      "number": "1",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "680496f0-afd0-4cfb-a0a2-fbe9db8ef1f3",
+      "title": "GameNOW, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2001",
+        "start": "2001-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/680496f0-afd0-4cfb-a0a2-fbe9db8ef1f3",
+      "number": "1",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "68c20116-4da7-4fa6-9719-519290cc96f5",
+      "title": "EGM2, Volume 1, Number 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/68c20116-4da7-4fa6-9719-519290cc96f5",
+      "number": "2",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "59add17f-df77-4569-8936-8e117d0faa3b",
+      "title": "GameNOW, Volume 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2001",
+        "start": "2001-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/59add17f-df77-4569-8936-8e117d0faa3b",
+      "number": "2",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "be295204-aa0b-4a30-b58e-cd2550b83b2c",
+      "title": "EGM2, Volume 1, Number 3, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/be295204-aa0b-4a30-b58e-cd2550b83b2c",
+      "number": "3",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "17c7081f-2646-4b34-893d-069d02376f26",
+      "title": "GameNOW, Volume 2, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/17c7081f-2646-4b34-893d-069d02376f26",
+      "number": "3",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "9641780e-140e-4e6d-ad2d-317c31366e89",
+      "title": "EGM2, Volume 1, Number 4, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9641780e-140e-4e6d-ad2d-317c31366e89",
+      "number": "4",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "ac4194d5-23d7-46fe-b6e2-0f364600532a",
+      "title": "GameNOW, Volume 2, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2002",
+        "start": "2002-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac4194d5-23d7-46fe-b6e2-0f364600532a",
+      "number": "4",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "2646e22d-4161-4526-b94a-5b404e5596d7",
+      "title": "EGM2, Volume 1, Number 5, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2646e22d-4161-4526-b94a-5b404e5596d7",
+      "number": "5",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "0cf6ef95-0472-41f0-b249-08f9f739eff1",
+      "title": "GameNOW, Volume 2, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2002",
+        "start": "2002-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0cf6ef95-0472-41f0-b249-08f9f739eff1",
+      "number": "5",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "43bee56e-e0db-42dc-8a50-751aaa1c5311",
+      "title": "EGM2, Volume 1, Number 6, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43bee56e-e0db-42dc-8a50-751aaa1c5311",
+      "number": "6",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "f5810c53-52e6-40e0-80cd-d677e1397744",
+      "title": "GameNOW, Volume 2, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f5810c53-52e6-40e0-80cd-d677e1397744",
+      "number": "6",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "700014cc-9617-44f9-818a-31597cf27821",
+      "title": "EGM2, Volume 1, Number 7, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/700014cc-9617-44f9-818a-31597cf27821",
+      "number": "7",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "a51321dd-95ac-4783-93f7-ecd732979c69",
+      "title": "GameNOW, Volume 2, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2002",
+        "start": "2002-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a51321dd-95ac-4783-93f7-ecd732979c69",
+      "number": "7",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "e75a1710-632b-4557-9e28-a1ededf13629",
+      "title": "EGM2, Volume 1, Number 8, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e75a1710-632b-4557-9e28-a1ededf13629",
+      "number": "8",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "9f110cd8-14ac-47f8-9722-405d8cb09bf6",
+      "title": "GameNOW, Volume 2, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2002",
+        "start": "2002-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9f110cd8-14ac-47f8-9722-405d8cb09bf6",
+      "number": "8",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "91ad972c-7e5d-42d5-ad87-595ffb88ff7e",
+      "title": "EGM2, Volume 1, Number 9, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/91ad972c-7e5d-42d5-ad87-595ffb88ff7e",
+      "number": "9",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "fded3c98-5207-460c-8cf9-609ed1d193b3",
+      "title": "GameNOW, Volume 2, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2002",
+        "start": "2002-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fded3c98-5207-460c-8cf9-609ed1d193b3",
+      "number": "9",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "c7da9ff3-bd0e-4942-991e-acb003b80220",
+      "title": "EGM2, Volume 1, Number 10, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c7da9ff3-bd0e-4942-991e-acb003b80220",
+      "number": "10",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "638c2530-4b29-4e2b-8a3d-d58a91a4f934",
+      "title": "GameNOW, Volume 2, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2002",
+        "start": "2002-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/638c2530-4b29-4e2b-8a3d-d58a91a4f934",
+      "number": "10",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "ac7993b6-5423-485a-809f-41b5c99caee0",
+      "title": "EGM2, Volume 1, Number 11, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac7993b6-5423-485a-809f-41b5c99caee0",
+      "number": "11",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "3505fcba-20eb-4ec0-948d-5c0c18815baf",
+      "title": "GameNOW, Volume 2, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2002",
+        "start": "2002-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3505fcba-20eb-4ec0-948d-5c0c18815baf",
+      "number": "11",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "d148a7f1-5c11-42fc-851d-e7a084cfb8b3",
+      "title": "EGM2, Volume 1, Number 12, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d148a7f1-5c11-42fc-851d-e7a084cfb8b3",
+      "number": "12",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "9957c579-45ef-43e9-941a-20f8929b429b",
+      "title": "GameNOW, Volume 2, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2002",
+        "start": "2002-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9957c579-45ef-43e9-941a-20f8929b429b",
+      "number": "12",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "fb6f2d59-26a7-421a-b534-d598c3c51f50",
+      "title": "EGM2, Volume 2, Number 1, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb6f2d59-26a7-421a-b534-d598c3c51f50",
+      "number": "13",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "0df025c2-b39e-404f-be5b-9773154d6482",
+      "title": "GameNOW, Volume 2, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2002",
+        "start": "2002-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0df025c2-b39e-404f-be5b-9773154d6482",
+      "number": "13",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "6c36252d-1584-4075-8a31-2067f813d568",
+      "title": "EGM2, Volume 2, Number 2, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c36252d-1584-4075-8a31-2067f813d568",
+      "number": "14",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "46b438e4-4922-42ba-bd8d-b959da56c92a",
+      "title": "GameNOW, Volume 2, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2002",
+        "start": "2002-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/46b438e4-4922-42ba-bd8d-b959da56c92a",
+      "number": "14",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "74b3878a-6b96-4fee-bf40-1e39e6e76048",
+      "title": "EGM2, Volume 2, Number 3, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/74b3878a-6b96-4fee-bf40-1e39e6e76048",
+      "number": "15",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "a7afa9ac-e631-498f-aac1-2df03247a603",
+      "title": "GameNOW, Volume 3, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2003",
+        "start": "2003-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7afa9ac-e631-498f-aac1-2df03247a603",
+      "number": "15",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "bc452bae-d7fb-4613-b880-8335edf8f7d2",
+      "title": "EGM2, Volume 2, Number 4, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bc452bae-d7fb-4613-b880-8335edf8f7d2",
+      "number": "16",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "4b50d4a1-12f4-4463-bdd1-a3571d0bd35b",
+      "title": "GameNOW, Volume 3, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4b50d4a1-12f4-4463-bdd1-a3571d0bd35b",
+      "number": "16",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "5e204be5-a8e8-4b02-8759-2475d2fda2c8",
+      "title": "EGM2, Volume 2, Number 5, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5e204be5-a8e8-4b02-8759-2475d2fda2c8",
+      "number": "17",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "e49a1133-19f3-4cf9-ae82-76b4093651e1",
+      "title": "GameNOW, Volume 3, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2003",
+        "start": "2003-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e49a1133-19f3-4cf9-ae82-76b4093651e1",
+      "number": "17",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "089024a0-ee07-4fb6-bf84-08e1165c2904",
+      "title": "EGM2, Volume 2, Number 6, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/089024a0-ee07-4fb6-bf84-08e1165c2904",
+      "number": "18",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "36424eff-7f48-4385-9109-c4b887c93489",
+      "title": "GameNOW, Volume 3, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36424eff-7f48-4385-9109-c4b887c93489",
+      "number": "18",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "ec96fefe-4d5b-49be-b5cb-45ffd1b758c8",
+      "title": "EGM2, Volume 2, Number 7, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec96fefe-4d5b-49be-b5cb-45ffd1b758c8",
+      "number": "19",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "09a08d9d-1f3e-4da6-b762-7d0b73c55edb",
+      "title": "GameNOW, Volume 3, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/09a08d9d-1f3e-4da6-b762-7d0b73c55edb",
+      "number": "19",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "3c340510-0365-47d3-aa10-cec428603002",
+      "title": "EGM2, Volume 2, Number 8, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c340510-0365-47d3-aa10-cec428603002",
+      "number": "20",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "a24bb8a1-bc77-401d-be84-875eea365c3e",
+      "title": "GameNOW, Volume 3, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a24bb8a1-bc77-401d-be84-875eea365c3e",
+      "number": "20",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "5584aae9-6082-4149-a0b4-e0441e46fa59",
+      "title": "EGM2, Volume 2, Number 9, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5584aae9-6082-4149-a0b4-e0441e46fa59",
+      "number": "21",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "ce4227af-f210-4a0d-9177-e41ec75ec9f5",
+      "title": "GameNOW, Volume 3, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce4227af-f210-4a0d-9177-e41ec75ec9f5",
+      "number": "21",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "bdb97eb5-4d43-4765-9be0-e36e3af2dda5",
+      "title": "EGM2, Volume 2, Number 10, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bdb97eb5-4d43-4765-9be0-e36e3af2dda5",
+      "number": "22",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "18f4a526-b372-4c21-b64f-4b07827d5a7a",
+      "title": "GameNOW, Volume 3, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/18f4a526-b372-4c21-b64f-4b07827d5a7a",
+      "number": "22",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "7725d61e-2e52-40b1-8c9a-eefd99e1425d",
+      "title": "EGM2, Volume 2, Number 11, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7725d61e-2e52-40b1-8c9a-eefd99e1425d",
+      "number": "23",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "4052d439-3781-4987-af76-2eac26ad56ea",
+      "title": "GameNOW, Volume 3, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4052d439-3781-4987-af76-2eac26ad56ea",
+      "number": "23",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "87fd5c92-de09-44c3-86ce-5d359f276169",
+      "title": "EGM2, Volume 2, Number 12, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87fd5c92-de09-44c3-86ce-5d359f276169",
+      "number": "24",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "fa8dde5a-bd3b-4e87-8625-89c1affe4e55",
+      "title": "GameNOW, Volume 3, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2003",
+        "start": "2003-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fa8dde5a-bd3b-4e87-8625-89c1affe4e55",
+      "number": "24",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "689e2f66-9955-46dd-9a9b-725e5ac2966a",
+      "title": "EGM2, Number 3, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/689e2f66-9955-46dd-9a9b-725e5ac2966a",
+      "number": "25",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "d85206d1-72a6-4ac5-9fb3-16663c5312ab",
+      "title": "GameNOW, Volume 3, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2003",
+        "start": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d85206d1-72a6-4ac5-9fb3-16663c5312ab",
+      "number": "25",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "e361ec00-125e-4906-86a6-693d75388633",
+      "title": "EGM2, Volume 3, Number 1, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e361ec00-125e-4906-86a6-693d75388633",
+      "number": "26",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "ad8aee06-5d79-4a31-907c-e9f99d3f2cb5",
+      "title": "GameNOW, Volume 3, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ad8aee06-5d79-4a31-907c-e9f99d3f2cb5",
+      "number": "26",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "619dc2ad-2920-4f28-a947-028d1fc7fdc4",
+      "title": "EGM2, Volume 3, Number 2, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1996",
+        "start": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/619dc2ad-2920-4f28-a947-028d1fc7fdc4",
+      "number": "27",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "57472591-c930-4289-b38d-91df901a7056",
+      "title": "GameNOW, Volume 4, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/57472591-c930-4289-b38d-91df901a7056",
+      "number": "27",
+      "parent_id": "768cee51-4f2b-4a05-a553-f4baa1004778"
+    },
+    {
+      "id": "bce60e95-fe5b-46c9-829e-c080c1a1a1d2",
+      "title": "EGM2, Volume 3, Number 3, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bce60e95-fe5b-46c9-829e-c080c1a1a1d2",
+      "number": "28",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "ad7e595d-a4d9-497a-8cc4-e0555997ee79",
+      "title": "EGM2, Volume 3, Number 4, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ad7e595d-a4d9-497a-8cc4-e0555997ee79",
+      "number": "29",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "55f51c9d-9ba7-42e9-b1ea-9d28b86f95f3",
+      "title": "EGM2, Volume 3, Number 5, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/55f51c9d-9ba7-42e9-b1ea-9d28b86f95f3",
+      "number": "30",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "7545b462-0a80-41c4-9391-d903b9d862ea",
+      "title": "EGM2, Volume 3, Number 6, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1997",
+        "start": "1997-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7545b462-0a80-41c4-9391-d903b9d862ea",
+      "number": "31",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "38e5fdef-3823-475e-b734-8116172249f3",
+      "title": "EGM2, Volume 3, Number 7, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1997",
+        "start": "1997-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38e5fdef-3823-475e-b734-8116172249f3",
+      "number": "32",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "5e9b0c7b-6ae1-4807-9f38-399e576a3b18",
+      "title": "EGM2, Volume 3, Number 8, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1997",
+        "start": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5e9b0c7b-6ae1-4807-9f38-399e576a3b18",
+      "number": "33",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "49677719-e1fa-41c3-9b05-a78e8295d454",
+      "title": "EGM2, Volume 3, Number 8, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/49677719-e1fa-41c3-9b05-a78e8295d454",
+      "number": "34",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "43d8c93f-ffd4-45f7-b3f4-31288341c75e",
+      "title": "EGM2, Volume 3, Number 9, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43d8c93f-ffd4-45f7-b3f4-31288341c75e",
+      "number": "35",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "48c8050a-c634-43da-952a-1e9090ea3e0c",
+      "title": "EGM2, Volume 3, Number 10, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/48c8050a-c634-43da-952a-1e9090ea3e0c",
+      "number": "36",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "f9820316-4f7e-4e42-8bf1-5c7bb8c04b7e",
+      "title": "EGM2, Volume 3, Number 11, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f9820316-4f7e-4e42-8bf1-5c7bb8c04b7e",
+      "number": "37",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "8478916b-15d0-4c76-b80f-c85d24a25331",
+      "title": "EGM2, Volume 3, Number 12, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8478916b-15d0-4c76-b80f-c85d24a25331",
+      "number": "38",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "26abf983-bbaa-4f37-a219-6163c29db41f",
+      "title": "EGM2, Volume 4, Number 0, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/26abf983-bbaa-4f37-a219-6163c29db41f",
+      "number": "39",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "65be8169-6267-45d6-ba78-be9dbedc7e3e",
+      "title": "EGM2, Volume 4, Number 1, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/65be8169-6267-45d6-ba78-be9dbedc7e3e",
+      "number": "40",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "2fd694a2-4fb5-4aac-a620-28ee8e1de5a4",
+      "title": "EGM2, Volume 4, Number 2, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2fd694a2-4fb5-4aac-a620-28ee8e1de5a4",
+      "number": "41",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "6e7b8b39-8e70-4c62-bd39-8a1436757da9",
+      "title": "EGM2, Volume 4, Number 3, Issue 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1997",
+        "start": "1997-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6e7b8b39-8e70-4c62-bd39-8a1436757da9",
+      "number": "42",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "b3960e06-2889-4830-8e95-d4eb8ddeef18",
+      "title": "EGM2, Volume 4, Number 2, Issue 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1998",
+        "start": "1998-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b3960e06-2889-4830-8e95-d4eb8ddeef18",
+      "number": "43",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "8ca69166-3283-466d-89a5-33c6d0aade01",
+      "title": "EGM2, Volume 4, Number 3, Issue 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1998",
+        "start": "1998-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ca69166-3283-466d-89a5-33c6d0aade01",
+      "number": "44",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "31899682-17eb-46a9-aa90-358ce23bcce0",
+      "title": "EGM2, Volume 4, Number 4, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1998",
+        "start": "1998-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/31899682-17eb-46a9-aa90-358ce23bcce0",
+      "number": "45",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "c0766ac9-fefd-4e8f-8311-a7d430c40c48",
+      "title": "EGM2, Volume 4, Number 5, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1998",
+        "start": "1998-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0766ac9-fefd-4e8f-8311-a7d430c40c48",
+      "number": "46",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "d976857d-fe88-4934-a7e3-5d178818e51d",
+      "title": "EGM2, Volume 4, Number 6, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1998",
+        "start": "1998-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d976857d-fe88-4934-a7e3-5d178818e51d",
+      "number": "47",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "ec49f75a-edec-4088-9a1a-29865d72857c",
+      "title": "EGM2, Volume 4, Number 7, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1998",
+        "start": "1998-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec49f75a-edec-4088-9a1a-29865d72857c",
+      "number": "48",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "223f2889-4115-4b6e-93bd-ead757179553",
+      "title": "EGM2, Volume 4, Number 8, Issue 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1998",
+        "start": "1998-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/223f2889-4115-4b6e-93bd-ead757179553",
+      "number": "49",
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "3ccf693e-43b7-47cc-b194-37792c88a99a",
+      "title": "Expert Gamer, Issue 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1998",
+        "start": "1998-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3ccf693e-43b7-47cc-b194-37792c88a99a",
+      "number": "50",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "2a5eb7a6-de33-4e60-956e-c4dd5766f75b",
+      "title": "Expert Gamer, Issue 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2a5eb7a6-de33-4e60-956e-c4dd5766f75b",
+      "number": "51",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "72b9fbb4-6f94-4c75-9ee4-053ae6f62aa2",
+      "title": "Expert Gamer, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1998",
+        "start": "1998-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72b9fbb4-6f94-4c75-9ee4-053ae6f62aa2",
+      "number": "52",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "3831e3a3-76ca-4225-b18b-c9f4bac899ba",
+      "title": "Expert Gamer, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1998",
+        "start": "1998-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3831e3a3-76ca-4225-b18b-c9f4bac899ba",
+      "number": "53",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "4e559087-a707-42c8-94fe-7708a5779541",
+      "title": "Expert Gamer, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1998",
+        "start": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4e559087-a707-42c8-94fe-7708a5779541",
+      "number": "54",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "642604d8-8a7e-44cb-b99a-2e607b21d909",
+      "title": "Expert Gamer, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1999",
+        "start": "1999-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/642604d8-8a7e-44cb-b99a-2e607b21d909",
+      "number": "55",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "fc26e628-3ba0-4f93-85ce-b42e1486de22",
+      "title": "Expert Gamer, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fc26e628-3ba0-4f93-85ce-b42e1486de22",
+      "number": "56",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "d812f5ac-d7d3-401a-9b1d-7c8efd380bf2",
+      "title": "Expert Gamer, Issue 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d812f5ac-d7d3-401a-9b1d-7c8efd380bf2",
+      "number": "57",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "3fc1baad-0af0-4375-ab32-3a80246acfda",
+      "title": "Expert Gamer, Issue 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1999",
+        "start": "1999-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3fc1baad-0af0-4375-ab32-3a80246acfda",
+      "number": "58",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "edad6e5d-d368-4afd-92fe-8a4ad71c424d",
+      "title": "Expert Gamer, Issue 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1999",
+        "start": "1999-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/edad6e5d-d368-4afd-92fe-8a4ad71c424d",
+      "number": "59",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "924f8b9b-6a5b-4d28-b26f-8544ff10a3b5",
+      "title": "Expert Gamer, Issue 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/924f8b9b-6a5b-4d28-b26f-8544ff10a3b5",
+      "number": "60",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "e1060fd7-2a71-466a-9cc4-665fbda1d926",
+      "title": "Expert Gamer, Issue 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1999",
+        "start": "1999-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e1060fd7-2a71-466a-9cc4-665fbda1d926",
+      "number": "61",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "0f95d329-6525-42cc-9024-c0e68f73c1be",
+      "title": "Expert Gamer, Issue 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1999",
+        "start": "1999-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0f95d329-6525-42cc-9024-c0e68f73c1be",
+      "number": "62",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "aa000b6b-7bfc-4120-8a76-fd47db4176a0",
+      "title": "Expert Gamer, Issue 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa000b6b-7bfc-4120-8a76-fd47db4176a0",
+      "number": "63",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "0a72d86c-fade-4e71-9694-dc4d0a807bad",
+      "title": "Expert Gamer, Issue 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1999",
+        "start": "1999-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0a72d86c-fade-4e71-9694-dc4d0a807bad",
+      "number": "64",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "22ed1f5d-cfe6-4b73-bd8d-a373f504f441",
+      "title": "Expert Gamer, Issue 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/22ed1f5d-cfe6-4b73-bd8d-a373f504f441",
+      "number": "65",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "b55b6589-e601-488a-a831-13c2e13cdd0b",
+      "title": "Expert Gamer, Issue 66",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b55b6589-e601-488a-a831-13c2e13cdd0b",
+      "number": "66",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "5cb9bc6e-5b7f-48b5-9ca4-2d74018875cd",
+      "title": "Expert Gamer, Issue 67",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5cb9bc6e-5b7f-48b5-9ca4-2d74018875cd",
+      "number": "67",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "cac1bf64-8bcd-406f-8b55-6a0389d1389b",
+      "title": "Expert Gamer, Issue 68",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cac1bf64-8bcd-406f-8b55-6a0389d1389b",
+      "number": "68",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "ca0e6883-bdb9-4c5b-9fc9-221f65930079",
+      "title": "Expert Gamer, Issue 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ca0e6883-bdb9-4c5b-9fc9-221f65930079",
+      "number": "69",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "bf9b0abf-7945-4904-9a92-68e84f86ed83",
+      "title": "Expert Gamer, Issue 70",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bf9b0abf-7945-4904-9a92-68e84f86ed83",
+      "number": "70",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "e0c0ade6-3115-431c-925e-8b0233ab2b7f",
+      "title": "Expert Gamer, Issue 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0c0ade6-3115-431c-925e-8b0233ab2b7f",
+      "number": "71",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "c55b304a-3d1b-41c4-8e13-bcb67d39f2e5",
+      "title": "Expert Gamer, Issue 72",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c55b304a-3d1b-41c4-8e13-bcb67d39f2e5",
+      "number": "72",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "e3d7139d-36b3-416b-98da-3fddf26138d6",
+      "title": "Expert Gamer, Issue 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e3d7139d-36b3-416b-98da-3fddf26138d6",
+      "number": "73",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "45d0afd5-3f66-49cb-a65e-6bb5fe6fcc25",
+      "title": "Expert Gamer, Issue 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45d0afd5-3f66-49cb-a65e-6bb5fe6fcc25",
+      "number": "74",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "1a893191-709f-4b4b-a559-2ad0dffc8534",
+      "title": "Expert Gamer, Issue 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2000",
+        "start": "2000-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1a893191-709f-4b4b-a559-2ad0dffc8534",
+      "number": "75",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "71a2ce70-232d-4a4a-a6c5-b69dc4310d34",
+      "title": "Expert Gamer, Issue 76",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2000",
+        "start": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/71a2ce70-232d-4a4a-a6c5-b69dc4310d34",
+      "number": "76",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "7325dc0c-37ac-485c-8f07-4bc7f5c18042",
+      "title": "Expert Gamer, Issue 77",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7325dc0c-37ac-485c-8f07-4bc7f5c18042",
+      "number": "77",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "f60e52ef-e46d-41bf-9e7a-f7223123f074",
+      "title": "Expert Gamer, Issue 78",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f60e52ef-e46d-41bf-9e7a-f7223123f074",
+      "number": "78",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "aabff2eb-45dd-4f3e-9031-c2212af62842",
+      "title": "Expert Gamer, Issue 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2001",
+        "start": "2001-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aabff2eb-45dd-4f3e-9031-c2212af62842",
+      "number": "79",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "3a2e434b-6c82-45d6-a0d9-be9555491052",
+      "title": "Expert Gamer, Issue 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3a2e434b-6c82-45d6-a0d9-be9555491052",
+      "number": "80",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "d79d3f0a-732f-459d-8907-ff6a16d5e532",
+      "title": "Expert Gamer, Issue 81",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2001",
+        "start": "2001-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d79d3f0a-732f-459d-8907-ff6a16d5e532",
+      "number": "81",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "50b3a470-d7ad-4d3e-a455-8dcbaee2ca59",
+      "title": "Expert Gamer, Issue 82",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2001",
+        "start": "2001-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50b3a470-d7ad-4d3e-a455-8dcbaee2ca59",
+      "number": "82",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "d0c49624-9ab5-4f0b-a70c-15ae22101d16",
+      "title": "Expert Gamer, Issue 83",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d0c49624-9ab5-4f0b-a70c-15ae22101d16",
+      "number": "83",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "e5c62425-d224-4e50-81c5-cba0ad5d613c",
+      "title": "Expert Gamer, Issue 84",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2001",
+        "start": "2001-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e5c62425-d224-4e50-81c5-cba0ad5d613c",
+      "number": "84",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "537fa57e-2808-4fff-bbab-11c4cc7c3e3e",
+      "title": "Expert Gamer, Issue 85",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2001",
+        "start": "2001-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/537fa57e-2808-4fff-bbab-11c4cc7c3e3e",
+      "number": "85",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "fce8902b-8fdc-4ddc-92c0-67ab972881f8",
+      "title": "Expert Gamer, Issue 86",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2001",
+        "start": "2001-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fce8902b-8fdc-4ddc-92c0-67ab972881f8",
+      "number": "86",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "b252f08e-86e1-4567-af42-8b0afb376212",
+      "title": "Expert Gamer, Issue 87",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2001",
+        "start": "2001-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b252f08e-86e1-4567-af42-8b0afb376212",
+      "number": "87",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "49692387-60e9-4332-bbf2-c4bc666d5639",
+      "title": "Expert Gamer, Issue 88",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2001",
+        "start": "2001-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/49692387-60e9-4332-bbf2-c4bc666d5639",
+      "number": "88",
+      "parent_id": "0762ec29-f248-492e-a50b-ce2cd926c970"
+    },
+    {
+      "id": "94ceeced-a027-4c7a-9afb-1a86c7d59d84",
+      "title": "EGM2 Official Fighter's Guide 1995",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/94ceeced-a027-4c7a-9afb-1a86c7d59d84",
+      "number": null,
+      "parent_id": "a6e23043-2bf0-4d8c-bb2f-4b865df90c2b"
+    },
+    {
+      "id": "b11eec9f-f4dc-40f2-9798-06887df50a9d",
+      "title": "Super NES Holiday Shopper's Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b11eec9f-f4dc-40f2-9798-06887df50a9d",
+      "number": null,
+      "parent_id": "a6e23043-2bf0-4d8c-bb2f-4b865df90c2b"
+    },
+    {
+      "id": "68cf40cf-cba1-4c40-abf4-5d29a820acbf",
+      "title": "3DO Holiday Buyer's Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/68cf40cf-cba1-4c40-abf4-5d29a820acbf",
+      "number": null,
+      "parent_id": "a6e23043-2bf0-4d8c-bb2f-4b865df90c2b"
+    },
+    {
+      "id": "24357266-aa8f-4cc3-8ce9-73944627f63e",
+      "title": "1995 Sports Directory",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24357266-aa8f-4cc3-8ce9-73944627f63e",
+      "number": null,
+      "parent_id": "a6e23043-2bf0-4d8c-bb2f-4b865df90c2b"
+    },
+    {
+      "id": "8dbea7c8-6bf4-459d-90ce-8e7caba2f38b",
+      "title": "1995 Role-Playing Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8dbea7c8-6bf4-459d-90ce-8e7caba2f38b",
+      "number": null,
+      "parent_id": "a6e23043-2bf0-4d8c-bb2f-4b865df90c2b"
+    },
+    {
+      "id": "5c7f428d-38cd-4a7a-bbf1-84631e3af587",
+      "title": "Expert Codebook, Volume 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1999",
+        "start": "1999-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/5c7f428d-38cd-4a7a-bbf1-84631e3af587",
+      "number": null,
+      "parent_id": "536a58fe-3b0b-46ae-b850-fcf8ed09628e"
+    },
+    {
+      "id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f",
+      "title": "EGM2",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "July 1994 – July 1998"
+      },
+      "url": "https://archive.gamehistory.org/folder/b8f94559-4b2e-49d6-92fa-9ca8311ffd1f",
+      "number": null
+    },
+    {
+      "id": "a6e23043-2bf0-4d8c-bb2f-4b865df90c2b",
+      "title": "EGM2 supplements",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/a6e23043-2bf0-4d8c-bb2f-4b865df90c2b",
+      "number": null,
+      "parent_id": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f"
+    },
+    {
+      "id": "536a58fe-3b0b-46ae-b850-fcf8ed09628e",
+      "title": "Expert Codebook",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "1998–2002"
+      },
+      "url": "https://archive.gamehistory.org/folder/536a58fe-3b0b-46ae-b850-fcf8ed09628e",
+      "number": null
+    },
+    {
+      "id": "0762ec29-f248-492e-a50b-ce2cd926c970",
+      "title": "Expert Gamer",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "August 1998 – October 2001"
+      },
+      "url": "https://archive.gamehistory.org/folder/0762ec29-f248-492e-a50b-ce2cd926c970",
+      "number": null
+    },
+    {
+      "id": "768cee51-4f2b-4a05-a553-f4baa1004778",
+      "title": "GameNOW",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "November 2001 – January 2004"
+      },
+      "url": "https://archive.gamehistory.org/folder/768cee51-4f2b-4a05-a553-f4baa1004778",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "EGM2, Volume 1, Number 1, Issue 1": "0887ca65-b617-4bb1-9341-7505ab3803a1",
+    "GameNOW, Issue 1": "680496f0-afd0-4cfb-a0a2-fbe9db8ef1f3",
+    "EGM2, Volume 1, Number 2, Issue 2": "68c20116-4da7-4fa6-9719-519290cc96f5",
+    "GameNOW, Volume 2, Issue 2": "59add17f-df77-4569-8936-8e117d0faa3b",
+    "EGM2, Volume 1, Number 3, Issue 3": "be295204-aa0b-4a30-b58e-cd2550b83b2c",
+    "GameNOW, Volume 2, Issue 3": "17c7081f-2646-4b34-893d-069d02376f26",
+    "EGM2, Volume 1, Number 4, Issue 4": "9641780e-140e-4e6d-ad2d-317c31366e89",
+    "GameNOW, Volume 2, Issue 4": "ac4194d5-23d7-46fe-b6e2-0f364600532a",
+    "EGM2, Volume 1, Number 5, Issue 5": "2646e22d-4161-4526-b94a-5b404e5596d7",
+    "GameNOW, Volume 2, Issue 5": "0cf6ef95-0472-41f0-b249-08f9f739eff1",
+    "EGM2, Volume 1, Number 6, Issue 6": "43bee56e-e0db-42dc-8a50-751aaa1c5311",
+    "GameNOW, Volume 2, Issue 6": "f5810c53-52e6-40e0-80cd-d677e1397744",
+    "EGM2, Volume 1, Number 7, Issue 7": "700014cc-9617-44f9-818a-31597cf27821",
+    "GameNOW, Volume 2, Issue 7": "a51321dd-95ac-4783-93f7-ecd732979c69",
+    "EGM2, Volume 1, Number 8, Issue 8": "e75a1710-632b-4557-9e28-a1ededf13629",
+    "GameNOW, Volume 2, Issue 8": "9f110cd8-14ac-47f8-9722-405d8cb09bf6",
+    "EGM2, Volume 1, Number 9, Issue 9": "91ad972c-7e5d-42d5-ad87-595ffb88ff7e",
+    "GameNOW, Volume 2, Issue 9": "fded3c98-5207-460c-8cf9-609ed1d193b3",
+    "EGM2, Volume 1, Number 10, Issue 10": "c7da9ff3-bd0e-4942-991e-acb003b80220",
+    "GameNOW, Volume 2, Issue 10": "638c2530-4b29-4e2b-8a3d-d58a91a4f934",
+    "EGM2, Volume 1, Number 11, Issue 11": "ac7993b6-5423-485a-809f-41b5c99caee0",
+    "GameNOW, Volume 2, Issue 11": "3505fcba-20eb-4ec0-948d-5c0c18815baf",
+    "EGM2, Volume 1, Number 12, Issue 12": "d148a7f1-5c11-42fc-851d-e7a084cfb8b3",
+    "GameNOW, Volume 2, Issue 12": "9957c579-45ef-43e9-941a-20f8929b429b",
+    "EGM2, Volume 2, Number 1, Issue 13": "fb6f2d59-26a7-421a-b534-d598c3c51f50",
+    "GameNOW, Volume 2, Issue 13": "0df025c2-b39e-404f-be5b-9773154d6482",
+    "EGM2, Volume 2, Number 2, Issue 14": "6c36252d-1584-4075-8a31-2067f813d568",
+    "GameNOW, Volume 2, Issue 14": "46b438e4-4922-42ba-bd8d-b959da56c92a",
+    "EGM2, Volume 2, Number 3, Issue 15": "74b3878a-6b96-4fee-bf40-1e39e6e76048",
+    "GameNOW, Volume 3, Issue 15": "a7afa9ac-e631-498f-aac1-2df03247a603",
+    "EGM2, Volume 2, Number 4, Issue 16": "bc452bae-d7fb-4613-b880-8335edf8f7d2",
+    "GameNOW, Volume 3, Issue 16": "4b50d4a1-12f4-4463-bdd1-a3571d0bd35b",
+    "EGM2, Volume 2, Number 5, Issue 17": "5e204be5-a8e8-4b02-8759-2475d2fda2c8",
+    "GameNOW, Volume 3, Issue 17": "e49a1133-19f3-4cf9-ae82-76b4093651e1",
+    "EGM2, Volume 2, Number 6, Issue 18": "089024a0-ee07-4fb6-bf84-08e1165c2904",
+    "GameNOW, Volume 3, Issue 18": "36424eff-7f48-4385-9109-c4b887c93489",
+    "EGM2, Volume 2, Number 7, Issue 19": "ec96fefe-4d5b-49be-b5cb-45ffd1b758c8",
+    "GameNOW, Volume 3, Issue 19": "09a08d9d-1f3e-4da6-b762-7d0b73c55edb",
+    "EGM2, Volume 2, Number 8, Issue 20": "3c340510-0365-47d3-aa10-cec428603002",
+    "GameNOW, Volume 3, Issue 20": "a24bb8a1-bc77-401d-be84-875eea365c3e",
+    "EGM2, Volume 2, Number 9, Issue 21": "5584aae9-6082-4149-a0b4-e0441e46fa59",
+    "GameNOW, Volume 3, Issue 21": "ce4227af-f210-4a0d-9177-e41ec75ec9f5",
+    "EGM2, Volume 2, Number 10, Issue 22": "bdb97eb5-4d43-4765-9be0-e36e3af2dda5",
+    "GameNOW, Volume 3, Issue 22": "18f4a526-b372-4c21-b64f-4b07827d5a7a",
+    "EGM2, Volume 2, Number 11, Issue 23": "7725d61e-2e52-40b1-8c9a-eefd99e1425d",
+    "GameNOW, Volume 3, Issue 23": "4052d439-3781-4987-af76-2eac26ad56ea",
+    "EGM2, Volume 2, Number 12, Issue 24": "87fd5c92-de09-44c3-86ce-5d359f276169",
+    "GameNOW, Volume 3, Issue 24": "fa8dde5a-bd3b-4e87-8625-89c1affe4e55",
+    "EGM2, Number 3, Issue 25": "689e2f66-9955-46dd-9a9b-725e5ac2966a",
+    "GameNOW, Volume 3, Issue 25": "d85206d1-72a6-4ac5-9fb3-16663c5312ab",
+    "EGM2, Volume 3, Number 1, Issue 26": "e361ec00-125e-4906-86a6-693d75388633",
+    "GameNOW, Volume 3, Issue 26": "ad8aee06-5d79-4a31-907c-e9f99d3f2cb5",
+    "EGM2, Volume 3, Number 2, Issue 27": "619dc2ad-2920-4f28-a947-028d1fc7fdc4",
+    "GameNOW, Volume 4, Issue 27": "57472591-c930-4289-b38d-91df901a7056",
+    "EGM2, Volume 3, Number 3, Issue 28": "bce60e95-fe5b-46c9-829e-c080c1a1a1d2",
+    "EGM2, Volume 3, Number 4, Issue 29": "ad7e595d-a4d9-497a-8cc4-e0555997ee79",
+    "EGM2, Volume 3, Number 5, Issue 30": "55f51c9d-9ba7-42e9-b1ea-9d28b86f95f3",
+    "EGM2, Volume 3, Number 6, Issue 31": "7545b462-0a80-41c4-9391-d903b9d862ea",
+    "EGM2, Volume 3, Number 7, Issue 32": "38e5fdef-3823-475e-b734-8116172249f3",
+    "EGM2, Volume 3, Number 8, Issue 33": "5e9b0c7b-6ae1-4807-9f38-399e576a3b18",
+    "EGM2, Volume 3, Number 8, Issue 34": "49677719-e1fa-41c3-9b05-a78e8295d454",
+    "EGM2, Volume 3, Number 9, Issue 35": "43d8c93f-ffd4-45f7-b3f4-31288341c75e",
+    "EGM2, Volume 3, Number 10, Issue 36": "48c8050a-c634-43da-952a-1e9090ea3e0c",
+    "EGM2, Volume 3, Number 11, Issue 37": "f9820316-4f7e-4e42-8bf1-5c7bb8c04b7e",
+    "EGM2, Volume 3, Number 12, Issue 38": "8478916b-15d0-4c76-b80f-c85d24a25331",
+    "EGM2, Volume 4, Number 0, Issue 39": "26abf983-bbaa-4f37-a219-6163c29db41f",
+    "EGM2, Volume 4, Number 1, Issue 40": "65be8169-6267-45d6-ba78-be9dbedc7e3e",
+    "EGM2, Volume 4, Number 2, Issue 41": "2fd694a2-4fb5-4aac-a620-28ee8e1de5a4",
+    "EGM2, Volume 4, Number 3, Issue 42": "6e7b8b39-8e70-4c62-bd39-8a1436757da9",
+    "EGM2, Volume 4, Number 2, Issue 43": "b3960e06-2889-4830-8e95-d4eb8ddeef18",
+    "EGM2, Volume 4, Number 3, Issue 44": "8ca69166-3283-466d-89a5-33c6d0aade01",
+    "EGM2, Volume 4, Number 4, Issue 45": "31899682-17eb-46a9-aa90-358ce23bcce0",
+    "EGM2, Volume 4, Number 5, Issue 46": "c0766ac9-fefd-4e8f-8311-a7d430c40c48",
+    "EGM2, Volume 4, Number 6, Issue 47": "d976857d-fe88-4934-a7e3-5d178818e51d",
+    "EGM2, Volume 4, Number 7, Issue 48": "ec49f75a-edec-4088-9a1a-29865d72857c",
+    "EGM2, Volume 4, Number 8, Issue 49": "223f2889-4115-4b6e-93bd-ead757179553",
+    "Expert Gamer, Issue 50": "3ccf693e-43b7-47cc-b194-37792c88a99a",
+    "Expert Gamer, Issue 51": "2a5eb7a6-de33-4e60-956e-c4dd5766f75b",
+    "Expert Gamer, Issue 52": "72b9fbb4-6f94-4c75-9ee4-053ae6f62aa2",
+    "Expert Gamer, Issue 53": "3831e3a3-76ca-4225-b18b-c9f4bac899ba",
+    "Expert Gamer, Issue 54": "4e559087-a707-42c8-94fe-7708a5779541",
+    "Expert Gamer, Issue 55": "642604d8-8a7e-44cb-b99a-2e607b21d909",
+    "Expert Gamer, Issue 56": "fc26e628-3ba0-4f93-85ce-b42e1486de22",
+    "Expert Gamer, Issue 57": "d812f5ac-d7d3-401a-9b1d-7c8efd380bf2",
+    "Expert Gamer, Issue 58": "3fc1baad-0af0-4375-ab32-3a80246acfda",
+    "Expert Gamer, Issue 59": "edad6e5d-d368-4afd-92fe-8a4ad71c424d",
+    "Expert Gamer, Issue 60": "924f8b9b-6a5b-4d28-b26f-8544ff10a3b5",
+    "Expert Gamer, Issue 61": "e1060fd7-2a71-466a-9cc4-665fbda1d926",
+    "Expert Gamer, Issue 62": "0f95d329-6525-42cc-9024-c0e68f73c1be",
+    "Expert Gamer, Issue 63": "aa000b6b-7bfc-4120-8a76-fd47db4176a0",
+    "Expert Gamer, Issue 64": "0a72d86c-fade-4e71-9694-dc4d0a807bad",
+    "Expert Gamer, Issue 65": "22ed1f5d-cfe6-4b73-bd8d-a373f504f441",
+    "Expert Gamer, Issue 66": "b55b6589-e601-488a-a831-13c2e13cdd0b",
+    "Expert Gamer, Issue 67": "5cb9bc6e-5b7f-48b5-9ca4-2d74018875cd",
+    "Expert Gamer, Issue 68": "cac1bf64-8bcd-406f-8b55-6a0389d1389b",
+    "Expert Gamer, Issue 69": "ca0e6883-bdb9-4c5b-9fc9-221f65930079",
+    "Expert Gamer, Issue 70": "bf9b0abf-7945-4904-9a92-68e84f86ed83",
+    "Expert Gamer, Issue 71": "e0c0ade6-3115-431c-925e-8b0233ab2b7f",
+    "Expert Gamer, Issue 72": "c55b304a-3d1b-41c4-8e13-bcb67d39f2e5",
+    "Expert Gamer, Issue 73": "e3d7139d-36b3-416b-98da-3fddf26138d6",
+    "Expert Gamer, Issue 74": "45d0afd5-3f66-49cb-a65e-6bb5fe6fcc25",
+    "Expert Gamer, Issue 75": "1a893191-709f-4b4b-a559-2ad0dffc8534",
+    "Expert Gamer, Issue 76": "71a2ce70-232d-4a4a-a6c5-b69dc4310d34",
+    "Expert Gamer, Issue 77": "7325dc0c-37ac-485c-8f07-4bc7f5c18042",
+    "Expert Gamer, Issue 78": "f60e52ef-e46d-41bf-9e7a-f7223123f074",
+    "Expert Gamer, Issue 79": "aabff2eb-45dd-4f3e-9031-c2212af62842",
+    "Expert Gamer, Issue 80": "3a2e434b-6c82-45d6-a0d9-be9555491052",
+    "Expert Gamer, Issue 81": "d79d3f0a-732f-459d-8907-ff6a16d5e532",
+    "Expert Gamer, Issue 82": "50b3a470-d7ad-4d3e-a455-8dcbaee2ca59",
+    "Expert Gamer, Issue 83": "d0c49624-9ab5-4f0b-a70c-15ae22101d16",
+    "Expert Gamer, Issue 84": "e5c62425-d224-4e50-81c5-cba0ad5d613c",
+    "Expert Gamer, Issue 85": "537fa57e-2808-4fff-bbab-11c4cc7c3e3e",
+    "Expert Gamer, Issue 86": "fce8902b-8fdc-4ddc-92c0-67ab972881f8",
+    "Expert Gamer, Issue 87": "b252f08e-86e1-4567-af42-8b0afb376212",
+    "Expert Gamer, Issue 88": "49692387-60e9-4332-bbf2-c4bc666d5639",
+    "EGM2 Official Fighter's Guide 1995": "94ceeced-a027-4c7a-9afb-1a86c7d59d84",
+    "Super NES Holiday Shopper's Guide": "b11eec9f-f4dc-40f2-9798-06887df50a9d",
+    "3DO Holiday Buyer's Guide": "68cf40cf-cba1-4c40-abf4-5d29a820acbf",
+    "1995 Sports Directory": "24357266-aa8f-4cc3-8ce9-73944627f63e",
+    "1995 Role-Playing Guide": "8dbea7c8-6bf4-459d-90ce-8e7caba2f38b",
+    "Expert Codebook, Volume 3": "5c7f428d-38cd-4a7a-bbf1-84631e3af587",
+    "EGM2": "b8f94559-4b2e-49d6-92fa-9ca8311ffd1f",
+    "EGM2 supplements": "a6e23043-2bf0-4d8c-bb2f-4b865df90c2b",
+    "Expert Codebook": "536a58fe-3b0b-46ae-b850-fcf8ed09628e",
+    "Expert Gamer": "0762ec29-f248-492e-a50b-ce2cd926c970",
+    "GameNOW": "768cee51-4f2b-4a05-a553-f4baa1004778"
+  }
+}

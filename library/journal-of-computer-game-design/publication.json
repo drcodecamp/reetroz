@@ -36,7 +36,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/2529ea9d-c993-4f19-bee4-676f85add53d",
-      "date_range": "June 1987 – August 1996"
+      "date_range": "June/July 1987 – December 1987 / January 1988",
+      "items": 56
     }
   ],
   "stats": {
@@ -45,5 +46,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

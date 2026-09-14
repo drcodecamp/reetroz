@@ -31,7 +31,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/19df3e0e-432f-410c-89f1-7f19de57e13b",
-      "date_range": "2004"
+      "date_range": "Winter 2004 – Fall 2004",
+      "items": 4
     }
   ],
   "stats": {
@@ -40,5 +41,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

@@ -31,7 +31,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/2b773cc8-53a1-4c3b-aa8b-cacb1cb20fe1",
-      "date_range": "December / January 2000"
+      "date_range": "December / January 2000",
+      "items": 1
     }
   ],
   "stats": {
@@ -40,6 +41,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Single issue."
 }

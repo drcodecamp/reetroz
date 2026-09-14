@@ -1,0 +1,1101 @@
+{
+  "provider": "vghf",
+  "folder_id": "9f1aa694-751b-4a95-acde-d61baf94d3d9",
+  "url": "https://archive.gamehistory.org/folder/9f1aa694-751b-4a95-acde-d61baf94d3d9",
+  "retrieved_at": "2026-09-13T22:58:56+00:00",
+  "expected": 64,
+  "count": 64,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "0b1b8769-83b9-4ccb-a52e-4008a1278308",
+      "title": "PlayStation: The Official Magazine, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2007",
+        "start": "2007-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/0b1b8769-83b9-4ccb-a52e-4008a1278308",
+      "number": "1"
+    },
+    {
+      "id": "5a279958-4e3f-4d90-ae35-6d021190470d",
+      "title": "PlayStation: The Official Magazine, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2008",
+        "start": "2008-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a279958-4e3f-4d90-ae35-6d021190470d",
+      "number": "2"
+    },
+    {
+      "id": "8ae40c65-3a26-4bde-a838-5e9ba91a7429",
+      "title": "PlayStation: The Official Magazine, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2008",
+        "start": "2008-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ae40c65-3a26-4bde-a838-5e9ba91a7429",
+      "number": "3"
+    },
+    {
+      "id": "70275ee5-16e8-4fbf-a911-25f16fa49b4f",
+      "title": "PlayStation: The Official Magazine, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2008",
+        "start": "2008-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/70275ee5-16e8-4fbf-a911-25f16fa49b4f",
+      "number": "4"
+    },
+    {
+      "id": "31afa1b9-8e4e-4df6-8c48-7671a52ae7e9",
+      "title": "PlayStation: The Official Magazine, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2008",
+        "start": "2008-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/31afa1b9-8e4e-4df6-8c48-7671a52ae7e9",
+      "number": "5"
+    },
+    {
+      "id": "08adc8db-9e4d-4afc-bab2-ead30bbe59a7",
+      "title": "PlayStation: The Official Magazine, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2008",
+        "start": "2008-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/08adc8db-9e4d-4afc-bab2-ead30bbe59a7",
+      "number": "6"
+    },
+    {
+      "id": "e9a426dd-0de5-45a7-a1b0-2abacec169b8",
+      "title": "PlayStation: The Official Magazine, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2008",
+        "start": "2008-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e9a426dd-0de5-45a7-a1b0-2abacec169b8",
+      "number": "7"
+    },
+    {
+      "id": "f14c217d-15ab-4025-a204-ddff7ca13e92",
+      "title": "PlayStation: The Official Magazine, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2008",
+        "start": "2008-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f14c217d-15ab-4025-a204-ddff7ca13e92",
+      "number": "8"
+    },
+    {
+      "id": "c13e654f-955d-4d18-b62e-835ee684b5d7",
+      "title": "PlayStation: The Official Magazine, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2008",
+        "start": "2008-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c13e654f-955d-4d18-b62e-835ee684b5d7",
+      "number": "9"
+    },
+    {
+      "id": "e28df7b5-a779-4477-bd28-0e6823357c71",
+      "title": "PlayStation: The Official Magazine, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2008",
+        "start": "2008-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e28df7b5-a779-4477-bd28-0e6823357c71",
+      "number": "10"
+    },
+    {
+      "id": "ec74ff1b-1201-40c4-8493-6549b7a6b712",
+      "title": "PlayStation: The Official Magazine, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2008",
+        "start": "2008-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec74ff1b-1201-40c4-8493-6549b7a6b712",
+      "number": "11"
+    },
+    {
+      "id": "90f5bafe-af6b-43c6-9379-d4f93a45d510",
+      "title": "PlayStation: The Official Magazine, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2008",
+        "start": "2008-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90f5bafe-af6b-43c6-9379-d4f93a45d510",
+      "number": "12"
+    },
+    {
+      "id": "615fe1f0-fa39-4661-8015-b2fb9f604a2b",
+      "title": "PlayStation: The Official Magazine, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2008",
+        "start": "2008-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/615fe1f0-fa39-4661-8015-b2fb9f604a2b",
+      "number": "13"
+    },
+    {
+      "id": "52852aa9-939d-4e46-b4d9-61e0ac8edc1f",
+      "title": "PlayStation: The Official Magazine, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2008",
+        "start": "2008-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/52852aa9-939d-4e46-b4d9-61e0ac8edc1f",
+      "number": "14"
+    },
+    {
+      "id": "b6e6f376-0235-4c0f-954d-c04b1285b5c6",
+      "title": "PlayStation: The Official Magazine, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2009",
+        "start": "2009-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b6e6f376-0235-4c0f-954d-c04b1285b5c6",
+      "number": "15"
+    },
+    {
+      "id": "bc24f9a5-22f4-44e3-94c2-016ed1e46157",
+      "title": "PlayStation: The Official Magazine, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2009",
+        "start": "2009-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bc24f9a5-22f4-44e3-94c2-016ed1e46157",
+      "number": "16"
+    },
+    {
+      "id": "5dee62af-8abb-42b2-bb78-76627771bb57",
+      "title": "PlayStation: The Official Magazine, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2009",
+        "start": "2009-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5dee62af-8abb-42b2-bb78-76627771bb57",
+      "number": "17"
+    },
+    {
+      "id": "f214ffcb-7df5-47c4-8948-70ea018760e8",
+      "title": "PlayStation: The Official Magazine, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2009",
+        "start": "2009-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f214ffcb-7df5-47c4-8948-70ea018760e8",
+      "number": "18"
+    },
+    {
+      "id": "78a6eb05-1cb6-4a1e-ad77-3f4f6c0b9f22",
+      "title": "PlayStation: The Official Magazine, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2009",
+        "start": "2009-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/78a6eb05-1cb6-4a1e-ad77-3f4f6c0b9f22",
+      "number": "19"
+    },
+    {
+      "id": "453e5ba7-7a22-44f5-80e6-b8f7a6f93ab9",
+      "title": "PlayStation: The Official Magazine, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2009",
+        "start": "2009-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/453e5ba7-7a22-44f5-80e6-b8f7a6f93ab9",
+      "number": "20"
+    },
+    {
+      "id": "385f5f81-737e-4d3d-8a9d-8cea0b73eac7",
+      "title": "PlayStation: The Official Magazine, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2009",
+        "start": "2009-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/385f5f81-737e-4d3d-8a9d-8cea0b73eac7",
+      "number": "21"
+    },
+    {
+      "id": "c8f6dd8d-ed5a-41e9-8f70-f1ddcbee3102",
+      "title": "PlayStation: The Official Magazine, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2009",
+        "start": "2009-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c8f6dd8d-ed5a-41e9-8f70-f1ddcbee3102",
+      "number": "22"
+    },
+    {
+      "id": "9dae2c3a-1271-4b01-ae0c-e03d1f8506a9",
+      "title": "PlayStation: The Official Magazine, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2009",
+        "start": "2009-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9dae2c3a-1271-4b01-ae0c-e03d1f8506a9",
+      "number": "23"
+    },
+    {
+      "id": "d2555e5e-91cb-4c58-8e76-edca22653c69",
+      "title": "PlayStation: The Official Magazine, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2009",
+        "start": "2009-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d2555e5e-91cb-4c58-8e76-edca22653c69",
+      "number": "24"
+    },
+    {
+      "id": "b044b85b-b4e6-474d-9673-b8ffc46330d2",
+      "title": "PlayStation: The Official Magazine, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2009",
+        "start": "2009-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b044b85b-b4e6-474d-9673-b8ffc46330d2",
+      "number": "25"
+    },
+    {
+      "id": "b1aabdae-ad17-469b-98a5-55d23d4468a6",
+      "title": "PlayStation: The Official Magazine, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2009",
+        "start": "2009-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b1aabdae-ad17-469b-98a5-55d23d4468a6",
+      "number": "26"
+    },
+    {
+      "id": "70369bb9-38b5-4a9b-bfd7-70f5d634139b",
+      "title": "PlayStation: The Official Magazine, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2009",
+        "start": "2009-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/70369bb9-38b5-4a9b-bfd7-70f5d634139b",
+      "number": "27"
+    },
+    {
+      "id": "3a3286cf-4c55-421c-b4a8-d489438c68b3",
+      "title": "PlayStation: The Official Magazine, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2010",
+        "start": "2010-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3a3286cf-4c55-421c-b4a8-d489438c68b3",
+      "number": "28"
+    },
+    {
+      "id": "36e401cd-4767-465f-8ab8-cf019ba18444",
+      "title": "PlayStation: The Official Magazine, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2010",
+        "start": "2010-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36e401cd-4767-465f-8ab8-cf019ba18444",
+      "number": "29"
+    },
+    {
+      "id": "70f9fc41-1ae6-44bf-8f8e-e0cb1cde0e70",
+      "title": "PlayStation: The Official Magazine, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2010",
+        "start": "2010-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/70f9fc41-1ae6-44bf-8f8e-e0cb1cde0e70",
+      "number": "30"
+    },
+    {
+      "id": "93c2db19-836c-4c9b-a66c-8bff2873c9ab",
+      "title": "PlayStation: The Official Magazine, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2010",
+        "start": "2010-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93c2db19-836c-4c9b-a66c-8bff2873c9ab",
+      "number": "31"
+    },
+    {
+      "id": "bd422f6c-60c9-4a40-8c50-d6f7eb3dd774",
+      "title": "PlayStation: The Official Magazine, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2010",
+        "start": "2010-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bd422f6c-60c9-4a40-8c50-d6f7eb3dd774",
+      "number": "32"
+    },
+    {
+      "id": "828b38ca-8262-4015-8ce6-95df3b914915",
+      "title": "PlayStation: The Official Magazine, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2010",
+        "start": "2010-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/828b38ca-8262-4015-8ce6-95df3b914915",
+      "number": "33"
+    },
+    {
+      "id": "90381bcc-31a2-4980-9215-7e8b3400bd9a",
+      "title": "PlayStation: The Official Magazine, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2010",
+        "start": "2010-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90381bcc-31a2-4980-9215-7e8b3400bd9a",
+      "number": "34"
+    },
+    {
+      "id": "cc448b29-316e-424a-ac36-d6c70a808ea9",
+      "title": "PlayStation: The Official Magazine, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2010",
+        "start": "2010-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc448b29-316e-424a-ac36-d6c70a808ea9",
+      "number": "35"
+    },
+    {
+      "id": "50c69dd8-8da7-46be-ab06-d0f337363aa3",
+      "title": "PlayStation: The Official Magazine, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2010",
+        "start": "2010-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50c69dd8-8da7-46be-ab06-d0f337363aa3",
+      "number": "36"
+    },
+    {
+      "id": "e81272c7-b8f4-410c-81aa-90247e00af7f",
+      "title": "PlayStation: The Official Magazine, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2010",
+        "start": "2010-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e81272c7-b8f4-410c-81aa-90247e00af7f",
+      "number": "37"
+    },
+    {
+      "id": "74426085-4a4d-49be-8531-0cd1aa85f60f",
+      "title": "PlayStation: The Official Magazine, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2010",
+        "start": "2010-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/74426085-4a4d-49be-8531-0cd1aa85f60f",
+      "number": "38"
+    },
+    {
+      "id": "93262ea6-4a30-4cf4-b2b6-11990fa760cd",
+      "title": "PlayStation: The Official Magazine, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2010",
+        "start": "2010-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93262ea6-4a30-4cf4-b2b6-11990fa760cd",
+      "number": "39"
+    },
+    {
+      "id": "4758abfa-e44c-4e19-83f8-10351543ecf5",
+      "title": "PlayStation: The Official Magazine, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2010",
+        "start": "2010-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/4758abfa-e44c-4e19-83f8-10351543ecf5",
+      "number": "40"
+    },
+    {
+      "id": "1cb3ba8d-eae5-4f80-a8ae-4d6534126222",
+      "title": "PlayStation: The Official Magazine, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2011",
+        "start": "2011-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1cb3ba8d-eae5-4f80-a8ae-4d6534126222",
+      "number": "41"
+    },
+    {
+      "id": "67aa5231-20c9-47f7-8b80-ea5725f89b9c",
+      "title": "PlayStation: The Official Magazine, Issue 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2011",
+        "start": "2011-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/67aa5231-20c9-47f7-8b80-ea5725f89b9c",
+      "number": "42"
+    },
+    {
+      "id": "3d3660e0-9f97-4f63-822f-936370a658a6",
+      "title": "PlayStation: The Official Magazine, Issue 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2011",
+        "start": "2011-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3d3660e0-9f97-4f63-822f-936370a658a6",
+      "number": "43"
+    },
+    {
+      "id": "a0b45392-d885-4a54-90ac-a9293460c4df",
+      "title": "PlayStation: The Official Magazine, Issue 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2011",
+        "start": "2011-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0b45392-d885-4a54-90ac-a9293460c4df",
+      "number": "44"
+    },
+    {
+      "id": "f7e9c6d6-1205-40af-8549-86413b8bff4c",
+      "title": "PlayStation: The Official Magazine, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2011",
+        "start": "2011-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f7e9c6d6-1205-40af-8549-86413b8bff4c",
+      "number": "45"
+    },
+    {
+      "id": "dc93e692-0840-453e-bbd1-1685035e7ea0",
+      "title": "PlayStation: The Official Magazine, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2011",
+        "start": "2011-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dc93e692-0840-453e-bbd1-1685035e7ea0",
+      "number": "46"
+    },
+    {
+      "id": "aa648117-0022-44c3-968c-d7f1cf0bb6c8",
+      "title": "PlayStation: The Official Magazine, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2011",
+        "start": "2011-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa648117-0022-44c3-968c-d7f1cf0bb6c8",
+      "number": "47"
+    },
+    {
+      "id": "e6a26207-aca1-4524-8c46-c1d6465b9ec9",
+      "title": "PlayStation: The Official Magazine, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2011",
+        "start": "2011-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e6a26207-aca1-4524-8c46-c1d6465b9ec9",
+      "number": "48"
+    },
+    {
+      "id": "ad089991-f6d2-498f-84ca-60ae014f9a43",
+      "title": "PlayStation: The Official Magazine, Issue 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2011",
+        "start": "2011-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ad089991-f6d2-498f-84ca-60ae014f9a43",
+      "number": "49"
+    },
+    {
+      "id": "3d3dc26f-a78c-4c82-8ed9-d7a196476f63",
+      "title": "PlayStation: The Official Magazine, Issue 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2011",
+        "start": "2011-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3d3dc26f-a78c-4c82-8ed9-d7a196476f63",
+      "number": "50"
+    },
+    {
+      "id": "25c36c1f-ad0e-44c2-af3b-02cfd42cde46",
+      "title": "PlayStation: The Official Magazine, Issue 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2011",
+        "start": "2011-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/25c36c1f-ad0e-44c2-af3b-02cfd42cde46",
+      "number": "51"
+    },
+    {
+      "id": "e6ff06d8-92fa-4f2e-94cc-c51a19393608",
+      "title": "PlayStation: The Official Magazine, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2011",
+        "start": "2011-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e6ff06d8-92fa-4f2e-94cc-c51a19393608",
+      "number": "52"
+    },
+    {
+      "id": "dbf02c41-26b5-4f79-b9bb-4f6746904b69",
+      "title": "PlayStation: The Official Magazine, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2011",
+        "start": "2011-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/dbf02c41-26b5-4f79-b9bb-4f6746904b69",
+      "number": "53"
+    },
+    {
+      "id": "55721a3c-0041-4d84-b7d3-2f1b0261e745",
+      "title": "PlayStation: The Official Magazine, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2012",
+        "start": "2012-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/55721a3c-0041-4d84-b7d3-2f1b0261e745",
+      "number": "54"
+    },
+    {
+      "id": "fe385e2b-4abe-4395-a449-135a2392035a",
+      "title": "PlayStation: The Official Magazine, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2012",
+        "start": "2012-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fe385e2b-4abe-4395-a449-135a2392035a",
+      "number": "55"
+    },
+    {
+      "id": "b28125b3-63c2-436c-85e8-e0ac146218d7",
+      "title": "PlayStation: The Official Magazine, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2012",
+        "start": "2012-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b28125b3-63c2-436c-85e8-e0ac146218d7",
+      "number": "56"
+    },
+    {
+      "id": "21e61882-efd1-4fdf-bf8d-15fe6a3c751d",
+      "title": "PlayStation: The Official Magazine, Issue 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2012",
+        "start": "2012-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/21e61882-efd1-4fdf-bf8d-15fe6a3c751d",
+      "number": "57"
+    },
+    {
+      "id": "deceabad-3368-47b9-b4a7-64e5dd465b11",
+      "title": "PlayStation: The Official Magazine, Issue 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2012",
+        "start": "2012-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/deceabad-3368-47b9-b4a7-64e5dd465b11",
+      "number": "58"
+    },
+    {
+      "id": "6c6c6740-7e9b-4f13-a45f-e3de76ff2d4f",
+      "title": "PlayStation: The Official Magazine, Issue 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2012",
+        "start": "2012-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c6c6740-7e9b-4f13-a45f-e3de76ff2d4f",
+      "number": "59"
+    },
+    {
+      "id": "85e88ce4-1450-4891-8a39-f44014f393e6",
+      "title": "PlayStation: The Official Magazine, Issue 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2012",
+        "start": "2012-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/85e88ce4-1450-4891-8a39-f44014f393e6",
+      "number": "60"
+    },
+    {
+      "id": "29fadd9a-4313-443a-8298-3618e9578f10",
+      "title": "PlayStation: The Official Magazine, Issue 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2012",
+        "start": "2012-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29fadd9a-4313-443a-8298-3618e9578f10",
+      "number": "62"
+    },
+    {
+      "id": "630ebd56-f511-40e2-a379-abeb7e68e529",
+      "title": "PlayStation: The Official Magazine, Issue 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2012",
+        "start": "2012-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/630ebd56-f511-40e2-a379-abeb7e68e529",
+      "number": "63"
+    },
+    {
+      "id": "232aed99-4e4d-4fc0-ab6d-dbc9a9dea6b2",
+      "title": "PlayStation: The Official Magazine, Issue 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2012",
+        "start": "2012-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/232aed99-4e4d-4fc0-ab6d-dbc9a9dea6b2",
+      "number": "64"
+    },
+    {
+      "id": "ab621340-e5c1-461e-8d15-cb1a01847f8a",
+      "title": "PlayStation: The Official Magazine, Issue 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2012",
+        "start": "2012-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab621340-e5c1-461e-8d15-cb1a01847f8a",
+      "number": "65"
+    }
+  ],
+  "by_title": {
+    "PlayStation: The Official Magazine, Issue 1": "0b1b8769-83b9-4ccb-a52e-4008a1278308",
+    "PlayStation: The Official Magazine, Issue 2": "5a279958-4e3f-4d90-ae35-6d021190470d",
+    "PlayStation: The Official Magazine, Issue 3": "8ae40c65-3a26-4bde-a838-5e9ba91a7429",
+    "PlayStation: The Official Magazine, Issue 4": "70275ee5-16e8-4fbf-a911-25f16fa49b4f",
+    "PlayStation: The Official Magazine, Issue 5": "31afa1b9-8e4e-4df6-8c48-7671a52ae7e9",
+    "PlayStation: The Official Magazine, Issue 6": "08adc8db-9e4d-4afc-bab2-ead30bbe59a7",
+    "PlayStation: The Official Magazine, Issue 7": "e9a426dd-0de5-45a7-a1b0-2abacec169b8",
+    "PlayStation: The Official Magazine, Issue 8": "f14c217d-15ab-4025-a204-ddff7ca13e92",
+    "PlayStation: The Official Magazine, Issue 9": "c13e654f-955d-4d18-b62e-835ee684b5d7",
+    "PlayStation: The Official Magazine, Issue 10": "e28df7b5-a779-4477-bd28-0e6823357c71",
+    "PlayStation: The Official Magazine, Issue 11": "ec74ff1b-1201-40c4-8493-6549b7a6b712",
+    "PlayStation: The Official Magazine, Issue 12": "90f5bafe-af6b-43c6-9379-d4f93a45d510",
+    "PlayStation: The Official Magazine, Issue 13": "615fe1f0-fa39-4661-8015-b2fb9f604a2b",
+    "PlayStation: The Official Magazine, Issue 14": "52852aa9-939d-4e46-b4d9-61e0ac8edc1f",
+    "PlayStation: The Official Magazine, Issue 15": "b6e6f376-0235-4c0f-954d-c04b1285b5c6",
+    "PlayStation: The Official Magazine, Issue 16": "bc24f9a5-22f4-44e3-94c2-016ed1e46157",
+    "PlayStation: The Official Magazine, Issue 17": "5dee62af-8abb-42b2-bb78-76627771bb57",
+    "PlayStation: The Official Magazine, Issue 18": "f214ffcb-7df5-47c4-8948-70ea018760e8",
+    "PlayStation: The Official Magazine, Issue 19": "78a6eb05-1cb6-4a1e-ad77-3f4f6c0b9f22",
+    "PlayStation: The Official Magazine, Issue 20": "453e5ba7-7a22-44f5-80e6-b8f7a6f93ab9",
+    "PlayStation: The Official Magazine, Issue 21": "385f5f81-737e-4d3d-8a9d-8cea0b73eac7",
+    "PlayStation: The Official Magazine, Issue 22": "c8f6dd8d-ed5a-41e9-8f70-f1ddcbee3102",
+    "PlayStation: The Official Magazine, Issue 23": "9dae2c3a-1271-4b01-ae0c-e03d1f8506a9",
+    "PlayStation: The Official Magazine, Issue 24": "d2555e5e-91cb-4c58-8e76-edca22653c69",
+    "PlayStation: The Official Magazine, Issue 25": "b044b85b-b4e6-474d-9673-b8ffc46330d2",
+    "PlayStation: The Official Magazine, Issue 26": "b1aabdae-ad17-469b-98a5-55d23d4468a6",
+    "PlayStation: The Official Magazine, Issue 27": "70369bb9-38b5-4a9b-bfd7-70f5d634139b",
+    "PlayStation: The Official Magazine, Issue 28": "3a3286cf-4c55-421c-b4a8-d489438c68b3",
+    "PlayStation: The Official Magazine, Issue 29": "36e401cd-4767-465f-8ab8-cf019ba18444",
+    "PlayStation: The Official Magazine, Issue 30": "70f9fc41-1ae6-44bf-8f8e-e0cb1cde0e70",
+    "PlayStation: The Official Magazine, Issue 31": "93c2db19-836c-4c9b-a66c-8bff2873c9ab",
+    "PlayStation: The Official Magazine, Issue 32": "bd422f6c-60c9-4a40-8c50-d6f7eb3dd774",
+    "PlayStation: The Official Magazine, Issue 33": "828b38ca-8262-4015-8ce6-95df3b914915",
+    "PlayStation: The Official Magazine, Issue 34": "90381bcc-31a2-4980-9215-7e8b3400bd9a",
+    "PlayStation: The Official Magazine, Issue 35": "cc448b29-316e-424a-ac36-d6c70a808ea9",
+    "PlayStation: The Official Magazine, Issue 36": "50c69dd8-8da7-46be-ab06-d0f337363aa3",
+    "PlayStation: The Official Magazine, Issue 37": "e81272c7-b8f4-410c-81aa-90247e00af7f",
+    "PlayStation: The Official Magazine, Issue 38": "74426085-4a4d-49be-8531-0cd1aa85f60f",
+    "PlayStation: The Official Magazine, Issue 39": "93262ea6-4a30-4cf4-b2b6-11990fa760cd",
+    "PlayStation: The Official Magazine, Issue 40": "4758abfa-e44c-4e19-83f8-10351543ecf5",
+    "PlayStation: The Official Magazine, Issue 41": "1cb3ba8d-eae5-4f80-a8ae-4d6534126222",
+    "PlayStation: The Official Magazine, Issue 42": "67aa5231-20c9-47f7-8b80-ea5725f89b9c",
+    "PlayStation: The Official Magazine, Issue 43": "3d3660e0-9f97-4f63-822f-936370a658a6",
+    "PlayStation: The Official Magazine, Issue 44": "a0b45392-d885-4a54-90ac-a9293460c4df",
+    "PlayStation: The Official Magazine, Issue 45": "f7e9c6d6-1205-40af-8549-86413b8bff4c",
+    "PlayStation: The Official Magazine, Issue 46": "dc93e692-0840-453e-bbd1-1685035e7ea0",
+    "PlayStation: The Official Magazine, Issue 47": "aa648117-0022-44c3-968c-d7f1cf0bb6c8",
+    "PlayStation: The Official Magazine, Issue 48": "e6a26207-aca1-4524-8c46-c1d6465b9ec9",
+    "PlayStation: The Official Magazine, Issue 49": "ad089991-f6d2-498f-84ca-60ae014f9a43",
+    "PlayStation: The Official Magazine, Issue 50": "3d3dc26f-a78c-4c82-8ed9-d7a196476f63",
+    "PlayStation: The Official Magazine, Issue 51": "25c36c1f-ad0e-44c2-af3b-02cfd42cde46",
+    "PlayStation: The Official Magazine, Issue 52": "e6ff06d8-92fa-4f2e-94cc-c51a19393608",
+    "PlayStation: The Official Magazine, Issue 53": "dbf02c41-26b5-4f79-b9bb-4f6746904b69",
+    "PlayStation: The Official Magazine, Issue 54": "55721a3c-0041-4d84-b7d3-2f1b0261e745",
+    "PlayStation: The Official Magazine, Issue 55": "fe385e2b-4abe-4395-a449-135a2392035a",
+    "PlayStation: The Official Magazine, Issue 56": "b28125b3-63c2-436c-85e8-e0ac146218d7",
+    "PlayStation: The Official Magazine, Issue 57": "21e61882-efd1-4fdf-bf8d-15fe6a3c751d",
+    "PlayStation: The Official Magazine, Issue 58": "deceabad-3368-47b9-b4a7-64e5dd465b11",
+    "PlayStation: The Official Magazine, Issue 59": "6c6c6740-7e9b-4f13-a45f-e3de76ff2d4f",
+    "PlayStation: The Official Magazine, Issue 60": "85e88ce4-1450-4891-8a39-f44014f393e6",
+    "PlayStation: The Official Magazine, Issue 62": "29fadd9a-4313-443a-8298-3618e9578f10",
+    "PlayStation: The Official Magazine, Issue 63": "630ebd56-f511-40e2-a379-abeb7e68e529",
+    "PlayStation: The Official Magazine, Issue 64": "232aed99-4e4d-4fc0-ab6d-dbc9a9dea6b2",
+    "PlayStation: The Official Magazine, Issue 65": "ab621340-e5c1-461e-8d15-cb1a01847f8a"
+  }
+}

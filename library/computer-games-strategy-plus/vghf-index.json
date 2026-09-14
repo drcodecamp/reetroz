@@ -1,0 +1,2172 @@
+{
+  "provider": "vghf",
+  "folder_id": "9d04d369-f4ba-413c-b0e3-d50271f157a4",
+  "url": "https://archive.gamehistory.org/folder/9d04d369-f4ba-413c-b0e3-d50271f157a4",
+  "retrieved_at": "2026-09-13T22:47:58+00:00",
+  "expected": 4,
+  "count": 121,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "4ac763d7-2e14-4541-a3db-8c13c09b8a9a",
+      "title": "Strategy Plus, Issue 1 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1990",
+        "start": "1990-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4ac763d7-2e14-4541-a3db-8c13c09b8a9a",
+      "number": "1",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "6c9c1be0-734e-4f2f-9967-cb457211f47f",
+      "title": "Strategy Plus, Issue 2 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1990",
+        "start": "1990-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c9c1be0-734e-4f2f-9967-cb457211f47f",
+      "number": "2",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "32067063-2439-4930-bec1-5d21a188bb36",
+      "title": "Strategy Plus, Issue 4 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1991",
+        "start": "1991-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/32067063-2439-4930-bec1-5d21a188bb36",
+      "number": "4",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "5d57f34c-f081-42e5-a947-885211edc39a",
+      "title": "Strategy Plus, Issue 5 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1991",
+        "start": "1991-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5d57f34c-f081-42e5-a947-885211edc39a",
+      "number": "5",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "cba211e4-9857-4754-90b8-1363c93df622",
+      "title": "Strategy Plus, Issue 6 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1991",
+        "start": "1991-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cba211e4-9857-4754-90b8-1363c93df622",
+      "number": "6",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "9838d695-dd0c-49e2-ac11-7f2bc83ed567",
+      "title": "Strategy Plus, Issue 7 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1991",
+        "start": "1991-04",
+        "end": "1991-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9838d695-dd0c-49e2-ac11-7f2bc83ed567",
+      "number": "7",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "b3b7b92e-2df3-4f59-bfa7-b956a15e0eed",
+      "title": "Strategy Plus, Issue 9 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1991",
+        "start": "1991-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b3b7b92e-2df3-4f59-bfa7-b956a15e0eed",
+      "number": "9",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "cbda1d91-1421-4a1a-8146-ade141d52ef2",
+      "title": "Strategy Plus, Issue 10 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1991",
+        "start": "1991-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cbda1d91-1421-4a1a-8146-ade141d52ef2",
+      "number": "10",
+      "parent_id": "ff76df23-93e5-4716-888a-705cbaef5122"
+    },
+    {
+      "id": "dbd78858-8072-439f-9e3f-ecfdb00c9ba5",
+      "title": "Computer Games Strategy Plus, Issue 11 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1991",
+        "start": "1991-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dbd78858-8072-439f-9e3f-ecfdb00c9ba5",
+      "number": "11",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "a1dd9b7c-e823-4d56-bb9b-64be93717e9c",
+      "title": "Computer Games Strategy Plus, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1991",
+        "start": "1991-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a1dd9b7c-e823-4d56-bb9b-64be93717e9c",
+      "number": "13",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "af13488a-9bbf-4c1e-af1e-f475cf244edd",
+      "title": "Computer Games Strategy Plus, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1992",
+        "start": "1992-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/af13488a-9bbf-4c1e-af1e-f475cf244edd",
+      "number": "14",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "ee80da55-5c65-4bc5-b113-64fe3a729eed",
+      "title": "Computer Games Strategy Plus, Issue 16 (UK)",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1992",
+        "start": "1992-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ee80da55-5c65-4bc5-b113-64fe3a729eed",
+      "number": "16",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "dc8dc3ca-68a8-4b58-b5d2-f4d00dde17e8",
+      "title": "Computer Games Strategy Plus, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1992",
+        "start": "1992-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dc8dc3ca-68a8-4b58-b5d2-f4d00dde17e8",
+      "number": "19",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "7edce9cb-118d-4167-be18-cf25fac7d9c8",
+      "title": "Computer Games Strategy Plus, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1992",
+        "start": "1992-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7edce9cb-118d-4167-be18-cf25fac7d9c8",
+      "number": "22",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "6ea7f289-1480-4bbb-a2ca-35c6a26a331c",
+      "title": "Computer Games Strategy Plus, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1992",
+        "start": "1992-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6ea7f289-1480-4bbb-a2ca-35c6a26a331c",
+      "number": "23",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "9c1af1d0-bc8d-4b93-9128-61465f4bad19",
+      "title": "Computer Games Strategy Plus, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1992",
+        "start": "1992-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9c1af1d0-bc8d-4b93-9128-61465f4bad19",
+      "number": "24",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "20bd2d49-ead3-4871-adfa-3984f807e82c",
+      "title": "Computer Games Strategy Plus, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1992",
+        "start": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/20bd2d49-ead3-4871-adfa-3984f807e82c",
+      "number": "25",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "b62419f5-0654-404c-84bf-49dedb2f1881",
+      "title": "Computer Games Strategy Plus, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b62419f5-0654-404c-84bf-49dedb2f1881",
+      "number": "26",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "78f25ce8-2e61-4435-b50b-b952b8e5d2f9",
+      "title": "Computer Games Strategy Plus, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1993",
+        "start": "1993-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/78f25ce8-2e61-4435-b50b-b952b8e5d2f9",
+      "number": "27",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "facd5572-4bb4-4157-9c67-39a76ac7b1cb",
+      "title": "Computer Games Strategy Plus, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1993",
+        "start": "1993-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/facd5572-4bb4-4157-9c67-39a76ac7b1cb",
+      "number": "28",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "4a0f9647-fb5a-401b-aa4c-9d8cf08f29d3",
+      "title": "Computer Games Strategy Plus, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1993",
+        "start": "1993-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a0f9647-fb5a-401b-aa4c-9d8cf08f29d3",
+      "number": "29",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "2b89a894-42f7-417d-b09a-74995ff40c14",
+      "title": "Computer Games Strategy Plus, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1993",
+        "start": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2b89a894-42f7-417d-b09a-74995ff40c14",
+      "number": "30",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "83b3de16-bc24-42fd-b1ec-f91817bce3b0",
+      "title": "Computer Games Strategy Plus, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1993",
+        "start": "1993-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/83b3de16-bc24-42fd-b1ec-f91817bce3b0",
+      "number": "31",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "707e113c-7871-4134-9271-e3493721298b",
+      "title": "Computer Games Strategy Plus, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1993",
+        "start": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/707e113c-7871-4134-9271-e3493721298b",
+      "number": "32",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "cb2eddca-2978-432a-9572-b063c57e2541",
+      "title": "Computer Games Strategy Plus, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1993",
+        "start": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cb2eddca-2978-432a-9572-b063c57e2541",
+      "number": "33",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "52e9f149-e341-4a97-9898-22ba72c11151",
+      "title": "Computer Games Strategy Plus, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1993",
+        "start": "1993-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/52e9f149-e341-4a97-9898-22ba72c11151",
+      "number": "34",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "b325f60d-3dde-4cfa-95b8-8f7986e155ac",
+      "title": "Computer Games Strategy Plus, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1993",
+        "start": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b325f60d-3dde-4cfa-95b8-8f7986e155ac",
+      "number": "35",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "758062b8-1462-46cf-b4d8-ad1bda2426b1",
+      "title": "Computer Games Strategy Plus, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1993",
+        "start": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/758062b8-1462-46cf-b4d8-ad1bda2426b1",
+      "number": "36",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "ec87e68f-4858-48bd-971c-47a2f1584cbb",
+      "title": "Computer Games Strategy Plus, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1993",
+        "start": "1993-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec87e68f-4858-48bd-971c-47a2f1584cbb",
+      "number": "37",
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "8947972e-a8a9-49fc-8cad-2829a0043143",
+      "title": "Computer Games Strategy Plus, Number 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1994",
+        "start": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8947972e-a8a9-49fc-8cad-2829a0043143",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "de61e912-b82a-4802-b071-458710cf08fc",
+      "title": "Computer Games Strategy Plus, Number 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de61e912-b82a-4802-b071-458710cf08fc",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "36948635-e88b-4fc2-b393-f1acf4ab5e82",
+      "title": "Computer Games Strategy Plus, Number 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36948635-e88b-4fc2-b393-f1acf4ab5e82",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "e5106158-4c3a-4227-9953-bad2cc484307",
+      "title": "Computer Games Strategy Plus, Number 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e5106158-4c3a-4227-9953-bad2cc484307",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "6e761df9-3fd8-4212-8648-8e9b8daf9bea",
+      "title": "Computer Games Strategy Plus, Number 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6e761df9-3fd8-4212-8648-8e9b8daf9bea",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "ba4a4051-fc1b-468a-a2b4-4c62e01f9d35",
+      "title": "Computer Games Strategy Plus, Number 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ba4a4051-fc1b-468a-a2b4-4c62e01f9d35",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "f18c5134-7384-41d7-8e13-110ee24e8501",
+      "title": "Computer Games Strategy Plus, Number 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f18c5134-7384-41d7-8e13-110ee24e8501",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "42207e5e-82ea-4b49-be37-60d21d90fa8c",
+      "title": "Computer Games Strategy Plus, Number 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/42207e5e-82ea-4b49-be37-60d21d90fa8c",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "c82d6feb-f0c5-4fc7-b335-ec1b37585402",
+      "title": "Computer Games Strategy Plus, Number 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c82d6feb-f0c5-4fc7-b335-ec1b37585402",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "d41312bd-ed5d-4bbc-95a2-bf66bbefca8c",
+      "title": "Computer Games Strategy Plus, Number 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d41312bd-ed5d-4bbc-95a2-bf66bbefca8c",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "32bb94f1-3418-4056-baaf-f9234cb89498",
+      "title": "Computer Games Strategy Plus, Number 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/32bb94f1-3418-4056-baaf-f9234cb89498",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "64d786d3-e375-4b04-9e86-4dfa8395c554",
+      "title": "Computer Games Strategy Plus, Number 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/64d786d3-e375-4b04-9e86-4dfa8395c554",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "49161844-192d-4890-9206-4d692e7bdb50",
+      "title": "Computer Games Strategy Plus, Number 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/49161844-192d-4890-9206-4d692e7bdb50",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "f9b6bfc0-06a3-4204-af77-ff5e22b13242",
+      "title": "Computer Games Strategy Plus, Number 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f9b6bfc0-06a3-4204-af77-ff5e22b13242",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "6eef3818-aaaf-4444-bfd7-9e99aa266800",
+      "title": "Computer Games Strategy Plus, Number 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6eef3818-aaaf-4444-bfd7-9e99aa266800",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "897d0a3c-798a-499a-8ba0-b93c24e61059",
+      "title": "Computer Games Strategy Plus, Number 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/897d0a3c-798a-499a-8ba0-b93c24e61059",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "eae2ef9f-c789-4caf-80c4-a62262d87988",
+      "title": "Computer Games Strategy Plus, Number 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eae2ef9f-c789-4caf-80c4-a62262d87988",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "1329b08d-ca24-4cd9-94ea-8ab03f6ff161",
+      "title": "Computer Games Strategy Plus, Number 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1329b08d-ca24-4cd9-94ea-8ab03f6ff161",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "9344446f-3da6-464a-9abb-44f003c4c1a7",
+      "title": "1997 Annual Computer Games Buyer's Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1997",
+        "start": "1997",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/9344446f-3da6-464a-9abb-44f003c4c1a7",
+      "number": null,
+      "parent_id": "4917eff2-2050-4e05-9657-e54ab36be996"
+    },
+    {
+      "id": "72734b5f-8792-4985-aca7-afe23fa2027f",
+      "title": "Computer Games Strategy Plus, Number 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1997",
+        "start": "1997-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72734b5f-8792-4985-aca7-afe23fa2027f",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "f390ded9-e142-4af3-abc1-7c64abc048ad",
+      "title": "Computer Games Strategy Plus, Number 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1997",
+        "start": "1997-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f390ded9-e142-4af3-abc1-7c64abc048ad",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "5a5fbb7b-7cda-40e8-ba6a-1c7c1b710e8e",
+      "title": "Computer Games Strategy Plus, Number 76",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1997",
+        "start": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a5fbb7b-7cda-40e8-ba6a-1c7c1b710e8e",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "fd5e2d08-0412-4aee-92ac-49d184320ffa",
+      "title": "Computer Games Strategy Plus, Number 77",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fd5e2d08-0412-4aee-92ac-49d184320ffa",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "a4068862-c171-4a20-8c8c-5843c74e7a6e",
+      "title": "Computer Games Strategy Plus, Number 78",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a4068862-c171-4a20-8c8c-5843c74e7a6e",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "e08591b0-2c68-4caf-915d-d6cc7a6e86d0",
+      "title": "Computer Games Strategy Plus, Number 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e08591b0-2c68-4caf-915d-d6cc7a6e86d0",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "4d26b48d-c6e6-42c1-97fc-7d1799900da0",
+      "title": "Computer Games Strategy Plus, Number 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4d26b48d-c6e6-42c1-97fc-7d1799900da0",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "36df7f22-9f24-490e-ac4c-2cb5df003a76",
+      "title": "Computer Games Strategy Plus, Number 81",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36df7f22-9f24-490e-ac4c-2cb5df003a76",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "4a236329-1d33-43ea-8e7e-01a61f055258",
+      "title": "Computer Games Strategy Plus, Number 82",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a236329-1d33-43ea-8e7e-01a61f055258",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "ff3fc807-2cb1-45a1-8c6e-4ab2c51753fb",
+      "title": "Computer Games Strategy Plus, Number 83",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ff3fc807-2cb1-45a1-8c6e-4ab2c51753fb",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "a40ab1ab-e1f6-4ae4-8b60-6bb881733a7f",
+      "title": "Computer Games Strategy Plus, Number 84",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a40ab1ab-e1f6-4ae4-8b60-6bb881733a7f",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "0e634b00-2b73-4464-90fa-07abd028c50c",
+      "title": "Computer Games Strategy Plus, Number 85",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1997",
+        "start": "1997-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0e634b00-2b73-4464-90fa-07abd028c50c",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "086f675d-7319-47d7-9a21-90cf2f52db0f",
+      "title": "Computer Games Strategy Plus, Number 86",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1998",
+        "start": "1998-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/086f675d-7319-47d7-9a21-90cf2f52db0f",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "e18bd3e9-b182-46d3-93c6-7b44cccd7e54",
+      "title": "Computer Games Strategy Plus, Number 87",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1998",
+        "start": "1998-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e18bd3e9-b182-46d3-93c6-7b44cccd7e54",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "66817dc1-b6d5-43dd-81e5-65143b26f851",
+      "title": "Computer Games Strategy Plus, Number 88",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1998",
+        "start": "1998-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/66817dc1-b6d5-43dd-81e5-65143b26f851",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "77a5ccab-1dae-4d6b-8a6d-95f8c85bf5f1",
+      "title": "Computer Games Strategy Plus, Number 89",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1998",
+        "start": "1998-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77a5ccab-1dae-4d6b-8a6d-95f8c85bf5f1",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "5ea874d2-fb9f-455e-9256-e63bc6c2c280",
+      "title": "Computer Games Strategy Plus, Number 90",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1998",
+        "start": "1998-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5ea874d2-fb9f-455e-9256-e63bc6c2c280",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "ead647b0-7401-42c2-8147-a3d794a59cac",
+      "title": "Computer Games Strategy Plus, Number 91",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1998",
+        "start": "1998-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ead647b0-7401-42c2-8147-a3d794a59cac",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "3ee2f38c-a73b-40fb-ac3f-8cf6dc6c63b3",
+      "title": "Computer Games Strategy Plus, Number 92",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1998",
+        "start": "1998-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3ee2f38c-a73b-40fb-ac3f-8cf6dc6c63b3",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "2293cb12-7e35-4156-a6b3-ab9792658d89",
+      "title": "Computer Games Strategy Plus, Number 93",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1998",
+        "start": "1998-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2293cb12-7e35-4156-a6b3-ab9792658d89",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "cfd1b0d2-e637-43a6-9e20-4b1bcf3b3e14",
+      "title": "Computer Games Strategy Plus, Number 94",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cfd1b0d2-e637-43a6-9e20-4b1bcf3b3e14",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "ab90a339-66ea-4c1b-a8ec-3ce43944f21b",
+      "title": "Computer Games Strategy Plus, Number 95",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1998",
+        "start": "1998-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab90a339-66ea-4c1b-a8ec-3ce43944f21b",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "9a24cb12-2232-42e8-aae6-c831706cff9f",
+      "title": "Computer Games Strategy Plus, Number 96",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1998",
+        "start": "1998-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a24cb12-2232-42e8-aae6-c831706cff9f",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "60f8536a-5e1d-4a96-b83c-1834fa5ac354",
+      "title": "Computer Games Strategy Plus, Number 97",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1998",
+        "start": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/60f8536a-5e1d-4a96-b83c-1834fa5ac354",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "35936e88-e73e-40b1-8569-e559e153763f",
+      "title": "Computer Games Strategy Plus, Number 98",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1999",
+        "start": "1999-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/35936e88-e73e-40b1-8569-e559e153763f",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "9a4e2aa3-68f7-4eca-876c-507aac318543",
+      "title": "Computer Games Strategy Plus, Number 99",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a4e2aa3-68f7-4eca-876c-507aac318543",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "43ef87d4-84f0-4a27-9ef4-1b62c2bc280f",
+      "title": "Computer Games Strategy Plus, Number 100",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43ef87d4-84f0-4a27-9ef4-1b62c2bc280f",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "5e1290be-e828-485f-901d-224c325afa88",
+      "title": "Computer Games Strategy Plus, Number 101",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1999",
+        "start": "1999-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5e1290be-e828-485f-901d-224c325afa88",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "29eb1189-8502-4362-9a55-17134886c2f8",
+      "title": "Computer Games Strategy Plus, Number 102",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1999",
+        "start": "1999-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29eb1189-8502-4362-9a55-17134886c2f8",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "ab5a0b23-9b49-4e8b-9389-c1fabedc80af",
+      "title": "Computer Games Strategy Plus, Number 103",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab5a0b23-9b49-4e8b-9389-c1fabedc80af",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "645d087e-9e24-4e08-beba-c0e0d56addf8",
+      "title": "Computer Games Strategy Plus, Number 105",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1999",
+        "start": "1999-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/645d087e-9e24-4e08-beba-c0e0d56addf8",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "4416d186-9442-44a3-af09-07e376a18310",
+      "title": "Computer Games Strategy Plus, Number 106",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4416d186-9442-44a3-af09-07e376a18310",
+      "number": null,
+      "parent_id": "3291ed43-9be6-4537-b90c-b44d17b33931"
+    },
+    {
+      "id": "09a392ec-e910-4098-8ba3-3c24c1a45cd0",
+      "title": "Computer Games Magazine, Number 109",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/09a392ec-e910-4098-8ba3-3c24c1a45cd0",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "82ab0c60-8fbd-4d8f-95a2-a5d7c05aeab8",
+      "title": "Computer Games Magazine, Number 113",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/82ab0c60-8fbd-4d8f-95a2-a5d7c05aeab8",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "5b7aa454-333d-4d51-a103-b60315be7d45",
+      "title": "Computer Games Magazine, Number 116",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5b7aa454-333d-4d51-a103-b60315be7d45",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "d79e02fa-d390-4a42-9bd2-597b3338a645",
+      "title": "Computer Games Magazine, Number 119",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2000",
+        "start": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d79e02fa-d390-4a42-9bd2-597b3338a645",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "bed6a588-a634-4ab4-994f-d50f64354767",
+      "title": "Computer Games, Number 120",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bed6a588-a634-4ab4-994f-d50f64354767",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "7b80fa6a-7ec2-4e81-be54-76499891d35d",
+      "title": "Computer Games, Number 121",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7b80fa6a-7ec2-4e81-be54-76499891d35d",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "ca7693b5-6de8-4bf0-bd6e-dd33492d4fa9",
+      "title": "Computer Games, Number 122",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2001",
+        "start": "2001-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ca7693b5-6de8-4bf0-bd6e-dd33492d4fa9",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "f0aec50f-bfcd-47cf-bd57-119756c1395c",
+      "title": "Computer Games, Number 123",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f0aec50f-bfcd-47cf-bd57-119756c1395c",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "ce471815-66e4-4315-b39e-7cc4d58edeb7",
+      "title": "Computer Games, Number 124",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2001",
+        "start": "2001-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce471815-66e4-4315-b39e-7cc4d58edeb7",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "3c40ada3-45c2-49d5-8263-087f06e9e72a",
+      "title": "Computer Games, Number 126",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c40ada3-45c2-49d5-8263-087f06e9e72a",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "ed293005-d892-41b3-9a1b-f9f5b91004bd",
+      "title": "Computer Games, Number 127",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2001",
+        "start": "2001-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ed293005-d892-41b3-9a1b-f9f5b91004bd",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "22e301c0-515f-4307-b34a-754f52279c73",
+      "title": "Computer Games, Number 129",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2001",
+        "start": "2001-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/22e301c0-515f-4307-b34a-754f52279c73",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "876298d3-10cd-4333-9f65-926e94553923",
+      "title": "Computer Games, Number 131",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2001",
+        "start": "2001-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/876298d3-10cd-4333-9f65-926e94553923",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "3463657a-91f4-4285-85c4-675cec9abf0e",
+      "title": "Computer Games, Number 132",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2001",
+        "start": "2001-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3463657a-91f4-4285-85c4-675cec9abf0e",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "e86af3a4-7c4e-4380-b3ed-4e2441ebde35",
+      "title": "Computer Games, Number 134",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e86af3a4-7c4e-4380-b3ed-4e2441ebde35",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "b995069f-1ea0-470f-b102-dc7beae460de",
+      "title": "Computer Games, Number 136",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2002",
+        "start": "2002-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b995069f-1ea0-470f-b102-dc7beae460de",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "0c286529-5f5b-444e-94b1-b729c2bf295c",
+      "title": "Computer Games, Number 137",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0c286529-5f5b-444e-94b1-b729c2bf295c",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "2fbce942-e53d-4604-b576-c379aaa4ad94",
+      "title": "Computer Games, Number 139",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2002",
+        "start": "2002-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2fbce942-e53d-4604-b576-c379aaa4ad94",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "7d43b973-e2a1-4e01-b1ae-36495efd3d0e",
+      "title": "Computer Games, Number 141",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2002",
+        "start": "2002-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d43b973-e2a1-4e01-b1ae-36495efd3d0e",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "34116817-80c0-4063-8a87-2b574f0d9e75",
+      "title": "Computer Games, Number 142",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2002",
+        "start": "2002-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/34116817-80c0-4063-8a87-2b574f0d9e75",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "5b7df00f-a492-4344-a844-65dad77284ff",
+      "title": "Computer Games, Number 143",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2002",
+        "start": "2002-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5b7df00f-a492-4344-a844-65dad77284ff",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "58661faa-3728-44f9-8b4a-6ee84a1b7ac1",
+      "title": "Computer Games, Number 144",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2002",
+        "start": "2002-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/58661faa-3728-44f9-8b4a-6ee84a1b7ac1",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "791271de-62ca-4997-9004-b8f6f8250195",
+      "title": "Computer Games, Number 145",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2002",
+        "start": "2002-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/791271de-62ca-4997-9004-b8f6f8250195",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "dbd48b27-c381-47f4-b792-229309b9118d",
+      "title": "Computer Games, Number 146",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2003",
+        "start": "2003-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dbd48b27-c381-47f4-b792-229309b9118d",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "4b778eaf-ca9b-48fc-a1b8-622455f49538",
+      "title": "Computer Games, Number 147",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4b778eaf-ca9b-48fc-a1b8-622455f49538",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "79028705-4c56-4590-88fa-b2c344bb4fea",
+      "title": "Computer Games, Number 149",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/79028705-4c56-4590-88fa-b2c344bb4fea",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "ba4d1323-3fa0-41fd-b264-7b3ed2e61132",
+      "title": "Computer Games, Number 150",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ba4d1323-3fa0-41fd-b264-7b3ed2e61132",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "9ec25e1d-0df7-4afc-a777-9eef753c6861",
+      "title": "Computer Games, Number 151",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9ec25e1d-0df7-4afc-a777-9eef753c6861",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "f4829300-3aae-4861-a8b7-ebcc56a251b9",
+      "title": "Computer Games, Number 152",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f4829300-3aae-4861-a8b7-ebcc56a251b9",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "bd7e38ee-e10f-4144-9555-ae03072dc53b",
+      "title": "Computer Games, Number 153",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bd7e38ee-e10f-4144-9555-ae03072dc53b",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "ed706bec-a5f9-4153-b843-35df4109e095",
+      "title": "Computer Games, Number 154",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ed706bec-a5f9-4153-b843-35df4109e095",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "d05e56ad-e29e-41e9-bae4-b2e2366d96f1",
+      "title": "Computer Games, Number 157",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d05e56ad-e29e-41e9-bae4-b2e2366d96f1",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "9b821cda-d834-45ab-9f26-5c75d64f9594",
+      "title": "Computer Games, Number 158",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9b821cda-d834-45ab-9f26-5c75d64f9594",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "67be65f8-5a4b-4491-903a-4d8894926e57",
+      "title": "Computer Games, Number 173",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2005",
+        "start": "2005-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/67be65f8-5a4b-4491-903a-4d8894926e57",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "b46b7390-87b6-4351-bfd3-a354f033d71f",
+      "title": "Computer Games, Number 174",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2005",
+        "start": "2005-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b46b7390-87b6-4351-bfd3-a354f033d71f",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "0cd3dbc3-ddf2-4a9c-b998-06466b622143",
+      "title": "Computer Games, Number 175",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2005",
+        "start": "2005-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0cd3dbc3-ddf2-4a9c-b998-06466b622143",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "90ee59a9-5ce6-44ad-a01f-726eaac17e48",
+      "title": "Computer Games, Number 176",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2005",
+        "start": "2005-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90ee59a9-5ce6-44ad-a01f-726eaac17e48",
+      "number": null,
+      "parent_id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c"
+    },
+    {
+      "id": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c",
+      "title": "Computer Games",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "October 1999 – April 2007"
+      },
+      "url": "https://archive.gamehistory.org/folder/0786fa07-5b41-44eb-96cc-a3b8f26aa57c",
+      "number": null
+    },
+    {
+      "id": "3291ed43-9be6-4537-b90c-b44d17b33931",
+      "title": "Computer Games Strategy Plus",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "September 1991 – September 1999"
+      },
+      "url": "https://archive.gamehistory.org/folder/3291ed43-9be6-4537-b90c-b44d17b33931",
+      "number": null
+    },
+    {
+      "id": "4917eff2-2050-4e05-9657-e54ab36be996",
+      "title": "Computer Games Strategy Plus special issues",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/4917eff2-2050-4e05-9657-e54ab36be996",
+      "number": null
+    },
+    {
+      "id": "ff76df23-93e5-4716-888a-705cbaef5122",
+      "title": "Strategy Plus",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "October 1990 – August 1991"
+      },
+      "url": "https://archive.gamehistory.org/folder/ff76df23-93e5-4716-888a-705cbaef5122",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Strategy Plus, Issue 1 (UK)": "4ac763d7-2e14-4541-a3db-8c13c09b8a9a",
+    "Strategy Plus, Issue 2 (UK)": "6c9c1be0-734e-4f2f-9967-cb457211f47f",
+    "Strategy Plus, Issue 4 (UK)": "32067063-2439-4930-bec1-5d21a188bb36",
+    "Strategy Plus, Issue 5 (UK)": "5d57f34c-f081-42e5-a947-885211edc39a",
+    "Strategy Plus, Issue 6 (UK)": "cba211e4-9857-4754-90b8-1363c93df622",
+    "Strategy Plus, Issue 7 (UK)": "9838d695-dd0c-49e2-ac11-7f2bc83ed567",
+    "Strategy Plus, Issue 9 (UK)": "b3b7b92e-2df3-4f59-bfa7-b956a15e0eed",
+    "Strategy Plus, Issue 10 (UK)": "cbda1d91-1421-4a1a-8146-ade141d52ef2",
+    "Computer Games Strategy Plus, Issue 11 (UK)": "dbd78858-8072-439f-9e3f-ecfdb00c9ba5",
+    "Computer Games Strategy Plus, Issue 13": "a1dd9b7c-e823-4d56-bb9b-64be93717e9c",
+    "Computer Games Strategy Plus, Issue 14": "af13488a-9bbf-4c1e-af1e-f475cf244edd",
+    "Computer Games Strategy Plus, Issue 16 (UK)": "ee80da55-5c65-4bc5-b113-64fe3a729eed",
+    "Computer Games Strategy Plus, Issue 19": "dc8dc3ca-68a8-4b58-b5d2-f4d00dde17e8",
+    "Computer Games Strategy Plus, Issue 22": "7edce9cb-118d-4167-be18-cf25fac7d9c8",
+    "Computer Games Strategy Plus, Issue 23": "6ea7f289-1480-4bbb-a2ca-35c6a26a331c",
+    "Computer Games Strategy Plus, Issue 24": "9c1af1d0-bc8d-4b93-9128-61465f4bad19",
+    "Computer Games Strategy Plus, Issue 25": "20bd2d49-ead3-4871-adfa-3984f807e82c",
+    "Computer Games Strategy Plus, Issue 26": "b62419f5-0654-404c-84bf-49dedb2f1881",
+    "Computer Games Strategy Plus, Issue 27": "78f25ce8-2e61-4435-b50b-b952b8e5d2f9",
+    "Computer Games Strategy Plus, Issue 28": "facd5572-4bb4-4157-9c67-39a76ac7b1cb",
+    "Computer Games Strategy Plus, Issue 29": "4a0f9647-fb5a-401b-aa4c-9d8cf08f29d3",
+    "Computer Games Strategy Plus, Issue 30": "2b89a894-42f7-417d-b09a-74995ff40c14",
+    "Computer Games Strategy Plus, Issue 31": "83b3de16-bc24-42fd-b1ec-f91817bce3b0",
+    "Computer Games Strategy Plus, Issue 32": "707e113c-7871-4134-9271-e3493721298b",
+    "Computer Games Strategy Plus, Issue 33": "cb2eddca-2978-432a-9572-b063c57e2541",
+    "Computer Games Strategy Plus, Issue 34": "52e9f149-e341-4a97-9898-22ba72c11151",
+    "Computer Games Strategy Plus, Issue 35": "b325f60d-3dde-4cfa-95b8-8f7986e155ac",
+    "Computer Games Strategy Plus, Issue 36": "758062b8-1462-46cf-b4d8-ad1bda2426b1",
+    "Computer Games Strategy Plus, Issue 37": "ec87e68f-4858-48bd-971c-47a2f1584cbb",
+    "Computer Games Strategy Plus, Number 39": "8947972e-a8a9-49fc-8cad-2829a0043143",
+    "Computer Games Strategy Plus, Number 40": "de61e912-b82a-4802-b071-458710cf08fc",
+    "Computer Games Strategy Plus, Number 41": "36948635-e88b-4fc2-b393-f1acf4ab5e82",
+    "Computer Games Strategy Plus, Number 42": "e5106158-4c3a-4227-9953-bad2cc484307",
+    "Computer Games Strategy Plus, Number 43": "6e761df9-3fd8-4212-8648-8e9b8daf9bea",
+    "Computer Games Strategy Plus, Number 46": "ba4a4051-fc1b-468a-a2b4-4c62e01f9d35",
+    "Computer Games Strategy Plus, Number 49": "f18c5134-7384-41d7-8e13-110ee24e8501",
+    "Computer Games Strategy Plus, Number 50": "42207e5e-82ea-4b49-be37-60d21d90fa8c",
+    "Computer Games Strategy Plus, Number 51": "c82d6feb-f0c5-4fc7-b335-ec1b37585402",
+    "Computer Games Strategy Plus, Number 52": "d41312bd-ed5d-4bbc-95a2-bf66bbefca8c",
+    "Computer Games Strategy Plus, Number 53": "32bb94f1-3418-4056-baaf-f9234cb89498",
+    "Computer Games Strategy Plus, Number 54": "64d786d3-e375-4b04-9e86-4dfa8395c554",
+    "Computer Games Strategy Plus, Number 60": "49161844-192d-4890-9206-4d692e7bdb50",
+    "Computer Games Strategy Plus, Number 61": "f9b6bfc0-06a3-4204-af77-ff5e22b13242",
+    "Computer Games Strategy Plus, Number 63": "6eef3818-aaaf-4444-bfd7-9e99aa266800",
+    "Computer Games Strategy Plus, Number 69": "897d0a3c-798a-499a-8ba0-b93c24e61059",
+    "Computer Games Strategy Plus, Number 71": "eae2ef9f-c789-4caf-80c4-a62262d87988",
+    "Computer Games Strategy Plus, Number 73": "1329b08d-ca24-4cd9-94ea-8ab03f6ff161",
+    "1997 Annual Computer Games Buyer's Guide": "9344446f-3da6-464a-9abb-44f003c4c1a7",
+    "Computer Games Strategy Plus, Number 74": "72734b5f-8792-4985-aca7-afe23fa2027f",
+    "Computer Games Strategy Plus, Number 75": "f390ded9-e142-4af3-abc1-7c64abc048ad",
+    "Computer Games Strategy Plus, Number 76": "5a5fbb7b-7cda-40e8-ba6a-1c7c1b710e8e",
+    "Computer Games Strategy Plus, Number 77": "fd5e2d08-0412-4aee-92ac-49d184320ffa",
+    "Computer Games Strategy Plus, Number 78": "a4068862-c171-4a20-8c8c-5843c74e7a6e",
+    "Computer Games Strategy Plus, Number 79": "e08591b0-2c68-4caf-915d-d6cc7a6e86d0",
+    "Computer Games Strategy Plus, Number 80": "4d26b48d-c6e6-42c1-97fc-7d1799900da0",
+    "Computer Games Strategy Plus, Number 81": "36df7f22-9f24-490e-ac4c-2cb5df003a76",
+    "Computer Games Strategy Plus, Number 82": "4a236329-1d33-43ea-8e7e-01a61f055258",
+    "Computer Games Strategy Plus, Number 83": "ff3fc807-2cb1-45a1-8c6e-4ab2c51753fb",
+    "Computer Games Strategy Plus, Number 84": "a40ab1ab-e1f6-4ae4-8b60-6bb881733a7f",
+    "Computer Games Strategy Plus, Number 85": "0e634b00-2b73-4464-90fa-07abd028c50c",
+    "Computer Games Strategy Plus, Number 86": "086f675d-7319-47d7-9a21-90cf2f52db0f",
+    "Computer Games Strategy Plus, Number 87": "e18bd3e9-b182-46d3-93c6-7b44cccd7e54",
+    "Computer Games Strategy Plus, Number 88": "66817dc1-b6d5-43dd-81e5-65143b26f851",
+    "Computer Games Strategy Plus, Number 89": "77a5ccab-1dae-4d6b-8a6d-95f8c85bf5f1",
+    "Computer Games Strategy Plus, Number 90": "5ea874d2-fb9f-455e-9256-e63bc6c2c280",
+    "Computer Games Strategy Plus, Number 91": "ead647b0-7401-42c2-8147-a3d794a59cac",
+    "Computer Games Strategy Plus, Number 92": "3ee2f38c-a73b-40fb-ac3f-8cf6dc6c63b3",
+    "Computer Games Strategy Plus, Number 93": "2293cb12-7e35-4156-a6b3-ab9792658d89",
+    "Computer Games Strategy Plus, Number 94": "cfd1b0d2-e637-43a6-9e20-4b1bcf3b3e14",
+    "Computer Games Strategy Plus, Number 95": "ab90a339-66ea-4c1b-a8ec-3ce43944f21b",
+    "Computer Games Strategy Plus, Number 96": "9a24cb12-2232-42e8-aae6-c831706cff9f",
+    "Computer Games Strategy Plus, Number 97": "60f8536a-5e1d-4a96-b83c-1834fa5ac354",
+    "Computer Games Strategy Plus, Number 98": "35936e88-e73e-40b1-8569-e559e153763f",
+    "Computer Games Strategy Plus, Number 99": "9a4e2aa3-68f7-4eca-876c-507aac318543",
+    "Computer Games Strategy Plus, Number 100": "43ef87d4-84f0-4a27-9ef4-1b62c2bc280f",
+    "Computer Games Strategy Plus, Number 101": "5e1290be-e828-485f-901d-224c325afa88",
+    "Computer Games Strategy Plus, Number 102": "29eb1189-8502-4362-9a55-17134886c2f8",
+    "Computer Games Strategy Plus, Number 103": "ab5a0b23-9b49-4e8b-9389-c1fabedc80af",
+    "Computer Games Strategy Plus, Number 105": "645d087e-9e24-4e08-beba-c0e0d56addf8",
+    "Computer Games Strategy Plus, Number 106": "4416d186-9442-44a3-af09-07e376a18310",
+    "Computer Games Magazine, Number 109": "09a392ec-e910-4098-8ba3-3c24c1a45cd0",
+    "Computer Games Magazine, Number 113": "82ab0c60-8fbd-4d8f-95a2-a5d7c05aeab8",
+    "Computer Games Magazine, Number 116": "5b7aa454-333d-4d51-a103-b60315be7d45",
+    "Computer Games Magazine, Number 119": "d79e02fa-d390-4a42-9bd2-597b3338a645",
+    "Computer Games, Number 120": "bed6a588-a634-4ab4-994f-d50f64354767",
+    "Computer Games, Number 121": "7b80fa6a-7ec2-4e81-be54-76499891d35d",
+    "Computer Games, Number 122": "ca7693b5-6de8-4bf0-bd6e-dd33492d4fa9",
+    "Computer Games, Number 123": "f0aec50f-bfcd-47cf-bd57-119756c1395c",
+    "Computer Games, Number 124": "ce471815-66e4-4315-b39e-7cc4d58edeb7",
+    "Computer Games, Number 126": "3c40ada3-45c2-49d5-8263-087f06e9e72a",
+    "Computer Games, Number 127": "ed293005-d892-41b3-9a1b-f9f5b91004bd",
+    "Computer Games, Number 129": "22e301c0-515f-4307-b34a-754f52279c73",
+    "Computer Games, Number 131": "876298d3-10cd-4333-9f65-926e94553923",
+    "Computer Games, Number 132": "3463657a-91f4-4285-85c4-675cec9abf0e",
+    "Computer Games, Number 134": "e86af3a4-7c4e-4380-b3ed-4e2441ebde35",
+    "Computer Games, Number 136": "b995069f-1ea0-470f-b102-dc7beae460de",
+    "Computer Games, Number 137": "0c286529-5f5b-444e-94b1-b729c2bf295c",
+    "Computer Games, Number 139": "2fbce942-e53d-4604-b576-c379aaa4ad94",
+    "Computer Games, Number 141": "7d43b973-e2a1-4e01-b1ae-36495efd3d0e",
+    "Computer Games, Number 142": "34116817-80c0-4063-8a87-2b574f0d9e75",
+    "Computer Games, Number 143": "5b7df00f-a492-4344-a844-65dad77284ff",
+    "Computer Games, Number 144": "58661faa-3728-44f9-8b4a-6ee84a1b7ac1",
+    "Computer Games, Number 145": "791271de-62ca-4997-9004-b8f6f8250195",
+    "Computer Games, Number 146": "dbd48b27-c381-47f4-b792-229309b9118d",
+    "Computer Games, Number 147": "4b778eaf-ca9b-48fc-a1b8-622455f49538",
+    "Computer Games, Number 149": "79028705-4c56-4590-88fa-b2c344bb4fea",
+    "Computer Games, Number 150": "ba4d1323-3fa0-41fd-b264-7b3ed2e61132",
+    "Computer Games, Number 151": "9ec25e1d-0df7-4afc-a777-9eef753c6861",
+    "Computer Games, Number 152": "f4829300-3aae-4861-a8b7-ebcc56a251b9",
+    "Computer Games, Number 153": "bd7e38ee-e10f-4144-9555-ae03072dc53b",
+    "Computer Games, Number 154": "ed706bec-a5f9-4153-b843-35df4109e095",
+    "Computer Games, Number 157": "d05e56ad-e29e-41e9-bae4-b2e2366d96f1",
+    "Computer Games, Number 158": "9b821cda-d834-45ab-9f26-5c75d64f9594",
+    "Computer Games, Number 173": "67be65f8-5a4b-4491-903a-4d8894926e57",
+    "Computer Games, Number 174": "b46b7390-87b6-4351-bfd3-a354f033d71f",
+    "Computer Games, Number 175": "0cd3dbc3-ddf2-4a9c-b998-06466b622143",
+    "Computer Games, Number 176": "90ee59a9-5ce6-44ad-a01f-726eaac17e48",
+    "Computer Games": "0786fa07-5b41-44eb-96cc-a3b8f26aa57c",
+    "Computer Games Strategy Plus": "3291ed43-9be6-4537-b90c-b44d17b33931",
+    "Computer Games Strategy Plus special issues": "4917eff2-2050-4e05-9657-e54ab36be996",
+    "Strategy Plus": "ff76df23-93e5-4716-888a-705cbaef5122"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "provider": "vghf",
+  "folder_id": "56f6db10-774b-4a5c-83ec-832180d3b0b9",
+  "url": "https://archive.gamehistory.org/folder/56f6db10-774b-4a5c-83ec-832180d3b0b9",
+  "retrieved_at": "2026-09-13T22:55:09+00:00",
+  "expected": 2,
+  "count": 20,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "11401713-b804-4272-adfe-554fe1b54991",
+      "title": "Incite PC Gaming, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/11401713-b804-4272-adfe-554fe1b54991",
+      "number": "1",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "c52365e4-25bb-46cb-b535-7bc48eec6bc3",
+      "title": "Incite Video Gaming, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c52365e4-25bb-46cb-b535-7bc48eec6bc3",
+      "number": "1",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "9aaa9967-2b2f-49cc-9080-7a1751232509",
+      "title": "Incite PC Gaming, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9aaa9967-2b2f-49cc-9080-7a1751232509",
+      "number": "2",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "538210ed-2c95-491f-867e-062c660c3b82",
+      "title": "Incite Video Gaming, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/538210ed-2c95-491f-867e-062c660c3b82",
+      "number": "2",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "baec1a04-1ae0-4197-8144-6bc6e8737cfc",
+      "title": "Incite PC Gaming, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/baec1a04-1ae0-4197-8144-6bc6e8737cfc",
+      "number": "3",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "a7f230a1-f0be-4551-811d-24ff09be1cb4",
+      "title": "Incite Video Gaming, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7f230a1-f0be-4551-811d-24ff09be1cb4",
+      "number": "3",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "45691f48-0f87-45bd-a189-8d7fd56e0074",
+      "title": "Incite PC Gaming, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45691f48-0f87-45bd-a189-8d7fd56e0074",
+      "number": "4",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "64e32972-0045-4510-9765-4761e2363324",
+      "title": "Incite Video Gaming, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/64e32972-0045-4510-9765-4761e2363324",
+      "number": "4",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "091c66b3-78c1-462c-8c11-9df77aca2958",
+      "title": "Incite PC Gaming, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/091c66b3-78c1-462c-8c11-9df77aca2958",
+      "number": "5",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "f21a6687-6e21-4778-833c-6b3775746568",
+      "title": "Incite Video Gaming, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f21a6687-6e21-4778-833c-6b3775746568",
+      "number": "5",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "89cf6341-e169-4009-bf26-0cf6994b476a",
+      "title": "Incite PC Gaming, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/89cf6341-e169-4009-bf26-0cf6994b476a",
+      "number": "6",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "ec629aa4-a5fa-464b-8f4b-a3fb6b27a108",
+      "title": "Incite Video Gaming, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec629aa4-a5fa-464b-8f4b-a3fb6b27a108",
+      "number": "6",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "b6f72ebe-019a-4abe-9d1e-1b328020bcca",
+      "title": "Incite PC Gaming, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b6f72ebe-019a-4abe-9d1e-1b328020bcca",
+      "number": "7",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "dde48022-df4c-4d9c-9a07-2252437d4ba8",
+      "title": "Incite Video Gaming, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dde48022-df4c-4d9c-9a07-2252437d4ba8",
+      "number": "7",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "d10f7d69-8429-4841-802a-41f8937444bf",
+      "title": "Incite PC Gaming, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d10f7d69-8429-4841-802a-41f8937444bf",
+      "number": "8",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "6baf646e-d08c-4786-a4df-282ecc6dd0e3",
+      "title": "Incite Video Gaming, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6baf646e-d08c-4786-a4df-282ecc6dd0e3",
+      "number": "8",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "b1860ba8-1f96-45e5-b232-aa18b648d2e7",
+      "title": "Incite PC Gaming, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b1860ba8-1f96-45e5-b232-aa18b648d2e7",
+      "number": "9",
+      "parent_id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43"
+    },
+    {
+      "id": "50909692-62d1-49e9-a29b-db2cdf707672",
+      "title": "Incite Video Gaming, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50909692-62d1-49e9-a29b-db2cdf707672",
+      "number": "9",
+      "parent_id": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+    },
+    {
+      "id": "47d00d9f-7a13-48e5-a422-d906e3cfdc43",
+      "title": "Incite PC Gaming",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "December 1999 – August 2000"
+      },
+      "url": "https://archive.gamehistory.org/folder/47d00d9f-7a13-48e5-a422-d906e3cfdc43",
+      "number": null
+    },
+    {
+      "id": "77866ad9-a2e4-462f-9f8c-62bdee99236c",
+      "title": "Incite Video Gaming",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "July 1999 – August 2000"
+      },
+      "url": "https://archive.gamehistory.org/folder/77866ad9-a2e4-462f-9f8c-62bdee99236c",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Incite PC Gaming, Issue 1": "11401713-b804-4272-adfe-554fe1b54991",
+    "Incite Video Gaming, Issue 1": "c52365e4-25bb-46cb-b535-7bc48eec6bc3",
+    "Incite PC Gaming, Issue 2": "9aaa9967-2b2f-49cc-9080-7a1751232509",
+    "Incite Video Gaming, Issue 2": "538210ed-2c95-491f-867e-062c660c3b82",
+    "Incite PC Gaming, Issue 3": "baec1a04-1ae0-4197-8144-6bc6e8737cfc",
+    "Incite Video Gaming, Issue 3": "a7f230a1-f0be-4551-811d-24ff09be1cb4",
+    "Incite PC Gaming, Issue 4": "45691f48-0f87-45bd-a189-8d7fd56e0074",
+    "Incite Video Gaming, Issue 4": "64e32972-0045-4510-9765-4761e2363324",
+    "Incite PC Gaming, Issue 5": "091c66b3-78c1-462c-8c11-9df77aca2958",
+    "Incite Video Gaming, Issue 5": "f21a6687-6e21-4778-833c-6b3775746568",
+    "Incite PC Gaming, Issue 6": "89cf6341-e169-4009-bf26-0cf6994b476a",
+    "Incite Video Gaming, Issue 6": "ec629aa4-a5fa-464b-8f4b-a3fb6b27a108",
+    "Incite PC Gaming, Issue 7": "b6f72ebe-019a-4abe-9d1e-1b328020bcca",
+    "Incite Video Gaming, Issue 7": "dde48022-df4c-4d9c-9a07-2252437d4ba8",
+    "Incite PC Gaming, Issue 8": "d10f7d69-8429-4841-802a-41f8937444bf",
+    "Incite Video Gaming, Issue 8": "6baf646e-d08c-4786-a4df-282ecc6dd0e3",
+    "Incite PC Gaming, Issue 9": "b1860ba8-1f96-45e5-b232-aa18b648d2e7",
+    "Incite Video Gaming, Issue 9": "50909692-62d1-49e9-a29b-db2cdf707672",
+    "Incite PC Gaming": "47d00d9f-7a13-48e5-a422-d906e3cfdc43",
+    "Incite Video Gaming": "77866ad9-a2e4-462f-9f8c-62bdee99236c"
+  }
+}

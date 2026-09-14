@@ -1,0 +1,564 @@
+{
+  "provider": "vghf",
+  "folder_id": "480eeb97-bb01-457d-a439-4ed1866b0e4f",
+  "url": "https://archive.gamehistory.org/folder/480eeb97-bb01-457d-a439-4ed1866b0e4f",
+  "retrieved_at": "2026-09-13T22:41:53+00:00",
+  "expected": 32,
+  "count": 32,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "533d5e98-49da-45a8-b311-825593fc35a4",
+      "title": "@Gamer, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 2010",
+        "start": "2010-07",
+        "end": "2010-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/533d5e98-49da-45a8-b311-825593fc35a4",
+      "number": "1"
+    },
+    {
+      "id": "a7e01fe6-e0c6-481b-99b7-6badb0befe96",
+      "title": "@Gamer, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2010",
+        "start": "2010-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7e01fe6-e0c6-481b-99b7-6badb0befe96",
+      "number": "2"
+    },
+    {
+      "id": "b454eddb-b0f3-41c9-9857-207272e97dfc",
+      "title": "@Gamer, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2010",
+        "start": "2010-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b454eddb-b0f3-41c9-9857-207272e97dfc",
+      "number": "3"
+    },
+    {
+      "id": "8104d78d-e835-4f99-8355-d1a1902eb6f4",
+      "title": "@Gamer, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2010",
+        "start": "2010-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8104d78d-e835-4f99-8355-d1a1902eb6f4",
+      "number": "4"
+    },
+    {
+      "id": "e0d0add7-f2f6-491d-9d5d-bf5eb3c8156e",
+      "title": "@Gamer, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2010",
+        "start": "2010-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0d0add7-f2f6-491d-9d5d-bf5eb3c8156e",
+      "number": "5"
+    },
+    {
+      "id": "c386c870-8178-4eec-b024-f9558ffe12c7",
+      "title": "@Gamer, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 2011",
+        "start": "2011-01",
+        "end": "2011-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c386c870-8178-4eec-b024-f9558ffe12c7",
+      "number": "6"
+    },
+    {
+      "id": "bc0ddb4d-2165-4409-ab94-4694d2b2e65d",
+      "title": "@Gamer, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2011",
+        "start": "2011-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bc0ddb4d-2165-4409-ab94-4694d2b2e65d",
+      "number": "7"
+    },
+    {
+      "id": "d02d882b-a641-4945-87f2-8860be4a1011",
+      "title": "@Gamer, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2011",
+        "start": "2011-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d02d882b-a641-4945-87f2-8860be4a1011",
+      "number": "8"
+    },
+    {
+      "id": "c29b6cb7-e278-4181-af27-32b75e457a49",
+      "title": "@Gamer, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2011",
+        "start": "2011-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c29b6cb7-e278-4181-af27-32b75e457a49",
+      "number": "9"
+    },
+    {
+      "id": "440063fc-3832-4d3f-9673-a54db86a9998",
+      "title": "@Gamer, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2011",
+        "start": "2011-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/440063fc-3832-4d3f-9673-a54db86a9998",
+      "number": "10"
+    },
+    {
+      "id": "28489ff6-6e4d-44ec-b052-9e7ba233ee8e",
+      "title": "@Gamer, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 2011",
+        "start": "2011-07",
+        "end": "2011-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/28489ff6-6e4d-44ec-b052-9e7ba233ee8e",
+      "number": "11"
+    },
+    {
+      "id": "bb5f2e23-8066-4212-bf38-6ea3b1a2077a",
+      "title": "@Gamer, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2011",
+        "start": "2011-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bb5f2e23-8066-4212-bf38-6ea3b1a2077a",
+      "number": "12"
+    },
+    {
+      "id": "d01d78c7-6c7e-4b33-9dd7-3958f30e7bf6",
+      "title": "@Gamer, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2011",
+        "start": "2011-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d01d78c7-6c7e-4b33-9dd7-3958f30e7bf6",
+      "number": "13"
+    },
+    {
+      "id": "e1d998d8-e09f-45d3-b8fc-066f2a02bcc6",
+      "title": "@Gamer, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2011",
+        "start": "2011-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e1d998d8-e09f-45d3-b8fc-066f2a02bcc6",
+      "number": "14"
+    },
+    {
+      "id": "c586ed38-5d02-416b-a43e-d56f06ae0219",
+      "title": "@Gamer, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2011",
+        "start": "2011-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c586ed38-5d02-416b-a43e-d56f06ae0219",
+      "number": "15"
+    },
+    {
+      "id": "7071f57d-35b6-4f81-b095-418aa9dbc1bf",
+      "title": "@Gamer, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 2012",
+        "start": "2012-01",
+        "end": "2012-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7071f57d-35b6-4f81-b095-418aa9dbc1bf",
+      "number": "16"
+    },
+    {
+      "id": "fc799eb5-6e80-42b8-9076-b01aa21ced75",
+      "title": "@Gamer, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2012",
+        "start": "2012-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fc799eb5-6e80-42b8-9076-b01aa21ced75",
+      "number": "17"
+    },
+    {
+      "id": "d7f38a65-57b8-4571-a734-5355cf766791",
+      "title": "@Gamer, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2012",
+        "start": "2012-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d7f38a65-57b8-4571-a734-5355cf766791",
+      "number": "18"
+    },
+    {
+      "id": "76c254b9-17c9-49ce-9793-4ded173e9de1",
+      "title": "@Gamer, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2012",
+        "start": "2012-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/76c254b9-17c9-49ce-9793-4ded173e9de1",
+      "number": "19"
+    },
+    {
+      "id": "10d436cf-b164-42e3-974c-fca9c5b1676d",
+      "title": "@Gamer, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 2012",
+        "start": "2012-07",
+        "end": "2012-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/10d436cf-b164-42e3-974c-fca9c5b1676d",
+      "number": "21"
+    },
+    {
+      "id": "daccec69-cc4e-41a8-8a7d-5a1172f258a9",
+      "title": "@Gamer, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2012",
+        "start": "2012-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/daccec69-cc4e-41a8-8a7d-5a1172f258a9",
+      "number": "22"
+    },
+    {
+      "id": "51122e85-7b50-4a82-8f8c-2b5fcc509f56",
+      "title": "@Gamer, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2012",
+        "start": "2012-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/51122e85-7b50-4a82-8f8c-2b5fcc509f56",
+      "number": "23"
+    },
+    {
+      "id": "b5968b67-f071-4761-909a-e54f6bc6a461",
+      "title": "@Gamer, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2012",
+        "start": "2012-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b5968b67-f071-4761-909a-e54f6bc6a461",
+      "number": "24"
+    },
+    {
+      "id": "4e95be3b-bf6a-4ee0-9374-223d38bf10e6",
+      "title": "@Gamer, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2012",
+        "start": "2012-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4e95be3b-bf6a-4ee0-9374-223d38bf10e6",
+      "number": "25"
+    },
+    {
+      "id": "c7be6a16-d94b-411c-a18e-24681cd00b04",
+      "title": "@Gamer, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 2013",
+        "start": "2013-01",
+        "end": "2013-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c7be6a16-d94b-411c-a18e-24681cd00b04",
+      "number": "26"
+    },
+    {
+      "id": "50ade489-db8b-4730-aeab-e88d91290f55",
+      "title": "@Gamer, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2013",
+        "start": "2013-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50ade489-db8b-4730-aeab-e88d91290f55",
+      "number": "27"
+    },
+    {
+      "id": "81030f64-50d4-4381-841b-3b6d8754a744",
+      "title": "@Gamer, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2013",
+        "start": "2013-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/81030f64-50d4-4381-841b-3b6d8754a744",
+      "number": "28"
+    },
+    {
+      "id": "8c807baf-ef2a-4105-a131-f8f328f1ddf5",
+      "title": "@Gamer, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2013",
+        "start": "2013-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8c807baf-ef2a-4105-a131-f8f328f1ddf5",
+      "number": "29"
+    },
+    {
+      "id": "a621dd23-6fac-4ee0-895a-6f855030baab",
+      "title": "@Gamer, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2013",
+        "start": "2013-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a621dd23-6fac-4ee0-895a-6f855030baab",
+      "number": "30"
+    },
+    {
+      "id": "f75e1228-6c4e-4c61-9349-aa39e389df35",
+      "title": "@Gamer, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 2013",
+        "start": "2013-07",
+        "end": "2013-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f75e1228-6c4e-4c61-9349-aa39e389df35",
+      "number": "31"
+    },
+    {
+      "id": "5eed1272-fab4-4cf5-89b9-6124ccf65e04",
+      "title": "@Gamer, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2013",
+        "start": "2013-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5eed1272-fab4-4cf5-89b9-6124ccf65e04",
+      "number": "32"
+    },
+    {
+      "id": "435548f1-4e61-45c8-9200-851c903de85e",
+      "title": "@Gamer, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2013",
+        "start": "2013-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/435548f1-4e61-45c8-9200-851c903de85e",
+      "number": "33"
+    }
+  ],
+  "by_title": {
+    "@Gamer, Issue 1": "533d5e98-49da-45a8-b311-825593fc35a4",
+    "@Gamer, Issue 2": "a7e01fe6-e0c6-481b-99b7-6badb0befe96",
+    "@Gamer, Issue 3": "b454eddb-b0f3-41c9-9857-207272e97dfc",
+    "@Gamer, Issue 4": "8104d78d-e835-4f99-8355-d1a1902eb6f4",
+    "@Gamer, Issue 5": "e0d0add7-f2f6-491d-9d5d-bf5eb3c8156e",
+    "@Gamer, Issue 6": "c386c870-8178-4eec-b024-f9558ffe12c7",
+    "@Gamer, Issue 7": "bc0ddb4d-2165-4409-ab94-4694d2b2e65d",
+    "@Gamer, Issue 8": "d02d882b-a641-4945-87f2-8860be4a1011",
+    "@Gamer, Issue 9": "c29b6cb7-e278-4181-af27-32b75e457a49",
+    "@Gamer, Issue 10": "440063fc-3832-4d3f-9673-a54db86a9998",
+    "@Gamer, Issue 11": "28489ff6-6e4d-44ec-b052-9e7ba233ee8e",
+    "@Gamer, Issue 12": "bb5f2e23-8066-4212-bf38-6ea3b1a2077a",
+    "@Gamer, Issue 13": "d01d78c7-6c7e-4b33-9dd7-3958f30e7bf6",
+    "@Gamer, Issue 14": "e1d998d8-e09f-45d3-b8fc-066f2a02bcc6",
+    "@Gamer, Issue 15": "c586ed38-5d02-416b-a43e-d56f06ae0219",
+    "@Gamer, Issue 16": "7071f57d-35b6-4f81-b095-418aa9dbc1bf",
+    "@Gamer, Issue 17": "fc799eb5-6e80-42b8-9076-b01aa21ced75",
+    "@Gamer, Issue 18": "d7f38a65-57b8-4571-a734-5355cf766791",
+    "@Gamer, Issue 19": "76c254b9-17c9-49ce-9793-4ded173e9de1",
+    "@Gamer, Issue 21": "10d436cf-b164-42e3-974c-fca9c5b1676d",
+    "@Gamer, Issue 22": "daccec69-cc4e-41a8-8a7d-5a1172f258a9",
+    "@Gamer, Issue 23": "51122e85-7b50-4a82-8f8c-2b5fcc509f56",
+    "@Gamer, Issue 24": "b5968b67-f071-4761-909a-e54f6bc6a461",
+    "@Gamer, Issue 25": "4e95be3b-bf6a-4ee0-9374-223d38bf10e6",
+    "@Gamer, Issue 26": "c7be6a16-d94b-411c-a18e-24681cd00b04",
+    "@Gamer, Issue 27": "50ade489-db8b-4730-aeab-e88d91290f55",
+    "@Gamer, Issue 28": "81030f64-50d4-4381-841b-3b6d8754a744",
+    "@Gamer, Issue 29": "8c807baf-ef2a-4105-a131-f8f328f1ddf5",
+    "@Gamer, Issue 30": "a621dd23-6fac-4ee0-895a-6f855030baab",
+    "@Gamer, Issue 31": "f75e1228-6c4e-4c61-9349-aa39e389df35",
+    "@Gamer, Issue 32": "5eed1272-fab4-4cf5-89b9-6124ccf65e04",
+    "@Gamer, Issue 33": "435548f1-4e61-45c8-9200-851c903de85e"
+  }
+}

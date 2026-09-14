@@ -1,0 +1,132 @@
+{
+  "provider": "vghf",
+  "folder_id": "db7773e7-2f43-4581-8d57-0ec83281ed8b",
+  "url": "https://archive.gamehistory.org/folder/db7773e7-2f43-4581-8d57-0ec83281ed8b",
+  "retrieved_at": "2026-09-13T22:46:59+00:00",
+  "expected": 7,
+  "count": 7,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "03dbb412-1f40-4ce5-8583-617d6a542261",
+      "title": "Blip, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1983",
+        "start": "1983-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/03dbb412-1f40-4ce5-8583-617d6a542261",
+      "number": "1"
+    },
+    {
+      "id": "a75803d8-b27c-49a4-84d1-5429efce7d65",
+      "title": "Blip, Volume 1, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1983",
+        "start": "1983-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a75803d8-b27c-49a4-84d1-5429efce7d65",
+      "number": "2"
+    },
+    {
+      "id": "6cc67336-f6e3-490b-bca9-7e82d312d2e4",
+      "title": "Blip, Volume 1, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1983",
+        "start": "1983-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6cc67336-f6e3-490b-bca9-7e82d312d2e4",
+      "number": "3"
+    },
+    {
+      "id": "bf9bacd2-615d-488a-85a2-f35c3292bbd3",
+      "title": "Blip, Volume 1, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1983",
+        "start": "1983-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bf9bacd2-615d-488a-85a2-f35c3292bbd3",
+      "number": "4"
+    },
+    {
+      "id": "da656e05-14c0-4e5f-9ac5-04974063f4c3",
+      "title": "Blip, Volume 1, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1983",
+        "start": "1983-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da656e05-14c0-4e5f-9ac5-04974063f4c3",
+      "number": "5"
+    },
+    {
+      "id": "524e7761-7d17-4394-9a06-dc86f86daa16",
+      "title": "Blip, Volume 1, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1983",
+        "start": "1983-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/524e7761-7d17-4394-9a06-dc86f86daa16",
+      "number": "6"
+    },
+    {
+      "id": "4bdad72f-1f1d-4446-9939-85e6ca808a21",
+      "title": "Blip, Volume 1, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1983",
+        "start": "1983-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4bdad72f-1f1d-4446-9939-85e6ca808a21",
+      "number": "7"
+    }
+  ],
+  "by_title": {
+    "Blip, Issue 1": "03dbb412-1f40-4ce5-8583-617d6a542261",
+    "Blip, Volume 1, Issue 2": "a75803d8-b27c-49a4-84d1-5429efce7d65",
+    "Blip, Volume 1, Issue 3": "6cc67336-f6e3-490b-bca9-7e82d312d2e4",
+    "Blip, Volume 1, Issue 4": "bf9bacd2-615d-488a-85a2-f35c3292bbd3",
+    "Blip, Volume 1, Issue 5": "da656e05-14c0-4e5f-9ac5-04974063f4c3",
+    "Blip, Volume 1, Issue 6": "524e7761-7d17-4394-9a06-dc86f86daa16",
+    "Blip, Volume 1, Issue 7": "4bdad72f-1f1d-4446-9939-85e6ca808a21"
+  }
+}

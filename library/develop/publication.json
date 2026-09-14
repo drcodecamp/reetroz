@@ -38,7 +38,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/aa6d2346-0750-4f14-9944-92b00365261a",
-      "date_range": "August 1996 – December 2017"
+      "date_range": "December 2012 / January 2013 – est. July 2014",
+      "items": 38
     }
   ],
   "stats": {
@@ -47,5 +48,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

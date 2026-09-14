@@ -1,0 +1,181 @@
+{
+  "provider": "vghf",
+  "folder_id": "b69d7088-b269-4070-9b46-1cbcff40312f",
+  "url": "https://archive.gamehistory.org/folder/b69d7088-b269-4070-9b46-1cbcff40312f",
+  "retrieved_at": "2026-09-13T22:56:25+00:00",
+  "expected": 10,
+  "count": 10,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "3562fadd-cb00-43ed-925b-d962a9d3b8ea",
+      "title": "NewMedia, Volume 2, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1992",
+        "start": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3562fadd-cb00-43ed-925b-d962a9d3b8ea",
+      "number": null
+    },
+    {
+      "id": "a1aa66a0-23da-4687-bbb0-7f1ecc42d092",
+      "title": "NewMedia, Volume 3, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1993",
+        "start": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a1aa66a0-23da-4687-bbb0-7f1ecc42d092",
+      "number": null
+    },
+    {
+      "id": "6ee6cc8a-fadf-4949-b140-b53b850de9cf",
+      "title": "NewMedia, Volume 3, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1993",
+        "start": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6ee6cc8a-fadf-4949-b140-b53b850de9cf",
+      "number": null
+    },
+    {
+      "id": "ce64530e-2584-40bd-9c4d-f02311f39b85",
+      "title": "NewMedia, Volume 4, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce64530e-2584-40bd-9c4d-f02311f39b85",
+      "number": null
+    },
+    {
+      "id": "ed4c1068-287a-4e46-a6b6-ff04116ed180",
+      "title": "NewMedia, Volume 4, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ed4c1068-287a-4e46-a6b6-ff04116ed180",
+      "number": null
+    },
+    {
+      "id": "7edc6660-e2e2-4d25-a082-801ad375d568",
+      "title": "NewMedia, Volume 5, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7edc6660-e2e2-4d25-a082-801ad375d568",
+      "number": null
+    },
+    {
+      "id": "dba134cd-b9d0-4c97-9147-5e678b770344",
+      "title": "NewMedia, Volume 5, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dba134cd-b9d0-4c97-9147-5e678b770344",
+      "number": null
+    },
+    {
+      "id": "f16f67e0-25e3-4505-858e-78bc6378c5a0",
+      "title": "NewMedia, Volume 5, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f16f67e0-25e3-4505-858e-78bc6378c5a0",
+      "number": null
+    },
+    {
+      "id": "32b6a276-d1bc-4e23-8bc9-28e90caa39f2",
+      "title": "NewMedia, Volume 5, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/32b6a276-d1bc-4e23-8bc9-28e90caa39f2",
+      "number": null
+    },
+    {
+      "id": "e19f8e2a-1cdc-4f15-b3ad-aa8c621d68b7",
+      "title": "NewMedia, Volume 6, Number 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 28, 1996"
+      },
+      "url": "https://archive.gamehistory.org/item/e19f8e2a-1cdc-4f15-b3ad-aa8c621d68b7",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "NewMedia, Volume 2, Number 12": "3562fadd-cb00-43ed-925b-d962a9d3b8ea",
+    "NewMedia, Volume 3, Number 5": "a1aa66a0-23da-4687-bbb0-7f1ecc42d092",
+    "NewMedia, Volume 3, Number 8": "6ee6cc8a-fadf-4949-b140-b53b850de9cf",
+    "NewMedia, Volume 4, Number 1": "ce64530e-2584-40bd-9c4d-f02311f39b85",
+    "NewMedia, Volume 4, Number 8": "ed4c1068-287a-4e46-a6b6-ff04116ed180",
+    "NewMedia, Volume 5, Number 5": "7edc6660-e2e2-4d25-a082-801ad375d568",
+    "NewMedia, Volume 5, Number 8": "dba134cd-b9d0-4c97-9147-5e678b770344",
+    "NewMedia, Volume 5, Number 9": "f16f67e0-25e3-4505-858e-78bc6378c5a0",
+    "NewMedia, Volume 5, Number 10": "32b6a276-d1bc-4e23-8bc9-28e90caa39f2",
+    "NewMedia, Volume 6, Number 14": "e19f8e2a-1cdc-4f15-b3ad-aa8c621d68b7"
+  }
+}

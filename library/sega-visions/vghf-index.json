@@ -1,0 +1,442 @@
+{
+  "provider": "vghf",
+  "folder_id": "8448d8d8-778d-4917-a6cd-99ddd4dc301a",
+  "url": "https://archive.gamehistory.org/folder/8448d8d8-778d-4917-a6cd-99ddd4dc301a",
+  "retrieved_at": "2026-09-13T22:59:34+00:00",
+  "expected": 25,
+  "count": 25,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "90455f10-611a-4fce-8b4d-b12f60a74fb0",
+      "title": "Sega Visions, Volume 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1990",
+        "start": "1990-06",
+        "end": "1990-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90455f10-611a-4fce-8b4d-b12f60a74fb0",
+      "number": "1"
+    },
+    {
+      "id": "969bc740-c508-45ad-b7e4-08aa360eea3d",
+      "title": "Sega Visions, Volume 1, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 1990",
+        "start": "1990-10",
+        "end": "1990-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/969bc740-c508-45ad-b7e4-08aa360eea3d",
+      "number": "2"
+    },
+    {
+      "id": "5feeed03-155d-4cfa-929b-6233854b873e",
+      "title": "Sega Visions, Volume 1, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1990",
+        "start": "1990-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/5feeed03-155d-4cfa-929b-6233854b873e",
+      "number": "3"
+    },
+    {
+      "id": "47b864d8-43ef-4bca-b451-aaba2901cf94",
+      "title": "Sega Visions, Volume 1, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1991",
+        "start": "1991-04",
+        "end": "1991-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/47b864d8-43ef-4bca-b451-aaba2901cf94",
+      "number": "4"
+    },
+    {
+      "id": "c1567a74-b3d1-42a7-99e0-fe42a68284d9",
+      "title": "Sega Visions, Volume 1, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1991",
+        "start": "1991-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/c1567a74-b3d1-42a7-99e0-fe42a68284d9",
+      "number": "5"
+    },
+    {
+      "id": "df53e8c1-be4f-4983-98c8-4d31e6bc5505",
+      "title": "Sega Visions, Volume 1, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1991",
+        "start": "1991-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/df53e8c1-be4f-4983-98c8-4d31e6bc5505",
+      "number": "6"
+    },
+    {
+      "id": "bde94e2e-2ea0-4b13-96da-71fc8a64bba3",
+      "title": "Sega Visions, Volume 1, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1991",
+        "start": "1991-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/bde94e2e-2ea0-4b13-96da-71fc8a64bba3",
+      "number": "7"
+    },
+    {
+      "id": "4e85720a-1eac-425f-875b-6eedb1d054e0",
+      "title": "Sega Visions, Volume 1, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 1992",
+        "start": "1992-05",
+        "end": "1992-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4e85720a-1eac-425f-875b-6eedb1d054e0",
+      "number": "8"
+    },
+    {
+      "id": "15f05413-947c-40fd-a307-813b19aeda9d",
+      "title": "Sega Visions, Volume 1, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1992",
+        "start": "1992-08",
+        "end": "1992-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/15f05413-947c-40fd-a307-813b19aeda9d",
+      "number": "9"
+    },
+    {
+      "id": "44db4c5f-d626-40b9-bebb-6cbf2dbafe0d",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November/December 1992",
+        "start": "1992-11",
+        "end": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/44db4c5f-d626-40b9-bebb-6cbf2dbafe0d",
+      "number": null
+    },
+    {
+      "id": "3e761b1d-3309-42ba-b161-bc5d0cc54a11",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1993",
+        "start": "1993-02",
+        "end": "1993-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3e761b1d-3309-42ba-b161-bc5d0cc54a11",
+      "number": null
+    },
+    {
+      "id": "3ba51582-526c-4cc3-9446-ff76e42ed5eb",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1993",
+        "start": "1993-04",
+        "end": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3ba51582-526c-4cc3-9446-ff76e42ed5eb",
+      "number": null
+    },
+    {
+      "id": "3b049a84-455d-4533-8c75-9e918c285709",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1993",
+        "start": "1993-06",
+        "end": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3b049a84-455d-4533-8c75-9e918c285709",
+      "number": null
+    },
+    {
+      "id": "0022df07-b538-4249-8558-ff4cc9465fa6",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1993",
+        "start": "1993-08",
+        "end": "1993-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0022df07-b538-4249-8558-ff4cc9465fa6",
+      "number": null
+    },
+    {
+      "id": "87d2e7e1-b98b-4284-bb49-11b20e2ea708",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 1993",
+        "start": "1993-10",
+        "end": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87d2e7e1-b98b-4284-bb49-11b20e2ea708",
+      "number": null
+    },
+    {
+      "id": "316028fa-cd53-4412-83c6-dbcf8801b8e9",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1994",
+        "start": "1994-02",
+        "end": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/316028fa-cd53-4412-83c6-dbcf8801b8e9",
+      "number": null
+    },
+    {
+      "id": "9b145e50-e18a-4071-adc1-cf0a09753f77",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1994",
+        "start": "1994-04",
+        "end": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9b145e50-e18a-4071-adc1-cf0a09753f77",
+      "number": null
+    },
+    {
+      "id": "288db780-2325-474e-aa70-2ae83ddd7d79",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1994",
+        "start": "1994-06",
+        "end": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/288db780-2325-474e-aa70-2ae83ddd7d79",
+      "number": null
+    },
+    {
+      "id": "828e3b69-59a3-4645-9353-7af7ddc2f667",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1994",
+        "start": "1994-08",
+        "end": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/828e3b69-59a3-4645-9353-7af7ddc2f667",
+      "number": null
+    },
+    {
+      "id": "07dcdc14-6b94-4682-8df5-2d6175cbec25",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 1994",
+        "start": "1994-10",
+        "end": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07dcdc14-6b94-4682-8df5-2d6175cbec25",
+      "number": null
+    },
+    {
+      "id": "eb353328-3a87-4e88-af6d-1281db6279f2",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December/January 1994",
+        "start": "1994-12",
+        "end": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eb353328-3a87-4e88-af6d-1281db6279f2",
+      "number": null
+    },
+    {
+      "id": "6b2b11e2-09bc-460e-8c07-dc7c83e327b8",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1995",
+        "start": "1995-02",
+        "end": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b2b11e2-09bc-460e-8c07-dc7c83e327b8",
+      "number": null
+    },
+    {
+      "id": "fd6ea231-548c-4dbf-957a-4d488a14eb09",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fd6ea231-548c-4dbf-957a-4d488a14eb09",
+      "number": null
+    },
+    {
+      "id": "ef7f4991-71c3-4d98-bb5b-a5a01eed947e",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ef7f4991-71c3-4d98-bb5b-a5a01eed947e",
+      "number": null
+    },
+    {
+      "id": "c8031557-b615-4eac-8c84-6ab8b8a3cc29",
+      "title": "Sega Visions",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December/January 1995",
+        "start": "1995-12",
+        "end": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c8031557-b615-4eac-8c84-6ab8b8a3cc29",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Sega Visions, Volume 1, Issue 1": "90455f10-611a-4fce-8b4d-b12f60a74fb0",
+    "Sega Visions, Volume 1, Issue 2": "969bc740-c508-45ad-b7e4-08aa360eea3d",
+    "Sega Visions, Volume 1, Issue 3": "5feeed03-155d-4cfa-929b-6233854b873e",
+    "Sega Visions, Volume 1, Issue 4": "47b864d8-43ef-4bca-b451-aaba2901cf94",
+    "Sega Visions, Volume 1, Issue 5": "c1567a74-b3d1-42a7-99e0-fe42a68284d9",
+    "Sega Visions, Volume 1, Issue 6": "df53e8c1-be4f-4983-98c8-4d31e6bc5505",
+    "Sega Visions, Volume 1, Issue 7": "bde94e2e-2ea0-4b13-96da-71fc8a64bba3",
+    "Sega Visions, Volume 1, Issue 8": "4e85720a-1eac-425f-875b-6eedb1d054e0",
+    "Sega Visions, Volume 1, Issue 9": "15f05413-947c-40fd-a307-813b19aeda9d",
+    "Sega Visions": "c8031557-b615-4eac-8c84-6ab8b8a3cc29"
+  }
+}

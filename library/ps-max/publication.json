@@ -31,7 +31,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/b9602704-d805-41ed-a725-0f71dedbed27",
-      "date_range": "Fall/Winter 1999"
+      "date_range": "Fall/Winter 1999",
+      "items": 1
     }
   ],
   "stats": {
@@ -40,5 +41,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

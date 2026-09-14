@@ -1,0 +1,287 @@
+{
+  "provider": "vghf",
+  "folder_id": "0990d6f3-cdfc-48a3-8454-c9f1bb722f3f",
+  "url": "https://archive.gamehistory.org/folder/0990d6f3-cdfc-48a3-8454-c9f1bb722f3f",
+  "retrieved_at": "2026-09-13T22:58:01+00:00",
+  "expected": 17,
+  "count": 17,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "8fada8d9-9b03-4b6a-9026-3f485fe9572a",
+      "title": "P.S.X., Premiere Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1995",
+        "start": "1995-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/8fada8d9-9b03-4b6a-9026-3f485fe9572a",
+      "number": null
+    },
+    {
+      "id": "9d84c740-ddc7-418e-8127-64337cb7580d",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d84c740-ddc7-418e-8127-64337cb7580d",
+      "number": null
+    },
+    {
+      "id": "c5c9e9df-14b6-42e2-b719-276e268da384",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c5c9e9df-14b6-42e2-b719-276e268da384",
+      "number": null
+    },
+    {
+      "id": "13373978-ad73-4a09-a2c2-d4aa6be87906",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/13373978-ad73-4a09-a2c2-d4aa6be87906",
+      "number": null
+    },
+    {
+      "id": "6fc40351-87e8-42b7-a6df-92a058b5023e",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1996",
+        "start": "1996-06",
+        "end": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6fc40351-87e8-42b7-a6df-92a058b5023e",
+      "number": null
+    },
+    {
+      "id": "5d50fa0a-2a95-49f6-9882-01a2bee3c2e8",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1996",
+        "start": "1996-08",
+        "end": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5d50fa0a-2a95-49f6-9882-01a2bee3c2e8",
+      "number": null
+    },
+    {
+      "id": "c548c7ca-576c-4900-ab53-c929ae50a651",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c548c7ca-576c-4900-ab53-c929ae50a651",
+      "number": null
+    },
+    {
+      "id": "b5fab5f1-45ca-4451-8cee-de3173924c32",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b5fab5f1-45ca-4451-8cee-de3173924c32",
+      "number": null
+    },
+    {
+      "id": "2674bb23-6e18-49b4-9beb-01da41f6f208",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1997",
+        "start": "1997-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2674bb23-6e18-49b4-9beb-01da41f6f208",
+      "number": null
+    },
+    {
+      "id": "fd6860a5-ab76-49f3-9557-c2f2a32aa76c",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1997",
+        "start": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fd6860a5-ab76-49f3-9557-c2f2a32aa76c",
+      "number": null
+    },
+    {
+      "id": "0a98c53f-a0fe-4bc9-9773-7da590424553",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0a98c53f-a0fe-4bc9-9773-7da590424553",
+      "number": null
+    },
+    {
+      "id": "821c91e6-6143-4ae1-8e5d-e651d5233a5a",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/821c91e6-6143-4ae1-8e5d-e651d5233a5a",
+      "number": null
+    },
+    {
+      "id": "e1be4ae8-4ab3-4c77-8991-191478f745a2",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e1be4ae8-4ab3-4c77-8991-191478f745a2",
+      "number": null
+    },
+    {
+      "id": "df9b9088-a90c-4bc7-bab4-41d4edc0bf1d",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/df9b9088-a90c-4bc7-bab4-41d4edc0bf1d",
+      "number": null
+    },
+    {
+      "id": "bf6fc413-5bce-4a6c-a54b-2d4fecbfe241",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bf6fc413-5bce-4a6c-a54b-2d4fecbfe241",
+      "number": null
+    },
+    {
+      "id": "00352954-d289-4c5e-b32f-8e3c123c5d27",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/00352954-d289-4c5e-b32f-8e3c123c5d27",
+      "number": null
+    },
+    {
+      "id": "8cf291c0-0a01-4f42-929c-0b5c01133084",
+      "title": "P.S.X.",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996 / January 1997"
+      },
+      "url": "https://archive.gamehistory.org/item/8cf291c0-0a01-4f42-929c-0b5c01133084",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "P.S.X., Premiere Issue": "8fada8d9-9b03-4b6a-9026-3f485fe9572a",
+    "P.S.X.": "8cf291c0-0a01-4f42-929c-0b5c01133084"
+  }
+}

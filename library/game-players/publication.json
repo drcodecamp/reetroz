@@ -37,13 +37,20 @@
     "status": "community-scan",
     "note": "Inherited from default provider; review before hosting."
   },
-  "known_sources": [],
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/b3155081-1b6e-42a2-85de-ec742f7c29f5",
+      "items": 238,
+      "date_range": "July 1998 – October 1996 – June 1998"
+    }
+  ],
   "stats": {
     "issues": 0,
     "pages": 0,
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Later Ultra Game Players."
 }

@@ -1,0 +1,1728 @@
+{
+  "provider": "vghf",
+  "folder_id": "8dbeecd0-31ca-4fbe-bcb7-3a59932900bd",
+  "url": "https://archive.gamehistory.org/folder/8dbeecd0-31ca-4fbe-bcb7-3a59932900bd",
+  "retrieved_at": "2026-09-13T23:01:09+00:00",
+  "expected": 4,
+  "count": 97,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "53fc0124-74b8-4449-9afc-bf072df77b34",
+      "title": "Geek Magazine, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2017",
+        "start": "2017",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/53fc0124-74b8-4449-9afc-bf072df77b34",
+      "number": "1",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "f6396652-9e05-4c09-990c-f34456fc0fe3",
+      "title": "Geek Magazine, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. October 2017"
+      },
+      "url": "https://archive.gamehistory.org/item/f6396652-9e05-4c09-990c-f34456fc0fe3",
+      "number": "2",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "bdc99077-a3f6-4b7b-ae3e-49f7f2c1cc96",
+      "title": "Geek Magazine, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2018",
+        "start": "2018",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/bdc99077-a3f6-4b7b-ae3e-49f7f2c1cc96",
+      "number": "3",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "cc6e77b7-45a2-4fe1-89be-fca81df86f84",
+      "title": "Geek Magazine, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2018",
+        "start": "2018",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/cc6e77b7-45a2-4fe1-89be-fca81df86f84",
+      "number": "4",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "e4860fa9-bf76-4301-9a1b-4b3c229612e0",
+      "title": "Geek Magazine, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2018",
+        "start": "2018",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/e4860fa9-bf76-4301-9a1b-4b3c229612e0",
+      "number": "5",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "21b2a61e-e099-4bf8-abb1-e3ca6e1108bc",
+      "title": "Geek Magazine, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2019",
+        "start": "2019-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/21b2a61e-e099-4bf8-abb1-e3ca6e1108bc",
+      "number": "6",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "07241be9-6a7a-4fd4-a9ff-eaa2810aede5",
+      "title": "Geek Magazine, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2019",
+        "start": "2019-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07241be9-6a7a-4fd4-a9ff-eaa2810aede5",
+      "number": "7",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "d8282479-e943-416f-a70a-c4fbce906143",
+      "title": "Geek Magazine, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2019",
+        "start": "2019-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d8282479-e943-416f-a70a-c4fbce906143",
+      "number": "8",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "31ad606b-1946-4987-84e3-0fe68875d6d9",
+      "title": "Geek Magazine, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2019",
+        "start": "2019-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/31ad606b-1946-4987-84e3-0fe68875d6d9",
+      "number": "9",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "95cf9b64-a785-4e73-8ce1-1132c2400688",
+      "title": "Geek Magazine, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2020",
+        "start": "2020-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95cf9b64-a785-4e73-8ce1-1132c2400688",
+      "number": "10",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "2550fd2e-ca15-4158-9280-75b1907cf838",
+      "title": "Geek Magazine, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2020",
+        "start": "2020-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2550fd2e-ca15-4158-9280-75b1907cf838",
+      "number": "11",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "0257fccf-a578-4d8e-901d-d8d944a35c80",
+      "title": "Geek Magazine, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2020",
+        "start": "2020-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0257fccf-a578-4d8e-901d-d8d944a35c80",
+      "number": "12",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "d17657a5-fdf8-4214-a750-2ed7d0b44ba9",
+      "title": "Walmart GameCenter, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2013",
+        "start": "2013-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d17657a5-fdf8-4214-a750-2ed7d0b44ba9",
+      "number": "13",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "a4023bc2-c029-40d5-8ac8-a2e2b83fbcb8",
+      "title": "Geek Magazine, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2021",
+        "start": "2021-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a4023bc2-c029-40d5-8ac8-a2e2b83fbcb8",
+      "number": "13",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "2c004e8b-4102-4cff-aed0-770c3b702385",
+      "title": "Walmart GameCenter, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2013",
+        "start": "2013-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2c004e8b-4102-4cff-aed0-770c3b702385",
+      "number": "14",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "88c1d4fa-dc91-4de9-ae3b-3a8d4913fb1f",
+      "title": "Geek Magazine, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter/January 2024"
+      },
+      "url": "https://archive.gamehistory.org/item/88c1d4fa-dc91-4de9-ae3b-3a8d4913fb1f",
+      "number": "14",
+      "parent_id": "267c4603-e452-491f-8b4e-b04752c4a273"
+    },
+    {
+      "id": "0328da5b-5d98-4969-bbf2-76d6328604dd",
+      "title": "Walmart GameCenter, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2013",
+        "start": "2013-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0328da5b-5d98-4969-bbf2-76d6328604dd",
+      "number": "15",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "6834b23e-adf9-46ba-855e-e4f32c2e3521",
+      "title": "Walmart GameCenter, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2014",
+        "start": "2014-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6834b23e-adf9-46ba-855e-e4f32c2e3521",
+      "number": "20",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "e982b10e-816a-48ef-90ec-739a9cd799df",
+      "title": "Walmart GameCenter, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2014",
+        "start": "2014-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e982b10e-816a-48ef-90ec-739a9cd799df",
+      "number": "21",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "7b7eaa01-cb61-4c3e-97ed-70e836aee458",
+      "title": "Walmart GameCenter, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2014",
+        "start": "2014-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7b7eaa01-cb61-4c3e-97ed-70e836aee458",
+      "number": "22",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "f68f53c5-4532-4d9c-bfec-bb00022f1460",
+      "title": "Walmart GameCenter, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2014",
+        "start": "2014-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f68f53c5-4532-4d9c-bfec-bb00022f1460",
+      "number": "23",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "4fbbaebc-e98c-4ad0-a59a-d58c8e9a8ed9",
+      "title": "Walmart GameCenter, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2014",
+        "start": "2014-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4fbbaebc-e98c-4ad0-a59a-d58c8e9a8ed9",
+      "number": "24",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "31a9f064-37d3-4a27-84ce-8a4089ad03c8",
+      "title": "Walmart GameCenter, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2014",
+        "start": "2014-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/31a9f064-37d3-4a27-84ce-8a4089ad03c8",
+      "number": "25",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "69805130-11a8-476c-8def-3a07ff0b9235",
+      "title": "Walmart GameCenter, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2014",
+        "start": "2014-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/69805130-11a8-476c-8def-3a07ff0b9235",
+      "number": "26",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "89eb0ab4-2d89-43dc-884e-e8c6391c83c3",
+      "title": "Walmart GameCenter, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2015",
+        "start": "2015-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/89eb0ab4-2d89-43dc-884e-e8c6391c83c3",
+      "number": "27",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "674ccebc-b247-4fe2-9661-a295872efa6b",
+      "title": "Walmart GameCenter, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2015",
+        "start": "2015-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/674ccebc-b247-4fe2-9661-a295872efa6b",
+      "number": "28",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "1b119815-1b20-4020-81f0-3722ce11f7ce",
+      "title": "Walmart GameCenter, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2015",
+        "start": "2015-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1b119815-1b20-4020-81f0-3722ce11f7ce",
+      "number": "29",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "b0dc39e1-fc97-4489-b813-b47c3058794f",
+      "title": "Walmart GameCenter, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2015",
+        "start": "2015-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b0dc39e1-fc97-4489-b813-b47c3058794f",
+      "number": "30",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "28e84c19-2afe-47d3-914f-47037227b55a",
+      "title": "Walmart GameCenter, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2015",
+        "start": "2015-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/28e84c19-2afe-47d3-914f-47037227b55a",
+      "number": "31",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "13710211-bcf3-44e8-bc7b-2f5756644e91",
+      "title": "Walmart GameCenter, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2015",
+        "start": "2015-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/13710211-bcf3-44e8-bc7b-2f5756644e91",
+      "number": "32",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "9d2e03b8-abad-43fc-b8b0-c7e720dcf4a8",
+      "title": "Walmart GameCenter, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2015",
+        "start": "2015-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d2e03b8-abad-43fc-b8b0-c7e720dcf4a8",
+      "number": "33",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "5a0530b9-2a9f-4e10-b3f0-903e480cb214",
+      "title": "Walmart GameCenter, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2015",
+        "start": "2015-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a0530b9-2a9f-4e10-b3f0-903e480cb214",
+      "number": "35",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "6eac109d-d7b7-4b5c-a40e-8ac82b7b3920",
+      "title": "Walmart GameCenter, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2015",
+        "start": "2015-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6eac109d-d7b7-4b5c-a40e-8ac82b7b3920",
+      "number": "36",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "15fae50b-c645-4e1e-9254-aa0dd9e51f86",
+      "title": "Walmart GameCenter, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2016",
+        "start": "2016-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/15fae50b-c645-4e1e-9254-aa0dd9e51f86",
+      "number": "39",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "72e16671-4c0d-4fe7-8323-508d7b70d544",
+      "title": "Walmart GameCenter, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2016",
+        "start": "2016-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72e16671-4c0d-4fe7-8323-508d7b70d544",
+      "number": "40",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "e3209fb2-1e7f-4c36-91d2-a9e80be09dd4",
+      "title": "Walmart GameCenter, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2016",
+        "start": "2016-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e3209fb2-1e7f-4c36-91d2-a9e80be09dd4",
+      "number": "45",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "17fba2a5-84c9-495c-bb32-7f2ff2a433de",
+      "title": "Walmart GameCenter, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2017",
+        "start": "2017-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/17fba2a5-84c9-495c-bb32-7f2ff2a433de",
+      "number": "46",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "3c2b2af8-bb62-4b0f-b355-b2f631345e79",
+      "title": "Walmart GameCenter, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2017",
+        "start": "2017-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c2b2af8-bb62-4b0f-b355-b2f631345e79",
+      "number": "47",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "57b01adf-d48c-44ac-b461-15b4401d629f",
+      "title": "Walmart GameCenter, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2017",
+        "start": "2017-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/57b01adf-d48c-44ac-b461-15b4401d629f",
+      "number": "48",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "c6b4dc9d-f7c7-4894-9e09-46649ef83243",
+      "title": "Walmart GameCenter, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2017",
+        "start": "2017-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c6b4dc9d-f7c7-4894-9e09-46649ef83243",
+      "number": "52",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "29e0151f-9d7e-470c-b3ed-91fccc6f82d7",
+      "title": "Walmart GameCenter, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2017",
+        "start": "2017-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29e0151f-9d7e-470c-b3ed-91fccc6f82d7",
+      "number": "53",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "77fb2981-2c59-40b2-a3d1-80878310538c",
+      "title": "Walmart GameCenter, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 2018",
+        "start": "2018-01",
+        "end": "2018-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77fb2981-2c59-40b2-a3d1-80878310538c",
+      "number": "54",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "ffa76d33-3ddc-46f5-9114-33e0ad98a099",
+      "title": "Walmart GameCenter, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2018",
+        "start": "2018-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ffa76d33-3ddc-46f5-9114-33e0ad98a099",
+      "number": "55",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "15afe17f-fb67-482e-a65c-3d7fce6bab8e",
+      "title": "Walmart GameCenter, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2018",
+        "start": "2018-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/15afe17f-fb67-482e-a65c-3d7fce6bab8e",
+      "number": "56",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "f8b2ef15-0e0b-4bc1-ae29-105029f2ac93",
+      "title": "Walmart GameCenter, Issue 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 2018",
+        "start": "2018-05",
+        "end": "2018-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8b2ef15-0e0b-4bc1-ae29-105029f2ac93",
+      "number": "57",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "b758b899-53a7-4e1f-b453-1c3de033a5df",
+      "title": "Walmart GameCenter, Issue 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 2018",
+        "start": "2018-07",
+        "end": "2018-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b758b899-53a7-4e1f-b453-1c3de033a5df",
+      "number": "58",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "3c9ead8c-87af-4a68-88dd-2e9b19fef45f",
+      "title": "Walmart GameCenter, Issue 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2018",
+        "start": "2018",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/3c9ead8c-87af-4a68-88dd-2e9b19fef45f",
+      "number": "59",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "22b48f5e-155c-4ca8-a351-d9b368a5b633",
+      "title": "Walmart GameCenter, Issue 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2018",
+        "start": "2018",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/22b48f5e-155c-4ca8-a351-d9b368a5b633",
+      "number": "60",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "45e4c44e-4810-4797-b70f-e386dbd21ab4",
+      "title": "Walmart GameCenter, Issue 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2018",
+        "start": "2018",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/45e4c44e-4810-4797-b70f-e386dbd21ab4",
+      "number": "61",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "6d52465f-dc43-44e3-b44c-d8bf3ccbb41f",
+      "title": "Walmart GameCenter, Issue 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 2019",
+        "start": "2019-01",
+        "end": "2019-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6d52465f-dc43-44e3-b44c-d8bf3ccbb41f",
+      "number": "62",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "b2c7963d-c82d-479b-b054-0552c7aeb55e",
+      "title": "Walmart GameCenter, Issue 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2019",
+        "start": "2019-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b2c7963d-c82d-479b-b054-0552c7aeb55e",
+      "number": "63",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "ffc12cbc-6c4d-488a-8583-3b25cbc34f20",
+      "title": "Walmart GameCenter, Issue 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2019",
+        "start": "2019-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ffc12cbc-6c4d-488a-8583-3b25cbc34f20",
+      "number": "64",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "b16a3731-8505-4dfe-930d-3777c6297d30",
+      "title": "Walmart GameCenter, Issue 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2019",
+        "start": "2019-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b16a3731-8505-4dfe-930d-3777c6297d30",
+      "number": "65",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "c8fbc3d4-d87b-4688-9073-f75c65045b0f",
+      "title": "Walmart GameCenter, Issue 66",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2019",
+        "start": "2019-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c8fbc3d4-d87b-4688-9073-f75c65045b0f",
+      "number": "66",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "090ed936-d89e-41c7-aac0-881629dfca59",
+      "title": "Walmart GameCenter, Issue 67",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2019",
+        "start": "2019-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/090ed936-d89e-41c7-aac0-881629dfca59",
+      "number": "67",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "6de1402c-15b9-4bff-8588-85c4a9cbf03e",
+      "title": "Walmart GameCenter, Issue 68",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2020",
+        "start": "2020-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6de1402c-15b9-4bff-8588-85c4a9cbf03e",
+      "number": "68",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "4b2fe069-64b4-4287-9bc7-84477e097a7b",
+      "title": "Walmart GameCenter, Issue 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2020",
+        "start": "2020-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4b2fe069-64b4-4287-9bc7-84477e097a7b",
+      "number": "69",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "34ca88fe-0963-4917-b06d-f74b8e1216c3",
+      "title": "Walmart GameCenter, Issue 70",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 2020",
+        "start": "2020-05",
+        "end": "2020-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/34ca88fe-0963-4917-b06d-f74b8e1216c3",
+      "number": "70",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "befb36d8-fbe7-4de8-adf3-e92a25a89b10",
+      "title": "Walmart GameCenter, Issue 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 2020",
+        "start": "2020-08",
+        "end": "2020-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/befb36d8-fbe7-4de8-adf3-e92a25a89b10",
+      "number": "71",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "fc607d68-4ecb-4054-80df-0d3664e6dd90",
+      "title": "Walmart GameCenter, Issue 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2020",
+        "start": "2020-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fc607d68-4ecb-4054-80df-0d3664e6dd90",
+      "number": "73",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "77dcc022-e1a9-44fa-a1ff-003a9b18d8a1",
+      "title": "Walmart GameCenter, Issue 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2021",
+        "start": "2021-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77dcc022-e1a9-44fa-a1ff-003a9b18d8a1",
+      "number": "74",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "f41047f1-7b32-4abc-8a65-411fd0c61025",
+      "title": "Walmart GameCenter, Issue 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 2021",
+        "start": "2021-04",
+        "end": "2021-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f41047f1-7b32-4abc-8a65-411fd0c61025",
+      "number": "75",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "10114b12-4726-49ed-9635-f5c81b50fbfe",
+      "title": "Walmart GameCenter, Issue 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2021",
+        "start": "2021-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/10114b12-4726-49ed-9635-f5c81b50fbfe",
+      "number": "79",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "a2cd2c9a-b8b1-48fa-b1db-2a026e021830",
+      "title": "Walmart GameCenter, Issue 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2021",
+        "start": "2021-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2cd2c9a-b8b1-48fa-b1db-2a026e021830",
+      "number": "80",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "ea60ddd0-1ecc-4218-86de-08a3c7ca51ed",
+      "title": "Walmart GameCenter, Issue 81",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2022",
+        "start": "2022-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ea60ddd0-1ecc-4218-86de-08a3c7ca51ed",
+      "number": "81",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "7b8e2e44-f192-4305-8a92-cbd03dac1985",
+      "title": "Walmart GameCenter, Issue 82",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 2022",
+        "start": "2022-02",
+        "end": "2022-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7b8e2e44-f192-4305-8a92-cbd03dac1985",
+      "number": "82",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "8bb6bee6-7a48-49d3-ab25-42fd70f1da9b",
+      "title": "Walmart GameCenter, Issue 83",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2022",
+        "start": "2022-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8bb6bee6-7a48-49d3-ab25-42fd70f1da9b",
+      "number": "83",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "8d2751e2-1593-426d-ab46-43e33f209ae5",
+      "title": "Walmart GameCenter, Issue 84",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2022",
+        "start": "2022-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8d2751e2-1593-426d-ab46-43e33f209ae5",
+      "number": "84",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "5a3a18e2-4d0b-403b-a7a4-bd7a99e60ff7",
+      "title": "Walmart GameCenter, Issue 85",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2022",
+        "start": "2022-06",
+        "end": "2022-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a3a18e2-4d0b-403b-a7a4-bd7a99e60ff7",
+      "number": "85",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "87b7b65c-1838-4465-89a6-d304ea4d76cc",
+      "title": "Walmart GameCenter, Issue 86",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2022",
+        "start": "2022-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87b7b65c-1838-4465-89a6-d304ea4d76cc",
+      "number": "86",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "0cc96783-9eb0-4057-84ad-635ac8992a7d",
+      "title": "Walmart GameCenter, Issue 87",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2022",
+        "start": "2022-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0cc96783-9eb0-4057-84ad-635ac8992a7d",
+      "number": "87",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "ce33a7fb-8a38-42f8-8c53-ce8ca7b77cd9",
+      "title": "Walmart GameCenter, Issue 88",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2022",
+        "start": "2022-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce33a7fb-8a38-42f8-8c53-ce8ca7b77cd9",
+      "number": "88",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "72ab4034-0c90-49df-8a59-eeee17a0e3fa",
+      "title": "Walmart GameCenter, Issue 89",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2022",
+        "start": "2022-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72ab4034-0c90-49df-8a59-eeee17a0e3fa",
+      "number": "89",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "5624a4b1-9e92-4b2d-af90-a9bd7fb41fee",
+      "title": "Walmart GameCenter, Issue 90",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2022",
+        "start": "2022-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5624a4b1-9e92-4b2d-af90-a9bd7fb41fee",
+      "number": "90",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "65631ef9-a08c-45d1-91a5-3fdeca3914aa",
+      "title": "Walmart GameCenter, Issue 91",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter/January 2023"
+      },
+      "url": "https://archive.gamehistory.org/item/65631ef9-a08c-45d1-91a5-3fdeca3914aa",
+      "number": "91",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "e8e34f7d-f50c-4f41-9b9a-74c9675fe0f6",
+      "title": "Walmart GameCenter, Issue 92",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 2023",
+        "start": "2023-02",
+        "end": "2023-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e8e34f7d-f50c-4f41-9b9a-74c9675fe0f6",
+      "number": "92",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "3b3301d3-2522-42fc-a686-934895f16f07",
+      "title": "Walmart GameCenter, Issue 93",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 2023",
+        "start": "2023-04",
+        "end": "2023-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3b3301d3-2522-42fc-a686-934895f16f07",
+      "number": "93",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "54b88024-b568-4402-b0f5-58b26909d3d4",
+      "title": "Walmart GameCenter, Issue 94",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 2023",
+        "start": "2023-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/54b88024-b568-4402-b0f5-58b26909d3d4",
+      "number": "94",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "16b4c3c6-95ab-4a36-92b7-dc1bc9755ac8",
+      "title": "Walmart GameCenter, Issue 95",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2023",
+        "start": "2023-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/16b4c3c6-95ab-4a36-92b7-dc1bc9755ac8",
+      "number": "95",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "37a32aa5-1885-4896-a88b-41bf56fcf12c",
+      "title": "Walmart GameCenter, Issue 96",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2023",
+        "start": "2023-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/37a32aa5-1885-4896-a88b-41bf56fcf12c",
+      "number": "96",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "dce3603b-d76b-411a-a9cf-5b089a8df0c1",
+      "title": "Walmart GameCenter, Issue 97",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2023",
+        "start": "2023-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dce3603b-d76b-411a-a9cf-5b089a8df0c1",
+      "number": "97",
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "28f40ca0-19b7-41a3-b452-60f355512e4d",
+      "title": "Walmart Parents Guide To Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2017",
+        "start": "2017",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/28f40ca0-19b7-41a3-b452-60f355512e4d",
+      "number": null,
+      "parent_id": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+    },
+    {
+      "id": "aca31375-350f-4900-bce5-238554cfc1f7",
+      "title": "Walmart Parents Guide To Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2018",
+        "start": "2018",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/aca31375-350f-4900-bce5-238554cfc1f7",
+      "number": null,
+      "parent_id": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+    },
+    {
+      "id": "fd486d89-5c19-4cfa-9948-b0c2c5965640",
+      "title": "Walmart Parents Guide To Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2019",
+        "start": "2019",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/fd486d89-5c19-4cfa-9948-b0c2c5965640",
+      "number": null,
+      "parent_id": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+    },
+    {
+      "id": "f04204dd-da8f-4b4a-979c-9739d64b7e97",
+      "title": "Walmart Parents Guide To Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2020",
+        "start": "2020",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/f04204dd-da8f-4b4a-979c-9739d64b7e97",
+      "number": null,
+      "parent_id": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+    },
+    {
+      "id": "b4781184-00cd-48bd-8277-eaf4272ac5f9",
+      "title": "Walmart Parents Guide To Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2021",
+        "start": "2021",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/b4781184-00cd-48bd-8277-eaf4272ac5f9",
+      "number": null,
+      "parent_id": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+    },
+    {
+      "id": "90bd5902-78b6-4d65-b775-2fdc67fcf6dd",
+      "title": "Walmart Parents Guide To Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2022",
+        "start": "2022",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/90bd5902-78b6-4d65-b775-2fdc67fcf6dd",
+      "number": null,
+      "parent_id": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+    },
+    {
+      "id": "e58bc8ac-4114-41ad-af85-74dbb85c8cbb",
+      "title": "Walmart Parents Guide To Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2023",
+        "start": "2023",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/e58bc8ac-4114-41ad-af85-74dbb85c8cbb",
+      "number": null,
+      "parent_id": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+    },
+    {
+      "id": "267c4603-e452-491f-8b4e-b04752c4a273",
+      "title": "Geek Magazine",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "2017 – January 2024"
+      },
+      "url": "https://archive.gamehistory.org/folder/267c4603-e452-491f-8b4e-b04752c4a273",
+      "number": null
+    },
+    {
+      "id": "06e3b3bc-e9cb-4bed-86bb-e204f5d5e1da",
+      "title": "Launch Day Magazine",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "2014–2016"
+      },
+      "url": "https://archive.gamehistory.org/folder/06e3b3bc-e9cb-4bed-86bb-e204f5d5e1da",
+      "number": null
+    },
+    {
+      "id": "71261a40-ad76-4951-81fe-b9c928c57d4a",
+      "title": "Launch Day Magazine, Alien: Isolation",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 7, 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/71261a40-ad76-4951-81fe-b9c928c57d4a",
+      "number": null,
+      "parent_id": "06e3b3bc-e9cb-4bed-86bb-e204f5d5e1da"
+    },
+    {
+      "id": "b4fe0029-d090-4437-b256-020f4e825d81",
+      "title": "Launch Day Magazine, Disney Infinity 2.0",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 23, 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/b4fe0029-d090-4437-b256-020f4e825d81",
+      "number": null,
+      "parent_id": "06e3b3bc-e9cb-4bed-86bb-e204f5d5e1da"
+    },
+    {
+      "id": "81104a94-cbb1-45d2-869f-f0efb81b5d4e",
+      "title": "Launch Day Magazine, Naruto Shippuden: Ultimate Ninja Storm Revolution",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 12, 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/81104a94-cbb1-45d2-869f-f0efb81b5d4e",
+      "number": null,
+      "parent_id": "06e3b3bc-e9cb-4bed-86bb-e204f5d5e1da"
+    },
+    {
+      "id": "4033f25c-6def-4142-8745-4c1175715ea8",
+      "title": "Launch Day Magazine, Sunset Overdrive",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 28, 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/4033f25c-6def-4142-8745-4c1175715ea8",
+      "number": null,
+      "parent_id": "06e3b3bc-e9cb-4bed-86bb-e204f5d5e1da"
+    },
+    {
+      "id": "e48e171f-c982-4724-b7fb-33456b8e9274",
+      "title": "Walmart GameCenter",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "January 2012 – November 2023"
+      },
+      "url": "https://archive.gamehistory.org/folder/e48e171f-c982-4724-b7fb-33456b8e9274",
+      "number": null
+    },
+    {
+      "id": "a1394dcd-c7bd-46c2-b19a-8177dac8bec4",
+      "title": "Walmart Gamecenter - 072",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/item/a1394dcd-c7bd-46c2-b19a-8177dac8bec4",
+      "number": null,
+      "parent_id": "e48e171f-c982-4724-b7fb-33456b8e9274"
+    },
+    {
+      "id": "959513e7-e7db-4e9f-95ad-163c7b37463d",
+      "title": "Walmart Parents Guide To Videogames",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "2012–2023"
+      },
+      "url": "https://archive.gamehistory.org/folder/959513e7-e7db-4e9f-95ad-163c7b37463d",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Geek Magazine, Issue 1": "53fc0124-74b8-4449-9afc-bf072df77b34",
+    "Geek Magazine, Issue 2": "f6396652-9e05-4c09-990c-f34456fc0fe3",
+    "Geek Magazine, Issue 3": "bdc99077-a3f6-4b7b-ae3e-49f7f2c1cc96",
+    "Geek Magazine, Issue 4": "cc6e77b7-45a2-4fe1-89be-fca81df86f84",
+    "Geek Magazine, Issue 5": "e4860fa9-bf76-4301-9a1b-4b3c229612e0",
+    "Geek Magazine, Issue 6": "21b2a61e-e099-4bf8-abb1-e3ca6e1108bc",
+    "Geek Magazine, Issue 7": "07241be9-6a7a-4fd4-a9ff-eaa2810aede5",
+    "Geek Magazine, Issue 8": "d8282479-e943-416f-a70a-c4fbce906143",
+    "Geek Magazine, Issue 9": "31ad606b-1946-4987-84e3-0fe68875d6d9",
+    "Geek Magazine, Issue 10": "95cf9b64-a785-4e73-8ce1-1132c2400688",
+    "Geek Magazine, Issue 11": "2550fd2e-ca15-4158-9280-75b1907cf838",
+    "Geek Magazine, Issue 12": "0257fccf-a578-4d8e-901d-d8d944a35c80",
+    "Walmart GameCenter, Issue 13": "d17657a5-fdf8-4214-a750-2ed7d0b44ba9",
+    "Geek Magazine, Issue 13": "a4023bc2-c029-40d5-8ac8-a2e2b83fbcb8",
+    "Walmart GameCenter, Issue 14": "2c004e8b-4102-4cff-aed0-770c3b702385",
+    "Geek Magazine, Issue 14": "88c1d4fa-dc91-4de9-ae3b-3a8d4913fb1f",
+    "Walmart GameCenter, Issue 15": "0328da5b-5d98-4969-bbf2-76d6328604dd",
+    "Walmart GameCenter, Issue 20": "6834b23e-adf9-46ba-855e-e4f32c2e3521",
+    "Walmart GameCenter, Issue 21": "e982b10e-816a-48ef-90ec-739a9cd799df",
+    "Walmart GameCenter, Issue 22": "7b7eaa01-cb61-4c3e-97ed-70e836aee458",
+    "Walmart GameCenter, Issue 23": "f68f53c5-4532-4d9c-bfec-bb00022f1460",
+    "Walmart GameCenter, Issue 24": "4fbbaebc-e98c-4ad0-a59a-d58c8e9a8ed9",
+    "Walmart GameCenter, Issue 25": "31a9f064-37d3-4a27-84ce-8a4089ad03c8",
+    "Walmart GameCenter, Issue 26": "69805130-11a8-476c-8def-3a07ff0b9235",
+    "Walmart GameCenter, Issue 27": "89eb0ab4-2d89-43dc-884e-e8c6391c83c3",
+    "Walmart GameCenter, Issue 28": "674ccebc-b247-4fe2-9661-a295872efa6b",
+    "Walmart GameCenter, Issue 29": "1b119815-1b20-4020-81f0-3722ce11f7ce",
+    "Walmart GameCenter, Issue 30": "b0dc39e1-fc97-4489-b813-b47c3058794f",
+    "Walmart GameCenter, Issue 31": "28e84c19-2afe-47d3-914f-47037227b55a",
+    "Walmart GameCenter, Issue 32": "13710211-bcf3-44e8-bc7b-2f5756644e91",
+    "Walmart GameCenter, Issue 33": "9d2e03b8-abad-43fc-b8b0-c7e720dcf4a8",
+    "Walmart GameCenter, Issue 35": "5a0530b9-2a9f-4e10-b3f0-903e480cb214",
+    "Walmart GameCenter, Issue 36": "6eac109d-d7b7-4b5c-a40e-8ac82b7b3920",
+    "Walmart GameCenter, Issue 39": "15fae50b-c645-4e1e-9254-aa0dd9e51f86",
+    "Walmart GameCenter, Issue 40": "72e16671-4c0d-4fe7-8323-508d7b70d544",
+    "Walmart GameCenter, Issue 45": "e3209fb2-1e7f-4c36-91d2-a9e80be09dd4",
+    "Walmart GameCenter, Issue 46": "17fba2a5-84c9-495c-bb32-7f2ff2a433de",
+    "Walmart GameCenter, Issue 47": "3c2b2af8-bb62-4b0f-b355-b2f631345e79",
+    "Walmart GameCenter, Issue 48": "57b01adf-d48c-44ac-b461-15b4401d629f",
+    "Walmart GameCenter, Issue 52": "c6b4dc9d-f7c7-4894-9e09-46649ef83243",
+    "Walmart GameCenter, Issue 53": "29e0151f-9d7e-470c-b3ed-91fccc6f82d7",
+    "Walmart GameCenter, Issue 54": "77fb2981-2c59-40b2-a3d1-80878310538c",
+    "Walmart GameCenter, Issue 55": "ffa76d33-3ddc-46f5-9114-33e0ad98a099",
+    "Walmart GameCenter, Issue 56": "15afe17f-fb67-482e-a65c-3d7fce6bab8e",
+    "Walmart GameCenter, Issue 57": "f8b2ef15-0e0b-4bc1-ae29-105029f2ac93",
+    "Walmart GameCenter, Issue 58": "b758b899-53a7-4e1f-b453-1c3de033a5df",
+    "Walmart GameCenter, Issue 59": "3c9ead8c-87af-4a68-88dd-2e9b19fef45f",
+    "Walmart GameCenter, Issue 60": "22b48f5e-155c-4ca8-a351-d9b368a5b633",
+    "Walmart GameCenter, Issue 61": "45e4c44e-4810-4797-b70f-e386dbd21ab4",
+    "Walmart GameCenter, Issue 62": "6d52465f-dc43-44e3-b44c-d8bf3ccbb41f",
+    "Walmart GameCenter, Issue 63": "b2c7963d-c82d-479b-b054-0552c7aeb55e",
+    "Walmart GameCenter, Issue 64": "ffc12cbc-6c4d-488a-8583-3b25cbc34f20",
+    "Walmart GameCenter, Issue 65": "b16a3731-8505-4dfe-930d-3777c6297d30",
+    "Walmart GameCenter, Issue 66": "c8fbc3d4-d87b-4688-9073-f75c65045b0f",
+    "Walmart GameCenter, Issue 67": "090ed936-d89e-41c7-aac0-881629dfca59",
+    "Walmart GameCenter, Issue 68": "6de1402c-15b9-4bff-8588-85c4a9cbf03e",
+    "Walmart GameCenter, Issue 69": "4b2fe069-64b4-4287-9bc7-84477e097a7b",
+    "Walmart GameCenter, Issue 70": "34ca88fe-0963-4917-b06d-f74b8e1216c3",
+    "Walmart GameCenter, Issue 71": "befb36d8-fbe7-4de8-adf3-e92a25a89b10",
+    "Walmart GameCenter, Issue 73": "fc607d68-4ecb-4054-80df-0d3664e6dd90",
+    "Walmart GameCenter, Issue 74": "77dcc022-e1a9-44fa-a1ff-003a9b18d8a1",
+    "Walmart GameCenter, Issue 75": "f41047f1-7b32-4abc-8a65-411fd0c61025",
+    "Walmart GameCenter, Issue 79": "10114b12-4726-49ed-9635-f5c81b50fbfe",
+    "Walmart GameCenter, Issue 80": "a2cd2c9a-b8b1-48fa-b1db-2a026e021830",
+    "Walmart GameCenter, Issue 81": "ea60ddd0-1ecc-4218-86de-08a3c7ca51ed",
+    "Walmart GameCenter, Issue 82": "7b8e2e44-f192-4305-8a92-cbd03dac1985",
+    "Walmart GameCenter, Issue 83": "8bb6bee6-7a48-49d3-ab25-42fd70f1da9b",
+    "Walmart GameCenter, Issue 84": "8d2751e2-1593-426d-ab46-43e33f209ae5",
+    "Walmart GameCenter, Issue 85": "5a3a18e2-4d0b-403b-a7a4-bd7a99e60ff7",
+    "Walmart GameCenter, Issue 86": "87b7b65c-1838-4465-89a6-d304ea4d76cc",
+    "Walmart GameCenter, Issue 87": "0cc96783-9eb0-4057-84ad-635ac8992a7d",
+    "Walmart GameCenter, Issue 88": "ce33a7fb-8a38-42f8-8c53-ce8ca7b77cd9",
+    "Walmart GameCenter, Issue 89": "72ab4034-0c90-49df-8a59-eeee17a0e3fa",
+    "Walmart GameCenter, Issue 90": "5624a4b1-9e92-4b2d-af90-a9bd7fb41fee",
+    "Walmart GameCenter, Issue 91": "65631ef9-a08c-45d1-91a5-3fdeca3914aa",
+    "Walmart GameCenter, Issue 92": "e8e34f7d-f50c-4f41-9b9a-74c9675fe0f6",
+    "Walmart GameCenter, Issue 93": "3b3301d3-2522-42fc-a686-934895f16f07",
+    "Walmart GameCenter, Issue 94": "54b88024-b568-4402-b0f5-58b26909d3d4",
+    "Walmart GameCenter, Issue 95": "16b4c3c6-95ab-4a36-92b7-dc1bc9755ac8",
+    "Walmart GameCenter, Issue 96": "37a32aa5-1885-4896-a88b-41bf56fcf12c",
+    "Walmart GameCenter, Issue 97": "dce3603b-d76b-411a-a9cf-5b089a8df0c1",
+    "Walmart Parents Guide To Video Games": "e58bc8ac-4114-41ad-af85-74dbb85c8cbb",
+    "Geek Magazine": "267c4603-e452-491f-8b4e-b04752c4a273",
+    "Launch Day Magazine": "06e3b3bc-e9cb-4bed-86bb-e204f5d5e1da",
+    "Launch Day Magazine, Alien: Isolation": "71261a40-ad76-4951-81fe-b9c928c57d4a",
+    "Launch Day Magazine, Disney Infinity 2.0": "b4fe0029-d090-4437-b256-020f4e825d81",
+    "Launch Day Magazine, Naruto Shippuden: Ultimate Ninja Storm Revolution": "81104a94-cbb1-45d2-869f-f0efb81b5d4e",
+    "Launch Day Magazine, Sunset Overdrive": "4033f25c-6def-4142-8745-4c1175715ea8",
+    "Walmart GameCenter": "e48e171f-c982-4724-b7fb-33456b8e9274",
+    "Walmart Gamecenter - 072": "a1394dcd-c7bd-46c2-b19a-8177dac8bec4",
+    "Walmart Parents Guide To Videogames": "959513e7-e7db-4e9f-95ad-163c7b37463d"
+  }
+}

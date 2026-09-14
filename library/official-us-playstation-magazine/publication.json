@@ -36,7 +36,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/b434cdd1-e02e-4bd4-833e-6cc0884403ef",
-      "date_range": "October 1997 – January 2007"
+      "date_range": "October 1997 – est. summer 1998",
+      "items": 113
     }
   ],
   "stats": {
@@ -45,5 +46,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

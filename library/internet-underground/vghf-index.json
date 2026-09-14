@@ -1,0 +1,282 @@
+{
+  "provider": "vghf",
+  "folder_id": "e36eed31-c069-4599-b3e3-abcd65034c64",
+  "url": "https://archive.gamehistory.org/folder/e36eed31-c069-4599-b3e3-abcd65034c64",
+  "retrieved_at": "2026-09-13T22:55:18+00:00",
+  "expected": 15,
+  "count": 16,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "2779d92d-5570-4846-ac1f-d9942168c7a4",
+      "title": "Internet Underground, Volume 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2779d92d-5570-4846-ac1f-d9942168c7a4",
+      "number": "1"
+    },
+    {
+      "id": "7625f1bb-6ab6-4258-b52a-99dbdb0238d6",
+      "title": "Internet Underground, Volume 2, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7625f1bb-6ab6-4258-b52a-99dbdb0238d6",
+      "number": "1"
+    },
+    {
+      "id": "47f7125d-c8f6-42bb-8b3e-62af959e0f7e",
+      "title": "Internet Underground, Volume 1, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/47f7125d-c8f6-42bb-8b3e-62af959e0f7e",
+      "number": "2"
+    },
+    {
+      "id": "61b4d24d-77a7-424b-99cf-3361f6b45fde",
+      "title": "Internet Underground, Volume 1, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/61b4d24d-77a7-424b-99cf-3361f6b45fde",
+      "number": "3"
+    },
+    {
+      "id": "8ca8bf3b-049e-42b7-b1a4-8e9fcf8f17d6",
+      "title": "Internet Underground, Volume 2, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ca8bf3b-049e-42b7-b1a4-8e9fcf8f17d6",
+      "number": "4"
+    },
+    {
+      "id": "821d0da2-1da4-4d49-9250-986337de4caa",
+      "title": "Internet Underground, Volume 1, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/821d0da2-1da4-4d49-9250-986337de4caa",
+      "number": "5"
+    },
+    {
+      "id": "8bff2623-91ce-4af8-b2eb-88b6d7e1d4cf",
+      "title": "Internet Underground, Volume 2, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8bff2623-91ce-4af8-b2eb-88b6d7e1d4cf",
+      "number": "5"
+    },
+    {
+      "id": "61034b31-83f4-44eb-ae35-184c3ac80200",
+      "title": "Internet Underground, Volume 1, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/61034b31-83f4-44eb-ae35-184c3ac80200",
+      "number": "6"
+    },
+    {
+      "id": "edd31a4c-eb60-4d25-8396-1bdcda7adb82",
+      "title": "Internet Underground, Volume 2, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/edd31a4c-eb60-4d25-8396-1bdcda7adb82",
+      "number": "6"
+    },
+    {
+      "id": "e42e1be5-434e-42c8-b309-ebc9b8e76ff3",
+      "title": "Internet Underground, Volume 1, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e42e1be5-434e-42c8-b309-ebc9b8e76ff3",
+      "number": "7"
+    },
+    {
+      "id": "146c22b9-1701-43ff-b9ee-01f3139f32da",
+      "title": "Internet Underground, Volume 1, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/146c22b9-1701-43ff-b9ee-01f3139f32da",
+      "number": "8"
+    },
+    {
+      "id": "ee716c4d-ed3a-4c73-a5ca-b065ff0928c7",
+      "title": "Internet Underground, Volume 1, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ee716c4d-ed3a-4c73-a5ca-b065ff0928c7",
+      "number": "9"
+    },
+    {
+      "id": "bbce7aab-5197-40f2-82c1-f7f860c5e896",
+      "title": "Internet Underground, Volume 1, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bbce7aab-5197-40f2-82c1-f7f860c5e896",
+      "number": "11"
+    },
+    {
+      "id": "0826bd3f-c82a-4e95-890e-5e990a60ef92",
+      "title": "Internet Underground, Volume 1, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0826bd3f-c82a-4e95-890e-5e990a60ef92",
+      "number": "12"
+    },
+    {
+      "id": "989c34e8-e7d7-49ab-95b7-e1548df748a6",
+      "title": "WebGuide: the underground guide to what's hot on the web",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/989c34e8-e7d7-49ab-95b7-e1548df748a6",
+      "number": null,
+      "parent_id": "3d9d6790-21a7-4797-845a-c3c99eca62c6"
+    },
+    {
+      "id": "3d9d6790-21a7-4797-845a-c3c99eca62c6",
+      "title": "Internet Underground supplements",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/3d9d6790-21a7-4797-845a-c3c99eca62c6",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Internet Underground, Volume 1, Issue 1": "2779d92d-5570-4846-ac1f-d9942168c7a4",
+    "Internet Underground, Volume 2, Issue 1": "7625f1bb-6ab6-4258-b52a-99dbdb0238d6",
+    "Internet Underground, Volume 1, Issue 2": "47f7125d-c8f6-42bb-8b3e-62af959e0f7e",
+    "Internet Underground, Volume 1, Issue 3": "61b4d24d-77a7-424b-99cf-3361f6b45fde",
+    "Internet Underground, Volume 2, Issue 4": "8ca8bf3b-049e-42b7-b1a4-8e9fcf8f17d6",
+    "Internet Underground, Volume 1, Issue 5": "821d0da2-1da4-4d49-9250-986337de4caa",
+    "Internet Underground, Volume 2, Issue 5": "8bff2623-91ce-4af8-b2eb-88b6d7e1d4cf",
+    "Internet Underground, Volume 1, Issue 6": "61034b31-83f4-44eb-ae35-184c3ac80200",
+    "Internet Underground, Volume 2, Issue 6": "edd31a4c-eb60-4d25-8396-1bdcda7adb82",
+    "Internet Underground, Volume 1, Issue 7": "e42e1be5-434e-42c8-b309-ebc9b8e76ff3",
+    "Internet Underground, Volume 1, Issue 8": "146c22b9-1701-43ff-b9ee-01f3139f32da",
+    "Internet Underground, Volume 1, Issue 9": "ee716c4d-ed3a-4c73-a5ca-b065ff0928c7",
+    "Internet Underground, Volume 1, Issue 11": "bbce7aab-5197-40f2-82c1-f7f860c5e896",
+    "Internet Underground, Volume 1, Issue 12": "0826bd3f-c82a-4e95-890e-5e990a60ef92",
+    "WebGuide: the underground guide to what's hot on the web": "989c34e8-e7d7-49ab-95b7-e1548df748a6",
+    "Internet Underground supplements": "3d9d6790-21a7-4797-845a-c3c99eca62c6"
+  }
+}

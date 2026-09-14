@@ -37,13 +37,22 @@
       "url": "https://archive.org/details/gamepromagazine",
       "items": 474,
       "date_range": "1989–2026"
+    },
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/baf6da18-d798-448f-994d-af23f7f4ffad",
+      "items": 269,
+      "date_range": "May 1989–Winter 2011"
     }
   ],
   "stats": {
-    "issues": 0,
-    "pages": 0,
-    "readable": 0,
-    "with_text": 0
+    "issues": 1,
+    "pages": 64,
+    "readable": 1,
+    "with_text": 1,
+    "first_year": 1989,
+    "last_year": 1989
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T22:34:30+00:00",
+  "cover_issue": "gamepro-1"
 }

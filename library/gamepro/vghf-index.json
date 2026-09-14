@@ -1,0 +1,4924 @@
+{
+  "provider": "vghf",
+  "folder_id": "baf6da18-d798-448f-994d-af23f7f4ffad",
+  "url": "https://archive.gamehistory.org/folder/baf6da18-d798-448f-994d-af23f7f4ffad",
+  "retrieved_at": "2026-09-13T22:00:35+00:00",
+  "expected": 269,
+  "count": 288,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "f9a715ce-6eb1-4927-a1ef-66f375742e87",
+      "title": "GamePro, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1989",
+        "start": "1989-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f9a715ce-6eb1-4927-a1ef-66f375742e87",
+      "number": "1"
+    },
+    {
+      "id": "a68a74f2-6f4a-48d9-b105-8b712158e635",
+      "title": "GamePro, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 1989",
+        "start": "1989-07",
+        "end": "1989-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a68a74f2-6f4a-48d9-b105-8b712158e635",
+      "number": "2"
+    },
+    {
+      "id": "9edfda16-7662-48b7-8fe0-70c5d5c3bfe1",
+      "title": "GamePro, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 1989",
+        "start": "1989-09",
+        "end": "1989-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9edfda16-7662-48b7-8fe0-70c5d5c3bfe1",
+      "number": "3"
+    },
+    {
+      "id": "f74d380f-040f-44bb-a1c7-7117fe0d9b33",
+      "title": "GamePro, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1989",
+        "start": "1989-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f74d380f-040f-44bb-a1c7-7117fe0d9b33",
+      "number": "4"
+    },
+    {
+      "id": "32ffe8e0-ac00-413f-ab60-279887f53b22",
+      "title": "GamePro, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1989",
+        "start": "1989-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/32ffe8e0-ac00-413f-ab60-279887f53b22",
+      "number": "5"
+    },
+    {
+      "id": "131fcf80-5e0e-422c-a34c-c57063eb10d6",
+      "title": "GamePro, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1990",
+        "start": "1990-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/131fcf80-5e0e-422c-a34c-c57063eb10d6",
+      "number": "6"
+    },
+    {
+      "id": "15341b78-b57d-413b-93fc-001226db6926",
+      "title": "GamePro, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1990",
+        "start": "1990-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/15341b78-b57d-413b-93fc-001226db6926",
+      "number": "7"
+    },
+    {
+      "id": "0308274e-5de8-42f3-abc6-daf2b3aa40f0",
+      "title": "GamePro, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1990",
+        "start": "1990-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0308274e-5de8-42f3-abc6-daf2b3aa40f0",
+      "number": "8"
+    },
+    {
+      "id": "c150175a-56c0-48bb-81d5-243ff5e51f8c",
+      "title": "GamePro, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1990",
+        "start": "1990-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c150175a-56c0-48bb-81d5-243ff5e51f8c",
+      "number": "9"
+    },
+    {
+      "id": "a1e0a7d0-ec23-4b56-a9ef-425b5e482f54",
+      "title": "GamePro, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1990",
+        "start": "1990-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a1e0a7d0-ec23-4b56-a9ef-425b5e482f54",
+      "number": "10"
+    },
+    {
+      "id": "f7002a9d-42aa-4ea7-9fb1-be2166707e19",
+      "title": "GamePro, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1990",
+        "start": "1990-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f7002a9d-42aa-4ea7-9fb1-be2166707e19",
+      "number": "11"
+    },
+    {
+      "id": "a0e34dd4-5c31-4cc0-9737-a5c65fcd28d1",
+      "title": "GamePro, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1990",
+        "start": "1990-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0e34dd4-5c31-4cc0-9737-a5c65fcd28d1",
+      "number": "12"
+    },
+    {
+      "id": "f8fc415a-d1be-404c-978c-fa396145cb81",
+      "title": "GamePro, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1990",
+        "start": "1990-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8fc415a-d1be-404c-978c-fa396145cb81",
+      "number": "13"
+    },
+    {
+      "id": "bb29f7ac-7a36-4bed-b0ec-2cae8314db96",
+      "title": "GamePro, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1990",
+        "start": "1990-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bb29f7ac-7a36-4bed-b0ec-2cae8314db96",
+      "number": "14"
+    },
+    {
+      "id": "f8650a09-f423-493f-a0de-5fdafe1d0109",
+      "title": "GamePro, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1990",
+        "start": "1990-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8650a09-f423-493f-a0de-5fdafe1d0109",
+      "number": "15"
+    },
+    {
+      "id": "4954099c-97f8-4de2-adbe-6c8b4ccbf201",
+      "title": "GamePro, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1990",
+        "start": "1990-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4954099c-97f8-4de2-adbe-6c8b4ccbf201",
+      "number": "16"
+    },
+    {
+      "id": "e4326764-c4ad-4cab-8afb-ea6bb9733af1",
+      "title": "GamePro, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1990",
+        "start": "1990-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e4326764-c4ad-4cab-8afb-ea6bb9733af1",
+      "number": "17"
+    },
+    {
+      "id": "4591c745-7517-4771-a1d8-30094e762191",
+      "title": "GamePro, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1991",
+        "start": "1991-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4591c745-7517-4771-a1d8-30094e762191",
+      "number": "18"
+    },
+    {
+      "id": "ea4cc79f-65fb-47db-950d-1c8562c46076",
+      "title": "GamePro, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1991",
+        "start": "1991-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ea4cc79f-65fb-47db-950d-1c8562c46076",
+      "number": "19"
+    },
+    {
+      "id": "caf82e4f-f522-46bb-8095-a1491a76ea81",
+      "title": "GamePro, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1991",
+        "start": "1991-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/caf82e4f-f522-46bb-8095-a1491a76ea81",
+      "number": "20"
+    },
+    {
+      "id": "19a9736f-ba63-44a8-9d2b-00a65b0fd696",
+      "title": "GamePro, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1991",
+        "start": "1991-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/19a9736f-ba63-44a8-9d2b-00a65b0fd696",
+      "number": "21"
+    },
+    {
+      "id": "d9ccd22a-525a-4b1a-9758-eb44224ec5c2",
+      "title": "GamePro, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1991",
+        "start": "1991-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d9ccd22a-525a-4b1a-9758-eb44224ec5c2",
+      "number": "22"
+    },
+    {
+      "id": "ae5e573f-92fe-4858-9f50-096e4032ca87",
+      "title": "GamePro, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1991",
+        "start": "1991-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ae5e573f-92fe-4858-9f50-096e4032ca87",
+      "number": "23"
+    },
+    {
+      "id": "107b9b3b-1f34-46cd-acec-4e34394f83ec",
+      "title": "GamePro, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1991",
+        "start": "1991-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/107b9b3b-1f34-46cd-acec-4e34394f83ec",
+      "number": "24"
+    },
+    {
+      "id": "f5fe1463-01ce-4efb-81e5-fbb435902541",
+      "title": "GamePro, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1991",
+        "start": "1991-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f5fe1463-01ce-4efb-81e5-fbb435902541",
+      "number": "25"
+    },
+    {
+      "id": "7c643ab6-7698-4908-acd8-db359a429087",
+      "title": "GamePro, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1991",
+        "start": "1991-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7c643ab6-7698-4908-acd8-db359a429087",
+      "number": "26"
+    },
+    {
+      "id": "89773380-b64b-4739-a496-01bc72dab043",
+      "title": "GamePro, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1991",
+        "start": "1991-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/89773380-b64b-4739-a496-01bc72dab043",
+      "number": "27"
+    },
+    {
+      "id": "1f613cde-da3b-40da-8e76-82d0cf87214d",
+      "title": "GamePro, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1991",
+        "start": "1991-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1f613cde-da3b-40da-8e76-82d0cf87214d",
+      "number": "28"
+    },
+    {
+      "id": "048cdfac-1539-4259-b5e0-5865684ee3f6",
+      "title": "GamePro, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1991",
+        "start": "1991-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/048cdfac-1539-4259-b5e0-5865684ee3f6",
+      "number": "29"
+    },
+    {
+      "id": "dcb40310-d003-4796-9ebf-5229db86fdd1",
+      "title": "GamePro, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1992",
+        "start": "1992-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dcb40310-d003-4796-9ebf-5229db86fdd1",
+      "number": "30"
+    },
+    {
+      "id": "dbf53a0a-551c-4ba0-9486-49293ddadc18",
+      "title": "GamePro, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1992",
+        "start": "1992-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dbf53a0a-551c-4ba0-9486-49293ddadc18",
+      "number": "31"
+    },
+    {
+      "id": "20699f85-351d-455f-b666-9c85b6aecfcb",
+      "title": "GamePro, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1992",
+        "start": "1992-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/20699f85-351d-455f-b666-9c85b6aecfcb",
+      "number": "32"
+    },
+    {
+      "id": "d75d093f-6cc2-417d-857d-0eaa3febcae7",
+      "title": "GamePro, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1992",
+        "start": "1992-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d75d093f-6cc2-417d-857d-0eaa3febcae7",
+      "number": "33"
+    },
+    {
+      "id": "1b1bdeae-2824-4b8f-8c4b-124f7f99fb60",
+      "title": "GamePro, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1992",
+        "start": "1992-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1b1bdeae-2824-4b8f-8c4b-124f7f99fb60",
+      "number": "34"
+    },
+    {
+      "id": "8465b62f-f184-4e7c-91c7-22cbee0b68de",
+      "title": "GamePro, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1992",
+        "start": "1992-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8465b62f-f184-4e7c-91c7-22cbee0b68de",
+      "number": "35"
+    },
+    {
+      "id": "97477d53-334e-426a-a3db-c2a8c4703e8e",
+      "title": "GamePro, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1992",
+        "start": "1992-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/97477d53-334e-426a-a3db-c2a8c4703e8e",
+      "number": "36"
+    },
+    {
+      "id": "ea813a18-18f7-4048-8e61-4f89d1d85be5",
+      "title": "GamePro, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1992",
+        "start": "1992-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ea813a18-18f7-4048-8e61-4f89d1d85be5",
+      "number": "37"
+    },
+    {
+      "id": "5b631850-a4d0-4ecd-8a6b-be1da2ea2acc",
+      "title": "GamePro, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1992",
+        "start": "1992-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5b631850-a4d0-4ecd-8a6b-be1da2ea2acc",
+      "number": "38"
+    },
+    {
+      "id": "2d6f7bb4-f1c3-4270-9859-608fb849ac2f",
+      "title": "GamePro, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1992",
+        "start": "1992-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d6f7bb4-f1c3-4270-9859-608fb849ac2f",
+      "number": "39"
+    },
+    {
+      "id": "857a8b37-e86d-473b-bf0c-f5749e249e21",
+      "title": "GamePro, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1992",
+        "start": "1992-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/857a8b37-e86d-473b-bf0c-f5749e249e21",
+      "number": "40"
+    },
+    {
+      "id": "08781ec6-04f4-4879-b687-4f5d78db79be",
+      "title": "GamePro, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1992",
+        "start": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/08781ec6-04f4-4879-b687-4f5d78db79be",
+      "number": "41"
+    },
+    {
+      "id": "fe35e975-a01b-48f7-92a1-ef135b9ee615",
+      "title": "GamePro, Issue 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fe35e975-a01b-48f7-92a1-ef135b9ee615",
+      "number": "42"
+    },
+    {
+      "id": "8f56e889-f4fa-4e18-9fd0-e5c6b69f2dd3",
+      "title": "GamePro, Issue 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1993",
+        "start": "1993-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8f56e889-f4fa-4e18-9fd0-e5c6b69f2dd3",
+      "number": "43"
+    },
+    {
+      "id": "ac3c79e4-690a-4699-9b99-eba1f0b10875",
+      "title": "GamePro, Issue 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1993",
+        "start": "1993-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac3c79e4-690a-4699-9b99-eba1f0b10875",
+      "number": "44"
+    },
+    {
+      "id": "29697abc-1c7e-4398-921e-9635a39bfc60",
+      "title": "GamePro, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1993",
+        "start": "1993-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29697abc-1c7e-4398-921e-9635a39bfc60",
+      "number": "45"
+    },
+    {
+      "id": "11fc5e83-8701-4d6c-b750-5cd9e3d92756",
+      "title": "GamePro, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1993",
+        "start": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/11fc5e83-8701-4d6c-b750-5cd9e3d92756",
+      "number": "46"
+    },
+    {
+      "id": "a18da7ca-22e1-4e10-a8e3-71a0993fbc53",
+      "title": "GamePro, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1993",
+        "start": "1993-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a18da7ca-22e1-4e10-a8e3-71a0993fbc53",
+      "number": "47"
+    },
+    {
+      "id": "930b20e6-f2e4-497a-82fc-c2eb0a02d658",
+      "title": "GamePro, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1993",
+        "start": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/930b20e6-f2e4-497a-82fc-c2eb0a02d658",
+      "number": "48"
+    },
+    {
+      "id": "550476f5-0c42-4e70-8fb2-3c58e1e946f5",
+      "title": "GamePro, Issue 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1993",
+        "start": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/550476f5-0c42-4e70-8fb2-3c58e1e946f5",
+      "number": "49"
+    },
+    {
+      "id": "e0d7048b-7dea-44df-ae9f-5d53417308b7",
+      "title": "GamePro, Issue 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1993",
+        "start": "1993-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0d7048b-7dea-44df-ae9f-5d53417308b7",
+      "number": "50"
+    },
+    {
+      "id": "14d7c864-42ba-40a4-8e4a-4164b8fd12db",
+      "title": "GamePro, Issue 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1993",
+        "start": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/14d7c864-42ba-40a4-8e4a-4164b8fd12db",
+      "number": "51"
+    },
+    {
+      "id": "ef2a429b-e589-4561-a6ca-34ea055ed431",
+      "title": "GamePro, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1993",
+        "start": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ef2a429b-e589-4561-a6ca-34ea055ed431",
+      "number": "52"
+    },
+    {
+      "id": "8ca5bbca-f77d-4200-abba-c08d6a5f8d2a",
+      "title": "GamePro, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1993",
+        "start": "1993-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ca5bbca-f77d-4200-abba-c08d6a5f8d2a",
+      "number": "53"
+    },
+    {
+      "id": "060c20f2-ff34-4257-a91c-051371010ea8",
+      "title": "GamePro, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/060c20f2-ff34-4257-a91c-051371010ea8",
+      "number": "54"
+    },
+    {
+      "id": "bfe18655-da43-4b23-9373-f3235a16faac",
+      "title": "GamePro, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1994",
+        "start": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bfe18655-da43-4b23-9373-f3235a16faac",
+      "number": "55"
+    },
+    {
+      "id": "29b36d7a-95f5-46f1-beee-3212f4bb12e1",
+      "title": "GamePro, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29b36d7a-95f5-46f1-beee-3212f4bb12e1",
+      "number": "56"
+    },
+    {
+      "id": "8c5a6f88-951b-448b-87d4-e2ab8e0fe9a9",
+      "title": "GamePro, Issue 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8c5a6f88-951b-448b-87d4-e2ab8e0fe9a9",
+      "number": "57"
+    },
+    {
+      "id": "fb462bba-93c9-4723-986b-8308781a2903",
+      "title": "GamePro, Issue 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb462bba-93c9-4723-986b-8308781a2903",
+      "number": "58"
+    },
+    {
+      "id": "3973616b-7345-4f43-b85b-2c29b6cfaba6",
+      "title": "GamePro, Issue 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3973616b-7345-4f43-b85b-2c29b6cfaba6",
+      "number": "59"
+    },
+    {
+      "id": "e4af5957-8c6c-4ecc-8fda-0190ff35b82c",
+      "title": "GamePro, Issue 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e4af5957-8c6c-4ecc-8fda-0190ff35b82c",
+      "number": "60"
+    },
+    {
+      "id": "a43be9d9-52d3-4025-a71b-b10f8226fef3",
+      "title": "GamePro, Issue 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a43be9d9-52d3-4025-a71b-b10f8226fef3",
+      "number": "61"
+    },
+    {
+      "id": "e3dcd4ce-e592-4de6-b6d9-f0af53995049",
+      "title": "GamePro, Issue 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e3dcd4ce-e592-4de6-b6d9-f0af53995049",
+      "number": "62"
+    },
+    {
+      "id": "9da0e12a-1b10-4367-b9be-7e8ecdc5011b",
+      "title": "GamePro, Issue 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9da0e12a-1b10-4367-b9be-7e8ecdc5011b",
+      "number": "63"
+    },
+    {
+      "id": "ec148ccc-0822-4a31-bba7-f396bd91e217",
+      "title": "GamePro, Issue 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec148ccc-0822-4a31-bba7-f396bd91e217",
+      "number": "64"
+    },
+    {
+      "id": "36448471-86e8-4a96-bdf1-5385c3471044",
+      "title": "GamePro, Issue 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36448471-86e8-4a96-bdf1-5385c3471044",
+      "number": "65"
+    },
+    {
+      "id": "e547c7e0-815a-45b6-8d53-bba43bb76101",
+      "title": "GamePro, Issue 66",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e547c7e0-815a-45b6-8d53-bba43bb76101",
+      "number": "66"
+    },
+    {
+      "id": "cc716279-f8d1-4ffb-81b6-c95f631a55b0",
+      "title": "GamePro, Issue 67",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc716279-f8d1-4ffb-81b6-c95f631a55b0",
+      "number": "67"
+    },
+    {
+      "id": "e0d616bf-9d37-4507-8eeb-256908ee70bb",
+      "title": "GamePro, Issue 68",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0d616bf-9d37-4507-8eeb-256908ee70bb",
+      "number": "68"
+    },
+    {
+      "id": "93a6f850-854c-44ee-a5af-dfc4c0b3b49d",
+      "title": "GamePro, Issue 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93a6f850-854c-44ee-a5af-dfc4c0b3b49d",
+      "number": "69"
+    },
+    {
+      "id": "1811a473-55bc-461c-ba0f-b1466ad312f9",
+      "title": "GamePro, Issue 70",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1811a473-55bc-461c-ba0f-b1466ad312f9",
+      "number": "70"
+    },
+    {
+      "id": "c3e98b92-7f62-4961-a207-477d8f97de59",
+      "title": "GamePro, Issue 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c3e98b92-7f62-4961-a207-477d8f97de59",
+      "number": "71"
+    },
+    {
+      "id": "9b0aa362-1009-4273-b172-b349f56eb22a",
+      "title": "GamePro, Issue 72",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9b0aa362-1009-4273-b172-b349f56eb22a",
+      "number": "72"
+    },
+    {
+      "id": "eb4483b8-6d87-49ae-a54c-ea77e0b1ba09",
+      "title": "GamePro, Issue 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eb4483b8-6d87-49ae-a54c-ea77e0b1ba09",
+      "number": "73"
+    },
+    {
+      "id": "5c63514f-4177-47e6-bca8-41b8cc9dbd87",
+      "title": "GamePro, Issue 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5c63514f-4177-47e6-bca8-41b8cc9dbd87",
+      "number": "74"
+    },
+    {
+      "id": "58584360-b2be-40a6-bd1e-b59d3133f724",
+      "title": "GamePro, Issue 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/58584360-b2be-40a6-bd1e-b59d3133f724",
+      "number": "75"
+    },
+    {
+      "id": "9fbeb707-4844-4583-b540-8f5badbf0126",
+      "title": "GamePro, Issue 76",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9fbeb707-4844-4583-b540-8f5badbf0126",
+      "number": "76"
+    },
+    {
+      "id": "d90416c8-488f-4abe-8aac-d0ec116bbc2f",
+      "title": "GamePro, Issue 77",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d90416c8-488f-4abe-8aac-d0ec116bbc2f",
+      "number": "77"
+    },
+    {
+      "id": "a037396a-108e-4369-98c4-10ed5814efd6",
+      "title": "GamePro, Issue 78",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a037396a-108e-4369-98c4-10ed5814efd6",
+      "number": "78"
+    },
+    {
+      "id": "699a385e-21ce-4b94-a2b4-b76c5b1f7605",
+      "title": "GamePro, Issue 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/699a385e-21ce-4b94-a2b4-b76c5b1f7605",
+      "number": "79"
+    },
+    {
+      "id": "af3f474e-f693-43ee-91c9-221e4536ba86",
+      "title": "GamePro, Issue 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/af3f474e-f693-43ee-91c9-221e4536ba86",
+      "number": "80"
+    },
+    {
+      "id": "de4d4a78-9160-43b0-918c-8aa8b3c64eee",
+      "title": "GamePro, Issue 91",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de4d4a78-9160-43b0-918c-8aa8b3c64eee",
+      "number": "91"
+    },
+    {
+      "id": "18711024-bfb2-4671-a6a9-ec42923f3b97",
+      "title": "GamePro, Issue 92",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/18711024-bfb2-4671-a6a9-ec42923f3b97",
+      "number": "92"
+    },
+    {
+      "id": "c70ebe51-ae6a-4dda-a7fc-443cf1e5be7a",
+      "title": "GamePro, Issue 93",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c70ebe51-ae6a-4dda-a7fc-443cf1e5be7a",
+      "number": "93"
+    },
+    {
+      "id": "39970ba5-ee6e-4c6e-af25-610f433f284a",
+      "title": "GamePro, Issue 94",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39970ba5-ee6e-4c6e-af25-610f433f284a",
+      "number": "94"
+    },
+    {
+      "id": "58fc555e-b0fa-4e22-964a-c319a7e2f2f3",
+      "title": "GamePro, Issue 95",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/58fc555e-b0fa-4e22-964a-c319a7e2f2f3",
+      "number": "95"
+    },
+    {
+      "id": "d3cc8092-4b9f-4081-961d-5a90769fb948",
+      "title": "GamePro, Issue 96",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1996",
+        "start": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d3cc8092-4b9f-4081-961d-5a90769fb948",
+      "number": "96"
+    },
+    {
+      "id": "ab20fa3a-29c4-4809-8e4c-0060665b8584",
+      "title": "GamePro, Issue 97",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab20fa3a-29c4-4809-8e4c-0060665b8584",
+      "number": "97"
+    },
+    {
+      "id": "eccc01aa-d1a3-48dc-9e0a-9340d5af71b5",
+      "title": "GamePro, Issue 98",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eccc01aa-d1a3-48dc-9e0a-9340d5af71b5",
+      "number": "98"
+    },
+    {
+      "id": "1889603d-a520-4a6a-8bea-6fe2c17b5ca8",
+      "title": "GamePro, Issue 99",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1889603d-a520-4a6a-8bea-6fe2c17b5ca8",
+      "number": "99"
+    },
+    {
+      "id": "5731da51-7ca7-4e95-b6bf-0b0ff81016e4",
+      "title": "GamePro, Issue 100",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1997",
+        "start": "1997-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5731da51-7ca7-4e95-b6bf-0b0ff81016e4",
+      "number": "100"
+    },
+    {
+      "id": "8496eb24-04dc-4c69-9180-50dcff7aff1b",
+      "title": "GamePro, Issue 101",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1997",
+        "start": "1997-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8496eb24-04dc-4c69-9180-50dcff7aff1b",
+      "number": "101"
+    },
+    {
+      "id": "4d9933a8-c62d-468a-97ee-70fb21f33932",
+      "title": "GamePro, Issue 102",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1997",
+        "start": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4d9933a8-c62d-468a-97ee-70fb21f33932",
+      "number": "102"
+    },
+    {
+      "id": "72d952fb-13d3-46c9-acc3-4be32b0fc7e0",
+      "title": "GamePro, Issue 103",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72d952fb-13d3-46c9-acc3-4be32b0fc7e0",
+      "number": "103"
+    },
+    {
+      "id": "ee6351f3-dfb1-4834-9ad3-0bdc5f18b2ca",
+      "title": "GamePro, Issue 104",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ee6351f3-dfb1-4834-9ad3-0bdc5f18b2ca",
+      "number": "104"
+    },
+    {
+      "id": "91d6a370-5957-4fae-a5e8-c1f179f49b02",
+      "title": "GamePro, Issue 105",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/91d6a370-5957-4fae-a5e8-c1f179f49b02",
+      "number": "105"
+    },
+    {
+      "id": "d9c36e1f-ac81-418d-b2c0-9f9b3586b0ef",
+      "title": "GamePro, Issue 106",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d9c36e1f-ac81-418d-b2c0-9f9b3586b0ef",
+      "number": "106"
+    },
+    {
+      "id": "51e704a0-5d8b-4e4d-98ee-04ba9121075d",
+      "title": "GamePro, Issue 107",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/51e704a0-5d8b-4e4d-98ee-04ba9121075d",
+      "number": "107"
+    },
+    {
+      "id": "2e6073d2-e01d-4f59-aa0a-a2614667ac9e",
+      "title": "GamePro, Issue 108",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2e6073d2-e01d-4f59-aa0a-a2614667ac9e",
+      "number": "108"
+    },
+    {
+      "id": "aebb6208-3308-41fd-90a4-1bbd03c260e6",
+      "title": "GamePro, Issue 109",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aebb6208-3308-41fd-90a4-1bbd03c260e6",
+      "number": "109"
+    },
+    {
+      "id": "cf430b0d-7b09-4345-89b6-3504e7943ebd",
+      "title": "GamePro, Issue 110",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cf430b0d-7b09-4345-89b6-3504e7943ebd",
+      "number": "110"
+    },
+    {
+      "id": "4f44958b-2ebe-44ad-b6ef-3afe5fe058e2",
+      "title": "GamePro, Issue 111",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1997",
+        "start": "1997-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4f44958b-2ebe-44ad-b6ef-3afe5fe058e2",
+      "number": "111"
+    },
+    {
+      "id": "b133a2ab-bbb3-492f-ab88-a74659df74e5",
+      "title": "GamePro, Issue 112",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1998",
+        "start": "1998-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b133a2ab-bbb3-492f-ab88-a74659df74e5",
+      "number": "112"
+    },
+    {
+      "id": "8c799fbb-9fb2-4f6a-a011-ee22ff3d0052",
+      "title": "GamePro, Issue 113",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1998",
+        "start": "1998-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8c799fbb-9fb2-4f6a-a011-ee22ff3d0052",
+      "number": "113"
+    },
+    {
+      "id": "513bfec3-db7c-4635-9279-195a8f73dc07",
+      "title": "GamePro, Issue 114",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1998",
+        "start": "1998-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/513bfec3-db7c-4635-9279-195a8f73dc07",
+      "number": "114"
+    },
+    {
+      "id": "6fb0db04-d8b5-4098-92b9-0c4e2403ee40",
+      "title": "GamePro, Issue 115",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1998",
+        "start": "1998-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6fb0db04-d8b5-4098-92b9-0c4e2403ee40",
+      "number": "115"
+    },
+    {
+      "id": "6d371417-831b-48ae-9186-0d56b0093905",
+      "title": "GamePro, Issue 116",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1998",
+        "start": "1998-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6d371417-831b-48ae-9186-0d56b0093905",
+      "number": "116"
+    },
+    {
+      "id": "9fcded09-b63a-42a8-acb0-d51b8c335655",
+      "title": "GamePro, Issue 117",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1998",
+        "start": "1998-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9fcded09-b63a-42a8-acb0-d51b8c335655",
+      "number": "117"
+    },
+    {
+      "id": "235998b2-e5fb-434f-8b17-f1a19b8d828b",
+      "title": "GamePro, Issue 118",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1998",
+        "start": "1998-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/235998b2-e5fb-434f-8b17-f1a19b8d828b",
+      "number": "118"
+    },
+    {
+      "id": "708f7bdf-e4d4-440c-a9c2-57738ffca81e",
+      "title": "GamePro, Issue 119",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1998",
+        "start": "1998-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/708f7bdf-e4d4-440c-a9c2-57738ffca81e",
+      "number": "119"
+    },
+    {
+      "id": "85c340b4-ad82-450b-8d8a-86e0ae809426",
+      "title": "GamePro, Issue 120",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/85c340b4-ad82-450b-8d8a-86e0ae809426",
+      "number": "120"
+    },
+    {
+      "id": "7ad2c784-5bb6-4e99-8c5b-b08861d0e9b1",
+      "title": "GamePro, Issue 121",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1998",
+        "start": "1998-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7ad2c784-5bb6-4e99-8c5b-b08861d0e9b1",
+      "number": "121"
+    },
+    {
+      "id": "05495057-ba49-473b-a39b-32644f6d60b2",
+      "title": "GamePro, Issue 122",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1998",
+        "start": "1998-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/05495057-ba49-473b-a39b-32644f6d60b2",
+      "number": "122"
+    },
+    {
+      "id": "1ac6ebc0-16e5-413a-a301-697ae969f738",
+      "title": "GamePro, Issue 123",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1998",
+        "start": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1ac6ebc0-16e5-413a-a301-697ae969f738",
+      "number": "123"
+    },
+    {
+      "id": "7c41eb78-e54f-4c5b-a72e-0ace375e8256",
+      "title": "GamePro, Issue 124",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1999",
+        "start": "1999-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7c41eb78-e54f-4c5b-a72e-0ace375e8256",
+      "number": "124"
+    },
+    {
+      "id": "cd6988ac-3f8e-4095-8087-281049e56aa2",
+      "title": "GamePro, Issue 125",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cd6988ac-3f8e-4095-8087-281049e56aa2",
+      "number": "125"
+    },
+    {
+      "id": "dea1fbb4-7c69-43d9-a39d-8dedb0649236",
+      "title": "GamePro, Issue 126",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dea1fbb4-7c69-43d9-a39d-8dedb0649236",
+      "number": "126"
+    },
+    {
+      "id": "e590f6c7-9d30-4a2b-bfaa-87bfaa21126b",
+      "title": "GamePro, Issue 127",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1999",
+        "start": "1999-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e590f6c7-9d30-4a2b-bfaa-87bfaa21126b",
+      "number": "127"
+    },
+    {
+      "id": "f1bfa58c-4639-4542-a294-36a53a3497c0",
+      "title": "GamePro, Issue 128",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1999",
+        "start": "1999-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1bfa58c-4639-4542-a294-36a53a3497c0",
+      "number": "128"
+    },
+    {
+      "id": "275ab7c6-f764-437b-a7ac-4850355ba64c",
+      "title": "GamePro, Issue 129",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/275ab7c6-f764-437b-a7ac-4850355ba64c",
+      "number": "129"
+    },
+    {
+      "id": "938e302c-6216-46f3-aba8-4ce76f0383a1",
+      "title": "GamePro, Issue 130",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1999",
+        "start": "1999-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/938e302c-6216-46f3-aba8-4ce76f0383a1",
+      "number": "130"
+    },
+    {
+      "id": "04831238-63d3-4569-adb3-6b4dbe77df93",
+      "title": "GamePro, Issue 131",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1999",
+        "start": "1999-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/04831238-63d3-4569-adb3-6b4dbe77df93",
+      "number": "131"
+    },
+    {
+      "id": "fc78db6e-4043-4626-b8d5-db5b9f852d86",
+      "title": "GamePro, Issue 132",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fc78db6e-4043-4626-b8d5-db5b9f852d86",
+      "number": "132"
+    },
+    {
+      "id": "73afcea0-72d9-47f1-a8ac-f00025ff59cf",
+      "title": "GamePro, Issue 133",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1999",
+        "start": "1999-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/73afcea0-72d9-47f1-a8ac-f00025ff59cf",
+      "number": "133"
+    },
+    {
+      "id": "4dd315bc-73cb-4a3a-bc98-0aeebcdfc557",
+      "title": "GamePro, Issue 134",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4dd315bc-73cb-4a3a-bc98-0aeebcdfc557",
+      "number": "134"
+    },
+    {
+      "id": "b63d2483-0d5a-40b0-849f-b0cfdc161152",
+      "title": "GamePro, Issue 135",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b63d2483-0d5a-40b0-849f-b0cfdc161152",
+      "number": "135"
+    },
+    {
+      "id": "6707e38d-2569-4ab0-b227-53b613b3ee7b",
+      "title": "GamePro, Issue 136",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6707e38d-2569-4ab0-b227-53b613b3ee7b",
+      "number": "136"
+    },
+    {
+      "id": "a89392aa-1ba9-4237-af9c-6df8c5dd39ed",
+      "title": "GamePro, Issue 137",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a89392aa-1ba9-4237-af9c-6df8c5dd39ed",
+      "number": "137"
+    },
+    {
+      "id": "b3fd5524-2ea1-449a-8f46-73e2829653d2",
+      "title": "GamePro, Issue 138",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b3fd5524-2ea1-449a-8f46-73e2829653d2",
+      "number": "138"
+    },
+    {
+      "id": "c490f8ad-46b9-467d-8cea-9a8cb2093d9c",
+      "title": "GamePro, Issue 139",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c490f8ad-46b9-467d-8cea-9a8cb2093d9c",
+      "number": "139"
+    },
+    {
+      "id": "73719b7a-f4a7-478c-a920-88ca6c7abf6a",
+      "title": "GamePro, Issue 140",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/73719b7a-f4a7-478c-a920-88ca6c7abf6a",
+      "number": "140"
+    },
+    {
+      "id": "6fb226ee-6110-455c-94ae-58906ad86af2",
+      "title": "GamePro, Issue 141",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6fb226ee-6110-455c-94ae-58906ad86af2",
+      "number": "141"
+    },
+    {
+      "id": "ae358d8e-bd60-46ef-9f11-d1efdebfc7d0",
+      "title": "GamePro, Issue 142",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ae358d8e-bd60-46ef-9f11-d1efdebfc7d0",
+      "number": "142"
+    },
+    {
+      "id": "8d989f06-fa08-49f2-9eb9-c6acf5e0e410",
+      "title": "GamePro, Issue 143",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8d989f06-fa08-49f2-9eb9-c6acf5e0e410",
+      "number": "143"
+    },
+    {
+      "id": "79b4fa97-62d2-42a2-ba60-3871a5e11cae",
+      "title": "GamePro, Issue 144",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2000",
+        "start": "2000-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/79b4fa97-62d2-42a2-ba60-3871a5e11cae",
+      "number": "144"
+    },
+    {
+      "id": "8c03556b-7e8b-4fb7-87e1-8cefd1dbc461",
+      "title": "GamePro, Issue 145",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2000",
+        "start": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8c03556b-7e8b-4fb7-87e1-8cefd1dbc461",
+      "number": "145"
+    },
+    {
+      "id": "57b096d1-dd70-4d23-b46e-6e45bf1aeff0",
+      "title": "GamePro, Issue 146",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/57b096d1-dd70-4d23-b46e-6e45bf1aeff0",
+      "number": "146"
+    },
+    {
+      "id": "af3529d2-b73f-479a-b944-fa7d41c6e2cf",
+      "title": "GamePro, Issue 147",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/af3529d2-b73f-479a-b944-fa7d41c6e2cf",
+      "number": "147"
+    },
+    {
+      "id": "9a754072-f78b-4dd6-bb33-fb4273e9351a",
+      "title": "GamePro, Issue 148",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2001",
+        "start": "2001-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a754072-f78b-4dd6-bb33-fb4273e9351a",
+      "number": "148"
+    },
+    {
+      "id": "2b3c205d-ebc9-4ede-8666-7b08eb1faef3",
+      "title": "GamePro, Issue 149",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2b3c205d-ebc9-4ede-8666-7b08eb1faef3",
+      "number": "149"
+    },
+    {
+      "id": "6f5d2e69-2cb7-4bec-9fe9-f4528d7f49bf",
+      "title": "GamePro, Issue 150",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2001",
+        "start": "2001-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6f5d2e69-2cb7-4bec-9fe9-f4528d7f49bf",
+      "number": "150"
+    },
+    {
+      "id": "f6d1cfbd-057c-424f-8821-1fa20dcc3386",
+      "title": "GamePro, Issue 151",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2001",
+        "start": "2001-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f6d1cfbd-057c-424f-8821-1fa20dcc3386",
+      "number": "151"
+    },
+    {
+      "id": "bb3076e3-b683-4ad3-a444-77922841d909",
+      "title": "GamePro, Issue 152",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bb3076e3-b683-4ad3-a444-77922841d909",
+      "number": "152"
+    },
+    {
+      "id": "0da1cf46-22c0-44e5-968f-60f40887c5a1",
+      "title": "GamePro, Issue 153",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2001",
+        "start": "2001-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0da1cf46-22c0-44e5-968f-60f40887c5a1",
+      "number": "153"
+    },
+    {
+      "id": "17fd1312-621e-4d06-bf5f-7bd1ee763933",
+      "title": "GamePro, Issue 154",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2001",
+        "start": "2001-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/17fd1312-621e-4d06-bf5f-7bd1ee763933",
+      "number": "154"
+    },
+    {
+      "id": "be7cf4f9-8cf4-4640-86ae-c600ae91d4dc",
+      "title": "GamePro, Issue 155",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2001",
+        "start": "2001-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/be7cf4f9-8cf4-4640-86ae-c600ae91d4dc",
+      "number": "155"
+    },
+    {
+      "id": "266506c5-6399-40b0-beec-01f0ef6589f9",
+      "title": "GamePro, Issue 156",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2001",
+        "start": "2001-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/266506c5-6399-40b0-beec-01f0ef6589f9",
+      "number": "156"
+    },
+    {
+      "id": "86b81a35-12d0-4636-b7b0-5e55018ad162",
+      "title": "GamePro, Issue 157",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2001",
+        "start": "2001-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/86b81a35-12d0-4636-b7b0-5e55018ad162",
+      "number": "157"
+    },
+    {
+      "id": "e562b2a7-a85c-4776-965c-f3421f7bd8d7",
+      "title": "GamePro, Issue 158",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2001",
+        "start": "2001-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e562b2a7-a85c-4776-965c-f3421f7bd8d7",
+      "number": "158"
+    },
+    {
+      "id": "e74d991c-1c90-4736-aaaf-fde2a533566b",
+      "title": "GamePro, Issue 159",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2001",
+        "start": "2001-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e74d991c-1c90-4736-aaaf-fde2a533566b",
+      "number": "159"
+    },
+    {
+      "id": "c5d87d61-6101-4a16-836f-e5fda93a0e14",
+      "title": "GamePro, Issue 160",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c5d87d61-6101-4a16-836f-e5fda93a0e14",
+      "number": "160"
+    },
+    {
+      "id": "6dc2655c-909c-4836-9310-187d3923f6c8",
+      "title": "GamePro, Issue 161",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2002",
+        "start": "2002-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6dc2655c-909c-4836-9310-187d3923f6c8",
+      "number": "161"
+    },
+    {
+      "id": "1cb69aad-cf97-4e54-a028-393ff840a36b",
+      "title": "GamePro, Issue 162",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2002",
+        "start": "2002-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1cb69aad-cf97-4e54-a028-393ff840a36b",
+      "number": "162"
+    },
+    {
+      "id": "88ef7b34-e031-4f4a-a7d5-9ec80112ecd6",
+      "title": "GamePro, Issue 163",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/88ef7b34-e031-4f4a-a7d5-9ec80112ecd6",
+      "number": "163"
+    },
+    {
+      "id": "61729120-85ef-426f-b3c1-6968236cea48",
+      "title": "GamePro, Issue 164",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2002",
+        "start": "2002-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/61729120-85ef-426f-b3c1-6968236cea48",
+      "number": "164"
+    },
+    {
+      "id": "e43aa5e0-730e-496c-9fae-bd701a2f6cf4",
+      "title": "GamePro, Issue 165",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2002",
+        "start": "2002-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e43aa5e0-730e-496c-9fae-bd701a2f6cf4",
+      "number": "165"
+    },
+    {
+      "id": "5686c1d8-f572-4add-9a85-fdacca3f6b14",
+      "title": "GamePro, Issue 166",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2002",
+        "start": "2002-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5686c1d8-f572-4add-9a85-fdacca3f6b14",
+      "number": "166"
+    },
+    {
+      "id": "88605ccc-6fc8-4922-ac9e-12ae97a40394",
+      "title": "GamePro, Issue 167",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2002",
+        "start": "2002-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/88605ccc-6fc8-4922-ac9e-12ae97a40394",
+      "number": "167"
+    },
+    {
+      "id": "41c13a0a-1f6f-4ecd-8b5d-18f47de2a748",
+      "title": "GamePro, Issue 168",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2002",
+        "start": "2002-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/41c13a0a-1f6f-4ecd-8b5d-18f47de2a748",
+      "number": "168"
+    },
+    {
+      "id": "5b4d5524-fbe9-4039-9d6f-420973f5795c",
+      "title": "GamePro, Issue 169",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2002",
+        "start": "2002-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5b4d5524-fbe9-4039-9d6f-420973f5795c",
+      "number": "169"
+    },
+    {
+      "id": "51f1d648-0b56-44d4-bb79-24f453cbfa0e",
+      "title": "GamePro, Issue 170",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2002",
+        "start": "2002-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/51f1d648-0b56-44d4-bb79-24f453cbfa0e",
+      "number": "170"
+    },
+    {
+      "id": "75d30c97-0579-4144-961f-46bf6f4ff8c6",
+      "title": "GamePro, Issue 171",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2002",
+        "start": "2002-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/75d30c97-0579-4144-961f-46bf6f4ff8c6",
+      "number": "171"
+    },
+    {
+      "id": "e0e0677b-25dd-428d-b2c6-12d8e0a4680d",
+      "title": "GamePro, Issue 172",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2003",
+        "start": "2003-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0e0677b-25dd-428d-b2c6-12d8e0a4680d",
+      "number": "172"
+    },
+    {
+      "id": "70a60456-9ff0-4c84-998e-e8291985efcd",
+      "title": "GamePro, Issue 173",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/70a60456-9ff0-4c84-998e-e8291985efcd",
+      "number": "173"
+    },
+    {
+      "id": "f77994db-d482-4e43-ae49-634d84605ec7",
+      "title": "GamePro, Issue 174",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2003",
+        "start": "2003-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f77994db-d482-4e43-ae49-634d84605ec7",
+      "number": "174"
+    },
+    {
+      "id": "31df84d6-5ebf-4772-bb6b-4c9e6455bac0",
+      "title": "GamePro, Issue 175",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/31df84d6-5ebf-4772-bb6b-4c9e6455bac0",
+      "number": "175"
+    },
+    {
+      "id": "4cd4aa05-40ae-413f-b1a7-b21e45f3a05d",
+      "title": "GamePro, Issue 176",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4cd4aa05-40ae-413f-b1a7-b21e45f3a05d",
+      "number": "176"
+    },
+    {
+      "id": "e4aff16b-1f05-4e4e-8ef2-22b7f0bcdefd",
+      "title": "GamePro, Issue 177",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e4aff16b-1f05-4e4e-8ef2-22b7f0bcdefd",
+      "number": "177"
+    },
+    {
+      "id": "36450dbe-9ec5-49e1-9e72-f36f3d216d55",
+      "title": "GamePro, Issue 178",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36450dbe-9ec5-49e1-9e72-f36f3d216d55",
+      "number": "178"
+    },
+    {
+      "id": "024bba50-60d3-4bec-a489-9f554741fed9",
+      "title": "GamePro, Issue 179",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/024bba50-60d3-4bec-a489-9f554741fed9",
+      "number": "179"
+    },
+    {
+      "id": "d092dbe5-c8a7-4ab0-b67c-f6e11a9445c0",
+      "title": "GamePro, Issue 180",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d092dbe5-c8a7-4ab0-b67c-f6e11a9445c0",
+      "number": "180"
+    },
+    {
+      "id": "86cca307-d462-4beb-a374-a68aa8c157d4",
+      "title": "GamePro, Issue 181",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2003",
+        "start": "2003-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/86cca307-d462-4beb-a374-a68aa8c157d4",
+      "number": "181"
+    },
+    {
+      "id": "1bf99fbd-57c2-4afe-981e-db87df7323e5",
+      "title": "GamePro, Issue 182",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2003",
+        "start": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1bf99fbd-57c2-4afe-981e-db87df7323e5",
+      "number": "182"
+    },
+    {
+      "id": "5760ac8a-9e89-4687-8563-25051470bf02",
+      "title": "GamePro, Issue 183",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5760ac8a-9e89-4687-8563-25051470bf02",
+      "number": "183"
+    },
+    {
+      "id": "fec290c8-22c5-4fc8-8407-b7eba22d308c",
+      "title": "GamePro, Issue 184",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fec290c8-22c5-4fc8-8407-b7eba22d308c",
+      "number": "184"
+    },
+    {
+      "id": "1106870d-bea9-4f38-b5d8-1ad09d24b122",
+      "title": "GamePro, Issue 185",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2004",
+        "start": "2004-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1106870d-bea9-4f38-b5d8-1ad09d24b122",
+      "number": "185"
+    },
+    {
+      "id": "d9698d26-56da-4489-a513-976b4c375fb2",
+      "title": "GamePro, Issue 186",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2004",
+        "start": "2004-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d9698d26-56da-4489-a513-976b4c375fb2",
+      "number": "186"
+    },
+    {
+      "id": "d96dc647-c5a4-435c-9d41-82bf909e928b",
+      "title": "GamePro, Issue 187",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2004",
+        "start": "2004-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d96dc647-c5a4-435c-9d41-82bf909e928b",
+      "number": "187"
+    },
+    {
+      "id": "64064657-901e-47dc-a4fb-d62c366622ff",
+      "title": "GamePro, Issue 188",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2004",
+        "start": "2004-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/64064657-901e-47dc-a4fb-d62c366622ff",
+      "number": "188"
+    },
+    {
+      "id": "f37c3db3-2b48-499c-b364-605efa9a2b00",
+      "title": "GamePro, Issue 189",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2004",
+        "start": "2004-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f37c3db3-2b48-499c-b364-605efa9a2b00",
+      "number": "189"
+    },
+    {
+      "id": "9428f016-f486-47a6-a5f1-36b28c0319ce",
+      "title": "GamePro, Issue 190",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2004",
+        "start": "2004-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9428f016-f486-47a6-a5f1-36b28c0319ce",
+      "number": "190"
+    },
+    {
+      "id": "9f75d81f-27e5-4b42-bb92-ce5e77dc175c",
+      "title": "GamePro, Issue 191",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2004",
+        "start": "2004-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9f75d81f-27e5-4b42-bb92-ce5e77dc175c",
+      "number": "191"
+    },
+    {
+      "id": "44e502f4-e778-4b62-9f56-c260277ab9c0",
+      "title": "GamePro, Issue 192",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2004",
+        "start": "2004-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/44e502f4-e778-4b62-9f56-c260277ab9c0",
+      "number": "192"
+    },
+    {
+      "id": "80b351f1-e05c-4dc9-85ad-bd1185e65001",
+      "title": "GamePro, Issue 193",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2004",
+        "start": "2004-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/80b351f1-e05c-4dc9-85ad-bd1185e65001",
+      "number": "193"
+    },
+    {
+      "id": "c9b75c27-4dd2-498c-8f37-3106b69f55c0",
+      "title": "GamePro, Issue 194",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2004",
+        "start": "2004-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c9b75c27-4dd2-498c-8f37-3106b69f55c0",
+      "number": "194"
+    },
+    {
+      "id": "b9b62289-5c9a-43b8-afb7-aa729b6ec4b6",
+      "title": "GamePro, Issue 195",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2004",
+        "start": "2004-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b9b62289-5c9a-43b8-afb7-aa729b6ec4b6",
+      "number": "195"
+    },
+    {
+      "id": "01b48d08-5c70-47ce-a4b5-813bdd4493d6",
+      "title": "GamePro, Issue 196",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2005",
+        "start": "2005-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/01b48d08-5c70-47ce-a4b5-813bdd4493d6",
+      "number": "196"
+    },
+    {
+      "id": "05ae6c27-26a0-4f92-aea0-4b23b3be0ee6",
+      "title": "GamePro, Issue 197",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2005",
+        "start": "2005-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/05ae6c27-26a0-4f92-aea0-4b23b3be0ee6",
+      "number": "197"
+    },
+    {
+      "id": "aa0943d7-c170-4f6e-ab95-d63d6eefffb1",
+      "title": "GamePro, Issue 198",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2005",
+        "start": "2005-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa0943d7-c170-4f6e-ab95-d63d6eefffb1",
+      "number": "198"
+    },
+    {
+      "id": "7df38b4f-4062-4c94-894e-b955a15918c9",
+      "title": "GamePro, Issue 199",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2005",
+        "start": "2005-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7df38b4f-4062-4c94-894e-b955a15918c9",
+      "number": "199"
+    },
+    {
+      "id": "05810f21-238b-4f81-99ad-d02e3cede93c",
+      "title": "GamePro, Issue 200",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2005",
+        "start": "2005-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/05810f21-238b-4f81-99ad-d02e3cede93c",
+      "number": "200"
+    },
+    {
+      "id": "95f676bf-e207-41ca-97d4-4ad5b801f49b",
+      "title": "GamePro, Issue 201",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2005",
+        "start": "2005-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95f676bf-e207-41ca-97d4-4ad5b801f49b",
+      "number": "201"
+    },
+    {
+      "id": "e7bad816-05e4-4486-92d7-f5ebf7263b81",
+      "title": "GamePro, Issue 202",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2005",
+        "start": "2005-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e7bad816-05e4-4486-92d7-f5ebf7263b81",
+      "number": "202"
+    },
+    {
+      "id": "87cc42bf-b0d4-4f80-a7dc-27f30b58a07f",
+      "title": "GamePro, Issue 203",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2005",
+        "start": "2005-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87cc42bf-b0d4-4f80-a7dc-27f30b58a07f",
+      "number": "203"
+    },
+    {
+      "id": "7efba3b1-2ebd-43af-862a-da5f1b49bbbc",
+      "title": "GamePro, Issue 204",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2005",
+        "start": "2005-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7efba3b1-2ebd-43af-862a-da5f1b49bbbc",
+      "number": "204"
+    },
+    {
+      "id": "f2c5898d-23f1-41fc-82d6-d2d74b7184fb",
+      "title": "GamePro, Issue 205",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2005",
+        "start": "2005-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f2c5898d-23f1-41fc-82d6-d2d74b7184fb",
+      "number": "205"
+    },
+    {
+      "id": "2a7e9669-e47e-4064-95c9-7089f63f4568",
+      "title": "GamePro, Issue 206",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2005",
+        "start": "2005-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2a7e9669-e47e-4064-95c9-7089f63f4568",
+      "number": "206"
+    },
+    {
+      "id": "20f7391a-7e5f-432f-a8ae-33469d1e719f",
+      "title": "GamePro, Issue 207",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2005",
+        "start": "2005-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/20f7391a-7e5f-432f-a8ae-33469d1e719f",
+      "number": "207"
+    },
+    {
+      "id": "52355654-a35e-4543-b5b3-3d82ae63b954",
+      "title": "GamePro, Issue 208",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2006",
+        "start": "2006-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/52355654-a35e-4543-b5b3-3d82ae63b954",
+      "number": "208"
+    },
+    {
+      "id": "c65884e9-5b2b-4b98-b1fb-7169e8fde96f",
+      "title": "GamePro, Issue 209",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2006",
+        "start": "2006-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c65884e9-5b2b-4b98-b1fb-7169e8fde96f",
+      "number": "209"
+    },
+    {
+      "id": "6947fcb5-569e-4788-9fbf-7dd7a3fbef62",
+      "title": "GamePro, Issue 210",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2006",
+        "start": "2006-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6947fcb5-569e-4788-9fbf-7dd7a3fbef62",
+      "number": "210"
+    },
+    {
+      "id": "348921b4-8a8f-4509-9e8a-ab103f3ff8a4",
+      "title": "GamePro, Issue 211",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2006",
+        "start": "2006-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/348921b4-8a8f-4509-9e8a-ab103f3ff8a4",
+      "number": "211"
+    },
+    {
+      "id": "72a8f98c-294d-44e0-89b8-db043dda80f6",
+      "title": "GamePro, Issue 212",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2006",
+        "start": "2006-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72a8f98c-294d-44e0-89b8-db043dda80f6",
+      "number": "212"
+    },
+    {
+      "id": "a6469fc9-7219-47e3-bdac-791acb60a04d",
+      "title": "GamePro, Issue 213",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2006",
+        "start": "2006-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a6469fc9-7219-47e3-bdac-791acb60a04d",
+      "number": "213"
+    },
+    {
+      "id": "c3271f79-daee-49f7-b9b9-71051a767d1e",
+      "title": "GamePro, Issue 214",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2006",
+        "start": "2006-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c3271f79-daee-49f7-b9b9-71051a767d1e",
+      "number": "214"
+    },
+    {
+      "id": "28d5e8ee-1195-45aa-baf6-c7de8f3590bb",
+      "title": "GamePro, Issue 215",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2006",
+        "start": "2006-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/28d5e8ee-1195-45aa-baf6-c7de8f3590bb",
+      "number": "215"
+    },
+    {
+      "id": "fbad795e-f151-4e58-9f79-8c827fe32aac",
+      "title": "GamePro, Issue 216",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2006",
+        "start": "2006-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fbad795e-f151-4e58-9f79-8c827fe32aac",
+      "number": "216"
+    },
+    {
+      "id": "c201f6da-7139-4c98-970b-3c4faa3fb632",
+      "title": "GamePro, Issue 217",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2006",
+        "start": "2006-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c201f6da-7139-4c98-970b-3c4faa3fb632",
+      "number": "217"
+    },
+    {
+      "id": "3bd7833b-5ac5-421f-b603-841d8b934ba8",
+      "title": "GamePro, Issue 218",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2006",
+        "start": "2006-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3bd7833b-5ac5-421f-b603-841d8b934ba8",
+      "number": "218"
+    },
+    {
+      "id": "7f6e6ce0-08c3-45e1-9ef8-39940d637554",
+      "title": "GamePro, Issue 219",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2006",
+        "start": "2006-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7f6e6ce0-08c3-45e1-9ef8-39940d637554",
+      "number": "219"
+    },
+    {
+      "id": "b0e68fc3-ca27-4b94-b204-8e8a3b3dd60b",
+      "title": "GamePro, Issue 220",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2007",
+        "start": "2007-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b0e68fc3-ca27-4b94-b204-8e8a3b3dd60b",
+      "number": "220"
+    },
+    {
+      "id": "de67a5cc-39e2-45cc-9396-49374e25dd42",
+      "title": "GamePro, Issue 221",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2007",
+        "start": "2007-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de67a5cc-39e2-45cc-9396-49374e25dd42",
+      "number": "221"
+    },
+    {
+      "id": "87e74fd6-ec40-4456-be16-68749c52c513",
+      "title": "GamePro, Issue 222",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2007",
+        "start": "2007-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87e74fd6-ec40-4456-be16-68749c52c513",
+      "number": "222"
+    },
+    {
+      "id": "6b3b575f-6e16-496f-8df1-3f36e7545f68",
+      "title": "GamePro, Issue 223",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2007",
+        "start": "2007-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b3b575f-6e16-496f-8df1-3f36e7545f68",
+      "number": "223"
+    },
+    {
+      "id": "609210d7-fdd9-4de1-ae84-9fd980dd5a73",
+      "title": "GamePro, Issue 224",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2007",
+        "start": "2007-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/609210d7-fdd9-4de1-ae84-9fd980dd5a73",
+      "number": "224"
+    },
+    {
+      "id": "a5cc909d-5a21-41fc-a5ba-d867f80a84f1",
+      "title": "GamePro, Issue 225",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2007",
+        "start": "2007-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a5cc909d-5a21-41fc-a5ba-d867f80a84f1",
+      "number": "225"
+    },
+    {
+      "id": "38829f08-906a-42c6-9b10-bfc91ed87d3a",
+      "title": "GamePro, Issue 226",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2007",
+        "start": "2007-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38829f08-906a-42c6-9b10-bfc91ed87d3a",
+      "number": "226"
+    },
+    {
+      "id": "39d161bb-4d18-4e38-a7fd-d1f56dae1afc",
+      "title": "GamePro, Issue 227",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2007",
+        "start": "2007-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39d161bb-4d18-4e38-a7fd-d1f56dae1afc",
+      "number": "227"
+    },
+    {
+      "id": "1c3bde13-b888-401b-b1fa-2541844d5bfd",
+      "title": "GamePro, Issue 228",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2007",
+        "start": "2007-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1c3bde13-b888-401b-b1fa-2541844d5bfd",
+      "number": "228"
+    },
+    {
+      "id": "7b98af01-0ee5-47ac-a347-683c20ae556c",
+      "title": "GamePro, Issue 229",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2007",
+        "start": "2007-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7b98af01-0ee5-47ac-a347-683c20ae556c",
+      "number": "229"
+    },
+    {
+      "id": "b2901bfc-280c-4fb8-a099-d09e09081c58",
+      "title": "GamePro, Issue 230",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2007",
+        "start": "2007-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b2901bfc-280c-4fb8-a099-d09e09081c58",
+      "number": "230"
+    },
+    {
+      "id": "ce7c6e82-12f6-4783-8610-5f18e63bfdf5",
+      "title": "GamePro, Issue 231",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2007",
+        "start": "2007-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce7c6e82-12f6-4783-8610-5f18e63bfdf5",
+      "number": "231"
+    },
+    {
+      "id": "3c411e24-3001-43b1-ad43-43641e84aa03",
+      "title": "GamePro, Issue 232",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2008",
+        "start": "2008-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c411e24-3001-43b1-ad43-43641e84aa03",
+      "number": "232"
+    },
+    {
+      "id": "d315f06d-979a-4ee7-ae06-2d3ac6730f5d",
+      "title": "GamePro, Issue 233",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2008",
+        "start": "2008-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d315f06d-979a-4ee7-ae06-2d3ac6730f5d",
+      "number": "233"
+    },
+    {
+      "id": "b2c1716d-6ba9-4751-bcc0-c79e34567bbf",
+      "title": "GamePro, Issue 234",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2008",
+        "start": "2008-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b2c1716d-6ba9-4751-bcc0-c79e34567bbf",
+      "number": "234"
+    },
+    {
+      "id": "97b1428e-f127-41c7-aa14-22440164974d",
+      "title": "GamePro, Issue 235",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2008",
+        "start": "2008-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/97b1428e-f127-41c7-aa14-22440164974d",
+      "number": "235"
+    },
+    {
+      "id": "531234a9-b59b-438f-8f79-90d23eaaf5b6",
+      "title": "GamePro, Issue 236",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2008",
+        "start": "2008-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/531234a9-b59b-438f-8f79-90d23eaaf5b6",
+      "number": "236"
+    },
+    {
+      "id": "4b762c73-86ae-496f-affb-80570263edb4",
+      "title": "GamePro, Issue 237",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2008",
+        "start": "2008-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4b762c73-86ae-496f-affb-80570263edb4",
+      "number": "237"
+    },
+    {
+      "id": "f79d56b4-48b3-4e1a-9846-6c85469f8386",
+      "title": "GamePro, Issue 238",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2008",
+        "start": "2008-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f79d56b4-48b3-4e1a-9846-6c85469f8386",
+      "number": "238"
+    },
+    {
+      "id": "52bb0af1-9c9b-4285-8fdb-6c3207caf94f",
+      "title": "GamePro, Issue 239",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2008",
+        "start": "2008-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/52bb0af1-9c9b-4285-8fdb-6c3207caf94f",
+      "number": "239"
+    },
+    {
+      "id": "f91f2a51-a628-495b-90bb-931d70b7cdb0",
+      "title": "GamePro, Issue 240",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2008",
+        "start": "2008-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f91f2a51-a628-495b-90bb-931d70b7cdb0",
+      "number": "240"
+    },
+    {
+      "id": "682e3b0f-2fb0-4f09-aa7d-1ea986a16c74",
+      "title": "GamePro, Issue 241",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2008",
+        "start": "2008-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/682e3b0f-2fb0-4f09-aa7d-1ea986a16c74",
+      "number": "241"
+    },
+    {
+      "id": "cace321f-a019-4cbd-94d8-8fb7bd5f9705",
+      "title": "GamePro, Issue 242",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2008",
+        "start": "2008-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cace321f-a019-4cbd-94d8-8fb7bd5f9705",
+      "number": "242"
+    },
+    {
+      "id": "7d20fbd8-140b-4d89-a6c6-879905363c1b",
+      "title": "GamePro, Issue 243",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2008",
+        "start": "2008-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d20fbd8-140b-4d89-a6c6-879905363c1b",
+      "number": "243"
+    },
+    {
+      "id": "2787d8bf-dd0a-4ece-803f-b1714cbc2b4b",
+      "title": "GamePro, Issue 244",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2009",
+        "start": "2009-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2787d8bf-dd0a-4ece-803f-b1714cbc2b4b",
+      "number": "244"
+    },
+    {
+      "id": "582dc774-a059-484f-ac99-7d2f091d08f8",
+      "title": "GamePro, Issue 245",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2009",
+        "start": "2009-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/582dc774-a059-484f-ac99-7d2f091d08f8",
+      "number": "245"
+    },
+    {
+      "id": "5f72cab7-411c-44ab-bd4b-12f27f5a0a29",
+      "title": "GamePro, Issue 246",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2009",
+        "start": "2009-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f72cab7-411c-44ab-bd4b-12f27f5a0a29",
+      "number": "246"
+    },
+    {
+      "id": "1e20c856-963c-4d55-b9f2-5e6d4695088b",
+      "title": "GamePro, Issue 247",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2009",
+        "start": "2009-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1e20c856-963c-4d55-b9f2-5e6d4695088b",
+      "number": "247"
+    },
+    {
+      "id": "3348c5c2-8914-44d2-90a5-f68a9b9b126c",
+      "title": "GamePro, Issue 248",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2009",
+        "start": "2009-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3348c5c2-8914-44d2-90a5-f68a9b9b126c",
+      "number": "248"
+    },
+    {
+      "id": "697527dd-d3ad-4ad5-9464-05b76e7e6a88",
+      "title": "GamePro, Issue 249",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2009",
+        "start": "2009-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/697527dd-d3ad-4ad5-9464-05b76e7e6a88",
+      "number": "249"
+    },
+    {
+      "id": "42d2766d-27dc-42e8-9096-6642349d860b",
+      "title": "GamePro, Issue 250",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2009",
+        "start": "2009-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/42d2766d-27dc-42e8-9096-6642349d860b",
+      "number": "250"
+    },
+    {
+      "id": "ae269830-bb17-4be6-949a-4979dcc08311",
+      "title": "GamePro, Issue 251",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2009",
+        "start": "2009-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ae269830-bb17-4be6-949a-4979dcc08311",
+      "number": "251"
+    },
+    {
+      "id": "46e50f52-a1a4-4f40-83d8-ec8631148a54",
+      "title": "GamePro, Issue 252",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2009",
+        "start": "2009-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/46e50f52-a1a4-4f40-83d8-ec8631148a54",
+      "number": "252"
+    },
+    {
+      "id": "59887b5c-5ccf-4b13-b1fc-f928caafb84f",
+      "title": "GamePro, Issue 253",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2009",
+        "start": "2009-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/59887b5c-5ccf-4b13-b1fc-f928caafb84f",
+      "number": "253"
+    },
+    {
+      "id": "c748c4af-15f2-4b7c-a7f5-7beff335582a",
+      "title": "GamePro, Issue 254",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2009",
+        "start": "2009-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c748c4af-15f2-4b7c-a7f5-7beff335582a",
+      "number": "254"
+    },
+    {
+      "id": "f05ba133-ce61-4885-999d-e70fb50bbf3a",
+      "title": "GamePro, Issue 255",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2009",
+        "start": "2009-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f05ba133-ce61-4885-999d-e70fb50bbf3a",
+      "number": "255"
+    },
+    {
+      "id": "cc90dfa9-808a-4b0d-a9e0-59af578ed7d2",
+      "title": "GamePro, Issue 256",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2010",
+        "start": "2010-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc90dfa9-808a-4b0d-a9e0-59af578ed7d2",
+      "number": "256"
+    },
+    {
+      "id": "7e2fcef3-7f83-4973-ad29-c9565d524c3c",
+      "title": "GamePro, Issue 257",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2010",
+        "start": "2010-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7e2fcef3-7f83-4973-ad29-c9565d524c3c",
+      "number": "257"
+    },
+    {
+      "id": "eebc3bc9-97fc-4e91-857e-0a6357ed8a28",
+      "title": "GamePro, Issue 258",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2010",
+        "start": "2010-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eebc3bc9-97fc-4e91-857e-0a6357ed8a28",
+      "number": "258"
+    },
+    {
+      "id": "aa7ee9fa-05b8-48a3-965a-f2027f1c1577",
+      "title": "GamePro, Issue 259",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2010",
+        "start": "2010-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa7ee9fa-05b8-48a3-965a-f2027f1c1577",
+      "number": "259"
+    },
+    {
+      "id": "8936700f-b5a8-4511-b44d-56a01296b53f",
+      "title": "GamePro, Issue 260",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2010",
+        "start": "2010-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8936700f-b5a8-4511-b44d-56a01296b53f",
+      "number": "260"
+    },
+    {
+      "id": "a93da189-c38a-4ad4-bb9e-f6bea91526cd",
+      "title": "GamePro, Issue 261",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2010",
+        "start": "2010-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a93da189-c38a-4ad4-bb9e-f6bea91526cd",
+      "number": "261"
+    },
+    {
+      "id": "e86dcd4e-5996-437a-a0af-feb49eba874a",
+      "title": "GamePro, Issue 262",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2010",
+        "start": "2010-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e86dcd4e-5996-437a-a0af-feb49eba874a",
+      "number": "262"
+    },
+    {
+      "id": "16c4b158-2f4b-4d62-948d-ec658cc5ca7f",
+      "title": "GamePro, Issue 263",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2010",
+        "start": "2010-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/16c4b158-2f4b-4d62-948d-ec658cc5ca7f",
+      "number": "263"
+    },
+    {
+      "id": "c165dbef-5887-4808-8b08-30a853b32830",
+      "title": "GamePro, Issue 264",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2010",
+        "start": "2010-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c165dbef-5887-4808-8b08-30a853b32830",
+      "number": "264"
+    },
+    {
+      "id": "6b267c83-ffd4-4312-b8da-7e3554ef2464",
+      "title": "GamePro, Issue 265",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2010",
+        "start": "2010-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b267c83-ffd4-4312-b8da-7e3554ef2464",
+      "number": "265"
+    },
+    {
+      "id": "df87823d-c0a9-4459-bfd2-1206d9e2021c",
+      "title": "GamePro, Issue 266",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2010",
+        "start": "2010-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/df87823d-c0a9-4459-bfd2-1206d9e2021c",
+      "number": "266"
+    },
+    {
+      "id": "633efc05-63bf-4e48-a910-df7d1c58d42c",
+      "title": "GamePro, Issue 267",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2010",
+        "start": "2010-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/633efc05-63bf-4e48-a910-df7d1c58d42c",
+      "number": "267"
+    },
+    {
+      "id": "2dd40a99-1b49-470d-9a84-738cda9baffa",
+      "title": "GamePro, Issue 268",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2011",
+        "start": "2011-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2dd40a99-1b49-470d-9a84-738cda9baffa",
+      "number": "268"
+    },
+    {
+      "id": "64be956b-9836-42a5-b4b5-a10f13537a4b",
+      "title": "GamePro, Issue 269",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2011",
+        "start": "2011-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/64be956b-9836-42a5-b4b5-a10f13537a4b",
+      "number": "269"
+    },
+    {
+      "id": "e8c09328-4e87-4411-a26b-4bfd5a0c8924",
+      "title": "GamePro, Issue 270",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2011",
+        "start": "2011-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e8c09328-4e87-4411-a26b-4bfd5a0c8924",
+      "number": "270"
+    },
+    {
+      "id": "63768b0c-c9b4-48d3-9a04-2b17ce20b1f0",
+      "title": "GamePro, Issue 271",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2011",
+        "start": "2011-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/63768b0c-c9b4-48d3-9a04-2b17ce20b1f0",
+      "number": "271"
+    },
+    {
+      "id": "f2c6fd51-55f7-4661-9cc0-aef3c24976a7",
+      "title": "GamePro, Issue 272",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2011",
+        "start": "2011-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f2c6fd51-55f7-4661-9cc0-aef3c24976a7",
+      "number": "272"
+    },
+    {
+      "id": "a7814043-c185-46a5-88f0-314cfd381f80",
+      "title": "GamePro, Issue 273",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2011",
+        "start": "2011-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7814043-c185-46a5-88f0-314cfd381f80",
+      "number": "273"
+    },
+    {
+      "id": "c1ff603a-5a4f-4f76-ab0d-8c515f004a77",
+      "title": "GamePro, Issue 274",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2011",
+        "start": "2011-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c1ff603a-5a4f-4f76-ab0d-8c515f004a77",
+      "number": "274"
+    },
+    {
+      "id": "39aec4b1-22af-4009-87f9-a0a63d54297a",
+      "title": "GamePro, Issue 275",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2011",
+        "start": "2011-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39aec4b1-22af-4009-87f9-a0a63d54297a",
+      "number": "275"
+    },
+    {
+      "id": "a21730c8-b8f4-4a85-a300-6bd670ecbe4b",
+      "title": "GamePro, Issue 276",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2011",
+        "start": "2011-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a21730c8-b8f4-4a85-a300-6bd670ecbe4b",
+      "number": "276"
+    },
+    {
+      "id": "cb579b5d-07af-436d-b8ae-203bf841eddf",
+      "title": "GamePro, Issue 277",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2011",
+        "start": "2011-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cb579b5d-07af-436d-b8ae-203bf841eddf",
+      "number": "277"
+    },
+    {
+      "id": "3d591cb7-5cc2-4f37-b7c7-733da348e71b",
+      "title": "The Adventures of GamePro, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1990",
+        "start": "1990-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3d591cb7-5cc2-4f37-b7c7-733da348e71b",
+      "number": "1",
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "6f1f7bb3-f48d-4fd5-926f-92f323c0c684",
+      "title": "The Adventures of GamePro, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1991",
+        "start": "1991-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6f1f7bb3-f48d-4fd5-926f-92f323c0c684",
+      "number": "2",
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "30c2ee19-14a8-4d4a-804a-02909cf937da",
+      "title": "The Adventures of GamePro, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1991",
+        "start": "1991-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/30c2ee19-14a8-4d4a-804a-02909cf937da",
+      "number": "3",
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "e07faf2b-a2c1-4d86-a9bb-849af6c7f455",
+      "title": "GamePro's Handheld Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1991",
+        "start": "1991-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e07faf2b-a2c1-4d86-a9bb-849af6c7f455",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "ae12b258-9b6e-4af4-bfbd-bc637d2e5e1a",
+      "title": "Video Game Greatest Hits",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 1991",
+        "start": "1991-07",
+        "end": "1991-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ae12b258-9b6e-4af4-bfbd-bc637d2e5e1a",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "7568ceff-d9a2-42f7-9fda-5daee822f3d4",
+      "title": "GamePro's Celebrity Video Gamers",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1991",
+        "start": "1991-08",
+        "end": "1991-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7568ceff-d9a2-42f7-9fda-5daee822f3d4",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "8f48878b-1c18-4c30-b9f2-a626e8c3f752",
+      "title": "GamePro's ProPlayer Series, Handheld Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 1991",
+        "start": "1991-10",
+        "end": "1991-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8f48878b-1c18-4c30-b9f2-a626e8c3f752",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "2d118bab-0c80-44e1-990d-b7668e11ac13",
+      "title": "GamePro's 16-Bit Video Gaming",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1992",
+        "start": "1992-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d118bab-0c80-44e1-990d-b7668e11ac13",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "00652865-cf1b-41d2-a89a-6b9f698a4e04",
+      "title": "GamePro's 16-Bit Video Gaming",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1992",
+        "start": "1992-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/00652865-cf1b-41d2-a89a-6b9f698a4e04",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "7ababf2e-9f81-475c-a035-cd66b47bf46d",
+      "title": "GamePro's 16-Bit CD-ROM Video Gaming",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7ababf2e-9f81-475c-a035-cd66b47bf46d",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "4577600d-285a-425c-bac8-7f961f4b6b7a",
+      "title": "The Cutting Edge",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1996",
+        "start": "1996-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/4577600d-285a-425c-bac8-7f961f4b6b7a",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "2f93b6eb-cc17-462b-9426-41e4ec4a77d6",
+      "title": "GamePro Presents The Fighter's Edge",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1996",
+        "start": "1996-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/2f93b6eb-cc17-462b-9426-41e4ec4a77d6",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "d9d2fefd-6598-442c-bdd0-4f0ae157459e",
+      "title": "GamePro Presents The Ultimate Guide to PlayStation Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1997",
+        "start": "1997-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/d9d2fefd-6598-442c-bdd0-4f0ae157459e",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "1daa97d1-d03a-415a-8302-88afed559428",
+      "title": "GamePro Presents Handheld Video Games",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1999",
+        "start": "1999-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/1daa97d1-d03a-415a-8302-88afed559428",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "561c6d8e-7924-4714-9c3f-f8cbdb4acdc4",
+      "title": "Wii Gamers' Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 2008",
+        "start": "2008-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/561c6d8e-7924-4714-9c3f-f8cbdb4acdc4",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "3cf59b7d-1d2e-4fc8-9641-3908d92ff088",
+      "title": "2009 Game Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2008",
+        "start": "2008-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/3cf59b7d-1d2e-4fc8-9641-3908d92ff088",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "ca72875f-7aba-458b-b2e3-d1cdd0324a9c",
+      "title": "Ultimate Games Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 2011",
+        "start": "2011-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/ca72875f-7aba-458b-b2e3-d1cdd0324a9c",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "e33de382-34ff-4eac-ab11-344744f14197",
+      "title": "GamePro, Winter Quarterly 2011",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2011",
+        "start": "2011-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e33de382-34ff-4eac-ab11-344744f14197",
+      "number": null
+    },
+    {
+      "id": "42b83ebc-51ef-41ac-be93-c3ab09f46278",
+      "title": "GamePro Greatest Strategies",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall/Winter 2003"
+      },
+      "url": "https://archive.gamehistory.org/item/42b83ebc-51ef-41ac-be93-c3ab09f46278",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "86668034-1d7c-43e5-9318-d73f4c99da65",
+      "title": "GamePro Presents The PlayStation 2 & PlayStation Encyclopedia",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2000/2001"
+      },
+      "url": "https://archive.gamehistory.org/item/86668034-1d7c-43e5-9318-d73f4c99da65",
+      "number": null,
+      "parent_id": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+    },
+    {
+      "id": "1c628ddb-a03b-4801-ad1e-0868765519cc",
+      "title": "GamePro special issues",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/1c628ddb-a03b-4801-ad1e-0868765519cc",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "GamePro, Issue 1": "f9a715ce-6eb1-4927-a1ef-66f375742e87",
+    "GamePro, Issue 2": "a68a74f2-6f4a-48d9-b105-8b712158e635",
+    "GamePro, Issue 3": "9edfda16-7662-48b7-8fe0-70c5d5c3bfe1",
+    "GamePro, Issue 4": "f74d380f-040f-44bb-a1c7-7117fe0d9b33",
+    "GamePro, Issue 5": "32ffe8e0-ac00-413f-ab60-279887f53b22",
+    "GamePro, Issue 6": "131fcf80-5e0e-422c-a34c-c57063eb10d6",
+    "GamePro, Issue 7": "15341b78-b57d-413b-93fc-001226db6926",
+    "GamePro, Issue 8": "0308274e-5de8-42f3-abc6-daf2b3aa40f0",
+    "GamePro, Issue 9": "c150175a-56c0-48bb-81d5-243ff5e51f8c",
+    "GamePro, Issue 10": "a1e0a7d0-ec23-4b56-a9ef-425b5e482f54",
+    "GamePro, Issue 11": "f7002a9d-42aa-4ea7-9fb1-be2166707e19",
+    "GamePro, Issue 12": "a0e34dd4-5c31-4cc0-9737-a5c65fcd28d1",
+    "GamePro, Issue 13": "f8fc415a-d1be-404c-978c-fa396145cb81",
+    "GamePro, Issue 14": "bb29f7ac-7a36-4bed-b0ec-2cae8314db96",
+    "GamePro, Issue 15": "f8650a09-f423-493f-a0de-5fdafe1d0109",
+    "GamePro, Issue 16": "4954099c-97f8-4de2-adbe-6c8b4ccbf201",
+    "GamePro, Issue 17": "e4326764-c4ad-4cab-8afb-ea6bb9733af1",
+    "GamePro, Issue 18": "4591c745-7517-4771-a1d8-30094e762191",
+    "GamePro, Issue 19": "ea4cc79f-65fb-47db-950d-1c8562c46076",
+    "GamePro, Issue 20": "caf82e4f-f522-46bb-8095-a1491a76ea81",
+    "GamePro, Issue 21": "19a9736f-ba63-44a8-9d2b-00a65b0fd696",
+    "GamePro, Issue 22": "d9ccd22a-525a-4b1a-9758-eb44224ec5c2",
+    "GamePro, Issue 23": "ae5e573f-92fe-4858-9f50-096e4032ca87",
+    "GamePro, Issue 24": "107b9b3b-1f34-46cd-acec-4e34394f83ec",
+    "GamePro, Issue 25": "f5fe1463-01ce-4efb-81e5-fbb435902541",
+    "GamePro, Issue 26": "7c643ab6-7698-4908-acd8-db359a429087",
+    "GamePro, Issue 27": "89773380-b64b-4739-a496-01bc72dab043",
+    "GamePro, Issue 28": "1f613cde-da3b-40da-8e76-82d0cf87214d",
+    "GamePro, Issue 29": "048cdfac-1539-4259-b5e0-5865684ee3f6",
+    "GamePro, Issue 30": "dcb40310-d003-4796-9ebf-5229db86fdd1",
+    "GamePro, Issue 31": "dbf53a0a-551c-4ba0-9486-49293ddadc18",
+    "GamePro, Issue 32": "20699f85-351d-455f-b666-9c85b6aecfcb",
+    "GamePro, Issue 33": "d75d093f-6cc2-417d-857d-0eaa3febcae7",
+    "GamePro, Issue 34": "1b1bdeae-2824-4b8f-8c4b-124f7f99fb60",
+    "GamePro, Issue 35": "8465b62f-f184-4e7c-91c7-22cbee0b68de",
+    "GamePro, Issue 36": "97477d53-334e-426a-a3db-c2a8c4703e8e",
+    "GamePro, Issue 37": "ea813a18-18f7-4048-8e61-4f89d1d85be5",
+    "GamePro, Issue 38": "5b631850-a4d0-4ecd-8a6b-be1da2ea2acc",
+    "GamePro, Issue 39": "2d6f7bb4-f1c3-4270-9859-608fb849ac2f",
+    "GamePro, Issue 40": "857a8b37-e86d-473b-bf0c-f5749e249e21",
+    "GamePro, Issue 41": "08781ec6-04f4-4879-b687-4f5d78db79be",
+    "GamePro, Issue 42": "fe35e975-a01b-48f7-92a1-ef135b9ee615",
+    "GamePro, Issue 43": "8f56e889-f4fa-4e18-9fd0-e5c6b69f2dd3",
+    "GamePro, Issue 44": "ac3c79e4-690a-4699-9b99-eba1f0b10875",
+    "GamePro, Issue 45": "29697abc-1c7e-4398-921e-9635a39bfc60",
+    "GamePro, Issue 46": "11fc5e83-8701-4d6c-b750-5cd9e3d92756",
+    "GamePro, Issue 47": "a18da7ca-22e1-4e10-a8e3-71a0993fbc53",
+    "GamePro, Issue 48": "930b20e6-f2e4-497a-82fc-c2eb0a02d658",
+    "GamePro, Issue 49": "550476f5-0c42-4e70-8fb2-3c58e1e946f5",
+    "GamePro, Issue 50": "e0d7048b-7dea-44df-ae9f-5d53417308b7",
+    "GamePro, Issue 51": "14d7c864-42ba-40a4-8e4a-4164b8fd12db",
+    "GamePro, Issue 52": "ef2a429b-e589-4561-a6ca-34ea055ed431",
+    "GamePro, Issue 53": "8ca5bbca-f77d-4200-abba-c08d6a5f8d2a",
+    "GamePro, Issue 54": "060c20f2-ff34-4257-a91c-051371010ea8",
+    "GamePro, Issue 55": "bfe18655-da43-4b23-9373-f3235a16faac",
+    "GamePro, Issue 56": "29b36d7a-95f5-46f1-beee-3212f4bb12e1",
+    "GamePro, Issue 57": "8c5a6f88-951b-448b-87d4-e2ab8e0fe9a9",
+    "GamePro, Issue 58": "fb462bba-93c9-4723-986b-8308781a2903",
+    "GamePro, Issue 59": "3973616b-7345-4f43-b85b-2c29b6cfaba6",
+    "GamePro, Issue 60": "e4af5957-8c6c-4ecc-8fda-0190ff35b82c",
+    "GamePro, Issue 61": "a43be9d9-52d3-4025-a71b-b10f8226fef3",
+    "GamePro, Issue 62": "e3dcd4ce-e592-4de6-b6d9-f0af53995049",
+    "GamePro, Issue 63": "9da0e12a-1b10-4367-b9be-7e8ecdc5011b",
+    "GamePro, Issue 64": "ec148ccc-0822-4a31-bba7-f396bd91e217",
+    "GamePro, Issue 65": "36448471-86e8-4a96-bdf1-5385c3471044",
+    "GamePro, Issue 66": "e547c7e0-815a-45b6-8d53-bba43bb76101",
+    "GamePro, Issue 67": "cc716279-f8d1-4ffb-81b6-c95f631a55b0",
+    "GamePro, Issue 68": "e0d616bf-9d37-4507-8eeb-256908ee70bb",
+    "GamePro, Issue 69": "93a6f850-854c-44ee-a5af-dfc4c0b3b49d",
+    "GamePro, Issue 70": "1811a473-55bc-461c-ba0f-b1466ad312f9",
+    "GamePro, Issue 71": "c3e98b92-7f62-4961-a207-477d8f97de59",
+    "GamePro, Issue 72": "9b0aa362-1009-4273-b172-b349f56eb22a",
+    "GamePro, Issue 73": "eb4483b8-6d87-49ae-a54c-ea77e0b1ba09",
+    "GamePro, Issue 74": "5c63514f-4177-47e6-bca8-41b8cc9dbd87",
+    "GamePro, Issue 75": "58584360-b2be-40a6-bd1e-b59d3133f724",
+    "GamePro, Issue 76": "9fbeb707-4844-4583-b540-8f5badbf0126",
+    "GamePro, Issue 77": "d90416c8-488f-4abe-8aac-d0ec116bbc2f",
+    "GamePro, Issue 78": "a037396a-108e-4369-98c4-10ed5814efd6",
+    "GamePro, Issue 79": "699a385e-21ce-4b94-a2b4-b76c5b1f7605",
+    "GamePro, Issue 80": "af3f474e-f693-43ee-91c9-221e4536ba86",
+    "GamePro, Issue 91": "de4d4a78-9160-43b0-918c-8aa8b3c64eee",
+    "GamePro, Issue 92": "18711024-bfb2-4671-a6a9-ec42923f3b97",
+    "GamePro, Issue 93": "c70ebe51-ae6a-4dda-a7fc-443cf1e5be7a",
+    "GamePro, Issue 94": "39970ba5-ee6e-4c6e-af25-610f433f284a",
+    "GamePro, Issue 95": "58fc555e-b0fa-4e22-964a-c319a7e2f2f3",
+    "GamePro, Issue 96": "d3cc8092-4b9f-4081-961d-5a90769fb948",
+    "GamePro, Issue 97": "ab20fa3a-29c4-4809-8e4c-0060665b8584",
+    "GamePro, Issue 98": "eccc01aa-d1a3-48dc-9e0a-9340d5af71b5",
+    "GamePro, Issue 99": "1889603d-a520-4a6a-8bea-6fe2c17b5ca8",
+    "GamePro, Issue 100": "5731da51-7ca7-4e95-b6bf-0b0ff81016e4",
+    "GamePro, Issue 101": "8496eb24-04dc-4c69-9180-50dcff7aff1b",
+    "GamePro, Issue 102": "4d9933a8-c62d-468a-97ee-70fb21f33932",
+    "GamePro, Issue 103": "72d952fb-13d3-46c9-acc3-4be32b0fc7e0",
+    "GamePro, Issue 104": "ee6351f3-dfb1-4834-9ad3-0bdc5f18b2ca",
+    "GamePro, Issue 105": "91d6a370-5957-4fae-a5e8-c1f179f49b02",
+    "GamePro, Issue 106": "d9c36e1f-ac81-418d-b2c0-9f9b3586b0ef",
+    "GamePro, Issue 107": "51e704a0-5d8b-4e4d-98ee-04ba9121075d",
+    "GamePro, Issue 108": "2e6073d2-e01d-4f59-aa0a-a2614667ac9e",
+    "GamePro, Issue 109": "aebb6208-3308-41fd-90a4-1bbd03c260e6",
+    "GamePro, Issue 110": "cf430b0d-7b09-4345-89b6-3504e7943ebd",
+    "GamePro, Issue 111": "4f44958b-2ebe-44ad-b6ef-3afe5fe058e2",
+    "GamePro, Issue 112": "b133a2ab-bbb3-492f-ab88-a74659df74e5",
+    "GamePro, Issue 113": "8c799fbb-9fb2-4f6a-a011-ee22ff3d0052",
+    "GamePro, Issue 114": "513bfec3-db7c-4635-9279-195a8f73dc07",
+    "GamePro, Issue 115": "6fb0db04-d8b5-4098-92b9-0c4e2403ee40",
+    "GamePro, Issue 116": "6d371417-831b-48ae-9186-0d56b0093905",
+    "GamePro, Issue 117": "9fcded09-b63a-42a8-acb0-d51b8c335655",
+    "GamePro, Issue 118": "235998b2-e5fb-434f-8b17-f1a19b8d828b",
+    "GamePro, Issue 119": "708f7bdf-e4d4-440c-a9c2-57738ffca81e",
+    "GamePro, Issue 120": "85c340b4-ad82-450b-8d8a-86e0ae809426",
+    "GamePro, Issue 121": "7ad2c784-5bb6-4e99-8c5b-b08861d0e9b1",
+    "GamePro, Issue 122": "05495057-ba49-473b-a39b-32644f6d60b2",
+    "GamePro, Issue 123": "1ac6ebc0-16e5-413a-a301-697ae969f738",
+    "GamePro, Issue 124": "7c41eb78-e54f-4c5b-a72e-0ace375e8256",
+    "GamePro, Issue 125": "cd6988ac-3f8e-4095-8087-281049e56aa2",
+    "GamePro, Issue 126": "dea1fbb4-7c69-43d9-a39d-8dedb0649236",
+    "GamePro, Issue 127": "e590f6c7-9d30-4a2b-bfaa-87bfaa21126b",
+    "GamePro, Issue 128": "f1bfa58c-4639-4542-a294-36a53a3497c0",
+    "GamePro, Issue 129": "275ab7c6-f764-437b-a7ac-4850355ba64c",
+    "GamePro, Issue 130": "938e302c-6216-46f3-aba8-4ce76f0383a1",
+    "GamePro, Issue 131": "04831238-63d3-4569-adb3-6b4dbe77df93",
+    "GamePro, Issue 132": "fc78db6e-4043-4626-b8d5-db5b9f852d86",
+    "GamePro, Issue 133": "73afcea0-72d9-47f1-a8ac-f00025ff59cf",
+    "GamePro, Issue 134": "4dd315bc-73cb-4a3a-bc98-0aeebcdfc557",
+    "GamePro, Issue 135": "b63d2483-0d5a-40b0-849f-b0cfdc161152",
+    "GamePro, Issue 136": "6707e38d-2569-4ab0-b227-53b613b3ee7b",
+    "GamePro, Issue 137": "a89392aa-1ba9-4237-af9c-6df8c5dd39ed",
+    "GamePro, Issue 138": "b3fd5524-2ea1-449a-8f46-73e2829653d2",
+    "GamePro, Issue 139": "c490f8ad-46b9-467d-8cea-9a8cb2093d9c",
+    "GamePro, Issue 140": "73719b7a-f4a7-478c-a920-88ca6c7abf6a",
+    "GamePro, Issue 141": "6fb226ee-6110-455c-94ae-58906ad86af2",
+    "GamePro, Issue 142": "ae358d8e-bd60-46ef-9f11-d1efdebfc7d0",
+    "GamePro, Issue 143": "8d989f06-fa08-49f2-9eb9-c6acf5e0e410",
+    "GamePro, Issue 144": "79b4fa97-62d2-42a2-ba60-3871a5e11cae",
+    "GamePro, Issue 145": "8c03556b-7e8b-4fb7-87e1-8cefd1dbc461",
+    "GamePro, Issue 146": "57b096d1-dd70-4d23-b46e-6e45bf1aeff0",
+    "GamePro, Issue 147": "af3529d2-b73f-479a-b944-fa7d41c6e2cf",
+    "GamePro, Issue 148": "9a754072-f78b-4dd6-bb33-fb4273e9351a",
+    "GamePro, Issue 149": "2b3c205d-ebc9-4ede-8666-7b08eb1faef3",
+    "GamePro, Issue 150": "6f5d2e69-2cb7-4bec-9fe9-f4528d7f49bf",
+    "GamePro, Issue 151": "f6d1cfbd-057c-424f-8821-1fa20dcc3386",
+    "GamePro, Issue 152": "bb3076e3-b683-4ad3-a444-77922841d909",
+    "GamePro, Issue 153": "0da1cf46-22c0-44e5-968f-60f40887c5a1",
+    "GamePro, Issue 154": "17fd1312-621e-4d06-bf5f-7bd1ee763933",
+    "GamePro, Issue 155": "be7cf4f9-8cf4-4640-86ae-c600ae91d4dc",
+    "GamePro, Issue 156": "266506c5-6399-40b0-beec-01f0ef6589f9",
+    "GamePro, Issue 157": "86b81a35-12d0-4636-b7b0-5e55018ad162",
+    "GamePro, Issue 158": "e562b2a7-a85c-4776-965c-f3421f7bd8d7",
+    "GamePro, Issue 159": "e74d991c-1c90-4736-aaaf-fde2a533566b",
+    "GamePro, Issue 160": "c5d87d61-6101-4a16-836f-e5fda93a0e14",
+    "GamePro, Issue 161": "6dc2655c-909c-4836-9310-187d3923f6c8",
+    "GamePro, Issue 162": "1cb69aad-cf97-4e54-a028-393ff840a36b",
+    "GamePro, Issue 163": "88ef7b34-e031-4f4a-a7d5-9ec80112ecd6",
+    "GamePro, Issue 164": "61729120-85ef-426f-b3c1-6968236cea48",
+    "GamePro, Issue 165": "e43aa5e0-730e-496c-9fae-bd701a2f6cf4",
+    "GamePro, Issue 166": "5686c1d8-f572-4add-9a85-fdacca3f6b14",
+    "GamePro, Issue 167": "88605ccc-6fc8-4922-ac9e-12ae97a40394",
+    "GamePro, Issue 168": "41c13a0a-1f6f-4ecd-8b5d-18f47de2a748",
+    "GamePro, Issue 169": "5b4d5524-fbe9-4039-9d6f-420973f5795c",
+    "GamePro, Issue 170": "51f1d648-0b56-44d4-bb79-24f453cbfa0e",
+    "GamePro, Issue 171": "75d30c97-0579-4144-961f-46bf6f4ff8c6",
+    "GamePro, Issue 172": "e0e0677b-25dd-428d-b2c6-12d8e0a4680d",
+    "GamePro, Issue 173": "70a60456-9ff0-4c84-998e-e8291985efcd",
+    "GamePro, Issue 174": "f77994db-d482-4e43-ae49-634d84605ec7",
+    "GamePro, Issue 175": "31df84d6-5ebf-4772-bb6b-4c9e6455bac0",
+    "GamePro, Issue 176": "4cd4aa05-40ae-413f-b1a7-b21e45f3a05d",
+    "GamePro, Issue 177": "e4aff16b-1f05-4e4e-8ef2-22b7f0bcdefd",
+    "GamePro, Issue 178": "36450dbe-9ec5-49e1-9e72-f36f3d216d55",
+    "GamePro, Issue 179": "024bba50-60d3-4bec-a489-9f554741fed9",
+    "GamePro, Issue 180": "d092dbe5-c8a7-4ab0-b67c-f6e11a9445c0",
+    "GamePro, Issue 181": "86cca307-d462-4beb-a374-a68aa8c157d4",
+    "GamePro, Issue 182": "1bf99fbd-57c2-4afe-981e-db87df7323e5",
+    "GamePro, Issue 183": "5760ac8a-9e89-4687-8563-25051470bf02",
+    "GamePro, Issue 184": "fec290c8-22c5-4fc8-8407-b7eba22d308c",
+    "GamePro, Issue 185": "1106870d-bea9-4f38-b5d8-1ad09d24b122",
+    "GamePro, Issue 186": "d9698d26-56da-4489-a513-976b4c375fb2",
+    "GamePro, Issue 187": "d96dc647-c5a4-435c-9d41-82bf909e928b",
+    "GamePro, Issue 188": "64064657-901e-47dc-a4fb-d62c366622ff",
+    "GamePro, Issue 189": "f37c3db3-2b48-499c-b364-605efa9a2b00",
+    "GamePro, Issue 190": "9428f016-f486-47a6-a5f1-36b28c0319ce",
+    "GamePro, Issue 191": "9f75d81f-27e5-4b42-bb92-ce5e77dc175c",
+    "GamePro, Issue 192": "44e502f4-e778-4b62-9f56-c260277ab9c0",
+    "GamePro, Issue 193": "80b351f1-e05c-4dc9-85ad-bd1185e65001",
+    "GamePro, Issue 194": "c9b75c27-4dd2-498c-8f37-3106b69f55c0",
+    "GamePro, Issue 195": "b9b62289-5c9a-43b8-afb7-aa729b6ec4b6",
+    "GamePro, Issue 196": "01b48d08-5c70-47ce-a4b5-813bdd4493d6",
+    "GamePro, Issue 197": "05ae6c27-26a0-4f92-aea0-4b23b3be0ee6",
+    "GamePro, Issue 198": "aa0943d7-c170-4f6e-ab95-d63d6eefffb1",
+    "GamePro, Issue 199": "7df38b4f-4062-4c94-894e-b955a15918c9",
+    "GamePro, Issue 200": "05810f21-238b-4f81-99ad-d02e3cede93c",
+    "GamePro, Issue 201": "95f676bf-e207-41ca-97d4-4ad5b801f49b",
+    "GamePro, Issue 202": "e7bad816-05e4-4486-92d7-f5ebf7263b81",
+    "GamePro, Issue 203": "87cc42bf-b0d4-4f80-a7dc-27f30b58a07f",
+    "GamePro, Issue 204": "7efba3b1-2ebd-43af-862a-da5f1b49bbbc",
+    "GamePro, Issue 205": "f2c5898d-23f1-41fc-82d6-d2d74b7184fb",
+    "GamePro, Issue 206": "2a7e9669-e47e-4064-95c9-7089f63f4568",
+    "GamePro, Issue 207": "20f7391a-7e5f-432f-a8ae-33469d1e719f",
+    "GamePro, Issue 208": "52355654-a35e-4543-b5b3-3d82ae63b954",
+    "GamePro, Issue 209": "c65884e9-5b2b-4b98-b1fb-7169e8fde96f",
+    "GamePro, Issue 210": "6947fcb5-569e-4788-9fbf-7dd7a3fbef62",
+    "GamePro, Issue 211": "348921b4-8a8f-4509-9e8a-ab103f3ff8a4",
+    "GamePro, Issue 212": "72a8f98c-294d-44e0-89b8-db043dda80f6",
+    "GamePro, Issue 213": "a6469fc9-7219-47e3-bdac-791acb60a04d",
+    "GamePro, Issue 214": "c3271f79-daee-49f7-b9b9-71051a767d1e",
+    "GamePro, Issue 215": "28d5e8ee-1195-45aa-baf6-c7de8f3590bb",
+    "GamePro, Issue 216": "fbad795e-f151-4e58-9f79-8c827fe32aac",
+    "GamePro, Issue 217": "c201f6da-7139-4c98-970b-3c4faa3fb632",
+    "GamePro, Issue 218": "3bd7833b-5ac5-421f-b603-841d8b934ba8",
+    "GamePro, Issue 219": "7f6e6ce0-08c3-45e1-9ef8-39940d637554",
+    "GamePro, Issue 220": "b0e68fc3-ca27-4b94-b204-8e8a3b3dd60b",
+    "GamePro, Issue 221": "de67a5cc-39e2-45cc-9396-49374e25dd42",
+    "GamePro, Issue 222": "87e74fd6-ec40-4456-be16-68749c52c513",
+    "GamePro, Issue 223": "6b3b575f-6e16-496f-8df1-3f36e7545f68",
+    "GamePro, Issue 224": "609210d7-fdd9-4de1-ae84-9fd980dd5a73",
+    "GamePro, Issue 225": "a5cc909d-5a21-41fc-a5ba-d867f80a84f1",
+    "GamePro, Issue 226": "38829f08-906a-42c6-9b10-bfc91ed87d3a",
+    "GamePro, Issue 227": "39d161bb-4d18-4e38-a7fd-d1f56dae1afc",
+    "GamePro, Issue 228": "1c3bde13-b888-401b-b1fa-2541844d5bfd",
+    "GamePro, Issue 229": "7b98af01-0ee5-47ac-a347-683c20ae556c",
+    "GamePro, Issue 230": "b2901bfc-280c-4fb8-a099-d09e09081c58",
+    "GamePro, Issue 231": "ce7c6e82-12f6-4783-8610-5f18e63bfdf5",
+    "GamePro, Issue 232": "3c411e24-3001-43b1-ad43-43641e84aa03",
+    "GamePro, Issue 233": "d315f06d-979a-4ee7-ae06-2d3ac6730f5d",
+    "GamePro, Issue 234": "b2c1716d-6ba9-4751-bcc0-c79e34567bbf",
+    "GamePro, Issue 235": "97b1428e-f127-41c7-aa14-22440164974d",
+    "GamePro, Issue 236": "531234a9-b59b-438f-8f79-90d23eaaf5b6",
+    "GamePro, Issue 237": "4b762c73-86ae-496f-affb-80570263edb4",
+    "GamePro, Issue 238": "f79d56b4-48b3-4e1a-9846-6c85469f8386",
+    "GamePro, Issue 239": "52bb0af1-9c9b-4285-8fdb-6c3207caf94f",
+    "GamePro, Issue 240": "f91f2a51-a628-495b-90bb-931d70b7cdb0",
+    "GamePro, Issue 241": "682e3b0f-2fb0-4f09-aa7d-1ea986a16c74",
+    "GamePro, Issue 242": "cace321f-a019-4cbd-94d8-8fb7bd5f9705",
+    "GamePro, Issue 243": "7d20fbd8-140b-4d89-a6c6-879905363c1b",
+    "GamePro, Issue 244": "2787d8bf-dd0a-4ece-803f-b1714cbc2b4b",
+    "GamePro, Issue 245": "582dc774-a059-484f-ac99-7d2f091d08f8",
+    "GamePro, Issue 246": "5f72cab7-411c-44ab-bd4b-12f27f5a0a29",
+    "GamePro, Issue 247": "1e20c856-963c-4d55-b9f2-5e6d4695088b",
+    "GamePro, Issue 248": "3348c5c2-8914-44d2-90a5-f68a9b9b126c",
+    "GamePro, Issue 249": "697527dd-d3ad-4ad5-9464-05b76e7e6a88",
+    "GamePro, Issue 250": "42d2766d-27dc-42e8-9096-6642349d860b",
+    "GamePro, Issue 251": "ae269830-bb17-4be6-949a-4979dcc08311",
+    "GamePro, Issue 252": "46e50f52-a1a4-4f40-83d8-ec8631148a54",
+    "GamePro, Issue 253": "59887b5c-5ccf-4b13-b1fc-f928caafb84f",
+    "GamePro, Issue 254": "c748c4af-15f2-4b7c-a7f5-7beff335582a",
+    "GamePro, Issue 255": "f05ba133-ce61-4885-999d-e70fb50bbf3a",
+    "GamePro, Issue 256": "cc90dfa9-808a-4b0d-a9e0-59af578ed7d2",
+    "GamePro, Issue 257": "7e2fcef3-7f83-4973-ad29-c9565d524c3c",
+    "GamePro, Issue 258": "eebc3bc9-97fc-4e91-857e-0a6357ed8a28",
+    "GamePro, Issue 259": "aa7ee9fa-05b8-48a3-965a-f2027f1c1577",
+    "GamePro, Issue 260": "8936700f-b5a8-4511-b44d-56a01296b53f",
+    "GamePro, Issue 261": "a93da189-c38a-4ad4-bb9e-f6bea91526cd",
+    "GamePro, Issue 262": "e86dcd4e-5996-437a-a0af-feb49eba874a",
+    "GamePro, Issue 263": "16c4b158-2f4b-4d62-948d-ec658cc5ca7f",
+    "GamePro, Issue 264": "c165dbef-5887-4808-8b08-30a853b32830",
+    "GamePro, Issue 265": "6b267c83-ffd4-4312-b8da-7e3554ef2464",
+    "GamePro, Issue 266": "df87823d-c0a9-4459-bfd2-1206d9e2021c",
+    "GamePro, Issue 267": "633efc05-63bf-4e48-a910-df7d1c58d42c",
+    "GamePro, Issue 268": "2dd40a99-1b49-470d-9a84-738cda9baffa",
+    "GamePro, Issue 269": "64be956b-9836-42a5-b4b5-a10f13537a4b",
+    "GamePro, Issue 270": "e8c09328-4e87-4411-a26b-4bfd5a0c8924",
+    "GamePro, Issue 271": "63768b0c-c9b4-48d3-9a04-2b17ce20b1f0",
+    "GamePro, Issue 272": "f2c6fd51-55f7-4661-9cc0-aef3c24976a7",
+    "GamePro, Issue 273": "a7814043-c185-46a5-88f0-314cfd381f80",
+    "GamePro, Issue 274": "c1ff603a-5a4f-4f76-ab0d-8c515f004a77",
+    "GamePro, Issue 275": "39aec4b1-22af-4009-87f9-a0a63d54297a",
+    "GamePro, Issue 276": "a21730c8-b8f4-4a85-a300-6bd670ecbe4b",
+    "GamePro, Issue 277": "cb579b5d-07af-436d-b8ae-203bf841eddf",
+    "The Adventures of GamePro, Issue 1": "3d591cb7-5cc2-4f37-b7c7-733da348e71b",
+    "The Adventures of GamePro, Issue 2": "6f1f7bb3-f48d-4fd5-926f-92f323c0c684",
+    "The Adventures of GamePro, Issue 3": "30c2ee19-14a8-4d4a-804a-02909cf937da",
+    "GamePro's Handheld Video Games": "e07faf2b-a2c1-4d86-a9bb-849af6c7f455",
+    "Video Game Greatest Hits": "ae12b258-9b6e-4af4-bfbd-bc637d2e5e1a",
+    "GamePro's Celebrity Video Gamers": "7568ceff-d9a2-42f7-9fda-5daee822f3d4",
+    "GamePro's ProPlayer Series, Handheld Video Games": "8f48878b-1c18-4c30-b9f2-a626e8c3f752",
+    "GamePro's 16-Bit Video Gaming": "00652865-cf1b-41d2-a89a-6b9f698a4e04",
+    "GamePro's 16-Bit CD-ROM Video Gaming": "7ababf2e-9f81-475c-a035-cd66b47bf46d",
+    "The Cutting Edge": "4577600d-285a-425c-bac8-7f961f4b6b7a",
+    "GamePro Presents The Fighter's Edge": "2f93b6eb-cc17-462b-9426-41e4ec4a77d6",
+    "GamePro Presents The Ultimate Guide to PlayStation Games": "d9d2fefd-6598-442c-bdd0-4f0ae157459e",
+    "GamePro Presents Handheld Video Games": "1daa97d1-d03a-415a-8302-88afed559428",
+    "Wii Gamers' Guide": "561c6d8e-7924-4714-9c3f-f8cbdb4acdc4",
+    "2009 Game Guide": "3cf59b7d-1d2e-4fc8-9641-3908d92ff088",
+    "Ultimate Games Guide": "ca72875f-7aba-458b-b2e3-d1cdd0324a9c",
+    "GamePro, Winter Quarterly 2011": "e33de382-34ff-4eac-ab11-344744f14197",
+    "GamePro Greatest Strategies": "42b83ebc-51ef-41ac-be93-c3ab09f46278",
+    "GamePro Presents The PlayStation 2 & PlayStation Encyclopedia": "86668034-1d7c-43e5-9318-d73f4c99da65",
+    "GamePro special issues": "1c628ddb-a03b-4801-ad1e-0868765519cc"
+  }
+}

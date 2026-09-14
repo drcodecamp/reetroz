@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/821e3f96-3fb0-433d-9f86-35124f8718d1",
-      "date_range": "2004–2005"
+      "date_range": "Spring 2005 – produced October 2004",
+      "items": 2
     }
   ],
   "stats": {
@@ -44,5 +45,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

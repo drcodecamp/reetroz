@@ -1,0 +1,2387 @@
+{
+  "provider": "vghf",
+  "folder_id": "4409f093-cafb-4bc5-b9b0-cacc3a651e87",
+  "url": "https://archive.gamehistory.org/folder/4409f093-cafb-4bc5-b9b0-cacc3a651e87",
+  "retrieved_at": "2026-09-13T22:57:59+00:00",
+  "expected": 136,
+  "count": 140,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "c5bf2d3d-b83b-4ac8-8e24-44b173547eaa",
+      "title": "Official Xbox Magazine, Issue 0, Special E3 Collector's Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c5bf2d3d-b83b-4ac8-8e24-44b173547eaa",
+      "number": "0"
+    },
+    {
+      "id": "4efae8df-cfdf-4ca0-bb7d-f1ca2bfeaa9f",
+      "title": "Official Xbox Magazine, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2001",
+        "start": "2001-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4efae8df-cfdf-4ca0-bb7d-f1ca2bfeaa9f",
+      "number": "1"
+    },
+    {
+      "id": "97502fef-06de-40a1-ba9f-ea2983b87e96",
+      "title": "Official Xbox Magazine, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/97502fef-06de-40a1-ba9f-ea2983b87e96",
+      "number": "2"
+    },
+    {
+      "id": "06ebf312-badc-42ec-92e1-0fdd431cc7a3",
+      "title": "Official Xbox Magazine, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2002",
+        "start": "2002-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/06ebf312-badc-42ec-92e1-0fdd431cc7a3",
+      "number": "3"
+    },
+    {
+      "id": "4c8e6ca9-6f9b-4037-97c1-0bc0090cedad",
+      "title": "Official Xbox Magazine, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2002",
+        "start": "2002-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4c8e6ca9-6f9b-4037-97c1-0bc0090cedad",
+      "number": "4"
+    },
+    {
+      "id": "cc5a3255-ad15-434f-82dc-52aea8759379",
+      "title": "Official Xbox Magazine, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc5a3255-ad15-434f-82dc-52aea8759379",
+      "number": "5"
+    },
+    {
+      "id": "5604c52a-b137-479e-92e4-38765bdcd613",
+      "title": "Official Xbox Magazine, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2002",
+        "start": "2002-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5604c52a-b137-479e-92e4-38765bdcd613",
+      "number": "6"
+    },
+    {
+      "id": "ff15d8c8-ea75-4950-8372-ebfbaf8e7197",
+      "title": "Official Xbox Magazine, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2002",
+        "start": "2002-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ff15d8c8-ea75-4950-8372-ebfbaf8e7197",
+      "number": "7"
+    },
+    {
+      "id": "1f9f31a9-ccb4-4047-ab64-44451db98eba",
+      "title": "Official Xbox Magazine, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2002",
+        "start": "2002-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1f9f31a9-ccb4-4047-ab64-44451db98eba",
+      "number": "8"
+    },
+    {
+      "id": "3abb5f67-236e-4f5a-8f1f-940992b48336",
+      "title": "Official Xbox Magazine, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2002",
+        "start": "2002-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3abb5f67-236e-4f5a-8f1f-940992b48336",
+      "number": "9"
+    },
+    {
+      "id": "b12d07ab-352f-4d67-9bf1-1c8a835bb6a8",
+      "title": "Official Xbox Magazine, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2002",
+        "start": "2002-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b12d07ab-352f-4d67-9bf1-1c8a835bb6a8",
+      "number": "10"
+    },
+    {
+      "id": "ccb6faab-998d-46f6-b661-77c76d4bab22",
+      "title": "Official Xbox Magazine, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2002",
+        "start": "2002-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ccb6faab-998d-46f6-b661-77c76d4bab22",
+      "number": "11"
+    },
+    {
+      "id": "941c4578-3c2f-45e6-8d2f-39b46fc3a137",
+      "title": "Official Xbox Magazine, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2002",
+        "start": "2002-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/941c4578-3c2f-45e6-8d2f-39b46fc3a137",
+      "number": "12"
+    },
+    {
+      "id": "ce4595e0-e99d-455c-8fe2-a7ffb85628fe",
+      "title": "Official Xbox Magazine, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2002",
+        "start": "2002-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce4595e0-e99d-455c-8fe2-a7ffb85628fe",
+      "number": "13"
+    },
+    {
+      "id": "54b9335e-a54f-4424-b798-a0abd3483c7b",
+      "title": "Official Xbox Magazine, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2003",
+        "start": "2003-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/54b9335e-a54f-4424-b798-a0abd3483c7b",
+      "number": "14"
+    },
+    {
+      "id": "25e94001-ed58-483d-a3a8-56961f26dd3b",
+      "title": "Official Xbox Magazine, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/25e94001-ed58-483d-a3a8-56961f26dd3b",
+      "number": "15"
+    },
+    {
+      "id": "a8613358-fd43-4fbf-8389-4e4fff494252",
+      "title": "Official Xbox Magazine, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2003",
+        "start": "2003-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a8613358-fd43-4fbf-8389-4e4fff494252",
+      "number": "16"
+    },
+    {
+      "id": "39154728-a0ea-43a4-8700-39457ef28750",
+      "title": "Official Xbox Magazine, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39154728-a0ea-43a4-8700-39457ef28750",
+      "number": "17"
+    },
+    {
+      "id": "7f997b5b-10b3-4119-bc96-36853890d572",
+      "title": "Official Xbox Magazine, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7f997b5b-10b3-4119-bc96-36853890d572",
+      "number": "18"
+    },
+    {
+      "id": "6bc6f62f-61c4-4202-a83c-3507b33ec87f",
+      "title": "Official Xbox Magazine, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6bc6f62f-61c4-4202-a83c-3507b33ec87f",
+      "number": "19"
+    },
+    {
+      "id": "bd67f5c9-d846-43ef-ba37-5902ac4b4527",
+      "title": "Official Xbox Magazine, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bd67f5c9-d846-43ef-ba37-5902ac4b4527",
+      "number": "20"
+    },
+    {
+      "id": "7d501e48-3b21-4bed-815b-27fd120b259d",
+      "title": "Official Xbox Magazine, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d501e48-3b21-4bed-815b-27fd120b259d",
+      "number": "21"
+    },
+    {
+      "id": "d24c1f31-0c55-4b04-b615-d9e235d25c0e",
+      "title": "Official Xbox Magazine, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d24c1f31-0c55-4b04-b615-d9e235d25c0e",
+      "number": "22"
+    },
+    {
+      "id": "71989614-c500-4e63-8b0a-705c984082ce",
+      "title": "Official Xbox Magazine, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2003",
+        "start": "2003-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/71989614-c500-4e63-8b0a-705c984082ce",
+      "number": "23"
+    },
+    {
+      "id": "e18b3bed-eb3e-48ed-86a1-6e36488ad603",
+      "title": "Official Xbox Magazine, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2003",
+        "start": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e18b3bed-eb3e-48ed-86a1-6e36488ad603",
+      "number": "24"
+    },
+    {
+      "id": "122e2c90-f9f8-47a5-bf79-5e4b126438f7",
+      "title": "Official Xbox Magazine, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/122e2c90-f9f8-47a5-bf79-5e4b126438f7",
+      "number": "25"
+    },
+    {
+      "id": "0bcae4ea-5821-458f-981c-d4eb66be8559",
+      "title": "Official Xbox Magazine, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2003",
+        "start": "2003-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/0bcae4ea-5821-458f-981c-d4eb66be8559",
+      "number": "26"
+    },
+    {
+      "id": "2a9ab77d-9bef-44e6-9eae-a67dabfb7163",
+      "title": "Official Xbox Magazine, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2a9ab77d-9bef-44e6-9eae-a67dabfb7163",
+      "number": "27"
+    },
+    {
+      "id": "853aa3e6-7c01-4b17-962a-4430f2d3546f",
+      "title": "Official Xbox Magazine, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2004",
+        "start": "2004-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/853aa3e6-7c01-4b17-962a-4430f2d3546f",
+      "number": "28"
+    },
+    {
+      "id": "4cfa9bd1-f097-4177-94d1-b7ee95b51c0c",
+      "title": "Official Xbox Magazine, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2004",
+        "start": "2004-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4cfa9bd1-f097-4177-94d1-b7ee95b51c0c",
+      "number": "29"
+    },
+    {
+      "id": "4cc36c5e-39a8-4088-8c12-b84816425cf6",
+      "title": "Official Xbox Magazine, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2004",
+        "start": "2004-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4cc36c5e-39a8-4088-8c12-b84816425cf6",
+      "number": "30"
+    },
+    {
+      "id": "07832363-a95d-4dc3-9f5d-c5c279a9ac12",
+      "title": "Official Xbox Magazine, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2004",
+        "start": "2004-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07832363-a95d-4dc3-9f5d-c5c279a9ac12",
+      "number": "31"
+    },
+    {
+      "id": "e982de65-f848-47bb-9cd0-597e95a7819e",
+      "title": "Official Xbox Magazine, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2004",
+        "start": "2004-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e982de65-f848-47bb-9cd0-597e95a7819e",
+      "number": "32"
+    },
+    {
+      "id": "87209a46-561e-46fa-9cda-42e0baddede4",
+      "title": "Official Xbox Magazine, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2004",
+        "start": "2004-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/87209a46-561e-46fa-9cda-42e0baddede4",
+      "number": "33"
+    },
+    {
+      "id": "0546f030-3a93-45c4-9c24-243683c4251e",
+      "title": "Official Xbox Magazine, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2004",
+        "start": "2004-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0546f030-3a93-45c4-9c24-243683c4251e",
+      "number": "34"
+    },
+    {
+      "id": "90c41c1b-a43c-49ce-9f62-c3e928aed7dc",
+      "title": "Official Xbox Magazine, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2004",
+        "start": "2004-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90c41c1b-a43c-49ce-9f62-c3e928aed7dc",
+      "number": "35"
+    },
+    {
+      "id": "c0dd4ac9-abb0-46d9-8211-424b2ed72416",
+      "title": "Official Xbox Magazine, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2004",
+        "start": "2004-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0dd4ac9-abb0-46d9-8211-424b2ed72416",
+      "number": "36"
+    },
+    {
+      "id": "9405b0e4-73d4-4461-bd78-cb4385227285",
+      "title": "Official Xbox Magazine, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2004",
+        "start": "2004-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9405b0e4-73d4-4461-bd78-cb4385227285",
+      "number": "37"
+    },
+    {
+      "id": "654888b0-54ed-43e9-a14a-554e13eedb9e",
+      "title": "Official Xbox Magazine, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2004",
+        "start": "2004-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/654888b0-54ed-43e9-a14a-554e13eedb9e",
+      "number": "38"
+    },
+    {
+      "id": "4d9f8826-49b3-4c65-8d6a-6d632ad74da4",
+      "title": "Official Xbox Magazine, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2004",
+        "start": "2004-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/4d9f8826-49b3-4c65-8d6a-6d632ad74da4",
+      "number": "39"
+    },
+    {
+      "id": "2b6f9696-a44b-43a7-8cce-41ef8f36aa12",
+      "title": "Official Xbox Magazine, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2005",
+        "start": "2005-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2b6f9696-a44b-43a7-8cce-41ef8f36aa12",
+      "number": "40"
+    },
+    {
+      "id": "45268a17-77eb-4c48-beae-48890f768161",
+      "title": "Official Xbox Magazine, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2005",
+        "start": "2005-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45268a17-77eb-4c48-beae-48890f768161",
+      "number": "41"
+    },
+    {
+      "id": "4a292133-ebd5-4599-9b9f-3a3e2e99d97d",
+      "title": "Official Xbox Magazine, Issue 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2005",
+        "start": "2005-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a292133-ebd5-4599-9b9f-3a3e2e99d97d",
+      "number": "42"
+    },
+    {
+      "id": "34245bb4-9365-4429-8f6c-d9f585f66d0a",
+      "title": "Official Xbox Magazine, Issue 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2005",
+        "start": "2005-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/34245bb4-9365-4429-8f6c-d9f585f66d0a",
+      "number": "43"
+    },
+    {
+      "id": "a0017711-6c34-4595-9492-ce7f68b8a5ce",
+      "title": "Official Xbox Magazine, Issue 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2005",
+        "start": "2005-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0017711-6c34-4595-9492-ce7f68b8a5ce",
+      "number": "44"
+    },
+    {
+      "id": "81e32433-c262-4a6f-a2c9-636a00ad54c3",
+      "title": "Official Xbox Magazine, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2005",
+        "start": "2005-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/81e32433-c262-4a6f-a2c9-636a00ad54c3",
+      "number": "45"
+    },
+    {
+      "id": "c7cde155-4de7-46fc-97dd-00101ac8b90c",
+      "title": "Official Xbox Magazine, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2005",
+        "start": "2005-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c7cde155-4de7-46fc-97dd-00101ac8b90c",
+      "number": "46"
+    },
+    {
+      "id": "f1a6d870-8e0f-4de0-8fed-55db39870367",
+      "title": "Official Xbox Magazine, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2005",
+        "start": "2005-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1a6d870-8e0f-4de0-8fed-55db39870367",
+      "number": "47"
+    },
+    {
+      "id": "f8a1052e-b69a-482c-9e00-50fed604a839",
+      "title": "Official Xbox Magazine, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2005",
+        "start": "2005-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8a1052e-b69a-482c-9e00-50fed604a839",
+      "number": "48"
+    },
+    {
+      "id": "b26fe9df-f4bc-49f7-bb07-a1ed9c1ed63c",
+      "title": "Official Xbox Magazine, Issue 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2005",
+        "start": "2005-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b26fe9df-f4bc-49f7-bb07-a1ed9c1ed63c",
+      "number": "49"
+    },
+    {
+      "id": "5fa628a6-2d40-4c8d-a882-96cb75cf928e",
+      "title": "Official Xbox Magazine, Issue 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2005",
+        "start": "2005-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5fa628a6-2d40-4c8d-a882-96cb75cf928e",
+      "number": "50"
+    },
+    {
+      "id": "d547e8cd-3b2a-4b36-a671-aa462e8bb64e",
+      "title": "Official Xbox Magazine, Issue 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2005",
+        "start": "2005-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d547e8cd-3b2a-4b36-a671-aa462e8bb64e",
+      "number": "51"
+    },
+    {
+      "id": "0d85ca58-b9cd-47f0-ab30-ac49242a65c5",
+      "title": "Official Xbox Magazine, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2005",
+        "start": "2005-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/0d85ca58-b9cd-47f0-ab30-ac49242a65c5",
+      "number": "52"
+    },
+    {
+      "id": "b5b1ca9e-163c-4914-acfa-0ec98bd4a714",
+      "title": "Official Xbox Magazine, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2006",
+        "start": "2006-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b5b1ca9e-163c-4914-acfa-0ec98bd4a714",
+      "number": "53"
+    },
+    {
+      "id": "28a19136-4708-46d0-b856-aaa730d36554",
+      "title": "Official Xbox Magazine, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2006",
+        "start": "2006-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/28a19136-4708-46d0-b856-aaa730d36554",
+      "number": "54"
+    },
+    {
+      "id": "15942982-279d-48c6-ac00-fa528a9799d4",
+      "title": "Official Xbox Magazine, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2006",
+        "start": "2006-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/15942982-279d-48c6-ac00-fa528a9799d4",
+      "number": "55"
+    },
+    {
+      "id": "f546479c-49b6-45c2-aa5f-5b4f0acaa5ed",
+      "title": "Official Xbox Magazine, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2006",
+        "start": "2006-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f546479c-49b6-45c2-aa5f-5b4f0acaa5ed",
+      "number": "56"
+    },
+    {
+      "id": "e248e669-ad57-42ae-98d7-15d61d72b375",
+      "title": "Official Xbox Magazine, Issue 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2006",
+        "start": "2006-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e248e669-ad57-42ae-98d7-15d61d72b375",
+      "number": "57"
+    },
+    {
+      "id": "4fa997fa-f39e-41d7-89a7-cf5116cdd8cc",
+      "title": "Official Xbox Magazine, Issue 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2006",
+        "start": "2006-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4fa997fa-f39e-41d7-89a7-cf5116cdd8cc",
+      "number": "58"
+    },
+    {
+      "id": "38137e25-93b3-4eb6-96b2-fdc1b9287692",
+      "title": "Official Xbox Magazine, Issue 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2006",
+        "start": "2006-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38137e25-93b3-4eb6-96b2-fdc1b9287692",
+      "number": "59"
+    },
+    {
+      "id": "f5c8da2c-43bb-4d14-a78b-3d09099f6e43",
+      "title": "Official Xbox Magazine, Issue 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2006",
+        "start": "2006-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f5c8da2c-43bb-4d14-a78b-3d09099f6e43",
+      "number": "60"
+    },
+    {
+      "id": "80d2fa2a-7c3c-4026-98d8-3e79b24b50d6",
+      "title": "Official Xbox Magazine, Issue 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2006",
+        "start": "2006-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/80d2fa2a-7c3c-4026-98d8-3e79b24b50d6",
+      "number": "61"
+    },
+    {
+      "id": "a56da991-d201-46e1-92fa-fb51a6c463f1",
+      "title": "Official Xbox Magazine, Issue 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2006",
+        "start": "2006-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a56da991-d201-46e1-92fa-fb51a6c463f1",
+      "number": "62"
+    },
+    {
+      "id": "eb2839f9-aa51-44b8-975f-b95e358fd32a",
+      "title": "Official Xbox Magazine, Issue 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2006",
+        "start": "2006-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eb2839f9-aa51-44b8-975f-b95e358fd32a",
+      "number": "63"
+    },
+    {
+      "id": "e1f1bd39-59b2-483b-8ea3-ee1d480267f4",
+      "title": "Official Xbox Magazine, Issue 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2006",
+        "start": "2006-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e1f1bd39-59b2-483b-8ea3-ee1d480267f4",
+      "number": "64"
+    },
+    {
+      "id": "012a2041-f16f-49ba-b109-f2e7da093f0a",
+      "title": "Official Xbox Magazine, Issue 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2006",
+        "start": "2006-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/012a2041-f16f-49ba-b109-f2e7da093f0a",
+      "number": "65"
+    },
+    {
+      "id": "606e6d3f-15ad-4a18-b057-ac7c59cee259",
+      "title": "Official Xbox Magazine, Issue 66",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2007",
+        "start": "2007-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/606e6d3f-15ad-4a18-b057-ac7c59cee259",
+      "number": "66"
+    },
+    {
+      "id": "436bac1a-bc9a-42e4-b237-b5fe7de2f7f4",
+      "title": "Official Xbox Magazine, Issue 67",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2007",
+        "start": "2007-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/436bac1a-bc9a-42e4-b237-b5fe7de2f7f4",
+      "number": "67"
+    },
+    {
+      "id": "80fff2eb-7021-403d-98ce-c01cedf06b99",
+      "title": "Official Xbox Magazine, Issue 68",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2007",
+        "start": "2007-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/80fff2eb-7021-403d-98ce-c01cedf06b99",
+      "number": "68"
+    },
+    {
+      "id": "e123b4ee-bec2-488c-ab09-d382d80de9ae",
+      "title": "Official Xbox Magazine, Issue 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2007",
+        "start": "2007-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e123b4ee-bec2-488c-ab09-d382d80de9ae",
+      "number": "69"
+    },
+    {
+      "id": "5407cd7d-39d6-42ce-9da2-74b27eb85c9a",
+      "title": "Official Xbox Magazine, Issue 70",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2007",
+        "start": "2007-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5407cd7d-39d6-42ce-9da2-74b27eb85c9a",
+      "number": "70"
+    },
+    {
+      "id": "137ad784-bc36-4255-975b-7aa56925cfcb",
+      "title": "Official Xbox Magazine, Issue 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2007",
+        "start": "2007-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/137ad784-bc36-4255-975b-7aa56925cfcb",
+      "number": "71"
+    },
+    {
+      "id": "acfbb195-5ae2-4356-bbc0-d9d42e6e466b",
+      "title": "Official Xbox Magazine, Issue 72",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2007",
+        "start": "2007-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/acfbb195-5ae2-4356-bbc0-d9d42e6e466b",
+      "number": "72"
+    },
+    {
+      "id": "8ad5b168-0cf8-495d-ac19-f3b699f0aa63",
+      "title": "Official Xbox Magazine, Issue 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2007",
+        "start": "2007-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ad5b168-0cf8-495d-ac19-f3b699f0aa63",
+      "number": "73"
+    },
+    {
+      "id": "1a6b0d51-6190-4116-a2ae-4cf9daf7e461",
+      "title": "Official Xbox Magazine, Issue 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2007",
+        "start": "2007-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1a6b0d51-6190-4116-a2ae-4cf9daf7e461",
+      "number": "74"
+    },
+    {
+      "id": "f6db977f-f444-4f27-8fe5-aa8a0afd96ef",
+      "title": "Official Xbox Magazine, Issue 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2007",
+        "start": "2007-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f6db977f-f444-4f27-8fe5-aa8a0afd96ef",
+      "number": "75"
+    },
+    {
+      "id": "9228d3a9-9451-4be4-9b20-a50d91a4405a",
+      "title": "Official Xbox Magazine, Issue 76",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2007",
+        "start": "2007-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9228d3a9-9451-4be4-9b20-a50d91a4405a",
+      "number": "76"
+    },
+    {
+      "id": "fd3987b0-b185-4091-b544-c5c84a12610a",
+      "title": "Official Xbox Magazine, Issue 77",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2007",
+        "start": "2007-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fd3987b0-b185-4091-b544-c5c84a12610a",
+      "number": "77"
+    },
+    {
+      "id": "aa1eb8f1-ac7d-4ede-aec3-445fcb688e48",
+      "title": "Official Xbox Magazine, Issue 78",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2007",
+        "start": "2007-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/aa1eb8f1-ac7d-4ede-aec3-445fcb688e48",
+      "number": "78"
+    },
+    {
+      "id": "6b508f41-f7db-47ec-8dc2-df8b84cee37c",
+      "title": "Official Xbox Magazine, Issue 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2008",
+        "start": "2008-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b508f41-f7db-47ec-8dc2-df8b84cee37c",
+      "number": "79"
+    },
+    {
+      "id": "11967c08-3cdf-4cdc-b54f-7cb6d1945fa7",
+      "title": "Official Xbox Magazine, Issue 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2008",
+        "start": "2008-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/11967c08-3cdf-4cdc-b54f-7cb6d1945fa7",
+      "number": "80"
+    },
+    {
+      "id": "8c8c3bb6-0cc7-45e3-9581-79aa01b46783",
+      "title": "Official Xbox Magazine, Issue 81",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2008",
+        "start": "2008-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8c8c3bb6-0cc7-45e3-9581-79aa01b46783",
+      "number": "81"
+    },
+    {
+      "id": "6a62b216-2de3-4ddc-934d-3ba72f938812",
+      "title": "Official Xbox Magazine, Issue 82",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2008",
+        "start": "2008-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6a62b216-2de3-4ddc-934d-3ba72f938812",
+      "number": "82"
+    },
+    {
+      "id": "562170ff-0f59-4eb1-a097-8c6c60be2f24",
+      "title": "Official Xbox Magazine, Issue 83",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2008",
+        "start": "2008-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/562170ff-0f59-4eb1-a097-8c6c60be2f24",
+      "number": "83"
+    },
+    {
+      "id": "69415429-7a05-415a-b245-177337f43034",
+      "title": "Official Xbox Magazine, Issue 84",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2008",
+        "start": "2008-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/69415429-7a05-415a-b245-177337f43034",
+      "number": "84"
+    },
+    {
+      "id": "ade80abb-e85f-4aa8-86af-372ca9795db9",
+      "title": "Official Xbox Magazine, Issue 85",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2008",
+        "start": "2008-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ade80abb-e85f-4aa8-86af-372ca9795db9",
+      "number": "85"
+    },
+    {
+      "id": "0e69dda0-1e7e-4e85-9d0c-deb3d7086088",
+      "title": "Official Xbox Magazine, Issue 86",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2008",
+        "start": "2008-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0e69dda0-1e7e-4e85-9d0c-deb3d7086088",
+      "number": "86"
+    },
+    {
+      "id": "1dc72c29-d375-491d-99de-5ffc68846ec8",
+      "title": "Official Xbox Magazine, Issue 87",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2008",
+        "start": "2008-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1dc72c29-d375-491d-99de-5ffc68846ec8",
+      "number": "87"
+    },
+    {
+      "id": "7bce6c98-1869-42f9-b873-93bb3977e690",
+      "title": "Official Xbox Magazine, Issue 88",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2008",
+        "start": "2008-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7bce6c98-1869-42f9-b873-93bb3977e690",
+      "number": "88"
+    },
+    {
+      "id": "6bffa719-6889-49d9-82c4-289f3c32ca00",
+      "title": "Official Xbox Magazine, Issue 89",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2008",
+        "start": "2008-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6bffa719-6889-49d9-82c4-289f3c32ca00",
+      "number": "89"
+    },
+    {
+      "id": "eff95e6b-54bc-4dbf-8eab-86d091b373a0",
+      "title": "Official Xbox Magazine, Issue 90",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2008",
+        "start": "2008-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eff95e6b-54bc-4dbf-8eab-86d091b373a0",
+      "number": "90"
+    },
+    {
+      "id": "fd9a105c-0a20-45c6-bf59-9a0d82068818",
+      "title": "Official Xbox Magazine, Issue 91",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2008",
+        "start": "2008-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/fd9a105c-0a20-45c6-bf59-9a0d82068818",
+      "number": "91"
+    },
+    {
+      "id": "5138c054-884c-45e0-a137-0f52ca2ccffe",
+      "title": "Official Xbox Magazine, Issue 92",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2009",
+        "start": "2009-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5138c054-884c-45e0-a137-0f52ca2ccffe",
+      "number": "92"
+    },
+    {
+      "id": "3c917f8d-fd50-4550-8a83-1d915b48bf1c",
+      "title": "Official Xbox Magazine, Issue 93",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2009",
+        "start": "2009-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c917f8d-fd50-4550-8a83-1d915b48bf1c",
+      "number": "93"
+    },
+    {
+      "id": "a2b2bba1-1e57-4404-b82a-29479f1b7b83",
+      "title": "Official Xbox Magazine, Issue 94",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2009",
+        "start": "2009-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2b2bba1-1e57-4404-b82a-29479f1b7b83",
+      "number": "94"
+    },
+    {
+      "id": "11f8d0f7-1212-41c5-adb8-dc15dbe5d34b",
+      "title": "Official Xbox Magazine, Issue 95",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2009",
+        "start": "2009-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/11f8d0f7-1212-41c5-adb8-dc15dbe5d34b",
+      "number": "95"
+    },
+    {
+      "id": "07ec8e59-a934-48c8-9667-2283b3609cc1",
+      "title": "Official Xbox Magazine, Issue 96",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2009",
+        "start": "2009-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07ec8e59-a934-48c8-9667-2283b3609cc1",
+      "number": "96"
+    },
+    {
+      "id": "99b20041-e170-4fdc-b034-80e45a56f66e",
+      "title": "Official Xbox Magazine, Issue 97",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2009",
+        "start": "2009-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/99b20041-e170-4fdc-b034-80e45a56f66e",
+      "number": "97"
+    },
+    {
+      "id": "bcce2e11-a780-49ee-b387-0dd01a3bca18",
+      "title": "Official Xbox Magazine, Issue 98",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2009",
+        "start": "2009-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bcce2e11-a780-49ee-b387-0dd01a3bca18",
+      "number": "98"
+    },
+    {
+      "id": "f57ad465-f557-42f4-90fc-84b76ade5005",
+      "title": "Official Xbox Magazine, Issue 99",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2009",
+        "start": "2009-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f57ad465-f557-42f4-90fc-84b76ade5005",
+      "number": "99"
+    },
+    {
+      "id": "12bb5d9e-728f-4306-8cdf-407be1f1467e",
+      "title": "Official Xbox Magazine, Issue 100",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2009",
+        "start": "2009-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/12bb5d9e-728f-4306-8cdf-407be1f1467e",
+      "number": "100"
+    },
+    {
+      "id": "3b8a3b7e-2660-4f16-a168-a74e33959ce1",
+      "title": "Official Xbox Magazine, Issue 101",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2009",
+        "start": "2009-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3b8a3b7e-2660-4f16-a168-a74e33959ce1",
+      "number": "101"
+    },
+    {
+      "id": "f989486b-6f5c-4966-8cbe-a3d7656c6296",
+      "title": "Official Xbox Magazine, Issue 102",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2009",
+        "start": "2009-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f989486b-6f5c-4966-8cbe-a3d7656c6296",
+      "number": "102"
+    },
+    {
+      "id": "5484cf08-178f-4e47-989d-d44cf707b0cb",
+      "title": "Official Xbox Magazine, Issue 103",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2009",
+        "start": "2009-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5484cf08-178f-4e47-989d-d44cf707b0cb",
+      "number": "103"
+    },
+    {
+      "id": "398a6291-5f32-40f5-a9a4-25f06771dffb",
+      "title": "Official Xbox Magazine, Issue 104",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2009",
+        "start": "2009-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/398a6291-5f32-40f5-a9a4-25f06771dffb",
+      "number": "104"
+    },
+    {
+      "id": "a6b61f56-7ac2-4d44-a25e-237849f4d909",
+      "title": "Official Xbox Magazine, Issue 105",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2010",
+        "start": "2010-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a6b61f56-7ac2-4d44-a25e-237849f4d909",
+      "number": "105"
+    },
+    {
+      "id": "d82fa603-19e2-4cb9-9e12-959a93cf0ec8",
+      "title": "Official Xbox Magazine, Issue 106",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2010",
+        "start": "2010-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d82fa603-19e2-4cb9-9e12-959a93cf0ec8",
+      "number": "106"
+    },
+    {
+      "id": "156e7db3-0a92-44ab-9ba2-960f069fcf49",
+      "title": "Official Xbox Magazine, Issue 107",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2010",
+        "start": "2010-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/156e7db3-0a92-44ab-9ba2-960f069fcf49",
+      "number": "107"
+    },
+    {
+      "id": "3e103fd7-6f84-4c62-8a1f-3d2e786c4b99",
+      "title": "Official Xbox Magazine, Issue 108",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2010",
+        "start": "2010-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3e103fd7-6f84-4c62-8a1f-3d2e786c4b99",
+      "number": "108"
+    },
+    {
+      "id": "d97fcb85-e613-45b8-9b57-ecf22046c80c",
+      "title": "Official Xbox Magazine, Issue 109",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2010",
+        "start": "2010-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d97fcb85-e613-45b8-9b57-ecf22046c80c",
+      "number": "109"
+    },
+    {
+      "id": "c49930e8-3e81-4113-9e08-bb5e9359ea71",
+      "title": "Official Xbox Magazine, Issue 110",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2010",
+        "start": "2010-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c49930e8-3e81-4113-9e08-bb5e9359ea71",
+      "number": "110"
+    },
+    {
+      "id": "941fd48a-2185-4295-be8e-4ffd13e84834",
+      "title": "Official Xbox Magazine, Issue 111",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2010",
+        "start": "2010-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/941fd48a-2185-4295-be8e-4ffd13e84834",
+      "number": "111"
+    },
+    {
+      "id": "cf786f5a-8603-46b3-84bb-1deeb418e965",
+      "title": "Official Xbox Magazine, Issue 112",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2010",
+        "start": "2010-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cf786f5a-8603-46b3-84bb-1deeb418e965",
+      "number": "112"
+    },
+    {
+      "id": "4460f06d-66d3-4072-8237-85d8d66950f1",
+      "title": "Official Xbox Magazine, Issue 113",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2010",
+        "start": "2010-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4460f06d-66d3-4072-8237-85d8d66950f1",
+      "number": "113"
+    },
+    {
+      "id": "c71dd480-e71b-4afd-84a3-43f5be7f0914",
+      "title": "Official Xbox Magazine, Issue 114",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2010",
+        "start": "2010-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c71dd480-e71b-4afd-84a3-43f5be7f0914",
+      "number": "114"
+    },
+    {
+      "id": "e3c07051-11e0-4e77-9380-429e20896219",
+      "title": "Official Xbox Magazine, Issue 115",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2010",
+        "start": "2010-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e3c07051-11e0-4e77-9380-429e20896219",
+      "number": "115"
+    },
+    {
+      "id": "6ec263d8-2c7f-4524-af73-8634235da117",
+      "title": "Official Xbox Magazine, Issue 116",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2010",
+        "start": "2010-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6ec263d8-2c7f-4524-af73-8634235da117",
+      "number": "116"
+    },
+    {
+      "id": "6e284dc3-7594-4174-8d0f-91230da58ef5",
+      "title": "Official Xbox Magazine, Issue 117",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2010",
+        "start": "2010-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/6e284dc3-7594-4174-8d0f-91230da58ef5",
+      "number": "117"
+    },
+    {
+      "id": "bcb2d8ee-1b27-4169-8642-cdfa74de6cba",
+      "title": "Official Xbox Magazine, Issue 118",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2011",
+        "start": "2011-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bcb2d8ee-1b27-4169-8642-cdfa74de6cba",
+      "number": "118"
+    },
+    {
+      "id": "422327c5-4187-490b-a829-d023b1b9e586",
+      "title": "Official Xbox Magazine, Issue 119",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2011",
+        "start": "2011-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/422327c5-4187-490b-a829-d023b1b9e586",
+      "number": "119"
+    },
+    {
+      "id": "54073f80-b8e2-495d-a880-09068ec2fa97",
+      "title": "Official Xbox Magazine, Issue 120",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2011",
+        "start": "2011-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/54073f80-b8e2-495d-a880-09068ec2fa97",
+      "number": "120"
+    },
+    {
+      "id": "26c44562-cfdd-40eb-b2b8-262b41949e8e",
+      "title": "Official Xbox Magazine, Issue 121",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2011",
+        "start": "2011-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/26c44562-cfdd-40eb-b2b8-262b41949e8e",
+      "number": "121"
+    },
+    {
+      "id": "b0af434b-5cac-48bc-a736-b0577ecc0c35",
+      "title": "Official Xbox Magazine, Issue 122",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2011",
+        "start": "2011-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b0af434b-5cac-48bc-a736-b0577ecc0c35",
+      "number": "122"
+    },
+    {
+      "id": "a64e1b7f-2007-45a8-a5bb-7171216d3ad3",
+      "title": "Official Xbox Magazine, Issue 123",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2011",
+        "start": "2011-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a64e1b7f-2007-45a8-a5bb-7171216d3ad3",
+      "number": "123"
+    },
+    {
+      "id": "0b0f938c-b972-4fac-965e-3979789ae096",
+      "title": "Official Xbox Magazine, Issue 124",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2011",
+        "start": "2011-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0b0f938c-b972-4fac-965e-3979789ae096",
+      "number": "124"
+    },
+    {
+      "id": "f0695371-7ddd-4877-b255-6ec8f7185d1d",
+      "title": "Official Xbox Magazine, Issue 125",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2011",
+        "start": "2011-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f0695371-7ddd-4877-b255-6ec8f7185d1d",
+      "number": "125"
+    },
+    {
+      "id": "88587c78-4f5d-4bb2-ad04-bad13577d0f2",
+      "title": "Official Xbox Magazine, Issue 126",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2011",
+        "start": "2011-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/88587c78-4f5d-4bb2-ad04-bad13577d0f2",
+      "number": "126"
+    },
+    {
+      "id": "33e2679f-909e-4bc7-acb8-9e1890ea1b4c",
+      "title": "Official Xbox Magazine, Issue 127",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2011",
+        "start": "2011-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/33e2679f-909e-4bc7-acb8-9e1890ea1b4c",
+      "number": "127"
+    },
+    {
+      "id": "a074e24d-03c5-4aae-8a55-0f7afeaa2911",
+      "title": "Official Xbox Magazine, Issue 128",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2011",
+        "start": "2011-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a074e24d-03c5-4aae-8a55-0f7afeaa2911",
+      "number": "128"
+    },
+    {
+      "id": "df2edc59-e7d2-4585-8b94-dadec3546392",
+      "title": "Official Xbox Magazine, Issue 129",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2011",
+        "start": "2011-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/df2edc59-e7d2-4585-8b94-dadec3546392",
+      "number": "129"
+    },
+    {
+      "id": "d113c1b8-eb42-4466-862e-e500971f9259",
+      "title": "Official Xbox Magazine, Issue 130",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2011",
+        "start": "2011-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/d113c1b8-eb42-4466-862e-e500971f9259",
+      "number": "130"
+    },
+    {
+      "id": "1d7eab99-8047-4354-8552-aa5c72c4e9ae",
+      "title": "Official Xbox Magazine, Issue 131",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2012",
+        "start": "2012-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1d7eab99-8047-4354-8552-aa5c72c4e9ae",
+      "number": "131"
+    },
+    {
+      "id": "250cf50d-f5fb-40fa-9a38-a70292df4e2f",
+      "title": "Official Xbox Magazine, Issue 132",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2012",
+        "start": "2012-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/250cf50d-f5fb-40fa-9a38-a70292df4e2f",
+      "number": "132"
+    },
+    {
+      "id": "2936471d-4e24-4e19-9891-4136767d3588",
+      "title": "Official Xbox Magazine, Issue 133",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2012",
+        "start": "2012-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2936471d-4e24-4e19-9891-4136767d3588",
+      "number": "133"
+    },
+    {
+      "id": "5f2bde2d-58f9-442e-b157-acb8ab8f6d1a",
+      "title": "Official Xbox Magazine, Special Preview Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2001",
+        "start": "2001-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f2bde2d-58f9-442e-b157-acb8ab8f6d1a",
+      "number": null
+    },
+    {
+      "id": "461538dc-cff8-4a0f-9a0e-873c9c03d987",
+      "title": "Official Xbox Magazine Special Issue, Holiday Preview Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2004",
+        "start": "2004-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/461538dc-cff8-4a0f-9a0e-873c9c03d987",
+      "number": null,
+      "parent_id": "e4b7aabf-dbd7-47d1-bea4-cf9570da47ce"
+    },
+    {
+      "id": "d95e02f5-a24d-4e75-88b9-f2d8d8076570",
+      "title": "Official Xbox Magazine Presents Zombies!",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. spring 2009"
+      },
+      "url": "https://archive.gamehistory.org/item/d95e02f5-a24d-4e75-88b9-f2d8d8076570",
+      "number": null,
+      "parent_id": "e4b7aabf-dbd7-47d1-bea4-cf9570da47ce"
+    },
+    {
+      "id": "e4b7aabf-dbd7-47d1-bea4-cf9570da47ce",
+      "title": "Official Xbox Magazine special issues",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/e4b7aabf-dbd7-47d1-bea4-cf9570da47ce",
+      "number": null
+    },
+    {
+      "id": "c9d1f537-1269-40e7-bf5d-ed57b9698ed0",
+      "title": "Xbox Cheat Guide, Volume 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. early 2004"
+      },
+      "url": "https://archive.gamehistory.org/item/c9d1f537-1269-40e7-bf5d-ed57b9698ed0",
+      "number": null,
+      "parent_id": "e4b7aabf-dbd7-47d1-bea4-cf9570da47ce"
+    },
+    {
+      "id": "280a3cee-78a0-41c2-ae8f-cf887bd3242c",
+      "title": "Xbox Live Gamer, Volume 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. late 2004"
+      },
+      "url": "https://archive.gamehistory.org/item/280a3cee-78a0-41c2-ae8f-cf887bd3242c",
+      "number": null,
+      "parent_id": "e4b7aabf-dbd7-47d1-bea4-cf9570da47ce"
+    }
+  ],
+  "by_title": {
+    "Official Xbox Magazine, Issue 0, Special E3 Collector's Issue": "c5bf2d3d-b83b-4ac8-8e24-44b173547eaa",
+    "Official Xbox Magazine, Issue 1": "4efae8df-cfdf-4ca0-bb7d-f1ca2bfeaa9f",
+    "Official Xbox Magazine, Issue 2": "97502fef-06de-40a1-ba9f-ea2983b87e96",
+    "Official Xbox Magazine, Issue 3": "06ebf312-badc-42ec-92e1-0fdd431cc7a3",
+    "Official Xbox Magazine, Issue 4": "4c8e6ca9-6f9b-4037-97c1-0bc0090cedad",
+    "Official Xbox Magazine, Issue 5": "cc5a3255-ad15-434f-82dc-52aea8759379",
+    "Official Xbox Magazine, Issue 6": "5604c52a-b137-479e-92e4-38765bdcd613",
+    "Official Xbox Magazine, Issue 7": "ff15d8c8-ea75-4950-8372-ebfbaf8e7197",
+    "Official Xbox Magazine, Issue 8": "1f9f31a9-ccb4-4047-ab64-44451db98eba",
+    "Official Xbox Magazine, Issue 9": "3abb5f67-236e-4f5a-8f1f-940992b48336",
+    "Official Xbox Magazine, Issue 10": "b12d07ab-352f-4d67-9bf1-1c8a835bb6a8",
+    "Official Xbox Magazine, Issue 11": "ccb6faab-998d-46f6-b661-77c76d4bab22",
+    "Official Xbox Magazine, Issue 12": "941c4578-3c2f-45e6-8d2f-39b46fc3a137",
+    "Official Xbox Magazine, Issue 13": "ce4595e0-e99d-455c-8fe2-a7ffb85628fe",
+    "Official Xbox Magazine, Issue 14": "54b9335e-a54f-4424-b798-a0abd3483c7b",
+    "Official Xbox Magazine, Issue 15": "25e94001-ed58-483d-a3a8-56961f26dd3b",
+    "Official Xbox Magazine, Issue 16": "a8613358-fd43-4fbf-8389-4e4fff494252",
+    "Official Xbox Magazine, Issue 17": "39154728-a0ea-43a4-8700-39457ef28750",
+    "Official Xbox Magazine, Issue 18": "7f997b5b-10b3-4119-bc96-36853890d572",
+    "Official Xbox Magazine, Issue 19": "6bc6f62f-61c4-4202-a83c-3507b33ec87f",
+    "Official Xbox Magazine, Issue 20": "bd67f5c9-d846-43ef-ba37-5902ac4b4527",
+    "Official Xbox Magazine, Issue 21": "7d501e48-3b21-4bed-815b-27fd120b259d",
+    "Official Xbox Magazine, Issue 22": "d24c1f31-0c55-4b04-b615-d9e235d25c0e",
+    "Official Xbox Magazine, Issue 23": "71989614-c500-4e63-8b0a-705c984082ce",
+    "Official Xbox Magazine, Issue 24": "e18b3bed-eb3e-48ed-86a1-6e36488ad603",
+    "Official Xbox Magazine, Issue 25": "122e2c90-f9f8-47a5-bf79-5e4b126438f7",
+    "Official Xbox Magazine, Issue 26": "0bcae4ea-5821-458f-981c-d4eb66be8559",
+    "Official Xbox Magazine, Issue 27": "2a9ab77d-9bef-44e6-9eae-a67dabfb7163",
+    "Official Xbox Magazine, Issue 28": "853aa3e6-7c01-4b17-962a-4430f2d3546f",
+    "Official Xbox Magazine, Issue 29": "4cfa9bd1-f097-4177-94d1-b7ee95b51c0c",
+    "Official Xbox Magazine, Issue 30": "4cc36c5e-39a8-4088-8c12-b84816425cf6",
+    "Official Xbox Magazine, Issue 31": "07832363-a95d-4dc3-9f5d-c5c279a9ac12",
+    "Official Xbox Magazine, Issue 32": "e982de65-f848-47bb-9cd0-597e95a7819e",
+    "Official Xbox Magazine, Issue 33": "87209a46-561e-46fa-9cda-42e0baddede4",
+    "Official Xbox Magazine, Issue 34": "0546f030-3a93-45c4-9c24-243683c4251e",
+    "Official Xbox Magazine, Issue 35": "90c41c1b-a43c-49ce-9f62-c3e928aed7dc",
+    "Official Xbox Magazine, Issue 36": "c0dd4ac9-abb0-46d9-8211-424b2ed72416",
+    "Official Xbox Magazine, Issue 37": "9405b0e4-73d4-4461-bd78-cb4385227285",
+    "Official Xbox Magazine, Issue 38": "654888b0-54ed-43e9-a14a-554e13eedb9e",
+    "Official Xbox Magazine, Issue 39": "4d9f8826-49b3-4c65-8d6a-6d632ad74da4",
+    "Official Xbox Magazine, Issue 40": "2b6f9696-a44b-43a7-8cce-41ef8f36aa12",
+    "Official Xbox Magazine, Issue 41": "45268a17-77eb-4c48-beae-48890f768161",
+    "Official Xbox Magazine, Issue 42": "4a292133-ebd5-4599-9b9f-3a3e2e99d97d",
+    "Official Xbox Magazine, Issue 43": "34245bb4-9365-4429-8f6c-d9f585f66d0a",
+    "Official Xbox Magazine, Issue 44": "a0017711-6c34-4595-9492-ce7f68b8a5ce",
+    "Official Xbox Magazine, Issue 45": "81e32433-c262-4a6f-a2c9-636a00ad54c3",
+    "Official Xbox Magazine, Issue 46": "c7cde155-4de7-46fc-97dd-00101ac8b90c",
+    "Official Xbox Magazine, Issue 47": "f1a6d870-8e0f-4de0-8fed-55db39870367",
+    "Official Xbox Magazine, Issue 48": "f8a1052e-b69a-482c-9e00-50fed604a839",
+    "Official Xbox Magazine, Issue 49": "b26fe9df-f4bc-49f7-bb07-a1ed9c1ed63c",
+    "Official Xbox Magazine, Issue 50": "5fa628a6-2d40-4c8d-a882-96cb75cf928e",
+    "Official Xbox Magazine, Issue 51": "d547e8cd-3b2a-4b36-a671-aa462e8bb64e",
+    "Official Xbox Magazine, Issue 52": "0d85ca58-b9cd-47f0-ab30-ac49242a65c5",
+    "Official Xbox Magazine, Issue 53": "b5b1ca9e-163c-4914-acfa-0ec98bd4a714",
+    "Official Xbox Magazine, Issue 54": "28a19136-4708-46d0-b856-aaa730d36554",
+    "Official Xbox Magazine, Issue 55": "15942982-279d-48c6-ac00-fa528a9799d4",
+    "Official Xbox Magazine, Issue 56": "f546479c-49b6-45c2-aa5f-5b4f0acaa5ed",
+    "Official Xbox Magazine, Issue 57": "e248e669-ad57-42ae-98d7-15d61d72b375",
+    "Official Xbox Magazine, Issue 58": "4fa997fa-f39e-41d7-89a7-cf5116cdd8cc",
+    "Official Xbox Magazine, Issue 59": "38137e25-93b3-4eb6-96b2-fdc1b9287692",
+    "Official Xbox Magazine, Issue 60": "f5c8da2c-43bb-4d14-a78b-3d09099f6e43",
+    "Official Xbox Magazine, Issue 61": "80d2fa2a-7c3c-4026-98d8-3e79b24b50d6",
+    "Official Xbox Magazine, Issue 62": "a56da991-d201-46e1-92fa-fb51a6c463f1",
+    "Official Xbox Magazine, Issue 63": "eb2839f9-aa51-44b8-975f-b95e358fd32a",
+    "Official Xbox Magazine, Issue 64": "e1f1bd39-59b2-483b-8ea3-ee1d480267f4",
+    "Official Xbox Magazine, Issue 65": "012a2041-f16f-49ba-b109-f2e7da093f0a",
+    "Official Xbox Magazine, Issue 66": "606e6d3f-15ad-4a18-b057-ac7c59cee259",
+    "Official Xbox Magazine, Issue 67": "436bac1a-bc9a-42e4-b237-b5fe7de2f7f4",
+    "Official Xbox Magazine, Issue 68": "80fff2eb-7021-403d-98ce-c01cedf06b99",
+    "Official Xbox Magazine, Issue 69": "e123b4ee-bec2-488c-ab09-d382d80de9ae",
+    "Official Xbox Magazine, Issue 70": "5407cd7d-39d6-42ce-9da2-74b27eb85c9a",
+    "Official Xbox Magazine, Issue 71": "137ad784-bc36-4255-975b-7aa56925cfcb",
+    "Official Xbox Magazine, Issue 72": "acfbb195-5ae2-4356-bbc0-d9d42e6e466b",
+    "Official Xbox Magazine, Issue 73": "8ad5b168-0cf8-495d-ac19-f3b699f0aa63",
+    "Official Xbox Magazine, Issue 74": "1a6b0d51-6190-4116-a2ae-4cf9daf7e461",
+    "Official Xbox Magazine, Issue 75": "f6db977f-f444-4f27-8fe5-aa8a0afd96ef",
+    "Official Xbox Magazine, Issue 76": "9228d3a9-9451-4be4-9b20-a50d91a4405a",
+    "Official Xbox Magazine, Issue 77": "fd3987b0-b185-4091-b544-c5c84a12610a",
+    "Official Xbox Magazine, Issue 78": "aa1eb8f1-ac7d-4ede-aec3-445fcb688e48",
+    "Official Xbox Magazine, Issue 79": "6b508f41-f7db-47ec-8dc2-df8b84cee37c",
+    "Official Xbox Magazine, Issue 80": "11967c08-3cdf-4cdc-b54f-7cb6d1945fa7",
+    "Official Xbox Magazine, Issue 81": "8c8c3bb6-0cc7-45e3-9581-79aa01b46783",
+    "Official Xbox Magazine, Issue 82": "6a62b216-2de3-4ddc-934d-3ba72f938812",
+    "Official Xbox Magazine, Issue 83": "562170ff-0f59-4eb1-a097-8c6c60be2f24",
+    "Official Xbox Magazine, Issue 84": "69415429-7a05-415a-b245-177337f43034",
+    "Official Xbox Magazine, Issue 85": "ade80abb-e85f-4aa8-86af-372ca9795db9",
+    "Official Xbox Magazine, Issue 86": "0e69dda0-1e7e-4e85-9d0c-deb3d7086088",
+    "Official Xbox Magazine, Issue 87": "1dc72c29-d375-491d-99de-5ffc68846ec8",
+    "Official Xbox Magazine, Issue 88": "7bce6c98-1869-42f9-b873-93bb3977e690",
+    "Official Xbox Magazine, Issue 89": "6bffa719-6889-49d9-82c4-289f3c32ca00",
+    "Official Xbox Magazine, Issue 90": "eff95e6b-54bc-4dbf-8eab-86d091b373a0",
+    "Official Xbox Magazine, Issue 91": "fd9a105c-0a20-45c6-bf59-9a0d82068818",
+    "Official Xbox Magazine, Issue 92": "5138c054-884c-45e0-a137-0f52ca2ccffe",
+    "Official Xbox Magazine, Issue 93": "3c917f8d-fd50-4550-8a83-1d915b48bf1c",
+    "Official Xbox Magazine, Issue 94": "a2b2bba1-1e57-4404-b82a-29479f1b7b83",
+    "Official Xbox Magazine, Issue 95": "11f8d0f7-1212-41c5-adb8-dc15dbe5d34b",
+    "Official Xbox Magazine, Issue 96": "07ec8e59-a934-48c8-9667-2283b3609cc1",
+    "Official Xbox Magazine, Issue 97": "99b20041-e170-4fdc-b034-80e45a56f66e",
+    "Official Xbox Magazine, Issue 98": "bcce2e11-a780-49ee-b387-0dd01a3bca18",
+    "Official Xbox Magazine, Issue 99": "f57ad465-f557-42f4-90fc-84b76ade5005",
+    "Official Xbox Magazine, Issue 100": "12bb5d9e-728f-4306-8cdf-407be1f1467e",
+    "Official Xbox Magazine, Issue 101": "3b8a3b7e-2660-4f16-a168-a74e33959ce1",
+    "Official Xbox Magazine, Issue 102": "f989486b-6f5c-4966-8cbe-a3d7656c6296",
+    "Official Xbox Magazine, Issue 103": "5484cf08-178f-4e47-989d-d44cf707b0cb",
+    "Official Xbox Magazine, Issue 104": "398a6291-5f32-40f5-a9a4-25f06771dffb",
+    "Official Xbox Magazine, Issue 105": "a6b61f56-7ac2-4d44-a25e-237849f4d909",
+    "Official Xbox Magazine, Issue 106": "d82fa603-19e2-4cb9-9e12-959a93cf0ec8",
+    "Official Xbox Magazine, Issue 107": "156e7db3-0a92-44ab-9ba2-960f069fcf49",
+    "Official Xbox Magazine, Issue 108": "3e103fd7-6f84-4c62-8a1f-3d2e786c4b99",
+    "Official Xbox Magazine, Issue 109": "d97fcb85-e613-45b8-9b57-ecf22046c80c",
+    "Official Xbox Magazine, Issue 110": "c49930e8-3e81-4113-9e08-bb5e9359ea71",
+    "Official Xbox Magazine, Issue 111": "941fd48a-2185-4295-be8e-4ffd13e84834",
+    "Official Xbox Magazine, Issue 112": "cf786f5a-8603-46b3-84bb-1deeb418e965",
+    "Official Xbox Magazine, Issue 113": "4460f06d-66d3-4072-8237-85d8d66950f1",
+    "Official Xbox Magazine, Issue 114": "c71dd480-e71b-4afd-84a3-43f5be7f0914",
+    "Official Xbox Magazine, Issue 115": "e3c07051-11e0-4e77-9380-429e20896219",
+    "Official Xbox Magazine, Issue 116": "6ec263d8-2c7f-4524-af73-8634235da117",
+    "Official Xbox Magazine, Issue 117": "6e284dc3-7594-4174-8d0f-91230da58ef5",
+    "Official Xbox Magazine, Issue 118": "bcb2d8ee-1b27-4169-8642-cdfa74de6cba",
+    "Official Xbox Magazine, Issue 119": "422327c5-4187-490b-a829-d023b1b9e586",
+    "Official Xbox Magazine, Issue 120": "54073f80-b8e2-495d-a880-09068ec2fa97",
+    "Official Xbox Magazine, Issue 121": "26c44562-cfdd-40eb-b2b8-262b41949e8e",
+    "Official Xbox Magazine, Issue 122": "b0af434b-5cac-48bc-a736-b0577ecc0c35",
+    "Official Xbox Magazine, Issue 123": "a64e1b7f-2007-45a8-a5bb-7171216d3ad3",
+    "Official Xbox Magazine, Issue 124": "0b0f938c-b972-4fac-965e-3979789ae096",
+    "Official Xbox Magazine, Issue 125": "f0695371-7ddd-4877-b255-6ec8f7185d1d",
+    "Official Xbox Magazine, Issue 126": "88587c78-4f5d-4bb2-ad04-bad13577d0f2",
+    "Official Xbox Magazine, Issue 127": "33e2679f-909e-4bc7-acb8-9e1890ea1b4c",
+    "Official Xbox Magazine, Issue 128": "a074e24d-03c5-4aae-8a55-0f7afeaa2911",
+    "Official Xbox Magazine, Issue 129": "df2edc59-e7d2-4585-8b94-dadec3546392",
+    "Official Xbox Magazine, Issue 130": "d113c1b8-eb42-4466-862e-e500971f9259",
+    "Official Xbox Magazine, Issue 131": "1d7eab99-8047-4354-8552-aa5c72c4e9ae",
+    "Official Xbox Magazine, Issue 132": "250cf50d-f5fb-40fa-9a38-a70292df4e2f",
+    "Official Xbox Magazine, Issue 133": "2936471d-4e24-4e19-9891-4136767d3588",
+    "Official Xbox Magazine, Special Preview Issue": "5f2bde2d-58f9-442e-b157-acb8ab8f6d1a",
+    "Official Xbox Magazine Special Issue, Holiday Preview Guide": "461538dc-cff8-4a0f-9a0e-873c9c03d987",
+    "Official Xbox Magazine Presents Zombies!": "d95e02f5-a24d-4e75-88b9-f2d8d8076570",
+    "Official Xbox Magazine special issues": "e4b7aabf-dbd7-47d1-bea4-cf9570da47ce",
+    "Xbox Cheat Guide, Volume 2": "c9d1f537-1269-40e7-bf5d-ed57b9698ed0",
+    "Xbox Live Gamer, Volume 1": "280a3cee-78a0-41c2-ae8f-cf887bd3242c"
+  }
+}

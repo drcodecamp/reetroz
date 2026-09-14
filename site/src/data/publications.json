@@ -978,10 +978,10 @@
     "items": 474
    }
   ],
-  "issues": 0,
-  "pages": 0,
-  "readable": 0,
-  "coverIssue": null
+  "issues": 1,
+  "pages": 64,
+  "readable": 1,
+  "coverIssue": "gamepro-1"
  },
  {
   "id": "games-for-windows",

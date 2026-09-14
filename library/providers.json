@@ -5,7 +5,7 @@
     "url": "https://www.cgwmuseum.org",
     "kind": "museum",
     "rights_default": "authorized",
-    "adapter": "download_cgw.py",
+    "adapter": "scripts/download_cgw.py",
     "credit": "Scans courtesy of the CGW Museum",
     "notes": "Hosts Computer Gaming World 1981-2006 plus Softline (1981-84), Computer Game Forum (1987) and Games for Windows (2006-08). Issue PDFs at /galleries/issues/<prefix>_<n>.pdf."
   },

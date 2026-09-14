@@ -1,0 +1,97 @@
+{
+  "provider": "vghf",
+  "folder_id": "b07b30eb-9b20-4cc2-94b2-ab2250a5c95b",
+  "url": "https://archive.gamehistory.org/folder/b07b30eb-9b20-4cc2-94b2-ab2250a5c95b",
+  "retrieved_at": "2026-09-13T22:47:27+00:00",
+  "expected": 5,
+  "count": 5,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "8e145048-e0fd-4e3e-98bc-e8179ef194ee",
+      "title": "Computer Game Entertainment, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8e145048-e0fd-4e3e-98bc-e8179ef194ee",
+      "number": "1"
+    },
+    {
+      "id": "032dfee1-26b0-4fb6-82bc-1e5561c6ca04",
+      "title": "Computer Game Entertainment, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1997",
+        "start": "1997-08",
+        "end": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/032dfee1-26b0-4fb6-82bc-1e5561c6ca04",
+      "number": "2"
+    },
+    {
+      "id": "d2f2639a-0de1-4e9e-a31a-aa016d154518",
+      "title": "Computer Game Entertainment, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d2f2639a-0de1-4e9e-a31a-aa016d154518",
+      "number": "3"
+    },
+    {
+      "id": "60bf74de-5fa6-4b72-8c6c-adfe132435b1",
+      "title": "Computer Game Entertainment, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/60bf74de-5fa6-4b72-8c6c-adfe132435b1",
+      "number": "4"
+    },
+    {
+      "id": "2e23c047-dc5b-4f4e-9876-e82a92ea0a8e",
+      "title": "Computer Game Entertainment, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. early 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/2e23c047-dc5b-4f4e-9876-e82a92ea0a8e",
+      "number": "5"
+    }
+  ],
+  "by_title": {
+    "Computer Game Entertainment, Issue 1": "8e145048-e0fd-4e3e-98bc-e8179ef194ee",
+    "Computer Game Entertainment, Issue 2": "032dfee1-26b0-4fb6-82bc-1e5561c6ca04",
+    "Computer Game Entertainment, Issue 3": "d2f2639a-0de1-4e9e-a31a-aa016d154518",
+    "Computer Game Entertainment, Issue 4": "60bf74de-5fa6-4b72-8c6c-adfe132435b1",
+    "Computer Game Entertainment, Issue 5": "2e23c047-dc5b-4f4e-9876-e82a92ea0a8e"
+  }
+}

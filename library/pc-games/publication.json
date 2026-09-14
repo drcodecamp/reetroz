@@ -38,7 +38,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/abbd549a-2caf-4632-bccb-0cb8c2fe27b2",
-      "date_range": "Fall 1988 – April 1999"
+      "date_range": "Fall 1988 – Spring/Summer 1992",
+      "items": 75
     }
   ],
   "stats": {
@@ -47,5 +48,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

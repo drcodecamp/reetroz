@@ -1,0 +1,61 @@
+{
+  "provider": "vghf",
+  "folder_id": "6187132e-315c-4be5-8498-8c55ac478ebe",
+  "url": "https://archive.gamehistory.org/folder/6187132e-315c-4be5-8498-8c55ac478ebe",
+  "retrieved_at": "2026-09-13T22:55:02+00:00",
+  "expected": 3,
+  "count": 3,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "b89883ed-27c0-4ee2-9978-7b6af493c351",
+      "title": "Imagine Town Magazine",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 2009",
+        "start": "2009-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/b89883ed-27c0-4ee2-9978-7b6af493c351",
+      "number": null
+    },
+    {
+      "id": "13ac8760-512b-4d18-8592-522d9097e63f",
+      "title": "Imagine Town Magazine",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2009",
+        "start": "2009-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/13ac8760-512b-4d18-8592-522d9097e63f",
+      "number": null
+    },
+    {
+      "id": "50780548-58c2-40ea-a30c-1fd0ab6ba471",
+      "title": "Game Candy",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "undated, distributed December/January 2009"
+      },
+      "url": "https://archive.gamehistory.org/item/50780548-58c2-40ea-a30c-1fd0ab6ba471",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Imagine Town Magazine": "13ac8760-512b-4d18-8592-522d9097e63f",
+    "Game Candy": "50780548-58c2-40ea-a30c-1fd0ab6ba471"
+  }
+}

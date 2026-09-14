@@ -1,0 +1,489 @@
+{
+  "provider": "vghf",
+  "folder_id": "b166d2f2-91e4-439f-9881-9dbd9faca78a",
+  "url": "https://archive.gamehistory.org/folder/b166d2f2-91e4-439f-9881-9dbd9faca78a",
+  "retrieved_at": "2026-09-13T22:55:13+00:00",
+  "expected": 28,
+  "count": 28,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "57e5e6ee-90bf-419b-a818-096e4cb0f6a9",
+      "title": "Sierra News Magazine, Volume 3, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1990",
+        "start": "1990-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/57e5e6ee-90bf-419b-a818-096e4cb0f6a9",
+      "number": null
+    },
+    {
+      "id": "bc1bf26e-4d9b-4fd2-ab04-fd094b5325aa",
+      "title": "Sierra News Magazine, Volume 3, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1990",
+        "start": "1990-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/bc1bf26e-4d9b-4fd2-ab04-fd094b5325aa",
+      "number": null
+    },
+    {
+      "id": "31fc1b2d-3aba-4763-9526-979c71da048e",
+      "title": "InterAction, Premiere Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1991",
+        "start": "1991-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/31fc1b2d-3aba-4763-9526-979c71da048e",
+      "number": null
+    },
+    {
+      "id": "8261d307-0913-4dfc-b5b8-af76ecdaea41",
+      "title": "InterAction, Volume 5, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1992",
+        "start": "1992-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/8261d307-0913-4dfc-b5b8-af76ecdaea41",
+      "number": null
+    },
+    {
+      "id": "bb9e671d-aa87-425b-9082-27a682bbf8e2",
+      "title": "InterAction, Volume 5, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1992",
+        "start": "1992-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/bb9e671d-aa87-425b-9082-27a682bbf8e2",
+      "number": null
+    },
+    {
+      "id": "9d2196ff-4a94-44f8-9200-a2ed7b7fed87",
+      "title": "InterAction, Volume 5, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1992",
+        "start": "1992-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/9d2196ff-4a94-44f8-9200-a2ed7b7fed87",
+      "number": null
+    },
+    {
+      "id": "9f016533-f832-44f3-b97c-d599875a3604",
+      "title": "InterAction, Volume 5, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1992",
+        "start": "1992-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/9f016533-f832-44f3-b97c-d599875a3604",
+      "number": null
+    },
+    {
+      "id": "6d71244d-430f-4b82-b01e-4db64eca0604",
+      "title": "InterAction, Volume 6, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1993",
+        "start": "1993-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/6d71244d-430f-4b82-b01e-4db64eca0604",
+      "number": null
+    },
+    {
+      "id": "33507256-ea39-49b3-9344-e740324df4af",
+      "title": "InterAction, Volume 6, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1993",
+        "start": "1993-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/33507256-ea39-49b3-9344-e740324df4af",
+      "number": null
+    },
+    {
+      "id": "7af7e234-23bd-4371-bd9e-3ba2811e399e",
+      "title": "InterAction, Volume 6, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 1993",
+        "start": "1993-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/7af7e234-23bd-4371-bd9e-3ba2811e399e",
+      "number": null
+    },
+    {
+      "id": "a3c789b0-4498-4228-87a6-10640fe1d32d",
+      "title": "InterAction, Volume 6, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1994",
+        "start": "1994-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/a3c789b0-4498-4228-87a6-10640fe1d32d",
+      "number": null
+    },
+    {
+      "id": "e094a386-9724-48e3-ba4d-e7802f606f45",
+      "title": "InterAction, Volume 7, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1994",
+        "start": "1994-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e094a386-9724-48e3-ba4d-e7802f606f45",
+      "number": null
+    },
+    {
+      "id": "357898a6-3780-433b-b987-959ab79c85e3",
+      "title": "InterAction, Volume 7, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 1994",
+        "start": "1994-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/357898a6-3780-433b-b987-959ab79c85e3",
+      "number": null
+    },
+    {
+      "id": "32dc74ac-241a-46e9-96af-92af600e6966",
+      "title": "InterAction, Volume 8, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1995",
+        "start": "1995-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/32dc74ac-241a-46e9-96af-92af600e6966",
+      "number": null
+    },
+    {
+      "id": "60677a4f-f0b3-4014-9d2b-b8d47607d4a6",
+      "title": "InterAction, Volume 8, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1995",
+        "start": "1995-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/60677a4f-f0b3-4014-9d2b-b8d47607d4a6",
+      "number": null
+    },
+    {
+      "id": "5c9ab939-0a42-403c-94be-97521aab15aa",
+      "title": "InterAction, Volume 8, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 1995",
+        "start": "1995-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/5c9ab939-0a42-403c-94be-97521aab15aa",
+      "number": null
+    },
+    {
+      "id": "56869957-d2ab-43a4-8ddd-89b558dd55f8",
+      "title": "InterAction, Volume 9, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1996",
+        "start": "1996-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/56869957-d2ab-43a4-8ddd-89b558dd55f8",
+      "number": null
+    },
+    {
+      "id": "91dc6688-2c06-44c7-a3a7-56eac3fe1c49",
+      "title": "InterAction, Volume 9, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1996",
+        "start": "1996-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/91dc6688-2c06-44c7-a3a7-56eac3fe1c49",
+      "number": null
+    },
+    {
+      "id": "27a632e1-e7e1-47e3-82ae-abcc34fca395",
+      "title": "InterAction, Volume 9, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1996",
+        "start": "1996-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/27a632e1-e7e1-47e3-82ae-abcc34fca395",
+      "number": null
+    },
+    {
+      "id": "45be9f85-311e-4522-b1d4-0b720aee7a3c",
+      "title": "InterAction, Volume 9, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 1996",
+        "start": "1996-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/45be9f85-311e-4522-b1d4-0b720aee7a3c",
+      "number": null
+    },
+    {
+      "id": "175ae582-c37e-4235-b499-7391e4657fdf",
+      "title": "InterAction, Volume 10, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1997",
+        "start": "1997-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/175ae582-c37e-4235-b499-7391e4657fdf",
+      "number": null
+    },
+    {
+      "id": "32c14b2c-4b77-444b-8178-37217bf774f5",
+      "title": "InterAction, Volume 10, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1997",
+        "start": "1997-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/32c14b2c-4b77-444b-8178-37217bf774f5",
+      "number": null
+    },
+    {
+      "id": "deabc4d3-5a13-4b82-9859-b39d67d47f9a",
+      "title": "InterAction, Volume 10, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1997",
+        "start": "1997-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/deabc4d3-5a13-4b82-9859-b39d67d47f9a",
+      "number": null
+    },
+    {
+      "id": "ea667812-8f2b-4a18-a114-48819776131e",
+      "title": "InterAction, Volume 10, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 1997",
+        "start": "1997-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/ea667812-8f2b-4a18-a114-48819776131e",
+      "number": null
+    },
+    {
+      "id": "19a755ce-a7e7-4338-99b7-d9ca3f24197c",
+      "title": "InterAction, Volume 11, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1998",
+        "start": "1998-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/19a755ce-a7e7-4338-99b7-d9ca3f24197c",
+      "number": null
+    },
+    {
+      "id": "3abca386-a52c-4fd0-894a-b5cb48758c2b",
+      "title": "InterAction, Volume 11, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1998",
+        "start": "1998-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/3abca386-a52c-4fd0-894a-b5cb48758c2b",
+      "number": null
+    },
+    {
+      "id": "38abf0ee-8d9b-458c-97c0-50456ad19cd5",
+      "title": "InterAction, Volume 11, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 1998",
+        "start": "1998-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/38abf0ee-8d9b-458c-97c0-50456ad19cd5",
+      "number": null
+    },
+    {
+      "id": "939596d1-4522-44e0-b792-aa9d1ec9f801",
+      "title": "InterAction, Volume 12, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1999",
+        "start": "1999-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/939596d1-4522-44e0-b792-aa9d1ec9f801",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Sierra News Magazine, Volume 3, Number 1": "57e5e6ee-90bf-419b-a818-096e4cb0f6a9",
+    "Sierra News Magazine, Volume 3, Number 2": "bc1bf26e-4d9b-4fd2-ab04-fd094b5325aa",
+    "InterAction, Premiere Issue": "31fc1b2d-3aba-4763-9526-979c71da048e",
+    "InterAction, Volume 5, Number 1": "8261d307-0913-4dfc-b5b8-af76ecdaea41",
+    "InterAction, Volume 5, Number 2": "bb9e671d-aa87-425b-9082-27a682bbf8e2",
+    "InterAction, Volume 5, Number 3": "9d2196ff-4a94-44f8-9200-a2ed7b7fed87",
+    "InterAction, Volume 5, Number 4": "9f016533-f832-44f3-b97c-d599875a3604",
+    "InterAction, Volume 6, Number 1": "6d71244d-430f-4b82-b01e-4db64eca0604",
+    "InterAction, Volume 6, Number 2": "33507256-ea39-49b3-9344-e740324df4af",
+    "InterAction, Volume 6, Number 3": "7af7e234-23bd-4371-bd9e-3ba2811e399e",
+    "InterAction, Volume 6, Number 4": "a3c789b0-4498-4228-87a6-10640fe1d32d",
+    "InterAction, Volume 7, Number 1": "e094a386-9724-48e3-ba4d-e7802f606f45",
+    "InterAction, Volume 7, Number 2": "357898a6-3780-433b-b987-959ab79c85e3",
+    "InterAction, Volume 8, Number 1": "32dc74ac-241a-46e9-96af-92af600e6966",
+    "InterAction, Volume 8, Number 2": "60677a4f-f0b3-4014-9d2b-b8d47607d4a6",
+    "InterAction, Volume 8, Number 3": "5c9ab939-0a42-403c-94be-97521aab15aa",
+    "InterAction, Volume 9, Number 1": "56869957-d2ab-43a4-8ddd-89b558dd55f8",
+    "InterAction, Volume 9, Number 2": "91dc6688-2c06-44c7-a3a7-56eac3fe1c49",
+    "InterAction, Volume 9, Number 3": "27a632e1-e7e1-47e3-82ae-abcc34fca395",
+    "InterAction, Volume 9, Number 4": "45be9f85-311e-4522-b1d4-0b720aee7a3c",
+    "InterAction, Volume 10, Number 1": "175ae582-c37e-4235-b499-7391e4657fdf",
+    "InterAction, Volume 10, Number 2": "32c14b2c-4b77-444b-8178-37217bf774f5",
+    "InterAction, Volume 10, Number 3": "deabc4d3-5a13-4b82-9859-b39d67d47f9a",
+    "InterAction, Volume 10, Number 4": "ea667812-8f2b-4a18-a114-48819776131e",
+    "InterAction, Volume 11, Number 1": "19a755ce-a7e7-4338-99b7-d9ca3f24197c",
+    "InterAction, Volume 11, Number 2": "3abca386-a52c-4fd0-894a-b5cb48758c2b",
+    "InterAction, Volume 11, Number 4": "38abf0ee-8d9b-458c-97c0-50456ad19cd5",
+    "InterAction, Volume 12, Number 1": "939596d1-4522-44e0-b792-aa9d1ec9f801"
+  }
+}

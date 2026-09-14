@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/480eeb97-bb01-457d-a439-4ed1866b0e4f",
-      "date_range": "July 2010 – December 2014"
+      "date_range": "July/August 2010 – October 2013",
+      "items": 32
     },
     {
       "provider": "internet-archive",
@@ -50,6 +51,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Sold through Best Buy."
 }

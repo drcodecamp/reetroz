@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/db7773e7-2f43-4581-8d57-0ec83281ed8b",
-      "date_range": "February–August 1983"
+      "date_range": "February 1983 – August 1983",
+      "items": 7
     },
     {
       "provider": "internet-archive",
@@ -50,5 +51,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

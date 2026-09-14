@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/00855151-bc1a-4b0a-9189-d64f74179869",
-      "date_range": "1998–2001"
+      "date_range": "Fall 2001 / Holiday 2001 – est. late 1998",
+      "items": 2
     }
   ],
   "stats": {
@@ -44,5 +45,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

@@ -36,7 +36,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/4409f093-cafb-4bc5-b9b0-cacc3a651e87",
-      "date_range": "November 2001 – May 2020"
+      "date_range": "May 2001 – est. late 2004",
+      "items": 139
     }
   ],
   "stats": {
@@ -45,5 +46,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

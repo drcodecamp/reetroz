@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/8dbeecd0-31ca-4fbe-bcb7-3a59932900bd",
-      "date_range": "January 2012 – January 2024"
+      "date_range": "2017 – 2012–2023",
+      "items": 93
     }
   ],
   "stats": {
@@ -44,6 +45,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Retail giveaway magazine."
 }

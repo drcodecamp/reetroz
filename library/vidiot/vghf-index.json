@@ -1,0 +1,103 @@
+{
+  "provider": "vghf",
+  "folder_id": "bd578486-2087-4b74-b50a-4a994e16b8e3",
+  "url": "https://archive.gamehistory.org/folder/bd578486-2087-4b74-b50a-4a994e16b8e3",
+  "retrieved_at": "2026-09-13T23:00:54+00:00",
+  "expected": 5,
+  "count": 5,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "a6a82841-e44f-4e5e-a5ce-18235d10c825",
+      "title": "Creem Special Edition: Vidiot",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 1982",
+        "start": "1982-09",
+        "end": "1982-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a6a82841-e44f-4e5e-a5ce-18235d10c825",
+      "number": null
+    },
+    {
+      "id": "b4ecf47e-6792-4edb-892e-131ede196c84",
+      "title": "Vidiot, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1983",
+        "start": "1983-02",
+        "end": "1983-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b4ecf47e-6792-4edb-892e-131ede196c84",
+      "number": null
+    },
+    {
+      "id": "eceb0665-9b31-4c69-943d-5888dbd0c117",
+      "title": "Vidiot, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1983",
+        "start": "1983-04",
+        "end": "1983-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eceb0665-9b31-4c69-943d-5888dbd0c117",
+      "number": null
+    },
+    {
+      "id": "7adf9ec9-6aff-4712-bbe7-df44a2e99e02",
+      "title": "Vidiot, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1983",
+        "start": "1983-06",
+        "end": "1983-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7adf9ec9-6aff-4712-bbe7-df44a2e99e02",
+      "number": null
+    },
+    {
+      "id": "f8b4cb15-cb81-43af-9f9c-55197a68819b",
+      "title": "Vidiot, Volume 1, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1983",
+        "start": "1983-08",
+        "end": "1983-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8b4cb15-cb81-43af-9f9c-55197a68819b",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Creem Special Edition: Vidiot": "a6a82841-e44f-4e5e-a5ce-18235d10c825",
+    "Vidiot, Volume 1, Number 2": "b4ecf47e-6792-4edb-892e-131ede196c84",
+    "Vidiot, Volume 1, Number 3": "eceb0665-9b31-4c69-943d-5888dbd0c117",
+    "Vidiot, Volume 1, Number 4": "7adf9ec9-6aff-4712-bbe7-df44a2e99e02",
+    "Vidiot, Volume 1, Number 5": "f8b4cb15-cb81-43af-9f9c-55197a68819b"
+  }
+}

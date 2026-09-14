@@ -1,0 +1,681 @@
+{
+  "provider": "vghf",
+  "folder_id": "aa6d2346-0750-4f14-9944-92b00365261a",
+  "url": "https://archive.gamehistory.org/folder/aa6d2346-0750-4f14-9944-92b00365261a",
+  "retrieved_at": "2026-09-13T22:48:55+00:00",
+  "expected": 33,
+  "count": 40,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "86591fbb-fb4c-446e-a7f4-385bcfbadbe3",
+      "title": "Develop, Issue 134",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2012 / January 2013"
+      },
+      "url": "https://archive.gamehistory.org/item/86591fbb-fb4c-446e-a7f4-385bcfbadbe3",
+      "number": "134"
+    },
+    {
+      "id": "06597ec3-901a-4412-875a-ade91a12dfa4",
+      "title": "Develop, Issue 144",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2013",
+        "start": "2013-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/06597ec3-901a-4412-875a-ade91a12dfa4",
+      "number": "144"
+    },
+    {
+      "id": "48ad051c-a900-4b36-ba4c-f6865b19236f",
+      "title": "Develop, Issue 145",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2013 / January 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/48ad051c-a900-4b36-ba4c-f6865b19236f",
+      "number": "145"
+    },
+    {
+      "id": "98e57d2f-4894-4021-8346-d8e5fe7a2116",
+      "title": "Develop, Issue 146",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2014",
+        "start": "2014-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/98e57d2f-4894-4021-8346-d8e5fe7a2116",
+      "number": "146"
+    },
+    {
+      "id": "0299a7b5-87ba-4f9c-b6d6-14bd606f2e2b",
+      "title": "Develop, Issue 147",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2014",
+        "start": "2014-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0299a7b5-87ba-4f9c-b6d6-14bd606f2e2b",
+      "number": "147"
+    },
+    {
+      "id": "f539cdba-18dd-4565-8a40-42b4e4c8e8c5",
+      "title": "Develop, Issue 149",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2014",
+        "start": "2014-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f539cdba-18dd-4565-8a40-42b4e4c8e8c5",
+      "number": "149"
+    },
+    {
+      "id": "abd4debb-ce6e-404a-8416-33f8faea6f13",
+      "title": "Develop, Issue 150",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2014",
+        "start": "2014-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/abd4debb-ce6e-404a-8416-33f8faea6f13",
+      "number": "150"
+    },
+    {
+      "id": "37619683-799b-4ea4-a7c0-425ab41a735b",
+      "title": "Develop, Issue 151",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2014",
+        "start": "2014-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/37619683-799b-4ea4-a7c0-425ab41a735b",
+      "number": "151"
+    },
+    {
+      "id": "86deb539-9e14-4267-af61-452a537ad6a1",
+      "title": "Develop, Issue 152",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2014",
+        "start": "2014-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/86deb539-9e14-4267-af61-452a537ad6a1",
+      "number": "152"
+    },
+    {
+      "id": "307e9c3b-ec4c-4f86-9670-65f690cb997d",
+      "title": "Develop, Issue 153",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2014",
+        "start": "2014-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/307e9c3b-ec4c-4f86-9670-65f690cb997d",
+      "number": "153"
+    },
+    {
+      "id": "2964150e-e2eb-4121-9c6e-0c00d57543ef",
+      "title": "Develop, Issue 154",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2014",
+        "start": "2014-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2964150e-e2eb-4121-9c6e-0c00d57543ef",
+      "number": "154"
+    },
+    {
+      "id": "5d9aed18-f860-4424-bec1-496faf733dd2",
+      "title": "Develop, Issue 155",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2014",
+        "start": "2014-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5d9aed18-f860-4424-bec1-496faf733dd2",
+      "number": "155"
+    },
+    {
+      "id": "7a4b4cf2-0b65-4694-9d03-5597e7303dc6",
+      "title": "Develop, Issue 156",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2014 / January 2015"
+      },
+      "url": "https://archive.gamehistory.org/item/7a4b4cf2-0b65-4694-9d03-5597e7303dc6",
+      "number": "156"
+    },
+    {
+      "id": "fb696d11-afbb-48a3-b627-4bac0f6a98fe",
+      "title": "Develop, Issue 157",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2015",
+        "start": "2015-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb696d11-afbb-48a3-b627-4bac0f6a98fe",
+      "number": "157"
+    },
+    {
+      "id": "299d8329-a31a-4d86-8cf6-a6644d195aef",
+      "title": "Develop, Issue 158",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2015",
+        "start": "2015-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/299d8329-a31a-4d86-8cf6-a6644d195aef",
+      "number": "158"
+    },
+    {
+      "id": "31007772-1f72-4811-a5df-5c541c11ec9a",
+      "title": "Develop, Issue 159",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2015",
+        "start": "2015-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/31007772-1f72-4811-a5df-5c541c11ec9a",
+      "number": "159"
+    },
+    {
+      "id": "46d79a6e-09f1-4c5c-9bda-b73b1aac90a6",
+      "title": "Develop, Issue 160",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2015",
+        "start": "2015-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/46d79a6e-09f1-4c5c-9bda-b73b1aac90a6",
+      "number": "160"
+    },
+    {
+      "id": "9982208e-c3d7-44ae-b199-168c13b91e90",
+      "title": "Develop, Issue 161",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2015",
+        "start": "2015-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9982208e-c3d7-44ae-b199-168c13b91e90",
+      "number": "161"
+    },
+    {
+      "id": "3df88025-4e41-434b-8754-78cdd3fa50d4",
+      "title": "Develop, Issue 162",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2015",
+        "start": "2015-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3df88025-4e41-434b-8754-78cdd3fa50d4",
+      "number": "162"
+    },
+    {
+      "id": "41db2fe2-4358-4b8e-a33c-3ccd1160f5df",
+      "title": "Develop, Issue 163",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2015",
+        "start": "2015-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/41db2fe2-4358-4b8e-a33c-3ccd1160f5df",
+      "number": "163"
+    },
+    {
+      "id": "ef6abac5-c864-4be4-a063-b3f21d9de524",
+      "title": "Develop, Issue 164",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2015",
+        "start": "2015-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ef6abac5-c864-4be4-a063-b3f21d9de524",
+      "number": "164"
+    },
+    {
+      "id": "3123fe40-953c-4308-ab3f-4ef12a762943",
+      "title": "Develop, Issue 165",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2015",
+        "start": "2015-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3123fe40-953c-4308-ab3f-4ef12a762943",
+      "number": "165"
+    },
+    {
+      "id": "9d001a5d-7e10-45b8-8bbc-0deee283eb1f",
+      "title": "Develop, Issue 166",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2015",
+        "start": "2015-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d001a5d-7e10-45b8-8bbc-0deee283eb1f",
+      "number": "166"
+    },
+    {
+      "id": "5c52f82c-43d8-40f0-85e8-4f0e22f77006",
+      "title": "Develop, Issue 167",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2015 / January 2016"
+      },
+      "url": "https://archive.gamehistory.org/item/5c52f82c-43d8-40f0-85e8-4f0e22f77006",
+      "number": "167"
+    },
+    {
+      "id": "8d90b324-71a3-4b8e-ab99-08271ecfea36",
+      "title": "Develop, Issue 168",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2016",
+        "start": "2016-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8d90b324-71a3-4b8e-ab99-08271ecfea36",
+      "number": "168"
+    },
+    {
+      "id": "8b340d45-8ef7-45b4-b11f-21ef601f7332",
+      "title": "Develop, Issue 169",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2016",
+        "start": "2016-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8b340d45-8ef7-45b4-b11f-21ef601f7332",
+      "number": "169"
+    },
+    {
+      "id": "36232aa8-a579-4014-984b-8028d5b5c46e",
+      "title": "Develop, Issue 170",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2016",
+        "start": "2016-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36232aa8-a579-4014-984b-8028d5b5c46e",
+      "number": "170"
+    },
+    {
+      "id": "3289fba1-0bf7-4382-a33f-db7c3ef315dc",
+      "title": "Develop, Issue 171",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2016",
+        "start": "2016-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3289fba1-0bf7-4382-a33f-db7c3ef315dc",
+      "number": "171"
+    },
+    {
+      "id": "7a7d9365-3857-4db2-9730-0801ae6e1f30",
+      "title": "Develop, Issue 172",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2016",
+        "start": "2016-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7a7d9365-3857-4db2-9730-0801ae6e1f30",
+      "number": "172"
+    },
+    {
+      "id": "48da6770-0674-4934-b017-1d02eff41ea5",
+      "title": "Develop, Issue 173",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2016",
+        "start": "2016-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/48da6770-0674-4934-b017-1d02eff41ea5",
+      "number": "173"
+    },
+    {
+      "id": "94a0da0b-67b0-4186-8127-19a917144ec5",
+      "title": "Develop, Issue 174",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2016",
+        "start": "2016-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/94a0da0b-67b0-4186-8127-19a917144ec5",
+      "number": "174"
+    },
+    {
+      "id": "fb9958e9-c28b-4734-8420-1b5ff9fbdd0b",
+      "title": "Develop, Issue 175",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2016",
+        "start": "2016-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb9958e9-c28b-4734-8420-1b5ff9fbdd0b",
+      "number": "175"
+    },
+    {
+      "id": "9c683cdd-7cd3-47fa-811c-fb3bb8d27cf3",
+      "title": "Develop 100, 2013 Edition, Volume 1, UK Studio Hotlist",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "zip"
+      ],
+      "date": {
+        "display": "2013",
+        "start": "2013",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/9c683cdd-7cd3-47fa-811c-fb3bb8d27cf3",
+      "number": null,
+      "parent_id": "aa9c3c79-10a1-4bba-951f-711e914c566a"
+    },
+    {
+      "id": "f19e9c11-7058-4c20-bf46-216cc3599b10",
+      "title": "Develop 100, 2013 Edition, Volume 2, European Start-ups",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2013",
+        "start": "2013",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/f19e9c11-7058-4c20-bf46-216cc3599b10",
+      "number": null,
+      "parent_id": "aa9c3c79-10a1-4bba-951f-711e914c566a"
+    },
+    {
+      "id": "1929dad1-a08e-41a9-8672-daaaa15e29a0",
+      "title": "Develop 100, 2014 Edition, Volume 1, Ones to Watch",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2014",
+        "start": "2014",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/1929dad1-a08e-41a9-8672-daaaa15e29a0",
+      "number": null,
+      "parent_id": "aa9c3c79-10a1-4bba-951f-711e914c566a"
+    },
+    {
+      "id": "36a31d6d-5952-431e-98ab-b1fc37b8964f",
+      "title": "Develop 100 2015, The Studio Hot List",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2015",
+        "start": "2015",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/36a31d6d-5952-431e-98ab-b1fc37b8964f",
+      "number": null,
+      "parent_id": "aa9c3c79-10a1-4bba-951f-711e914c566a"
+    },
+    {
+      "id": "aa9c3c79-10a1-4bba-951f-711e914c566a",
+      "title": "Develop 100 annual specials",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "2013–2015"
+      },
+      "url": "https://archive.gamehistory.org/folder/aa9c3c79-10a1-4bba-951f-711e914c566a",
+      "number": null,
+      "parent_id": "e7fe5d42-0462-4ce1-9629-7f1152f3b1bc"
+    },
+    {
+      "id": "0b9185df-34ed-4fe9-849a-f83d49f053bc",
+      "title": "Develop 100 award badge source images",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "png",
+        "png"
+      ],
+      "date": {
+        "display": "circa 2013 or 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/0b9185df-34ed-4fe9-849a-f83d49f053bc",
+      "number": null,
+      "parent_id": "aa9c3c79-10a1-4bba-951f-711e914c566a"
+    },
+    {
+      "id": "c8257704-7dff-4f9a-a9b4-9fc0ee55481e",
+      "title": "Develop Industry Excellent Awards 2014 supplement",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. July 2014"
+      },
+      "url": "https://archive.gamehistory.org/item/c8257704-7dff-4f9a-a9b4-9fc0ee55481e",
+      "number": null,
+      "parent_id": "e7fe5d42-0462-4ce1-9629-7f1152f3b1bc"
+    },
+    {
+      "id": "e7fe5d42-0462-4ce1-9629-7f1152f3b1bc",
+      "title": "Develop special issues and supplements",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/e7fe5d42-0462-4ce1-9629-7f1152f3b1bc",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Develop, Issue 134": "86591fbb-fb4c-446e-a7f4-385bcfbadbe3",
+    "Develop, Issue 144": "06597ec3-901a-4412-875a-ade91a12dfa4",
+    "Develop, Issue 145": "48ad051c-a900-4b36-ba4c-f6865b19236f",
+    "Develop, Issue 146": "98e57d2f-4894-4021-8346-d8e5fe7a2116",
+    "Develop, Issue 147": "0299a7b5-87ba-4f9c-b6d6-14bd606f2e2b",
+    "Develop, Issue 149": "f539cdba-18dd-4565-8a40-42b4e4c8e8c5",
+    "Develop, Issue 150": "abd4debb-ce6e-404a-8416-33f8faea6f13",
+    "Develop, Issue 151": "37619683-799b-4ea4-a7c0-425ab41a735b",
+    "Develop, Issue 152": "86deb539-9e14-4267-af61-452a537ad6a1",
+    "Develop, Issue 153": "307e9c3b-ec4c-4f86-9670-65f690cb997d",
+    "Develop, Issue 154": "2964150e-e2eb-4121-9c6e-0c00d57543ef",
+    "Develop, Issue 155": "5d9aed18-f860-4424-bec1-496faf733dd2",
+    "Develop, Issue 156": "7a4b4cf2-0b65-4694-9d03-5597e7303dc6",
+    "Develop, Issue 157": "fb696d11-afbb-48a3-b627-4bac0f6a98fe",
+    "Develop, Issue 158": "299d8329-a31a-4d86-8cf6-a6644d195aef",
+    "Develop, Issue 159": "31007772-1f72-4811-a5df-5c541c11ec9a",
+    "Develop, Issue 160": "46d79a6e-09f1-4c5c-9bda-b73b1aac90a6",
+    "Develop, Issue 161": "9982208e-c3d7-44ae-b199-168c13b91e90",
+    "Develop, Issue 162": "3df88025-4e41-434b-8754-78cdd3fa50d4",
+    "Develop, Issue 163": "41db2fe2-4358-4b8e-a33c-3ccd1160f5df",
+    "Develop, Issue 164": "ef6abac5-c864-4be4-a063-b3f21d9de524",
+    "Develop, Issue 165": "3123fe40-953c-4308-ab3f-4ef12a762943",
+    "Develop, Issue 166": "9d001a5d-7e10-45b8-8bbc-0deee283eb1f",
+    "Develop, Issue 167": "5c52f82c-43d8-40f0-85e8-4f0e22f77006",
+    "Develop, Issue 168": "8d90b324-71a3-4b8e-ab99-08271ecfea36",
+    "Develop, Issue 169": "8b340d45-8ef7-45b4-b11f-21ef601f7332",
+    "Develop, Issue 170": "36232aa8-a579-4014-984b-8028d5b5c46e",
+    "Develop, Issue 171": "3289fba1-0bf7-4382-a33f-db7c3ef315dc",
+    "Develop, Issue 172": "7a7d9365-3857-4db2-9730-0801ae6e1f30",
+    "Develop, Issue 173": "48da6770-0674-4934-b017-1d02eff41ea5",
+    "Develop, Issue 174": "94a0da0b-67b0-4186-8127-19a917144ec5",
+    "Develop, Issue 175": "fb9958e9-c28b-4734-8420-1b5ff9fbdd0b",
+    "Develop 100, 2013 Edition, Volume 1, UK Studio Hotlist": "9c683cdd-7cd3-47fa-811c-fb3bb8d27cf3",
+    "Develop 100, 2013 Edition, Volume 2, European Start-ups": "f19e9c11-7058-4c20-bf46-216cc3599b10",
+    "Develop 100, 2014 Edition, Volume 1, Ones to Watch": "1929dad1-a08e-41a9-8672-daaaa15e29a0",
+    "Develop 100 2015, The Studio Hot List": "36a31d6d-5952-431e-98ab-b1fc37b8964f",
+    "Develop 100 annual specials": "aa9c3c79-10a1-4bba-951f-711e914c566a",
+    "Develop 100 award badge source images": "0b9185df-34ed-4fe9-849a-f83d49f053bc",
+    "Develop Industry Excellent Awards 2014 supplement": "c8257704-7dff-4f9a-a9b4-9fc0ee55481e",
+    "Develop special issues and supplements": "e7fe5d42-0462-4ce1-9629-7f1152f3b1bc"
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "provider": "vghf",
+  "folder_id": "f33a27b0-c20f-4214-92d5-d85629733ed9",
+  "url": "https://archive.gamehistory.org/folder/f33a27b0-c20f-4214-92d5-d85629733ed9",
+  "retrieved_at": "2026-09-13T22:56:03+00:00",
+  "expected": 35,
+  "count": 35,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "56746733-61d4-41b8-8bb9-c6cdf58e7d17",
+      "title": "Mean Machines Sega, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1992",
+        "start": "1992-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/56746733-61d4-41b8-8bb9-c6cdf58e7d17",
+      "number": null
+    },
+    {
+      "id": "2208fba6-447d-432d-8123-13381700ba51",
+      "title": "Mean Machines Sega, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1992",
+        "start": "1992-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2208fba6-447d-432d-8123-13381700ba51",
+      "number": null
+    },
+    {
+      "id": "771205c2-7890-4d7b-804b-005616f4ff39",
+      "title": "Mean Machines Sega, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1992",
+        "start": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/771205c2-7890-4d7b-804b-005616f4ff39",
+      "number": null
+    },
+    {
+      "id": "63b8833a-3c57-472c-bf1e-dd40088d470d",
+      "title": "Mean Machines Sega, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/63b8833a-3c57-472c-bf1e-dd40088d470d",
+      "number": null
+    },
+    {
+      "id": "008ed8fc-9578-4bfc-9aee-9e26b2ed4f1b",
+      "title": "Mean Machines Sega, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1993",
+        "start": "1993-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/008ed8fc-9578-4bfc-9aee-9e26b2ed4f1b",
+      "number": null
+    },
+    {
+      "id": "75e63a89-3cea-431b-a7be-2d9668f47ab5",
+      "title": "Mean Machines Sega, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1993",
+        "start": "1993-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/75e63a89-3cea-431b-a7be-2d9668f47ab5",
+      "number": null
+    },
+    {
+      "id": "10ad3191-0510-4851-9581-5da77672f76e",
+      "title": "Mean Machines Sega, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1993",
+        "start": "1993-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/10ad3191-0510-4851-9581-5da77672f76e",
+      "number": null
+    },
+    {
+      "id": "e9dcc61c-b6f8-41a0-9deb-769553672ae4",
+      "title": "Mean Machines Sega, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1993",
+        "start": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e9dcc61c-b6f8-41a0-9deb-769553672ae4",
+      "number": null
+    },
+    {
+      "id": "f8da689e-e0ac-4050-9f2a-5adf5695e40b",
+      "title": "Mean Machines Sega, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1993",
+        "start": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8da689e-e0ac-4050-9f2a-5adf5695e40b",
+      "number": null
+    },
+    {
+      "id": "f9446474-8967-4613-b5e7-ffd198ab34b5",
+      "title": "Mean Machines Sega, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1993",
+        "start": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f9446474-8967-4613-b5e7-ffd198ab34b5",
+      "number": null
+    },
+    {
+      "id": "77c6f137-41a3-49f6-b48e-5604f08ba427",
+      "title": "Mean Machines Sega, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1993",
+        "start": "1993-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77c6f137-41a3-49f6-b48e-5604f08ba427",
+      "number": null
+    },
+    {
+      "id": "53ed2c3f-c3c2-4017-9044-ad985b14438d",
+      "title": "Mean Machines Sega, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1993",
+        "start": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/53ed2c3f-c3c2-4017-9044-ad985b14438d",
+      "number": null
+    },
+    {
+      "id": "7fc314e8-175b-4c32-a5b3-5a5fb9bd48dc",
+      "title": "Mean Machines Sega, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1993",
+        "start": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7fc314e8-175b-4c32-a5b3-5a5fb9bd48dc",
+      "number": null
+    },
+    {
+      "id": "4e10d02b-6a7e-442b-8830-0d0d5435618e",
+      "title": "Mean Machines Sega, Number 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1993",
+        "start": "1993-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4e10d02b-6a7e-442b-8830-0d0d5435618e",
+      "number": null
+    },
+    {
+      "id": "466a7fe3-966a-4c9b-9913-c93d4955bc65",
+      "title": "Mean Machines Sega, Number 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/466a7fe3-966a-4c9b-9913-c93d4955bc65",
+      "number": null
+    },
+    {
+      "id": "49ecb0e8-ecd8-43a0-9ddd-fd3276b6351b",
+      "title": "Mean Machines Sega, Number 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1994",
+        "start": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/49ecb0e8-ecd8-43a0-9ddd-fd3276b6351b",
+      "number": null
+    },
+    {
+      "id": "902b850a-5215-4930-8084-479e647fbb77",
+      "title": "Mean Machines Sega, Number 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/902b850a-5215-4930-8084-479e647fbb77",
+      "number": null
+    },
+    {
+      "id": "7f99d44d-ff0f-4081-b70c-0f2ae1594507",
+      "title": "Mean Machines Sega, Number 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7f99d44d-ff0f-4081-b70c-0f2ae1594507",
+      "number": null
+    },
+    {
+      "id": "9fa0612a-31da-4762-a26b-a950eaeaff9c",
+      "title": "Mean Machines Sega, Number 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9fa0612a-31da-4762-a26b-a950eaeaff9c",
+      "number": null
+    },
+    {
+      "id": "2f7c8d37-f3ea-46c7-adc9-13f89ca0d0f6",
+      "title": "Mean Machines Sega, Number 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2f7c8d37-f3ea-46c7-adc9-13f89ca0d0f6",
+      "number": null
+    },
+    {
+      "id": "c0196d0c-4e3d-4ea7-9b65-cd6d16e31f2a",
+      "title": "Mean Machines Sega, Number 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0196d0c-4e3d-4ea7-9b65-cd6d16e31f2a",
+      "number": null
+    },
+    {
+      "id": "b63bb7bf-f0ee-4760-af5b-28563ffacdff",
+      "title": "Mean Machines Sega, Number 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b63bb7bf-f0ee-4760-af5b-28563ffacdff",
+      "number": null
+    },
+    {
+      "id": "93cee91d-e87e-4195-902e-545333b2234b",
+      "title": "Mean Machines Sega, Number 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93cee91d-e87e-4195-902e-545333b2234b",
+      "number": null
+    },
+    {
+      "id": "ba3336ce-d9be-4471-8963-bf80316a5b45",
+      "title": "Mean Machines Sega, Number 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ba3336ce-d9be-4471-8963-bf80316a5b45",
+      "number": null
+    },
+    {
+      "id": "379ac1a2-877f-436c-a616-04e8ad513301",
+      "title": "Mean Machines Sega, Number 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/379ac1a2-877f-436c-a616-04e8ad513301",
+      "number": null
+    },
+    {
+      "id": "63a1323a-5d72-4929-9d46-6f2560242657",
+      "title": "Mean Machines Sega, Number 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/63a1323a-5d72-4929-9d46-6f2560242657",
+      "number": null
+    },
+    {
+      "id": "8f979a56-c56f-40b6-863a-cde71d40b0e5",
+      "title": "Mean Machines Sega, Number 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8f979a56-c56f-40b6-863a-cde71d40b0e5",
+      "number": null
+    },
+    {
+      "id": "403e5639-3997-443b-92c3-ff38f6b005ce",
+      "title": "Mean Machines Sega, Number 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/403e5639-3997-443b-92c3-ff38f6b005ce",
+      "number": null
+    },
+    {
+      "id": "95e7b236-4302-431e-a726-e6b8f9e4d688",
+      "title": "Mean Machines Sega, Number 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95e7b236-4302-431e-a726-e6b8f9e4d688",
+      "number": null
+    },
+    {
+      "id": "07ecec0d-8b1e-4234-9878-d030cf072710",
+      "title": "Mean Machines Sega, Number 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07ecec0d-8b1e-4234-9878-d030cf072710",
+      "number": null
+    },
+    {
+      "id": "ac85e87f-451d-44cb-b5d3-0d21ac98b519",
+      "title": "Mean Machines Sega, Number 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac85e87f-451d-44cb-b5d3-0d21ac98b519",
+      "number": null
+    },
+    {
+      "id": "0659631b-90e2-4eab-a312-d8e4f9110f90",
+      "title": "Mean Machines Sega, Number 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0659631b-90e2-4eab-a312-d8e4f9110f90",
+      "number": null
+    },
+    {
+      "id": "af955f86-744b-4314-a273-0b21f9abe020",
+      "title": "Mean Machines Sega, Number 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/af955f86-744b-4314-a273-0b21f9abe020",
+      "number": null
+    },
+    {
+      "id": "7c92d146-03b5-4b7d-98f8-1db59ee06f65",
+      "title": "Mean Machines Sega, Number 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7c92d146-03b5-4b7d-98f8-1db59ee06f65",
+      "number": null
+    },
+    {
+      "id": "d942c549-2a7a-4af0-bf5f-d2e5a80adca8",
+      "title": "Mean Machines Sega, Number 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d942c549-2a7a-4af0-bf5f-d2e5a80adca8",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Mean Machines Sega, Number 1": "56746733-61d4-41b8-8bb9-c6cdf58e7d17",
+    "Mean Machines Sega, Number 2": "2208fba6-447d-432d-8123-13381700ba51",
+    "Mean Machines Sega, Number 3": "771205c2-7890-4d7b-804b-005616f4ff39",
+    "Mean Machines Sega, Number 4": "63b8833a-3c57-472c-bf1e-dd40088d470d",
+    "Mean Machines Sega, Number 5": "008ed8fc-9578-4bfc-9aee-9e26b2ed4f1b",
+    "Mean Machines Sega, Number 6": "75e63a89-3cea-431b-a7be-2d9668f47ab5",
+    "Mean Machines Sega, Number 7": "10ad3191-0510-4851-9581-5da77672f76e",
+    "Mean Machines Sega, Number 8": "e9dcc61c-b6f8-41a0-9deb-769553672ae4",
+    "Mean Machines Sega, Number 9": "f8da689e-e0ac-4050-9f2a-5adf5695e40b",
+    "Mean Machines Sega, Number 10": "f9446474-8967-4613-b5e7-ffd198ab34b5",
+    "Mean Machines Sega, Number 11": "77c6f137-41a3-49f6-b48e-5604f08ba427",
+    "Mean Machines Sega, Number 12": "53ed2c3f-c3c2-4017-9044-ad985b14438d",
+    "Mean Machines Sega, Number 13": "7fc314e8-175b-4c32-a5b3-5a5fb9bd48dc",
+    "Mean Machines Sega, Number 14": "4e10d02b-6a7e-442b-8830-0d0d5435618e",
+    "Mean Machines Sega, Number 15": "466a7fe3-966a-4c9b-9913-c93d4955bc65",
+    "Mean Machines Sega, Number 16": "49ecb0e8-ecd8-43a0-9ddd-fd3276b6351b",
+    "Mean Machines Sega, Number 17": "902b850a-5215-4930-8084-479e647fbb77",
+    "Mean Machines Sega, Number 18": "7f99d44d-ff0f-4081-b70c-0f2ae1594507",
+    "Mean Machines Sega, Number 19": "9fa0612a-31da-4762-a26b-a950eaeaff9c",
+    "Mean Machines Sega, Number 21": "2f7c8d37-f3ea-46c7-adc9-13f89ca0d0f6",
+    "Mean Machines Sega, Number 22": "c0196d0c-4e3d-4ea7-9b65-cd6d16e31f2a",
+    "Mean Machines Sega, Number 23": "b63bb7bf-f0ee-4760-af5b-28563ffacdff",
+    "Mean Machines Sega, Number 24": "93cee91d-e87e-4195-902e-545333b2234b",
+    "Mean Machines Sega, Number 25": "ba3336ce-d9be-4471-8963-bf80316a5b45",
+    "Mean Machines Sega, Number 26": "379ac1a2-877f-436c-a616-04e8ad513301",
+    "Mean Machines Sega, Number 27": "63a1323a-5d72-4929-9d46-6f2560242657",
+    "Mean Machines Sega, Number 28": "8f979a56-c56f-40b6-863a-cde71d40b0e5",
+    "Mean Machines Sega, Number 29": "403e5639-3997-443b-92c3-ff38f6b005ce",
+    "Mean Machines Sega, Number 30": "95e7b236-4302-431e-a726-e6b8f9e4d688",
+    "Mean Machines Sega, Number 31": "07ecec0d-8b1e-4234-9878-d030cf072710",
+    "Mean Machines Sega, Number 38": "ac85e87f-451d-44cb-b5d3-0d21ac98b519",
+    "Mean Machines Sega, Number 41": "0659631b-90e2-4eab-a312-d8e4f9110f90",
+    "Mean Machines Sega, Number 48": "af955f86-744b-4314-a273-0b21f9abe020",
+    "Mean Machines Sega, Number 49": "7c92d146-03b5-4b7d-98f8-1db59ee06f65",
+    "Mean Machines Sega, Number 50": "d942c549-2a7a-4af0-bf5f-d2e5a80adca8"
+  }
+}

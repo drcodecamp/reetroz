@@ -7,7 +7,7 @@ cf.api.key
 # python
 __pycache__/
 
-# big local data (goes to R2)
+# big local data lives on H:/cat-library (override with CAT_PDF_ROOT)
 CGW/
 library/**/pdf/
 site/public/pages/

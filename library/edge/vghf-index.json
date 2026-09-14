@@ -1,0 +1,1754 @@
+{
+  "provider": "vghf",
+  "folder_id": "00aa5458-1bf0-42ce-adf2-88f4d08c3dec",
+  "url": "https://archive.gamehistory.org/folder/00aa5458-1bf0-42ce-adf2-88f4d08c3dec",
+  "retrieved_at": "2026-09-13T22:49:13+00:00",
+  "expected": 101,
+  "count": 103,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "918cd75c-c7c0-4ff1-a9eb-e5ba4ba494ba",
+      "title": "Edge, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1993",
+        "start": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/918cd75c-c7c0-4ff1-a9eb-e5ba4ba494ba",
+      "number": "1"
+    },
+    {
+      "id": "43442730-a940-4233-8561-bb67e4e79011",
+      "title": "Edge, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1993",
+        "start": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43442730-a940-4233-8561-bb67e4e79011",
+      "number": "2"
+    },
+    {
+      "id": "215820b4-a1a8-4893-8fd4-e99d30c9abbb",
+      "title": "Edge, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1993",
+        "start": "1993-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/215820b4-a1a8-4893-8fd4-e99d30c9abbb",
+      "number": "3"
+    },
+    {
+      "id": "73c2f5ed-f6f8-43b6-9a86-e9700ae696a7",
+      "title": "Edge, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/73c2f5ed-f6f8-43b6-9a86-e9700ae696a7",
+      "number": "4"
+    },
+    {
+      "id": "159b1815-907d-4d57-8838-0bfa75b60e31",
+      "title": "Edge, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1994",
+        "start": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/159b1815-907d-4d57-8838-0bfa75b60e31",
+      "number": "5"
+    },
+    {
+      "id": "c33a4bb2-227c-4872-88a9-3f4de1ed57ba",
+      "title": "Edge, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c33a4bb2-227c-4872-88a9-3f4de1ed57ba",
+      "number": "6"
+    },
+    {
+      "id": "84372024-dd0f-4fed-8b38-b026ea7a83a4",
+      "title": "Edge, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/84372024-dd0f-4fed-8b38-b026ea7a83a4",
+      "number": "7"
+    },
+    {
+      "id": "c4c9b04f-ee4c-4d6c-881b-644bc86efe1f",
+      "title": "Edge, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c4c9b04f-ee4c-4d6c-881b-644bc86efe1f",
+      "number": "8"
+    },
+    {
+      "id": "90adfe5a-3bf6-4f5d-b61b-ff57d5e709f5",
+      "title": "Edge, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90adfe5a-3bf6-4f5d-b61b-ff57d5e709f5",
+      "number": "9"
+    },
+    {
+      "id": "f1c71319-2a91-452b-97df-60b8d32485b4",
+      "title": "Edge, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1c71319-2a91-452b-97df-60b8d32485b4",
+      "number": "10"
+    },
+    {
+      "id": "dc3f7659-e238-411c-af3f-3bf8e15dcbe1",
+      "title": "Edge, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dc3f7659-e238-411c-af3f-3bf8e15dcbe1",
+      "number": "11"
+    },
+    {
+      "id": "d75e6a6f-8208-4a34-af71-a43fb7fe8cb0",
+      "title": "Edge, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d75e6a6f-8208-4a34-af71-a43fb7fe8cb0",
+      "number": "12"
+    },
+    {
+      "id": "b64aeed7-c0e2-4509-b49c-5701ce076341",
+      "title": "Edge, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b64aeed7-c0e2-4509-b49c-5701ce076341",
+      "number": "13"
+    },
+    {
+      "id": "1979e1b4-a1fc-42ef-ad2b-b0e9d1e73ba5",
+      "title": "Edge, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1979e1b4-a1fc-42ef-ad2b-b0e9d1e73ba5",
+      "number": "14"
+    },
+    {
+      "id": "e4cafa6b-82f2-4be7-bb40-cff8cc23fc95",
+      "title": "Edge, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e4cafa6b-82f2-4be7-bb40-cff8cc23fc95",
+      "number": "15"
+    },
+    {
+      "id": "e42be3bd-2ffc-47d1-a934-18a3801a7a3b",
+      "title": "Edge, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e42be3bd-2ffc-47d1-a934-18a3801a7a3b",
+      "number": "16"
+    },
+    {
+      "id": "de4abc6a-4ee9-4f8a-943b-34aaf2d4ad18",
+      "title": "Edge, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de4abc6a-4ee9-4f8a-943b-34aaf2d4ad18",
+      "number": "17"
+    },
+    {
+      "id": "9c7d2346-7271-4ec4-9d31-11dae552ca56",
+      "title": "Edge, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9c7d2346-7271-4ec4-9d31-11dae552ca56",
+      "number": "18"
+    },
+    {
+      "id": "2277efb2-2d1c-4f82-b12b-d301498800de",
+      "title": "Edge, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2277efb2-2d1c-4f82-b12b-d301498800de",
+      "number": "19"
+    },
+    {
+      "id": "4cfa07f4-1497-4ffe-acb2-b9a82d75a0ca",
+      "title": "Edge, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4cfa07f4-1497-4ffe-acb2-b9a82d75a0ca",
+      "number": "20"
+    },
+    {
+      "id": "da341b1e-bb68-4115-9400-b55383ca347f",
+      "title": "Edge, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da341b1e-bb68-4115-9400-b55383ca347f",
+      "number": "21"
+    },
+    {
+      "id": "5d32a3f6-750d-456a-9c07-d691acd477f4",
+      "title": "Edge, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5d32a3f6-750d-456a-9c07-d691acd477f4",
+      "number": "22"
+    },
+    {
+      "id": "649d2282-4779-424c-8d4c-e32be4fe2929",
+      "title": "Edge, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/649d2282-4779-424c-8d4c-e32be4fe2929",
+      "number": "23"
+    },
+    {
+      "id": "7ad1f1d4-06e7-454b-9f5a-bb45aacb6831",
+      "title": "Edge, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7ad1f1d4-06e7-454b-9f5a-bb45aacb6831",
+      "number": "24"
+    },
+    {
+      "id": "25665059-de31-4f88-9815-98ecd84e1168",
+      "title": "Edge, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/25665059-de31-4f88-9815-98ecd84e1168",
+      "number": "25"
+    },
+    {
+      "id": "2eb36ce9-5d3b-407a-9c0c-659a630046c3",
+      "title": "Edge, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2eb36ce9-5d3b-407a-9c0c-659a630046c3",
+      "number": "26"
+    },
+    {
+      "id": "5c54b294-4a4a-421f-b69b-5166d5e471d4",
+      "title": "Edge, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5c54b294-4a4a-421f-b69b-5166d5e471d4",
+      "number": "27"
+    },
+    {
+      "id": "789ecd7f-045b-4b2c-8284-d324ee995b12",
+      "title": "Edge, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/789ecd7f-045b-4b2c-8284-d324ee995b12",
+      "number": "28"
+    },
+    {
+      "id": "9a23b704-718d-49a7-9721-a1bd658ec9ab",
+      "title": "Edge, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a23b704-718d-49a7-9721-a1bd658ec9ab",
+      "number": "29"
+    },
+    {
+      "id": "ae5419b9-1aed-4704-83fb-b58fd8359cfb",
+      "title": "Edge, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ae5419b9-1aed-4704-83fb-b58fd8359cfb",
+      "number": "30"
+    },
+    {
+      "id": "33ad2b50-edcb-4da7-ac11-043741e63323",
+      "title": "Edge, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/33ad2b50-edcb-4da7-ac11-043741e63323",
+      "number": "31"
+    },
+    {
+      "id": "332c07a0-7854-45cc-9f60-d0bc858ee4cd",
+      "title": "Edge, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/332c07a0-7854-45cc-9f60-d0bc858ee4cd",
+      "number": "32"
+    },
+    {
+      "id": "0ff616fd-a567-45db-b65f-d75bb5381a20",
+      "title": "Edge, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ff616fd-a567-45db-b65f-d75bb5381a20",
+      "number": "33"
+    },
+    {
+      "id": "6efb2a58-1893-48d3-abb3-9f4f6517520c",
+      "title": "Edge, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6efb2a58-1893-48d3-abb3-9f4f6517520c",
+      "number": "34"
+    },
+    {
+      "id": "4c981e86-d8a4-4a4d-8900-90c033480093",
+      "title": "Edge, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4c981e86-d8a4-4a4d-8900-90c033480093",
+      "number": "35"
+    },
+    {
+      "id": "0f3dd06e-eeb5-4865-8b39-c9f2b2fa3de9",
+      "title": "Edge, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1996",
+        "start": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0f3dd06e-eeb5-4865-8b39-c9f2b2fa3de9",
+      "number": "36"
+    },
+    {
+      "id": "96eb8faa-0693-4ef1-8dc0-3fb600a9d2ac",
+      "title": "Edge, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/96eb8faa-0693-4ef1-8dc0-3fb600a9d2ac",
+      "number": "37"
+    },
+    {
+      "id": "9713350b-c40d-4c2a-baf7-f405f59552e6",
+      "title": "Edge, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9713350b-c40d-4c2a-baf7-f405f59552e6",
+      "number": "38"
+    },
+    {
+      "id": "0d7af7b4-c8c8-492d-8aa6-0a7982f28089",
+      "title": "Edge, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0d7af7b4-c8c8-492d-8aa6-0a7982f28089",
+      "number": "39"
+    },
+    {
+      "id": "ac12dd10-d2a5-4917-8558-7f6842ebd44c",
+      "title": "Edge, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Christmas 1996"
+      },
+      "url": "https://archive.gamehistory.org/item/ac12dd10-d2a5-4917-8558-7f6842ebd44c",
+      "number": "40"
+    },
+    {
+      "id": "ec00d3cb-7ce7-4905-b5e8-36c4e2d47e2d",
+      "title": "Edge, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1997",
+        "start": "1997-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec00d3cb-7ce7-4905-b5e8-36c4e2d47e2d",
+      "number": "41"
+    },
+    {
+      "id": "99fd0fe6-6d60-4604-bc18-e75f9aca2559",
+      "title": "Edge, Issue 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1997",
+        "start": "1997-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/99fd0fe6-6d60-4604-bc18-e75f9aca2559",
+      "number": "42"
+    },
+    {
+      "id": "5117c040-3f1a-49b4-94cb-de790063d6bf",
+      "title": "Edge, Issue 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1997",
+        "start": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5117c040-3f1a-49b4-94cb-de790063d6bf",
+      "number": "43"
+    },
+    {
+      "id": "452d3b5d-b356-4b12-b218-a31cda9f972c",
+      "title": "Edge, Issue 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/452d3b5d-b356-4b12-b218-a31cda9f972c",
+      "number": "44"
+    },
+    {
+      "id": "a3ba8981-6d53-467b-a44d-c07d5ae9d7d0",
+      "title": "Edge, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a3ba8981-6d53-467b-a44d-c07d5ae9d7d0",
+      "number": "45"
+    },
+    {
+      "id": "80569db4-a2b4-4ad5-9169-f628a07869ed",
+      "title": "Edge, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/80569db4-a2b4-4ad5-9169-f628a07869ed",
+      "number": "46"
+    },
+    {
+      "id": "68ccaf78-9aa0-4902-b725-753d7814ae29",
+      "title": "Edge, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/68ccaf78-9aa0-4902-b725-753d7814ae29",
+      "number": "47"
+    },
+    {
+      "id": "b737b97c-0150-494a-9584-c4f3df1fe6af",
+      "title": "Edge, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b737b97c-0150-494a-9584-c4f3df1fe6af",
+      "number": "48"
+    },
+    {
+      "id": "9b58ba1e-1537-4cd0-8737-57eea81639b9",
+      "title": "Edge, Issue 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9b58ba1e-1537-4cd0-8737-57eea81639b9",
+      "number": "49"
+    },
+    {
+      "id": "e5832b21-b751-49d6-b7c7-aba2212ed26e",
+      "title": "Edge, Issue 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e5832b21-b751-49d6-b7c7-aba2212ed26e",
+      "number": "50"
+    },
+    {
+      "id": "f1cbb679-dad3-41dc-94a0-9f051e076653",
+      "title": "Edge, Issue 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1cbb679-dad3-41dc-94a0-9f051e076653",
+      "number": "51"
+    },
+    {
+      "id": "8d4ccc58-c5ff-43fd-9f60-2038fcc157ba",
+      "title": "Edge, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1997",
+        "start": "1997-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8d4ccc58-c5ff-43fd-9f60-2038fcc157ba",
+      "number": "52"
+    },
+    {
+      "id": "a9286e02-4c1e-438e-a391-4c64e03eae33",
+      "title": "Edge, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Christmas 1997"
+      },
+      "url": "https://archive.gamehistory.org/item/a9286e02-4c1e-438e-a391-4c64e03eae33",
+      "number": "53"
+    },
+    {
+      "id": "df8536c8-1b6f-4149-8dd5-5ddad1a92393",
+      "title": "Edge, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1998",
+        "start": "1998-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/df8536c8-1b6f-4149-8dd5-5ddad1a92393",
+      "number": "54"
+    },
+    {
+      "id": "38005396-c60c-4fee-bc5a-b19accca7c23",
+      "title": "Edge, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1998",
+        "start": "1998-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38005396-c60c-4fee-bc5a-b19accca7c23",
+      "number": "55"
+    },
+    {
+      "id": "1227b2af-5a33-493e-814b-298735269b4a",
+      "title": "Edge, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1998",
+        "start": "1998-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1227b2af-5a33-493e-814b-298735269b4a",
+      "number": "56"
+    },
+    {
+      "id": "b09c68ae-e3e4-46a2-93eb-880c37b25237",
+      "title": "Edge, Issue 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1998",
+        "start": "1998-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b09c68ae-e3e4-46a2-93eb-880c37b25237",
+      "number": "57"
+    },
+    {
+      "id": "4041b5f2-c490-49f5-893f-bf6ef292a379",
+      "title": "Edge, Issue 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1998",
+        "start": "1998-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4041b5f2-c490-49f5-893f-bf6ef292a379",
+      "number": "58"
+    },
+    {
+      "id": "ac75e06e-09c8-4216-8031-ce3c69044d84",
+      "title": "Edge, Issue 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1998",
+        "start": "1998-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac75e06e-09c8-4216-8031-ce3c69044d84",
+      "number": "59"
+    },
+    {
+      "id": "c8db30f8-629a-4cd7-af85-e2ed55b57c61",
+      "title": "Edge, Issue 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1998",
+        "start": "1998-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c8db30f8-629a-4cd7-af85-e2ed55b57c61",
+      "number": "60"
+    },
+    {
+      "id": "f7d64b11-fb3a-4792-a6f2-f13a117ee143",
+      "title": "Edge, Issue 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1998",
+        "start": "1998-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f7d64b11-fb3a-4792-a6f2-f13a117ee143",
+      "number": "61"
+    },
+    {
+      "id": "8b87afbd-f8a8-4b3a-b3fa-9485317ad50a",
+      "title": "Edge, Issue 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8b87afbd-f8a8-4b3a-b3fa-9485317ad50a",
+      "number": "62"
+    },
+    {
+      "id": "24d722f1-f873-4c95-9b44-8ad9d67d9927",
+      "title": "Edge, Issue 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1998",
+        "start": "1998-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24d722f1-f873-4c95-9b44-8ad9d67d9927",
+      "number": "63"
+    },
+    {
+      "id": "a8f24e8e-ae95-4faa-8da7-39bc6f18d1f6",
+      "title": "Edge, Issue 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1998",
+        "start": "1998-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a8f24e8e-ae95-4faa-8da7-39bc6f18d1f6",
+      "number": "64"
+    },
+    {
+      "id": "823ff5b6-4700-4df6-bc4c-3def8fa08543",
+      "title": "Edge, Issue 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1998",
+        "start": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/823ff5b6-4700-4df6-bc4c-3def8fa08543",
+      "number": "65"
+    },
+    {
+      "id": "8ef9744a-184b-46e7-a7f4-f0982f0e770e",
+      "title": "Edge, Issue 66",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Christmas 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/8ef9744a-184b-46e7-a7f4-f0982f0e770e",
+      "number": "66"
+    },
+    {
+      "id": "e1d764cd-cc42-4b08-a000-b3ecbfa0006d",
+      "title": "Edge, Issue 67",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1999",
+        "start": "1999-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e1d764cd-cc42-4b08-a000-b3ecbfa0006d",
+      "number": "67"
+    },
+    {
+      "id": "cc116798-4c85-49d3-9cbd-941fee42c400",
+      "title": "Edge, Issue 68",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc116798-4c85-49d3-9cbd-941fee42c400",
+      "number": "68"
+    },
+    {
+      "id": "4e956890-d950-4afa-b100-804e140692c6",
+      "title": "Edge, Issue 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4e956890-d950-4afa-b100-804e140692c6",
+      "number": "69"
+    },
+    {
+      "id": "a39b5ee1-8c30-41a5-a139-c495f9e05f5c",
+      "title": "Edge, Issue 70",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1999",
+        "start": "1999-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a39b5ee1-8c30-41a5-a139-c495f9e05f5c",
+      "number": "70"
+    },
+    {
+      "id": "b5d4c213-8772-48ed-b74d-8bf2d419c512",
+      "title": "Edge, Issue 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1999",
+        "start": "1999-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b5d4c213-8772-48ed-b74d-8bf2d419c512",
+      "number": "71"
+    },
+    {
+      "id": "710d8b92-dc48-4640-82c3-e3ffd375a094",
+      "title": "Edge, Issue 72",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/710d8b92-dc48-4640-82c3-e3ffd375a094",
+      "number": "72"
+    },
+    {
+      "id": "2754b662-dd3d-47b8-9853-ed1f2ebc706e",
+      "title": "Edge, Issue 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1999",
+        "start": "1999-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2754b662-dd3d-47b8-9853-ed1f2ebc706e",
+      "number": "73"
+    },
+    {
+      "id": "ba903caf-a504-439f-847d-09f573e9dd16",
+      "title": "Edge, Issue 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1999",
+        "start": "1999-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ba903caf-a504-439f-847d-09f573e9dd16",
+      "number": "74"
+    },
+    {
+      "id": "a36bb02b-bba6-4e8f-b7b9-551c6ee53186",
+      "title": "Edge, Issue 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a36bb02b-bba6-4e8f-b7b9-551c6ee53186",
+      "number": "75"
+    },
+    {
+      "id": "b5f969ac-d6e7-4ca6-b3d8-9bbd377ee5e9",
+      "title": "Edge, Issue 76",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1999",
+        "start": "1999-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b5f969ac-d6e7-4ca6-b3d8-9bbd377ee5e9",
+      "number": "76"
+    },
+    {
+      "id": "76b735aa-55f7-4c13-9300-37564c20fd0e",
+      "title": "Edge, Issue 77",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Autumn 1999",
+        "start": "1999-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/76b735aa-55f7-4c13-9300-37564c20fd0e",
+      "number": "77"
+    },
+    {
+      "id": "6496de80-b0a4-4fe6-b84f-f98aae008a60",
+      "title": "Edge, Issue 78",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6496de80-b0a4-4fe6-b84f-f98aae008a60",
+      "number": "78"
+    },
+    {
+      "id": "b28e3a18-d278-4f21-a1a8-560505b4ba22",
+      "title": "Edge, Issue 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b28e3a18-d278-4f21-a1a8-560505b4ba22",
+      "number": "79"
+    },
+    {
+      "id": "1aa77b4f-557a-4a1c-bccc-5f6dc8259ea4",
+      "title": "Edge, Issue 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1aa77b4f-557a-4a1c-bccc-5f6dc8259ea4",
+      "number": "80"
+    },
+    {
+      "id": "cf0fa1f7-a8aa-4c58-bfcf-0ac2a009ad6f",
+      "title": "Edge, Issue 81",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cf0fa1f7-a8aa-4c58-bfcf-0ac2a009ad6f",
+      "number": "81"
+    },
+    {
+      "id": "0eca24a1-3b1d-4b6b-b69b-81e9f628bab0",
+      "title": "Edge, Issue 82",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0eca24a1-3b1d-4b6b-b69b-81e9f628bab0",
+      "number": "82"
+    },
+    {
+      "id": "f001411f-2cb0-4495-9887-28a511b4c0ce",
+      "title": "Edge, Issue 83",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f001411f-2cb0-4495-9887-28a511b4c0ce",
+      "number": "83"
+    },
+    {
+      "id": "a6ae55fa-7659-429d-b76d-8c55c9d557bf",
+      "title": "Edge, Issue 84",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a6ae55fa-7659-429d-b76d-8c55c9d557bf",
+      "number": "84"
+    },
+    {
+      "id": "28d00360-8eb3-418c-b3e9-d29eb438042f",
+      "title": "Edge, Issue 85",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/28d00360-8eb3-418c-b3e9-d29eb438042f",
+      "number": "85"
+    },
+    {
+      "id": "04e53317-576d-4bdf-a1a5-9f47602fea64",
+      "title": "Edge, Issue 86",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/04e53317-576d-4bdf-a1a5-9f47602fea64",
+      "number": "86"
+    },
+    {
+      "id": "ffcc5a75-f178-4dcf-ac61-5425d51468e5",
+      "title": "Edge, Issue 87",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ffcc5a75-f178-4dcf-ac61-5425d51468e5",
+      "number": "87"
+    },
+    {
+      "id": "10d9ae09-0de9-4f23-a0df-006cfe571faa",
+      "title": "Edge, Issue 88",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2000",
+        "start": "2000-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/10d9ae09-0de9-4f23-a0df-006cfe571faa",
+      "number": "88"
+    },
+    {
+      "id": "dc5ee506-28cc-4332-9599-3a7d88eb464c",
+      "title": "Edge, Issue 89",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2000",
+        "start": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dc5ee506-28cc-4332-9599-3a7d88eb464c",
+      "number": "89"
+    },
+    {
+      "id": "6ff2eaf9-8134-46e4-babb-ec272ec7b278",
+      "title": "Edge, Issue 90",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6ff2eaf9-8134-46e4-babb-ec272ec7b278",
+      "number": "90"
+    },
+    {
+      "id": "e7f31f45-910d-48a5-badc-9bd713741773",
+      "title": "Edge, Issue 91",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e7f31f45-910d-48a5-badc-9bd713741773",
+      "number": "91"
+    },
+    {
+      "id": "f59471ac-03d1-498d-bba0-449af0e997ad",
+      "title": "Edge, Issue 92",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Christmas 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/f59471ac-03d1-498d-bba0-449af0e997ad",
+      "number": "92"
+    },
+    {
+      "id": "b1f511b3-8c06-4e8d-97d9-1facbebb6fc1",
+      "title": "Edge, Issue 93",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2001",
+        "start": "2001-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b1f511b3-8c06-4e8d-97d9-1facbebb6fc1",
+      "number": "93"
+    },
+    {
+      "id": "94f6eebd-2f38-4727-89c3-08ff5068380a",
+      "title": "Edge, Issue 94",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/94f6eebd-2f38-4727-89c3-08ff5068380a",
+      "number": "94"
+    },
+    {
+      "id": "a2cc17a4-40b9-41a6-94f9-8e719eb4b1f9",
+      "title": "Edge, Issue 95",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2001",
+        "start": "2001-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2cc17a4-40b9-41a6-94f9-8e719eb4b1f9",
+      "number": "95"
+    },
+    {
+      "id": "da7c78ad-6dc3-46d4-82a1-b5c155e66766",
+      "title": "Edge, Issue 96",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2001",
+        "start": "2001-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da7c78ad-6dc3-46d4-82a1-b5c155e66766",
+      "number": "96"
+    },
+    {
+      "id": "4bbd8682-205c-49bf-bc6c-52ef8bf6e0f5",
+      "title": "Edge, Issue 97",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4bbd8682-205c-49bf-bc6c-52ef8bf6e0f5",
+      "number": "97"
+    },
+    {
+      "id": "958c10a1-19c9-4297-8e10-0f3212bfcd04",
+      "title": "Edge, Issue 98",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2001",
+        "start": "2001-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/958c10a1-19c9-4297-8e10-0f3212bfcd04",
+      "number": "98"
+    },
+    {
+      "id": "f68f3287-4179-48a5-9027-20d2f18ae75f",
+      "title": "Edge, Issue 99",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2001",
+        "start": "2001-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f68f3287-4179-48a5-9027-20d2f18ae75f",
+      "number": "99"
+    },
+    {
+      "id": "fdbe5cda-7966-45b4-95f0-7c5a35cf7784",
+      "title": "Edge, Issue 100",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2001",
+        "start": "2001-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fdbe5cda-7966-45b4-95f0-7c5a35cf7784",
+      "number": "100"
+    },
+    {
+      "id": "1e85b3bf-7f8d-46d2-92d0-60da4ab9f3a4",
+      "title": "Edge Special Edition, 1996 Essential Hardware Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1e85b3bf-7f8d-46d2-92d0-60da4ab9f3a4",
+      "number": null,
+      "parent_id": "dda80820-1e76-4a6a-881b-2210b380fa5d"
+    },
+    {
+      "id": "7ec41bec-1f3f-48cf-812a-ecc7b7b9972f",
+      "title": "Edge, Special Collectors' Edition 2001",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2001",
+        "start": "2001",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/7ec41bec-1f3f-48cf-812a-ecc7b7b9972f",
+      "number": null,
+      "parent_id": "dda80820-1e76-4a6a-881b-2210b380fa5d"
+    },
+    {
+      "id": "dda80820-1e76-4a6a-881b-2210b380fa5d",
+      "title": "Edge specials and supplements",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/dda80820-1e76-4a6a-881b-2210b380fa5d",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Edge, Issue 1": "918cd75c-c7c0-4ff1-a9eb-e5ba4ba494ba",
+    "Edge, Issue 2": "43442730-a940-4233-8561-bb67e4e79011",
+    "Edge, Issue 3": "215820b4-a1a8-4893-8fd4-e99d30c9abbb",
+    "Edge, Issue 4": "73c2f5ed-f6f8-43b6-9a86-e9700ae696a7",
+    "Edge, Issue 5": "159b1815-907d-4d57-8838-0bfa75b60e31",
+    "Edge, Issue 6": "c33a4bb2-227c-4872-88a9-3f4de1ed57ba",
+    "Edge, Issue 7": "84372024-dd0f-4fed-8b38-b026ea7a83a4",
+    "Edge, Issue 8": "c4c9b04f-ee4c-4d6c-881b-644bc86efe1f",
+    "Edge, Issue 9": "90adfe5a-3bf6-4f5d-b61b-ff57d5e709f5",
+    "Edge, Issue 10": "f1c71319-2a91-452b-97df-60b8d32485b4",
+    "Edge, Issue 11": "dc3f7659-e238-411c-af3f-3bf8e15dcbe1",
+    "Edge, Issue 12": "d75e6a6f-8208-4a34-af71-a43fb7fe8cb0",
+    "Edge, Issue 13": "b64aeed7-c0e2-4509-b49c-5701ce076341",
+    "Edge, Issue 14": "1979e1b4-a1fc-42ef-ad2b-b0e9d1e73ba5",
+    "Edge, Issue 15": "e4cafa6b-82f2-4be7-bb40-cff8cc23fc95",
+    "Edge, Issue 16": "e42be3bd-2ffc-47d1-a934-18a3801a7a3b",
+    "Edge, Issue 17": "de4abc6a-4ee9-4f8a-943b-34aaf2d4ad18",
+    "Edge, Issue 18": "9c7d2346-7271-4ec4-9d31-11dae552ca56",
+    "Edge, Issue 19": "2277efb2-2d1c-4f82-b12b-d301498800de",
+    "Edge, Issue 20": "4cfa07f4-1497-4ffe-acb2-b9a82d75a0ca",
+    "Edge, Issue 21": "da341b1e-bb68-4115-9400-b55383ca347f",
+    "Edge, Issue 22": "5d32a3f6-750d-456a-9c07-d691acd477f4",
+    "Edge, Issue 23": "649d2282-4779-424c-8d4c-e32be4fe2929",
+    "Edge, Issue 24": "7ad1f1d4-06e7-454b-9f5a-bb45aacb6831",
+    "Edge, Issue 25": "25665059-de31-4f88-9815-98ecd84e1168",
+    "Edge, Issue 26": "2eb36ce9-5d3b-407a-9c0c-659a630046c3",
+    "Edge, Issue 27": "5c54b294-4a4a-421f-b69b-5166d5e471d4",
+    "Edge, Issue 28": "789ecd7f-045b-4b2c-8284-d324ee995b12",
+    "Edge, Issue 29": "9a23b704-718d-49a7-9721-a1bd658ec9ab",
+    "Edge, Issue 30": "ae5419b9-1aed-4704-83fb-b58fd8359cfb",
+    "Edge, Issue 31": "33ad2b50-edcb-4da7-ac11-043741e63323",
+    "Edge, Issue 32": "332c07a0-7854-45cc-9f60-d0bc858ee4cd",
+    "Edge, Issue 33": "0ff616fd-a567-45db-b65f-d75bb5381a20",
+    "Edge, Issue 34": "6efb2a58-1893-48d3-abb3-9f4f6517520c",
+    "Edge, Issue 35": "4c981e86-d8a4-4a4d-8900-90c033480093",
+    "Edge, Issue 36": "0f3dd06e-eeb5-4865-8b39-c9f2b2fa3de9",
+    "Edge, Issue 37": "96eb8faa-0693-4ef1-8dc0-3fb600a9d2ac",
+    "Edge, Issue 38": "9713350b-c40d-4c2a-baf7-f405f59552e6",
+    "Edge, Issue 39": "0d7af7b4-c8c8-492d-8aa6-0a7982f28089",
+    "Edge, Issue 40": "ac12dd10-d2a5-4917-8558-7f6842ebd44c",
+    "Edge, Issue 41": "ec00d3cb-7ce7-4905-b5e8-36c4e2d47e2d",
+    "Edge, Issue 42": "99fd0fe6-6d60-4604-bc18-e75f9aca2559",
+    "Edge, Issue 43": "5117c040-3f1a-49b4-94cb-de790063d6bf",
+    "Edge, Issue 44": "452d3b5d-b356-4b12-b218-a31cda9f972c",
+    "Edge, Issue 45": "a3ba8981-6d53-467b-a44d-c07d5ae9d7d0",
+    "Edge, Issue 46": "80569db4-a2b4-4ad5-9169-f628a07869ed",
+    "Edge, Issue 47": "68ccaf78-9aa0-4902-b725-753d7814ae29",
+    "Edge, Issue 48": "b737b97c-0150-494a-9584-c4f3df1fe6af",
+    "Edge, Issue 49": "9b58ba1e-1537-4cd0-8737-57eea81639b9",
+    "Edge, Issue 50": "e5832b21-b751-49d6-b7c7-aba2212ed26e",
+    "Edge, Issue 51": "f1cbb679-dad3-41dc-94a0-9f051e076653",
+    "Edge, Issue 52": "8d4ccc58-c5ff-43fd-9f60-2038fcc157ba",
+    "Edge, Issue 53": "a9286e02-4c1e-438e-a391-4c64e03eae33",
+    "Edge, Issue 54": "df8536c8-1b6f-4149-8dd5-5ddad1a92393",
+    "Edge, Issue 55": "38005396-c60c-4fee-bc5a-b19accca7c23",
+    "Edge, Issue 56": "1227b2af-5a33-493e-814b-298735269b4a",
+    "Edge, Issue 57": "b09c68ae-e3e4-46a2-93eb-880c37b25237",
+    "Edge, Issue 58": "4041b5f2-c490-49f5-893f-bf6ef292a379",
+    "Edge, Issue 59": "ac75e06e-09c8-4216-8031-ce3c69044d84",
+    "Edge, Issue 60": "c8db30f8-629a-4cd7-af85-e2ed55b57c61",
+    "Edge, Issue 61": "f7d64b11-fb3a-4792-a6f2-f13a117ee143",
+    "Edge, Issue 62": "8b87afbd-f8a8-4b3a-b3fa-9485317ad50a",
+    "Edge, Issue 63": "24d722f1-f873-4c95-9b44-8ad9d67d9927",
+    "Edge, Issue 64": "a8f24e8e-ae95-4faa-8da7-39bc6f18d1f6",
+    "Edge, Issue 65": "823ff5b6-4700-4df6-bc4c-3def8fa08543",
+    "Edge, Issue 66": "8ef9744a-184b-46e7-a7f4-f0982f0e770e",
+    "Edge, Issue 67": "e1d764cd-cc42-4b08-a000-b3ecbfa0006d",
+    "Edge, Issue 68": "cc116798-4c85-49d3-9cbd-941fee42c400",
+    "Edge, Issue 69": "4e956890-d950-4afa-b100-804e140692c6",
+    "Edge, Issue 70": "a39b5ee1-8c30-41a5-a139-c495f9e05f5c",
+    "Edge, Issue 71": "b5d4c213-8772-48ed-b74d-8bf2d419c512",
+    "Edge, Issue 72": "710d8b92-dc48-4640-82c3-e3ffd375a094",
+    "Edge, Issue 73": "2754b662-dd3d-47b8-9853-ed1f2ebc706e",
+    "Edge, Issue 74": "ba903caf-a504-439f-847d-09f573e9dd16",
+    "Edge, Issue 75": "a36bb02b-bba6-4e8f-b7b9-551c6ee53186",
+    "Edge, Issue 76": "b5f969ac-d6e7-4ca6-b3d8-9bbd377ee5e9",
+    "Edge, Issue 77": "76b735aa-55f7-4c13-9300-37564c20fd0e",
+    "Edge, Issue 78": "6496de80-b0a4-4fe6-b84f-f98aae008a60",
+    "Edge, Issue 79": "b28e3a18-d278-4f21-a1a8-560505b4ba22",
+    "Edge, Issue 80": "1aa77b4f-557a-4a1c-bccc-5f6dc8259ea4",
+    "Edge, Issue 81": "cf0fa1f7-a8aa-4c58-bfcf-0ac2a009ad6f",
+    "Edge, Issue 82": "0eca24a1-3b1d-4b6b-b69b-81e9f628bab0",
+    "Edge, Issue 83": "f001411f-2cb0-4495-9887-28a511b4c0ce",
+    "Edge, Issue 84": "a6ae55fa-7659-429d-b76d-8c55c9d557bf",
+    "Edge, Issue 85": "28d00360-8eb3-418c-b3e9-d29eb438042f",
+    "Edge, Issue 86": "04e53317-576d-4bdf-a1a5-9f47602fea64",
+    "Edge, Issue 87": "ffcc5a75-f178-4dcf-ac61-5425d51468e5",
+    "Edge, Issue 88": "10d9ae09-0de9-4f23-a0df-006cfe571faa",
+    "Edge, Issue 89": "dc5ee506-28cc-4332-9599-3a7d88eb464c",
+    "Edge, Issue 90": "6ff2eaf9-8134-46e4-babb-ec272ec7b278",
+    "Edge, Issue 91": "e7f31f45-910d-48a5-badc-9bd713741773",
+    "Edge, Issue 92": "f59471ac-03d1-498d-bba0-449af0e997ad",
+    "Edge, Issue 93": "b1f511b3-8c06-4e8d-97d9-1facbebb6fc1",
+    "Edge, Issue 94": "94f6eebd-2f38-4727-89c3-08ff5068380a",
+    "Edge, Issue 95": "a2cc17a4-40b9-41a6-94f9-8e719eb4b1f9",
+    "Edge, Issue 96": "da7c78ad-6dc3-46d4-82a1-b5c155e66766",
+    "Edge, Issue 97": "4bbd8682-205c-49bf-bc6c-52ef8bf6e0f5",
+    "Edge, Issue 98": "958c10a1-19c9-4297-8e10-0f3212bfcd04",
+    "Edge, Issue 99": "f68f3287-4179-48a5-9027-20d2f18ae75f",
+    "Edge, Issue 100": "fdbe5cda-7966-45b4-95f0-7c5a35cf7784",
+    "Edge Special Edition, 1996 Essential Hardware Guide": "1e85b3bf-7f8d-46d2-92d0-60da4ab9f3a4",
+    "Edge, Special Collectors' Edition 2001": "7ec41bec-1f3f-48cf-812a-ecc7b7b9972f",
+    "Edge specials and supplements": "dda80820-1e76-4a6a-881b-2210b380fa5d"
+  }
+}

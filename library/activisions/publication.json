@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/fdb5a523-54e5-40a3-aab4-efc9dc0faee7",
-      "date_range": "Fall 1981 – 1984"
+      "date_range": "Fall 1981 – est. early 1984",
+      "items": 10
     },
     {
       "provider": "internet-archive",
@@ -50,5 +51,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

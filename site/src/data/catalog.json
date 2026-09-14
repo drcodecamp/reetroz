@@ -882,6 +882,20 @@
   "special": null
  },
  {
+  "id": "gamepro-1",
+  "slug": "gamepro-1",
+  "publication": "gamepro",
+  "number": "1",
+  "year": 1989,
+  "date": "May 1989",
+  "pages": 64,
+  "cover": "/covers/gamepro-1.jpg",
+  "era": "boom",
+  "readable": true,
+  "hasText": true,
+  "special": "Premiere issue"
+ },
+ {
   "id": "cgw-65",
   "slug": "cgw-65",
   "publication": "cgw",

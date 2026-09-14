@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Reader } from "@/components/reader/Reader";
-import { catalog, getIssue } from "@/lib/catalog";
+import { catalog, getIssue, getPublication } from "@/lib/catalog";
 import { loadManifest } from "@/lib/manifest";
 
 type Props = {
@@ -18,7 +18,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const issue = getIssue(slug);
   return {
-    title: issue ? `Reading CGW #${issue.number} · ${issue.date} | Pixel Press` : "Reader",
+    title: issue
+      ? `Reading ${getPublication(issue.publication)?.short ?? issue.publication} #${issue.number} · ${issue.date} | Pixel Press`
+      : "Reader",
     robots: { index: false },
   };
 }

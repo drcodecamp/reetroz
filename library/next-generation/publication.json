@@ -36,7 +36,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/cbefef2b-c575-4ce5-afe8-586b567e4eb8",
-      "date_range": "January 1995 – January 2002"
+      "date_range": "January 1995 – September 1999 – January 2002",
+      "items": 85
     }
   ],
   "stats": {
@@ -45,6 +46,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "US edition of Edge."
 }

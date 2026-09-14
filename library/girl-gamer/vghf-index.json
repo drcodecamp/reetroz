@@ -1,0 +1,141 @@
+{
+  "provider": "vghf",
+  "folder_id": "06c1493a-4e8f-4395-8921-3f2c2c96f682",
+  "url": "https://archive.gamehistory.org/folder/06c1493a-4e8f-4395-8921-3f2c2c96f682",
+  "retrieved_at": "2026-09-13T22:54:41+00:00",
+  "expected": 8,
+  "count": 8,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "25df6e8d-e59e-43ef-b7d6-fbfe43ba59e3",
+      "title": "Girl Gamer, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. holiday 2007"
+      },
+      "url": "https://archive.gamehistory.org/item/25df6e8d-e59e-43ef-b7d6-fbfe43ba59e3",
+      "number": "1"
+    },
+    {
+      "id": "e6beceaa-f36f-46d7-bc2a-f4599773e10e",
+      "title": "Girl Gamer, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "circa April 2008"
+      },
+      "url": "https://archive.gamehistory.org/item/e6beceaa-f36f-46d7-bc2a-f4599773e10e",
+      "number": "2"
+    },
+    {
+      "id": "0a0846b5-7354-484c-96ef-4dbcfe71bb5d",
+      "title": "Girl Gamer, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2008",
+        "start": "2008",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/0a0846b5-7354-484c-96ef-4dbcfe71bb5d",
+      "number": "3"
+    },
+    {
+      "id": "f04779cb-b05d-41b9-9495-72d6d76879fd",
+      "title": "Girl Gamer, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2008",
+        "start": "2008",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/f04779cb-b05d-41b9-9495-72d6d76879fd",
+      "number": "4"
+    },
+    {
+      "id": "6f095b09-59dc-48e4-9491-9f44d6e89e7b",
+      "title": "Girl Gamer, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. holiday 2008"
+      },
+      "url": "https://archive.gamehistory.org/item/6f095b09-59dc-48e4-9491-9f44d6e89e7b",
+      "number": "5"
+    },
+    {
+      "id": "8981a2d8-ea03-40ea-9dbe-da0c6b5eccdb",
+      "title": "Girl Gamer, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. early 2009"
+      },
+      "url": "https://archive.gamehistory.org/item/8981a2d8-ea03-40ea-9dbe-da0c6b5eccdb",
+      "number": "6"
+    },
+    {
+      "id": "26baa8f9-1e10-4847-a47a-a99b2bb530e0",
+      "title": "Girl Gamer, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2009",
+        "start": "2009",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/26baa8f9-1e10-4847-a47a-a99b2bb530e0",
+      "number": "7"
+    },
+    {
+      "id": "7ef3ccd6-ddba-4f1c-8bf4-1c2d76d74c98",
+      "title": "Girl Gamer, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2009",
+        "start": "2009",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/7ef3ccd6-ddba-4f1c-8bf4-1c2d76d74c98",
+      "number": "8"
+    }
+  ],
+  "by_title": {
+    "Girl Gamer, Issue 1": "25df6e8d-e59e-43ef-b7d6-fbfe43ba59e3",
+    "Girl Gamer, Issue 2": "e6beceaa-f36f-46d7-bc2a-f4599773e10e",
+    "Girl Gamer, Issue 3": "0a0846b5-7354-484c-96ef-4dbcfe71bb5d",
+    "Girl Gamer, Issue 4": "f04779cb-b05d-41b9-9495-72d6d76879fd",
+    "Girl Gamer, Issue 5": "6f095b09-59dc-48e4-9491-9f44d6e89e7b",
+    "Girl Gamer, Issue 6": "8981a2d8-ea03-40ea-9dbe-da0c6b5eccdb",
+    "Girl Gamer, Issue 7": "26baa8f9-1e10-4847-a47a-a99b2bb530e0",
+    "Girl Gamer, Issue 8": "7ef3ccd6-ddba-4f1c-8bf4-1c2d76d74c98"
+  }
+}

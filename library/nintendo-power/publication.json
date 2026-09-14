@@ -39,7 +39,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/32aa15bf-a3be-40fe-b75a-85f313c84368",
-      "date_range": "July 1988 – December 2012"
+      "date_range": "July/August 1988 – December 2012",
+      "items": 294
     }
   ],
   "stats": {
@@ -48,5 +49,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

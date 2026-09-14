@@ -1,0 +1,6278 @@
+{
+  "provider": "vghf",
+  "folder_id": "abd3f6bd-0a4d-47d9-930d-550b5564b86a",
+  "url": "https://archive.gamehistory.org/folder/abd3f6bd-0a4d-47d9-930d-550b5564b86a",
+  "retrieved_at": "2026-09-13T22:51:32+00:00",
+  "expected": 367,
+  "count": 368,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "a50fed1d-4669-4dea-bf89-4188c653c804",
+      "title": "Game Informer, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1991",
+        "start": "1991-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/a50fed1d-4669-4dea-bf89-4188c653c804",
+      "number": "1"
+    },
+    {
+      "id": "223ff2f3-f00b-40e9-b9e3-0d784785341b",
+      "title": "Game Informer, Volume 2, Issue 1, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 1993",
+        "start": "1993-01",
+        "end": "1993-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/223ff2f3-f00b-40e9-b9e3-0d784785341b",
+      "number": "1"
+    },
+    {
+      "id": "f631e8ce-3341-42df-87d6-4ebe34a5c095",
+      "title": "Game Informer, Volume 3, Issue 1, Number 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 1994",
+        "start": "1994-01",
+        "end": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f631e8ce-3341-42df-87d6-4ebe34a5c095",
+      "number": "1"
+    },
+    {
+      "id": "03af0e59-ceb9-490b-a0ea-d376816cc973",
+      "title": "Game Informer, Volume 4, Issue 1, Number 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/03af0e59-ceb9-490b-a0ea-d376816cc973",
+      "number": "1"
+    },
+    {
+      "id": "6a8113e3-c86c-40ee-af51-1b6a4802d54a",
+      "title": "Game Informer, Volume 6, Issue 1, Number 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6a8113e3-c86c-40ee-af51-1b6a4802d54a",
+      "number": "1"
+    },
+    {
+      "id": "84d79427-78a5-471d-ad8f-94803a4f6542",
+      "title": "Game Informer, Volume 7, Issue 1, Number 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1997",
+        "start": "1997-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/84d79427-78a5-471d-ad8f-94803a4f6542",
+      "number": "1"
+    },
+    {
+      "id": "46de9d23-2ff1-4f0a-bbe2-7901e76bec23",
+      "title": "Game Informer, Volume 8, Issue 1, Number 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1998",
+        "start": "1998-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/46de9d23-2ff1-4f0a-bbe2-7901e76bec23",
+      "number": "1"
+    },
+    {
+      "id": "ef6997af-5300-46a3-8b2f-26d029104775",
+      "title": "Game Informer, Volume 9, Issue 1, Number 69",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1999",
+        "start": "1999-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ef6997af-5300-46a3-8b2f-26d029104775",
+      "number": "1"
+    },
+    {
+      "id": "c498d680-1885-4fc6-b60d-ea098ec9be65",
+      "title": "Game Informer, Volume 10, Issue 1, Number 81",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c498d680-1885-4fc6-b60d-ea098ec9be65",
+      "number": "1"
+    },
+    {
+      "id": "577ef559-1171-43d0-97f1-a2d946445f26",
+      "title": "Game Informer, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November/December 1991",
+        "start": "1991-11",
+        "end": "1991-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/577ef559-1171-43d0-97f1-a2d946445f26",
+      "number": "2"
+    },
+    {
+      "id": "6abcc44c-4a68-4e7a-9524-546c4a40b2bd",
+      "title": "Game Informer, Volume 2, Issue 2, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March/April 1993",
+        "start": "1993-03",
+        "end": "1993-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6abcc44c-4a68-4e7a-9524-546c4a40b2bd",
+      "number": "2"
+    },
+    {
+      "id": "82fdea2e-fd14-4eb4-9b5d-e24483683746",
+      "title": "Game Informer, Volume 3, Issue 2, Number 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March/April 1994",
+        "start": "1994-03",
+        "end": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/82fdea2e-fd14-4eb4-9b5d-e24483683746",
+      "number": "2"
+    },
+    {
+      "id": "59256c19-c10f-4df3-8461-78a04aac7efb",
+      "title": "Game Informer, Volume 5, Issue 2, Number 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/59256c19-c10f-4df3-8461-78a04aac7efb",
+      "number": "2"
+    },
+    {
+      "id": "62489d7e-455e-46ee-80dc-bf4ca04a60fd",
+      "title": "Game Informer, Volume 6, Issue 2, Number 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/62489d7e-455e-46ee-80dc-bf4ca04a60fd",
+      "number": "2"
+    },
+    {
+      "id": "20071aad-0880-4178-954e-7f907e719cac",
+      "title": "Game Informer, Volume 7, Issue 2, Number 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1997",
+        "start": "1997-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/20071aad-0880-4178-954e-7f907e719cac",
+      "number": "2"
+    },
+    {
+      "id": "75ea5e6d-3105-4fd2-a034-08f339fbbfd5",
+      "title": "Game Informer, Volume 8, Issue 2, Number 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1998",
+        "start": "1998-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/75ea5e6d-3105-4fd2-a034-08f339fbbfd5",
+      "number": "2"
+    },
+    {
+      "id": "1be1a357-bca2-4f11-91a2-875ede239265",
+      "title": "Game Informer, Volume 9, Issue 2, Number 70",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1be1a357-bca2-4f11-91a2-875ede239265",
+      "number": "2"
+    },
+    {
+      "id": "9e09ca0f-6746-4352-a137-0554b96af25b",
+      "title": "Game Informer, Volume 10, Issue 2, Number 82",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9e09ca0f-6746-4352-a137-0554b96af25b",
+      "number": "2"
+    },
+    {
+      "id": "5b423c3a-4318-498e-956d-f0165e7de862",
+      "title": "Game Informer, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 1992",
+        "start": "1992-01",
+        "end": "1992-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5b423c3a-4318-498e-956d-f0165e7de862",
+      "number": "3"
+    },
+    {
+      "id": "48de7ae0-5e0f-4d72-833b-b3669dd9661c",
+      "title": "Game Informer, Volume 2, Issue 3, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 1993",
+        "start": "1993-05",
+        "end": "1993-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/48de7ae0-5e0f-4d72-833b-b3669dd9661c",
+      "number": "3"
+    },
+    {
+      "id": "6dfef02a-6581-42a9-b898-dfa1e512b2df",
+      "title": "Game Informer, Volume 3, Issue 3, Number 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 1994",
+        "start": "1994-05",
+        "end": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6dfef02a-6581-42a9-b898-dfa1e512b2df",
+      "number": "3"
+    },
+    {
+      "id": "18bc7d89-508f-4fe5-9a0b-0822d976d50a",
+      "title": "Game Informer, Volume 5, Issue 3, Number 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/18bc7d89-508f-4fe5-9a0b-0822d976d50a",
+      "number": "3"
+    },
+    {
+      "id": "aab568d0-8ec2-48f9-a841-f23557c6c409",
+      "title": "Game Informer, Volume 6, Issue 3, Number 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aab568d0-8ec2-48f9-a841-f23557c6c409",
+      "number": "3"
+    },
+    {
+      "id": "8bd3ad3d-59c0-4e4b-812b-d60652af5e1b",
+      "title": "Game Informer, Volume 7, Issue 3, Number 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1997",
+        "start": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8bd3ad3d-59c0-4e4b-812b-d60652af5e1b",
+      "number": "3"
+    },
+    {
+      "id": "48da4339-c8b9-4ff3-b98d-d037a56cd65a",
+      "title": "Game Informer, Volume 8, Issue 3, Number 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1998",
+        "start": "1998-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/48da4339-c8b9-4ff3-b98d-d037a56cd65a",
+      "number": "3"
+    },
+    {
+      "id": "f0caf86b-d535-4b7b-af25-5d7674d9e4e1",
+      "title": "Game Informer, Volume 9, Issue 3, Number 71",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f0caf86b-d535-4b7b-af25-5d7674d9e4e1",
+      "number": "3"
+    },
+    {
+      "id": "da873886-e1f8-431d-8a96-522a99b2c902",
+      "title": "Game Informer, Volume 10, Issue 3, Number 83",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da873886-e1f8-431d-8a96-522a99b2c902",
+      "number": "3"
+    },
+    {
+      "id": "38dd8972-56ea-4a89-99a7-61c35929bb84",
+      "title": "Game Informer, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1992",
+        "start": "1992-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/38dd8972-56ea-4a89-99a7-61c35929bb84",
+      "number": "4"
+    },
+    {
+      "id": "da999278-2906-4ae3-b292-ba18f482e759",
+      "title": "Game Informer, Volume 2, Issue 4, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 1993",
+        "start": "1993-07",
+        "end": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da999278-2906-4ae3-b292-ba18f482e759",
+      "number": "4"
+    },
+    {
+      "id": "8ef0b02b-b968-4988-8701-41a5f076026a",
+      "title": "Game Informer, Volume 3, Issue 4, Number 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 1994",
+        "start": "1994-07",
+        "end": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ef0b02b-b968-4988-8701-41a5f076026a",
+      "number": "4"
+    },
+    {
+      "id": "5a14bf94-01bf-4c2b-9f89-42733a75b318",
+      "title": "Game Informer, Volume 5, Issue 4, Number 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a14bf94-01bf-4c2b-9f89-42733a75b318",
+      "number": "4"
+    },
+    {
+      "id": "72240bbb-63bb-4edb-adac-c531b851cf29",
+      "title": "Game Informer, Volume 6, Issue 4, Number 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72240bbb-63bb-4edb-adac-c531b851cf29",
+      "number": "4"
+    },
+    {
+      "id": "50db9b00-3f18-4f11-a675-b3451504b55d",
+      "title": "Game Informer, Volume 7, Issue 4, Number 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50db9b00-3f18-4f11-a675-b3451504b55d",
+      "number": "4"
+    },
+    {
+      "id": "a9f8e8cf-f4dd-4fd3-8465-67fb6affd911",
+      "title": "Game Informer, Volume 8, Issue 4, Number 60",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1998",
+        "start": "1998-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a9f8e8cf-f4dd-4fd3-8465-67fb6affd911",
+      "number": "4"
+    },
+    {
+      "id": "99d10fe5-56cc-4063-aa73-bb8e20301729",
+      "title": "Game Informer, Volume 9, Issue 4, Number 72",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1999",
+        "start": "1999-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/99d10fe5-56cc-4063-aa73-bb8e20301729",
+      "number": "4"
+    },
+    {
+      "id": "dcefaf7d-0fc6-4314-82c3-600c7c435c44",
+      "title": "Game Informer, Volume 10, Issue 4, Number 84",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dcefaf7d-0fc6-4314-82c3-600c7c435c44",
+      "number": "4"
+    },
+    {
+      "id": "2f335250-c47b-40d4-862f-1e723b65114f",
+      "title": "Game Informer, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1992",
+        "start": "1992-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/2f335250-c47b-40d4-862f-1e723b65114f",
+      "number": "5"
+    },
+    {
+      "id": "f7976184-9e2b-47aa-a0f4-314050e75dc7",
+      "title": "Game Informer, Volume 2, Issue 5, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 1993",
+        "start": "1993-09",
+        "end": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f7976184-9e2b-47aa-a0f4-314050e75dc7",
+      "number": "5"
+    },
+    {
+      "id": "9e7ab657-8d11-4fd6-850a-c5adab24a826",
+      "title": "Game Informer, Volume 3, Issue 5, Number 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 1994",
+        "start": "1994-09",
+        "end": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9e7ab657-8d11-4fd6-850a-c5adab24a826",
+      "number": "5"
+    },
+    {
+      "id": "fabc68d7-9f0c-4841-a85b-fe7c4e888e0b",
+      "title": "Game Informer, Volume 5, Issue 5, Number 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fabc68d7-9f0c-4841-a85b-fe7c4e888e0b",
+      "number": "5"
+    },
+    {
+      "id": "95324481-d077-42e4-a997-df86d9adc383",
+      "title": "Game Informer, Volume 6, Issue 5, Number 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95324481-d077-42e4-a997-df86d9adc383",
+      "number": "5"
+    },
+    {
+      "id": "b6d7d9a7-9308-4c45-aff0-587fc96469a3",
+      "title": "Game Informer, Volume 7, Issue 5, Number 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b6d7d9a7-9308-4c45-aff0-587fc96469a3",
+      "number": "5"
+    },
+    {
+      "id": "9d7e1d67-79c7-4517-bcad-285d59fb79b2",
+      "title": "Game Informer, Volume 8, Issue 5, Number 61",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1998",
+        "start": "1998-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d7e1d67-79c7-4517-bcad-285d59fb79b2",
+      "number": "5"
+    },
+    {
+      "id": "5ec136b6-da32-47ac-9263-fee8619c3b2e",
+      "title": "Game Informer, Volume 9, Issue 5, Number 73",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1999",
+        "start": "1999-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5ec136b6-da32-47ac-9263-fee8619c3b2e",
+      "number": "5"
+    },
+    {
+      "id": "9368858d-d6ac-4e52-8406-d390920f2f51",
+      "title": "Game Informer, Volume 10, Issue 5, Number 85",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9368858d-d6ac-4e52-8406-d390920f2f51",
+      "number": "5"
+    },
+    {
+      "id": "8b6a3141-d40b-42b0-97ed-e271c625b656",
+      "title": "Game Informer, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 1992",
+        "start": "1992-09",
+        "end": "1992-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8b6a3141-d40b-42b0-97ed-e271c625b656",
+      "number": "6"
+    },
+    {
+      "id": "3339eb60-0703-45d8-a594-f0161fbbe746",
+      "title": "Game Informer, Volume 2, Issue 6, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November/December 1993",
+        "start": "1993-11",
+        "end": "1993-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3339eb60-0703-45d8-a594-f0161fbbe746",
+      "number": "6"
+    },
+    {
+      "id": "1ec090f1-9e0b-4630-8b06-ef1e74f5fe16",
+      "title": "Game Informer, Volume 3, Issue 6, Number 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1ec090f1-9e0b-4630-8b06-ef1e74f5fe16",
+      "number": "6"
+    },
+    {
+      "id": "10217535-54f8-4330-9850-19f38a674a43",
+      "title": "Game Informer, Volume 5, Issue 6, Number 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/10217535-54f8-4330-9850-19f38a674a43",
+      "number": "6"
+    },
+    {
+      "id": "5d7675b4-7e62-4c56-af71-1555403198c0",
+      "title": "Game Informer, Volume 6, Issue 6, Number 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5d7675b4-7e62-4c56-af71-1555403198c0",
+      "number": "6"
+    },
+    {
+      "id": "5f7e6548-baf2-417b-b46a-46bf56261d88",
+      "title": "Game Informer, Volume 7, Issue 6, Number 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f7e6548-baf2-417b-b46a-46bf56261d88",
+      "number": "6"
+    },
+    {
+      "id": "108d7be9-5d4a-4d14-a950-1652014fa1a2",
+      "title": "Game Informer, Volume 8, Issue 6, Number 62",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1998",
+        "start": "1998-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/108d7be9-5d4a-4d14-a950-1652014fa1a2",
+      "number": "6"
+    },
+    {
+      "id": "b2cd77de-f080-4f1e-9059-e69775cc9351",
+      "title": "Game Informer, Volume 9, Issue 6, Number 74",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b2cd77de-f080-4f1e-9059-e69775cc9351",
+      "number": "6"
+    },
+    {
+      "id": "eb823303-878a-42c3-b440-415220713505",
+      "title": "Game Informer, Volume 10, Issue 6, Number 86",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eb823303-878a-42c3-b440-415220713505",
+      "number": "6"
+    },
+    {
+      "id": "47621477-9e06-4f9b-b3d5-52bcd77c4162",
+      "title": "Game Informer, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November/December 1992",
+        "start": "1992-11",
+        "end": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/47621477-9e06-4f9b-b3d5-52bcd77c4162",
+      "number": "7"
+    },
+    {
+      "id": "66945c89-1a00-4deb-bdfc-2e68a90c903a",
+      "title": "Game Informer, Volume 3, Issue 7, Number 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/66945c89-1a00-4deb-bdfc-2e68a90c903a",
+      "number": "7"
+    },
+    {
+      "id": "fc5866d6-8b6d-4294-a23f-705370d8d69d",
+      "title": "Game Informer, Volume 5, Issue 7, Number 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fc5866d6-8b6d-4294-a23f-705370d8d69d",
+      "number": "7"
+    },
+    {
+      "id": "00630068-f45f-4e38-87b3-1e4db562bc9b",
+      "title": "Game Informer, Volume 6, Issue 7, Number 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/00630068-f45f-4e38-87b3-1e4db562bc9b",
+      "number": "7"
+    },
+    {
+      "id": "6cd603d2-233b-48b9-85c0-ac366f247899",
+      "title": "Game Informer, Volume 7, Issue 7, Number 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6cd603d2-233b-48b9-85c0-ac366f247899",
+      "number": "7"
+    },
+    {
+      "id": "62fdbc28-1e9e-4f5b-969c-1a78011d282c",
+      "title": "Game Informer, Volume 8, Issue 7, Number 63",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1998",
+        "start": "1998-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/62fdbc28-1e9e-4f5b-969c-1a78011d282c",
+      "number": "7"
+    },
+    {
+      "id": "2091df3f-4eca-4ec6-98dc-673c382cf738",
+      "title": "Game Informer, Volume 9, Issue 7, Number 75",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1999",
+        "start": "1999-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2091df3f-4eca-4ec6-98dc-673c382cf738",
+      "number": "7"
+    },
+    {
+      "id": "dc0fa313-fca6-47e6-a562-a34ddbdc2dcd",
+      "title": "Game Informer, Volume 10, Issue 7, Number 87",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dc0fa313-fca6-47e6-a562-a34ddbdc2dcd",
+      "number": "7"
+    },
+    {
+      "id": "d8762ff6-82af-474d-83c5-19e341016edf",
+      "title": "Game Informer, Volume 5, Issue 8, Number 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d8762ff6-82af-474d-83c5-19e341016edf",
+      "number": "8"
+    },
+    {
+      "id": "b88d5783-e03c-4be5-b7af-92ff6625f2a2",
+      "title": "Game Informer, Volume 6, Issue 8, Number 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b88d5783-e03c-4be5-b7af-92ff6625f2a2",
+      "number": "8"
+    },
+    {
+      "id": "3a2758a2-942a-41b9-bb48-922e302f718b",
+      "title": "Game Informer, Volume 7, Issue 8, Number 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3a2758a2-942a-41b9-bb48-922e302f718b",
+      "number": "8"
+    },
+    {
+      "id": "58d2b39b-e967-44d5-80dd-f00a1cfb1fbb",
+      "title": "Game Informer, Volume 8, Issue 8, Number 64",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1998",
+        "start": "1998-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/58d2b39b-e967-44d5-80dd-f00a1cfb1fbb",
+      "number": "8"
+    },
+    {
+      "id": "723bd7a3-fbfd-4099-89c4-30d0ab45c60e",
+      "title": "Game Informer, Volume 9, Issue 8, Number 76",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1999",
+        "start": "1999-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/723bd7a3-fbfd-4099-89c4-30d0ab45c60e",
+      "number": "8"
+    },
+    {
+      "id": "63212a26-12ef-4064-821d-1aff40a9f05c",
+      "title": "Game Informer, Volume 10, Issue 8, Number 88",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/63212a26-12ef-4064-821d-1aff40a9f05c",
+      "number": "8"
+    },
+    {
+      "id": "06c189e8-335b-4285-8268-642c9ffdc11a",
+      "title": "Game Informer, Volume 5, Issue 9, Number 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/06c189e8-335b-4285-8268-642c9ffdc11a",
+      "number": "9"
+    },
+    {
+      "id": "5df3d0a9-5821-4827-aed3-9e0c934257f6",
+      "title": "Game Informer, Volume 6, Issue 9, Number 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1996",
+        "start": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5df3d0a9-5821-4827-aed3-9e0c934257f6",
+      "number": "9"
+    },
+    {
+      "id": "6afe589d-03fd-4257-987e-771995adb3c0",
+      "title": "Game Informer, Volume 7, Issue 9, Number 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6afe589d-03fd-4257-987e-771995adb3c0",
+      "number": "9"
+    },
+    {
+      "id": "77ce3363-0a18-4e66-b7b8-5628db7f228c",
+      "title": "Game Informer, Volume 8, Issue 9, Number 65",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77ce3363-0a18-4e66-b7b8-5628db7f228c",
+      "number": "9"
+    },
+    {
+      "id": "d254b11f-eb2d-419d-864a-30aaf363a66c",
+      "title": "Game Informer, Volume 9, Issue 9, Number 77",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d254b11f-eb2d-419d-864a-30aaf363a66c",
+      "number": "9"
+    },
+    {
+      "id": "1c88c13a-057d-4aa7-8b17-24d1ae9e179e",
+      "title": "Game Informer, Volume 10, Issue 9, Number 89",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2000",
+        "start": "2000-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1c88c13a-057d-4aa7-8b17-24d1ae9e179e",
+      "number": "9"
+    },
+    {
+      "id": "2cab0eb8-74a5-402a-a9fd-fe2c346af3c0",
+      "title": "Game Informer, Volume 5, Issue 10, Number 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2cab0eb8-74a5-402a-a9fd-fe2c346af3c0",
+      "number": "10"
+    },
+    {
+      "id": "c11aff02-e093-4a7b-9cb3-fa98ed43067e",
+      "title": "Game Informer, Volume 6, Issue 10, Number 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c11aff02-e093-4a7b-9cb3-fa98ed43067e",
+      "number": "10"
+    },
+    {
+      "id": "1bfd4b81-5fe5-4904-8a58-ed7f1dd3371f",
+      "title": "Game Informer, Volume 7, Issue 10, Number 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1bfd4b81-5fe5-4904-8a58-ed7f1dd3371f",
+      "number": "10"
+    },
+    {
+      "id": "9438f98f-e4cb-459c-9c3c-dc4e75bda016",
+      "title": "Game Informer, Volume 8, Issue 10, Number 66",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1998",
+        "start": "1998-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9438f98f-e4cb-459c-9c3c-dc4e75bda016",
+      "number": "10"
+    },
+    {
+      "id": "26b1abc1-bf64-4573-a9ad-8edf04e0f05d",
+      "title": "Game Informer, Volume 9, Issue 10, Number 78",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1999",
+        "start": "1999-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/26b1abc1-bf64-4573-a9ad-8edf04e0f05d",
+      "number": "10"
+    },
+    {
+      "id": "ff1a063b-996c-4cef-a29d-e061b8d68917",
+      "title": "Game Informer, Volume 10, Issue 10, Number 90",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2000",
+        "start": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ff1a063b-996c-4cef-a29d-e061b8d68917",
+      "number": "10"
+    },
+    {
+      "id": "ebb14b99-81ee-4f84-8254-ceb7d265547f",
+      "title": "Game Informer, Volume 5, Issue 11, Number 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ebb14b99-81ee-4f84-8254-ceb7d265547f",
+      "number": "11"
+    },
+    {
+      "id": "f488be68-4239-43af-98a4-b18c353f6bf6",
+      "title": "Game Informer, Volume 6, Issue 11, Number 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f488be68-4239-43af-98a4-b18c353f6bf6",
+      "number": "11"
+    },
+    {
+      "id": "881dd4c2-6122-4390-a00b-f5b7bf83b1aa",
+      "title": "Game Informer, Volume 7, Issue 11, Number 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/881dd4c2-6122-4390-a00b-f5b7bf83b1aa",
+      "number": "11"
+    },
+    {
+      "id": "288f6c6e-6aa3-4e47-9dc6-6235fe6aab46",
+      "title": "Game Informer, Volume 8, Issue 11, Number 67",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1998",
+        "start": "1998-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/288f6c6e-6aa3-4e47-9dc6-6235fe6aab46",
+      "number": "11"
+    },
+    {
+      "id": "7a35300e-1a86-459c-9779-3493edd14c5a",
+      "title": "Game Informer, Volume 9, Issue 11, Number 79",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7a35300e-1a86-459c-9779-3493edd14c5a",
+      "number": "11"
+    },
+    {
+      "id": "3f69d31a-c0ae-4753-a650-16ce50a077b3",
+      "title": "Game Informer, Volume 5, Issue 12, Number 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3f69d31a-c0ae-4753-a650-16ce50a077b3",
+      "number": "12"
+    },
+    {
+      "id": "586c96b2-1f33-49f8-a033-11391b66a001",
+      "title": "Game Informer, Volume 6, Issue 12, Number 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/586c96b2-1f33-49f8-a033-11391b66a001",
+      "number": "12"
+    },
+    {
+      "id": "f1690420-968d-4a23-8805-0e21494c6990",
+      "title": "Game Informer, Volume 7, Issue 12, Number 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1997",
+        "start": "1997-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1690420-968d-4a23-8805-0e21494c6990",
+      "number": "12"
+    },
+    {
+      "id": "6b4cc7c2-487d-420c-a8dd-af7717aa085a",
+      "title": "Game Informer, Volume 8, Issue 12, Number 68",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1998",
+        "start": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b4cc7c2-487d-420c-a8dd-af7717aa085a",
+      "number": "12"
+    },
+    {
+      "id": "e3e33d82-5770-484a-b4ce-ff00032682d6",
+      "title": "Game Informer, Volume 9, Issue 12, Number 80",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e3e33d82-5770-484a-b4ce-ff00032682d6",
+      "number": "12"
+    },
+    {
+      "id": "48740f05-b387-4f61-90af-4377a92d8096",
+      "title": "Game Informer, Issue 91",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/48740f05-b387-4f61-90af-4377a92d8096",
+      "number": "91"
+    },
+    {
+      "id": "d34e0497-4a36-4f9b-9856-534a4b6b1dae",
+      "title": "Game Informer, Issue 92",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d34e0497-4a36-4f9b-9856-534a4b6b1dae",
+      "number": "92"
+    },
+    {
+      "id": "f952b511-52a0-4563-897f-1ff865de9a7d",
+      "title": "Game Informer, Issue 93",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2001",
+        "start": "2001-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f952b511-52a0-4563-897f-1ff865de9a7d",
+      "number": "93"
+    },
+    {
+      "id": "cf46919d-bc53-4838-88a5-7d79ef0a118f",
+      "title": "Game Informer, Issue 94",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cf46919d-bc53-4838-88a5-7d79ef0a118f",
+      "number": "94"
+    },
+    {
+      "id": "acf2ea0f-99a2-471c-a88b-9992f5a2042f",
+      "title": "Game Informer, Issue 95",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2001",
+        "start": "2001-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/acf2ea0f-99a2-471c-a88b-9992f5a2042f",
+      "number": "95"
+    },
+    {
+      "id": "c495e243-1408-4b96-abf4-07f78389363e",
+      "title": "Game Informer, Issue 96",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2001",
+        "start": "2001-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c495e243-1408-4b96-abf4-07f78389363e",
+      "number": "96"
+    },
+    {
+      "id": "513ae62b-4565-4579-a7e0-27a4db15f54c",
+      "title": "Game Informer, Issue 97",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/513ae62b-4565-4579-a7e0-27a4db15f54c",
+      "number": "97"
+    },
+    {
+      "id": "d1a9c436-a2bc-47c0-b1cd-4b8e9aa099fa",
+      "title": "Game Informer, Issue 98",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2001",
+        "start": "2001-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d1a9c436-a2bc-47c0-b1cd-4b8e9aa099fa",
+      "number": "98"
+    },
+    {
+      "id": "42f5f249-ff66-43ad-a518-da33dff4cb30",
+      "title": "Game Informer, Issue 99",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2001",
+        "start": "2001-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/42f5f249-ff66-43ad-a518-da33dff4cb30",
+      "number": "99"
+    },
+    {
+      "id": "6c0778b7-1495-4ce7-99df-65c27aa39ba3",
+      "title": "Game Informer, Issue 100",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2001",
+        "start": "2001-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c0778b7-1495-4ce7-99df-65c27aa39ba3",
+      "number": "100"
+    },
+    {
+      "id": "3e2581e7-83f8-4e14-9e88-b02a11e28067",
+      "title": "Game Informer, Issue 101",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2001",
+        "start": "2001-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3e2581e7-83f8-4e14-9e88-b02a11e28067",
+      "number": "101"
+    },
+    {
+      "id": "14f887d8-4563-4961-9f87-e6219639b61a",
+      "title": "Game Informer, Issue 102",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2001",
+        "start": "2001-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/14f887d8-4563-4961-9f87-e6219639b61a",
+      "number": "102"
+    },
+    {
+      "id": "d13dac70-613e-42d9-aefa-9e2295b07883",
+      "title": "Game Informer, Issue 103",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2001",
+        "start": "2001-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d13dac70-613e-42d9-aefa-9e2295b07883",
+      "number": "103"
+    },
+    {
+      "id": "257de34f-b967-45e7-9e8f-aacf0691f451",
+      "title": "Game Informer, Issue 104",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2001",
+        "start": "2001-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/257de34f-b967-45e7-9e8f-aacf0691f451",
+      "number": "104"
+    },
+    {
+      "id": "7996c3d2-8e13-4ba8-a2c4-2c51f29faf54",
+      "title": "Game Informer, Issue 105",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7996c3d2-8e13-4ba8-a2c4-2c51f29faf54",
+      "number": "105"
+    },
+    {
+      "id": "805c0863-c52c-4c0f-9791-443f89f5c417",
+      "title": "Game Informer, Issue 106",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2002",
+        "start": "2002-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/805c0863-c52c-4c0f-9791-443f89f5c417",
+      "number": "106"
+    },
+    {
+      "id": "5f0a67d0-5226-4487-b129-87913bcb117f",
+      "title": "Game Informer, Issue 107",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2002",
+        "start": "2002-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f0a67d0-5226-4487-b129-87913bcb117f",
+      "number": "107"
+    },
+    {
+      "id": "96c2cca7-7fda-4184-bf91-69cb7a74aee7",
+      "title": "Game Informer, Issue 108",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/96c2cca7-7fda-4184-bf91-69cb7a74aee7",
+      "number": "108"
+    },
+    {
+      "id": "4a641b0f-6ca7-4bd2-ab3e-4996721729a1",
+      "title": "Game Informer, Issue 109",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2002",
+        "start": "2002-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a641b0f-6ca7-4bd2-ab3e-4996721729a1",
+      "number": "109"
+    },
+    {
+      "id": "9848d861-5dcf-4d18-84cb-724275c47816",
+      "title": "Game Informer, Issue 110",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2002",
+        "start": "2002-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9848d861-5dcf-4d18-84cb-724275c47816",
+      "number": "110"
+    },
+    {
+      "id": "27b78610-52b9-4618-86a8-595acf9705b8",
+      "title": "Game Informer, Issue 111",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2002",
+        "start": "2002-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/27b78610-52b9-4618-86a8-595acf9705b8",
+      "number": "111"
+    },
+    {
+      "id": "903cf5c8-d656-4bb0-90cb-6a40b7c0e71f",
+      "title": "Game Informer, Issue 112",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2002",
+        "start": "2002-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/903cf5c8-d656-4bb0-90cb-6a40b7c0e71f",
+      "number": "112"
+    },
+    {
+      "id": "a5f3a4f3-5ec5-439d-9ec3-0f9fcc62d714",
+      "title": "Game Informer, Issue 113",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2002",
+        "start": "2002-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a5f3a4f3-5ec5-439d-9ec3-0f9fcc62d714",
+      "number": "113"
+    },
+    {
+      "id": "0d24a6fe-7481-47da-8631-0f2ab541bdce",
+      "title": "Game Informer, Issue 114",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2002",
+        "start": "2002-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0d24a6fe-7481-47da-8631-0f2ab541bdce",
+      "number": "114"
+    },
+    {
+      "id": "50ef910e-8eb5-4418-8475-92ff30b6146b",
+      "title": "Game Informer, Issue 115",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2002",
+        "start": "2002-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50ef910e-8eb5-4418-8475-92ff30b6146b",
+      "number": "115"
+    },
+    {
+      "id": "b92fe56a-983b-4093-92f7-1c02e3139f05",
+      "title": "Game Informer, Issue 116",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2002",
+        "start": "2002-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b92fe56a-983b-4093-92f7-1c02e3139f05",
+      "number": "116"
+    },
+    {
+      "id": "bed0b962-96df-4ef0-9250-ed0e3f5c9490",
+      "title": "Game Informer, Issue 117",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2003",
+        "start": "2003-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bed0b962-96df-4ef0-9250-ed0e3f5c9490",
+      "number": "117"
+    },
+    {
+      "id": "6de4f5d3-424b-46f8-8511-a7a299fbde44",
+      "title": "Game Informer, Issue 118",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6de4f5d3-424b-46f8-8511-a7a299fbde44",
+      "number": "118"
+    },
+    {
+      "id": "e9071b6d-a503-43e8-821a-4103d7391e79",
+      "title": "Game Informer, Issue 119",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2003",
+        "start": "2003-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e9071b6d-a503-43e8-821a-4103d7391e79",
+      "number": "119"
+    },
+    {
+      "id": "c11e3597-6e01-42fa-aae2-e5718125d675",
+      "title": "Game Informer, Issue 120",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c11e3597-6e01-42fa-aae2-e5718125d675",
+      "number": "120"
+    },
+    {
+      "id": "965d9e3e-2c97-46a2-ab94-6f8549aba8f8",
+      "title": "Game Informer, Issue 121",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/965d9e3e-2c97-46a2-ab94-6f8549aba8f8",
+      "number": "121"
+    },
+    {
+      "id": "d60482a0-fca0-40f0-9322-a5ef21a8ec25",
+      "title": "Game Informer, Issue 122",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d60482a0-fca0-40f0-9322-a5ef21a8ec25",
+      "number": "122"
+    },
+    {
+      "id": "aa63919e-c4e5-4cc0-a4c9-49179246852b",
+      "title": "Game Informer, Issue 123",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa63919e-c4e5-4cc0-a4c9-49179246852b",
+      "number": "123"
+    },
+    {
+      "id": "de168f3b-ed42-42e7-83ef-51c0400f29c6",
+      "title": "Game Informer, Issue 124",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de168f3b-ed42-42e7-83ef-51c0400f29c6",
+      "number": "124"
+    },
+    {
+      "id": "062e2cf0-1dc6-401c-a843-8887dff0b5d8",
+      "title": "Game Informer, Issue 125",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/062e2cf0-1dc6-401c-a843-8887dff0b5d8",
+      "number": "125"
+    },
+    {
+      "id": "46184cc1-3154-4b49-9ce1-e615b45ff996",
+      "title": "Game Informer, Issue 126",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2003",
+        "start": "2003-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/46184cc1-3154-4b49-9ce1-e615b45ff996",
+      "number": "126"
+    },
+    {
+      "id": "ab1b5866-938f-473e-806b-c043dcc2aa70",
+      "title": "Game Informer, Issue 127",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2003",
+        "start": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab1b5866-938f-473e-806b-c043dcc2aa70",
+      "number": "127"
+    },
+    {
+      "id": "812d58c0-f7c9-4783-9559-95f441020c60",
+      "title": "Game Informer, Issue 128",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/812d58c0-f7c9-4783-9559-95f441020c60",
+      "number": "128"
+    },
+    {
+      "id": "2fafc033-bd3e-496a-a2a2-bab2dc4657de",
+      "title": "Game Informer, Issue 128",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2fafc033-bd3e-496a-a2a2-bab2dc4657de",
+      "number": "128"
+    },
+    {
+      "id": "3c036fac-783f-42fb-b5f7-139a1a44dbd9",
+      "title": "Game Informer, Issue 129",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c036fac-783f-42fb-b5f7-139a1a44dbd9",
+      "number": "129"
+    },
+    {
+      "id": "5e8171df-01d6-414d-8601-2f5fc37085aa",
+      "title": "Game Informer, Issue 130",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2004",
+        "start": "2004-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5e8171df-01d6-414d-8601-2f5fc37085aa",
+      "number": "130"
+    },
+    {
+      "id": "a0b749be-756e-48fc-be26-dd7e8b0b2780",
+      "title": "Game Informer, Issue 131",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2004",
+        "start": "2004-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0b749be-756e-48fc-be26-dd7e8b0b2780",
+      "number": "131"
+    },
+    {
+      "id": "07b823c3-6b85-443a-9662-9a2d03dfd014",
+      "title": "Game Informer, Issue 132",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2004",
+        "start": "2004-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/07b823c3-6b85-443a-9662-9a2d03dfd014",
+      "number": "132"
+    },
+    {
+      "id": "98b397f6-b0bf-4286-84d4-d3c12495a2b0",
+      "title": "Game Informer, Issue 133",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2004",
+        "start": "2004-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/98b397f6-b0bf-4286-84d4-d3c12495a2b0",
+      "number": "133"
+    },
+    {
+      "id": "27821e51-8120-487d-b43d-e68b45ae5155",
+      "title": "Game Informer, Issue 134",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2004",
+        "start": "2004-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/27821e51-8120-487d-b43d-e68b45ae5155",
+      "number": "134"
+    },
+    {
+      "id": "667e793f-6539-48f9-bc39-a525449a3ec8",
+      "title": "Game Informer, Issue 135",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2004",
+        "start": "2004-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/667e793f-6539-48f9-bc39-a525449a3ec8",
+      "number": "135"
+    },
+    {
+      "id": "9a61fe79-a28b-464a-91de-f09510e2f14d",
+      "title": "Game Informer, Issue 136",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2004",
+        "start": "2004-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a61fe79-a28b-464a-91de-f09510e2f14d",
+      "number": "136"
+    },
+    {
+      "id": "a142909d-1785-4654-802d-9a31d33cc977",
+      "title": "Game Informer, Issue 137",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2004",
+        "start": "2004-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a142909d-1785-4654-802d-9a31d33cc977",
+      "number": "137"
+    },
+    {
+      "id": "18e9f54d-b693-43e6-9873-80e954013c0f",
+      "title": "Game Informer, Issue 138",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2004",
+        "start": "2004-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/18e9f54d-b693-43e6-9873-80e954013c0f",
+      "number": "138"
+    },
+    {
+      "id": "9856a675-2846-4e0c-a152-8167c64f445b",
+      "title": "Game Informer, Issue 139",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2004",
+        "start": "2004-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9856a675-2846-4e0c-a152-8167c64f445b",
+      "number": "139"
+    },
+    {
+      "id": "3f9a840d-6a1d-4bba-ab78-e45ece845ce2",
+      "title": "Game Informer, Issue 140",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2004",
+        "start": "2004-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3f9a840d-6a1d-4bba-ab78-e45ece845ce2",
+      "number": "140"
+    },
+    {
+      "id": "cd493c4b-f926-4389-9a59-cfe502ec85d7",
+      "title": "Game Informer, Issue 141",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2005",
+        "start": "2005-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cd493c4b-f926-4389-9a59-cfe502ec85d7",
+      "number": "141"
+    },
+    {
+      "id": "2570d720-8c40-4e92-8e7b-130f84cc4bac",
+      "title": "Game Informer, Issue 142",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2005",
+        "start": "2005-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2570d720-8c40-4e92-8e7b-130f84cc4bac",
+      "number": "142"
+    },
+    {
+      "id": "751bbcb7-45ef-4faa-b289-290f4197a679",
+      "title": "Game Informer, Issue 143",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2005",
+        "start": "2005-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/751bbcb7-45ef-4faa-b289-290f4197a679",
+      "number": "143"
+    },
+    {
+      "id": "8f0fe0ed-c58b-4a27-8172-254875cabc50",
+      "title": "Game Informer, Issue 144",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2005",
+        "start": "2005-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8f0fe0ed-c58b-4a27-8172-254875cabc50",
+      "number": "144"
+    },
+    {
+      "id": "5b80fec5-0a2b-4a0b-80f8-cacf02f41075",
+      "title": "Game Informer, Issue 145",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2005",
+        "start": "2005-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5b80fec5-0a2b-4a0b-80f8-cacf02f41075",
+      "number": "145"
+    },
+    {
+      "id": "34b37d79-30ed-42a4-aa7b-c2d6327a44cb",
+      "title": "Game Informer, Issue 146",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2005",
+        "start": "2005-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/34b37d79-30ed-42a4-aa7b-c2d6327a44cb",
+      "number": "146"
+    },
+    {
+      "id": "cb0360b1-b61d-4766-90fc-58d2e8c38ee4",
+      "title": "Game Informer, Issue 147",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2005",
+        "start": "2005-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cb0360b1-b61d-4766-90fc-58d2e8c38ee4",
+      "number": "147"
+    },
+    {
+      "id": "ada28fb6-e71c-490b-9586-dc2dab604eb0",
+      "title": "Game Informer, Issue 148",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2005",
+        "start": "2005-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ada28fb6-e71c-490b-9586-dc2dab604eb0",
+      "number": "148"
+    },
+    {
+      "id": "21b2f313-a6f6-4b64-8db7-e2e501d7d705",
+      "title": "Game Informer, Issue 149",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2005",
+        "start": "2005-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/21b2f313-a6f6-4b64-8db7-e2e501d7d705",
+      "number": "149"
+    },
+    {
+      "id": "f7ad202d-db24-455d-b82f-8d34e3e86120",
+      "title": "Game Informer, Issue 150",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2005",
+        "start": "2005-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f7ad202d-db24-455d-b82f-8d34e3e86120",
+      "number": "150"
+    },
+    {
+      "id": "ea525de8-0a91-4f44-9c3e-d053418b6e0e",
+      "title": "Game Informer, Issue 151",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2005",
+        "start": "2005-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ea525de8-0a91-4f44-9c3e-d053418b6e0e",
+      "number": "151"
+    },
+    {
+      "id": "273c558b-b2c1-4d3d-a17b-f4213edabca0",
+      "title": "Game Informer, Issue 152",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2005",
+        "start": "2005-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/273c558b-b2c1-4d3d-a17b-f4213edabca0",
+      "number": "152"
+    },
+    {
+      "id": "2cf68927-cd28-4cff-adf1-2fef84877ebf",
+      "title": "Game Informer, Issue 153",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2006",
+        "start": "2006-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2cf68927-cd28-4cff-adf1-2fef84877ebf",
+      "number": "153"
+    },
+    {
+      "id": "7d37c443-4c40-4d73-be8e-931265b718d9",
+      "title": "Game Informer, Issue 154",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2006",
+        "start": "2006-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d37c443-4c40-4d73-be8e-931265b718d9",
+      "number": "154"
+    },
+    {
+      "id": "197cef80-4723-4c03-b0c7-cafae5895749",
+      "title": "Game Informer, Issue 155",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2006",
+        "start": "2006-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/197cef80-4723-4c03-b0c7-cafae5895749",
+      "number": "155"
+    },
+    {
+      "id": "fef64765-26fa-4de0-bc0a-508f4aee3679",
+      "title": "Game Informer, Issue 156",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2006",
+        "start": "2006-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fef64765-26fa-4de0-bc0a-508f4aee3679",
+      "number": "156"
+    },
+    {
+      "id": "4f148e03-f3a0-4190-af5c-73e167670531",
+      "title": "Game Informer, Issue 157",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2006",
+        "start": "2006-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4f148e03-f3a0-4190-af5c-73e167670531",
+      "number": "157"
+    },
+    {
+      "id": "cffb2cf3-6df1-4e4d-b2f3-effca5f55c82",
+      "title": "Game Informer, Issue 158",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2006",
+        "start": "2006-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cffb2cf3-6df1-4e4d-b2f3-effca5f55c82",
+      "number": "158"
+    },
+    {
+      "id": "b37bf4bc-44c3-4d43-b9ea-336d9ccbf775",
+      "title": "Game Informer, Issue 159",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2006",
+        "start": "2006-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b37bf4bc-44c3-4d43-b9ea-336d9ccbf775",
+      "number": "159"
+    },
+    {
+      "id": "8cc95423-7ab2-4611-95fd-a80a2c8833fe",
+      "title": "Game Informer, Issue 160",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2006",
+        "start": "2006-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8cc95423-7ab2-4611-95fd-a80a2c8833fe",
+      "number": "160"
+    },
+    {
+      "id": "071eedcd-cc42-4507-b417-7ec22aea267b",
+      "title": "Game Informer, Issue 161",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2006",
+        "start": "2006-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/071eedcd-cc42-4507-b417-7ec22aea267b",
+      "number": "161"
+    },
+    {
+      "id": "dac1340c-acbe-4be1-b5c3-cd029fa4b82a",
+      "title": "Game Informer, Issue 162",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2006",
+        "start": "2006-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dac1340c-acbe-4be1-b5c3-cd029fa4b82a",
+      "number": "162"
+    },
+    {
+      "id": "f8362995-05a4-4a15-9df6-803fa608418e",
+      "title": "Game Informer, Issue 163",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2006",
+        "start": "2006-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8362995-05a4-4a15-9df6-803fa608418e",
+      "number": "163"
+    },
+    {
+      "id": "aaa94014-59e0-4170-97b5-6a68ede0efcc",
+      "title": "Game Informer, Issue 164",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2006",
+        "start": "2006-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aaa94014-59e0-4170-97b5-6a68ede0efcc",
+      "number": "164"
+    },
+    {
+      "id": "422f96ba-2c8e-48f1-a2b1-15a7d9009016",
+      "title": "Game Informer, Issue 165",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2007",
+        "start": "2007-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/422f96ba-2c8e-48f1-a2b1-15a7d9009016",
+      "number": "165"
+    },
+    {
+      "id": "5cf3d239-ad0b-4c9b-b544-e65199426c7e",
+      "title": "Game Informer, Issue 166",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2007",
+        "start": "2007-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5cf3d239-ad0b-4c9b-b544-e65199426c7e",
+      "number": "166"
+    },
+    {
+      "id": "29f36055-9995-4e10-b0ad-b7332c9f8487",
+      "title": "Game Informer, Issue 167",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2007",
+        "start": "2007-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29f36055-9995-4e10-b0ad-b7332c9f8487",
+      "number": "167"
+    },
+    {
+      "id": "83f49592-d5f8-45ba-9c0a-67e3c4bb9689",
+      "title": "Game Informer, Issue 168",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2007",
+        "start": "2007-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/83f49592-d5f8-45ba-9c0a-67e3c4bb9689",
+      "number": "168"
+    },
+    {
+      "id": "fe39c57a-2ccb-4b20-84d3-4b8c0aa1f653",
+      "title": "Game Informer, Issue 169",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2007",
+        "start": "2007-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fe39c57a-2ccb-4b20-84d3-4b8c0aa1f653",
+      "number": "169"
+    },
+    {
+      "id": "64c3ae3a-0c61-48e1-a3a3-fad159af1a00",
+      "title": "Game Informer, Issue 170",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2007",
+        "start": "2007-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/64c3ae3a-0c61-48e1-a3a3-fad159af1a00",
+      "number": "170"
+    },
+    {
+      "id": "0b9b9814-3230-4dc0-83f7-26f938941cb8",
+      "title": "Game Informer, Issue 171",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2007",
+        "start": "2007-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0b9b9814-3230-4dc0-83f7-26f938941cb8",
+      "number": "171"
+    },
+    {
+      "id": "02fef0e0-d5aa-4c32-be76-10e5a20fd237",
+      "title": "Game Informer, Issue 172",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2007",
+        "start": "2007-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/02fef0e0-d5aa-4c32-be76-10e5a20fd237",
+      "number": "172"
+    },
+    {
+      "id": "de60274f-0281-4587-8d88-0e3a5f1c3b0d",
+      "title": "Game Informer, Issue 173",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2007",
+        "start": "2007-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de60274f-0281-4587-8d88-0e3a5f1c3b0d",
+      "number": "173"
+    },
+    {
+      "id": "da59863c-078c-4ef9-964e-71abadaf1905",
+      "title": "Game Informer, Issue 174",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2007",
+        "start": "2007-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da59863c-078c-4ef9-964e-71abadaf1905",
+      "number": "174"
+    },
+    {
+      "id": "f34e6995-954c-4c91-9f9a-cb1ee6872473",
+      "title": "Game Informer, Issue 175",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2007",
+        "start": "2007-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f34e6995-954c-4c91-9f9a-cb1ee6872473",
+      "number": "175"
+    },
+    {
+      "id": "f2a16f7d-021e-41e1-b3b0-102b6c57a677",
+      "title": "Game Informer, Issue 176",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2007",
+        "start": "2007-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f2a16f7d-021e-41e1-b3b0-102b6c57a677",
+      "number": "176"
+    },
+    {
+      "id": "7b3a2072-65b3-448a-a5a9-b2cb1453b2de",
+      "title": "Game Informer, Issue 177",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2008",
+        "start": "2008-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7b3a2072-65b3-448a-a5a9-b2cb1453b2de",
+      "number": "177"
+    },
+    {
+      "id": "fddff1d9-5f0a-4cf1-bc82-6d0650a0928a",
+      "title": "Game Informer, Issue 178",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2008",
+        "start": "2008-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fddff1d9-5f0a-4cf1-bc82-6d0650a0928a",
+      "number": "178"
+    },
+    {
+      "id": "bd125379-35b5-401d-8482-171ae9ef34f7",
+      "title": "Game Informer, Issue 179",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2008",
+        "start": "2008-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bd125379-35b5-401d-8482-171ae9ef34f7",
+      "number": "179"
+    },
+    {
+      "id": "6b886a31-5fae-40f7-b6e8-0b015d8a911e",
+      "title": "Game Informer, Issue 180",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2008",
+        "start": "2008-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6b886a31-5fae-40f7-b6e8-0b015d8a911e",
+      "number": "180"
+    },
+    {
+      "id": "db97b7c7-5777-45c7-893c-de20a5f4b53d",
+      "title": "Game Informer, Issue 181",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2008",
+        "start": "2008-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/db97b7c7-5777-45c7-893c-de20a5f4b53d",
+      "number": "181"
+    },
+    {
+      "id": "52b64ee1-a420-41dd-a7b0-430a6733ed93",
+      "title": "Game Informer, Issue 182",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2008",
+        "start": "2008-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/52b64ee1-a420-41dd-a7b0-430a6733ed93",
+      "number": "182"
+    },
+    {
+      "id": "fa52fd2b-6e00-45e8-b214-62fd23833c8f",
+      "title": "Game Informer, Issue 183",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2008",
+        "start": "2008-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fa52fd2b-6e00-45e8-b214-62fd23833c8f",
+      "number": "183"
+    },
+    {
+      "id": "c1a122ea-4ff9-4f42-bcf0-987c3da72250",
+      "title": "Game Informer, Issue 184",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2008",
+        "start": "2008-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c1a122ea-4ff9-4f42-bcf0-987c3da72250",
+      "number": "184"
+    },
+    {
+      "id": "a686ea7c-04d8-4c9b-97e7-9ce603eb2480",
+      "title": "Game Informer, Issue 185",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2008",
+        "start": "2008-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a686ea7c-04d8-4c9b-97e7-9ce603eb2480",
+      "number": "185"
+    },
+    {
+      "id": "be89c561-7444-4a84-82d6-b79e05070158",
+      "title": "Game Informer, Issue 186",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2008",
+        "start": "2008-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/be89c561-7444-4a84-82d6-b79e05070158",
+      "number": "186"
+    },
+    {
+      "id": "3c7e9d63-e284-4611-a4e7-6b413ab28c98",
+      "title": "Game Informer, Issue 187",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2008",
+        "start": "2008-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c7e9d63-e284-4611-a4e7-6b413ab28c98",
+      "number": "187"
+    },
+    {
+      "id": "54f5bda6-aaea-4b79-9e5b-9117edc1c642",
+      "title": "Game Informer, Issue 188",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2008",
+        "start": "2008-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/54f5bda6-aaea-4b79-9e5b-9117edc1c642",
+      "number": "188"
+    },
+    {
+      "id": "38e99481-acbf-4861-8e18-0f6e35a05428",
+      "title": "Game Informer, Issue 189",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2009",
+        "start": "2009-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38e99481-acbf-4861-8e18-0f6e35a05428",
+      "number": "189"
+    },
+    {
+      "id": "a18d6d2d-ca64-4c65-a188-5985bac1b787",
+      "title": "Game Informer, Issue 190",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2009",
+        "start": "2009-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a18d6d2d-ca64-4c65-a188-5985bac1b787",
+      "number": "190"
+    },
+    {
+      "id": "5d860bf3-bd38-4fea-b59c-e7aedf6187ab",
+      "title": "Game Informer, Issue 191",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2009",
+        "start": "2009-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5d860bf3-bd38-4fea-b59c-e7aedf6187ab",
+      "number": "191"
+    },
+    {
+      "id": "085cb581-b454-4351-90f8-2c7ebba63163",
+      "title": "Game Informer, Issue 192",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2009",
+        "start": "2009-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/085cb581-b454-4351-90f8-2c7ebba63163",
+      "number": "192"
+    },
+    {
+      "id": "1ab725ad-1d71-46e8-a148-b036cd708fc4",
+      "title": "Game Informer, Issue 193",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2009",
+        "start": "2009-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1ab725ad-1d71-46e8-a148-b036cd708fc4",
+      "number": "193"
+    },
+    {
+      "id": "ec9ee096-092c-4db3-a05b-568f79f8f93a",
+      "title": "Game Informer, Issue 194",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2009",
+        "start": "2009-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec9ee096-092c-4db3-a05b-568f79f8f93a",
+      "number": "194"
+    },
+    {
+      "id": "a3f0d334-d5eb-4c08-b146-eff9aeb7b2c9",
+      "title": "Game Informer, Issue 195",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2009",
+        "start": "2009-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a3f0d334-d5eb-4c08-b146-eff9aeb7b2c9",
+      "number": "195"
+    },
+    {
+      "id": "d9d0e65e-7984-48c1-ba65-a534fe436a41",
+      "title": "Game Informer, Issue 196",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2009",
+        "start": "2009-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d9d0e65e-7984-48c1-ba65-a534fe436a41",
+      "number": "196"
+    },
+    {
+      "id": "98f58fad-2bde-4e1f-8d55-9b7b4cc267bf",
+      "title": "Game Informer, Issue 197",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2009",
+        "start": "2009-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/98f58fad-2bde-4e1f-8d55-9b7b4cc267bf",
+      "number": "197"
+    },
+    {
+      "id": "a15618ea-e3a9-474a-8c4a-de69937867c1",
+      "title": "Game Informer, Issue 198",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2009",
+        "start": "2009-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a15618ea-e3a9-474a-8c4a-de69937867c1",
+      "number": "198"
+    },
+    {
+      "id": "eee9845b-9315-4874-8534-6a03b22d330c",
+      "title": "Game Informer, Issue 199",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2009",
+        "start": "2009-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eee9845b-9315-4874-8534-6a03b22d330c",
+      "number": "199"
+    },
+    {
+      "id": "d69897d7-3354-453b-a70d-1a5513d5ddde",
+      "title": "Game Informer, Issue 200",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2009",
+        "start": "2009-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d69897d7-3354-453b-a70d-1a5513d5ddde",
+      "number": "200"
+    },
+    {
+      "id": "2393f864-1fe6-4955-9fdb-fdd5fc079a44",
+      "title": "Game Informer, Issue 201",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2010",
+        "start": "2010-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2393f864-1fe6-4955-9fdb-fdd5fc079a44",
+      "number": "201"
+    },
+    {
+      "id": "42dad1ca-b350-4c29-8683-25897a39f260",
+      "title": "Game Informer, Issue 202",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2010",
+        "start": "2010-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/42dad1ca-b350-4c29-8683-25897a39f260",
+      "number": "202"
+    },
+    {
+      "id": "68e5e65a-a66a-4bbc-acca-f9c19167b35a",
+      "title": "Game Informer, Issue 203",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2010",
+        "start": "2010-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/68e5e65a-a66a-4bbc-acca-f9c19167b35a",
+      "number": "203"
+    },
+    {
+      "id": "d904f482-7d20-4fd5-874a-857a6e170b88",
+      "title": "Game Informer, Issue 204",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2010",
+        "start": "2010-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d904f482-7d20-4fd5-874a-857a6e170b88",
+      "number": "204"
+    },
+    {
+      "id": "e1d7cbbb-0322-4b0f-8869-3d453a5455cc",
+      "title": "Game Informer, Issue 205",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2010",
+        "start": "2010-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e1d7cbbb-0322-4b0f-8869-3d453a5455cc",
+      "number": "205"
+    },
+    {
+      "id": "476d8e94-3ad6-4255-9cba-ee83822229e3",
+      "title": "Game Informer, Issue 206",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2010",
+        "start": "2010-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/476d8e94-3ad6-4255-9cba-ee83822229e3",
+      "number": "206"
+    },
+    {
+      "id": "3602edb1-5f62-441e-af6f-067aacf862fb",
+      "title": "Game Informer, Issue 207",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2010",
+        "start": "2010-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3602edb1-5f62-441e-af6f-067aacf862fb",
+      "number": "207"
+    },
+    {
+      "id": "5b2b1aae-b64a-41e5-9f1a-2c224e881c08",
+      "title": "Game Informer, Issue 208",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2010",
+        "start": "2010-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5b2b1aae-b64a-41e5-9f1a-2c224e881c08",
+      "number": "208"
+    },
+    {
+      "id": "39280b5f-22bb-4fdf-9b9a-74016c314a81",
+      "title": "Game Informer, Issue 209",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2010",
+        "start": "2010-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39280b5f-22bb-4fdf-9b9a-74016c314a81",
+      "number": "209"
+    },
+    {
+      "id": "35f06eb8-23ab-4fd5-9e5e-a5707540ae21",
+      "title": "Game Informer, Issue 210",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2010",
+        "start": "2010-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/35f06eb8-23ab-4fd5-9e5e-a5707540ae21",
+      "number": "210"
+    },
+    {
+      "id": "5f9ddb23-4586-4237-8085-6d09fabacf8f",
+      "title": "Game Informer, Issue 211",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2010",
+        "start": "2010-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f9ddb23-4586-4237-8085-6d09fabacf8f",
+      "number": "211"
+    },
+    {
+      "id": "a297e272-e3ed-4a1b-81e5-4cec76add799",
+      "title": "Game Informer, Issue 212",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2010",
+        "start": "2010-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a297e272-e3ed-4a1b-81e5-4cec76add799",
+      "number": "212"
+    },
+    {
+      "id": "06f0633d-c9bc-4109-96ae-fad647e8330b",
+      "title": "Game Informer, Issue 213",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2011",
+        "start": "2011-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/06f0633d-c9bc-4109-96ae-fad647e8330b",
+      "number": "213"
+    },
+    {
+      "id": "4e1e8462-ec1a-4b71-8968-ce18d10eaa70",
+      "title": "Game Informer, Issue 214",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2011",
+        "start": "2011-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4e1e8462-ec1a-4b71-8968-ce18d10eaa70",
+      "number": "214"
+    },
+    {
+      "id": "f7fe616b-0711-4f09-b22b-b566ef1d92a5",
+      "title": "Game Informer, Issue 215",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2011",
+        "start": "2011-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f7fe616b-0711-4f09-b22b-b566ef1d92a5",
+      "number": "215"
+    },
+    {
+      "id": "58f0345c-2680-4d46-a228-90b59c82d6aa",
+      "title": "Game Informer, Issue 216",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2011",
+        "start": "2011-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/58f0345c-2680-4d46-a228-90b59c82d6aa",
+      "number": "216"
+    },
+    {
+      "id": "b89534f0-b4ee-45ec-a132-b56eb58f23b4",
+      "title": "Game Informer, Issue 217",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2011",
+        "start": "2011-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b89534f0-b4ee-45ec-a132-b56eb58f23b4",
+      "number": "217"
+    },
+    {
+      "id": "d09b5f52-d959-46d1-8fb2-85b9313c53ac",
+      "title": "Game Informer, Issue 218",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2011",
+        "start": "2011-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d09b5f52-d959-46d1-8fb2-85b9313c53ac",
+      "number": "218"
+    },
+    {
+      "id": "9515473f-178e-4819-8f1b-d334c8139063",
+      "title": "Game Informer, Issue 219",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2011",
+        "start": "2011-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9515473f-178e-4819-8f1b-d334c8139063",
+      "number": "219"
+    },
+    {
+      "id": "952a63e9-5f25-48ca-ab26-43b4780dbc4c",
+      "title": "Game Informer, Issue 220",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2011",
+        "start": "2011-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/952a63e9-5f25-48ca-ab26-43b4780dbc4c",
+      "number": "220"
+    },
+    {
+      "id": "da0f63f5-c349-4173-9fb9-bdae40dfa83e",
+      "title": "Game Informer, Issue 221",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2011",
+        "start": "2011-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da0f63f5-c349-4173-9fb9-bdae40dfa83e",
+      "number": "221"
+    },
+    {
+      "id": "27ed7de4-d258-4258-a457-f24a16a63bfb",
+      "title": "Game Informer, Issue 222",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2011",
+        "start": "2011-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/27ed7de4-d258-4258-a457-f24a16a63bfb",
+      "number": "222"
+    },
+    {
+      "id": "25c283bd-6821-4424-a139-9c831b9a9a1a",
+      "title": "Game Informer, Issue 223",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2011",
+        "start": "2011-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/25c283bd-6821-4424-a139-9c831b9a9a1a",
+      "number": "223"
+    },
+    {
+      "id": "751e430a-e433-42f1-9555-f547ec9b2001",
+      "title": "Game Informer, Issue 224",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2011",
+        "start": "2011-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/751e430a-e433-42f1-9555-f547ec9b2001",
+      "number": "224"
+    },
+    {
+      "id": "b4b07a6d-17c9-4e9c-ab32-3e7cd1470804",
+      "title": "Game Informer, Issue 225",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2012",
+        "start": "2012-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b4b07a6d-17c9-4e9c-ab32-3e7cd1470804",
+      "number": "225"
+    },
+    {
+      "id": "c9319db9-ff48-4a2c-8748-12e7dc760330",
+      "title": "Game Informer, Issue 226",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2012",
+        "start": "2012-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c9319db9-ff48-4a2c-8748-12e7dc760330",
+      "number": "226"
+    },
+    {
+      "id": "cb1cdd6e-d86a-43a6-a0f7-a441386fa09f",
+      "title": "Game Informer, Issue 227",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2012",
+        "start": "2012-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cb1cdd6e-d86a-43a6-a0f7-a441386fa09f",
+      "number": "227"
+    },
+    {
+      "id": "79e49e21-68f1-40e2-bb48-18c2dabb695d",
+      "title": "Game Informer, Issue 228",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2012",
+        "start": "2012-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/79e49e21-68f1-40e2-bb48-18c2dabb695d",
+      "number": "228"
+    },
+    {
+      "id": "8a8ff883-c05b-4907-992f-16f84e59eb90",
+      "title": "Game Informer, Issue 229",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2012",
+        "start": "2012-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8a8ff883-c05b-4907-992f-16f84e59eb90",
+      "number": "229"
+    },
+    {
+      "id": "1c0149b2-c8cc-4338-824b-44f37dfd40ba",
+      "title": "Game Informer, Issue 230",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2012",
+        "start": "2012-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1c0149b2-c8cc-4338-824b-44f37dfd40ba",
+      "number": "230"
+    },
+    {
+      "id": "ada9a42d-8c58-416e-8f57-969a7459260b",
+      "title": "Game Informer, Issue 231",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2012",
+        "start": "2012-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ada9a42d-8c58-416e-8f57-969a7459260b",
+      "number": "231"
+    },
+    {
+      "id": "f1ea5c31-314a-4676-9a5a-1fb96e3aea56",
+      "title": "Game Informer, Issue 232",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2012",
+        "start": "2012-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1ea5c31-314a-4676-9a5a-1fb96e3aea56",
+      "number": "232"
+    },
+    {
+      "id": "ffb4a0f2-a087-467f-ab4f-42b357069fb4",
+      "title": "Game Informer, Issue 233",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2012",
+        "start": "2012-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ffb4a0f2-a087-467f-ab4f-42b357069fb4",
+      "number": "233"
+    },
+    {
+      "id": "da3477df-9c4a-4b5e-9f02-d63ff436d477",
+      "title": "Game Informer, Issue 234",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2012",
+        "start": "2012-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/da3477df-9c4a-4b5e-9f02-d63ff436d477",
+      "number": "234"
+    },
+    {
+      "id": "4ebbd12f-cb38-4161-8c19-a49ed0d51943",
+      "title": "Game Informer, Issue 235",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2012",
+        "start": "2012-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4ebbd12f-cb38-4161-8c19-a49ed0d51943",
+      "number": "235"
+    },
+    {
+      "id": "4f5c88d6-5554-4c3b-9fa1-468a6c7797fa",
+      "title": "Game Informer, Issue 236",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2012",
+        "start": "2012-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4f5c88d6-5554-4c3b-9fa1-468a6c7797fa",
+      "number": "236"
+    },
+    {
+      "id": "967c5911-960f-4c46-96df-ce4385ce4059",
+      "title": "Game Informer, Issue 237",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2013",
+        "start": "2013-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/967c5911-960f-4c46-96df-ce4385ce4059",
+      "number": "237"
+    },
+    {
+      "id": "62ac9cee-30f4-4f5e-ae26-e66ced4aae1b",
+      "title": "Game Informer, Issue 238",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2013",
+        "start": "2013-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/62ac9cee-30f4-4f5e-ae26-e66ced4aae1b",
+      "number": "238"
+    },
+    {
+      "id": "7de83573-d475-4d51-a018-1cf200d29330",
+      "title": "Game Informer, Issue 239",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2013",
+        "start": "2013-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7de83573-d475-4d51-a018-1cf200d29330",
+      "number": "239"
+    },
+    {
+      "id": "4fd2a738-e0a8-4771-b042-d51f72cb426a",
+      "title": "Game Informer, Issue 240",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2013",
+        "start": "2013-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4fd2a738-e0a8-4771-b042-d51f72cb426a",
+      "number": "240"
+    },
+    {
+      "id": "7b70c446-42d7-4730-a994-7a6e0c4bf3f2",
+      "title": "Game Informer, Issue 241",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2013",
+        "start": "2013-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7b70c446-42d7-4730-a994-7a6e0c4bf3f2",
+      "number": "241"
+    },
+    {
+      "id": "7e5f1dd4-f5db-4448-bd01-d827bfc4a07b",
+      "title": "Game Informer, Issue 242",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2013",
+        "start": "2013-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7e5f1dd4-f5db-4448-bd01-d827bfc4a07b",
+      "number": "242"
+    },
+    {
+      "id": "cc75a895-1d09-42a0-b359-fdad08ad288e",
+      "title": "Game Informer, Issue 243",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2013",
+        "start": "2013-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc75a895-1d09-42a0-b359-fdad08ad288e",
+      "number": "243"
+    },
+    {
+      "id": "4eb879ef-98e2-48ca-8bad-772d40d82145",
+      "title": "Game Informer, Issue 244",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2013",
+        "start": "2013-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4eb879ef-98e2-48ca-8bad-772d40d82145",
+      "number": "244"
+    },
+    {
+      "id": "d3dcf12f-c527-4515-a028-8a40c78f1ebf",
+      "title": "Game Informer, Issue 245",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2013",
+        "start": "2013-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d3dcf12f-c527-4515-a028-8a40c78f1ebf",
+      "number": "245"
+    },
+    {
+      "id": "c64a3318-cda1-4d79-8dbc-aec9b397c8d6",
+      "title": "Game Informer, Issue 246",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2013",
+        "start": "2013-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c64a3318-cda1-4d79-8dbc-aec9b397c8d6",
+      "number": "246"
+    },
+    {
+      "id": "00700c7b-2eba-4b00-97a1-7d03e44daa4c",
+      "title": "Game Informer, Issue 247",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2013",
+        "start": "2013-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/00700c7b-2eba-4b00-97a1-7d03e44daa4c",
+      "number": "247"
+    },
+    {
+      "id": "281ab3bb-5fcb-4da0-a685-2b21a280224e",
+      "title": "Game Informer, Issue 248",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2013",
+        "start": "2013-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/281ab3bb-5fcb-4da0-a685-2b21a280224e",
+      "number": "248"
+    },
+    {
+      "id": "974a4de6-9a13-4faa-9f69-13567c96864f",
+      "title": "Game Informer, Issue 249",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2014",
+        "start": "2014-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/974a4de6-9a13-4faa-9f69-13567c96864f",
+      "number": "249"
+    },
+    {
+      "id": "66fc3598-fbf6-4086-9b50-a9c33dd83df9",
+      "title": "Game Informer, Issue 250",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2014",
+        "start": "2014-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/66fc3598-fbf6-4086-9b50-a9c33dd83df9",
+      "number": "250"
+    },
+    {
+      "id": "4a3172c6-7a6f-4db0-9e45-94e43a83b7ba",
+      "title": "Game Informer, Issue 251",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2014",
+        "start": "2014-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a3172c6-7a6f-4db0-9e45-94e43a83b7ba",
+      "number": "251"
+    },
+    {
+      "id": "acdcfcfa-ef53-4b81-ba16-806e42470e22",
+      "title": "Game Informer, Issue 252",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2014",
+        "start": "2014-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/acdcfcfa-ef53-4b81-ba16-806e42470e22",
+      "number": "252"
+    },
+    {
+      "id": "efa80298-fd37-4379-9f28-c01613a483c0",
+      "title": "Game Informer, Issue 253",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2014",
+        "start": "2014-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/efa80298-fd37-4379-9f28-c01613a483c0",
+      "number": "253"
+    },
+    {
+      "id": "24f87878-9ab6-4c82-a1a9-c4eb3c13f9a6",
+      "title": "Game Informer, Issue 254",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2014",
+        "start": "2014-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24f87878-9ab6-4c82-a1a9-c4eb3c13f9a6",
+      "number": "254"
+    },
+    {
+      "id": "b089dc78-6326-49d4-8a91-e30bb248359d",
+      "title": "Game Informer, Issue 255",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2014",
+        "start": "2014-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b089dc78-6326-49d4-8a91-e30bb248359d",
+      "number": "255"
+    },
+    {
+      "id": "ed025ca4-afb6-485e-b008-0674f3273a84",
+      "title": "Game Informer, Issue 256",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2014",
+        "start": "2014-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ed025ca4-afb6-485e-b008-0674f3273a84",
+      "number": "256"
+    },
+    {
+      "id": "8c68a90a-28a3-4cb5-8415-2c0fe10f1db0",
+      "title": "Game Informer, Issue 257",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2014",
+        "start": "2014-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8c68a90a-28a3-4cb5-8415-2c0fe10f1db0",
+      "number": "257"
+    },
+    {
+      "id": "64f93d46-5841-47c5-9bd5-ef6d54370cc8",
+      "title": "Game Informer, Issue 258",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2014",
+        "start": "2014-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/64f93d46-5841-47c5-9bd5-ef6d54370cc8",
+      "number": "258"
+    },
+    {
+      "id": "3b337b11-825d-4f12-b494-74541867485b",
+      "title": "Game Informer, Issue 259",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2014",
+        "start": "2014-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3b337b11-825d-4f12-b494-74541867485b",
+      "number": "259"
+    },
+    {
+      "id": "880231d8-46f6-4ab7-b886-539057ddf47f",
+      "title": "Game Informer, Issue 260",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2014",
+        "start": "2014-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/880231d8-46f6-4ab7-b886-539057ddf47f",
+      "number": "260"
+    },
+    {
+      "id": "6ebb222f-e781-4cc2-a4ad-16cb5d6ede8a",
+      "title": "Game Informer, Issue 261",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2015",
+        "start": "2015-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6ebb222f-e781-4cc2-a4ad-16cb5d6ede8a",
+      "number": "261"
+    },
+    {
+      "id": "32341dda-df59-4b20-92f2-4b5a2a3ee698",
+      "title": "Game Informer, Issue 262",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2015",
+        "start": "2015-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/32341dda-df59-4b20-92f2-4b5a2a3ee698",
+      "number": "262"
+    },
+    {
+      "id": "e660e5a0-67f8-4a0d-b787-5cf08a6ed79d",
+      "title": "Game Informer, Issue 263",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2015",
+        "start": "2015-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e660e5a0-67f8-4a0d-b787-5cf08a6ed79d",
+      "number": "263"
+    },
+    {
+      "id": "2446f66d-33bd-45b1-8866-7cdd4ee4781f",
+      "title": "Game Informer, Issue 264",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2015",
+        "start": "2015-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2446f66d-33bd-45b1-8866-7cdd4ee4781f",
+      "number": "264"
+    },
+    {
+      "id": "7f0f33d6-9e3f-426a-b630-5e47969e2661",
+      "title": "Game Informer, Issue 265",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2015",
+        "start": "2015-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7f0f33d6-9e3f-426a-b630-5e47969e2661",
+      "number": "265"
+    },
+    {
+      "id": "40eff362-cb39-4d57-ba9a-7fb72dc9f87b",
+      "title": "Game Informer, Issue 266",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2015",
+        "start": "2015-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/40eff362-cb39-4d57-ba9a-7fb72dc9f87b",
+      "number": "266"
+    },
+    {
+      "id": "9711c895-c721-42a3-8b04-42f6781ab598",
+      "title": "Game Informer, Issue 267",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2015",
+        "start": "2015-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9711c895-c721-42a3-8b04-42f6781ab598",
+      "number": "267"
+    },
+    {
+      "id": "3138cb1c-6916-4819-a72c-e32caea91563",
+      "title": "Game Informer, Issue 268",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2015",
+        "start": "2015-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3138cb1c-6916-4819-a72c-e32caea91563",
+      "number": "268"
+    },
+    {
+      "id": "c0ed1606-c9e8-437b-920f-26a13f6d0df7",
+      "title": "Game Informer, Issue 269",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2015",
+        "start": "2015-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0ed1606-c9e8-437b-920f-26a13f6d0df7",
+      "number": "269"
+    },
+    {
+      "id": "f1aa04e2-aafa-406b-97d9-e36715e41ff5",
+      "title": "Game Informer, Issue 270",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2015",
+        "start": "2015-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1aa04e2-aafa-406b-97d9-e36715e41ff5",
+      "number": "270"
+    },
+    {
+      "id": "7d797cad-db5f-49c1-853a-7c04bfc74211",
+      "title": "Game Informer, Issue 271",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2015",
+        "start": "2015-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d797cad-db5f-49c1-853a-7c04bfc74211",
+      "number": "271"
+    },
+    {
+      "id": "4a906ea8-ff9d-4137-8b41-979250a29d57",
+      "title": "Game Informer, Issue 272",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2015",
+        "start": "2015-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a906ea8-ff9d-4137-8b41-979250a29d57",
+      "number": "272"
+    },
+    {
+      "id": "75dfc594-9ac4-4082-8ba1-5197811e6f3d",
+      "title": "Game Informer, Issue 273",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2016",
+        "start": "2016-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/75dfc594-9ac4-4082-8ba1-5197811e6f3d",
+      "number": "273"
+    },
+    {
+      "id": "8ce92167-a031-4769-8ced-752efed23b34",
+      "title": "Game Informer, Issue 274",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2016",
+        "start": "2016-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ce92167-a031-4769-8ced-752efed23b34",
+      "number": "274"
+    },
+    {
+      "id": "b9eb61c5-544c-40ce-ae10-6a2469ed42a7",
+      "title": "Game Informer, Issue 275",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2016",
+        "start": "2016-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b9eb61c5-544c-40ce-ae10-6a2469ed42a7",
+      "number": "275"
+    },
+    {
+      "id": "2fc059bc-3fef-4ef2-bbe3-277526361e4e",
+      "title": "Game Informer, Issue 276",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2016",
+        "start": "2016-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2fc059bc-3fef-4ef2-bbe3-277526361e4e",
+      "number": "276"
+    },
+    {
+      "id": "f4a5155c-4a17-49e2-a8d3-e80f411ba9ca",
+      "title": "Game Informer, Issue 277",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2016",
+        "start": "2016-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f4a5155c-4a17-49e2-a8d3-e80f411ba9ca",
+      "number": "277"
+    },
+    {
+      "id": "72255fb9-790d-4709-b3e1-b74e376de14a",
+      "title": "Game Informer, Issue 278",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2016",
+        "start": "2016-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/72255fb9-790d-4709-b3e1-b74e376de14a",
+      "number": "278"
+    },
+    {
+      "id": "cdd91606-6f75-4648-ae69-d6e591578a98",
+      "title": "Game Informer, Issue 279",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2016",
+        "start": "2016-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cdd91606-6f75-4648-ae69-d6e591578a98",
+      "number": "279"
+    },
+    {
+      "id": "7ea2783a-62d4-4117-9533-21f1f02c9e4a",
+      "title": "Game Informer, Issue 280",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2016",
+        "start": "2016-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7ea2783a-62d4-4117-9533-21f1f02c9e4a",
+      "number": "280"
+    },
+    {
+      "id": "f4a1cab4-b167-4a32-b8b2-108d8f0f171b",
+      "title": "Game Informer, Issue 281",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2016",
+        "start": "2016-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f4a1cab4-b167-4a32-b8b2-108d8f0f171b",
+      "number": "281"
+    },
+    {
+      "id": "50ae5788-e2bf-42e0-9f51-43d9a1526dc1",
+      "title": "Game Informer, Issue 282",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2016",
+        "start": "2016-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50ae5788-e2bf-42e0-9f51-43d9a1526dc1",
+      "number": "282"
+    },
+    {
+      "id": "a4345897-7928-466f-b0d8-8fe5c95a5d44",
+      "title": "Game Informer, Issue 283",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2016",
+        "start": "2016-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a4345897-7928-466f-b0d8-8fe5c95a5d44",
+      "number": "283"
+    },
+    {
+      "id": "99ecfe0a-610e-436b-86c6-3535a05163fe",
+      "title": "Game Informer, Issue 284",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2016",
+        "start": "2016-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/99ecfe0a-610e-436b-86c6-3535a05163fe",
+      "number": "284"
+    },
+    {
+      "id": "0af0938b-b00c-404d-923c-9892e25bc60a",
+      "title": "Game Informer, Issue 285",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2017",
+        "start": "2017-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0af0938b-b00c-404d-923c-9892e25bc60a",
+      "number": "285"
+    },
+    {
+      "id": "1157c5b0-b731-4236-88c8-b696665be99e",
+      "title": "Game Informer, Issue 286",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2017",
+        "start": "2017-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1157c5b0-b731-4236-88c8-b696665be99e",
+      "number": "286"
+    },
+    {
+      "id": "eae5a5c6-554e-4230-95c6-a6b6702cf63a",
+      "title": "Game Informer, Issue 287",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2017",
+        "start": "2017-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eae5a5c6-554e-4230-95c6-a6b6702cf63a",
+      "number": "287"
+    },
+    {
+      "id": "6d7fbc7b-c842-4aef-b588-bb75693cac8f",
+      "title": "Game Informer, Issue 288",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2017",
+        "start": "2017-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6d7fbc7b-c842-4aef-b588-bb75693cac8f",
+      "number": "288"
+    },
+    {
+      "id": "b46435b3-cb15-471e-91e9-0eb189b80d3f",
+      "title": "Game Informer, Issue 289",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2017",
+        "start": "2017-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b46435b3-cb15-471e-91e9-0eb189b80d3f",
+      "number": "289"
+    },
+    {
+      "id": "ff814f8e-705b-49ef-b3ee-cd60fd449b98",
+      "title": "Game Informer, Issue 290",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2017",
+        "start": "2017-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ff814f8e-705b-49ef-b3ee-cd60fd449b98",
+      "number": "290"
+    },
+    {
+      "id": "051df63f-ee79-4092-a69f-d71d1c15fe0a",
+      "title": "Game Informer, Issue 291",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2017",
+        "start": "2017-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/051df63f-ee79-4092-a69f-d71d1c15fe0a",
+      "number": "291"
+    },
+    {
+      "id": "8995ba1e-08dc-455e-882e-feba249d87db",
+      "title": "Game Informer, Issue 292",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2017",
+        "start": "2017-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8995ba1e-08dc-455e-882e-feba249d87db",
+      "number": "292"
+    },
+    {
+      "id": "3089d05e-29a5-41af-b9ec-638f97abc94d",
+      "title": "Game Informer, Issue 294",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2017",
+        "start": "2017-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3089d05e-29a5-41af-b9ec-638f97abc94d",
+      "number": "294"
+    },
+    {
+      "id": "1d992385-156f-4414-8681-689b18115063",
+      "title": "Game Informer, Issue 296",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2017",
+        "start": "2017-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1d992385-156f-4414-8681-689b18115063",
+      "number": "296"
+    },
+    {
+      "id": "85d189f1-e5ab-4609-984d-4bb67dbbced7",
+      "title": "Game Informer, Issue 297",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2018",
+        "start": "2018-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/85d189f1-e5ab-4609-984d-4bb67dbbced7",
+      "number": "297"
+    },
+    {
+      "id": "0b1121b7-2c83-412b-ad6d-b953def69900",
+      "title": "Game Informer, Issue 298",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2018",
+        "start": "2018-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0b1121b7-2c83-412b-ad6d-b953def69900",
+      "number": "298"
+    },
+    {
+      "id": "442467e4-4a27-49e7-8734-16fa05c59231",
+      "title": "Game Informer, Issue 299",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2018",
+        "start": "2018-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/442467e4-4a27-49e7-8734-16fa05c59231",
+      "number": "299"
+    },
+    {
+      "id": "39a2674e-8ace-41d1-8ab1-fd4f48c68019",
+      "title": "Game Informer, Issue 300",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2018",
+        "start": "2018-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39a2674e-8ace-41d1-8ab1-fd4f48c68019",
+      "number": "300"
+    },
+    {
+      "id": "8a8d6d2f-155d-4cd3-9b25-562bce1958c4",
+      "title": "Game Informer, Issue 301",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2018",
+        "start": "2018-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8a8d6d2f-155d-4cd3-9b25-562bce1958c4",
+      "number": "301"
+    },
+    {
+      "id": "daa26307-2c50-4dd9-bebd-ad5a0eb78113",
+      "title": "Game Informer, Issue 302",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2018",
+        "start": "2018-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/daa26307-2c50-4dd9-bebd-ad5a0eb78113",
+      "number": "302"
+    },
+    {
+      "id": "f0e2a39b-3c46-4ebb-b58a-5ba811919845",
+      "title": "Game Informer, Issue 303",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2018",
+        "start": "2018-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f0e2a39b-3c46-4ebb-b58a-5ba811919845",
+      "number": "303"
+    },
+    {
+      "id": "f2dbb69a-6829-4935-ab6d-6dfdfca6e18d",
+      "title": "Game Informer, Issue 304",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2018",
+        "start": "2018-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f2dbb69a-6829-4935-ab6d-6dfdfca6e18d",
+      "number": "304"
+    },
+    {
+      "id": "2ec7f063-973e-49fd-8a0b-dccd362e9074",
+      "title": "Game Informer, Issue 305",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2018",
+        "start": "2018-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2ec7f063-973e-49fd-8a0b-dccd362e9074",
+      "number": "305"
+    },
+    {
+      "id": "2c503eb6-bf03-49ea-807a-77e4f7bbf1c4",
+      "title": "Game Informer, Issue 306",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2018",
+        "start": "2018-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2c503eb6-bf03-49ea-807a-77e4f7bbf1c4",
+      "number": "306"
+    },
+    {
+      "id": "cdf053a9-1201-4a20-ad68-e6c8199a7a9b",
+      "title": "Game Informer, Issue 307",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2018",
+        "start": "2018-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cdf053a9-1201-4a20-ad68-e6c8199a7a9b",
+      "number": "307"
+    },
+    {
+      "id": "b059b7fe-8627-4d3f-aa28-aefef13e0711",
+      "title": "Game Informer, Issue 308",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2018",
+        "start": "2018-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b059b7fe-8627-4d3f-aa28-aefef13e0711",
+      "number": "308"
+    },
+    {
+      "id": "f5684523-1d7d-49af-b606-b0945b161c51",
+      "title": "Game Informer, Issue 309",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2019",
+        "start": "2019-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f5684523-1d7d-49af-b606-b0945b161c51",
+      "number": "309"
+    },
+    {
+      "id": "6fbc373f-6335-442b-a816-f853115adb76",
+      "title": "Game Informer, Issue 310",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2019",
+        "start": "2019-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6fbc373f-6335-442b-a816-f853115adb76",
+      "number": "310"
+    },
+    {
+      "id": "a030c572-f4d9-4f2c-8006-c1ac4fe92b59",
+      "title": "Game Informer, Issue 311",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2019",
+        "start": "2019-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a030c572-f4d9-4f2c-8006-c1ac4fe92b59",
+      "number": "311"
+    },
+    {
+      "id": "a14bebea-b129-4590-9b27-45a02b2edf56",
+      "title": "Game Informer, Issue 312",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2019",
+        "start": "2019-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a14bebea-b129-4590-9b27-45a02b2edf56",
+      "number": "312"
+    },
+    {
+      "id": "3c5c6d28-365a-45c5-8139-5740d600ad2b",
+      "title": "Game Informer, Issue 313",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2019",
+        "start": "2019-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3c5c6d28-365a-45c5-8139-5740d600ad2b",
+      "number": "313"
+    },
+    {
+      "id": "df3209d5-634c-4122-be58-f68068174a18",
+      "title": "Game Informer, Issue 314",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2019",
+        "start": "2019-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/df3209d5-634c-4122-be58-f68068174a18",
+      "number": "314"
+    },
+    {
+      "id": "f8d43555-2430-44b1-881b-2d2e3bebb084",
+      "title": "Game Informer, Issue 316",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2019",
+        "start": "2019-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8d43555-2430-44b1-881b-2d2e3bebb084",
+      "number": "316"
+    },
+    {
+      "id": "43efc639-7dec-440e-9bfc-8a2292f3e075",
+      "title": "Game Informer, Issue 317",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2019",
+        "start": "2019-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43efc639-7dec-440e-9bfc-8a2292f3e075",
+      "number": "317"
+    },
+    {
+      "id": "5cb6f803-e007-45f9-8c32-e18cae724ed6",
+      "title": "Game Informer, Issue 318",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2019",
+        "start": "2019-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5cb6f803-e007-45f9-8c32-e18cae724ed6",
+      "number": "318"
+    },
+    {
+      "id": "4b902d0b-57c3-40bc-9a8b-6861f70b4e99",
+      "title": "Game Informer, Issue 319",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2019",
+        "start": "2019-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4b902d0b-57c3-40bc-9a8b-6861f70b4e99",
+      "number": "319"
+    },
+    {
+      "id": "e5e4371e-346d-485e-997c-ae86b1506e26",
+      "title": "Game Informer, Issue 320",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2019",
+        "start": "2019-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e5e4371e-346d-485e-997c-ae86b1506e26",
+      "number": "320"
+    },
+    {
+      "id": "84371a34-a134-44ee-8546-9d742fc2876f",
+      "title": "Game Informer, Issue 321",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2020",
+        "start": "2020-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/84371a34-a134-44ee-8546-9d742fc2876f",
+      "number": "321"
+    },
+    {
+      "id": "a2385ae3-e445-4a30-9ca4-be01bee20ee6",
+      "title": "Game Informer, Issue 322",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2020",
+        "start": "2020-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2385ae3-e445-4a30-9ca4-be01bee20ee6",
+      "number": "322"
+    },
+    {
+      "id": "5c574d6a-0a2d-489c-b938-a2dc7dd1dde6",
+      "title": "Game Informer, Issue 323",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2020",
+        "start": "2020-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5c574d6a-0a2d-489c-b938-a2dc7dd1dde6",
+      "number": "323"
+    },
+    {
+      "id": "949a46b1-ebeb-43d7-aa2d-bb7614675b89",
+      "title": "Game Informer, Issue 324",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2020",
+        "start": "2020-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/949a46b1-ebeb-43d7-aa2d-bb7614675b89",
+      "number": "324"
+    },
+    {
+      "id": "18a9be63-61f8-485c-a35e-e6dcfd5a5df1",
+      "title": "Game Informer, Issue 325",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2020",
+        "start": "2020-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/18a9be63-61f8-485c-a35e-e6dcfd5a5df1",
+      "number": "325"
+    },
+    {
+      "id": "3e788baa-681f-4b3a-bc4d-a153fe35453b",
+      "title": "Game Informer, Issue 326",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2020",
+        "start": "2020-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3e788baa-681f-4b3a-bc4d-a153fe35453b",
+      "number": "326"
+    },
+    {
+      "id": "ccce819d-6290-483a-b487-3f15c4ebcff4",
+      "title": "Game Informer, Issue 327",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2020",
+        "start": "2020-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ccce819d-6290-483a-b487-3f15c4ebcff4",
+      "number": "327"
+    },
+    {
+      "id": "2e288025-c24e-4e98-8cd3-8da34f0aae36",
+      "title": "Game Informer, Issue 328",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2020",
+        "start": "2020-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2e288025-c24e-4e98-8cd3-8da34f0aae36",
+      "number": "328"
+    },
+    {
+      "id": "ec2c9c54-22ac-4783-9160-e6181e5b7048",
+      "title": "Game Informer, Issue 329",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2020",
+        "start": "2020-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ec2c9c54-22ac-4783-9160-e6181e5b7048",
+      "number": "329"
+    },
+    {
+      "id": "1f8fe3c5-cf8d-4566-8bbc-a945ee13546a",
+      "title": "Game Informer, Issue 330",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2020",
+        "start": "2020-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1f8fe3c5-cf8d-4566-8bbc-a945ee13546a",
+      "number": "330"
+    },
+    {
+      "id": "38da9a9b-26d3-40e3-b849-5f90045ef0cc",
+      "title": "Game Informer, Issue 331",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2020",
+        "start": "2020-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38da9a9b-26d3-40e3-b849-5f90045ef0cc",
+      "number": "331"
+    },
+    {
+      "id": "e2abd72d-447b-4962-b53a-4ba7d27af20e",
+      "title": "Game Informer, Issue 332",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2021",
+        "start": "2021-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e2abd72d-447b-4962-b53a-4ba7d27af20e",
+      "number": "332"
+    },
+    {
+      "id": "df8c5dc2-c569-4b39-9928-1aec01e1d847",
+      "title": "Game Informer, Issue 333",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2021",
+        "start": "2021-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/df8c5dc2-c569-4b39-9928-1aec01e1d847",
+      "number": "333"
+    },
+    {
+      "id": "1f2ee14e-192b-439d-b947-59b347b822c4",
+      "title": "Game Informer, Issue 334",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2021",
+        "start": "2021-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1f2ee14e-192b-439d-b947-59b347b822c4",
+      "number": "334"
+    },
+    {
+      "id": "7ac389b1-6fb8-455b-a0f6-64611458f1ef",
+      "title": "Game Informer, Issue 335",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2021",
+        "start": "2021-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7ac389b1-6fb8-455b-a0f6-64611458f1ef",
+      "number": "335"
+    },
+    {
+      "id": "92ab60ed-26f6-454d-80ec-07d4679e45fe",
+      "title": "Game Informer, Issue 336",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2021",
+        "start": "2021-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/92ab60ed-26f6-454d-80ec-07d4679e45fe",
+      "number": "336"
+    },
+    {
+      "id": "7ae024d4-637a-4395-8680-d1a77794acd4",
+      "title": "Game Informer, Issue 337",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2021",
+        "start": "2021-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7ae024d4-637a-4395-8680-d1a77794acd4",
+      "number": "337"
+    },
+    {
+      "id": "406ae67c-fdec-4be9-9dd5-dad8637e5131",
+      "title": "Game Informer, Issue 338",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2021",
+        "start": "2021-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/406ae67c-fdec-4be9-9dd5-dad8637e5131",
+      "number": "338"
+    },
+    {
+      "id": "041712d3-c9a6-4400-b36f-3a2000010b4c",
+      "title": "Game Informer, Issue 339",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2021",
+        "start": "2021-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/041712d3-c9a6-4400-b36f-3a2000010b4c",
+      "number": "339"
+    },
+    {
+      "id": "23490887-03e6-4fe9-91f7-e9f0587c46c1",
+      "title": "Game Informer, Issue 340",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2021",
+        "start": "2021-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/23490887-03e6-4fe9-91f7-e9f0587c46c1",
+      "number": "340"
+    },
+    {
+      "id": "4ac85bb9-5b1d-453a-807d-5e3b9865ec4b",
+      "title": "Game Informer, Issue 341",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2021",
+        "start": "2021-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4ac85bb9-5b1d-453a-807d-5e3b9865ec4b",
+      "number": "341"
+    },
+    {
+      "id": "24385b10-0ffb-4ccd-a094-001bb825c34a",
+      "title": "Game Informer, Issue 342",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2021",
+        "start": "2021-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24385b10-0ffb-4ccd-a094-001bb825c34a",
+      "number": "342"
+    },
+    {
+      "id": "b12aafc7-02fd-4706-8300-0dd2f532e2e3",
+      "title": "Game Informer, Issue 343",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2022",
+        "start": "2022-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b12aafc7-02fd-4706-8300-0dd2f532e2e3",
+      "number": "343"
+    },
+    {
+      "id": "e7c97963-9be7-4031-b920-b8224212921a",
+      "title": "Game Informer, Issue 344",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2022",
+        "start": "2022-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e7c97963-9be7-4031-b920-b8224212921a",
+      "number": "344"
+    },
+    {
+      "id": "ebe71b8c-498b-4837-99e3-88e320a109bc",
+      "title": "Game Informer, Issue 345",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2022",
+        "start": "2022-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ebe71b8c-498b-4837-99e3-88e320a109bc",
+      "number": "345"
+    },
+    {
+      "id": "285acfcf-dd6f-4b6b-bf1a-f8b7c3767f7d",
+      "title": "Game Informer, Issue 346",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2022",
+        "start": "2022-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/285acfcf-dd6f-4b6b-bf1a-f8b7c3767f7d",
+      "number": "346"
+    },
+    {
+      "id": "d4caa85e-5bb6-4466-9fbb-07937b76d07e",
+      "title": "Game Informer, Issue 347",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2022",
+        "start": "2022-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d4caa85e-5bb6-4466-9fbb-07937b76d07e",
+      "number": "347"
+    },
+    {
+      "id": "9ea1b61a-c731-4618-bbfb-63ecd3a11f01",
+      "title": "Game Informer, Issue 348",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2022",
+        "start": "2022-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9ea1b61a-c731-4618-bbfb-63ecd3a11f01",
+      "number": "348"
+    },
+    {
+      "id": "9e167508-9900-492a-b05e-077e432b91f6",
+      "title": "Game Informer, Issue 349",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2022",
+        "start": "2022-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9e167508-9900-492a-b05e-077e432b91f6",
+      "number": "349"
+    },
+    {
+      "id": "97071b0f-c841-44b3-ad31-eb568de12c6c",
+      "title": "Game Informer, Issue 350",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2022",
+        "start": "2022-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/97071b0f-c841-44b3-ad31-eb568de12c6c",
+      "number": "350"
+    },
+    {
+      "id": "66438632-e1e9-45e9-a46f-ef3a1d80165c",
+      "title": "Game Informer, Issue 351",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2022",
+        "start": "2022-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/66438632-e1e9-45e9-a46f-ef3a1d80165c",
+      "number": "351"
+    },
+    {
+      "id": "641f8a11-ee61-4fc1-b9f6-1d3c2bedc764",
+      "title": "Game Informer, Issue 352",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2023",
+        "start": "2023-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/641f8a11-ee61-4fc1-b9f6-1d3c2bedc764",
+      "number": "352"
+    },
+    {
+      "id": "cd8b704b-3f03-4101-879a-b6f0725b9b8c",
+      "title": "Game Informer, Issue 353",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2023",
+        "start": "2023-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cd8b704b-3f03-4101-879a-b6f0725b9b8c",
+      "number": "353"
+    },
+    {
+      "id": "94b9cf25-be53-4f79-868c-0451c6e928ca",
+      "title": "Game Informer, Issue 354",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2023",
+        "start": "2023-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/94b9cf25-be53-4f79-868c-0451c6e928ca",
+      "number": "354"
+    },
+    {
+      "id": "781b73ee-4ddb-40e5-9ff7-9eed52ae36c9",
+      "title": "Game Informer, Issue 355",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/item/781b73ee-4ddb-40e5-9ff7-9eed52ae36c9",
+      "number": "355"
+    },
+    {
+      "id": "0bd65cbd-96a0-4f15-bdcb-20e55d6c3362",
+      "title": "Game Informer, Issue 356",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2023",
+        "start": "2023-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0bd65cbd-96a0-4f15-bdcb-20e55d6c3362",
+      "number": "356"
+    },
+    {
+      "id": "b6ce35f9-13d6-4590-9543-97cd0a77ed45",
+      "title": "Game Informer, Issue 357",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2023",
+        "start": "2023-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b6ce35f9-13d6-4590-9543-97cd0a77ed45",
+      "number": "357"
+    },
+    {
+      "id": "dd1f2a84-9a78-4278-bf6e-e033abe89a17",
+      "title": "Game Informer, Issue 358",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2023",
+        "start": "2023-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dd1f2a84-9a78-4278-bf6e-e033abe89a17",
+      "number": "358"
+    },
+    {
+      "id": "f3476907-d45c-4987-aa42-0a7a2c2db9c8",
+      "title": "Game Informer, Issue 359",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2023",
+        "start": "2023-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f3476907-d45c-4987-aa42-0a7a2c2db9c8",
+      "number": "359"
+    },
+    {
+      "id": "c6330a6a-03da-44c5-b3e6-12474492e90b",
+      "title": "Game Informer, Issue 360",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2023",
+        "start": "2023-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c6330a6a-03da-44c5-b3e6-12474492e90b",
+      "number": "360"
+    },
+    {
+      "id": "9e500686-a764-4302-b1ad-c7d6123c03de",
+      "title": "Game Informer, Issue 361",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2023",
+        "start": "2023-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9e500686-a764-4302-b1ad-c7d6123c03de",
+      "number": "361"
+    },
+    {
+      "id": "c45992a6-297f-430f-a152-7102744723d6",
+      "title": "Game Informer, Issue 362",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2024",
+        "start": "2024-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c45992a6-297f-430f-a152-7102744723d6",
+      "number": "362"
+    },
+    {
+      "id": "3f95ce9a-df29-42a6-bbe1-dbe5637563a3",
+      "title": "Game Informer, Issue 363",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2024",
+        "start": "2024-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3f95ce9a-df29-42a6-bbe1-dbe5637563a3",
+      "number": "363"
+    },
+    {
+      "id": "39ca48c1-c640-402f-82eb-ff074bffea8c",
+      "title": "Game Informer, Issue 364",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2024",
+        "start": "2024-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/39ca48c1-c640-402f-82eb-ff074bffea8c",
+      "number": "364"
+    },
+    {
+      "id": "7f096ce9-4435-40c8-85df-0a172082fbd1",
+      "title": "Game Informer, Issue 365",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2024",
+        "start": "2024-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7f096ce9-4435-40c8-85df-0a172082fbd1",
+      "number": "365"
+    },
+    {
+      "id": "35edfb5e-8fae-4c1a-9c91-c6d949f2d282",
+      "title": "Game Informer, Issue 366",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2024",
+        "start": "2024-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/35edfb5e-8fae-4c1a-9c91-c6d949f2d282",
+      "number": "366"
+    },
+    {
+      "id": "43a603c3-1eb4-4673-94ca-b81c3580a570",
+      "title": "Game Informer, Issue 367",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2024",
+        "start": "2024-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43a603c3-1eb4-4673-94ca-b81c3580a570",
+      "number": "367"
+    },
+    {
+      "id": "8a67e2fe-90ac-44d6-95e4-251d6eaaf688",
+      "title": "Game Informer, Issue 368",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2024",
+        "start": "2024-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8a67e2fe-90ac-44d6-95e4-251d6eaaf688",
+      "number": "368"
+    },
+    {
+      "id": "fad8849e-d5c6-4955-b96b-372e6f02e192",
+      "title": "Game Informer Special Edition: The Final Fantasy Companion",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1999",
+        "start": "1999",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/fad8849e-d5c6-4955-b96b-372e6f02e192",
+      "number": null,
+      "parent_id": "f63f3895-cc54-4a63-82eb-1cbec544c258"
+    },
+    {
+      "id": "f63f3895-cc54-4a63-82eb-1cbec544c258",
+      "title": "Game Informer special issues and supplements",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/f63f3895-cc54-4a63-82eb-1cbec544c258",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Game Informer, Issue 1": "a50fed1d-4669-4dea-bf89-4188c653c804",
+    "Game Informer, Volume 2, Issue 1, Number 8": "223ff2f3-f00b-40e9-b9e3-0d784785341b",
+    "Game Informer, Volume 3, Issue 1, Number 14": "f631e8ce-3341-42df-87d6-4ebe34a5c095",
+    "Game Informer, Volume 4, Issue 1, Number 21": "03af0e59-ceb9-490b-a0ea-d376816cc973",
+    "Game Informer, Volume 6, Issue 1, Number 33": "6a8113e3-c86c-40ee-af51-1b6a4802d54a",
+    "Game Informer, Volume 7, Issue 1, Number 45": "84d79427-78a5-471d-ad8f-94803a4f6542",
+    "Game Informer, Volume 8, Issue 1, Number 57": "46de9d23-2ff1-4f0a-bbe2-7901e76bec23",
+    "Game Informer, Volume 9, Issue 1, Number 69": "ef6997af-5300-46a3-8b2f-26d029104775",
+    "Game Informer, Volume 10, Issue 1, Number 81": "c498d680-1885-4fc6-b60d-ea098ec9be65",
+    "Game Informer, Issue 2": "577ef559-1171-43d0-97f1-a2d946445f26",
+    "Game Informer, Volume 2, Issue 2, Number 9": "6abcc44c-4a68-4e7a-9524-546c4a40b2bd",
+    "Game Informer, Volume 3, Issue 2, Number 15": "82fdea2e-fd14-4eb4-9b5d-e24483683746",
+    "Game Informer, Volume 5, Issue 2, Number 22": "59256c19-c10f-4df3-8461-78a04aac7efb",
+    "Game Informer, Volume 6, Issue 2, Number 34": "62489d7e-455e-46ee-80dc-bf4ca04a60fd",
+    "Game Informer, Volume 7, Issue 2, Number 46": "20071aad-0880-4178-954e-7f907e719cac",
+    "Game Informer, Volume 8, Issue 2, Number 58": "75ea5e6d-3105-4fd2-a034-08f339fbbfd5",
+    "Game Informer, Volume 9, Issue 2, Number 70": "1be1a357-bca2-4f11-91a2-875ede239265",
+    "Game Informer, Volume 10, Issue 2, Number 82": "9e09ca0f-6746-4352-a137-0554b96af25b",
+    "Game Informer, Issue 3": "5b423c3a-4318-498e-956d-f0165e7de862",
+    "Game Informer, Volume 2, Issue 3, Number 10": "48de7ae0-5e0f-4d72-833b-b3669dd9661c",
+    "Game Informer, Volume 3, Issue 3, Number 16": "6dfef02a-6581-42a9-b898-dfa1e512b2df",
+    "Game Informer, Volume 5, Issue 3, Number 23": "18bc7d89-508f-4fe5-9a0b-0822d976d50a",
+    "Game Informer, Volume 6, Issue 3, Number 35": "aab568d0-8ec2-48f9-a841-f23557c6c409",
+    "Game Informer, Volume 7, Issue 3, Number 47": "8bd3ad3d-59c0-4e4b-812b-d60652af5e1b",
+    "Game Informer, Volume 8, Issue 3, Number 59": "48da4339-c8b9-4ff3-b98d-d037a56cd65a",
+    "Game Informer, Volume 9, Issue 3, Number 71": "f0caf86b-d535-4b7b-af25-5d7674d9e4e1",
+    "Game Informer, Volume 10, Issue 3, Number 83": "da873886-e1f8-431d-8a96-522a99b2c902",
+    "Game Informer, Issue 4": "38dd8972-56ea-4a89-99a7-61c35929bb84",
+    "Game Informer, Volume 2, Issue 4, Number 11": "da999278-2906-4ae3-b292-ba18f482e759",
+    "Game Informer, Volume 3, Issue 4, Number 17": "8ef0b02b-b968-4988-8701-41a5f076026a",
+    "Game Informer, Volume 5, Issue 4, Number 24": "5a14bf94-01bf-4c2b-9f89-42733a75b318",
+    "Game Informer, Volume 6, Issue 4, Number 36": "72240bbb-63bb-4edb-adac-c531b851cf29",
+    "Game Informer, Volume 7, Issue 4, Number 48": "50db9b00-3f18-4f11-a675-b3451504b55d",
+    "Game Informer, Volume 8, Issue 4, Number 60": "a9f8e8cf-f4dd-4fd3-8465-67fb6affd911",
+    "Game Informer, Volume 9, Issue 4, Number 72": "99d10fe5-56cc-4063-aa73-bb8e20301729",
+    "Game Informer, Volume 10, Issue 4, Number 84": "dcefaf7d-0fc6-4314-82c3-600c7c435c44",
+    "Game Informer, Issue 5": "2f335250-c47b-40d4-862f-1e723b65114f",
+    "Game Informer, Volume 2, Issue 5, Number 12": "f7976184-9e2b-47aa-a0f4-314050e75dc7",
+    "Game Informer, Volume 3, Issue 5, Number 18": "9e7ab657-8d11-4fd6-850a-c5adab24a826",
+    "Game Informer, Volume 5, Issue 5, Number 25": "fabc68d7-9f0c-4841-a85b-fe7c4e888e0b",
+    "Game Informer, Volume 6, Issue 5, Number 37": "95324481-d077-42e4-a997-df86d9adc383",
+    "Game Informer, Volume 7, Issue 5, Number 49": "b6d7d9a7-9308-4c45-aff0-587fc96469a3",
+    "Game Informer, Volume 8, Issue 5, Number 61": "9d7e1d67-79c7-4517-bcad-285d59fb79b2",
+    "Game Informer, Volume 9, Issue 5, Number 73": "5ec136b6-da32-47ac-9263-fee8619c3b2e",
+    "Game Informer, Volume 10, Issue 5, Number 85": "9368858d-d6ac-4e52-8406-d390920f2f51",
+    "Game Informer, Issue 6": "8b6a3141-d40b-42b0-97ed-e271c625b656",
+    "Game Informer, Volume 2, Issue 6, Number 13": "3339eb60-0703-45d8-a594-f0161fbbe746",
+    "Game Informer, Volume 3, Issue 6, Number 19": "1ec090f1-9e0b-4630-8b06-ef1e74f5fe16",
+    "Game Informer, Volume 5, Issue 6, Number 26": "10217535-54f8-4330-9850-19f38a674a43",
+    "Game Informer, Volume 6, Issue 6, Number 38": "5d7675b4-7e62-4c56-af71-1555403198c0",
+    "Game Informer, Volume 7, Issue 6, Number 50": "5f7e6548-baf2-417b-b46a-46bf56261d88",
+    "Game Informer, Volume 8, Issue 6, Number 62": "108d7be9-5d4a-4d14-a950-1652014fa1a2",
+    "Game Informer, Volume 9, Issue 6, Number 74": "b2cd77de-f080-4f1e-9059-e69775cc9351",
+    "Game Informer, Volume 10, Issue 6, Number 86": "eb823303-878a-42c3-b440-415220713505",
+    "Game Informer, Issue 7": "47621477-9e06-4f9b-b3d5-52bcd77c4162",
+    "Game Informer, Volume 3, Issue 7, Number 20": "66945c89-1a00-4deb-bdfc-2e68a90c903a",
+    "Game Informer, Volume 5, Issue 7, Number 27": "fc5866d6-8b6d-4294-a23f-705370d8d69d",
+    "Game Informer, Volume 6, Issue 7, Number 39": "00630068-f45f-4e38-87b3-1e4db562bc9b",
+    "Game Informer, Volume 7, Issue 7, Number 51": "6cd603d2-233b-48b9-85c0-ac366f247899",
+    "Game Informer, Volume 8, Issue 7, Number 63": "62fdbc28-1e9e-4f5b-969c-1a78011d282c",
+    "Game Informer, Volume 9, Issue 7, Number 75": "2091df3f-4eca-4ec6-98dc-673c382cf738",
+    "Game Informer, Volume 10, Issue 7, Number 87": "dc0fa313-fca6-47e6-a562-a34ddbdc2dcd",
+    "Game Informer, Volume 5, Issue 8, Number 28": "d8762ff6-82af-474d-83c5-19e341016edf",
+    "Game Informer, Volume 6, Issue 8, Number 40": "b88d5783-e03c-4be5-b7af-92ff6625f2a2",
+    "Game Informer, Volume 7, Issue 8, Number 52": "3a2758a2-942a-41b9-bb48-922e302f718b",
+    "Game Informer, Volume 8, Issue 8, Number 64": "58d2b39b-e967-44d5-80dd-f00a1cfb1fbb",
+    "Game Informer, Volume 9, Issue 8, Number 76": "723bd7a3-fbfd-4099-89c4-30d0ab45c60e",
+    "Game Informer, Volume 10, Issue 8, Number 88": "63212a26-12ef-4064-821d-1aff40a9f05c",
+    "Game Informer, Volume 5, Issue 9, Number 29": "06c189e8-335b-4285-8268-642c9ffdc11a",
+    "Game Informer, Volume 6, Issue 9, Number 41": "5df3d0a9-5821-4827-aed3-9e0c934257f6",
+    "Game Informer, Volume 7, Issue 9, Number 53": "6afe589d-03fd-4257-987e-771995adb3c0",
+    "Game Informer, Volume 8, Issue 9, Number 65": "77ce3363-0a18-4e66-b7b8-5628db7f228c",
+    "Game Informer, Volume 9, Issue 9, Number 77": "d254b11f-eb2d-419d-864a-30aaf363a66c",
+    "Game Informer, Volume 10, Issue 9, Number 89": "1c88c13a-057d-4aa7-8b17-24d1ae9e179e",
+    "Game Informer, Volume 5, Issue 10, Number 30": "2cab0eb8-74a5-402a-a9fd-fe2c346af3c0",
+    "Game Informer, Volume 6, Issue 10, Number 42": "c11aff02-e093-4a7b-9cb3-fa98ed43067e",
+    "Game Informer, Volume 7, Issue 10, Number 54": "1bfd4b81-5fe5-4904-8a58-ed7f1dd3371f",
+    "Game Informer, Volume 8, Issue 10, Number 66": "9438f98f-e4cb-459c-9c3c-dc4e75bda016",
+    "Game Informer, Volume 9, Issue 10, Number 78": "26b1abc1-bf64-4573-a9ad-8edf04e0f05d",
+    "Game Informer, Volume 10, Issue 10, Number 90": "ff1a063b-996c-4cef-a29d-e061b8d68917",
+    "Game Informer, Volume 5, Issue 11, Number 31": "ebb14b99-81ee-4f84-8254-ceb7d265547f",
+    "Game Informer, Volume 6, Issue 11, Number 43": "f488be68-4239-43af-98a4-b18c353f6bf6",
+    "Game Informer, Volume 7, Issue 11, Number 55": "881dd4c2-6122-4390-a00b-f5b7bf83b1aa",
+    "Game Informer, Volume 8, Issue 11, Number 67": "288f6c6e-6aa3-4e47-9dc6-6235fe6aab46",
+    "Game Informer, Volume 9, Issue 11, Number 79": "7a35300e-1a86-459c-9779-3493edd14c5a",
+    "Game Informer, Volume 5, Issue 12, Number 32": "3f69d31a-c0ae-4753-a650-16ce50a077b3",
+    "Game Informer, Volume 6, Issue 12, Number 44": "586c96b2-1f33-49f8-a033-11391b66a001",
+    "Game Informer, Volume 7, Issue 12, Number 56": "f1690420-968d-4a23-8805-0e21494c6990",
+    "Game Informer, Volume 8, Issue 12, Number 68": "6b4cc7c2-487d-420c-a8dd-af7717aa085a",
+    "Game Informer, Volume 9, Issue 12, Number 80": "e3e33d82-5770-484a-b4ce-ff00032682d6",
+    "Game Informer, Issue 91": "48740f05-b387-4f61-90af-4377a92d8096",
+    "Game Informer, Issue 92": "d34e0497-4a36-4f9b-9856-534a4b6b1dae",
+    "Game Informer, Issue 93": "f952b511-52a0-4563-897f-1ff865de9a7d",
+    "Game Informer, Issue 94": "cf46919d-bc53-4838-88a5-7d79ef0a118f",
+    "Game Informer, Issue 95": "acf2ea0f-99a2-471c-a88b-9992f5a2042f",
+    "Game Informer, Issue 96": "c495e243-1408-4b96-abf4-07f78389363e",
+    "Game Informer, Issue 97": "513ae62b-4565-4579-a7e0-27a4db15f54c",
+    "Game Informer, Issue 98": "d1a9c436-a2bc-47c0-b1cd-4b8e9aa099fa",
+    "Game Informer, Issue 99": "42f5f249-ff66-43ad-a518-da33dff4cb30",
+    "Game Informer, Issue 100": "6c0778b7-1495-4ce7-99df-65c27aa39ba3",
+    "Game Informer, Issue 101": "3e2581e7-83f8-4e14-9e88-b02a11e28067",
+    "Game Informer, Issue 102": "14f887d8-4563-4961-9f87-e6219639b61a",
+    "Game Informer, Issue 103": "d13dac70-613e-42d9-aefa-9e2295b07883",
+    "Game Informer, Issue 104": "257de34f-b967-45e7-9e8f-aacf0691f451",
+    "Game Informer, Issue 105": "7996c3d2-8e13-4ba8-a2c4-2c51f29faf54",
+    "Game Informer, Issue 106": "805c0863-c52c-4c0f-9791-443f89f5c417",
+    "Game Informer, Issue 107": "5f0a67d0-5226-4487-b129-87913bcb117f",
+    "Game Informer, Issue 108": "96c2cca7-7fda-4184-bf91-69cb7a74aee7",
+    "Game Informer, Issue 109": "4a641b0f-6ca7-4bd2-ab3e-4996721729a1",
+    "Game Informer, Issue 110": "9848d861-5dcf-4d18-84cb-724275c47816",
+    "Game Informer, Issue 111": "27b78610-52b9-4618-86a8-595acf9705b8",
+    "Game Informer, Issue 112": "903cf5c8-d656-4bb0-90cb-6a40b7c0e71f",
+    "Game Informer, Issue 113": "a5f3a4f3-5ec5-439d-9ec3-0f9fcc62d714",
+    "Game Informer, Issue 114": "0d24a6fe-7481-47da-8631-0f2ab541bdce",
+    "Game Informer, Issue 115": "50ef910e-8eb5-4418-8475-92ff30b6146b",
+    "Game Informer, Issue 116": "b92fe56a-983b-4093-92f7-1c02e3139f05",
+    "Game Informer, Issue 117": "bed0b962-96df-4ef0-9250-ed0e3f5c9490",
+    "Game Informer, Issue 118": "6de4f5d3-424b-46f8-8511-a7a299fbde44",
+    "Game Informer, Issue 119": "e9071b6d-a503-43e8-821a-4103d7391e79",
+    "Game Informer, Issue 120": "c11e3597-6e01-42fa-aae2-e5718125d675",
+    "Game Informer, Issue 121": "965d9e3e-2c97-46a2-ab94-6f8549aba8f8",
+    "Game Informer, Issue 122": "d60482a0-fca0-40f0-9322-a5ef21a8ec25",
+    "Game Informer, Issue 123": "aa63919e-c4e5-4cc0-a4c9-49179246852b",
+    "Game Informer, Issue 124": "de168f3b-ed42-42e7-83ef-51c0400f29c6",
+    "Game Informer, Issue 125": "062e2cf0-1dc6-401c-a843-8887dff0b5d8",
+    "Game Informer, Issue 126": "46184cc1-3154-4b49-9ce1-e615b45ff996",
+    "Game Informer, Issue 127": "ab1b5866-938f-473e-806b-c043dcc2aa70",
+    "Game Informer, Issue 128": "2fafc033-bd3e-496a-a2a2-bab2dc4657de",
+    "Game Informer, Issue 129": "3c036fac-783f-42fb-b5f7-139a1a44dbd9",
+    "Game Informer, Issue 130": "5e8171df-01d6-414d-8601-2f5fc37085aa",
+    "Game Informer, Issue 131": "a0b749be-756e-48fc-be26-dd7e8b0b2780",
+    "Game Informer, Issue 132": "07b823c3-6b85-443a-9662-9a2d03dfd014",
+    "Game Informer, Issue 133": "98b397f6-b0bf-4286-84d4-d3c12495a2b0",
+    "Game Informer, Issue 134": "27821e51-8120-487d-b43d-e68b45ae5155",
+    "Game Informer, Issue 135": "667e793f-6539-48f9-bc39-a525449a3ec8",
+    "Game Informer, Issue 136": "9a61fe79-a28b-464a-91de-f09510e2f14d",
+    "Game Informer, Issue 137": "a142909d-1785-4654-802d-9a31d33cc977",
+    "Game Informer, Issue 138": "18e9f54d-b693-43e6-9873-80e954013c0f",
+    "Game Informer, Issue 139": "9856a675-2846-4e0c-a152-8167c64f445b",
+    "Game Informer, Issue 140": "3f9a840d-6a1d-4bba-ab78-e45ece845ce2",
+    "Game Informer, Issue 141": "cd493c4b-f926-4389-9a59-cfe502ec85d7",
+    "Game Informer, Issue 142": "2570d720-8c40-4e92-8e7b-130f84cc4bac",
+    "Game Informer, Issue 143": "751bbcb7-45ef-4faa-b289-290f4197a679",
+    "Game Informer, Issue 144": "8f0fe0ed-c58b-4a27-8172-254875cabc50",
+    "Game Informer, Issue 145": "5b80fec5-0a2b-4a0b-80f8-cacf02f41075",
+    "Game Informer, Issue 146": "34b37d79-30ed-42a4-aa7b-c2d6327a44cb",
+    "Game Informer, Issue 147": "cb0360b1-b61d-4766-90fc-58d2e8c38ee4",
+    "Game Informer, Issue 148": "ada28fb6-e71c-490b-9586-dc2dab604eb0",
+    "Game Informer, Issue 149": "21b2f313-a6f6-4b64-8db7-e2e501d7d705",
+    "Game Informer, Issue 150": "f7ad202d-db24-455d-b82f-8d34e3e86120",
+    "Game Informer, Issue 151": "ea525de8-0a91-4f44-9c3e-d053418b6e0e",
+    "Game Informer, Issue 152": "273c558b-b2c1-4d3d-a17b-f4213edabca0",
+    "Game Informer, Issue 153": "2cf68927-cd28-4cff-adf1-2fef84877ebf",
+    "Game Informer, Issue 154": "7d37c443-4c40-4d73-be8e-931265b718d9",
+    "Game Informer, Issue 155": "197cef80-4723-4c03-b0c7-cafae5895749",
+    "Game Informer, Issue 156": "fef64765-26fa-4de0-bc0a-508f4aee3679",
+    "Game Informer, Issue 157": "4f148e03-f3a0-4190-af5c-73e167670531",
+    "Game Informer, Issue 158": "cffb2cf3-6df1-4e4d-b2f3-effca5f55c82",
+    "Game Informer, Issue 159": "b37bf4bc-44c3-4d43-b9ea-336d9ccbf775",
+    "Game Informer, Issue 160": "8cc95423-7ab2-4611-95fd-a80a2c8833fe",
+    "Game Informer, Issue 161": "071eedcd-cc42-4507-b417-7ec22aea267b",
+    "Game Informer, Issue 162": "dac1340c-acbe-4be1-b5c3-cd029fa4b82a",
+    "Game Informer, Issue 163": "f8362995-05a4-4a15-9df6-803fa608418e",
+    "Game Informer, Issue 164": "aaa94014-59e0-4170-97b5-6a68ede0efcc",
+    "Game Informer, Issue 165": "422f96ba-2c8e-48f1-a2b1-15a7d9009016",
+    "Game Informer, Issue 166": "5cf3d239-ad0b-4c9b-b544-e65199426c7e",
+    "Game Informer, Issue 167": "29f36055-9995-4e10-b0ad-b7332c9f8487",
+    "Game Informer, Issue 168": "83f49592-d5f8-45ba-9c0a-67e3c4bb9689",
+    "Game Informer, Issue 169": "fe39c57a-2ccb-4b20-84d3-4b8c0aa1f653",
+    "Game Informer, Issue 170": "64c3ae3a-0c61-48e1-a3a3-fad159af1a00",
+    "Game Informer, Issue 171": "0b9b9814-3230-4dc0-83f7-26f938941cb8",
+    "Game Informer, Issue 172": "02fef0e0-d5aa-4c32-be76-10e5a20fd237",
+    "Game Informer, Issue 173": "de60274f-0281-4587-8d88-0e3a5f1c3b0d",
+    "Game Informer, Issue 174": "da59863c-078c-4ef9-964e-71abadaf1905",
+    "Game Informer, Issue 175": "f34e6995-954c-4c91-9f9a-cb1ee6872473",
+    "Game Informer, Issue 176": "f2a16f7d-021e-41e1-b3b0-102b6c57a677",
+    "Game Informer, Issue 177": "7b3a2072-65b3-448a-a5a9-b2cb1453b2de",
+    "Game Informer, Issue 178": "fddff1d9-5f0a-4cf1-bc82-6d0650a0928a",
+    "Game Informer, Issue 179": "bd125379-35b5-401d-8482-171ae9ef34f7",
+    "Game Informer, Issue 180": "6b886a31-5fae-40f7-b6e8-0b015d8a911e",
+    "Game Informer, Issue 181": "db97b7c7-5777-45c7-893c-de20a5f4b53d",
+    "Game Informer, Issue 182": "52b64ee1-a420-41dd-a7b0-430a6733ed93",
+    "Game Informer, Issue 183": "fa52fd2b-6e00-45e8-b214-62fd23833c8f",
+    "Game Informer, Issue 184": "c1a122ea-4ff9-4f42-bcf0-987c3da72250",
+    "Game Informer, Issue 185": "a686ea7c-04d8-4c9b-97e7-9ce603eb2480",
+    "Game Informer, Issue 186": "be89c561-7444-4a84-82d6-b79e05070158",
+    "Game Informer, Issue 187": "3c7e9d63-e284-4611-a4e7-6b413ab28c98",
+    "Game Informer, Issue 188": "54f5bda6-aaea-4b79-9e5b-9117edc1c642",
+    "Game Informer, Issue 189": "38e99481-acbf-4861-8e18-0f6e35a05428",
+    "Game Informer, Issue 190": "a18d6d2d-ca64-4c65-a188-5985bac1b787",
+    "Game Informer, Issue 191": "5d860bf3-bd38-4fea-b59c-e7aedf6187ab",
+    "Game Informer, Issue 192": "085cb581-b454-4351-90f8-2c7ebba63163",
+    "Game Informer, Issue 193": "1ab725ad-1d71-46e8-a148-b036cd708fc4",
+    "Game Informer, Issue 194": "ec9ee096-092c-4db3-a05b-568f79f8f93a",
+    "Game Informer, Issue 195": "a3f0d334-d5eb-4c08-b146-eff9aeb7b2c9",
+    "Game Informer, Issue 196": "d9d0e65e-7984-48c1-ba65-a534fe436a41",
+    "Game Informer, Issue 197": "98f58fad-2bde-4e1f-8d55-9b7b4cc267bf",
+    "Game Informer, Issue 198": "a15618ea-e3a9-474a-8c4a-de69937867c1",
+    "Game Informer, Issue 199": "eee9845b-9315-4874-8534-6a03b22d330c",
+    "Game Informer, Issue 200": "d69897d7-3354-453b-a70d-1a5513d5ddde",
+    "Game Informer, Issue 201": "2393f864-1fe6-4955-9fdb-fdd5fc079a44",
+    "Game Informer, Issue 202": "42dad1ca-b350-4c29-8683-25897a39f260",
+    "Game Informer, Issue 203": "68e5e65a-a66a-4bbc-acca-f9c19167b35a",
+    "Game Informer, Issue 204": "d904f482-7d20-4fd5-874a-857a6e170b88",
+    "Game Informer, Issue 205": "e1d7cbbb-0322-4b0f-8869-3d453a5455cc",
+    "Game Informer, Issue 206": "476d8e94-3ad6-4255-9cba-ee83822229e3",
+    "Game Informer, Issue 207": "3602edb1-5f62-441e-af6f-067aacf862fb",
+    "Game Informer, Issue 208": "5b2b1aae-b64a-41e5-9f1a-2c224e881c08",
+    "Game Informer, Issue 209": "39280b5f-22bb-4fdf-9b9a-74016c314a81",
+    "Game Informer, Issue 210": "35f06eb8-23ab-4fd5-9e5e-a5707540ae21",
+    "Game Informer, Issue 211": "5f9ddb23-4586-4237-8085-6d09fabacf8f",
+    "Game Informer, Issue 212": "a297e272-e3ed-4a1b-81e5-4cec76add799",
+    "Game Informer, Issue 213": "06f0633d-c9bc-4109-96ae-fad647e8330b",
+    "Game Informer, Issue 214": "4e1e8462-ec1a-4b71-8968-ce18d10eaa70",
+    "Game Informer, Issue 215": "f7fe616b-0711-4f09-b22b-b566ef1d92a5",
+    "Game Informer, Issue 216": "58f0345c-2680-4d46-a228-90b59c82d6aa",
+    "Game Informer, Issue 217": "b89534f0-b4ee-45ec-a132-b56eb58f23b4",
+    "Game Informer, Issue 218": "d09b5f52-d959-46d1-8fb2-85b9313c53ac",
+    "Game Informer, Issue 219": "9515473f-178e-4819-8f1b-d334c8139063",
+    "Game Informer, Issue 220": "952a63e9-5f25-48ca-ab26-43b4780dbc4c",
+    "Game Informer, Issue 221": "da0f63f5-c349-4173-9fb9-bdae40dfa83e",
+    "Game Informer, Issue 222": "27ed7de4-d258-4258-a457-f24a16a63bfb",
+    "Game Informer, Issue 223": "25c283bd-6821-4424-a139-9c831b9a9a1a",
+    "Game Informer, Issue 224": "751e430a-e433-42f1-9555-f547ec9b2001",
+    "Game Informer, Issue 225": "b4b07a6d-17c9-4e9c-ab32-3e7cd1470804",
+    "Game Informer, Issue 226": "c9319db9-ff48-4a2c-8748-12e7dc760330",
+    "Game Informer, Issue 227": "cb1cdd6e-d86a-43a6-a0f7-a441386fa09f",
+    "Game Informer, Issue 228": "79e49e21-68f1-40e2-bb48-18c2dabb695d",
+    "Game Informer, Issue 229": "8a8ff883-c05b-4907-992f-16f84e59eb90",
+    "Game Informer, Issue 230": "1c0149b2-c8cc-4338-824b-44f37dfd40ba",
+    "Game Informer, Issue 231": "ada9a42d-8c58-416e-8f57-969a7459260b",
+    "Game Informer, Issue 232": "f1ea5c31-314a-4676-9a5a-1fb96e3aea56",
+    "Game Informer, Issue 233": "ffb4a0f2-a087-467f-ab4f-42b357069fb4",
+    "Game Informer, Issue 234": "da3477df-9c4a-4b5e-9f02-d63ff436d477",
+    "Game Informer, Issue 235": "4ebbd12f-cb38-4161-8c19-a49ed0d51943",
+    "Game Informer, Issue 236": "4f5c88d6-5554-4c3b-9fa1-468a6c7797fa",
+    "Game Informer, Issue 237": "967c5911-960f-4c46-96df-ce4385ce4059",
+    "Game Informer, Issue 238": "62ac9cee-30f4-4f5e-ae26-e66ced4aae1b",
+    "Game Informer, Issue 239": "7de83573-d475-4d51-a018-1cf200d29330",
+    "Game Informer, Issue 240": "4fd2a738-e0a8-4771-b042-d51f72cb426a",
+    "Game Informer, Issue 241": "7b70c446-42d7-4730-a994-7a6e0c4bf3f2",
+    "Game Informer, Issue 242": "7e5f1dd4-f5db-4448-bd01-d827bfc4a07b",
+    "Game Informer, Issue 243": "cc75a895-1d09-42a0-b359-fdad08ad288e",
+    "Game Informer, Issue 244": "4eb879ef-98e2-48ca-8bad-772d40d82145",
+    "Game Informer, Issue 245": "d3dcf12f-c527-4515-a028-8a40c78f1ebf",
+    "Game Informer, Issue 246": "c64a3318-cda1-4d79-8dbc-aec9b397c8d6",
+    "Game Informer, Issue 247": "00700c7b-2eba-4b00-97a1-7d03e44daa4c",
+    "Game Informer, Issue 248": "281ab3bb-5fcb-4da0-a685-2b21a280224e",
+    "Game Informer, Issue 249": "974a4de6-9a13-4faa-9f69-13567c96864f",
+    "Game Informer, Issue 250": "66fc3598-fbf6-4086-9b50-a9c33dd83df9",
+    "Game Informer, Issue 251": "4a3172c6-7a6f-4db0-9e45-94e43a83b7ba",
+    "Game Informer, Issue 252": "acdcfcfa-ef53-4b81-ba16-806e42470e22",
+    "Game Informer, Issue 253": "efa80298-fd37-4379-9f28-c01613a483c0",
+    "Game Informer, Issue 254": "24f87878-9ab6-4c82-a1a9-c4eb3c13f9a6",
+    "Game Informer, Issue 255": "b089dc78-6326-49d4-8a91-e30bb248359d",
+    "Game Informer, Issue 256": "ed025ca4-afb6-485e-b008-0674f3273a84",
+    "Game Informer, Issue 257": "8c68a90a-28a3-4cb5-8415-2c0fe10f1db0",
+    "Game Informer, Issue 258": "64f93d46-5841-47c5-9bd5-ef6d54370cc8",
+    "Game Informer, Issue 259": "3b337b11-825d-4f12-b494-74541867485b",
+    "Game Informer, Issue 260": "880231d8-46f6-4ab7-b886-539057ddf47f",
+    "Game Informer, Issue 261": "6ebb222f-e781-4cc2-a4ad-16cb5d6ede8a",
+    "Game Informer, Issue 262": "32341dda-df59-4b20-92f2-4b5a2a3ee698",
+    "Game Informer, Issue 263": "e660e5a0-67f8-4a0d-b787-5cf08a6ed79d",
+    "Game Informer, Issue 264": "2446f66d-33bd-45b1-8866-7cdd4ee4781f",
+    "Game Informer, Issue 265": "7f0f33d6-9e3f-426a-b630-5e47969e2661",
+    "Game Informer, Issue 266": "40eff362-cb39-4d57-ba9a-7fb72dc9f87b",
+    "Game Informer, Issue 267": "9711c895-c721-42a3-8b04-42f6781ab598",
+    "Game Informer, Issue 268": "3138cb1c-6916-4819-a72c-e32caea91563",
+    "Game Informer, Issue 269": "c0ed1606-c9e8-437b-920f-26a13f6d0df7",
+    "Game Informer, Issue 270": "f1aa04e2-aafa-406b-97d9-e36715e41ff5",
+    "Game Informer, Issue 271": "7d797cad-db5f-49c1-853a-7c04bfc74211",
+    "Game Informer, Issue 272": "4a906ea8-ff9d-4137-8b41-979250a29d57",
+    "Game Informer, Issue 273": "75dfc594-9ac4-4082-8ba1-5197811e6f3d",
+    "Game Informer, Issue 274": "8ce92167-a031-4769-8ced-752efed23b34",
+    "Game Informer, Issue 275": "b9eb61c5-544c-40ce-ae10-6a2469ed42a7",
+    "Game Informer, Issue 276": "2fc059bc-3fef-4ef2-bbe3-277526361e4e",
+    "Game Informer, Issue 277": "f4a5155c-4a17-49e2-a8d3-e80f411ba9ca",
+    "Game Informer, Issue 278": "72255fb9-790d-4709-b3e1-b74e376de14a",
+    "Game Informer, Issue 279": "cdd91606-6f75-4648-ae69-d6e591578a98",
+    "Game Informer, Issue 280": "7ea2783a-62d4-4117-9533-21f1f02c9e4a",
+    "Game Informer, Issue 281": "f4a1cab4-b167-4a32-b8b2-108d8f0f171b",
+    "Game Informer, Issue 282": "50ae5788-e2bf-42e0-9f51-43d9a1526dc1",
+    "Game Informer, Issue 283": "a4345897-7928-466f-b0d8-8fe5c95a5d44",
+    "Game Informer, Issue 284": "99ecfe0a-610e-436b-86c6-3535a05163fe",
+    "Game Informer, Issue 285": "0af0938b-b00c-404d-923c-9892e25bc60a",
+    "Game Informer, Issue 286": "1157c5b0-b731-4236-88c8-b696665be99e",
+    "Game Informer, Issue 287": "eae5a5c6-554e-4230-95c6-a6b6702cf63a",
+    "Game Informer, Issue 288": "6d7fbc7b-c842-4aef-b588-bb75693cac8f",
+    "Game Informer, Issue 289": "b46435b3-cb15-471e-91e9-0eb189b80d3f",
+    "Game Informer, Issue 290": "ff814f8e-705b-49ef-b3ee-cd60fd449b98",
+    "Game Informer, Issue 291": "051df63f-ee79-4092-a69f-d71d1c15fe0a",
+    "Game Informer, Issue 292": "8995ba1e-08dc-455e-882e-feba249d87db",
+    "Game Informer, Issue 294": "3089d05e-29a5-41af-b9ec-638f97abc94d",
+    "Game Informer, Issue 296": "1d992385-156f-4414-8681-689b18115063",
+    "Game Informer, Issue 297": "85d189f1-e5ab-4609-984d-4bb67dbbced7",
+    "Game Informer, Issue 298": "0b1121b7-2c83-412b-ad6d-b953def69900",
+    "Game Informer, Issue 299": "442467e4-4a27-49e7-8734-16fa05c59231",
+    "Game Informer, Issue 300": "39a2674e-8ace-41d1-8ab1-fd4f48c68019",
+    "Game Informer, Issue 301": "8a8d6d2f-155d-4cd3-9b25-562bce1958c4",
+    "Game Informer, Issue 302": "daa26307-2c50-4dd9-bebd-ad5a0eb78113",
+    "Game Informer, Issue 303": "f0e2a39b-3c46-4ebb-b58a-5ba811919845",
+    "Game Informer, Issue 304": "f2dbb69a-6829-4935-ab6d-6dfdfca6e18d",
+    "Game Informer, Issue 305": "2ec7f063-973e-49fd-8a0b-dccd362e9074",
+    "Game Informer, Issue 306": "2c503eb6-bf03-49ea-807a-77e4f7bbf1c4",
+    "Game Informer, Issue 307": "cdf053a9-1201-4a20-ad68-e6c8199a7a9b",
+    "Game Informer, Issue 308": "b059b7fe-8627-4d3f-aa28-aefef13e0711",
+    "Game Informer, Issue 309": "f5684523-1d7d-49af-b606-b0945b161c51",
+    "Game Informer, Issue 310": "6fbc373f-6335-442b-a816-f853115adb76",
+    "Game Informer, Issue 311": "a030c572-f4d9-4f2c-8006-c1ac4fe92b59",
+    "Game Informer, Issue 312": "a14bebea-b129-4590-9b27-45a02b2edf56",
+    "Game Informer, Issue 313": "3c5c6d28-365a-45c5-8139-5740d600ad2b",
+    "Game Informer, Issue 314": "df3209d5-634c-4122-be58-f68068174a18",
+    "Game Informer, Issue 316": "f8d43555-2430-44b1-881b-2d2e3bebb084",
+    "Game Informer, Issue 317": "43efc639-7dec-440e-9bfc-8a2292f3e075",
+    "Game Informer, Issue 318": "5cb6f803-e007-45f9-8c32-e18cae724ed6",
+    "Game Informer, Issue 319": "4b902d0b-57c3-40bc-9a8b-6861f70b4e99",
+    "Game Informer, Issue 320": "e5e4371e-346d-485e-997c-ae86b1506e26",
+    "Game Informer, Issue 321": "84371a34-a134-44ee-8546-9d742fc2876f",
+    "Game Informer, Issue 322": "a2385ae3-e445-4a30-9ca4-be01bee20ee6",
+    "Game Informer, Issue 323": "5c574d6a-0a2d-489c-b938-a2dc7dd1dde6",
+    "Game Informer, Issue 324": "949a46b1-ebeb-43d7-aa2d-bb7614675b89",
+    "Game Informer, Issue 325": "18a9be63-61f8-485c-a35e-e6dcfd5a5df1",
+    "Game Informer, Issue 326": "3e788baa-681f-4b3a-bc4d-a153fe35453b",
+    "Game Informer, Issue 327": "ccce819d-6290-483a-b487-3f15c4ebcff4",
+    "Game Informer, Issue 328": "2e288025-c24e-4e98-8cd3-8da34f0aae36",
+    "Game Informer, Issue 329": "ec2c9c54-22ac-4783-9160-e6181e5b7048",
+    "Game Informer, Issue 330": "1f8fe3c5-cf8d-4566-8bbc-a945ee13546a",
+    "Game Informer, Issue 331": "38da9a9b-26d3-40e3-b849-5f90045ef0cc",
+    "Game Informer, Issue 332": "e2abd72d-447b-4962-b53a-4ba7d27af20e",
+    "Game Informer, Issue 333": "df8c5dc2-c569-4b39-9928-1aec01e1d847",
+    "Game Informer, Issue 334": "1f2ee14e-192b-439d-b947-59b347b822c4",
+    "Game Informer, Issue 335": "7ac389b1-6fb8-455b-a0f6-64611458f1ef",
+    "Game Informer, Issue 336": "92ab60ed-26f6-454d-80ec-07d4679e45fe",
+    "Game Informer, Issue 337": "7ae024d4-637a-4395-8680-d1a77794acd4",
+    "Game Informer, Issue 338": "406ae67c-fdec-4be9-9dd5-dad8637e5131",
+    "Game Informer, Issue 339": "041712d3-c9a6-4400-b36f-3a2000010b4c",
+    "Game Informer, Issue 340": "23490887-03e6-4fe9-91f7-e9f0587c46c1",
+    "Game Informer, Issue 341": "4ac85bb9-5b1d-453a-807d-5e3b9865ec4b",
+    "Game Informer, Issue 342": "24385b10-0ffb-4ccd-a094-001bb825c34a",
+    "Game Informer, Issue 343": "b12aafc7-02fd-4706-8300-0dd2f532e2e3",
+    "Game Informer, Issue 344": "e7c97963-9be7-4031-b920-b8224212921a",
+    "Game Informer, Issue 345": "ebe71b8c-498b-4837-99e3-88e320a109bc",
+    "Game Informer, Issue 346": "285acfcf-dd6f-4b6b-bf1a-f8b7c3767f7d",
+    "Game Informer, Issue 347": "d4caa85e-5bb6-4466-9fbb-07937b76d07e",
+    "Game Informer, Issue 348": "9ea1b61a-c731-4618-bbfb-63ecd3a11f01",
+    "Game Informer, Issue 349": "9e167508-9900-492a-b05e-077e432b91f6",
+    "Game Informer, Issue 350": "97071b0f-c841-44b3-ad31-eb568de12c6c",
+    "Game Informer, Issue 351": "66438632-e1e9-45e9-a46f-ef3a1d80165c",
+    "Game Informer, Issue 352": "641f8a11-ee61-4fc1-b9f6-1d3c2bedc764",
+    "Game Informer, Issue 353": "cd8b704b-3f03-4101-879a-b6f0725b9b8c",
+    "Game Informer, Issue 354": "94b9cf25-be53-4f79-868c-0451c6e928ca",
+    "Game Informer, Issue 355": "781b73ee-4ddb-40e5-9ff7-9eed52ae36c9",
+    "Game Informer, Issue 356": "0bd65cbd-96a0-4f15-bdcb-20e55d6c3362",
+    "Game Informer, Issue 357": "b6ce35f9-13d6-4590-9543-97cd0a77ed45",
+    "Game Informer, Issue 358": "dd1f2a84-9a78-4278-bf6e-e033abe89a17",
+    "Game Informer, Issue 359": "f3476907-d45c-4987-aa42-0a7a2c2db9c8",
+    "Game Informer, Issue 360": "c6330a6a-03da-44c5-b3e6-12474492e90b",
+    "Game Informer, Issue 361": "9e500686-a764-4302-b1ad-c7d6123c03de",
+    "Game Informer, Issue 362": "c45992a6-297f-430f-a152-7102744723d6",
+    "Game Informer, Issue 363": "3f95ce9a-df29-42a6-bbe1-dbe5637563a3",
+    "Game Informer, Issue 364": "39ca48c1-c640-402f-82eb-ff074bffea8c",
+    "Game Informer, Issue 365": "7f096ce9-4435-40c8-85df-0a172082fbd1",
+    "Game Informer, Issue 366": "35edfb5e-8fae-4c1a-9c91-c6d949f2d282",
+    "Game Informer, Issue 367": "43a603c3-1eb4-4673-94ca-b81c3580a570",
+    "Game Informer, Issue 368": "8a67e2fe-90ac-44d6-95e4-251d6eaaf688",
+    "Game Informer Special Edition: The Final Fantasy Companion": "fad8849e-d5c6-4955-b96b-372e6f02e192",
+    "Game Informer special issues and supplements": "f63f3895-cc54-4a63-82eb-1cbec544c258"
+  }
+}

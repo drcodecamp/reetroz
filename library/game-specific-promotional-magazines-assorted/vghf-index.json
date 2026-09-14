@@ -1,0 +1,30 @@
+{
+  "provider": "vghf",
+  "folder_id": "680c3edb-68a7-4316-aa7a-c32891b9e2d2",
+  "url": "https://archive.gamehistory.org/folder/680c3edb-68a7-4316-aa7a-c32891b9e2d2",
+  "retrieved_at": "2026-09-13T22:52:26+00:00",
+  "expected": 1,
+  "count": 1,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "5a7f52f0-e46d-47ed-9d5d-a9fda7b7464a",
+      "title": "The Matrix Online: The Official Magazine, Volume 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "2005",
+        "start": "2005",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/5a7f52f0-e46d-47ed-9d5d-a9fda7b7464a",
+      "number": "1"
+    }
+  ],
+  "by_title": {
+    "The Matrix Online: The Official Magazine, Volume 1, Issue 1": "5a7f52f0-e46d-47ed-9d5d-a9fda7b7464a"
+  }
+}

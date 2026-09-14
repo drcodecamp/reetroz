@@ -1,0 +1,28 @@
+{
+  "provider": "vghf",
+  "folder_id": "b9602704-d805-41ed-a725-0f71dedbed27",
+  "url": "https://archive.gamehistory.org/folder/b9602704-d805-41ed-a725-0f71dedbed27",
+  "retrieved_at": "2026-09-13T22:59:00+00:00",
+  "expected": 1,
+  "count": 1,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "d0afc9ed-ab12-41e7-afe6-ad86af35f9cf",
+      "title": "PS Max, Volume 1, Number 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall/Winter 1999"
+      },
+      "url": "https://archive.gamehistory.org/item/d0afc9ed-ab12-41e7-afe6-ad86af35f9cf",
+      "number": "1"
+    }
+  ],
+  "by_title": {
+    "PS Max, Volume 1, Number 1, Issue 1": "d0afc9ed-ab12-41e7-afe6-ad86af35f9cf"
+  }
+}

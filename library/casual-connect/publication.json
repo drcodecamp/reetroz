@@ -36,7 +36,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/e40d65ad-66bd-46f3-983d-4738683bf586",
-      "date_range": "2006–2015"
+      "date_range": "June 2006 – Winter 2015",
+      "items": 15
     },
     {
       "provider": "internet-archive",
@@ -51,5 +52,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

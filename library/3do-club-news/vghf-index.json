@@ -1,0 +1,98 @@
+{
+  "provider": "vghf",
+  "folder_id": "cc6ac688-13e0-4bff-824c-80a446951743",
+  "url": "https://archive.gamehistory.org/folder/cc6ac688-13e0-4bff-824c-80a446951743",
+  "retrieved_at": "2026-09-13T22:46:47+00:00",
+  "expected": 5,
+  "count": 5,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "5df7a6c0-8ed4-46f1-ae23-e3d6f46abef7",
+      "title": "3DO Club News, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1994",
+        "start": "1994-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/5df7a6c0-8ed4-46f1-ae23-e3d6f46abef7",
+      "number": "3"
+    },
+    {
+      "id": "8d758276-9967-4c7d-abce-4adcad6e370b",
+      "title": "3DO Club News, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8d758276-9967-4c7d-abce-4adcad6e370b",
+      "number": "4"
+    },
+    {
+      "id": "864fae57-4e95-46b0-a671-ae4f66a5d30b",
+      "title": "3DO Club News, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/864fae57-4e95-46b0-a671-ae4f66a5d30b",
+      "number": "5"
+    },
+    {
+      "id": "4a0705fb-ae8d-4901-97d3-dd32c685075f",
+      "title": "3DO Club News, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a0705fb-ae8d-4901-97d3-dd32c685075f",
+      "number": "6"
+    },
+    {
+      "id": "5a8a940e-51c2-4db3-a0ab-39072f889a59",
+      "title": "3DO Club News, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5a8a940e-51c2-4db3-a0ab-39072f889a59",
+      "number": "7"
+    }
+  ],
+  "by_title": {
+    "3DO Club News, Issue 3": "5df7a6c0-8ed4-46f1-ae23-e3d6f46abef7",
+    "3DO Club News, Issue 4": "8d758276-9967-4c7d-abce-4adcad6e370b",
+    "3DO Club News, Issue 5": "864fae57-4e95-46b0-a671-ae4f66a5d30b",
+    "3DO Club News, Issue 6": "4a0705fb-ae8d-4901-97d3-dd32c685075f",
+    "3DO Club News, Issue 7": "5a8a940e-51c2-4db3-a0ab-39072f889a59"
+  }
+}

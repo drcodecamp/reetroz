@@ -1,0 +1,368 @@
+{
+  "provider": "vghf",
+  "folder_id": "3fa65659-9fac-4ba4-ae28-09bc68160e52",
+  "url": "https://archive.gamehistory.org/folder/3fa65659-9fac-4ba4-ae28-09bc68160e52",
+  "retrieved_at": "2026-09-13T23:00:35+00:00",
+  "expected": 21,
+  "count": 21,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "daeaab13-9a5b-4244-9bf2-1c0b98b0265b",
+      "title": "Video Games, Volume 1, Number 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1982",
+        "start": "1982-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/daeaab13-9a5b-4244-9bf2-1c0b98b0265b",
+      "number": "1"
+    },
+    {
+      "id": "813a41a8-c2d0-43c5-85cd-89c1aa9d1c49",
+      "title": "Video Games, Volume 1, Number 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1983",
+        "start": "1983-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/813a41a8-c2d0-43c5-85cd-89c1aa9d1c49",
+      "number": "2"
+    },
+    {
+      "id": "14c2227b-e159-4063-a74b-1b77da88b512",
+      "title": "Video Games, Volume 1, Number 3, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1982",
+        "start": "1982-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/14c2227b-e159-4063-a74b-1b77da88b512",
+      "number": "3"
+    },
+    {
+      "id": "ce885cc3-f333-4bf9-ac08-51cf5b6c89c7",
+      "title": "Video Games, Volume 1, Number 4, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1983",
+        "start": "1983-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce885cc3-f333-4bf9-ac08-51cf5b6c89c7",
+      "number": "4"
+    },
+    {
+      "id": "9920dbf6-5b5b-447d-bc60-6f3ac6df2665",
+      "title": "Video Games, Volume 1, Number 5, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1983",
+        "start": "1983-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9920dbf6-5b5b-447d-bc60-6f3ac6df2665",
+      "number": "5"
+    },
+    {
+      "id": "19d542da-1bc1-4341-81c7-3e93976b1916",
+      "title": "Video Games, Volume 1, Number 6, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1983",
+        "start": "1983-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/19d542da-1bc1-4341-81c7-3e93976b1916",
+      "number": "6"
+    },
+    {
+      "id": "ccafc2bb-655d-4f27-9b47-bb3091892660",
+      "title": "Video Games, Volume 1, Number 7, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1983",
+        "start": "1983-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ccafc2bb-655d-4f27-9b47-bb3091892660",
+      "number": "7"
+    },
+    {
+      "id": "8b75b86c-257c-4895-a5a9-e1d24e67ee6f",
+      "title": "Video Games, Volume 1, Number 8, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1983",
+        "start": "1983-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8b75b86c-257c-4895-a5a9-e1d24e67ee6f",
+      "number": "8"
+    },
+    {
+      "id": "a2cf0d12-2f72-4ad9-8ed1-5226a2d8c573",
+      "title": "Video Games, Volume 1, Number 9, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1983",
+        "start": "1983-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2cf0d12-2f72-4ad9-8ed1-5226a2d8c573",
+      "number": "9"
+    },
+    {
+      "id": "dc53451f-0bea-4f80-aea5-fdb1e61f1eac",
+      "title": "Video Games, Volume 1, Number 10, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1983",
+        "start": "1983-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dc53451f-0bea-4f80-aea5-fdb1e61f1eac",
+      "number": "10"
+    },
+    {
+      "id": "45abc416-bbb5-4d01-bbf2-50010c824299",
+      "title": "Video Games, Volume 1, Number 11, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1983",
+        "start": "1983-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45abc416-bbb5-4d01-bbf2-50010c824299",
+      "number": "11"
+    },
+    {
+      "id": "791b395d-07f5-4381-8789-0848a2980149",
+      "title": "Video Games, Volume 1, Number 12, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1983",
+        "start": "1983-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/791b395d-07f5-4381-8789-0848a2980149",
+      "number": "12"
+    },
+    {
+      "id": "3799ebfd-50ad-4077-a74e-94245b52c6e8",
+      "title": "Video Games, Volume 2, Number 1, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1983",
+        "start": "1983-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3799ebfd-50ad-4077-a74e-94245b52c6e8",
+      "number": "13"
+    },
+    {
+      "id": "75cd700d-707c-46c6-9df6-de1a88cc2a2d",
+      "title": "Video Games, Volume 2, Number 2, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1983",
+        "start": "1983-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/75cd700d-707c-46c6-9df6-de1a88cc2a2d",
+      "number": "14"
+    },
+    {
+      "id": "93c8fc6d-3913-4e83-8b9f-1aa11e0b749f",
+      "title": "Video Games, Volume 2, Number 3, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1983",
+        "start": "1983-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93c8fc6d-3913-4e83-8b9f-1aa11e0b749f",
+      "number": "15"
+    },
+    {
+      "id": "b32bded6-46f8-4913-84d5-04b59975e196",
+      "title": "Video Games, Volume 2, Number 4, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1984",
+        "start": "1984-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b32bded6-46f8-4913-84d5-04b59975e196",
+      "number": "16"
+    },
+    {
+      "id": "a9be5265-732a-4f36-ab98-407cdd610855",
+      "title": "Video Games, Volume 2, Number 5, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1984",
+        "start": "1984-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a9be5265-732a-4f36-ab98-407cdd610855",
+      "number": "17"
+    },
+    {
+      "id": "dd0449c2-3354-4543-b7af-3a0e64ebdccb",
+      "title": "Video Games, Volume 2, Number 6, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1984",
+        "start": "1984-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dd0449c2-3354-4543-b7af-3a0e64ebdccb",
+      "number": "18"
+    },
+    {
+      "id": "dccad19d-c2b4-4c57-8dbd-5b797def6d38",
+      "title": "Video Games, Volume 2, Number 7, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1984",
+        "start": "1984-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dccad19d-c2b4-4c57-8dbd-5b797def6d38",
+      "number": "19"
+    },
+    {
+      "id": "f96c6ff0-59ca-4050-a9bb-4047e3953570",
+      "title": "Video Games, Volume 2, Number 8, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1984",
+        "start": "1984-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f96c6ff0-59ca-4050-a9bb-4047e3953570",
+      "number": "20"
+    },
+    {
+      "id": "4f1e4700-2e79-40cd-8444-e33df4148514",
+      "title": "Video Games, Volume 2, Number 9, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer/Fall 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/4f1e4700-2e79-40cd-8444-e33df4148514",
+      "number": "21"
+    }
+  ],
+  "by_title": {
+    "Video Games, Volume 1, Number 1, Issue 1": "daeaab13-9a5b-4244-9bf2-1c0b98b0265b",
+    "Video Games, Volume 1, Number 2, Issue 2": "813a41a8-c2d0-43c5-85cd-89c1aa9d1c49",
+    "Video Games, Volume 1, Number 3, Issue 3": "14c2227b-e159-4063-a74b-1b77da88b512",
+    "Video Games, Volume 1, Number 4, Issue 4": "ce885cc3-f333-4bf9-ac08-51cf5b6c89c7",
+    "Video Games, Volume 1, Number 5, Issue 5": "9920dbf6-5b5b-447d-bc60-6f3ac6df2665",
+    "Video Games, Volume 1, Number 6, Issue 6": "19d542da-1bc1-4341-81c7-3e93976b1916",
+    "Video Games, Volume 1, Number 7, Issue 7": "ccafc2bb-655d-4f27-9b47-bb3091892660",
+    "Video Games, Volume 1, Number 8, Issue 8": "8b75b86c-257c-4895-a5a9-e1d24e67ee6f",
+    "Video Games, Volume 1, Number 9, Issue 9": "a2cf0d12-2f72-4ad9-8ed1-5226a2d8c573",
+    "Video Games, Volume 1, Number 10, Issue 10": "dc53451f-0bea-4f80-aea5-fdb1e61f1eac",
+    "Video Games, Volume 1, Number 11, Issue 11": "45abc416-bbb5-4d01-bbf2-50010c824299",
+    "Video Games, Volume 1, Number 12, Issue 12": "791b395d-07f5-4381-8789-0848a2980149",
+    "Video Games, Volume 2, Number 1, Issue 13": "3799ebfd-50ad-4077-a74e-94245b52c6e8",
+    "Video Games, Volume 2, Number 2, Issue 14": "75cd700d-707c-46c6-9df6-de1a88cc2a2d",
+    "Video Games, Volume 2, Number 3, Issue 15": "93c8fc6d-3913-4e83-8b9f-1aa11e0b749f",
+    "Video Games, Volume 2, Number 4, Issue 16": "b32bded6-46f8-4913-84d5-04b59975e196",
+    "Video Games, Volume 2, Number 5, Issue 17": "a9be5265-732a-4f36-ab98-407cdd610855",
+    "Video Games, Volume 2, Number 6, Issue 18": "dd0449c2-3354-4543-b7af-3a0e64ebdccb",
+    "Video Games, Volume 2, Number 7, Issue 19": "dccad19d-c2b4-4c57-8dbd-5b797def6d38",
+    "Video Games, Volume 2, Number 8, Issue 20": "f96c6ff0-59ca-4050-a9bb-4047e3953570",
+    "Video Games, Volume 2, Number 9, Issue 21": "4f1e4700-2e79-40cd-8444-e33df4148514"
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "provider": "vghf",
+  "folder_id": "df09475c-7503-46f7-a123-a678af34ad08",
+  "url": "https://archive.gamehistory.org/folder/df09475c-7503-46f7-a123-a678af34ad08",
+  "retrieved_at": "2026-09-13T22:54:44+00:00",
+  "expected": 25,
+  "count": 25,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "27c73f61-becf-4c42-933e-885fa5cdb848",
+      "title": "GMR, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2003",
+        "start": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/27c73f61-becf-4c42-933e-885fa5cdb848",
+      "number": "1"
+    },
+    {
+      "id": "5f257d33-86c7-4c2b-ae57-acb9d8def3ac",
+      "title": "GMR, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2003",
+        "start": "2003-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f257d33-86c7-4c2b-ae57-acb9d8def3ac",
+      "number": "2"
+    },
+    {
+      "id": "8cab8f95-e9ca-4268-bf6f-edb10ae6d35f",
+      "title": "GMR, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2003",
+        "start": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8cab8f95-e9ca-4268-bf6f-edb10ae6d35f",
+      "number": "3"
+    },
+    {
+      "id": "9914f31c-a944-4349-a7a0-9fd24a9d8985",
+      "title": "GMR, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2003",
+        "start": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9914f31c-a944-4349-a7a0-9fd24a9d8985",
+      "number": "4"
+    },
+    {
+      "id": "db79148b-1359-45a1-95f6-1e4e446939a6",
+      "title": "GMR, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2003",
+        "start": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/db79148b-1359-45a1-95f6-1e4e446939a6",
+      "number": "5"
+    },
+    {
+      "id": "0ccc1869-ef78-4446-8f33-5fb5ffdd4755",
+      "title": "GMR, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0ccc1869-ef78-4446-8f33-5fb5ffdd4755",
+      "number": "6"
+    },
+    {
+      "id": "f8de7c57-aa1e-4844-8042-58ea7234ebf0",
+      "title": "GMR, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8de7c57-aa1e-4844-8042-58ea7234ebf0",
+      "number": "7"
+    },
+    {
+      "id": "e083ada2-e45c-4e00-b3d3-b62958067877",
+      "title": "GMR, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e083ada2-e45c-4e00-b3d3-b62958067877",
+      "number": "8"
+    },
+    {
+      "id": "96b97952-59aa-42e0-bd43-5173b765338e",
+      "title": "GMR, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2003",
+        "start": "2003-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/96b97952-59aa-42e0-bd43-5173b765338e",
+      "number": "9"
+    },
+    {
+      "id": "24f09ac3-ad08-46cb-813c-60b92623a379",
+      "title": "GMR, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2003",
+        "start": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24f09ac3-ad08-46cb-813c-60b92623a379",
+      "number": "10"
+    },
+    {
+      "id": "d1ff50ab-4c37-4466-8f7b-16a55cf1790b",
+      "title": "GMR, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d1ff50ab-4c37-4466-8f7b-16a55cf1790b",
+      "number": "11"
+    },
+    {
+      "id": "a7798998-f65c-41d1-a94a-192e737217b4",
+      "title": "GMR, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7798998-f65c-41d1-a94a-192e737217b4",
+      "number": "12"
+    },
+    {
+      "id": "7fd3f5b6-2c86-443b-befb-b1e66766da90",
+      "title": "GMR, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2004",
+        "start": "2004-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7fd3f5b6-2c86-443b-befb-b1e66766da90",
+      "number": "13"
+    },
+    {
+      "id": "3965ab7c-050c-4e6a-9fe6-42e82e57f863",
+      "title": "GMR, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2004",
+        "start": "2004-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3965ab7c-050c-4e6a-9fe6-42e82e57f863",
+      "number": "14"
+    },
+    {
+      "id": "9fa9818c-e7cd-49da-a523-c6694c808e42",
+      "title": "GMR, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2004",
+        "start": "2004-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9fa9818c-e7cd-49da-a523-c6694c808e42",
+      "number": "15"
+    },
+    {
+      "id": "a6aa2fdc-805a-4656-8f3d-95da31bff91d",
+      "title": "GMR, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2004",
+        "start": "2004-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a6aa2fdc-805a-4656-8f3d-95da31bff91d",
+      "number": "16"
+    },
+    {
+      "id": "9130d067-c9fb-4593-a91a-959bbc15f2c0",
+      "title": "GMR, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2004",
+        "start": "2004-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9130d067-c9fb-4593-a91a-959bbc15f2c0",
+      "number": "17"
+    },
+    {
+      "id": "9cc16f80-76ed-4d20-8644-365600af4611",
+      "title": "GMR, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2004",
+        "start": "2004-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9cc16f80-76ed-4d20-8644-365600af4611",
+      "number": "18"
+    },
+    {
+      "id": "f5a330b3-ea9a-470d-9c10-3dc83bd178c1",
+      "title": "GMR, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2004",
+        "start": "2004-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f5a330b3-ea9a-470d-9c10-3dc83bd178c1",
+      "number": "19"
+    },
+    {
+      "id": "9972d8f0-8091-4c1b-98de-1546e01a86a0",
+      "title": "GMR, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2004",
+        "start": "2004-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9972d8f0-8091-4c1b-98de-1546e01a86a0",
+      "number": "20"
+    },
+    {
+      "id": "bd059eb1-d44a-44f1-a8b6-f36312926f89",
+      "title": "GMR, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2004",
+        "start": "2004-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bd059eb1-d44a-44f1-a8b6-f36312926f89",
+      "number": "21"
+    },
+    {
+      "id": "cf9966fd-cea9-4bea-ad1f-7c8a10399fb1",
+      "title": "GMR, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2004",
+        "start": "2004-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cf9966fd-cea9-4bea-ad1f-7c8a10399fb1",
+      "number": "22"
+    },
+    {
+      "id": "5f403263-6bc9-47d9-9a61-1a75ee76b13d",
+      "title": "GMR, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2004",
+        "start": "2004-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5f403263-6bc9-47d9-9a61-1a75ee76b13d",
+      "number": "23"
+    },
+    {
+      "id": "b5daae85-76bb-433d-9f12-b3d648d9b07d",
+      "title": "GMR, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2005",
+        "start": "2005-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b5daae85-76bb-433d-9f12-b3d648d9b07d",
+      "number": "24"
+    },
+    {
+      "id": "56864abc-8008-4507-ad06-20a27212b49a",
+      "title": "GMR, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2005",
+        "start": "2005-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/56864abc-8008-4507-ad06-20a27212b49a",
+      "number": "25"
+    }
+  ],
+  "by_title": {
+    "GMR, Issue 1": "27c73f61-becf-4c42-933e-885fa5cdb848",
+    "GMR, Issue 2": "5f257d33-86c7-4c2b-ae57-acb9d8def3ac",
+    "GMR, Issue 3": "8cab8f95-e9ca-4268-bf6f-edb10ae6d35f",
+    "GMR, Issue 4": "9914f31c-a944-4349-a7a0-9fd24a9d8985",
+    "GMR, Issue 5": "db79148b-1359-45a1-95f6-1e4e446939a6",
+    "GMR, Issue 6": "0ccc1869-ef78-4446-8f33-5fb5ffdd4755",
+    "GMR, Issue 7": "f8de7c57-aa1e-4844-8042-58ea7234ebf0",
+    "GMR, Issue 8": "e083ada2-e45c-4e00-b3d3-b62958067877",
+    "GMR, Issue 9": "96b97952-59aa-42e0-bd43-5173b765338e",
+    "GMR, Issue 10": "24f09ac3-ad08-46cb-813c-60b92623a379",
+    "GMR, Issue 11": "d1ff50ab-4c37-4466-8f7b-16a55cf1790b",
+    "GMR, Issue 12": "a7798998-f65c-41d1-a94a-192e737217b4",
+    "GMR, Issue 13": "7fd3f5b6-2c86-443b-befb-b1e66766da90",
+    "GMR, Issue 14": "3965ab7c-050c-4e6a-9fe6-42e82e57f863",
+    "GMR, Issue 15": "9fa9818c-e7cd-49da-a523-c6694c808e42",
+    "GMR, Issue 16": "a6aa2fdc-805a-4656-8f3d-95da31bff91d",
+    "GMR, Issue 17": "9130d067-c9fb-4593-a91a-959bbc15f2c0",
+    "GMR, Issue 18": "9cc16f80-76ed-4d20-8644-365600af4611",
+    "GMR, Issue 19": "f5a330b3-ea9a-470d-9c10-3dc83bd178c1",
+    "GMR, Issue 20": "9972d8f0-8091-4c1b-98de-1546e01a86a0",
+    "GMR, Issue 21": "bd059eb1-d44a-44f1-a8b6-f36312926f89",
+    "GMR, Issue 22": "cf9966fd-cea9-4bea-ad1f-7c8a10399fb1",
+    "GMR, Issue 23": "5f403263-6bc9-47d9-9a61-1a75ee76b13d",
+    "GMR, Issue 24": "b5daae85-76bb-433d-9f12-b3d648d9b07d",
+    "GMR, Issue 25": "56864abc-8008-4507-ad06-20a27212b49a"
+  }
+}

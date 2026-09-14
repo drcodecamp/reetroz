@@ -1,0 +1,198 @@
+{
+  "provider": "vghf",
+  "folder_id": "3e35f3c1-7416-4d78-b295-009a65f13276",
+  "url": "https://archive.gamehistory.org/folder/3e35f3c1-7416-4d78-b295-009a65f13276",
+  "retrieved_at": "2026-09-13T22:50:27+00:00",
+  "expected": 11,
+  "count": 11,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "97ca5235-4f61-49ec-b68f-3bfcfc8059f9",
+      "title": "Electronic Gaming Retail News, Volume 1, Number 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1, 1991"
+      },
+      "url": "https://archive.gamehistory.org/item/97ca5235-4f61-49ec-b68f-3bfcfc8059f9",
+      "number": "2"
+    },
+    {
+      "id": "3ea743db-e212-4b99-a9cb-fe6440369ba9",
+      "title": "Electronic Gaming Retail News, Volume 1, Number 3, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1991",
+        "start": "1991-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3ea743db-e212-4b99-a9cb-fe6440369ba9",
+      "number": "3"
+    },
+    {
+      "id": "45a972c4-0ff4-45c0-bca8-c2ff0d935cf2",
+      "title": "Electronic Gaming Retail News, Volume 1, Number 4, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1991",
+        "start": "1991-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45a972c4-0ff4-45c0-bca8-c2ff0d935cf2",
+      "number": "4"
+    },
+    {
+      "id": "6605e6e4-64b9-4388-82c2-5c5f73775134",
+      "title": "Electronic Gaming Retail News, Volume 1, Number 5, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1991",
+        "start": "1991-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6605e6e4-64b9-4388-82c2-5c5f73775134",
+      "number": "5"
+    },
+    {
+      "id": "2b522c1a-5da6-4bb2-be3a-c68760d6ab93",
+      "title": "Electronic Gaming Retail News, Volume 1, Number 6, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1991",
+        "start": "1991-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2b522c1a-5da6-4bb2-be3a-c68760d6ab93",
+      "number": "6"
+    },
+    {
+      "id": "ed228c6d-a53b-4a93-995c-e6db75b700af",
+      "title": "Electronic Gaming Retail News, Volume 1, Number 7, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1991",
+        "start": "1991-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ed228c6d-a53b-4a93-995c-e6db75b700af",
+      "number": "7"
+    },
+    {
+      "id": "382ac2fa-1c4b-48a7-a34e-bfe38b9db0c8",
+      "title": "Electronic Gaming Retail News, Volume 2, Number 1, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1992",
+        "start": "1992-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/382ac2fa-1c4b-48a7-a34e-bfe38b9db0c8",
+      "number": "8"
+    },
+    {
+      "id": "93351113-0e2d-431e-b780-09e503dbd75c",
+      "title": "Electronic Gaming Retail News, Volume 2, Number 2, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1992",
+        "start": "1992-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/93351113-0e2d-431e-b780-09e503dbd75c",
+      "number": "9"
+    },
+    {
+      "id": "7d98ee39-0922-4262-ba3f-307f239496f9",
+      "title": "Electronic Gaming Retail News, Volume 2, Number 3, Issue 10, 1992 Summer CES",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1992",
+        "start": "1992-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/7d98ee39-0922-4262-ba3f-307f239496f9",
+      "number": "10"
+    },
+    {
+      "id": "944ab4a6-cf72-44e8-9d9d-ddbcc341fb96",
+      "title": "Electronic Gaming Retail News, 1993 Winter CES",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/944ab4a6-cf72-44e8-9d9d-ddbcc341fb96",
+      "number": null
+    },
+    {
+      "id": "4a20239b-ac23-4fd2-ab1c-aee267e04eea",
+      "title": "Electronic Gaming Retail News, 1993 Summer CES",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1993",
+        "start": "1993-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a20239b-ac23-4fd2-ab1c-aee267e04eea",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Electronic Gaming Retail News, Volume 1, Number 2, Issue 2": "97ca5235-4f61-49ec-b68f-3bfcfc8059f9",
+    "Electronic Gaming Retail News, Volume 1, Number 3, Issue 3": "3ea743db-e212-4b99-a9cb-fe6440369ba9",
+    "Electronic Gaming Retail News, Volume 1, Number 4, Issue 4": "45a972c4-0ff4-45c0-bca8-c2ff0d935cf2",
+    "Electronic Gaming Retail News, Volume 1, Number 5, Issue 5": "6605e6e4-64b9-4388-82c2-5c5f73775134",
+    "Electronic Gaming Retail News, Volume 1, Number 6, Issue 6": "2b522c1a-5da6-4bb2-be3a-c68760d6ab93",
+    "Electronic Gaming Retail News, Volume 1, Number 7, Issue 7": "ed228c6d-a53b-4a93-995c-e6db75b700af",
+    "Electronic Gaming Retail News, Volume 2, Number 1, Issue 8": "382ac2fa-1c4b-48a7-a34e-bfe38b9db0c8",
+    "Electronic Gaming Retail News, Volume 2, Number 2, Issue 9": "93351113-0e2d-431e-b780-09e503dbd75c",
+    "Electronic Gaming Retail News, Volume 2, Number 3, Issue 10, 1992 Summer CES": "7d98ee39-0922-4262-ba3f-307f239496f9",
+    "Electronic Gaming Retail News, 1993 Winter CES": "944ab4a6-cf72-44e8-9d9d-ddbcc341fb96",
+    "Electronic Gaming Retail News, 1993 Summer CES": "4a20239b-ac23-4fd2-ab1c-aee267e04eea"
+  }
+}

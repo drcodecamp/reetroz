@@ -1,0 +1,591 @@
+{
+  "provider": "vghf",
+  "folder_id": "0367f805-b077-44df-adfd-cbfb0846d28f",
+  "url": "https://archive.gamehistory.org/folder/0367f805-b077-44df-adfd-cbfb0846d28f",
+  "retrieved_at": "2026-09-13T22:54:48+00:00",
+  "expected": 34,
+  "count": 34,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "86d96764-161b-47d5-84a4-301fa7aa5600",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2005",
+        "start": "2005-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/86d96764-161b-47d5-84a4-301fa7aa5600",
+      "number": "1"
+    },
+    {
+      "id": "4c76680a-0414-4536-9153-a4a8e05d27cd",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2006",
+        "start": "2006-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4c76680a-0414-4536-9153-a4a8e05d27cd",
+      "number": "1"
+    },
+    {
+      "id": "25e700f6-caf0-41e4-8f22-9b0c73900545",
+      "title": "Hardcore Gamer Magazine, Volume 3, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2007",
+        "start": "2007-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/25e700f6-caf0-41e4-8f22-9b0c73900545",
+      "number": "1"
+    },
+    {
+      "id": "a7b517b0-7874-44fc-ac4e-06be50795387",
+      "title": "Hardcore Gamer Magazine, Volume 4, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 2008",
+        "start": "2008-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/a7b517b0-7874-44fc-ac4e-06be50795387",
+      "number": "1"
+    },
+    {
+      "id": "c11f124c-7a94-4d51-aed5-73acf3720664",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2005",
+        "start": "2005-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c11f124c-7a94-4d51-aed5-73acf3720664",
+      "number": "2"
+    },
+    {
+      "id": "3b5968b6-83b0-4f45-9b49-1f282468415b",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2006",
+        "start": "2006-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3b5968b6-83b0-4f45-9b49-1f282468415b",
+      "number": "2"
+    },
+    {
+      "id": "1c5b12ee-91ca-45b0-ae45-4e91f3a3aac4",
+      "title": "Hardcore Gamer Magazine, Volume 3, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2007",
+        "start": "2007-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1c5b12ee-91ca-45b0-ae45-4e91f3a3aac4",
+      "number": "2"
+    },
+    {
+      "id": "05007af6-6cdd-497a-abd6-1796bfde433c",
+      "title": "Hardcore Gamer, Volume 4, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 2008",
+        "start": "2008-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/05007af6-6cdd-497a-abd6-1796bfde433c",
+      "number": "2"
+    },
+    {
+      "id": "3559bbdc-684d-4f6a-8ffa-b0b3a3b0b15b",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2005",
+        "start": "2005-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3559bbdc-684d-4f6a-8ffa-b0b3a3b0b15b",
+      "number": "3"
+    },
+    {
+      "id": "6d144b7f-c12d-4b25-9d3d-da0cb15f402f",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2006",
+        "start": "2006-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6d144b7f-c12d-4b25-9d3d-da0cb15f402f",
+      "number": "3"
+    },
+    {
+      "id": "1340113f-c19c-4422-8c00-18be2f0356a4",
+      "title": "Hardcore Gamer Magazine, Volume 3, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2007",
+        "start": "2007-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1340113f-c19c-4422-8c00-18be2f0356a4",
+      "number": "3"
+    },
+    {
+      "id": "6dbdcd0c-1ddc-4abc-9293-d07239a244ef",
+      "title": "Hardcore Gamer, Volume 4, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2008",
+        "start": "2008-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/6dbdcd0c-1ddc-4abc-9293-d07239a244ef",
+      "number": "3"
+    },
+    {
+      "id": "5eaa1a99-e5b4-4ca2-8366-38b6e0af67f3",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2005",
+        "start": "2005-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5eaa1a99-e5b4-4ca2-8366-38b6e0af67f3",
+      "number": "4"
+    },
+    {
+      "id": "3205b582-b124-4529-89ae-e22f54243410",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2006",
+        "start": "2006-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3205b582-b124-4529-89ae-e22f54243410",
+      "number": "4"
+    },
+    {
+      "id": "006eb4a3-3cfe-4ee7-b1ba-a61836373ba6",
+      "title": "Hardcore Gamer Magazine, Volume 3, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2007",
+        "start": "2007-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/006eb4a3-3cfe-4ee7-b1ba-a61836373ba6",
+      "number": "4"
+    },
+    {
+      "id": "10142cd2-e90e-435e-87ba-9fea0fce9b7a",
+      "title": "Hardcore Gamer, Volume 4, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2008",
+        "start": "2008-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/10142cd2-e90e-435e-87ba-9fea0fce9b7a",
+      "number": "4"
+    },
+    {
+      "id": "6aead728-3a72-48f6-acfa-3b782eeb97ae",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2005",
+        "start": "2005-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6aead728-3a72-48f6-acfa-3b782eeb97ae",
+      "number": "5"
+    },
+    {
+      "id": "c86b669f-d8e7-435d-bdbd-2aeafb4adf98",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2006",
+        "start": "2006-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c86b669f-d8e7-435d-bdbd-2aeafb4adf98",
+      "number": "5"
+    },
+    {
+      "id": "51370570-705a-4988-8115-221152fd8b7d",
+      "title": "Hardcore Gamer Magazine, Volume 3, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2007",
+        "start": "2007-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/51370570-705a-4988-8115-221152fd8b7d",
+      "number": "5"
+    },
+    {
+      "id": "d7876b7f-22d8-4dc5-866c-91a2beeda336",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2005",
+        "start": "2005-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d7876b7f-22d8-4dc5-866c-91a2beeda336",
+      "number": "6"
+    },
+    {
+      "id": "55034653-602c-4e99-9551-355247cffb5b",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2006",
+        "start": "2006-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/55034653-602c-4e99-9551-355247cffb5b",
+      "number": "6"
+    },
+    {
+      "id": "6dad6769-70b5-4ce8-98a0-cdaf653bbd7b",
+      "title": "Hardcore Gamer Magazine, Volume 3, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2007",
+        "start": "2007-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6dad6769-70b5-4ce8-98a0-cdaf653bbd7b",
+      "number": "6"
+    },
+    {
+      "id": "14378d0d-5959-4c7b-976d-478c23b87ca6",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2006",
+        "start": "2006-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/14378d0d-5959-4c7b-976d-478c23b87ca6",
+      "number": "7"
+    },
+    {
+      "id": "8957568d-717e-42c7-935d-622b835cee98",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2007",
+        "start": "2007-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8957568d-717e-42c7-935d-622b835cee98",
+      "number": "7"
+    },
+    {
+      "id": "d55fbd97-7c0b-4018-bd1e-bf8ca451bd23",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2006",
+        "start": "2006-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d55fbd97-7c0b-4018-bd1e-bf8ca451bd23",
+      "number": "8"
+    },
+    {
+      "id": "330baf1a-ee53-4403-982b-e5ffb32eddfe",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2007",
+        "start": "2007-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/330baf1a-ee53-4403-982b-e5ffb32eddfe",
+      "number": "8"
+    },
+    {
+      "id": "7380b918-7305-467e-816e-00ae75df4e5b",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2006",
+        "start": "2006-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7380b918-7305-467e-816e-00ae75df4e5b",
+      "number": "9"
+    },
+    {
+      "id": "e4445ddd-169c-4c1f-8e1f-552b4eab0ebc",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2007",
+        "start": "2007-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e4445ddd-169c-4c1f-8e1f-552b4eab0ebc",
+      "number": "9"
+    },
+    {
+      "id": "2369418a-e0c2-4d2c-aba6-72791452d6c3",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2006",
+        "start": "2006-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2369418a-e0c2-4d2c-aba6-72791452d6c3",
+      "number": "10"
+    },
+    {
+      "id": "44520fef-0901-4c14-9ea9-82a700f669b5",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2007",
+        "start": "2007-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/44520fef-0901-4c14-9ea9-82a700f669b5",
+      "number": "10"
+    },
+    {
+      "id": "b958890c-9f79-4bde-aa0f-31557f6e9518",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2006",
+        "start": "2006-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b958890c-9f79-4bde-aa0f-31557f6e9518",
+      "number": "11"
+    },
+    {
+      "id": "cc05188e-54e6-4ca6-8f30-72607e2d2767",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2007",
+        "start": "2007-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc05188e-54e6-4ca6-8f30-72607e2d2767",
+      "number": "11"
+    },
+    {
+      "id": "e822f9ea-511a-435d-9b8c-877480f18ea3",
+      "title": "Hardcore Gamer Magazine, Volume 1, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2006",
+        "start": "2006-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e822f9ea-511a-435d-9b8c-877480f18ea3",
+      "number": "12"
+    },
+    {
+      "id": "05afb0ba-a15a-4462-ae5c-8bb539751255",
+      "title": "Hardcore Gamer Magazine, Volume 2, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2007",
+        "start": "2007-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/05afb0ba-a15a-4462-ae5c-8bb539751255",
+      "number": "12"
+    }
+  ],
+  "by_title": {
+    "Hardcore Gamer Magazine, Volume 1, Issue 1": "86d96764-161b-47d5-84a4-301fa7aa5600",
+    "Hardcore Gamer Magazine, Volume 2, Issue 1": "4c76680a-0414-4536-9153-a4a8e05d27cd",
+    "Hardcore Gamer Magazine, Volume 3, Issue 1": "25e700f6-caf0-41e4-8f22-9b0c73900545",
+    "Hardcore Gamer Magazine, Volume 4, Issue 1": "a7b517b0-7874-44fc-ac4e-06be50795387",
+    "Hardcore Gamer Magazine, Volume 1, Issue 2": "c11f124c-7a94-4d51-aed5-73acf3720664",
+    "Hardcore Gamer Magazine, Volume 2, Issue 2": "3b5968b6-83b0-4f45-9b49-1f282468415b",
+    "Hardcore Gamer Magazine, Volume 3, Issue 2": "1c5b12ee-91ca-45b0-ae45-4e91f3a3aac4",
+    "Hardcore Gamer, Volume 4, Issue 2": "05007af6-6cdd-497a-abd6-1796bfde433c",
+    "Hardcore Gamer Magazine, Volume 1, Issue 3": "3559bbdc-684d-4f6a-8ffa-b0b3a3b0b15b",
+    "Hardcore Gamer Magazine, Volume 2, Issue 3": "6d144b7f-c12d-4b25-9d3d-da0cb15f402f",
+    "Hardcore Gamer Magazine, Volume 3, Issue 3": "1340113f-c19c-4422-8c00-18be2f0356a4",
+    "Hardcore Gamer, Volume 4, Issue 3": "6dbdcd0c-1ddc-4abc-9293-d07239a244ef",
+    "Hardcore Gamer Magazine, Volume 1, Issue 4": "5eaa1a99-e5b4-4ca2-8366-38b6e0af67f3",
+    "Hardcore Gamer Magazine, Volume 2, Issue 4": "3205b582-b124-4529-89ae-e22f54243410",
+    "Hardcore Gamer Magazine, Volume 3, Issue 4": "006eb4a3-3cfe-4ee7-b1ba-a61836373ba6",
+    "Hardcore Gamer, Volume 4, Issue 4": "10142cd2-e90e-435e-87ba-9fea0fce9b7a",
+    "Hardcore Gamer Magazine, Volume 1, Issue 5": "6aead728-3a72-48f6-acfa-3b782eeb97ae",
+    "Hardcore Gamer Magazine, Volume 2, Issue 5": "c86b669f-d8e7-435d-bdbd-2aeafb4adf98",
+    "Hardcore Gamer Magazine, Volume 3, Issue 5": "51370570-705a-4988-8115-221152fd8b7d",
+    "Hardcore Gamer Magazine, Volume 1, Issue 6": "d7876b7f-22d8-4dc5-866c-91a2beeda336",
+    "Hardcore Gamer Magazine, Volume 2, Issue 6": "55034653-602c-4e99-9551-355247cffb5b",
+    "Hardcore Gamer Magazine, Volume 3, Issue 6": "6dad6769-70b5-4ce8-98a0-cdaf653bbd7b",
+    "Hardcore Gamer Magazine, Volume 1, Issue 7": "14378d0d-5959-4c7b-976d-478c23b87ca6",
+    "Hardcore Gamer Magazine, Volume 2, Issue 7": "8957568d-717e-42c7-935d-622b835cee98",
+    "Hardcore Gamer Magazine, Volume 1, Issue 8": "d55fbd97-7c0b-4018-bd1e-bf8ca451bd23",
+    "Hardcore Gamer Magazine, Volume 2, Issue 8": "330baf1a-ee53-4403-982b-e5ffb32eddfe",
+    "Hardcore Gamer Magazine, Volume 1, Issue 9": "7380b918-7305-467e-816e-00ae75df4e5b",
+    "Hardcore Gamer Magazine, Volume 2, Issue 9": "e4445ddd-169c-4c1f-8e1f-552b4eab0ebc",
+    "Hardcore Gamer Magazine, Volume 1, Issue 10": "2369418a-e0c2-4d2c-aba6-72791452d6c3",
+    "Hardcore Gamer Magazine, Volume 2, Issue 10": "44520fef-0901-4c14-9ea9-82a700f669b5",
+    "Hardcore Gamer Magazine, Volume 1, Issue 11": "b958890c-9f79-4bde-aa0f-31557f6e9518",
+    "Hardcore Gamer Magazine, Volume 2, Issue 11": "cc05188e-54e6-4ca6-8f30-72607e2d2767",
+    "Hardcore Gamer Magazine, Volume 1, Issue 12": "e822f9ea-511a-435d-9b8c-877480f18ea3",
+    "Hardcore Gamer Magazine, Volume 2, Issue 12": "05afb0ba-a15a-4462-ae5c-8bb539751255"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "provider": "vghf",
+  "folder_id": "2352dd0d-5a66-4214-b2be-e9c7f7d7da9d",
+  "url": "https://archive.gamehistory.org/folder/2352dd0d-5a66-4214-b2be-e9c7f7d7da9d",
+  "retrieved_at": "2026-09-13T22:51:34+00:00",
+  "expected": 3,
+  "count": 3,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "2d469eeb-acbc-476d-b547-880e42e9dda8",
+      "title": "Game Intelligence Magazine, Special Preview Edition",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d469eeb-acbc-476d-b547-880e42e9dda8",
+      "number": null
+    },
+    {
+      "id": "f61d4f21-efce-44ee-bdc7-860d5713b1df",
+      "title": "Game Intelligence Magazine",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f61d4f21-efce-44ee-bdc7-860d5713b1df",
+      "number": null
+    },
+    {
+      "id": "d0e944f3-ecf8-42eb-a301-e073476ed4a6",
+      "title": "Game Intelligence Magazine, Volume 1, Number 1, Premiere Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 30, 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/d0e944f3-ecf8-42eb-a301-e073476ed4a6",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Game Intelligence Magazine, Special Preview Edition": "2d469eeb-acbc-476d-b547-880e42e9dda8",
+    "Game Intelligence Magazine": "f61d4f21-efce-44ee-bdc7-860d5713b1df",
+    "Game Intelligence Magazine, Volume 1, Number 1, Premiere Issue": "d0e944f3-ecf8-42eb-a301-e073476ed4a6"
+  }
+}

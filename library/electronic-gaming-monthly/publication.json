@@ -44,6 +44,12 @@
       "url": "https://archive.org/details/electronic-gaming-monthly",
       "items": 419,
       "date_range": "1992–2026"
+    },
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/89024108-47f9-4718-a679-83a8710716d9",
+      "items": 347,
+      "date_range": "May/June 1989 – Winter 2013–2014"
     }
   ],
   "stats": {
@@ -52,6 +58,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Revived briefly 2009-2014."
 }

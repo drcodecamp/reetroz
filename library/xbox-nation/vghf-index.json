@@ -1,0 +1,342 @@
+{
+  "provider": "vghf",
+  "folder_id": "e49f6729-f880-4a42-af81-fa7972cb6701",
+  "url": "https://archive.gamehistory.org/folder/e49f6729-f880-4a42-af81-fa7972cb6701",
+  "retrieved_at": "2026-09-13T23:01:12+00:00",
+  "expected": 19,
+  "count": 19,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "4fd77890-1dda-44b8-aeb9-c78cec9aafa5",
+      "title": "Xbox Nation, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4fd77890-1dda-44b8-aeb9-c78cec9aafa5",
+      "number": "1"
+    },
+    {
+      "id": "ec4c97ba-3846-491c-a8a1-d5d53ca3ac0f",
+      "title": "Xbox Nation, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 2002",
+        "start": "2002-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/ec4c97ba-3846-491c-a8a1-d5d53ca3ac0f",
+      "number": "2"
+    },
+    {
+      "id": "69555def-0cd8-4b5a-b4d2-3d324c7863f4",
+      "title": "Xbox Nation, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 2002",
+        "start": "2002-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/69555def-0cd8-4b5a-b4d2-3d324c7863f4",
+      "number": "3"
+    },
+    {
+      "id": "5d437531-a871-47ea-9f75-aea93378160a",
+      "title": "Xbox Nation, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2002",
+        "start": "2002-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/5d437531-a871-47ea-9f75-aea93378160a",
+      "number": "4"
+    },
+    {
+      "id": "5b09a799-fe6a-4ee4-8873-7d8d75120d38",
+      "title": "Xbox Nation, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2002",
+        "start": "2002-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/5b09a799-fe6a-4ee4-8873-7d8d75120d38",
+      "number": "5"
+    },
+    {
+      "id": "af5a8f04-287e-41e8-9d1d-e7776a15f840",
+      "title": "Xbox Nation, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 2003",
+        "start": "2003-02",
+        "end": "2003-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/af5a8f04-287e-41e8-9d1d-e7776a15f840",
+      "number": "6"
+    },
+    {
+      "id": "fd928015-b729-496b-a07c-8ab743bf106b",
+      "title": "Xbox Nation, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 2003",
+        "start": "2003-04",
+        "end": "2003-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fd928015-b729-496b-a07c-8ab743bf106b",
+      "number": "7"
+    },
+    {
+      "id": "85e91625-b1ea-48ad-aa70-da94e66f3d27",
+      "title": "Xbox Nation, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 2003",
+        "start": "2003-06",
+        "end": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/85e91625-b1ea-48ad-aa70-da94e66f3d27",
+      "number": "8"
+    },
+    {
+      "id": "1be3e703-f993-4598-8701-6eb4bf565f73",
+      "title": "Xbox Nation, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 2003",
+        "start": "2003-08",
+        "end": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1be3e703-f993-4598-8701-6eb4bf565f73",
+      "number": "9"
+    },
+    {
+      "id": "d932f22b-c452-4610-9b9c-179a1ee6b095",
+      "title": "Xbox Nation, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 2003",
+        "start": "2003-10",
+        "end": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d932f22b-c452-4610-9b9c-179a1ee6b095",
+      "number": "10"
+    },
+    {
+      "id": "f47b4fa5-e7fc-43fa-9786-f8d5ee8b979f",
+      "title": "Xbox Nation, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December/January 2004",
+        "start": "2004-12",
+        "end": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f47b4fa5-e7fc-43fa-9786-f8d5ee8b979f",
+      "number": "11"
+    },
+    {
+      "id": "fb5db380-bdfb-40d3-b44f-2437f3569f08",
+      "title": "Xbox Nation, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2004",
+        "start": "2004-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb5db380-bdfb-40d3-b44f-2437f3569f08",
+      "number": "12"
+    },
+    {
+      "id": "4558b463-2da2-4125-9c6e-3dc037c5d1c5",
+      "title": "Xbox Nation, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2004",
+        "start": "2004-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4558b463-2da2-4125-9c6e-3dc037c5d1c5",
+      "number": "15"
+    },
+    {
+      "id": "c0b77bcb-0fb9-49db-b8f8-a8eec5f29679",
+      "title": "Xbox Nation, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2004",
+        "start": "2004-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c0b77bcb-0fb9-49db-b8f8-a8eec5f29679",
+      "number": "17"
+    },
+    {
+      "id": "5c521e74-3b79-4471-9ce2-c615b991827c",
+      "title": "Xbox Nation, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2004",
+        "start": "2004-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5c521e74-3b79-4471-9ce2-c615b991827c",
+      "number": "18"
+    },
+    {
+      "id": "0a6c23a9-cfa3-4091-8214-d5e82a57a5ec",
+      "title": "Xbox Nation, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2004",
+        "start": "2004-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0a6c23a9-cfa3-4091-8214-d5e82a57a5ec",
+      "number": "19"
+    },
+    {
+      "id": "bf06162c-842f-4128-8b8e-675ec6d3e8ec",
+      "title": "Xbox Nation, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2004",
+        "start": "2004-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bf06162c-842f-4128-8b8e-675ec6d3e8ec",
+      "number": "21"
+    },
+    {
+      "id": "56a70863-f4b4-4753-83cc-3c7c72b31939",
+      "title": "Xbox Nation, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2005",
+        "start": "2005-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/56a70863-f4b4-4753-83cc-3c7c72b31939",
+      "number": "22"
+    },
+    {
+      "id": "5e0cf439-fc19-41e3-9ff3-f9159f7d014e",
+      "title": "Xbox Nation, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2005",
+        "start": "2005-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5e0cf439-fc19-41e3-9ff3-f9159f7d014e",
+      "number": "23"
+    }
+  ],
+  "by_title": {
+    "Xbox Nation, Issue 1": "4fd77890-1dda-44b8-aeb9-c78cec9aafa5",
+    "Xbox Nation, Issue 2": "ec4c97ba-3846-491c-a8a1-d5d53ca3ac0f",
+    "Xbox Nation, Issue 3": "69555def-0cd8-4b5a-b4d2-3d324c7863f4",
+    "Xbox Nation, Issue 4": "5d437531-a871-47ea-9f75-aea93378160a",
+    "Xbox Nation, Issue 5": "5b09a799-fe6a-4ee4-8873-7d8d75120d38",
+    "Xbox Nation, Issue 6": "af5a8f04-287e-41e8-9d1d-e7776a15f840",
+    "Xbox Nation, Issue 7": "fd928015-b729-496b-a07c-8ab743bf106b",
+    "Xbox Nation, Issue 8": "85e91625-b1ea-48ad-aa70-da94e66f3d27",
+    "Xbox Nation, Issue 9": "1be3e703-f993-4598-8701-6eb4bf565f73",
+    "Xbox Nation, Issue 10": "d932f22b-c452-4610-9b9c-179a1ee6b095",
+    "Xbox Nation, Issue 11": "f47b4fa5-e7fc-43fa-9786-f8d5ee8b979f",
+    "Xbox Nation, Issue 12": "fb5db380-bdfb-40d3-b44f-2437f3569f08",
+    "Xbox Nation, Issue 15": "4558b463-2da2-4125-9c6e-3dc037c5d1c5",
+    "Xbox Nation, Issue 17": "c0b77bcb-0fb9-49db-b8f8-a8eec5f29679",
+    "Xbox Nation, Issue 18": "5c521e74-3b79-4471-9ce2-c615b991827c",
+    "Xbox Nation, Issue 19": "0a6c23a9-cfa3-4091-8214-d5e82a57a5ec",
+    "Xbox Nation, Issue 21": "bf06162c-842f-4128-8b8e-675ec6d3e8ec",
+    "Xbox Nation, Issue 22": "56a70863-f4b4-4753-83cc-3c7c72b31939",
+    "Xbox Nation, Issue 23": "5e0cf439-fc19-41e3-9ff3-f9159f7d014e"
+  }
+}

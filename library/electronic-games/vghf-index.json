@@ -1,0 +1,722 @@
+{
+  "provider": "vghf",
+  "folder_id": "39b2d5c8-8756-471f-af66-2e95396f2704",
+  "url": "https://archive.gamehistory.org/folder/39b2d5c8-8756-471f-af66-2e95396f2704",
+  "retrieved_at": "2026-09-13T22:49:44+00:00",
+  "expected": 39,
+  "count": 42,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "bc8e8b67-2d76-4c22-ac7e-97bd9e17a4bb",
+      "title": "Electronic Games, Volume 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1981",
+        "start": "1981-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/bc8e8b67-2d76-4c22-ac7e-97bd9e17a4bb",
+      "number": null
+    },
+    {
+      "id": "945560b4-9615-4385-8f4e-c35ad38d2a86",
+      "title": "Electronic Games, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1982",
+        "start": "1982-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/945560b4-9615-4385-8f4e-c35ad38d2a86",
+      "number": null
+    },
+    {
+      "id": "59b68cd4-9e98-4455-b9b5-64bfa03b2bfc",
+      "title": "Electronic Games, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1982",
+        "start": "1982-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/59b68cd4-9e98-4455-b9b5-64bfa03b2bfc",
+      "number": null
+    },
+    {
+      "id": "35e403a0-2965-43d1-acfe-605156ec797d",
+      "title": "Electronic Games, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1982",
+        "start": "1982-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/35e403a0-2965-43d1-acfe-605156ec797d",
+      "number": null
+    },
+    {
+      "id": "dd141f4e-a968-450b-b366-204cf2f8a0f2",
+      "title": "Electronic Games, Volume 1, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1982",
+        "start": "1982-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dd141f4e-a968-450b-b366-204cf2f8a0f2",
+      "number": null
+    },
+    {
+      "id": "1687a7fb-1a24-431a-854c-bacebbe6cb17",
+      "title": "Electronic Games, Volume 1, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1982",
+        "start": "1982-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1687a7fb-1a24-431a-854c-bacebbe6cb17",
+      "number": null
+    },
+    {
+      "id": "43e638a1-8741-4ba5-85bf-f6ef785926aa",
+      "title": "Electronic Games, Volume 1, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1982",
+        "start": "1982-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43e638a1-8741-4ba5-85bf-f6ef785926aa",
+      "number": null
+    },
+    {
+      "id": "a321359c-bac2-4d80-b428-4f86b624e3b1",
+      "title": "Electronic Games, Volume 1, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1982",
+        "start": "1982-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a321359c-bac2-4d80-b428-4f86b624e3b1",
+      "number": null
+    },
+    {
+      "id": "c5feace4-f7c7-4624-82a6-c0445ebce9a8",
+      "title": "Electronic Games, Volume 1, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1982",
+        "start": "1982-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c5feace4-f7c7-4624-82a6-c0445ebce9a8",
+      "number": null
+    },
+    {
+      "id": "2244249c-969c-4b65-af20-cf6899c40a1d",
+      "title": "Electronic Games 1983 Buyers Guide",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1982",
+        "start": "1982-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2244249c-969c-4b65-af20-cf6899c40a1d",
+      "number": null,
+      "parent_id": "d03ef2ec-ec2b-4fc0-b17f-590251b21943"
+    },
+    {
+      "id": "c78f3e46-1b55-4f6f-b021-7bf0ae21b43f",
+      "title": "Electronic Games, Volume 1, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1982",
+        "start": "1982-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c78f3e46-1b55-4f6f-b021-7bf0ae21b43f",
+      "number": null
+    },
+    {
+      "id": "62d10cf5-a844-4595-8da9-468f33d3ceb5",
+      "title": "Electronic Games, Volume 1, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1983",
+        "start": "1983-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/62d10cf5-a844-4595-8da9-468f33d3ceb5",
+      "number": null
+    },
+    {
+      "id": "8307830f-9625-4876-83fe-48db026e3e11",
+      "title": "Electronic Games, Volume 1, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1983",
+        "start": "1983-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8307830f-9625-4876-83fe-48db026e3e11",
+      "number": null
+    },
+    {
+      "id": "cbb95d8b-a098-4c63-8f25-e6e7bc9bb81e",
+      "title": "Electronic Games, Volume 1, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1983",
+        "start": "1983-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cbb95d8b-a098-4c63-8f25-e6e7bc9bb81e",
+      "number": null
+    },
+    {
+      "id": "487d8601-4708-451c-8597-720c7f4acf95",
+      "title": "Electronic Games, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1983",
+        "start": "1983-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/487d8601-4708-451c-8597-720c7f4acf95",
+      "number": null
+    },
+    {
+      "id": "0d11fccd-3adc-4162-9773-77c0fee84cfa",
+      "title": "Electronic Games, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1983",
+        "start": "1983-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0d11fccd-3adc-4162-9773-77c0fee84cfa",
+      "number": null
+    },
+    {
+      "id": "e0e85ca6-6062-4822-a510-2835d4bcf772",
+      "title": "Electronic Games, Volume 2, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1983",
+        "start": "1983-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0e85ca6-6062-4822-a510-2835d4bcf772",
+      "number": null
+    },
+    {
+      "id": "f05b1446-9b45-4d1b-a5b1-36551142d22f",
+      "title": "Electronic Games, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1983",
+        "start": "1983-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f05b1446-9b45-4d1b-a5b1-36551142d22f",
+      "number": null
+    },
+    {
+      "id": "76a1b427-22d8-475b-b60a-e8eda0b5cea3",
+      "title": "Electronic Games, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1983",
+        "start": "1983-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/76a1b427-22d8-475b-b60a-e8eda0b5cea3",
+      "number": null
+    },
+    {
+      "id": "f6f90ab6-78c0-47bf-87b0-81c42621ed7f",
+      "title": "Electronic Games, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1983",
+        "start": "1983-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f6f90ab6-78c0-47bf-87b0-81c42621ed7f",
+      "number": null
+    },
+    {
+      "id": "1739a530-dc10-456a-9c7d-ee6688fa92c7",
+      "title": "Electronic Games, Volume 2, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1983",
+        "start": "1983-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1739a530-dc10-456a-9c7d-ee6688fa92c7",
+      "number": null
+    },
+    {
+      "id": "e7f9c1e7-92ee-4ffa-9e7f-22d73ba15d5e",
+      "title": "Electronic Games, Volume 2, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1983",
+        "start": "1983-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e7f9c1e7-92ee-4ffa-9e7f-22d73ba15d5e",
+      "number": null
+    },
+    {
+      "id": "4927215a-ef00-4783-8da5-e498a1604079",
+      "title": "Electronic Games, Volume 2, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1983",
+        "start": "1983-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4927215a-ef00-4783-8da5-e498a1604079",
+      "number": null
+    },
+    {
+      "id": "4c0c6bbd-b214-453a-a2d5-a8e5f4e6919d",
+      "title": "Electronic Games, Volume 2, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1984",
+        "start": "1984-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4c0c6bbd-b214-453a-a2d5-a8e5f4e6919d",
+      "number": null
+    },
+    {
+      "id": "44285d8f-76e8-46d8-b07d-c184d55cec2f",
+      "title": "Electronic Games, Volume 2, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1984",
+        "start": "1984-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/44285d8f-76e8-46d8-b07d-c184d55cec2f",
+      "number": null
+    },
+    {
+      "id": "ef3b6797-d7c9-4bb3-9081-1d7559c8fd75",
+      "title": "Electronic Games, Volume 2, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1984",
+        "start": "1984-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ef3b6797-d7c9-4bb3-9081-1d7559c8fd75",
+      "number": null
+    },
+    {
+      "id": "f3b7c987-bd78-4890-b0dd-37195ce477d4",
+      "title": "Electronic Games, Volume 2, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1984",
+        "start": "1984-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f3b7c987-bd78-4890-b0dd-37195ce477d4",
+      "number": null
+    },
+    {
+      "id": "cfbafd5e-dd78-4906-afd8-db56b4747396",
+      "title": "Electronic Games, Volume 2, Number 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1984",
+        "start": "1984-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cfbafd5e-dd78-4906-afd8-db56b4747396",
+      "number": null
+    },
+    {
+      "id": "2b320ec4-c238-434f-abf4-38d714c12b72",
+      "title": "Electronic Games, Volume 2, Number 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1984",
+        "start": "1984-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2b320ec4-c238-434f-abf4-38d714c12b72",
+      "number": null
+    },
+    {
+      "id": "4f6b3afc-5321-4a87-9585-8cd465430a6b",
+      "title": "Electronic Games, Volume 2, Number 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1984",
+        "start": "1984-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4f6b3afc-5321-4a87-9585-8cd465430a6b",
+      "number": null
+    },
+    {
+      "id": "142f9049-5c01-437b-9399-2bcb8754ef7a",
+      "title": "Electronic Games, Volume 2, Number 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1984",
+        "start": "1984-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/142f9049-5c01-437b-9399-2bcb8754ef7a",
+      "number": null
+    },
+    {
+      "id": "3d4af76a-3e3a-45ea-8792-aecabf3b0da4",
+      "title": "Electronic Games, Volume 3, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1985",
+        "start": "1985-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3d4af76a-3e3a-45ea-8792-aecabf3b0da4",
+      "number": null
+    },
+    {
+      "id": "1ca7d7e0-39fd-47e8-b900-ceac2424edb9",
+      "title": "Electronic Games, Volume 3, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1985",
+        "start": "1985-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1ca7d7e0-39fd-47e8-b900-ceac2424edb9",
+      "number": null
+    },
+    {
+      "id": "2eb872e0-c6f1-49c7-98de-6950815fab9e",
+      "title": "Electronic Games, Volume 3, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1985",
+        "start": "1985-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2eb872e0-c6f1-49c7-98de-6950815fab9e",
+      "number": null
+    },
+    {
+      "id": "8e013cf2-994a-4987-a0a8-e1ae03ff3a62",
+      "title": "Electronic Games, Volume 3, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1985",
+        "start": "1985-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8e013cf2-994a-4987-a0a8-e1ae03ff3a62",
+      "number": null
+    },
+    {
+      "id": "a7ac43bf-f55f-4bb3-a6ef-67194a7a1926",
+      "title": "Computer Entertainment, Volume 3, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1985",
+        "start": "1985-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a7ac43bf-f55f-4bb3-a6ef-67194a7a1926",
+      "number": null
+    },
+    {
+      "id": "b992ae55-f725-420c-a703-d927bb405e7b",
+      "title": "Computer Entertainment, Volume 3, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1985",
+        "start": "1985-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b992ae55-f725-420c-a703-d927bb405e7b",
+      "number": null
+    },
+    {
+      "id": "43965361-f798-4d41-bd50-2c0a04c00345",
+      "title": "Computer Entertainment, Volume 3, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1985",
+        "start": "1985-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43965361-f798-4d41-bd50-2c0a04c00345",
+      "number": null
+    },
+    {
+      "id": "ba9a1e20-f872-4265-a26e-807c7cfaa1b2",
+      "title": "Computer Entertainment, Volume 3, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1985",
+        "start": "1985-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ba9a1e20-f872-4265-a26e-807c7cfaa1b2",
+      "number": null
+    },
+    {
+      "id": "26488984-1df9-4c0e-b956-4b3628e395d6",
+      "title": "Electronic Games 1983 Software Encyclopedia",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 25, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/26488984-1df9-4c0e-b956-4b3628e395d6",
+      "number": null,
+      "parent_id": "d03ef2ec-ec2b-4fc0-b17f-590251b21943"
+    },
+    {
+      "id": "b42e97cf-c194-422d-b580-1047b0600182",
+      "title": "Electronic Games 1984 Software Encyclopedia",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/b42e97cf-c194-422d-b580-1047b0600182",
+      "number": null,
+      "parent_id": "d03ef2ec-ec2b-4fc0-b17f-590251b21943"
+    },
+    {
+      "id": "d03ef2ec-ec2b-4fc0-b17f-590251b21943",
+      "title": "Electronic Games special issues",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/d03ef2ec-ec2b-4fc0-b17f-590251b21943",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Electronic Games, Volume 1, Number 1": "bc8e8b67-2d76-4c22-ac7e-97bd9e17a4bb",
+    "Electronic Games, Volume 1, Number 2": "945560b4-9615-4385-8f4e-c35ad38d2a86",
+    "Electronic Games, Volume 1, Number 3": "59b68cd4-9e98-4455-b9b5-64bfa03b2bfc",
+    "Electronic Games, Volume 1, Number 4": "35e403a0-2965-43d1-acfe-605156ec797d",
+    "Electronic Games, Volume 1, Number 5": "dd141f4e-a968-450b-b366-204cf2f8a0f2",
+    "Electronic Games, Volume 1, Number 6": "1687a7fb-1a24-431a-854c-bacebbe6cb17",
+    "Electronic Games, Volume 1, Number 7": "43e638a1-8741-4ba5-85bf-f6ef785926aa",
+    "Electronic Games, Volume 1, Number 8": "a321359c-bac2-4d80-b428-4f86b624e3b1",
+    "Electronic Games, Volume 1, Number 9": "c5feace4-f7c7-4624-82a6-c0445ebce9a8",
+    "Electronic Games 1983 Buyers Guide": "2244249c-969c-4b65-af20-cf6899c40a1d",
+    "Electronic Games, Volume 1, Number 10": "c78f3e46-1b55-4f6f-b021-7bf0ae21b43f",
+    "Electronic Games, Volume 1, Number 11": "62d10cf5-a844-4595-8da9-468f33d3ceb5",
+    "Electronic Games, Volume 1, Number 12": "8307830f-9625-4876-83fe-48db026e3e11",
+    "Electronic Games, Volume 1, Number 13": "cbb95d8b-a098-4c63-8f25-e6e7bc9bb81e",
+    "Electronic Games, Volume 2, Number 1": "487d8601-4708-451c-8597-720c7f4acf95",
+    "Electronic Games, Volume 2, Number 2": "0d11fccd-3adc-4162-9773-77c0fee84cfa",
+    "Electronic Games, Volume 2, Number 3": "e0e85ca6-6062-4822-a510-2835d4bcf772",
+    "Electronic Games, Volume 2, Number 4": "f05b1446-9b45-4d1b-a5b1-36551142d22f",
+    "Electronic Games, Volume 2, Number 5": "76a1b427-22d8-475b-b60a-e8eda0b5cea3",
+    "Electronic Games, Volume 2, Number 6": "f6f90ab6-78c0-47bf-87b0-81c42621ed7f",
+    "Electronic Games, Volume 2, Number 7": "1739a530-dc10-456a-9c7d-ee6688fa92c7",
+    "Electronic Games, Volume 2, Number 8": "e7f9c1e7-92ee-4ffa-9e7f-22d73ba15d5e",
+    "Electronic Games, Volume 2, Number 9": "4927215a-ef00-4783-8da5-e498a1604079",
+    "Electronic Games, Volume 2, Number 10": "4c0c6bbd-b214-453a-a2d5-a8e5f4e6919d",
+    "Electronic Games, Volume 2, Number 11": "44285d8f-76e8-46d8-b07d-c184d55cec2f",
+    "Electronic Games, Volume 2, Number 12": "ef3b6797-d7c9-4bb3-9081-1d7559c8fd75",
+    "Electronic Games, Volume 2, Number 13": "f3b7c987-bd78-4890-b0dd-37195ce477d4",
+    "Electronic Games, Volume 2, Number 14": "cfbafd5e-dd78-4906-afd8-db56b4747396",
+    "Electronic Games, Volume 2, Number 15": "2b320ec4-c238-434f-abf4-38d714c12b72",
+    "Electronic Games, Volume 2, Number 16": "4f6b3afc-5321-4a87-9585-8cd465430a6b",
+    "Electronic Games, Volume 2, Number 17": "142f9049-5c01-437b-9399-2bcb8754ef7a",
+    "Electronic Games, Volume 3, Number 1": "3d4af76a-3e3a-45ea-8792-aecabf3b0da4",
+    "Electronic Games, Volume 3, Number 2": "1ca7d7e0-39fd-47e8-b900-ceac2424edb9",
+    "Electronic Games, Volume 3, Number 3": "2eb872e0-c6f1-49c7-98de-6950815fab9e",
+    "Electronic Games, Volume 3, Number 4": "8e013cf2-994a-4987-a0a8-e1ae03ff3a62",
+    "Computer Entertainment, Volume 3, Number 5": "a7ac43bf-f55f-4bb3-a6ef-67194a7a1926",
+    "Computer Entertainment, Volume 3, Number 6": "b992ae55-f725-420c-a703-d927bb405e7b",
+    "Computer Entertainment, Volume 3, Number 7": "43965361-f798-4d41-bd50-2c0a04c00345",
+    "Computer Entertainment, Volume 3, Number 8": "ba9a1e20-f872-4265-a26e-807c7cfaa1b2",
+    "Electronic Games 1983 Software Encyclopedia": "26488984-1df9-4c0e-b956-4b3628e395d6",
+    "Electronic Games 1984 Software Encyclopedia": "b42e97cf-c194-422d-b580-1047b0600182",
+    "Electronic Games special issues": "d03ef2ec-ec2b-4fc0-b17f-590251b21943"
+  }
+}

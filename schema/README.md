@@ -1,7 +1,7 @@
 # Library schema
 
 Three entities, three JSON Schema files (draft 2020-12). TypeScript mirror in
-`site/src/lib/schema.ts`. Validate with `python validate.py`.
+`site/src/lib/schema.ts`. Validate with `python scripts/validate.py`.
 
 ```
 library/
@@ -60,7 +60,7 @@ under `site/public/`.
 Hand-edited: `providers.json`, `publication.json` (except `stats`), and the
 descriptive issue fields (`special`, `cover_headline`, `contents`, `tags`).
 Generated: `sequence`, `pages`, `dimensions`, `files`, `assets`, `text`,
-`stats`, `updated_at`. Adapters create issues; `build_pages.py` fills `assets`;
+`stats`, `updated_at`. Adapters create issues; `scripts/build_pages.py` fills `assets`;
 the OCR step fills `text`.
 
 ## Adding a publication
@@ -68,5 +68,5 @@ the OCR step fills `text`.
 1. Write an adapter that discovers issues at the provider and downloads PDFs.
    It must emit `issues.json` with at least the required fields.
 2. Write `publication.json` by hand (Wikipedia + the provider's own listing).
-3. `python validate.py`
-4. `python build_pages.py --publication <id> --issue <n>` to render pages.
+3. `python scripts/validate.py`
+4. `python scripts/build_pages.py --publication <id> --issue <n>` to render pages.

@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/218ce001-1f8c-4370-bd1b-09de24c45b3e",
-      "date_range": "Winter 1982 – Summer 1983"
+      "date_range": "Winter 1982 – Fall 1982",
+      "items": 7
     }
   ],
   "stats": {
@@ -44,6 +45,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Odyssey2 owners' magazine."
 }

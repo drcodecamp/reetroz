@@ -36,7 +36,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/9f1aa694-751b-4a95-acde-d61baf94d3d9",
-      "date_range": "Holiday 2007 – Holiday 2012"
+      "date_range": "Holiday 2007 – December 2012",
+      "items": 64
     }
   ],
   "stats": {
@@ -45,5 +46,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

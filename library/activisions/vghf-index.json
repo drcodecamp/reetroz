@@ -1,0 +1,181 @@
+{
+  "provider": "vghf",
+  "folder_id": "fdb5a523-54e5-40a3-aab4-efc9dc0faee7",
+  "url": "https://archive.gamehistory.org/folder/fdb5a523-54e5-40a3-aab4-efc9dc0faee7",
+  "retrieved_at": "2026-09-13T22:46:49+00:00",
+  "expected": 10,
+  "count": 10,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "f2a3d75f-6155-4583-9b99-de06706eeec2",
+      "title": "Activisions, Volume 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1981",
+        "start": "1981-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/f2a3d75f-6155-4583-9b99-de06706eeec2",
+      "number": null
+    },
+    {
+      "id": "22247f98-c57a-404d-93b0-c8771457274e",
+      "title": "Activisions, Volume 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1981",
+        "start": "1981-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/22247f98-c57a-404d-93b0-c8771457274e",
+      "number": null
+    },
+    {
+      "id": "87533532-0a68-4614-b0dc-5f4800598ea5",
+      "title": "Activisions, Volume 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1982",
+        "start": "1982-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/87533532-0a68-4614-b0dc-5f4800598ea5",
+      "number": null
+    },
+    {
+      "id": "f60184d7-5927-4806-9cdf-ace49305fe85",
+      "title": "Activisions, Special Edition",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1982",
+        "start": "1982-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f60184d7-5927-4806-9cdf-ace49305fe85",
+      "number": null
+    },
+    {
+      "id": "2b599e65-f453-48b3-a079-683a5d0265a1",
+      "title": "Activisions, Volume 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1982",
+        "start": "1982-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/2b599e65-f453-48b3-a079-683a5d0265a1",
+      "number": null
+    },
+    {
+      "id": "e9c2826f-5de3-49e4-9e61-32b8345f9637",
+      "title": "Activision for Atari Computers insert",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1982",
+        "start": "1982-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e9c2826f-5de3-49e4-9e61-32b8345f9637",
+      "number": null
+    },
+    {
+      "id": "870e47e7-673d-4899-b9aa-c1563ee78504",
+      "title": "Activisions, Volume 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1982",
+        "start": "1982-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/870e47e7-673d-4899-b9aa-c1563ee78504",
+      "number": null
+    },
+    {
+      "id": "d59be8b8-f8a8-490a-a391-b055043f9647",
+      "title": "Activisions, Volume 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1983",
+        "start": "1983-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/d59be8b8-f8a8-490a-a391-b055043f9647",
+      "number": null
+    },
+    {
+      "id": "6c6c95ab-9cb8-4772-9e63-a9fdbc148270",
+      "title": "Activisions, Volume 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1983",
+        "start": "1983-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/6c6c95ab-9cb8-4772-9e63-a9fdbc148270",
+      "number": null
+    },
+    {
+      "id": "7557235c-1eaa-4a91-9fca-461fb45af9d1",
+      "title": "Activisions Update, Pitfall II: Lost Caverns",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. early 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/7557235c-1eaa-4a91-9fca-461fb45af9d1",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Activisions, Volume 1": "f2a3d75f-6155-4583-9b99-de06706eeec2",
+    "Activisions, Volume 2": "22247f98-c57a-404d-93b0-c8771457274e",
+    "Activisions, Volume 3": "87533532-0a68-4614-b0dc-5f4800598ea5",
+    "Activisions, Special Edition": "f60184d7-5927-4806-9cdf-ace49305fe85",
+    "Activisions, Volume 4": "2b599e65-f453-48b3-a079-683a5d0265a1",
+    "Activision for Atari Computers insert": "e9c2826f-5de3-49e4-9e61-32b8345f9637",
+    "Activisions, Volume 5": "870e47e7-673d-4899-b9aa-c1563ee78504",
+    "Activisions, Volume 6": "d59be8b8-f8a8-490a-a391-b055043f9647",
+    "Activisions, Volume 7": "6c6c95ab-9cb8-4772-9e63-a9fdbc148270",
+    "Activisions Update, Pitfall II: Lost Caverns": "7557235c-1eaa-4a91-9fca-461fb45af9d1"
+  }
+}

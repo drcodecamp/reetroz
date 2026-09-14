@@ -35,12 +35,19 @@
     "status": "community-scan",
     "note": "Inherited from default provider; review before hosting."
   },
-  "known_sources": [],
+  "known_sources": [
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/e3d7153a-504c-4383-a173-acace3680a6d",
+      "items": 21,
+      "date_range": "October 1992 – December 2000"
+    }
+  ],
   "stats": {
     "issues": 0,
     "pages": 0,
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

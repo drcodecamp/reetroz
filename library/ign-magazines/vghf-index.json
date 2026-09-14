@@ -1,0 +1,43 @@
+{
+  "provider": "vghf",
+  "folder_id": "00855151-bc1a-4b0a-9189-d64f74179869",
+  "url": "https://archive.gamehistory.org/folder/00855151-bc1a-4b0a-9189-d64f74179869",
+  "retrieved_at": "2026-09-13T22:55:00+00:00",
+  "expected": 2,
+  "count": 2,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "f0304eca-3ac0-41c2-aa03-0895a64aea4d",
+      "title": "IGN.com The Magazine, Volume 1, Issue 1 / GameShark Magazine",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2001 / Holiday 2001"
+      },
+      "url": "https://archive.gamehistory.org/item/f0304eca-3ac0-41c2-aa03-0895a64aea4d",
+      "number": "1"
+    },
+    {
+      "id": "9b943eef-da57-4bcf-9fa8-619d3eacd8df",
+      "title": "IGN64.com The Magazine",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. late 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/9b943eef-da57-4bcf-9fa8-619d3eacd8df",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "IGN.com The Magazine, Volume 1, Issue 1 / GameShark Magazine": "f0304eca-3ac0-41c2-aa03-0895a64aea4d",
+    "IGN64.com The Magazine": "9b943eef-da57-4bcf-9fa8-619d3eacd8df"
+  }
+}

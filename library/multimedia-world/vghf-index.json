@@ -1,0 +1,183 @@
+{
+  "provider": "vghf",
+  "folder_id": "cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
+  "url": "https://archive.gamehistory.org/folder/cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
+  "retrieved_at": "2026-09-13T22:56:15+00:00",
+  "expected": 10,
+  "count": 10,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "9d99e763-6496-4758-ab1e-3337e3c872b0",
+      "title": "Multimedia World, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d99e763-6496-4758-ab1e-3337e3c872b0",
+      "number": null
+    },
+    {
+      "id": "fb132bdd-e4d8-4c3e-86f8-71a8855cd30f",
+      "title": "Multimedia World, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb132bdd-e4d8-4c3e-86f8-71a8855cd30f",
+      "number": null
+    },
+    {
+      "id": "29c63948-836c-4783-a83d-859d4691742c",
+      "title": "Multimedia World, Volume 1, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/29c63948-836c-4783-a83d-859d4691742c",
+      "number": null
+    },
+    {
+      "id": "8f686aa6-a40a-4783-9607-40ee26a57634",
+      "title": "Multimedia World, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8f686aa6-a40a-4783-9607-40ee26a57634",
+      "number": null
+    },
+    {
+      "id": "204a5e5e-e024-4c16-9cf1-338e04cb1a23",
+      "title": "Multimedia World, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/204a5e5e-e024-4c16-9cf1-338e04cb1a23",
+      "number": null
+    },
+    {
+      "id": "8ca009ca-75c0-44fc-b131-fdd5aa81abff",
+      "title": "Multimedia World, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8ca009ca-75c0-44fc-b131-fdd5aa81abff",
+      "number": null
+    },
+    {
+      "id": "e1170e2f-360b-4b6b-a7bd-b8c8889ffa38",
+      "title": "Multimedia World, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e1170e2f-360b-4b6b-a7bd-b8c8889ffa38",
+      "number": null
+    },
+    {
+      "id": "745f0d3b-1c8f-436b-b8ce-1a365b6a6e54",
+      "title": "Multimedia World, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/745f0d3b-1c8f-436b-b8ce-1a365b6a6e54",
+      "number": null
+    },
+    {
+      "id": "fb275a40-5fb1-45e8-bb88-d49986a3e1c7",
+      "title": "Multimedia World, Volume 2, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fb275a40-5fb1-45e8-bb88-d49986a3e1c7",
+      "number": null
+    },
+    {
+      "id": "c6e81bc1-a495-4827-a420-3b2ba5b3c3f1",
+      "title": "Multimedia World, Volume 2, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c6e81bc1-a495-4827-a420-3b2ba5b3c3f1",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Multimedia World, Volume 1, Number 2": "9d99e763-6496-4758-ab1e-3337e3c872b0",
+    "Multimedia World, Volume 1, Number 4": "fb132bdd-e4d8-4c3e-86f8-71a8855cd30f",
+    "Multimedia World, Volume 1, Number 12": "29c63948-836c-4783-a83d-859d4691742c",
+    "Multimedia World, Volume 2, Number 1": "8f686aa6-a40a-4783-9607-40ee26a57634",
+    "Multimedia World, Volume 2, Number 2": "204a5e5e-e024-4c16-9cf1-338e04cb1a23",
+    "Multimedia World, Volume 2, Number 4": "8ca009ca-75c0-44fc-b131-fdd5aa81abff",
+    "Multimedia World, Volume 2, Number 5": "e1170e2f-360b-4b6b-a7bd-b8c8889ffa38",
+    "Multimedia World, Volume 2, Number 6": "745f0d3b-1c8f-436b-b8ce-1a365b6a6e54",
+    "Multimedia World, Volume 2, Number 7": "fb275a40-5fb1-45e8-bb88-d49986a3e1c7",
+    "Multimedia World, Volume 2, Number 9": "c6e81bc1-a495-4827-a420-3b2ba5b3c3f1"
+  }
+}

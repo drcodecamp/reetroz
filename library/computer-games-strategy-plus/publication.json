@@ -39,7 +39,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/9d04d369-f4ba-413c-b0e3-d50271f157a4",
-      "date_range": "October 1990 – April 2007"
+      "date_range": "October 1990 – October 1990 – August 1991",
+      "items": 117
     }
   ],
   "stats": {
@@ -48,6 +49,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Later titled Computer Games Magazine."
 }

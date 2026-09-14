@@ -1,0 +1,28 @@
+{
+  "provider": "vghf",
+  "folder_id": "2b773cc8-53a1-4c3b-aa8b-cacb1cb20fe1",
+  "url": "https://archive.gamehistory.org/folder/2b773cc8-53a1-4c3b-aa8b-cacb1cb20fe1",
+  "retrieved_at": "2026-09-13T22:56:42+00:00",
+  "expected": 1,
+  "count": 1,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "1664fae6-2c30-4573-b9d1-ad88f087a811",
+      "title": "NGamer, premier issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December / January 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/1664fae6-2c30-4573-b9d1-ad88f087a811",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "NGamer, premier issue": "1664fae6-2c30-4573-b9d1-ad88f087a811"
+  }
+}

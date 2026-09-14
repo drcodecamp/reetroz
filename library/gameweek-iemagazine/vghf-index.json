@@ -1,0 +1,223 @@
+{
+  "provider": "vghf",
+  "folder_id": "7d3a45c8-2b53-4bb7-9583-bad2bca32e77",
+  "url": "https://archive.gamehistory.org/folder/7d3a45c8-2b53-4bb7-9583-bad2bca32e77",
+  "retrieved_at": "2026-09-13T22:54:39+00:00",
+  "expected": 14,
+  "count": 14,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "3192b383-c1ac-4888-b586-2c8b4309f223",
+      "title": "GameWEEK Magazine, Volume 6, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 17, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/3192b383-c1ac-4888-b586-2c8b4309f223",
+      "number": "2"
+    },
+    {
+      "id": "8cb084b8-19e3-4dff-b0ec-1dace3061c68",
+      "title": "GameWEEK Magazine, Volume 6, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 31, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/8cb084b8-19e3-4dff-b0ec-1dace3061c68",
+      "number": "3"
+    },
+    {
+      "id": "a9e051b6-d7d3-419e-815e-4aec5c46e782",
+      "title": "GameWEEK Magazine, Volume 6, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 14, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/a9e051b6-d7d3-419e-815e-4aec5c46e782",
+      "number": "5"
+    },
+    {
+      "id": "da437e0c-ebad-4e7a-8b8f-a53e8b70cc81",
+      "title": "GameWEEK Magazine, Volume 5, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 21, 1999"
+      },
+      "url": "https://archive.gamehistory.org/item/da437e0c-ebad-4e7a-8b8f-a53e8b70cc81",
+      "number": "14"
+    },
+    {
+      "id": "fd769533-5345-435d-aad0-eb8ba40ddabd",
+      "title": "GameWEEK Magazine, Volume 6, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 8, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/fd769533-5345-435d-aad0-eb8ba40ddabd",
+      "number": "14"
+    },
+    {
+      "id": "954761f1-e57f-404a-8a8d-39cc48ef6e4b",
+      "title": "GameWEEK Magazine, Volume 4, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 15, 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/954761f1-e57f-404a-8a8d-39cc48ef6e4b",
+      "number": "15"
+    },
+    {
+      "id": "07470dc0-3f7f-4e6e-bfe5-ba12cca5987b",
+      "title": "GameWEEK Magazine, Volume 6, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 29, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/07470dc0-3f7f-4e6e-bfe5-ba12cca5987b",
+      "number": "16"
+    },
+    {
+      "id": "33abe840-4e8a-48de-9be1-b497927b8d33",
+      "title": "GameWEEK Magazine, Volume 5, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 12, 1999"
+      },
+      "url": "https://archive.gamehistory.org/item/33abe840-4e8a-48de-9be1-b497927b8d33",
+      "number": "17"
+    },
+    {
+      "id": "1270f2f5-7d89-46b4-b633-6e3a5974145a",
+      "title": "GameWEEK Magazine, Volume 6, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 19, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/1270f2f5-7d89-46b4-b633-6e3a5974145a",
+      "number": "18"
+    },
+    {
+      "id": "0d2687e4-f60a-43bd-ac07-5618e8906e16",
+      "title": "GameWEEK Magazine, Volume 6, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 3, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/0d2687e4-f60a-43bd-ac07-5618e8906e16",
+      "number": "20"
+    },
+    {
+      "id": "906f787c-6f94-4f8d-8cf0-5102d75a41f1",
+      "title": "GameWEEK Magazine, Volume 6, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 16, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/906f787c-6f94-4f8d-8cf0-5102d75a41f1",
+      "number": "27"
+    },
+    {
+      "id": "98864cfc-a30d-4dba-aec5-bcb74505067f",
+      "title": "GameWEEK Magazine, Volume 6, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 6, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/98864cfc-a30d-4dba-aec5-bcb74505067f",
+      "number": "28"
+    },
+    {
+      "id": "20498024-7534-433b-a776-ff8675dff386",
+      "title": "GameWEEK Magazine, Volume 6, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 11, 2000"
+      },
+      "url": "https://archive.gamehistory.org/item/20498024-7534-433b-a776-ff8675dff386",
+      "number": "30"
+    },
+    {
+      "id": "b198be50-d3b7-4492-805d-58882a0275d5",
+      "title": "GameWEEK Magazine, Volume 5, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 8, 1999"
+      },
+      "url": "https://archive.gamehistory.org/item/b198be50-d3b7-4492-805d-58882a0275d5",
+      "number": "41"
+    }
+  ],
+  "by_title": {
+    "GameWEEK Magazine, Volume 6, Issue 2": "3192b383-c1ac-4888-b586-2c8b4309f223",
+    "GameWEEK Magazine, Volume 6, Issue 3": "8cb084b8-19e3-4dff-b0ec-1dace3061c68",
+    "GameWEEK Magazine, Volume 6, Issue 5": "a9e051b6-d7d3-419e-815e-4aec5c46e782",
+    "GameWEEK Magazine, Volume 5, Issue 14": "da437e0c-ebad-4e7a-8b8f-a53e8b70cc81",
+    "GameWEEK Magazine, Volume 6, Issue 14": "fd769533-5345-435d-aad0-eb8ba40ddabd",
+    "GameWEEK Magazine, Volume 4, Issue 15": "954761f1-e57f-404a-8a8d-39cc48ef6e4b",
+    "GameWEEK Magazine, Volume 6, Issue 16": "07470dc0-3f7f-4e6e-bfe5-ba12cca5987b",
+    "GameWEEK Magazine, Volume 5, Issue 17": "33abe840-4e8a-48de-9be1-b497927b8d33",
+    "GameWEEK Magazine, Volume 6, Issue 18": "1270f2f5-7d89-46b4-b633-6e3a5974145a",
+    "GameWEEK Magazine, Volume 6, Issue 20": "0d2687e4-f60a-43bd-ac07-5618e8906e16",
+    "GameWEEK Magazine, Volume 6, Issue 27": "906f787c-6f94-4f8d-8cf0-5102d75a41f1",
+    "GameWEEK Magazine, Volume 6, Issue 28": "98864cfc-a30d-4dba-aec5-bcb74505067f",
+    "GameWEEK Magazine, Volume 6, Issue 30": "20498024-7534-433b-a776-ff8675dff386",
+    "GameWEEK Magazine, Volume 5, Issue 41": "b198be50-d3b7-4492-805d-58882a0275d5"
+  }
+}

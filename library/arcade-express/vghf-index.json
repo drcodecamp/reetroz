@@ -1,0 +1,808 @@
+{
+  "provider": "vghf",
+  "folder_id": "14c6f023-c9dd-4ac8-ac7b-f243dc1dbe8f",
+  "url": "https://archive.gamehistory.org/folder/14c6f023-c9dd-4ac8-ac7b-f243dc1dbe8f",
+  "retrieved_at": "2026-09-13T22:46:54+00:00",
+  "expected": 53,
+  "count": 53,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "fa9ace9e-91a0-45d6-bdd9-5ac90153df53",
+      "title": "Arcade Express, Volume 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 15, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/fa9ace9e-91a0-45d6-bdd9-5ac90153df53",
+      "number": null
+    },
+    {
+      "id": "34e0b9ba-ad82-4b16-afb3-e01eb6f61e10",
+      "title": "Arcade Express, Volume 1, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 19, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/34e0b9ba-ad82-4b16-afb3-e01eb6f61e10",
+      "number": null
+    },
+    {
+      "id": "6818b658-f5d5-488c-80bf-c69f9ee83c16",
+      "title": "Arcade Express, Volume 1, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/6818b658-f5d5-488c-80bf-c69f9ee83c16",
+      "number": null
+    },
+    {
+      "id": "a3b66683-719e-46e5-be8c-d84bca2fd9e4",
+      "title": "Arcade Express, Volume 1, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 16, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/a3b66683-719e-46e5-be8c-d84bca2fd9e4",
+      "number": null
+    },
+    {
+      "id": "43525eb6-7e9d-4405-bcd6-9ddb64415593",
+      "title": "Arcade Express, Volume 1, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 30, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/43525eb6-7e9d-4405-bcd6-9ddb64415593",
+      "number": null
+    },
+    {
+      "id": "4aacf46e-05d6-4a30-87dd-4dced4c5fe4a",
+      "title": "Arcade Express, Volume 1, Number 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 13, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/4aacf46e-05d6-4a30-87dd-4dced4c5fe4a",
+      "number": null
+    },
+    {
+      "id": "1e2f19bd-42ae-479b-b9ff-b3bac79245ef",
+      "title": "Arcade Express, Volume 1, Number 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 27, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/1e2f19bd-42ae-479b-b9ff-b3bac79245ef",
+      "number": null
+    },
+    {
+      "id": "83fc87d7-d0ad-4f80-b2f2-63863035c01b",
+      "title": "Arcade Express, Volume 1, Number 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 13, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/83fc87d7-d0ad-4f80-b2f2-63863035c01b",
+      "number": null
+    },
+    {
+      "id": "8936befc-b188-4be4-b469-953574790d52",
+      "title": "Arcade Express, Volume 1, Number 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 27, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/8936befc-b188-4be4-b469-953574790d52",
+      "number": null
+    },
+    {
+      "id": "ae43f318-b3d8-427b-9895-5214c6fa5f6f",
+      "title": "Arcade Express, Volume 1, Number 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 10, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/ae43f318-b3d8-427b-9895-5214c6fa5f6f",
+      "number": null
+    },
+    {
+      "id": "d6e2e090-41d0-43bf-80bb-93b7c5e64439",
+      "title": "Arcade Express, Volume 1, Number 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 24, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/d6e2e090-41d0-43bf-80bb-93b7c5e64439",
+      "number": null
+    },
+    {
+      "id": "080d7a07-03df-4516-88c2-1d5fcaedd8bf",
+      "title": "Arcade Express, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 30, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/080d7a07-03df-4516-88c2-1d5fcaedd8bf",
+      "number": null
+    },
+    {
+      "id": "b387acb5-a7fc-495d-9f96-2986329f1ba8",
+      "title": "Arcade Express, Volume 1, Number 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 8, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/b387acb5-a7fc-495d-9f96-2986329f1ba8",
+      "number": null
+    },
+    {
+      "id": "0e20b663-4956-46a9-a0d9-c6c8a5b726ab",
+      "title": "Arcade Express, Volume 1, Number 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 22, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/0e20b663-4956-46a9-a0d9-c6c8a5b726ab",
+      "number": null
+    },
+    {
+      "id": "2d1d9db9-d9c5-4ea3-826f-def6fab01c05",
+      "title": "Arcade Express, Volume 1, Number 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 5, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/2d1d9db9-d9c5-4ea3-826f-def6fab01c05",
+      "number": null
+    },
+    {
+      "id": "1d755632-ae36-4097-927f-825ccd6bcd26",
+      "title": "Arcade Express, Volume 1, Number 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 19, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/1d755632-ae36-4097-927f-825ccd6bcd26",
+      "number": null
+    },
+    {
+      "id": "9d563ef9-8957-40c2-ad36-b5102de63fc1",
+      "title": "Arcade Express, Volume 1, Number 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 3, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/9d563ef9-8957-40c2-ad36-b5102de63fc1",
+      "number": null
+    },
+    {
+      "id": "2fe0ff3e-d61f-449b-a080-d53ba51d3fc5",
+      "title": "Arcade Express, Volume 1, Number 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 17, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/2fe0ff3e-d61f-449b-a080-d53ba51d3fc5",
+      "number": null
+    },
+    {
+      "id": "a6352145-a842-43b0-9f32-c5b4e3818931",
+      "title": "Arcade Express, Volume 1, Number 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 31, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/a6352145-a842-43b0-9f32-c5b4e3818931",
+      "number": null
+    },
+    {
+      "id": "ee43b51d-f3e3-4b31-822b-45c4e45a5734",
+      "title": "Arcade Express, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 12, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/ee43b51d-f3e3-4b31-822b-45c4e45a5734",
+      "number": null
+    },
+    {
+      "id": "ce02f25b-dafb-4fe0-a11c-2bed7cfd05b4",
+      "title": "Arcade Express, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 26, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/ce02f25b-dafb-4fe0-a11c-2bed7cfd05b4",
+      "number": null
+    },
+    {
+      "id": "3294ed04-943a-4c87-a6e7-2f42053fc4a9",
+      "title": "Arcade Express, Volume 1, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 10, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/3294ed04-943a-4c87-a6e7-2f42053fc4a9",
+      "number": null
+    },
+    {
+      "id": "da3c0b87-d0cd-4146-99a8-ab495e55e767",
+      "title": "Arcade Express, Volume 1, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 24, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/da3c0b87-d0cd-4146-99a8-ab495e55e767",
+      "number": null
+    },
+    {
+      "id": "716ee5ed-0945-4104-a088-e4eff60747af",
+      "title": "Arcade Express, Volume 1, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 7, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/716ee5ed-0945-4104-a088-e4eff60747af",
+      "number": null
+    },
+    {
+      "id": "fa6394fc-9df6-451f-973d-8d7ad76ae185",
+      "title": "Arcade Express, Volume 1, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 21, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/fa6394fc-9df6-451f-973d-8d7ad76ae185",
+      "number": null
+    },
+    {
+      "id": "75821ccb-57c6-4a6c-be53-5464c5063b55",
+      "title": "Arcade Express, Volume 1, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 5, 1982"
+      },
+      "url": "https://archive.gamehistory.org/item/75821ccb-57c6-4a6c-be53-5464c5063b55",
+      "number": null
+    },
+    {
+      "id": "e7f7e5cb-5f84-4cea-a468-9f7f539fb215",
+      "title": "Electronic Games Hotline, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 14, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/e7f7e5cb-5f84-4cea-a468-9f7f539fb215",
+      "number": null
+    },
+    {
+      "id": "16bfb21c-63a1-4bc6-ab58-5ac7fefca594",
+      "title": "Electronic Games Hotline, Volume 2, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 18, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/16bfb21c-63a1-4bc6-ab58-5ac7fefca594",
+      "number": null
+    },
+    {
+      "id": "994b1015-91d7-4478-a23d-a10789a27014",
+      "title": "Electronic Games Hotline, Volume 2, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/994b1015-91d7-4478-a23d-a10789a27014",
+      "number": null
+    },
+    {
+      "id": "fcc2098b-8269-49cb-91a5-357afca34e63",
+      "title": "Electronic Games Hotline, Volume 2, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 15, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/fcc2098b-8269-49cb-91a5-357afca34e63",
+      "number": null
+    },
+    {
+      "id": "80655b9c-70db-437e-bee8-7e460e67e904",
+      "title": "Electronic Games Hotline, Volume 2, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 29, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/80655b9c-70db-437e-bee8-7e460e67e904",
+      "number": null
+    },
+    {
+      "id": "70816f96-a40f-40c0-970d-c3800b93608c",
+      "title": "Electronic Games Hotline, Volume 2, Number 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 12, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/70816f96-a40f-40c0-970d-c3800b93608c",
+      "number": null
+    },
+    {
+      "id": "665cb202-5cc0-4b31-8d17-3457425ef82f",
+      "title": "Electronic Games Hotline, Volume 2, Number 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 26, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/665cb202-5cc0-4b31-8d17-3457425ef82f",
+      "number": null
+    },
+    {
+      "id": "a2550bc8-89ce-4613-8074-d80f13093580",
+      "title": "Electronic Games Hotline, Volume 2, Number 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 11, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/a2550bc8-89ce-4613-8074-d80f13093580",
+      "number": null
+    },
+    {
+      "id": "a675b76c-7c14-4368-9748-79c24a238834",
+      "title": "Electronic Games Hotline, Volume 2, Number 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 25, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/a675b76c-7c14-4368-9748-79c24a238834",
+      "number": null
+    },
+    {
+      "id": "94560883-df0c-4b33-a724-1c165a437f73",
+      "title": "Electronic Games Hotline, Volume 2, Number 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 8, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/94560883-df0c-4b33-a724-1c165a437f73",
+      "number": null
+    },
+    {
+      "id": "ec946f76-2309-4873-b97b-cbbb9f437ae0",
+      "title": "Electronic Games Hotline, Volume 2, Number 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 22, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/ec946f76-2309-4873-b97b-cbbb9f437ae0",
+      "number": null
+    },
+    {
+      "id": "f403914c-0ffd-4f50-b4c6-213d0068a345",
+      "title": "Electronic Games Hotline, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 28, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/f403914c-0ffd-4f50-b4c6-213d0068a345",
+      "number": null
+    },
+    {
+      "id": "74c21834-924c-4577-9e18-6aa9e55cff10",
+      "title": "Electronic Games Hotline, Volume 2, Number 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 6, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/74c21834-924c-4577-9e18-6aa9e55cff10",
+      "number": null
+    },
+    {
+      "id": "c43db08c-1799-4486-bb5e-c48ca5814299",
+      "title": "Electronic Games Hotline, Volume 2, Number 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 20, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/c43db08c-1799-4486-bb5e-c48ca5814299",
+      "number": null
+    },
+    {
+      "id": "9b1fe279-d2b8-47d5-9a8d-61a1bff89158",
+      "title": "Electronic Games Hotline, Volume 2, Number 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 3, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/9b1fe279-d2b8-47d5-9a8d-61a1bff89158",
+      "number": null
+    },
+    {
+      "id": "038e20e2-9927-41a1-aed9-fbc3ef0261ec",
+      "title": "Electronic Games Hotline, Volume 2, Number 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 17, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/038e20e2-9927-41a1-aed9-fbc3ef0261ec",
+      "number": null
+    },
+    {
+      "id": "ca399483-05d5-4509-a834-80ae4590835e",
+      "title": "Electronic Games Hotline, Volume 2, Number 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/ca399483-05d5-4509-a834-80ae4590835e",
+      "number": null
+    },
+    {
+      "id": "1d766815-b6ab-44b8-a26e-ee80f2c28804",
+      "title": "Electronic Games Hotline, Volume 2, Number 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 15, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/1d766815-b6ab-44b8-a26e-ee80f2c28804",
+      "number": null
+    },
+    {
+      "id": "25235656-e7ec-481f-b253-b3fc3300965c",
+      "title": "Electronic Games Hotline, Volume 2, Number 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 29, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/25235656-e7ec-481f-b253-b3fc3300965c",
+      "number": null
+    },
+    {
+      "id": "c3a38c67-0ba8-4847-a14a-0e9005cf7dc1",
+      "title": "Electronic Games Hotline, Volume 2, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 11, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/c3a38c67-0ba8-4847-a14a-0e9005cf7dc1",
+      "number": null
+    },
+    {
+      "id": "8df96d9e-9dce-4709-8ddc-0f6fa852fd99",
+      "title": "Electronic Games Hotline, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 23, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/8df96d9e-9dce-4709-8ddc-0f6fa852fd99",
+      "number": null
+    },
+    {
+      "id": "ac49669c-2dc8-4218-b19a-eb8b1847b64b",
+      "title": "Electronic Games Hotline, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 9, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/ac49669c-2dc8-4218-b19a-eb8b1847b64b",
+      "number": null
+    },
+    {
+      "id": "caa0d803-36c3-49f3-be6e-7d6cd65198cb",
+      "title": "Electronic Games Hotline, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 23, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/caa0d803-36c3-49f3-be6e-7d6cd65198cb",
+      "number": null
+    },
+    {
+      "id": "3810e210-7f38-4e25-a2c2-ba79cfc10e6e",
+      "title": "Electronic Games Hotline, Volume 2, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 6, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/3810e210-7f38-4e25-a2c2-ba79cfc10e6e",
+      "number": null
+    },
+    {
+      "id": "629920af-805f-4caa-b1a1-f54093190d0e",
+      "title": "Electronic Games Hotline, Volume 2, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 20, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/629920af-805f-4caa-b1a1-f54093190d0e",
+      "number": null
+    },
+    {
+      "id": "04605358-920c-49d3-9764-078916951288",
+      "title": "Electronic Games Hotline, Volume 2, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 4, 1983"
+      },
+      "url": "https://archive.gamehistory.org/item/04605358-920c-49d3-9764-078916951288",
+      "number": null
+    },
+    {
+      "id": "780299c6-6f75-4ee1-bb02-9a7fb79e82ed",
+      "title": "Electronic Games Hotline, Volume 3, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 12, 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/780299c6-6f75-4ee1-bb02-9a7fb79e82ed",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Arcade Express, Volume 1, Number 1": "fa9ace9e-91a0-45d6-bdd9-5ac90153df53",
+    "Arcade Express, Volume 1, Number 10": "34e0b9ba-ad82-4b16-afb3-e01eb6f61e10",
+    "Arcade Express, Volume 1, Number 11": "6818b658-f5d5-488c-80bf-c69f9ee83c16",
+    "Arcade Express, Volume 1, Number 12": "a3b66683-719e-46e5-be8c-d84bca2fd9e4",
+    "Arcade Express, Volume 1, Number 13": "43525eb6-7e9d-4405-bcd6-9ddb64415593",
+    "Arcade Express, Volume 1, Number 14": "4aacf46e-05d6-4a30-87dd-4dced4c5fe4a",
+    "Arcade Express, Volume 1, Number 15": "1e2f19bd-42ae-479b-b9ff-b3bac79245ef",
+    "Arcade Express, Volume 1, Number 16": "83fc87d7-d0ad-4f80-b2f2-63863035c01b",
+    "Arcade Express, Volume 1, Number 17": "8936befc-b188-4be4-b469-953574790d52",
+    "Arcade Express, Volume 1, Number 18": "ae43f318-b3d8-427b-9895-5214c6fa5f6f",
+    "Arcade Express, Volume 1, Number 19": "d6e2e090-41d0-43bf-80bb-93b7c5e64439",
+    "Arcade Express, Volume 1, Number 2": "080d7a07-03df-4516-88c2-1d5fcaedd8bf",
+    "Arcade Express, Volume 1, Number 20": "b387acb5-a7fc-495d-9f96-2986329f1ba8",
+    "Arcade Express, Volume 1, Number 21": "0e20b663-4956-46a9-a0d9-c6c8a5b726ab",
+    "Arcade Express, Volume 1, Number 22": "2d1d9db9-d9c5-4ea3-826f-def6fab01c05",
+    "Arcade Express, Volume 1, Number 23": "1d755632-ae36-4097-927f-825ccd6bcd26",
+    "Arcade Express, Volume 1, Number 24": "9d563ef9-8957-40c2-ad36-b5102de63fc1",
+    "Arcade Express, Volume 1, Number 25": "2fe0ff3e-d61f-449b-a080-d53ba51d3fc5",
+    "Arcade Express, Volume 1, Number 26": "a6352145-a842-43b0-9f32-c5b4e3818931",
+    "Arcade Express, Volume 1, Number 3": "ee43b51d-f3e3-4b31-822b-45c4e45a5734",
+    "Arcade Express, Volume 1, Number 4": "ce02f25b-dafb-4fe0-a11c-2bed7cfd05b4",
+    "Arcade Express, Volume 1, Number 5": "3294ed04-943a-4c87-a6e7-2f42053fc4a9",
+    "Arcade Express, Volume 1, Number 6": "da3c0b87-d0cd-4146-99a8-ab495e55e767",
+    "Arcade Express, Volume 1, Number 7": "716ee5ed-0945-4104-a088-e4eff60747af",
+    "Arcade Express, Volume 1, Number 8": "fa6394fc-9df6-451f-973d-8d7ad76ae185",
+    "Arcade Express, Volume 1, Number 9": "75821ccb-57c6-4a6c-be53-5464c5063b55",
+    "Electronic Games Hotline, Volume 2, Number 1": "e7f7e5cb-5f84-4cea-a468-9f7f539fb215",
+    "Electronic Games Hotline, Volume 2, Number 10": "16bfb21c-63a1-4bc6-ab58-5ac7fefca594",
+    "Electronic Games Hotline, Volume 2, Number 11": "994b1015-91d7-4478-a23d-a10789a27014",
+    "Electronic Games Hotline, Volume 2, Number 12": "fcc2098b-8269-49cb-91a5-357afca34e63",
+    "Electronic Games Hotline, Volume 2, Number 13": "80655b9c-70db-437e-bee8-7e460e67e904",
+    "Electronic Games Hotline, Volume 2, Number 14": "70816f96-a40f-40c0-970d-c3800b93608c",
+    "Electronic Games Hotline, Volume 2, Number 15": "665cb202-5cc0-4b31-8d17-3457425ef82f",
+    "Electronic Games Hotline, Volume 2, Number 16": "a2550bc8-89ce-4613-8074-d80f13093580",
+    "Electronic Games Hotline, Volume 2, Number 17": "a675b76c-7c14-4368-9748-79c24a238834",
+    "Electronic Games Hotline, Volume 2, Number 18": "94560883-df0c-4b33-a724-1c165a437f73",
+    "Electronic Games Hotline, Volume 2, Number 19": "ec946f76-2309-4873-b97b-cbbb9f437ae0",
+    "Electronic Games Hotline, Volume 2, Number 2": "f403914c-0ffd-4f50-b4c6-213d0068a345",
+    "Electronic Games Hotline, Volume 2, Number 20": "74c21834-924c-4577-9e18-6aa9e55cff10",
+    "Electronic Games Hotline, Volume 2, Number 21": "c43db08c-1799-4486-bb5e-c48ca5814299",
+    "Electronic Games Hotline, Volume 2, Number 22": "9b1fe279-d2b8-47d5-9a8d-61a1bff89158",
+    "Electronic Games Hotline, Volume 2, Number 23": "038e20e2-9927-41a1-aed9-fbc3ef0261ec",
+    "Electronic Games Hotline, Volume 2, Number 24": "ca399483-05d5-4509-a834-80ae4590835e",
+    "Electronic Games Hotline, Volume 2, Number 25": "1d766815-b6ab-44b8-a26e-ee80f2c28804",
+    "Electronic Games Hotline, Volume 2, Number 26": "25235656-e7ec-481f-b253-b3fc3300965c",
+    "Electronic Games Hotline, Volume 2, Number 3": "c3a38c67-0ba8-4847-a14a-0e9005cf7dc1",
+    "Electronic Games Hotline, Volume 2, Number 4": "8df96d9e-9dce-4709-8ddc-0f6fa852fd99",
+    "Electronic Games Hotline, Volume 2, Number 5": "ac49669c-2dc8-4218-b19a-eb8b1847b64b",
+    "Electronic Games Hotline, Volume 2, Number 6": "caa0d803-36c3-49f3-be6e-7d6cd65198cb",
+    "Electronic Games Hotline, Volume 2, Number 7": "3810e210-7f38-4e25-a2c2-ba79cfc10e6e",
+    "Electronic Games Hotline, Volume 2, Number 8": "629920af-805f-4caa-b1a1-f54093190d0e",
+    "Electronic Games Hotline, Volume 2, Number 9": "04605358-920c-49d3-9764-078916951288",
+    "Electronic Games Hotline, Volume 3, Number 1": "780299c6-6f75-4ee1-bb02-9a7fb79e82ed"
+  }
+}

@@ -41,6 +41,12 @@
       "url": "https://archive.org/details/gameinformer",
       "items": 399,
       "date_range": "1991–2026"
+    },
+    {
+      "provider": "vghf",
+      "url": "https://archive.gamehistory.org/folder/abd3f6bd-0a4d-47d9-930d-550b5564b86a",
+      "items": 367,
+      "date_range": "Fall 1991 – 1999"
     }
   ],
   "stats": {
@@ -49,6 +55,6 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00",
+  "updated_at": "2026-09-13T21:27:15+00:00",
   "description": "Closed Aug 2024, relaunched 2025."
 }

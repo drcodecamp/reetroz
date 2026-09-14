@@ -1,0 +1,1165 @@
+{
+  "provider": "vghf",
+  "folder_id": "a7a3c4f5-3213-41ff-ab94-1260d3b6b0f1",
+  "url": "https://archive.gamehistory.org/folder/a7a3c4f5-3213-41ff-ab94-1260d3b6b0f1",
+  "retrieved_at": "2026-09-13T22:47:39+00:00",
+  "expected": 61,
+  "count": 68,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "b08b993e-b7fa-4049-b368-fe95ae8b6994",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1991",
+        "start": "1991-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b08b993e-b7fa-4049-b368-fe95ae8b6994",
+      "number": "1"
+    },
+    {
+      "id": "e6be575a-c6c7-4e16-8bf1-d842dbd9c998",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 1, Number 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1992",
+        "start": "1992-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e6be575a-c6c7-4e16-8bf1-d842dbd9c998",
+      "number": "1"
+    },
+    {
+      "id": "7d6ca89f-a33c-49a2-ac2c-344f641ae59f",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 1, Number 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1993",
+        "start": "1993-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7d6ca89f-a33c-49a2-ac2c-344f641ae59f",
+      "number": "1"
+    },
+    {
+      "id": "f4b253ae-8534-4d09-9c13-99a84b575a75",
+      "title": "CD-ROM Entertainment, Volume 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f4b253ae-8534-4d09-9c13-99a84b575a75",
+      "number": "1",
+      "parent_id": "37a39e14-9ab9-4a5c-8f95-3155538fb2cb"
+    },
+    {
+      "id": "504a93f2-53d6-4b14-a573-a5cb6ef37139",
+      "title": "Computer Game Review, Volume 4, Issue 1, Number 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/504a93f2-53d6-4b14-a573-a5cb6ef37139",
+      "number": "1"
+    },
+    {
+      "id": "deb0d7d4-583e-4583-bc41-7f1dede349e3",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 5, Issue 1, Number 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/deb0d7d4-583e-4583-bc41-7f1dede349e3",
+      "number": "1"
+    },
+    {
+      "id": "cc993f6c-7847-4786-9308-74d257647f4c",
+      "title": "Computer Fun & Games, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1990",
+        "start": "1990-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cc993f6c-7847-4786-9308-74d257647f4c",
+      "number": "2",
+      "parent_id": "2a1183fc-bb92-4322-a2c1-6e21c2bb6382"
+    },
+    {
+      "id": "41434f49-fdbd-4fcc-bc81-23261831133b",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1991",
+        "start": "1991-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/41434f49-fdbd-4fcc-bc81-23261831133b",
+      "number": "2"
+    },
+    {
+      "id": "514136e4-14fa-47e9-ba1c-94c3d2173cb1",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 2, Number 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1992",
+        "start": "1992-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/514136e4-14fa-47e9-ba1c-94c3d2173cb1",
+      "number": "2"
+    },
+    {
+      "id": "c40871e7-26c2-4d3b-9f14-bcdbdbf6d8d3",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 2, Number 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1993",
+        "start": "1993-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c40871e7-26c2-4d3b-9f14-bcdbdbf6d8d3",
+      "number": "2"
+    },
+    {
+      "id": "a979870b-620d-467e-89e5-5cea51a71b3a",
+      "title": "Computer Game Review, Volume 4, Issue 2, Number 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a979870b-620d-467e-89e5-5cea51a71b3a",
+      "number": "2"
+    },
+    {
+      "id": "6eef81ef-6ad9-41ea-a46e-5d98c80dd16b",
+      "title": "Computer Game Review, Volume 5, Issue 2, Number 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6eef81ef-6ad9-41ea-a46e-5d98c80dd16b",
+      "number": "2"
+    },
+    {
+      "id": "64591cfe-6179-4076-8a37-9527ad905481",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 3, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1991",
+        "start": "1991-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/64591cfe-6179-4076-8a37-9527ad905481",
+      "number": "3"
+    },
+    {
+      "id": "6dce14fb-151c-4325-9f3e-51e2a443664d",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 3, Number 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1992",
+        "start": "1992-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6dce14fb-151c-4325-9f3e-51e2a443664d",
+      "number": "3"
+    },
+    {
+      "id": "38c367de-a64b-4fca-afac-9812c78464f9",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 3, Number 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1993",
+        "start": "1993-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/38c367de-a64b-4fca-afac-9812c78464f9",
+      "number": "3"
+    },
+    {
+      "id": "4a4f526d-2a06-40f9-9e63-9dbe5b8bbf47",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 3, Number 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a4f526d-2a06-40f9-9e63-9dbe5b8bbf47",
+      "number": "3"
+    },
+    {
+      "id": "aa0682f9-42b7-43ec-85aa-b586c297e802",
+      "title": "Computer Game Review, Volume 5, Issue 3, Number 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa0682f9-42b7-43ec-85aa-b586c297e802",
+      "number": "3"
+    },
+    {
+      "id": "1a09d624-7b76-42ab-8e9a-7c661183b075",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 4, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1991",
+        "start": "1991-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1a09d624-7b76-42ab-8e9a-7c661183b075",
+      "number": "4"
+    },
+    {
+      "id": "ac42333d-0d75-4890-a05a-761bd8ad7d34",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 4, Number 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1992",
+        "start": "1992-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ac42333d-0d75-4890-a05a-761bd8ad7d34",
+      "number": "4"
+    },
+    {
+      "id": "df5d034d-67ae-4aed-8ba8-df529fec3262",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 4, Number 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1993",
+        "start": "1993-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/df5d034d-67ae-4aed-8ba8-df529fec3262",
+      "number": "4"
+    },
+    {
+      "id": "4ea8348d-e13b-4865-8c48-ac2117c8804b",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 4, Number 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4ea8348d-e13b-4865-8c48-ac2117c8804b",
+      "number": "4"
+    },
+    {
+      "id": "a8205856-9d06-475a-9fcb-cd75e1df770a",
+      "title": "Computer Game Review, Volume 5, Issue 4, Number 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a8205856-9d06-475a-9fcb-cd75e1df770a",
+      "number": "4"
+    },
+    {
+      "id": "e4fe8bec-5bd8-4667-8320-6aa087071dfd",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 5, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1991",
+        "start": "1991-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e4fe8bec-5bd8-4667-8320-6aa087071dfd",
+      "number": "5"
+    },
+    {
+      "id": "4fcb9073-2ad2-45a7-a737-0dcbe9d1eb3c",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 5, Number 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1992",
+        "start": "1992-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4fcb9073-2ad2-45a7-a737-0dcbe9d1eb3c",
+      "number": "5"
+    },
+    {
+      "id": "551750e8-a314-4ccb-afdd-5d692b014110",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 5, Number 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1993",
+        "start": "1993-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/551750e8-a314-4ccb-afdd-5d692b014110",
+      "number": "5"
+    },
+    {
+      "id": "b452b6b7-f97f-49f9-8586-d1dc3bb49d5d",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 5, Number 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b452b6b7-f97f-49f9-8586-d1dc3bb49d5d",
+      "number": "5"
+    },
+    {
+      "id": "8b45f9e9-177c-4664-b90d-70ee54108f4d",
+      "title": "Computer Game Review, Volume 5, Issue 5, Number 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8b45f9e9-177c-4664-b90d-70ee54108f4d",
+      "number": "5"
+    },
+    {
+      "id": "d17736dd-b008-46d2-89c1-e53b24264e6f",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 6, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1992",
+        "start": "1992-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d17736dd-b008-46d2-89c1-e53b24264e6f",
+      "number": "6"
+    },
+    {
+      "id": "4a534e1b-20ec-4bc4-bff1-ae2a117322fd",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 6, Number 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1993",
+        "start": "1993-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4a534e1b-20ec-4bc4-bff1-ae2a117322fd",
+      "number": "6"
+    },
+    {
+      "id": "c938c7f8-3842-462b-9afd-d88c1395ce41",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 6, Number 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1994",
+        "start": "1994-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c938c7f8-3842-462b-9afd-d88c1395ce41",
+      "number": "6"
+    },
+    {
+      "id": "acbabfcb-e4ea-409e-8f47-8c93f9a8ac58",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 6, Number 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/acbabfcb-e4ea-409e-8f47-8c93f9a8ac58",
+      "number": "6"
+    },
+    {
+      "id": "b67c0d35-8c2b-45a4-ab34-6362524f7944",
+      "title": "Computer Game Review, Volume 5, Issue 6, Number 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b67c0d35-8c2b-45a4-ab34-6362524f7944",
+      "number": "6"
+    },
+    {
+      "id": "eae25f21-4e1d-4f9c-b124-87f028b0730a",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 7, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1992",
+        "start": "1992-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eae25f21-4e1d-4f9c-b124-87f028b0730a",
+      "number": "7"
+    },
+    {
+      "id": "e228feb3-960e-4958-8c42-eaff020495e2",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 7, Number 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1993",
+        "start": "1993-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e228feb3-960e-4958-8c42-eaff020495e2",
+      "number": "7"
+    },
+    {
+      "id": "ee36f422-488c-4627-8544-379468dd6955",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 7, Number 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1994",
+        "start": "1994-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ee36f422-488c-4627-8544-379468dd6955",
+      "number": "7"
+    },
+    {
+      "id": "b439e52d-93b4-4c90-9b7d-10a614801c46",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 7, Number 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b439e52d-93b4-4c90-9b7d-10a614801c46",
+      "number": "7"
+    },
+    {
+      "id": "3041ba23-8e2a-44dc-b04f-331aea322625",
+      "title": "Computer Game Review, Volume 5, Issue 7, Number 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3041ba23-8e2a-44dc-b04f-331aea322625",
+      "number": "7"
+    },
+    {
+      "id": "7bbc0263-25ff-4c50-8a55-5920d6db0662",
+      "title": "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 8, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1992",
+        "start": "1992-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7bbc0263-25ff-4c50-8a55-5920d6db0662",
+      "number": "8"
+    },
+    {
+      "id": "35c151cb-877b-456f-b716-ab818e575d34",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 8, Number 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1993",
+        "start": "1993-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/35c151cb-877b-456f-b716-ab818e575d34",
+      "number": "8"
+    },
+    {
+      "id": "e934dd06-848a-4a56-a9c8-3593f8bfa84d",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 8, Number 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1994",
+        "start": "1994-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e934dd06-848a-4a56-a9c8-3593f8bfa84d",
+      "number": "8"
+    },
+    {
+      "id": "e51f3374-dd18-480f-bd17-3a64d5b4d000",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 8, Number 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e51f3374-dd18-480f-bd17-3a64d5b4d000",
+      "number": "8"
+    },
+    {
+      "id": "a56e38f0-b5c9-4fd8-bed3-25b0b0fe3d72",
+      "title": "Computer Game Review, Volume 5, Issue 8, Number 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a56e38f0-b5c9-4fd8-bed3-25b0b0fe3d72",
+      "number": "8"
+    },
+    {
+      "id": "6f9b0057-4783-4802-91a4-27811f7c57ab",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 9, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1992",
+        "start": "1992-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6f9b0057-4783-4802-91a4-27811f7c57ab",
+      "number": "9"
+    },
+    {
+      "id": "1fbb001a-a533-4320-bd6d-590ed158ecbb",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 9, Number 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1993",
+        "start": "1993-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1fbb001a-a533-4320-bd6d-590ed158ecbb",
+      "number": "9"
+    },
+    {
+      "id": "c12fb6b4-8e15-4e82-b98a-d67fcf956309",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 9, Number 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1994",
+        "start": "1994-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c12fb6b4-8e15-4e82-b98a-d67fcf956309",
+      "number": "9"
+    },
+    {
+      "id": "23e26186-a395-4d12-abbb-806f36996d90",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 9, Number 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/23e26186-a395-4d12-abbb-806f36996d90",
+      "number": "9"
+    },
+    {
+      "id": "24f249d8-77d1-4727-bf22-348bceadeda4",
+      "title": "Computer Game Review, Volume 5, Issue 9, Number 57",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/24f249d8-77d1-4727-bf22-348bceadeda4",
+      "number": "9"
+    },
+    {
+      "id": "ff87dc73-437c-4a90-a268-b3bd03540145",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 10, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1992",
+        "start": "1992-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ff87dc73-437c-4a90-a268-b3bd03540145",
+      "number": "10"
+    },
+    {
+      "id": "f9a117fd-1802-4385-bed1-f507d06cf815",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 10, Number 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1993",
+        "start": "1993-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f9a117fd-1802-4385-bed1-f507d06cf815",
+      "number": "10"
+    },
+    {
+      "id": "f8b36a67-17d4-4d15-90ee-43dd9a14af76",
+      "title": "Computer Game Review, Volume 3, Issue 10, Number 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1994",
+        "start": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f8b36a67-17d4-4d15-90ee-43dd9a14af76",
+      "number": "10"
+    },
+    {
+      "id": "eb1d32f8-d021-45c4-8ca1-a617d03f82ed",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 10, Number 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/eb1d32f8-d021-45c4-8ca1-a617d03f82ed",
+      "number": "10"
+    },
+    {
+      "id": "50b95173-1d61-4049-aa8d-4dfe7536b38f",
+      "title": "Computer Game Review, Volume 5, Issue 10, Number 58",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/50b95173-1d61-4049-aa8d-4dfe7536b38f",
+      "number": "10"
+    },
+    {
+      "id": "efdbdd6a-ffe0-4750-9f32-0c24f0b8e7fc",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 11, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1992",
+        "start": "1992-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/efdbdd6a-ffe0-4750-9f32-0c24f0b8e7fc",
+      "number": "11"
+    },
+    {
+      "id": "e53f85ca-369d-4ff0-9655-3240a01cd873",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 11, Number 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1993",
+        "start": "1993-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e53f85ca-369d-4ff0-9655-3240a01cd873",
+      "number": "11"
+    },
+    {
+      "id": "2d1fcde5-e8db-48c2-9f89-419cb9d53e8d",
+      "title": "Computer Game Review, Volume 3, Issue 11, Number 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d1fcde5-e8db-48c2-9f89-419cb9d53e8d",
+      "number": "11"
+    },
+    {
+      "id": "c05e9dde-4570-4060-96a0-5511cbf99587",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 11, Number 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c05e9dde-4570-4060-96a0-5511cbf99587",
+      "number": "11"
+    },
+    {
+      "id": "667ed45a-3374-49f3-8835-3c052b38c9d0",
+      "title": "Computer Game Review, Volume 5, Issue 11, Number 59",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/667ed45a-3374-49f3-8835-3c052b38c9d0",
+      "number": "11"
+    },
+    {
+      "id": "bb028781-ea95-4859-8617-aac089be8b8e",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 12, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1992",
+        "start": "1992-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bb028781-ea95-4859-8617-aac089be8b8e",
+      "number": "12"
+    },
+    {
+      "id": "e0861fc9-e1d7-4271-8e5d-c60b5a90df00",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 12, Number 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1993",
+        "start": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e0861fc9-e1d7-4271-8e5d-c60b5a90df00",
+      "number": "12"
+    },
+    {
+      "id": "84074748-f81e-49a6-ad0a-965e7738cdea",
+      "title": "Computer Game Review, Volume 3, Issue 12, Number 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/84074748-f81e-49a6-ad0a-965e7738cdea",
+      "number": "12"
+    },
+    {
+      "id": "e2bac784-e324-47ab-b878-7b864a8c66bd",
+      "title": "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 12, Number 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e2bac784-e324-47ab-b878-7b864a8c66bd",
+      "number": "12"
+    },
+    {
+      "id": "8caaa96d-c178-45ac-ac8c-03f9df9eadb7",
+      "title": "Computer Fun & Games, Premiere Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1990",
+        "start": "1990-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8caaa96d-c178-45ac-ac8c-03f9df9eadb7",
+      "number": null,
+      "parent_id": "2a1183fc-bb92-4322-a2c1-6e21c2bb6382"
+    },
+    {
+      "id": "43cf98ff-37a1-48a6-8f62-d4a8d7cf7468",
+      "title": "CD-ROM Entertainment",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1994",
+        "start": "1994-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/43cf98ff-37a1-48a6-8f62-d4a8d7cf7468",
+      "number": null,
+      "parent_id": "37a39e14-9ab9-4a5c-8f95-3155538fb2cb"
+    },
+    {
+      "id": "9adc4c58-a9d6-4d00-acfb-e870cde2f07c",
+      "title": "CD-ROM Entertainment",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1994",
+        "start": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9adc4c58-a9d6-4d00-acfb-e870cde2f07c",
+      "number": null,
+      "parent_id": "37a39e14-9ab9-4a5c-8f95-3155538fb2cb"
+    },
+    {
+      "id": "dfdb9d05-d142-4cbe-907c-16e5f49809f7",
+      "title": "CD-ROM Entertainment",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1994",
+        "start": "1994-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/dfdb9d05-d142-4cbe-907c-16e5f49809f7",
+      "number": null,
+      "parent_id": "37a39e14-9ab9-4a5c-8f95-3155538fb2cb"
+    },
+    {
+      "id": "77a8388e-c4ec-4a49-b9eb-716c4f316c00",
+      "title": "CD-ROM Entertainment",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1994",
+        "start": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/77a8388e-c4ec-4a49-b9eb-716c4f316c00",
+      "number": null,
+      "parent_id": "37a39e14-9ab9-4a5c-8f95-3155538fb2cb"
+    },
+    {
+      "id": "2a1183fc-bb92-4322-a2c1-6e21c2bb6382",
+      "title": "Computer Fun & Games",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "June–September 1990"
+      },
+      "url": "https://archive.gamehistory.org/folder/2a1183fc-bb92-4322-a2c1-6e21c2bb6382",
+      "number": null
+    },
+    {
+      "id": "37a39e14-9ab9-4a5c-8f95-3155538fb2cb",
+      "title": "Computer Game Review special issues and supplements",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/folder/37a39e14-9ab9-4a5c-8f95-3155538fb2cb",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 1, Number 1": "b08b993e-b7fa-4049-b368-fe95ae8b6994",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 1, Number 13": "e6be575a-c6c7-4e16-8bf1-d842dbd9c998",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 1, Number 25": "7d6ca89f-a33c-49a2-ac2c-344f641ae59f",
+    "CD-ROM Entertainment, Volume 1, Issue 1": "f4b253ae-8534-4d09-9c13-99a84b575a75",
+    "Computer Game Review, Volume 4, Issue 1, Number 37": "504a93f2-53d6-4b14-a573-a5cb6ef37139",
+    "Computer Game Review and CD-ROM Entertainment, Volume 5, Issue 1, Number 49": "deb0d7d4-583e-4583-bc41-7f1dede349e3",
+    "Computer Fun & Games, Issue 2": "cc993f6c-7847-4786-9308-74d257647f4c",
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 2, Number 2": "41434f49-fdbd-4fcc-bc81-23261831133b",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 2, Number 14": "514136e4-14fa-47e9-ba1c-94c3d2173cb1",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 2, Number 26": "c40871e7-26c2-4d3b-9f14-bcdbdbf6d8d3",
+    "Computer Game Review, Volume 4, Issue 2, Number 38": "a979870b-620d-467e-89e5-5cea51a71b3a",
+    "Computer Game Review, Volume 5, Issue 2, Number 50": "6eef81ef-6ad9-41ea-a46e-5d98c80dd16b",
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 3, Number 3": "64591cfe-6179-4076-8a37-9527ad905481",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 3, Number 15": "6dce14fb-151c-4325-9f3e-51e2a443664d",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 3, Number 27": "38c367de-a64b-4fca-afac-9812c78464f9",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 3, Number 39": "4a4f526d-2a06-40f9-9e63-9dbe5b8bbf47",
+    "Computer Game Review, Volume 5, Issue 3, Number 51": "aa0682f9-42b7-43ec-85aa-b586c297e802",
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 4, Number 4": "1a09d624-7b76-42ab-8e9a-7c661183b075",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 4, Number 16": "ac42333d-0d75-4890-a05a-761bd8ad7d34",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 4, Number 28": "df5d034d-67ae-4aed-8ba8-df529fec3262",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 4, Number 40": "4ea8348d-e13b-4865-8c48-ac2117c8804b",
+    "Computer Game Review, Volume 5, Issue 4, Number 52": "a8205856-9d06-475a-9fcb-cd75e1df770a",
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 5, Number 5": "e4fe8bec-5bd8-4667-8320-6aa087071dfd",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 5, Number 17": "4fcb9073-2ad2-45a7-a737-0dcbe9d1eb3c",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 5, Number 29": "551750e8-a314-4ccb-afdd-5d692b014110",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 5, Number 41": "b452b6b7-f97f-49f9-8586-d1dc3bb49d5d",
+    "Computer Game Review, Volume 5, Issue 5, Number 53": "8b45f9e9-177c-4664-b90d-70ee54108f4d",
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 6, Number 6": "d17736dd-b008-46d2-89c1-e53b24264e6f",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 6, Number 18": "4a534e1b-20ec-4bc4-bff1-ae2a117322fd",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 6, Number 30": "c938c7f8-3842-462b-9afd-d88c1395ce41",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 6, Number 42": "acbabfcb-e4ea-409e-8f47-8c93f9a8ac58",
+    "Computer Game Review, Volume 5, Issue 6, Number 54": "b67c0d35-8c2b-45a4-ab34-6362524f7944",
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 7, Number 7": "eae25f21-4e1d-4f9c-b124-87f028b0730a",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 7, Number 19": "e228feb3-960e-4958-8c42-eaff020495e2",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 7, Number 31": "ee36f422-488c-4627-8544-379468dd6955",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 7, Number 43": "b439e52d-93b4-4c90-9b7d-10a614801c46",
+    "Computer Game Review, Volume 5, Issue 7, Number 55": "3041ba23-8e2a-44dc-b04f-331aea322625",
+    "Computer Game Review and 16-Bit Entertainment, Volume 1, Issue 8, Number 8": "7bbc0263-25ff-4c50-8a55-5920d6db0662",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 8, Number 20": "35c151cb-877b-456f-b716-ab818e575d34",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 8, Number 32": "e934dd06-848a-4a56-a9c8-3593f8bfa84d",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 8, Number 44": "e51f3374-dd18-480f-bd17-3a64d5b4d000",
+    "Computer Game Review, Volume 5, Issue 8, Number 56": "a56e38f0-b5c9-4fd8-bed3-25b0b0fe3d72",
+    "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 9, Number 9": "6f9b0057-4783-4802-91a4-27811f7c57ab",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 9, Number 21": "1fbb001a-a533-4320-bd6d-590ed158ecbb",
+    "Computer Game Review and CD-ROM Entertainment, Volume 3, Issue 9, Number 33": "c12fb6b4-8e15-4e82-b98a-d67fcf956309",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 9, Number 45": "23e26186-a395-4d12-abbb-806f36996d90",
+    "Computer Game Review, Volume 5, Issue 9, Number 57": "24f249d8-77d1-4727-bf22-348bceadeda4",
+    "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 10, Number 10": "ff87dc73-437c-4a90-a268-b3bd03540145",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 10, Number 22": "f9a117fd-1802-4385-bed1-f507d06cf815",
+    "Computer Game Review, Volume 3, Issue 10, Number 34": "f8b36a67-17d4-4d15-90ee-43dd9a14af76",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 10, Number 46": "eb1d32f8-d021-45c4-8ca1-a617d03f82ed",
+    "Computer Game Review, Volume 5, Issue 10, Number 58": "50b95173-1d61-4049-aa8d-4dfe7536b38f",
+    "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 11, Number 11": "efdbdd6a-ffe0-4750-9f32-0c24f0b8e7fc",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 11, Number 23": "e53f85ca-369d-4ff0-9655-3240a01cd873",
+    "Computer Game Review, Volume 3, Issue 11, Number 35": "2d1fcde5-e8db-48c2-9f89-419cb9d53e8d",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 11, Number 47": "c05e9dde-4570-4060-96a0-5511cbf99587",
+    "Computer Game Review, Volume 5, Issue 11, Number 59": "667ed45a-3374-49f3-8835-3c052b38c9d0",
+    "Computer Game Review and CD-ROM Entertainment, Volume 1, Issue 12, Number 12": "bb028781-ea95-4859-8617-aac089be8b8e",
+    "Computer Game Review and CD-ROM Entertainment, Volume 2, Issue 12, Number 24": "e0861fc9-e1d7-4271-8e5d-c60b5a90df00",
+    "Computer Game Review, Volume 3, Issue 12, Number 36": "84074748-f81e-49a6-ad0a-965e7738cdea",
+    "Computer Game Review and CD-ROM Entertainment, Volume 4, Issue 12, Number 48": "e2bac784-e324-47ab-b878-7b864a8c66bd",
+    "Computer Fun & Games, Premiere Issue": "8caaa96d-c178-45ac-ac8c-03f9df9eadb7",
+    "CD-ROM Entertainment": "77a8388e-c4ec-4a49-b9eb-716c4f316c00",
+    "Computer Fun & Games": "2a1183fc-bb92-4322-a2c1-6e21c2bb6382",
+    "Computer Game Review special issues and supplements": "37a39e14-9ab9-4a5c-8f95-3155538fb2cb"
+  }
+}

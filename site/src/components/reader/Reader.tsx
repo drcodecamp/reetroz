@@ -135,9 +135,9 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
     const behind = [page - 1].filter((p) => p >= 1);
     for (const p of [...ahead, ...behind]) {
       const img = new Image();
-      img.src = pageUrl(issue.slug, p, "read");
+      img.src = pageUrl(issue.slug, p, "read", manifest.format.read);
     }
-  }, [page, total, issue.slug]);
+  }, [page, total, issue.slug, manifest.format.read]);
 
   // --- filmstrip follows current page ----------------------------------------
   useEffect(() => {
@@ -261,7 +261,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
               // eslint-disable-next-line @next/next/no-img-element
               <img
                 key={p}
-                src={pageUrl(issue.slug, p, "read")}
+                src={pageUrl(issue.slug, p, "read", manifest.format.read)}
                 alt={`Page ${p}`}
                 className="max-w-none"
                 style={{ width: manifest.pageList[p - 1]?.w }}
@@ -282,7 +282,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
                 // eslint-disable-next-line @next/next/no-img-element
                 <img
                   key={p}
-                  src={pageUrl(issue.slug, p, "read")}
+                  src={pageUrl(issue.slug, p, "read", manifest.format.read)}
                   alt={`Page ${p} of ${total}`}
                   width={m.w}
                   height={m.h}

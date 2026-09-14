@@ -39,7 +39,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/f8071c2d-9960-4a23-951a-987b2824f453",
-      "date_range": "Summer 1993 – July 1996"
+      "date_range": "July/Summer 1993 – July 1996",
+      "items": 28
     }
   ],
   "stats": {
@@ -48,5 +49,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

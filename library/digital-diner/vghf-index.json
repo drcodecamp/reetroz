@@ -1,0 +1,45 @@
+{
+  "provider": "vghf",
+  "folder_id": "94ef167c-978b-464a-93ac-2e0047f8172f",
+  "url": "https://archive.gamehistory.org/folder/94ef167c-978b-464a-93ac-2e0047f8172f",
+  "retrieved_at": "2026-09-13T22:48:57+00:00",
+  "expected": 2,
+  "count": 2,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "6c977b74-ef0d-494e-ad99-b11534f684a3",
+      "title": "Digital Diner, Volume 1, Issue 1, Premiere Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "est. late 1996"
+      },
+      "url": "https://archive.gamehistory.org/item/6c977b74-ef0d-494e-ad99-b11534f684a3",
+      "number": "1"
+    },
+    {
+      "id": "9d4846a8-05da-4510-a2c4-d4a28dd7d493",
+      "title": "Digital Diner, Volume 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9d4846a8-05da-4510-a2c4-d4a28dd7d493",
+      "number": "2"
+    }
+  ],
+  "by_title": {
+    "Digital Diner, Volume 1, Issue 1, Premiere Issue": "6c977b74-ef0d-494e-ad99-b11534f684a3",
+    "Digital Diner, Volume 2, Issue 2": "9d4846a8-05da-4510-a2c4-d4a28dd7d493"
+  }
+}

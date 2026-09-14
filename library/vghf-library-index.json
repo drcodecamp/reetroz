@@ -1,0 +1,622 @@
+{
+  "folder_id": "9a193e8c-67e0-45ff-98d2-a33e85721cc4",
+  "url": "https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4",
+  "magazines": [
+    {
+      "pub": "3do-club-news",
+      "title": "3DO Club News",
+      "folder_id": "cc6ac688-13e0-4bff-824c-80a446951743",
+      "items": 5,
+      "expected": 5
+    },
+    {
+      "pub": "activisions",
+      "title": "Activisions",
+      "folder_id": "fdb5a523-54e5-40a3-aab4-efc9dc0faee7",
+      "items": 10,
+      "expected": 10
+    },
+    {
+      "pub": "arcade-express",
+      "title": "Arcade Express / Electronic Games Hotline",
+      "folder_id": "14c6f023-c9dd-4ac8-ac7b-f243dc1dbe8f",
+      "items": 53,
+      "expected": 53
+    },
+    {
+      "pub": "atari-age",
+      "title": "Atari Age",
+      "folder_id": "5c58e229-93bc-412b-953e-36edd364689a",
+      "items": 11,
+      "expected": 11
+    },
+    {
+      "pub": "blip",
+      "title": "Blip",
+      "folder_id": "db7773e7-2f43-4581-8d57-0ec83281ed8b",
+      "items": 7,
+      "expected": 7
+    },
+    {
+      "pub": "casual-connect",
+      "title": "Casual Connect",
+      "folder_id": "e40d65ad-66bd-46f3-983d-4738683bf586",
+      "items": 15,
+      "expected": 15
+    },
+    {
+      "pub": "cd-rom-today",
+      "title": "CD-ROM Today",
+      "folder_id": "f8071c2d-9960-4a23-951a-987b2824f453",
+      "items": 28,
+      "expected": 28
+    },
+    {
+      "pub": "code-vault",
+      "title": "Code Vault",
+      "folder_id": "236efd86-a9c7-49bd-b9ca-a7ba394cd9d9",
+      "items": 33,
+      "expected": 33
+    },
+    {
+      "pub": "computer-entertainer",
+      "title": "Computer Entertainer",
+      "folder_id": "519c0dbd-0f5d-45fe-83c2-355a756391a9",
+      "items": 102,
+      "expected": 101
+    },
+    {
+      "pub": "computer-game-entertainment",
+      "title": "Computer Game Entertainment",
+      "folder_id": "b07b30eb-9b20-4cc2-94b2-ab2250a5c95b",
+      "items": 5,
+      "expected": 5
+    },
+    {
+      "pub": "computer-game-review",
+      "title": "Computer Game Review",
+      "folder_id": "a7a3c4f5-3213-41ff-ab94-1260d3b6b0f1",
+      "items": 66,
+      "expected": 61
+    },
+    {
+      "pub": "computer-games-strategy-plus",
+      "title": "Computer Games Strategy Plus",
+      "folder_id": "9d04d369-f4ba-413c-b0e3-d50271f157a4",
+      "items": 117,
+      "expected": 4
+    },
+    {
+      "pub": "cgw",
+      "title": "Computer Gaming World",
+      "folder_id": "1de5cb2a-cc63-427a-a06e-adc4959d74c6",
+      "items": 287,
+      "expected": 2
+    },
+    {
+      "pub": "computer-player",
+      "title": "Computer Player",
+      "folder_id": "6bac8a74-a579-497e-9c25-18b1cc65e588",
+      "items": 20,
+      "expected": 2
+    },
+    {
+      "pub": "develop",
+      "title": "Develop",
+      "folder_id": "aa6d2346-0750-4f14-9944-92b00365261a",
+      "items": 38,
+      "expected": 33
+    },
+    {
+      "pub": "digital-diner",
+      "title": "Digital Diner",
+      "folder_id": "94ef167c-978b-464a-93ac-2e0047f8172f",
+      "items": 2,
+      "expected": 2
+    },
+    {
+      "pub": "e3-show-daily",
+      "title": "E3 Show Daily",
+      "folder_id": "ae5ac294-dcfd-45b8-86de-465d80e8dd8d",
+      "items": 29,
+      "expected": 29
+    },
+    {
+      "pub": "edge",
+      "title": "Edge",
+      "folder_id": "00aa5458-1bf0-42ce-adf2-88f4d08c3dec",
+      "items": 102,
+      "expected": 101
+    },
+    {
+      "pub": "egm2",
+      "title": "EGM2 / Expert Gamer / GameNOW",
+      "folder_id": "0721dbc2-96ec-4ce9-a7a9-abe99dcbc6de",
+      "items": 121,
+      "expected": 4
+    },
+    {
+      "pub": "electronic-fun-with-computers-and-games",
+      "title": "Electronic Fun with Computers & Games",
+      "folder_id": "3efe8939-db36-49fb-a73b-1cca104dee71",
+      "items": 19,
+      "expected": 19
+    },
+    {
+      "pub": "electronic-games",
+      "title": "Electronic Games / Computer Entertainment",
+      "folder_id": "39b2d5c8-8756-471f-af66-2e95396f2704",
+      "items": 41,
+      "expected": 39
+    },
+    {
+      "pub": "electronic-gaming-monthly",
+      "title": "Electronic Gaming Monthly",
+      "folder_id": "89024108-47f9-4718-a679-83a8710716d9",
+      "items": 347,
+      "expected": 3
+    },
+    {
+      "pub": "electronic-gaming-retail-news",
+      "title": "Electronic Gaming Retail News",
+      "folder_id": "3e35f3c1-7416-4d78-b295-009a65f13276",
+      "items": 11,
+      "expected": 11
+    },
+    {
+      "pub": "future-play",
+      "title": "Future Play",
+      "folder_id": "c1ea266e-417c-4dbd-8e91-9f9aa45b4e14",
+      "items": 7,
+      "expected": 7
+    },
+    {
+      "pub": "game-developer",
+      "title": "Game Developer",
+      "folder_id": "4796164f-a6b6-46b6-82a8-cdcd064fb8a5",
+      "items": 226,
+      "expected": 205
+    },
+    {
+      "pub": "game-informer",
+      "title": "Game Informer",
+      "folder_id": "abd3f6bd-0a4d-47d9-930d-550b5564b86a",
+      "items": 367,
+      "expected": 367
+    },
+    {
+      "pub": "game-intelligence-magazine",
+      "title": "Game Intelligence Magazine",
+      "folder_id": "2352dd0d-5a66-4214-b2be-e9c7f7d7da9d",
+      "items": 3,
+      "expected": 3
+    },
+    {
+      "pub": "game-on-usa",
+      "title": "Game On! USA",
+      "folder_id": "1ca5498f-e5a6-4412-8b0e-93c9f6ea24b4",
+      "items": 7,
+      "expected": 7
+    },
+    {
+      "pub": "game-players",
+      "title": "Game Player's / Game Players / Game Buyer",
+      "folder_id": "b3155081-1b6e-42a2-85de-ec742f7c29f5",
+      "items": 238,
+      "expected": 5
+    },
+    {
+      "pub": "game-specific-promotional-magazines-assorted",
+      "title": "Game-specific promotional magazines, assorted",
+      "folder_id": "680c3edb-68a7-4316-aa7a-c32891b9e2d2",
+      "items": 1,
+      "expected": 1
+    },
+    {
+      "pub": "diehard-gamefan",
+      "title": "GameFan",
+      "folder_id": "e3d7153a-504c-4383-a173-acace3680a6d",
+      "items": 21,
+      "expected": 21
+    },
+    {
+      "pub": "games-business",
+      "title": "Games Business",
+      "folder_id": "2eaca428-852b-464e-9afe-20269f490ac2",
+      "items": 595,
+      "expected": 49
+    },
+    {
+      "pub": "gamesport",
+      "title": "GameSport",
+      "folder_id": "a238608c-2fe1-481a-ac89-e519abd73151",
+      "items": 2,
+      "expected": 2
+    },
+    {
+      "pub": "gameweek-iemagazine",
+      "title": "GameWEEK / ieMAGAZINE",
+      "folder_id": "7d3a45c8-2b53-4bb7-9583-bad2bca32e77",
+      "items": 14,
+      "expected": 14
+    },
+    {
+      "pub": "girl-gamer",
+      "title": "Girl Gamer",
+      "folder_id": "06c1493a-4e8f-4395-8921-3f2c2c96f682",
+      "items": 8,
+      "expected": 8
+    },
+    {
+      "pub": "gmr",
+      "title": "GMR",
+      "folder_id": "df09475c-7503-46f7-a123-a678af34ad08",
+      "items": 25,
+      "expected": 25
+    },
+    {
+      "pub": "hardcore-gamer",
+      "title": "Hardcore Gamer",
+      "folder_id": "0367f805-b077-44df-adfd-cbfb0846d28f",
+      "items": 34,
+      "expected": 34
+    },
+    {
+      "pub": "hyper",
+      "title": "Hyper",
+      "folder_id": "30d88818-a185-4138-8b43-127f55b01c69",
+      "items": 98,
+      "expected": 98
+    },
+    {
+      "pub": "ign-magazines",
+      "title": "IGN magazines",
+      "folder_id": "00855151-bc1a-4b0a-9189-d64f74179869",
+      "items": 2,
+      "expected": 2
+    },
+    {
+      "pub": "imagine-town",
+      "title": "Imagine Town Magazine / Game Candy",
+      "folder_id": "6187132e-315c-4be5-8498-8c55ac478ebe",
+      "items": 3,
+      "expected": 3
+    },
+    {
+      "pub": "incite",
+      "title": "Incite Video Gaming / Incite PC Gaming",
+      "folder_id": "56f6db10-774b-4a5c-83ec-832180d3b0b9",
+      "items": 18,
+      "expected": 2
+    },
+    {
+      "pub": "interaction",
+      "title": "InterAction / Sierra News Magazine",
+      "folder_id": "b166d2f2-91e4-439f-9881-9dbd9faca78a",
+      "items": 28,
+      "expected": 28
+    },
+    {
+      "pub": "internet-underground",
+      "title": "Internet Underground",
+      "folder_id": "e36eed31-c069-4599-b3e3-abcd65034c64",
+      "items": 15,
+      "expected": 15
+    },
+    {
+      "pub": "lifestyle-magazines-assorted",
+      "title": "Lifestyle magazines, assorted",
+      "folder_id": "b75dcfec-943a-4b17-b534-a0b02867027e",
+      "items": 4,
+      "expected": 6
+    },
+    {
+      "pub": "mcv",
+      "title": "MCV",
+      "folder_id": "eb2067ae-1d19-4d6c-b07a-fc0b0ce68d5f",
+      "items": 436,
+      "expected": 418
+    },
+    {
+      "pub": "mean-machines-sega",
+      "title": "Mean Machines Sega",
+      "folder_id": "f33a27b0-c20f-4214-92d5-d85629733ed9",
+      "items": 35,
+      "expected": 35
+    },
+    {
+      "pub": "mega",
+      "title": "Mega",
+      "folder_id": "5f03e16e-de9d-4559-b108-aa8ea04e5f5d",
+      "items": 12,
+      "expected": 12
+    },
+    {
+      "pub": "megatech",
+      "title": "MegaTech",
+      "folder_id": "6d3a32ca-e350-43b5-a286-af48e32bc185",
+      "items": 23,
+      "expected": 23
+    },
+    {
+      "pub": "multimedia-merchandising",
+      "title": "MultiMedia Merchandising",
+      "folder_id": "ceb8e2a8-93a4-45f7-aca9-fbb9d3e93438",
+      "items": 7,
+      "expected": 7
+    },
+    {
+      "pub": "multimedia-world",
+      "title": "Multimedia World",
+      "folder_id": "cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
+      "items": 10,
+      "expected": 10
+    },
+    {
+      "pub": "neopets-magazine",
+      "title": "Neopets The Official Magazine",
+      "folder_id": "d1e64116-583a-4d88-9ddd-7fcec7d24a39",
+      "items": 26,
+      "expected": 26
+    },
+    {
+      "pub": "new-earth",
+      "title": "New Earth",
+      "folder_id": "e9a38793-aa39-41e6-923d-321a86741a18",
+      "items": 46,
+      "expected": 46
+    },
+    {
+      "pub": "newmedia",
+      "title": "NewMedia",
+      "folder_id": "b69d7088-b269-4070-9b46-1cbcff40312f",
+      "items": 10,
+      "expected": 10
+    },
+    {
+      "pub": "news-and-media-magazines-assorted",
+      "title": "News and media magazines, assorted",
+      "folder_id": "56802ded-959b-4442-9be4-3d79427dcc91",
+      "items": 0,
+      "expected": 5
+    },
+    {
+      "pub": "next-generation",
+      "title": "Next Generation / NextGen",
+      "folder_id": "cbefef2b-c575-4ce5-afe8-586b567e4eb8",
+      "items": 85,
+      "expected": 2
+    },
+    {
+      "pub": "ngamer-us",
+      "title": "NGamer",
+      "folder_id": "2b773cc8-53a1-4c3b-aa8b-cacb1cb20fe1",
+      "items": 1,
+      "expected": 1
+    },
+    {
+      "pub": "nintendo-newsletters",
+      "title": "Nintendo newsletters",
+      "folder_id": "1944a7fc-6821-4685-9497-61b51c7e24e5",
+      "items": 42,
+      "expected": 3
+    },
+    {
+      "pub": "nintendo-power",
+      "title": "Nintendo Power",
+      "folder_id": "32aa15bf-a3be-40fe-b75a-85f313c84368",
+      "items": 294,
+      "expected": 286
+    },
+    {
+      "pub": "odyssey-adventure",
+      "title": "Odyssey Adventure",
+      "folder_id": "218ce001-1f8c-4370-bd1b-09de24c45b3e",
+      "items": 7,
+      "expected": 7
+    },
+    {
+      "pub": "official-dreamcast-magazine-us",
+      "title": "Official Sega Dreamcast Magazine",
+      "folder_id": "5e733680-d965-4a5e-9852-14ae20b62691",
+      "items": 14,
+      "expected": 14
+    },
+    {
+      "pub": "official-us-playstation-magazine",
+      "title": "Official U.S. PlayStation Magazine",
+      "folder_id": "b434cdd1-e02e-4bd4-833e-6cc0884403ef",
+      "items": 113,
+      "expected": 113
+    },
+    {
+      "pub": "official-xbox-magazine",
+      "title": "Official Xbox Magazine",
+      "folder_id": "4409f093-cafb-4bc5-b9b0-cacc3a651e87",
+      "items": 139,
+      "expected": 136
+    },
+    {
+      "pub": "psx",
+      "title": "P.S.X.",
+      "folder_id": "0990d6f3-cdfc-48a3-8454-c9f1bb722f3f",
+      "items": 17,
+      "expected": 17
+    },
+    {
+      "pub": "pc-gamer-us",
+      "title": "PC Gamer (US)",
+      "folder_id": "d41128f9-fb0f-4bcb-955d-4d44e9608d1a",
+      "items": 195,
+      "expected": 195
+    },
+    {
+      "pub": "pc-games",
+      "title": "PC Games / Electronic Entertainment",
+      "folder_id": "abbd549a-2caf-4632-bccb-0cb8c2fe27b2",
+      "items": 75,
+      "expected": 4
+    },
+    {
+      "pub": "play-us",
+      "title": "Play",
+      "folder_id": "3d83b151-a682-43dc-98af-979b94dc31f4",
+      "items": 97,
+      "expected": 97
+    },
+    {
+      "pub": "playstation-the-official-magazine",
+      "title": "PlayStation: The Official Magazine",
+      "folder_id": "9f1aa694-751b-4a95-acde-d61baf94d3d9",
+      "items": 64,
+      "expected": 64
+    },
+    {
+      "pub": "pocket-games",
+      "title": "Pocket Games",
+      "folder_id": "c4cbf766-d17b-4dfd-8641-1d09dfca86cc",
+      "items": 13,
+      "expected": 13
+    },
+    {
+      "pub": "ps-max",
+      "title": "PS Max",
+      "folder_id": "b9602704-d805-41ed-a725-0f71dedbed27",
+      "items": 1,
+      "expected": 1
+    },
+    {
+      "pub": "psextreme",
+      "title": "PSExtreme / Dimension PS-X / PSE2",
+      "folder_id": "ff6f4f72-f79c-427b-a012-2ea671f4211d",
+      "items": 74,
+      "expected": 3
+    },
+    {
+      "pub": "psm",
+      "title": "PSM",
+      "folder_id": "d0a22067-e86d-45a3-a3e4-a10a4c8a5ffb",
+      "items": 131,
+      "expected": 131
+    },
+    {
+      "pub": "q64",
+      "title": "Q64",
+      "folder_id": "79dae345-e20c-4f3a-acf4-967b35eee32e",
+      "items": 7,
+      "expected": 7
+    },
+    {
+      "pub": "sega-visions",
+      "title": "Sega Visions",
+      "folder_id": "8448d8d8-778d-4917-a6cd-99ddd4dc301a",
+      "items": 25,
+      "expected": 25
+    },
+    {
+      "pub": "soe-worlds",
+      "title": "SOE Worlds: The Official Magazine",
+      "folder_id": "821e3f96-3fb0-433d-9f86-35124f8718d1",
+      "items": 2,
+      "expected": 2
+    },
+    {
+      "pub": "super-play",
+      "title": "Super Play",
+      "folder_id": "4241edfe-f81f-44c1-9c24-97892a9121ae",
+      "items": 48,
+      "expected": 48
+    },
+    {
+      "pub": "surge",
+      "title": "Surge",
+      "folder_id": "19df3e0e-432f-410c-89f1-7f19de57e13b",
+      "items": 4,
+      "expected": 4
+    },
+    {
+      "pub": "the-cursor",
+      "title": "The Cursor: Game Developer Life",
+      "folder_id": "6259ccf5-4944-4e3c-96f6-65b5ffea25d2",
+      "items": 2,
+      "expected": 2
+    },
+    {
+      "pub": "journal-of-computer-game-design",
+      "title": "The Journal of Computer Game Design",
+      "folder_id": "2529ea9d-c993-4f19-bee4-676f85add53d",
+      "items": 56,
+      "expected": 56
+    },
+    {
+      "pub": "the-logical-gamer",
+      "title": "The Logical Gamer",
+      "folder_id": "982b8274-6f9b-4130-9651-5b5750b5b360",
+      "items": 16,
+      "expected": 16
+    },
+    {
+      "pub": "tips-and-tricks",
+      "title": "Tips & Tricks",
+      "folder_id": "eea584fc-380a-44ca-a485-d4dcc87114db",
+      "items": 187,
+      "expected": 2
+    },
+    {
+      "pub": "total",
+      "title": "Total!",
+      "folder_id": "3595f2aa-be7c-4cb0-a51e-c24523780a93",
+      "items": 30,
+      "expected": 30
+    },
+    {
+      "pub": "video-games-magazine",
+      "title": "Video Games",
+      "folder_id": "3fa65659-9fac-4ba4-ae28-09bc68160e52",
+      "items": 21,
+      "expected": 21
+    },
+    {
+      "pub": "videogame-advisor",
+      "title": "Videogame Advisor",
+      "folder_id": "be63cc87-93b6-4121-b7d8-706c78b7160a",
+      "items": 15,
+      "expected": 15
+    },
+    {
+      "pub": "videogames-computer-entertainment",
+      "title": "VideoGames & Computer Entertainment / VideoGames: The Ultimate Gaming Magazine",
+      "folder_id": "677805d5-f5ca-440c-bb28-475df519602f",
+      "items": 93,
+      "expected": 93
+    },
+    {
+      "pub": "videogaming-illustrated",
+      "title": "Videogaming & Computergaming Illustrated",
+      "folder_id": "527c4a20-6a7e-469d-8fa0-4c2455e0e4ed",
+      "items": 14,
+      "expected": 14
+    },
+    {
+      "pub": "vidiot",
+      "title": "Vidiot",
+      "folder_id": "bd578486-2087-4b74-b50a-4a994e16b8e3",
+      "items": 5,
+      "expected": 5
+    },
+    {
+      "pub": "walmart-gamecenter",
+      "title": "Walmart GameCenter",
+      "folder_id": "8dbeecd0-31ca-4fbe-bcb7-3a59932900bd",
+      "items": 93,
+      "expected": 4
+    },
+    {
+      "pub": "xbox-nation",
+      "title": "Xbox Nation",
+      "folder_id": "e49f6729-f880-4a42-af81-fa7972cb6701",
+      "items": 19,
+      "expected": 19
+    }
+  ]
+}

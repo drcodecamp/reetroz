@@ -1,0 +1,492 @@
+{
+  "provider": "vghf",
+  "folder_id": "f8071c2d-9960-4a23-951a-987b2824f453",
+  "url": "https://archive.gamehistory.org/folder/f8071c2d-9960-4a23-951a-987b2824f453",
+  "retrieved_at": "2026-09-13T22:47:08+00:00",
+  "expected": 28,
+  "count": 28,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "a242c056-8b87-4222-b160-7671208ad539",
+      "title": "CD-ROM Today, Premiere Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/Summer 1993",
+        "start": "1993-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a242c056-8b87-4222-b160-7671208ad539",
+      "number": null
+    },
+    {
+      "id": "c7600d02-7d76-4db0-a2eb-34d9b14e3aae",
+      "title": "CD-ROM Today, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1993",
+        "start": "1993-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/c7600d02-7d76-4db0-a2eb-34d9b14e3aae",
+      "number": null
+    },
+    {
+      "id": "b49ca7a0-c250-4ec4-9253-cad5a5b53b84",
+      "title": "CD-ROM Today, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1994",
+        "start": "1994-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/b49ca7a0-c250-4ec4-9253-cad5a5b53b84",
+      "number": null
+    },
+    {
+      "id": "187f3631-6f85-4545-ba1d-3323e4a7b933",
+      "title": "CD-ROM Today, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1994",
+        "start": "1994-04",
+        "end": "1994-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/187f3631-6f85-4545-ba1d-3323e4a7b933",
+      "number": null
+    },
+    {
+      "id": "034df49e-d5f0-46cb-a0e8-adfaac450f1d",
+      "title": "CD-ROM Today, Volume 2, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1994",
+        "start": "1994-06",
+        "end": "1994-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/034df49e-d5f0-46cb-a0e8-adfaac450f1d",
+      "number": null
+    },
+    {
+      "id": "c40a333c-9947-481d-85cc-cefc0d090f44",
+      "title": "CD-ROM Today, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 1994",
+        "start": "1994-08",
+        "end": "1994-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c40a333c-9947-481d-85cc-cefc0d090f44",
+      "number": null
+    },
+    {
+      "id": "81f21f2c-7dd6-4e17-919b-b98438154046",
+      "title": "CD-ROM Today, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1994",
+        "start": "1994-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/81f21f2c-7dd6-4e17-919b-b98438154046",
+      "number": null
+    },
+    {
+      "id": "c05efedb-8ca2-4b94-b872-aca5d915ae7a",
+      "title": "CD-ROM Today, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1994",
+        "start": "1994-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c05efedb-8ca2-4b94-b872-aca5d915ae7a",
+      "number": null
+    },
+    {
+      "id": "1ba4140f-1969-4aa3-aafc-d22f3b859bf6",
+      "title": "CD-ROM Today, Volume 2, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1994",
+        "start": "1994-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1ba4140f-1969-4aa3-aafc-d22f3b859bf6",
+      "number": null
+    },
+    {
+      "id": "a5f34402-7be8-4328-8fb6-cc43cdd9ecac",
+      "title": "CD-ROM Today, Volume 3, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a5f34402-7be8-4328-8fb6-cc43cdd9ecac",
+      "number": null
+    },
+    {
+      "id": "bfd1c9f8-d7e6-4c51-84f4-9dcee98983b2",
+      "title": "CD-ROM Today, Volume 3, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bfd1c9f8-d7e6-4c51-84f4-9dcee98983b2",
+      "number": null
+    },
+    {
+      "id": "ce61aa5a-a7db-4215-a3a7-97146eb667a2",
+      "title": "CD-ROM Today, Volume 3, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ce61aa5a-a7db-4215-a3a7-97146eb667a2",
+      "number": null
+    },
+    {
+      "id": "1af63480-4b02-4109-964a-d6dae896b4ab",
+      "title": "CD-ROM Today, Volume 3, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1af63480-4b02-4109-964a-d6dae896b4ab",
+      "number": null
+    },
+    {
+      "id": "8fe82e1a-5b0b-43b6-a334-6835dcd46982",
+      "title": "CD-ROM Today, Volume 3, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8fe82e1a-5b0b-43b6-a334-6835dcd46982",
+      "number": null
+    },
+    {
+      "id": "672e01f5-d78c-4ff6-acd5-d00721359b7c",
+      "title": "CD-ROM Today, Volume 3, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/672e01f5-d78c-4ff6-acd5-d00721359b7c",
+      "number": null
+    },
+    {
+      "id": "bf5f4088-ade2-4fae-81aa-f8ea6c296fcb",
+      "title": "CD-ROM Today, Volume 3, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bf5f4088-ade2-4fae-81aa-f8ea6c296fcb",
+      "number": null
+    },
+    {
+      "id": "a5d99862-8532-44ec-a4e0-13776a5bf459",
+      "title": "CD-ROM Today, Volume 3, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a5d99862-8532-44ec-a4e0-13776a5bf459",
+      "number": null
+    },
+    {
+      "id": "333f811b-6878-4755-94e4-149ddb15db28",
+      "title": "CD-ROM Today, Volume 3, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/333f811b-6878-4755-94e4-149ddb15db28",
+      "number": null
+    },
+    {
+      "id": "d8726feb-d81b-4193-8c7c-dd7e323b1db3",
+      "title": "CD-ROM Today, Volume 3, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d8726feb-d81b-4193-8c7c-dd7e323b1db3",
+      "number": null
+    },
+    {
+      "id": "331697df-eff6-44c7-b671-9b31dd6b5689",
+      "title": "CD-ROM Today, Volume 3, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/331697df-eff6-44c7-b671-9b31dd6b5689",
+      "number": null
+    },
+    {
+      "id": "741e76fe-cc09-4bc4-b5a2-9494188f9acc",
+      "title": "CD-ROM Today, Volume 3, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/741e76fe-cc09-4bc4-b5a2-9494188f9acc",
+      "number": null
+    },
+    {
+      "id": "ffa90e5f-2bd9-4b0e-b97d-8edf0cb3e682",
+      "title": "CD-ROM Today, Volume 4, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ffa90e5f-2bd9-4b0e-b97d-8edf0cb3e682",
+      "number": null
+    },
+    {
+      "id": "126fd87c-df91-4c0e-b79a-ba8f155fe7c9",
+      "title": "CD-ROM Today, Volume 4, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/126fd87c-df91-4c0e-b79a-ba8f155fe7c9",
+      "number": null
+    },
+    {
+      "id": "34d6b755-bd85-42e9-b045-f91e33276e8e",
+      "title": "CD-ROM Today, Volume 4, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/34d6b755-bd85-42e9-b045-f91e33276e8e",
+      "number": null
+    },
+    {
+      "id": "e3707516-e02f-4d76-bf7d-f294b4085ffe",
+      "title": "CD-ROM Today, Volume 4, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e3707516-e02f-4d76-bf7d-f294b4085ffe",
+      "number": null
+    },
+    {
+      "id": "d88508ec-7d3a-4e03-9045-ad28b0dc3c4d",
+      "title": "CD-ROM Today, Volume 4, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d88508ec-7d3a-4e03-9045-ad28b0dc3c4d",
+      "number": null
+    },
+    {
+      "id": "cbbcdbe2-7de9-4a91-a736-6ee24503f6c6",
+      "title": "CD-ROM Today, Volume 4, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cbbcdbe2-7de9-4a91-a736-6ee24503f6c6",
+      "number": null
+    },
+    {
+      "id": "126f3e5b-9d5e-4fc9-a0aa-be351bc63764",
+      "title": "CD-ROM Today, Volume 4, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/126f3e5b-9d5e-4fc9-a0aa-be351bc63764",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "CD-ROM Today, Premiere Issue": "a242c056-8b87-4222-b160-7671208ad539",
+    "CD-ROM Today, Volume 1, Number 2": "c7600d02-7d76-4db0-a2eb-34d9b14e3aae",
+    "CD-ROM Today, Volume 2, Number 1": "b49ca7a0-c250-4ec4-9253-cad5a5b53b84",
+    "CD-ROM Today, Volume 2, Number 2": "187f3631-6f85-4545-ba1d-3323e4a7b933",
+    "CD-ROM Today, Volume 2, Number 3": "034df49e-d5f0-46cb-a0e8-adfaac450f1d",
+    "CD-ROM Today, Volume 2, Number 4": "c40a333c-9947-481d-85cc-cefc0d090f44",
+    "CD-ROM Today, Volume 2, Number 5": "81f21f2c-7dd6-4e17-919b-b98438154046",
+    "CD-ROM Today, Volume 2, Number 6": "c05efedb-8ca2-4b94-b872-aca5d915ae7a",
+    "CD-ROM Today, Volume 2, Number 7": "1ba4140f-1969-4aa3-aafc-d22f3b859bf6",
+    "CD-ROM Today, Volume 3, Number 1": "a5f34402-7be8-4328-8fb6-cc43cdd9ecac",
+    "CD-ROM Today, Volume 3, Number 2": "bfd1c9f8-d7e6-4c51-84f4-9dcee98983b2",
+    "CD-ROM Today, Volume 3, Number 3": "ce61aa5a-a7db-4215-a3a7-97146eb667a2",
+    "CD-ROM Today, Volume 3, Number 4": "1af63480-4b02-4109-964a-d6dae896b4ab",
+    "CD-ROM Today, Volume 3, Number 5": "8fe82e1a-5b0b-43b6-a334-6835dcd46982",
+    "CD-ROM Today, Volume 3, Number 6": "672e01f5-d78c-4ff6-acd5-d00721359b7c",
+    "CD-ROM Today, Volume 3, Number 7": "bf5f4088-ade2-4fae-81aa-f8ea6c296fcb",
+    "CD-ROM Today, Volume 3, Number 8": "a5d99862-8532-44ec-a4e0-13776a5bf459",
+    "CD-ROM Today, Volume 3, Number 9": "333f811b-6878-4755-94e4-149ddb15db28",
+    "CD-ROM Today, Volume 3, Number 10": "d8726feb-d81b-4193-8c7c-dd7e323b1db3",
+    "CD-ROM Today, Volume 3, Number 11": "331697df-eff6-44c7-b671-9b31dd6b5689",
+    "CD-ROM Today, Volume 3, Number 12": "741e76fe-cc09-4bc4-b5a2-9494188f9acc",
+    "CD-ROM Today, Volume 4, Number 1": "ffa90e5f-2bd9-4b0e-b97d-8edf0cb3e682",
+    "CD-ROM Today, Volume 4, Number 2": "126fd87c-df91-4c0e-b79a-ba8f155fe7c9",
+    "CD-ROM Today, Volume 4, Number 3": "34d6b755-bd85-42e9-b045-f91e33276e8e",
+    "CD-ROM Today, Volume 4, Number 4": "e3707516-e02f-4d76-bf7d-f294b4085ffe",
+    "CD-ROM Today, Volume 4, Number 5": "d88508ec-7d3a-4e03-9045-ad28b0dc3c4d",
+    "CD-ROM Today, Volume 4, Number 6": "cbbcdbe2-7de9-4a91-a736-6ee24503f6c6",
+    "CD-ROM Today, Volume 4, Number 7": "126f3e5b-9d5e-4fc9-a0aa-be351bc63764"
+  }
+}

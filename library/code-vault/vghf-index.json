@@ -1,0 +1,550 @@
+{
+  "provider": "vghf",
+  "folder_id": "236efd86-a9c7-49bd-b9ca-a7ba394cd9d9",
+  "url": "https://archive.gamehistory.org/folder/236efd86-a9c7-49bd-b9ca-a7ba394cd9d9",
+  "retrieved_at": "2026-09-13T22:47:13+00:00",
+  "expected": 33,
+  "count": 33,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "992b111d-ede1-4e4a-b246-7ab1fb0e73cb",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2001",
+        "start": "2001-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/992b111d-ede1-4e4a-b246-7ab1fb0e73cb",
+      "number": null
+    },
+    {
+      "id": "0f4819b0-6e1b-49ec-abc2-343698497a84",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2001",
+        "start": "2001-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0f4819b0-6e1b-49ec-abc2-343698497a84",
+      "number": null
+    },
+    {
+      "id": "fa9c1e67-812c-4227-8b00-977d1ec56ec4",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2002",
+        "start": "2002-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fa9c1e67-812c-4227-8b00-977d1ec56ec4",
+      "number": null
+    },
+    {
+      "id": "bef137cf-01ae-496d-b3aa-e802dea1bf37",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2002",
+        "start": "2002-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bef137cf-01ae-496d-b3aa-e802dea1bf37",
+      "number": null
+    },
+    {
+      "id": "a2d925d0-2420-442c-92b4-99cecbcd57c9",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2002",
+        "start": "2002-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a2d925d0-2420-442c-92b4-99cecbcd57c9",
+      "number": null
+    },
+    {
+      "id": "641fa934-e186-471e-9fd9-28fc4840e830",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2002",
+        "start": "2002-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/641fa934-e186-471e-9fd9-28fc4840e830",
+      "number": null
+    },
+    {
+      "id": "6c1dfe1b-8c98-4298-a09b-6d24f7cc383e",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 2002",
+        "start": "2002-09",
+        "end": "2002-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c1dfe1b-8c98-4298-a09b-6d24f7cc383e",
+      "number": null
+    },
+    {
+      "id": "3ddc351c-7b8e-4b6d-97f2-f0b1569ae6c0",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November/December 2002",
+        "start": "2002-11",
+        "end": "2002-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3ddc351c-7b8e-4b6d-97f2-f0b1569ae6c0",
+      "number": null
+    },
+    {
+      "id": "0d76a372-f412-4cfd-91b5-97edee57b615",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 2003",
+        "start": "2003-01",
+        "end": "2003-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0d76a372-f412-4cfd-91b5-97edee57b615",
+      "number": null
+    },
+    {
+      "id": "9c972d42-8cf7-414d-a4d7-98ab0dd2c9e8",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March/April 2003",
+        "start": "2003-03",
+        "end": "2003-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9c972d42-8cf7-414d-a4d7-98ab0dd2c9e8",
+      "number": null
+    },
+    {
+      "id": "25c0a934-67ff-47d8-942d-47470ca561af",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 2003",
+        "start": "2003-05",
+        "end": "2003-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/25c0a934-67ff-47d8-942d-47470ca561af",
+      "number": null
+    },
+    {
+      "id": "ab71ae52-c81e-42d7-8a06-c107fe4f5799",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2003",
+        "start": "2003-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ab71ae52-c81e-42d7-8a06-c107fe4f5799",
+      "number": null
+    },
+    {
+      "id": "2a44171d-79c6-4424-8391-b788a34a9ca4",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2003",
+        "start": "2003-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2a44171d-79c6-4424-8391-b788a34a9ca4",
+      "number": null
+    },
+    {
+      "id": "56e8481b-05cd-4145-9651-85d8d8f1caaf",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2003",
+        "start": "2003-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/56e8481b-05cd-4145-9651-85d8d8f1caaf",
+      "number": null
+    },
+    {
+      "id": "f4606fba-fc35-4931-af8c-6627bbedaa44",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2003",
+        "start": "2003-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f4606fba-fc35-4931-af8c-6627bbedaa44",
+      "number": null
+    },
+    {
+      "id": "36fd816c-d6c2-4a37-bbd1-06f2e7df58f5",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2003",
+        "start": "2003-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/36fd816c-d6c2-4a37-bbd1-06f2e7df58f5",
+      "number": null
+    },
+    {
+      "id": "cb52c81b-9d15-46db-bfcc-ae95b6d227f5",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2003",
+        "start": "2003-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cb52c81b-9d15-46db-bfcc-ae95b6d227f5",
+      "number": null
+    },
+    {
+      "id": "9f42dbd4-26c0-4e2a-944e-0fa84539455e",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2004",
+        "start": "2004-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9f42dbd4-26c0-4e2a-944e-0fa84539455e",
+      "number": null
+    },
+    {
+      "id": "90cf7990-d3d8-4711-ab77-5287300e66e6",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2004",
+        "start": "2004-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/90cf7990-d3d8-4711-ab77-5287300e66e6",
+      "number": null
+    },
+    {
+      "id": "95915f56-2073-472f-aa24-16b2ef2293d1",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2004",
+        "start": "2004-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95915f56-2073-472f-aa24-16b2ef2293d1",
+      "number": null
+    },
+    {
+      "id": "2cc01949-ad89-4379-8273-4d04e61ad2dc",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 2004",
+        "start": "2004-05",
+        "end": "2004-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2cc01949-ad89-4379-8273-4d04e61ad2dc",
+      "number": null
+    },
+    {
+      "id": "134d38d1-cb31-490b-9524-90ad4bb6036a",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August/September 2004",
+        "start": "2004-08",
+        "end": "2004-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/134d38d1-cb31-490b-9524-90ad4bb6036a",
+      "number": null
+    },
+    {
+      "id": "4ce3737b-52a5-422f-bfce-bf92953d3c41",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October/November 2004",
+        "start": "2004-10",
+        "end": "2004-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4ce3737b-52a5-422f-bfce-bf92953d3c41",
+      "number": null
+    },
+    {
+      "id": "1976e27d-6097-4bb1-a212-1a5f8ff09d26",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 2005",
+        "start": "2005-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/1976e27d-6097-4bb1-a212-1a5f8ff09d26",
+      "number": null
+    },
+    {
+      "id": "0abbf285-202b-4fc5-b82f-c29b9cbf0358",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2005",
+        "start": "2005-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/0abbf285-202b-4fc5-b82f-c29b9cbf0358",
+      "number": null
+    },
+    {
+      "id": "4b7163d3-a9f9-46e3-bc51-dfef4dadc685",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2005",
+        "start": "2005-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/4b7163d3-a9f9-46e3-bc51-dfef4dadc685",
+      "number": null
+    },
+    {
+      "id": "0b1e54fc-5368-49ef-acbd-b61e37418ebc",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 2006",
+        "start": "2006-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/0b1e54fc-5368-49ef-acbd-b61e37418ebc",
+      "number": null
+    },
+    {
+      "id": "c6c12d2a-bc4d-4777-94e2-af1de75991f2",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2006",
+        "start": "2006-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/c6c12d2a-bc4d-4777-94e2-af1de75991f2",
+      "number": null
+    },
+    {
+      "id": "a4730c01-09e1-44cc-bda7-39b14f95f89f",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2006",
+        "start": "2006-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/a4730c01-09e1-44cc-bda7-39b14f95f89f",
+      "number": null
+    },
+    {
+      "id": "d4636f21-dfb2-4534-9aaa-8ab6304c9fe0",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 2007",
+        "start": "2007-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/d4636f21-dfb2-4534-9aaa-8ab6304c9fe0",
+      "number": null
+    },
+    {
+      "id": "d7713f19-f2f5-42a0-990c-d7119483e0ef",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 2007",
+        "start": "2007-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/d7713f19-f2f5-42a0-990c-d7119483e0ef",
+      "number": null
+    },
+    {
+      "id": "8d3d94a6-1b4e-464e-b365-984b32f7f5a9",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2007",
+        "start": "2007-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/8d3d94a6-1b4e-464e-b365-984b32f7f5a9",
+      "number": null
+    },
+    {
+      "id": "788eccc5-2083-453c-b3db-3e2b0c5a50c2",
+      "title": "Code Vault",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2007",
+        "start": "2007-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/788eccc5-2083-453c-b3db-3e2b0c5a50c2",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Code Vault": "788eccc5-2083-453c-b3db-3e2b0c5a50c2"
+  }
+}

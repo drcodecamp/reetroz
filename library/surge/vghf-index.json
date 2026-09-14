@@ -1,0 +1,81 @@
+{
+  "provider": "vghf",
+  "folder_id": "19df3e0e-432f-410c-89f1-7f19de57e13b",
+  "url": "https://archive.gamehistory.org/folder/19df3e0e-432f-410c-89f1-7f19de57e13b",
+  "retrieved_at": "2026-09-13T22:59:46+00:00",
+  "expected": 4,
+  "count": 4,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "03bc5ba0-ead7-4901-a87c-b4ba429f5022",
+      "title": "Surge, Volume 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2004",
+        "start": "2004-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/03bc5ba0-ead7-4901-a87c-b4ba429f5022",
+      "number": "1"
+    },
+    {
+      "id": "53e668fd-c0dd-4422-ad32-61f2721b8a40",
+      "title": "Surge, Volume 1, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 2004",
+        "start": "2004-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/53e668fd-c0dd-4422-ad32-61f2721b8a40",
+      "number": "2"
+    },
+    {
+      "id": "96d257c3-7e54-4c87-88c5-b4bc12f5ffb3",
+      "title": "Surge, Volume 1, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 2004",
+        "start": "2004-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/96d257c3-7e54-4c87-88c5-b4bc12f5ffb3",
+      "number": "3"
+    },
+    {
+      "id": "8fe9a7a6-fa32-4cd0-a838-6a697eea3337",
+      "title": "Surge, Volume 1, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 2004",
+        "start": "2004-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/8fe9a7a6-fa32-4cd0-a838-6a697eea3337",
+      "number": "4"
+    }
+  ],
+  "by_title": {
+    "Surge, Volume 1, Issue 1": "03bc5ba0-ead7-4901-a87c-b4ba429f5022",
+    "Surge, Volume 1, Issue 2": "53e668fd-c0dd-4422-ad32-61f2721b8a40",
+    "Surge, Volume 1, Issue 3": "96d257c3-7e54-4c87-88c5-b4bc12f5ffb3",
+    "Surge, Volume 1, Issue 4": "8fe9a7a6-fa32-4cd0-a838-6a697eea3337"
+  }
+}

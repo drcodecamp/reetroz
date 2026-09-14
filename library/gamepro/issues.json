@@ -1,1 +1,39 @@
-[]
+[
+ {
+  "id": "gamepro-1",
+  "publication": "gamepro",
+  "sequence": 1,
+  "number": "1",
+  "date": {
+   "display": "May 1989",
+   "start": "1989-05",
+   "precision": "month"
+  },
+  "special": "Premiere issue",
+  "pages": 64,
+  "dimensions": {
+   "width_mm": 143.9,
+   "height_mm": 186.3
+  },
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f9a715ce-6eb1-4927-a1ef-66f375742e87",
+   "external_id": "f9a715ce-6eb1-4927-a1ef-66f375742e87",
+   "retrieved_at": "2026-09-13T22:33:13+00:00"
+  },
+  "files": {
+   "pdf": "library/gamepro/pdf/GamePro, Issue 1 (May 1989).pdf",
+   "bytes": 65708904,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "assets": {
+   "cover": "site/public/covers/gamepro-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gamepro-1/manifest.json"
+  },
+  "updated_at": "2026-09-13T22:34:30+00:00"
+ }
+]

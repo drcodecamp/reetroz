@@ -1,0 +1,798 @@
+{
+  "provider": "vghf",
+  "folder_id": "1944a7fc-6821-4685-9497-61b51c7e24e5",
+  "url": "https://archive.gamehistory.org/folder/1944a7fc-6821-4685-9497-61b51c7e24e5",
+  "retrieved_at": "2026-09-13T22:56:52+00:00",
+  "expected": 3,
+  "count": 45,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "8d5130bf-2d3b-4a92-b486-efbc71b18eb0",
+      "title": "Club Nintendo, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1989",
+        "start": "1989",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/8d5130bf-2d3b-4a92-b486-efbc71b18eb0",
+      "number": "1",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "2e64d568-88dd-413b-8529-48744c356246",
+      "title": "Club Nintendo, Volume 2, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1990",
+        "start": "1990",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/2e64d568-88dd-413b-8529-48744c356246",
+      "number": "1",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "c54b0d2c-9045-4b1a-9b3f-4a55be5a2251",
+      "title": "Club Nintendo, Volume 3, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1991",
+        "start": "1991",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/c54b0d2c-9045-4b1a-9b3f-4a55be5a2251",
+      "number": "1",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "a2965f42-1fb5-4c8c-8531-244de7e98923",
+      "title": "Club Nintendo, Volume 4, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1992",
+        "start": "1992",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/a2965f42-1fb5-4c8c-8531-244de7e98923",
+      "number": "1",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "c449a6d1-625f-4ddd-8d6c-25a5e67103dd",
+      "title": "Club Nintendo, Volume 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1990",
+        "start": "1990",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/c449a6d1-625f-4ddd-8d6c-25a5e67103dd",
+      "number": "2",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "38c667a5-7205-4ee0-a0e4-3e3fd5e81af8",
+      "title": "Club Nintendo, Volume 3, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1991",
+        "start": "1991",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/38c667a5-7205-4ee0-a0e4-3e3fd5e81af8",
+      "number": "2",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "06c2f2cd-cb2e-46cc-b711-68293c0f4129",
+      "title": "Club Nintendo, Volume 4, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1992",
+        "start": "1992",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/06c2f2cd-cb2e-46cc-b711-68293c0f4129",
+      "number": "2",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "15fd48bb-b777-4397-92db-7f54260f1413",
+      "title": "Club Nintendo, Volume 5, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1993",
+        "start": "1993",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/15fd48bb-b777-4397-92db-7f54260f1413",
+      "number": "2",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "123fd826-c146-4e48-8380-8ff740d0ce88",
+      "title": "Club Nintendo, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1989",
+        "start": "1989",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/123fd826-c146-4e48-8380-8ff740d0ce88",
+      "number": "3",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "6719f960-e213-4abb-8547-90fa86737521",
+      "title": "Club Nintendo, Volume 2, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1990",
+        "start": "1990",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/6719f960-e213-4abb-8547-90fa86737521",
+      "number": "3",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "84625cfa-94de-46c1-af11-f3ec383a0880",
+      "title": "Club Nintendo, Volume 3, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1991",
+        "start": "1991",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/84625cfa-94de-46c1-af11-f3ec383a0880",
+      "number": "3",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "398a9356-2e74-449c-8538-f4ec52ced93b",
+      "title": "Club Nintendo, Volume 4, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1992",
+        "start": "1992",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/398a9356-2e74-449c-8538-f4ec52ced93b",
+      "number": "3",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "58832638-5ea3-43bb-9496-36a8f0dfd57f",
+      "title": "Club Nintendo, Volume 5, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1993",
+        "start": "1993",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/58832638-5ea3-43bb-9496-36a8f0dfd57f",
+      "number": "3",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "21828559-3c82-41bc-aa0d-2948d1188071",
+      "title": "Club Nintendo, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1989",
+        "start": "1989",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/21828559-3c82-41bc-aa0d-2948d1188071",
+      "number": "4",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "8ff25be2-31ba-479c-a0db-6d45f00cc4f5",
+      "title": "Club Nintendo, Volume 2, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1990",
+        "start": "1990",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/8ff25be2-31ba-479c-a0db-6d45f00cc4f5",
+      "number": "4",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "2cc66e34-73db-4840-974f-ed3fc3daa245",
+      "title": "Club Nintendo, Volume 3, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1991",
+        "start": "1991",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/2cc66e34-73db-4840-974f-ed3fc3daa245",
+      "number": "4",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "b8db19db-8c28-479c-9684-18fbf10451dc",
+      "title": "Club Nintendo, Volume 4, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1992",
+        "start": "1992",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/b8db19db-8c28-479c-9684-18fbf10451dc",
+      "number": "4",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "bc7c1c9a-6657-4983-bd31-10eeea645e96",
+      "title": "Club Nintendo, Issue 5, Christmas Special",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1989",
+        "start": "1989",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/bc7c1c9a-6657-4983-bd31-10eeea645e96",
+      "number": "5",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "da24a7c2-72d3-43aa-9ead-0c79558f4d35",
+      "title": "Club Nintendo, Volume 2, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1990",
+        "start": "1990",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/da24a7c2-72d3-43aa-9ead-0c79558f4d35",
+      "number": "5",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "76e2c853-13ed-40b5-a576-f5feb55e7a4f",
+      "title": "Club Nintendo, Volume 3, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1991",
+        "start": "1991",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/76e2c853-13ed-40b5-a576-f5feb55e7a4f",
+      "number": "5",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "fda8535d-3f28-41ff-be86-86b2a5fa90f5",
+      "title": "Club Nintendo, Volume 4, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1992",
+        "start": "1992",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/fda8535d-3f28-41ff-be86-86b2a5fa90f5",
+      "number": "5",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "864c3651-52d8-4889-8723-588b2bda1768",
+      "title": "Club Nintendo, Volume 2, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1990",
+        "start": "1990",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/864c3651-52d8-4889-8723-588b2bda1768",
+      "number": "6",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "0ba9f1b8-0045-4905-8d12-3fa6d8c72fff",
+      "title": "Club Nintendo, Volume 3, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1991",
+        "start": "1991",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/0ba9f1b8-0045-4905-8d12-3fa6d8c72fff",
+      "number": "6",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "e5613b4a-7a35-40af-8e92-25578d6dba2e",
+      "title": "Club Nintendo, Volume 4, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1992",
+        "start": "1992",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/e5613b4a-7a35-40af-8e92-25578d6dba2e",
+      "number": "6",
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "76569b1e-2609-4620-8908-287ffb78b72a",
+      "title": "Nintendo Fun Club News, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1987",
+        "start": "1987-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/76569b1e-2609-4620-8908-287ffb78b72a",
+      "number": null,
+      "parent_id": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+    },
+    {
+      "id": "1def8a61-0d4f-4195-b567-1e9070fa410e",
+      "title": "Nintendo Fun Club News, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1987",
+        "start": "1987-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/1def8a61-0d4f-4195-b567-1e9070fa410e",
+      "number": null,
+      "parent_id": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+    },
+    {
+      "id": "a37f02d7-70ba-4069-b6c9-f829e511ba9f",
+      "title": "Nintendo Fun Club News, Volume 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1987",
+        "start": "1987-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/a37f02d7-70ba-4069-b6c9-f829e511ba9f",
+      "number": null,
+      "parent_id": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+    },
+    {
+      "id": "f01d50c9-85b3-4f6e-8bf1-cf441694552f",
+      "title": "Nintendo Fun Club News, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1987",
+        "start": "1987-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/f01d50c9-85b3-4f6e-8bf1-cf441694552f",
+      "number": null,
+      "parent_id": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+    },
+    {
+      "id": "f2ad1421-447d-4187-a4df-f274518c6ee3",
+      "title": "Nintendo Fun Club News, Volume 1, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February/March 1988",
+        "start": "1988-02",
+        "end": "1988-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f2ad1421-447d-4187-a4df-f274518c6ee3",
+      "number": null,
+      "parent_id": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+    },
+    {
+      "id": "227f086e-82f0-4fb9-a477-7b894b862d5b",
+      "title": "Nintendo Fun Club News, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April/May 1988",
+        "start": "1988-04",
+        "end": "1988-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/227f086e-82f0-4fb9-a477-7b894b862d5b",
+      "number": null,
+      "parent_id": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+    },
+    {
+      "id": "b65373e1-5a7f-445a-b5b4-1259859d685c",
+      "title": "Nintendo Fun Club News, Volume 2, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June/July 1988",
+        "start": "1988-06",
+        "end": "1988-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b65373e1-5a7f-445a-b5b4-1259859d685c",
+      "number": null,
+      "parent_id": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+    },
+    {
+      "id": "9ad478e5-f655-4a0b-9449-7cc71c6b649d",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1988",
+        "start": "1988-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/9ad478e5-f655-4a0b-9449-7cc71c6b649d",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "d033deac-d9fb-42cd-bd2d-9ff3901be5ea",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1988",
+        "start": "1988-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/d033deac-d9fb-42cd-bd2d-9ff3901be5ea",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "15b9ae87-97f9-4acc-9c4d-bc50b2034937",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1989",
+        "start": "1989-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/15b9ae87-97f9-4acc-9c4d-bc50b2034937",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "35b01749-13c6-4d4d-9d5e-87bdd3f3f2d7",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1989",
+        "start": "1989-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/35b01749-13c6-4d4d-9d5e-87bdd3f3f2d7",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "ca994c16-71ce-42e1-abf6-af009008c520",
+      "title": "Club Nintendo Classic",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1990",
+        "start": "1990",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/ca994c16-71ce-42e1-abf6-af009008c520",
+      "number": null,
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "88d0ca27-06ff-4662-b163-7dea3da3cc3e",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Spring 1990",
+        "start": "1990-03",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/88d0ca27-06ff-4662-b163-7dea3da3cc3e",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "e4b07e00-5622-453e-8c94-fd6bef9554c1",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1990",
+        "start": "1990-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e4b07e00-5622-453e-8c94-fd6bef9554c1",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "e6222b27-b33b-4bab-8334-d9cd0d3538ac",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Fall 1990",
+        "start": "1990-09",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/e6222b27-b33b-4bab-8334-d9cd0d3538ac",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "8618d4e2-fbc4-4176-b910-762e3ac015cf",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 1990",
+        "start": "1990-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/8618d4e2-fbc4-4176-b910-762e3ac015cf",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    },
+    {
+      "id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f",
+      "title": "Club Nintendo (UK)",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "1989–1993"
+      },
+      "url": "https://archive.gamehistory.org/folder/d18c124c-dc0c-4591-aa2b-1d01bad5c71f",
+      "number": null
+    },
+    {
+      "id": "0f56b9a0-4aee-41f0-b125-dda062e06e4f",
+      "title": "Club Nintendo Strategy Guide, undated",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": ""
+      },
+      "url": "https://archive.gamehistory.org/item/0f56b9a0-4aee-41f0-b125-dda062e06e4f",
+      "number": null,
+      "parent_id": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f"
+    },
+    {
+      "id": "97d18568-7d1c-4f72-b5f8-54f122f1d037",
+      "title": "Nintendo Fun Club News",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "1987–1988"
+      },
+      "url": "https://archive.gamehistory.org/folder/97d18568-7d1c-4f72-b5f8-54f122f1d037",
+      "number": null
+    },
+    {
+      "id": "5f304206-92eb-4150-9649-b8056c3d7b5a",
+      "title": "Nintendo Power Flash",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "Summer 1988 – Fall 1990"
+      },
+      "url": "https://archive.gamehistory.org/folder/5f304206-92eb-4150-9649-b8056c3d7b5a",
+      "number": null
+    },
+    {
+      "id": "d7101a51-eaeb-418d-ae25-ff042cc83559",
+      "title": "Nintendo Power Flash",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer/Fall 1989"
+      },
+      "url": "https://archive.gamehistory.org/item/d7101a51-eaeb-418d-ae25-ff042cc83559",
+      "number": null,
+      "parent_id": "5f304206-92eb-4150-9649-b8056c3d7b5a"
+    }
+  ],
+  "by_title": {
+    "Club Nintendo, Issue 1": "8d5130bf-2d3b-4a92-b486-efbc71b18eb0",
+    "Club Nintendo, Volume 2, Issue 1": "2e64d568-88dd-413b-8529-48744c356246",
+    "Club Nintendo, Volume 3, Issue 1": "c54b0d2c-9045-4b1a-9b3f-4a55be5a2251",
+    "Club Nintendo, Volume 4, Issue 1": "a2965f42-1fb5-4c8c-8531-244de7e98923",
+    "Club Nintendo, Volume 2, Issue 2": "c449a6d1-625f-4ddd-8d6c-25a5e67103dd",
+    "Club Nintendo, Volume 3, Issue 2": "38c667a5-7205-4ee0-a0e4-3e3fd5e81af8",
+    "Club Nintendo, Volume 4, Issue 2": "06c2f2cd-cb2e-46cc-b711-68293c0f4129",
+    "Club Nintendo, Volume 5, Issue 2": "15fd48bb-b777-4397-92db-7f54260f1413",
+    "Club Nintendo, Issue 3": "123fd826-c146-4e48-8380-8ff740d0ce88",
+    "Club Nintendo, Volume 2, Issue 3": "6719f960-e213-4abb-8547-90fa86737521",
+    "Club Nintendo, Volume 3, Issue 3": "84625cfa-94de-46c1-af11-f3ec383a0880",
+    "Club Nintendo, Volume 4, Issue 3": "398a9356-2e74-449c-8538-f4ec52ced93b",
+    "Club Nintendo, Volume 5, Issue 3": "58832638-5ea3-43bb-9496-36a8f0dfd57f",
+    "Club Nintendo, Issue 4": "21828559-3c82-41bc-aa0d-2948d1188071",
+    "Club Nintendo, Volume 2, Issue 4": "8ff25be2-31ba-479c-a0db-6d45f00cc4f5",
+    "Club Nintendo, Volume 3, Issue 4": "2cc66e34-73db-4840-974f-ed3fc3daa245",
+    "Club Nintendo, Volume 4, Issue 4": "b8db19db-8c28-479c-9684-18fbf10451dc",
+    "Club Nintendo, Issue 5, Christmas Special": "bc7c1c9a-6657-4983-bd31-10eeea645e96",
+    "Club Nintendo, Volume 2, Issue 5": "da24a7c2-72d3-43aa-9ead-0c79558f4d35",
+    "Club Nintendo, Volume 3, Issue 5": "76e2c853-13ed-40b5-a576-f5feb55e7a4f",
+    "Club Nintendo, Volume 4, Issue 5": "fda8535d-3f28-41ff-be86-86b2a5fa90f5",
+    "Club Nintendo, Volume 2, Issue 6": "864c3651-52d8-4889-8723-588b2bda1768",
+    "Club Nintendo, Volume 3, Issue 6": "0ba9f1b8-0045-4905-8d12-3fa6d8c72fff",
+    "Club Nintendo, Volume 4, Issue 6": "e5613b4a-7a35-40af-8e92-25578d6dba2e",
+    "Nintendo Fun Club News, Volume 1, Number 2": "76569b1e-2609-4620-8908-287ffb78b72a",
+    "Nintendo Fun Club News, Volume 1, Number 3": "1def8a61-0d4f-4195-b567-1e9070fa410e",
+    "Nintendo Fun Club News, Volume 1, Number 1": "a37f02d7-70ba-4069-b6c9-f829e511ba9f",
+    "Nintendo Fun Club News, Volume 1, Number 4": "f01d50c9-85b3-4f6e-8bf1-cf441694552f",
+    "Nintendo Fun Club News, Volume 1, Number 5": "f2ad1421-447d-4187-a4df-f274518c6ee3",
+    "Nintendo Fun Club News, Volume 2, Number 6": "227f086e-82f0-4fb9-a477-7b894b862d5b",
+    "Nintendo Fun Club News, Volume 2, Number 7": "b65373e1-5a7f-445a-b5b4-1259859d685c",
+    "Nintendo Power Flash": "d7101a51-eaeb-418d-ae25-ff042cc83559",
+    "Club Nintendo Classic": "ca994c16-71ce-42e1-abf6-af009008c520",
+    "Club Nintendo (UK)": "d18c124c-dc0c-4591-aa2b-1d01bad5c71f",
+    "Club Nintendo Strategy Guide, undated": "0f56b9a0-4aee-41f0-b125-dda062e06e4f",
+    "Nintendo Fun Club News": "97d18568-7d1c-4f72-b5f8-54f122f1d037"
+  }
+}

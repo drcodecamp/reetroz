@@ -1,0 +1,254 @@
+{
+  "provider": "vghf",
+  "folder_id": "5e733680-d965-4a5e-9852-14ae20b62691",
+  "url": "https://archive.gamehistory.org/folder/5e733680-d965-4a5e-9852-14ae20b62691",
+  "retrieved_at": "2026-09-13T22:57:29+00:00",
+  "expected": 14,
+  "count": 14,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "ecd66e25-553b-425e-a53a-173a5b8c9f6f",
+      "title": "Official Sega Dreamcast Magazine, Issue 0",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ecd66e25-553b-425e-a53a-173a5b8c9f6f",
+      "number": "0"
+    },
+    {
+      "id": "44f70a3b-b3cc-407e-87f4-46e90d1a1a33",
+      "title": "Official Sega Dreamcast Magazine, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/44f70a3b-b3cc-407e-87f4-46e90d1a1a33",
+      "number": "1"
+    },
+    {
+      "id": "7423395b-14e2-4feb-8f44-05606bb7ced6",
+      "title": "Official Sega Dreamcast Magazine, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7423395b-14e2-4feb-8f44-05606bb7ced6",
+      "number": "2"
+    },
+    {
+      "id": "777fdaa7-14ac-4533-b454-a54379523664",
+      "title": "Official Sega Dreamcast Magazine, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/777fdaa7-14ac-4533-b454-a54379523664",
+      "number": "3"
+    },
+    {
+      "id": "99fbd8f6-e1d2-4ecb-8940-6c923f09747e",
+      "title": "Official Sega Dreamcast Magazine, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/99fbd8f6-e1d2-4ecb-8940-6c923f09747e",
+      "number": "4"
+    },
+    {
+      "id": "c50d7083-a6c7-492d-bc0c-e8fd6f363c3e",
+      "title": "Official Sega Dreamcast Magazine, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c50d7083-a6c7-492d-bc0c-e8fd6f363c3e",
+      "number": "5"
+    },
+    {
+      "id": "ccca4611-cebe-4a4c-9b68-219a309860b8",
+      "title": "Official Sega Dreamcast Magazine, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 2000",
+        "start": "2000-07",
+        "end": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ccca4611-cebe-4a4c-9b68-219a309860b8",
+      "number": "6"
+    },
+    {
+      "id": "49aae703-9cbe-4d25-b6c8-fa8271eebbad",
+      "title": "Official Sega Dreamcast Magazine, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 2000",
+        "start": "2000-09",
+        "end": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/49aae703-9cbe-4d25-b6c8-fa8271eebbad",
+      "number": "7"
+    },
+    {
+      "id": "33876acf-b17b-485f-9cab-a7eb22cff7cf",
+      "title": "Official Sega Dreamcast Magazine, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/33876acf-b17b-485f-9cab-a7eb22cff7cf",
+      "number": "8"
+    },
+    {
+      "id": "95d404e4-5ca6-4ec3-a14a-2a45e4165cc9",
+      "title": "Official Sega Dreamcast Magazine, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/95d404e4-5ca6-4ec3-a14a-2a45e4165cc9",
+      "number": "9"
+    },
+    {
+      "id": "ff43eb97-a1aa-4488-a0e9-06681ba3dc25",
+      "title": "Official Sega Dreamcast Magazine, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Holiday 2000",
+        "start": "2000-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/ff43eb97-a1aa-4488-a0e9-06681ba3dc25",
+      "number": "10"
+    },
+    {
+      "id": "7113b108-4b5c-45cb-9695-9fdbd388385b",
+      "title": "Official Sega Dreamcast Magazine, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7113b108-4b5c-45cb-9695-9fdbd388385b",
+      "number": "11"
+    },
+    {
+      "id": "aaaaabfa-6138-4bb1-a153-8d7b6eb8a9f1",
+      "title": "Official Sega Dreamcast Magazine, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March/April 2001",
+        "start": "2001-03",
+        "end": "2001-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aaaaabfa-6138-4bb1-a153-8d7b6eb8a9f1",
+      "number": "12"
+    },
+    {
+      "id": "ea16e5b3-e524-4e1d-b2c0-bcc961c8d1ff",
+      "title": "Official Sega Dreamcast Magazine presents Codebook",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Winter 2000",
+        "start": "2000-12",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/ea16e5b3-e524-4e1d-b2c0-bcc961c8d1ff",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Official Sega Dreamcast Magazine, Issue 0": "ecd66e25-553b-425e-a53a-173a5b8c9f6f",
+    "Official Sega Dreamcast Magazine, Issue 1": "44f70a3b-b3cc-407e-87f4-46e90d1a1a33",
+    "Official Sega Dreamcast Magazine, Issue 2": "7423395b-14e2-4feb-8f44-05606bb7ced6",
+    "Official Sega Dreamcast Magazine, Issue 3": "777fdaa7-14ac-4533-b454-a54379523664",
+    "Official Sega Dreamcast Magazine, Issue 4": "99fbd8f6-e1d2-4ecb-8940-6c923f09747e",
+    "Official Sega Dreamcast Magazine, Issue 5": "c50d7083-a6c7-492d-bc0c-e8fd6f363c3e",
+    "Official Sega Dreamcast Magazine, Issue 6": "ccca4611-cebe-4a4c-9b68-219a309860b8",
+    "Official Sega Dreamcast Magazine, Issue 7": "49aae703-9cbe-4d25-b6c8-fa8271eebbad",
+    "Official Sega Dreamcast Magazine, Issue 8": "33876acf-b17b-485f-9cab-a7eb22cff7cf",
+    "Official Sega Dreamcast Magazine, Issue 9": "95d404e4-5ca6-4ec3-a14a-2a45e4165cc9",
+    "Official Sega Dreamcast Magazine, Issue 10": "ff43eb97-a1aa-4488-a0e9-06681ba3dc25",
+    "Official Sega Dreamcast Magazine, Issue 11": "7113b108-4b5c-45cb-9695-9fdbd388385b",
+    "Official Sega Dreamcast Magazine, Issue 12": "aaaaabfa-6138-4bb1-a153-8d7b6eb8a9f1",
+    "Official Sega Dreamcast Magazine presents Codebook": "ea16e5b3-e524-4e1d-b2c0-bcc961c8d1ff"
+  }
+}

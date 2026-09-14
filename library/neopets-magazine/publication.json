@@ -35,7 +35,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/d1e64116-583a-4d88-9ddd-7fcec7d24a39",
-      "date_range": "September 2003 – February 2008"
+      "date_range": "September/October 2003 – est. January/February 2008",
+      "items": 26
     }
   ],
   "stats": {
@@ -44,5 +45,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

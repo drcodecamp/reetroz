@@ -1,0 +1,1569 @@
+{
+  "provider": "vghf",
+  "folder_id": "cbefef2b-c575-4ce5-afe8-586b567e4eb8",
+  "url": "https://archive.gamehistory.org/folder/cbefef2b-c575-4ce5-afe8-586b567e4eb8",
+  "retrieved_at": "2026-09-13T22:56:40+00:00",
+  "expected": 2,
+  "count": 87,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "fd91c4a7-2e71-4de7-b2de-2ddd326a1195",
+      "title": "Next Generation, Volume 1, Number 1, Issue 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1995",
+        "start": "1995-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fd91c4a7-2e71-4de7-b2de-2ddd326a1195",
+      "number": "1",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "3b8a563d-dae8-4a9c-bc19-80f2635bd684",
+      "title": "Next Generation, Volume 1, Number 2, Issue 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1995",
+        "start": "1995-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3b8a563d-dae8-4a9c-bc19-80f2635bd684",
+      "number": "2",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "d35adac5-015c-4aa7-bd9e-200521efeeae",
+      "title": "Next Generation, Volume 1, Number 3, Issue 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1995",
+        "start": "1995-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d35adac5-015c-4aa7-bd9e-200521efeeae",
+      "number": "3",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "f75ffd39-6dab-4684-a393-618162a9824b",
+      "title": "Next Generation, Volume 1, Number 4, Issue 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1995",
+        "start": "1995-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f75ffd39-6dab-4684-a393-618162a9824b",
+      "number": "4",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "140e51a1-efed-49c2-8fa0-875fd0392cbd",
+      "title": "Next Generation, Volume 1, Number 5, Issue 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1995",
+        "start": "1995-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/140e51a1-efed-49c2-8fa0-875fd0392cbd",
+      "number": "5",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "3e0095d6-abcd-45d6-bf7b-b18abf2e610b",
+      "title": "Next Generation, Volume 1, Number 6, Issue 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1995",
+        "start": "1995-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3e0095d6-abcd-45d6-bf7b-b18abf2e610b",
+      "number": "6",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "5d59cb83-3fa9-4172-8991-fce96e4e4ba3",
+      "title": "Next Generation, Volume 1, Number 7, Issue 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1995",
+        "start": "1995-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5d59cb83-3fa9-4172-8991-fce96e4e4ba3",
+      "number": "7",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "3399980f-fa55-4412-9bb1-a61760967925",
+      "title": "Next Generation, Volume 1, Number 8, Issue 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1995",
+        "start": "1995-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3399980f-fa55-4412-9bb1-a61760967925",
+      "number": "8",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "bdb23a85-1c2d-40f4-93a8-5986db73898b",
+      "title": "Next Generation, Volume 1, Number 9, Issue 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1995",
+        "start": "1995-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/bdb23a85-1c2d-40f4-93a8-5986db73898b",
+      "number": "9",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "835ed8e5-b674-46e2-9d40-667bc78fbba8",
+      "title": "Next Generation, Volume 1, Number 10, Issue 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1995",
+        "start": "1995-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/835ed8e5-b674-46e2-9d40-667bc78fbba8",
+      "number": "10",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "8a1d1457-5d1e-4671-a683-bd1eefa93930",
+      "title": "Next Generation, Volume 1, Number 11, Issue 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1995",
+        "start": "1995-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8a1d1457-5d1e-4671-a683-bd1eefa93930",
+      "number": "11",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "a8019ff3-a916-4af4-85fb-e9cba5b58dbc",
+      "title": "Next Generation, Volume 1, Number 12, Issue 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1995",
+        "start": "1995-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a8019ff3-a916-4af4-85fb-e9cba5b58dbc",
+      "number": "12",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "b9008a3e-a1a9-4793-a04e-fd8add012f7d",
+      "title": "Next Generation, Volume 2, Number 1, Issue 13",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1996",
+        "start": "1996-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b9008a3e-a1a9-4793-a04e-fd8add012f7d",
+      "number": "13",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "de797a08-b088-43b6-834d-f240ceb15d55",
+      "title": "Next Generation, Volume 2, Number 2, Issue 14",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1996",
+        "start": "1996-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/de797a08-b088-43b6-834d-f240ceb15d55",
+      "number": "14",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "8b0ea856-a939-4345-aa70-897de36662c6",
+      "title": "Next Generation, Volume 2, Number 3, Issue 15",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1996",
+        "start": "1996-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8b0ea856-a939-4345-aa70-897de36662c6",
+      "number": "15",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "68275373-d57e-431b-b368-84878dff650c",
+      "title": "Next Generation, Volume 2, Number 4, Issue 16",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1996",
+        "start": "1996-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/68275373-d57e-431b-b368-84878dff650c",
+      "number": "16",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "8727de72-063e-4a40-b915-b4afb8941d1c",
+      "title": "Next Generation, Volume 2, Number 5, Issue 17",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1996",
+        "start": "1996-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8727de72-063e-4a40-b915-b4afb8941d1c",
+      "number": "17",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "157778be-0a6e-49ee-b493-08194f9e3eaf",
+      "title": "Next Generation, Volume 2, Number 6, Issue 18",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1996",
+        "start": "1996-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/157778be-0a6e-49ee-b493-08194f9e3eaf",
+      "number": "18",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "11c764c9-1ffe-4049-9622-73e044fdfb9b",
+      "title": "Next Generation, Volume 2, Number 7, Issue 19",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1996",
+        "start": "1996-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/11c764c9-1ffe-4049-9622-73e044fdfb9b",
+      "number": "19",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "954135f2-1920-4613-877f-595b2ff4cfcf",
+      "title": "Next Generation, Volume 2, Number 8, Issue 20",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1996",
+        "start": "1996-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/954135f2-1920-4613-877f-595b2ff4cfcf",
+      "number": "20",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "68b3189e-593f-421f-80ee-6be7f11aa2af",
+      "title": "Next Generation, Volume 2, Number 9, Issue 21",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1996",
+        "start": "1996-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/68b3189e-593f-421f-80ee-6be7f11aa2af",
+      "number": "21",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "545eee3a-7c15-4943-9799-f9f568b04ab6",
+      "title": "Next Generation, Volume 2, Number 10, Issue 22",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1996",
+        "start": "1996-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/545eee3a-7c15-4943-9799-f9f568b04ab6",
+      "number": "22",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "b49d968c-94d1-4717-abae-a28fcbfd3ef9",
+      "title": "Next Generation, Volume 2, Number 11, Issue 23",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1996",
+        "start": "1996-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b49d968c-94d1-4717-abae-a28fcbfd3ef9",
+      "number": "23",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "3bb2c7c8-0df3-41ce-bcd9-953d2ab276dd",
+      "title": "Next Generation, Volume 2, Number 12, Issue 24",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1996",
+        "start": "1996-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3bb2c7c8-0df3-41ce-bcd9-953d2ab276dd",
+      "number": "24",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "ca21bf22-37fb-460e-aaff-d86d03eb6a92",
+      "title": "Next Generation, Volume 3, Number 1, Issue 25",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1997",
+        "start": "1997-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/ca21bf22-37fb-460e-aaff-d86d03eb6a92",
+      "number": "25",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "a0fbf2e3-c4ef-4259-8be1-83726a4480f6",
+      "title": "Next Generation, Volume 3, Number 2, Issue 26",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1997",
+        "start": "1997-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0fbf2e3-c4ef-4259-8be1-83726a4480f6",
+      "number": "26",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "fa9c8f96-4ce4-44f4-9f2b-f5994c1b8a9b",
+      "title": "Next Generation, Volume 3, Number 3, Issue 27",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1997",
+        "start": "1997-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/fa9c8f96-4ce4-44f4-9f2b-f5994c1b8a9b",
+      "number": "27",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "1d1e6610-0dfe-4ecc-911a-bc9da8b110f6",
+      "title": "Next Generation, Volume 3, Number 4, Issue 28",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1997",
+        "start": "1997-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1d1e6610-0dfe-4ecc-911a-bc9da8b110f6",
+      "number": "28",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "cd8760bf-3320-405c-aafc-b4d2713fe3fe",
+      "title": "Next Generation, Volume 3, Number 5, Issue 29",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1997",
+        "start": "1997-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/cd8760bf-3320-405c-aafc-b4d2713fe3fe",
+      "number": "29",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "aa7040cf-6ef1-4cf5-a6fe-fcf7d97e98f3",
+      "title": "Next Generation, Volume 3, Number 6, Issue 30",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1997",
+        "start": "1997-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/aa7040cf-6ef1-4cf5-a6fe-fcf7d97e98f3",
+      "number": "30",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "d10794e6-411b-41ff-9ce6-9f0026d1a11c",
+      "title": "Next Generation, Volume 3, Number 7, Issue 31",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1997",
+        "start": "1997-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d10794e6-411b-41ff-9ce6-9f0026d1a11c",
+      "number": "31",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "4068804b-5429-49fb-97eb-d8caf94e2e8f",
+      "title": "Next Generation, Volume 3, Number 8, Issue 32",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1997",
+        "start": "1997-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/4068804b-5429-49fb-97eb-d8caf94e2e8f",
+      "number": "32",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "a24cfb89-90f4-4d1c-a034-e651c3ecd004",
+      "title": "Next Generation, Volume 3, Number 9, Issue 33",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1997",
+        "start": "1997-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a24cfb89-90f4-4d1c-a034-e651c3ecd004",
+      "number": "33",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "738f646c-269e-4182-b47f-7bc4e1680ca8",
+      "title": "Next Generation, Volume 3, Number 10, Issue 34",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1997",
+        "start": "1997-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/738f646c-269e-4182-b47f-7bc4e1680ca8",
+      "number": "34",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "6bcbd4e6-4ae1-461c-8c71-41520c40d4d8",
+      "title": "Next Generation, Volume 3, Number 11, Issue 35",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1997",
+        "start": "1997-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6bcbd4e6-4ae1-461c-8c71-41520c40d4d8",
+      "number": "35",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "671893c7-1755-4fbb-98ef-c0e755ef690c",
+      "title": "Next Generation, Volume 3, Number 12, Issue 36",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1997",
+        "start": "1997-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/671893c7-1755-4fbb-98ef-c0e755ef690c",
+      "number": "36",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "9a0a3fea-c75c-489c-8975-dd1e3c4adbe4",
+      "title": "Next Generation, Volume 4, Number 1, Issue 37",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1998",
+        "start": "1998-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a0a3fea-c75c-489c-8975-dd1e3c4adbe4",
+      "number": "37",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "477f74e8-dbee-446b-ab9c-ccd3e1cfb954",
+      "title": "Next Generation, Volume 4, Number 2, Issue 38",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1998",
+        "start": "1998-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/477f74e8-dbee-446b-ab9c-ccd3e1cfb954",
+      "number": "38",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "45491100-9a7d-4a69-a120-5fc2a31cefb5",
+      "title": "Next Generation, Volume 4, Number 3, Issue 39",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1998",
+        "start": "1998-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/45491100-9a7d-4a69-a120-5fc2a31cefb5",
+      "number": "39",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "e3cb274a-1572-491c-81f8-b7373c8f9308",
+      "title": "Next Generation, Volume 4, Number 4, Issue 40",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1998",
+        "start": "1998-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e3cb274a-1572-491c-81f8-b7373c8f9308",
+      "number": "40",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "1f8b0462-c5d8-4e23-9e8e-020373f22ff7",
+      "title": "Next Generation, Volume 4, Number 5, Issue 41",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1998",
+        "start": "1998-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1f8b0462-c5d8-4e23-9e8e-020373f22ff7",
+      "number": "41",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "10bdf55d-d33d-420e-a22b-1bc55a44eee0",
+      "title": "Next Generation, Volume 4, Number 6, Issue 42",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1998",
+        "start": "1998-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/10bdf55d-d33d-420e-a22b-1bc55a44eee0",
+      "number": "42",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "9a161e8a-c5e4-4142-8779-d5d368e83b03",
+      "title": "Next Generation, Volume 4, Number 7, Issue 43",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1998",
+        "start": "1998-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9a161e8a-c5e4-4142-8779-d5d368e83b03",
+      "number": "43",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "74c92c9c-8ad3-41dd-a614-f9c41d57f507",
+      "title": "Next Generation, Volume 4, Number 8, Issue 44",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1998",
+        "start": "1998-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/74c92c9c-8ad3-41dd-a614-f9c41d57f507",
+      "number": "44",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "8f075215-2c80-494b-88ec-0ed09dc0dc14",
+      "title": "Next Generation, Volume 4, Number 9, Issue 45",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1998",
+        "start": "1998-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/8f075215-2c80-494b-88ec-0ed09dc0dc14",
+      "number": "45",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "c7456b9d-6c19-4786-bccf-ea305ed506a7",
+      "title": "Next Generation, Volume 4, Number 10, Issue 46",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1998",
+        "start": "1998-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c7456b9d-6c19-4786-bccf-ea305ed506a7",
+      "number": "46",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "d45a1c18-e2c1-48dd-bb6f-54d6f915ae42",
+      "title": "Next Generation, Volume 4, Number 11, Issue 47",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1998",
+        "start": "1998-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d45a1c18-e2c1-48dd-bb6f-54d6f915ae42",
+      "number": "47",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "6c3b68b2-2456-4acf-922e-9e5a2149dee8",
+      "title": "Next Generation, Volume 4, Number 12, Issue 48",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1998",
+        "start": "1998-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6c3b68b2-2456-4acf-922e-9e5a2149dee8",
+      "number": "48",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "a21f7c91-ab9f-43a0-a77b-c594ca8a041a",
+      "title": "Next Generation, Issue 49",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 1999",
+        "start": "1999-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a21f7c91-ab9f-43a0-a77b-c594ca8a041a",
+      "number": "49",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "22f52af8-fb74-46ec-a049-5b666fb4f552",
+      "title": "Next Generation, Issue 50",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 1999",
+        "start": "1999-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/22f52af8-fb74-46ec-a049-5b666fb4f552",
+      "number": "50",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "e38dd84f-94a4-4fa3-80fe-f451fdf240d9",
+      "title": "Next Generation, Issue 51",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 1999",
+        "start": "1999-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/e38dd84f-94a4-4fa3-80fe-f451fdf240d9",
+      "number": "51",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "2d1d0633-9e41-4c3d-b89a-cd413bb6efbf",
+      "title": "Next Generation, Issue 52",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 1999",
+        "start": "1999-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/2d1d0633-9e41-4c3d-b89a-cd413bb6efbf",
+      "number": "52",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "d7a0c613-aeb9-4d47-9a83-e06bf2e79bd4",
+      "title": "Next Generation, Issue 53",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 1999",
+        "start": "1999-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d7a0c613-aeb9-4d47-9a83-e06bf2e79bd4",
+      "number": "53",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "d3d0dcba-4da3-428d-a1d7-7391a857ce2f",
+      "title": "Next Generation, Issue 54",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 1999",
+        "start": "1999-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d3d0dcba-4da3-428d-a1d7-7391a857ce2f",
+      "number": "54",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "a6806030-4b1a-45c0-afae-5802f11f28f2",
+      "title": "Next Generation, Issue 55",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 1999",
+        "start": "1999-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a6806030-4b1a-45c0-afae-5802f11f28f2",
+      "number": "55",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "9460ded1-e380-4f24-bc78-e9358ae87fc3",
+      "title": "Next Generation, Issue 56",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 1999",
+        "start": "1999-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/9460ded1-e380-4f24-bc78-e9358ae87fc3",
+      "number": "56",
+      "parent_id": "a2da22d8-a502-4436-885e-6f073e28575e"
+    },
+    {
+      "id": "6cd20320-cca7-4c5b-a234-cd94c02a53c2",
+      "title": "NextGen, Volume 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 1999",
+        "start": "1999-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6cd20320-cca7-4c5b-a234-cd94c02a53c2",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "3d9eb48b-942d-4182-9a9e-4955dc9fc054",
+      "title": "NextGen, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 1999",
+        "start": "1999-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3d9eb48b-942d-4182-9a9e-4955dc9fc054",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "08caf8e3-fee9-4bfc-9c5b-5cbcc87cc5c1",
+      "title": "NextGen, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1999",
+        "start": "1999-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/08caf8e3-fee9-4bfc-9c5b-5cbcc87cc5c1",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "f6150fd1-5e38-4144-83eb-a94dbdf199d7",
+      "title": "NextGen, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 1999",
+        "start": "1999-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f6150fd1-5e38-4144-83eb-a94dbdf199d7",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "c21ba2ba-84a7-4ee1-a253-9c0c53b4aefa",
+      "title": "NextGen, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2000",
+        "start": "2000-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c21ba2ba-84a7-4ee1-a253-9c0c53b4aefa",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "89cfbc47-53ea-4bfb-ac8b-b5e6dc362cef",
+      "title": "NextGen, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2000",
+        "start": "2000-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/89cfbc47-53ea-4bfb-ac8b-b5e6dc362cef",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "973262ee-1774-4708-80a0-9daae0ea2d9d",
+      "title": "NextGen, Volume 2, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2000",
+        "start": "2000-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/973262ee-1774-4708-80a0-9daae0ea2d9d",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "967d71a4-c10b-4aec-9424-00b2aa01d672",
+      "title": "NextGen, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2000",
+        "start": "2000-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/967d71a4-c10b-4aec-9424-00b2aa01d672",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "18e79712-43e2-413f-bfca-86b68824675e",
+      "title": "NextGen, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2000",
+        "start": "2000-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/18e79712-43e2-413f-bfca-86b68824675e",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "081f3f63-80b3-41d7-9685-e07969d265dd",
+      "title": "NextGen, Volume 2, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2000",
+        "start": "2000-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/081f3f63-80b3-41d7-9685-e07969d265dd",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "a6b63845-cd33-46ca-8bbf-734dc1dff69e",
+      "title": "NextGen, Volume 2, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2000",
+        "start": "2000-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a6b63845-cd33-46ca-8bbf-734dc1dff69e",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "a1b374df-7577-4282-937c-081b3e63c951",
+      "title": "NextGen, Volume 2, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2000",
+        "start": "2000-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a1b374df-7577-4282-937c-081b3e63c951",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "c03cc2de-06b1-4b6f-9ba4-6f87c6109694",
+      "title": "NextGen, Volume 2, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2000",
+        "start": "2000-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c03cc2de-06b1-4b6f-9ba4-6f87c6109694",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "a0872e36-c404-4806-96b4-fa597923b981",
+      "title": "NextGen, Volume 2, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2000",
+        "start": "2000-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a0872e36-c404-4806-96b4-fa597923b981",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "d4b9ccb7-60c1-4637-86f0-2a8e8ee61471",
+      "title": "NextGen, Volume 2, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2000",
+        "start": "2000-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d4b9ccb7-60c1-4637-86f0-2a8e8ee61471",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "46f27f99-5f5f-42c8-91e1-58e686630170",
+      "title": "NextGen, Volume 2, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2000",
+        "start": "2000-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/46f27f99-5f5f-42c8-91e1-58e686630170",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "daa4e7ea-3386-451d-93a2-138aa53925ba",
+      "title": "NextGen, Volume 3, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2001",
+        "start": "2001-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/daa4e7ea-3386-451d-93a2-138aa53925ba",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "16792724-4167-4433-9bb9-ed76900361c1",
+      "title": "NextGen, Volume 3, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "February 2001",
+        "start": "2001-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/16792724-4167-4433-9bb9-ed76900361c1",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "d2540d9b-42b7-400d-bc70-07b70df4e3c5",
+      "title": "NextGen, Volume 3, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March 2001",
+        "start": "2001-03",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d2540d9b-42b7-400d-bc70-07b70df4e3c5",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "479919b6-1208-448a-a708-a5148e18c38a",
+      "title": "NextGen, Volume 3, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "April 2001",
+        "start": "2001-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/479919b6-1208-448a-a708-a5148e18c38a",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "7c3c52eb-5596-42b1-9404-b82a08c5ec95",
+      "title": "NextGen, Volume 3, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May 2001",
+        "start": "2001-05",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7c3c52eb-5596-42b1-9404-b82a08c5ec95",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "b94dd0fb-36f5-4573-9ef5-183eca3bec22",
+      "title": "NextGen, Volume 3, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "June 2001",
+        "start": "2001-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/b94dd0fb-36f5-4573-9ef5-183eca3bec22",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "26ed9201-b239-49d5-b593-d53d03f65123",
+      "title": "NextGen, Volume 3, Number 7",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July 2001",
+        "start": "2001-07",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/26ed9201-b239-49d5-b593-d53d03f65123",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "6db5ac78-ddd2-40e9-8d08-32678df6be4f",
+      "title": "NextGen, Volume 3, Number 8",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "August 2001",
+        "start": "2001-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/6db5ac78-ddd2-40e9-8d08-32678df6be4f",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "d3e64736-2834-46aa-9fd5-2a7708bd9a34",
+      "title": "NextGen, Volume 3, Number 9",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September 2001",
+        "start": "2001-09",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d3e64736-2834-46aa-9fd5-2a7708bd9a34",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "d276a8b1-7237-4748-87a5-bb3f135866c0",
+      "title": "NextGen, Volume 3, Number 10",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "October 2001",
+        "start": "2001-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/d276a8b1-7237-4748-87a5-bb3f135866c0",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "1ae86139-92e6-47ad-b0e2-48a35612d693",
+      "title": "NextGen, Volume 3, Number 11",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 2001",
+        "start": "2001-11",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/1ae86139-92e6-47ad-b0e2-48a35612d693",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "57cb9cd7-5e8e-4563-914e-0adc4d6f930f",
+      "title": "NextGen, Volume 3, Number 12",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "December 2001",
+        "start": "2001-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/57cb9cd7-5e8e-4563-914e-0adc4d6f930f",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "3291caa3-9d14-4c56-aea5-1ee1bbd3cfcf",
+      "title": "NextGen, Volume 4, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January 2002",
+        "start": "2002-01",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/3291caa3-9d14-4c56-aea5-1ee1bbd3cfcf",
+      "number": null,
+      "parent_id": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+    },
+    {
+      "id": "a2da22d8-a502-4436-885e-6f073e28575e",
+      "title": "Next Generation",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "January 1995 – August 1999"
+      },
+      "url": "https://archive.gamehistory.org/folder/a2da22d8-a502-4436-885e-6f073e28575e",
+      "number": null
+    },
+    {
+      "id": "4e2fd8d5-7622-427e-b90f-4af9112ed982",
+      "title": "NextGen",
+      "kind": "folder",
+      "document_type": "SO",
+      "formats": [],
+      "date": {
+        "display": "September 1999 – January 2002"
+      },
+      "url": "https://archive.gamehistory.org/folder/4e2fd8d5-7622-427e-b90f-4af9112ed982",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Next Generation, Volume 1, Number 1, Issue 1": "fd91c4a7-2e71-4de7-b2de-2ddd326a1195",
+    "Next Generation, Volume 1, Number 2, Issue 2": "3b8a563d-dae8-4a9c-bc19-80f2635bd684",
+    "Next Generation, Volume 1, Number 3, Issue 3": "d35adac5-015c-4aa7-bd9e-200521efeeae",
+    "Next Generation, Volume 1, Number 4, Issue 4": "f75ffd39-6dab-4684-a393-618162a9824b",
+    "Next Generation, Volume 1, Number 5, Issue 5": "140e51a1-efed-49c2-8fa0-875fd0392cbd",
+    "Next Generation, Volume 1, Number 6, Issue 6": "3e0095d6-abcd-45d6-bf7b-b18abf2e610b",
+    "Next Generation, Volume 1, Number 7, Issue 7": "5d59cb83-3fa9-4172-8991-fce96e4e4ba3",
+    "Next Generation, Volume 1, Number 8, Issue 8": "3399980f-fa55-4412-9bb1-a61760967925",
+    "Next Generation, Volume 1, Number 9, Issue 9": "bdb23a85-1c2d-40f4-93a8-5986db73898b",
+    "Next Generation, Volume 1, Number 10, Issue 10": "835ed8e5-b674-46e2-9d40-667bc78fbba8",
+    "Next Generation, Volume 1, Number 11, Issue 11": "8a1d1457-5d1e-4671-a683-bd1eefa93930",
+    "Next Generation, Volume 1, Number 12, Issue 12": "a8019ff3-a916-4af4-85fb-e9cba5b58dbc",
+    "Next Generation, Volume 2, Number 1, Issue 13": "b9008a3e-a1a9-4793-a04e-fd8add012f7d",
+    "Next Generation, Volume 2, Number 2, Issue 14": "de797a08-b088-43b6-834d-f240ceb15d55",
+    "Next Generation, Volume 2, Number 3, Issue 15": "8b0ea856-a939-4345-aa70-897de36662c6",
+    "Next Generation, Volume 2, Number 4, Issue 16": "68275373-d57e-431b-b368-84878dff650c",
+    "Next Generation, Volume 2, Number 5, Issue 17": "8727de72-063e-4a40-b915-b4afb8941d1c",
+    "Next Generation, Volume 2, Number 6, Issue 18": "157778be-0a6e-49ee-b493-08194f9e3eaf",
+    "Next Generation, Volume 2, Number 7, Issue 19": "11c764c9-1ffe-4049-9622-73e044fdfb9b",
+    "Next Generation, Volume 2, Number 8, Issue 20": "954135f2-1920-4613-877f-595b2ff4cfcf",
+    "Next Generation, Volume 2, Number 9, Issue 21": "68b3189e-593f-421f-80ee-6be7f11aa2af",
+    "Next Generation, Volume 2, Number 10, Issue 22": "545eee3a-7c15-4943-9799-f9f568b04ab6",
+    "Next Generation, Volume 2, Number 11, Issue 23": "b49d968c-94d1-4717-abae-a28fcbfd3ef9",
+    "Next Generation, Volume 2, Number 12, Issue 24": "3bb2c7c8-0df3-41ce-bcd9-953d2ab276dd",
+    "Next Generation, Volume 3, Number 1, Issue 25": "ca21bf22-37fb-460e-aaff-d86d03eb6a92",
+    "Next Generation, Volume 3, Number 2, Issue 26": "a0fbf2e3-c4ef-4259-8be1-83726a4480f6",
+    "Next Generation, Volume 3, Number 3, Issue 27": "fa9c8f96-4ce4-44f4-9f2b-f5994c1b8a9b",
+    "Next Generation, Volume 3, Number 4, Issue 28": "1d1e6610-0dfe-4ecc-911a-bc9da8b110f6",
+    "Next Generation, Volume 3, Number 5, Issue 29": "cd8760bf-3320-405c-aafc-b4d2713fe3fe",
+    "Next Generation, Volume 3, Number 6, Issue 30": "aa7040cf-6ef1-4cf5-a6fe-fcf7d97e98f3",
+    "Next Generation, Volume 3, Number 7, Issue 31": "d10794e6-411b-41ff-9ce6-9f0026d1a11c",
+    "Next Generation, Volume 3, Number 8, Issue 32": "4068804b-5429-49fb-97eb-d8caf94e2e8f",
+    "Next Generation, Volume 3, Number 9, Issue 33": "a24cfb89-90f4-4d1c-a034-e651c3ecd004",
+    "Next Generation, Volume 3, Number 10, Issue 34": "738f646c-269e-4182-b47f-7bc4e1680ca8",
+    "Next Generation, Volume 3, Number 11, Issue 35": "6bcbd4e6-4ae1-461c-8c71-41520c40d4d8",
+    "Next Generation, Volume 3, Number 12, Issue 36": "671893c7-1755-4fbb-98ef-c0e755ef690c",
+    "Next Generation, Volume 4, Number 1, Issue 37": "9a0a3fea-c75c-489c-8975-dd1e3c4adbe4",
+    "Next Generation, Volume 4, Number 2, Issue 38": "477f74e8-dbee-446b-ab9c-ccd3e1cfb954",
+    "Next Generation, Volume 4, Number 3, Issue 39": "45491100-9a7d-4a69-a120-5fc2a31cefb5",
+    "Next Generation, Volume 4, Number 4, Issue 40": "e3cb274a-1572-491c-81f8-b7373c8f9308",
+    "Next Generation, Volume 4, Number 5, Issue 41": "1f8b0462-c5d8-4e23-9e8e-020373f22ff7",
+    "Next Generation, Volume 4, Number 6, Issue 42": "10bdf55d-d33d-420e-a22b-1bc55a44eee0",
+    "Next Generation, Volume 4, Number 7, Issue 43": "9a161e8a-c5e4-4142-8779-d5d368e83b03",
+    "Next Generation, Volume 4, Number 8, Issue 44": "74c92c9c-8ad3-41dd-a614-f9c41d57f507",
+    "Next Generation, Volume 4, Number 9, Issue 45": "8f075215-2c80-494b-88ec-0ed09dc0dc14",
+    "Next Generation, Volume 4, Number 10, Issue 46": "c7456b9d-6c19-4786-bccf-ea305ed506a7",
+    "Next Generation, Volume 4, Number 11, Issue 47": "d45a1c18-e2c1-48dd-bb6f-54d6f915ae42",
+    "Next Generation, Volume 4, Number 12, Issue 48": "6c3b68b2-2456-4acf-922e-9e5a2149dee8",
+    "Next Generation, Issue 49": "a21f7c91-ab9f-43a0-a77b-c594ca8a041a",
+    "Next Generation, Issue 50": "22f52af8-fb74-46ec-a049-5b666fb4f552",
+    "Next Generation, Issue 51": "e38dd84f-94a4-4fa3-80fe-f451fdf240d9",
+    "Next Generation, Issue 52": "2d1d0633-9e41-4c3d-b89a-cd413bb6efbf",
+    "Next Generation, Issue 53": "d7a0c613-aeb9-4d47-9a83-e06bf2e79bd4",
+    "Next Generation, Issue 54": "d3d0dcba-4da3-428d-a1d7-7391a857ce2f",
+    "Next Generation, Issue 55": "a6806030-4b1a-45c0-afae-5802f11f28f2",
+    "Next Generation, Issue 56": "9460ded1-e380-4f24-bc78-e9358ae87fc3",
+    "NextGen, Volume 1, Number 1": "6cd20320-cca7-4c5b-a234-cd94c02a53c2",
+    "NextGen, Volume 1, Number 2": "3d9eb48b-942d-4182-9a9e-4955dc9fc054",
+    "NextGen, Volume 1, Number 3": "08caf8e3-fee9-4bfc-9c5b-5cbcc87cc5c1",
+    "NextGen, Volume 1, Number 4": "f6150fd1-5e38-4144-83eb-a94dbdf199d7",
+    "NextGen, Volume 2, Number 1": "c21ba2ba-84a7-4ee1-a253-9c0c53b4aefa",
+    "NextGen, Volume 2, Number 2": "89cfbc47-53ea-4bfb-ac8b-b5e6dc362cef",
+    "NextGen, Volume 2, Number 3": "973262ee-1774-4708-80a0-9daae0ea2d9d",
+    "NextGen, Volume 2, Number 4": "967d71a4-c10b-4aec-9424-00b2aa01d672",
+    "NextGen, Volume 2, Number 5": "18e79712-43e2-413f-bfca-86b68824675e",
+    "NextGen, Volume 2, Number 6": "081f3f63-80b3-41d7-9685-e07969d265dd",
+    "NextGen, Volume 2, Number 7": "a6b63845-cd33-46ca-8bbf-734dc1dff69e",
+    "NextGen, Volume 2, Number 8": "a1b374df-7577-4282-937c-081b3e63c951",
+    "NextGen, Volume 2, Number 9": "c03cc2de-06b1-4b6f-9ba4-6f87c6109694",
+    "NextGen, Volume 2, Number 10": "a0872e36-c404-4806-96b4-fa597923b981",
+    "NextGen, Volume 2, Number 11": "d4b9ccb7-60c1-4637-86f0-2a8e8ee61471",
+    "NextGen, Volume 2, Number 12": "46f27f99-5f5f-42c8-91e1-58e686630170",
+    "NextGen, Volume 3, Number 1": "daa4e7ea-3386-451d-93a2-138aa53925ba",
+    "NextGen, Volume 3, Number 2": "16792724-4167-4433-9bb9-ed76900361c1",
+    "NextGen, Volume 3, Number 3": "d2540d9b-42b7-400d-bc70-07b70df4e3c5",
+    "NextGen, Volume 3, Number 4": "479919b6-1208-448a-a708-a5148e18c38a",
+    "NextGen, Volume 3, Number 5": "7c3c52eb-5596-42b1-9404-b82a08c5ec95",
+    "NextGen, Volume 3, Number 6": "b94dd0fb-36f5-4573-9ef5-183eca3bec22",
+    "NextGen, Volume 3, Number 7": "26ed9201-b239-49d5-b593-d53d03f65123",
+    "NextGen, Volume 3, Number 8": "6db5ac78-ddd2-40e9-8d08-32678df6be4f",
+    "NextGen, Volume 3, Number 9": "d3e64736-2834-46aa-9fd5-2a7708bd9a34",
+    "NextGen, Volume 3, Number 10": "d276a8b1-7237-4748-87a5-bb3f135866c0",
+    "NextGen, Volume 3, Number 11": "1ae86139-92e6-47ad-b0e2-48a35612d693",
+    "NextGen, Volume 3, Number 12": "57cb9cd7-5e8e-4563-914e-0adc4d6f930f",
+    "NextGen, Volume 4, Number 1": "3291caa3-9d14-4c56-aea5-1ee1bbd3cfcf",
+    "Next Generation": "a2da22d8-a502-4436-885e-6f073e28575e",
+    "NextGen": "4e2fd8d5-7622-427e-b90f-4af9112ed982"
+  }
+}

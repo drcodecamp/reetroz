@@ -1,0 +1,45 @@
+{
+  "provider": "vghf",
+  "folder_id": "6259ccf5-4944-4e3c-96f6-65b5ffea25d2",
+  "url": "https://archive.gamehistory.org/folder/6259ccf5-4944-4e3c-96f6-65b5ffea25d2",
+  "retrieved_at": "2026-09-13T22:59:48+00:00",
+  "expected": 2,
+  "count": 2,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "449ab436-169c-4bba-a988-8d6d9e384a26",
+      "title": "The Cursor: Game Developer Life, Premier Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer 1997",
+        "start": "1997-06",
+        "precision": "season"
+      },
+      "url": "https://archive.gamehistory.org/item/449ab436-169c-4bba-a988-8d6d9e384a26",
+      "number": null
+    },
+    {
+      "id": "070874db-a0c1-4a37-8b56-869fc061633d",
+      "title": "The Cursor: Game Developer Life",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "Summer/Fall 1998"
+      },
+      "url": "https://archive.gamehistory.org/item/070874db-a0c1-4a37-8b56-869fc061633d",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "The Cursor: Game Developer Life, Premier Issue": "449ab436-169c-4bba-a988-8d6d9e384a26",
+    "The Cursor: Game Developer Life": "070874db-a0c1-4a37-8b56-869fc061633d"
+  }
+}

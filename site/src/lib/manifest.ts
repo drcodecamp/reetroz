@@ -11,7 +11,7 @@ export type IssueManifest = {
   number: string;
   date: string;
   pages: number;
-  format: { read: "jpg"; thumb: "webp" };
+  format: { read: "jpg" | "webp"; thumb: "webp" };
   thumbWidth: number;
   pageList: PageMeta[];
 };

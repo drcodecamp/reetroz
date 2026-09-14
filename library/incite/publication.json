@@ -36,7 +36,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/56f6db10-774b-4a5c-83ec-832180d3b0b9",
-      "date_range": "July 1999 – August 2000"
+      "date_range": "December 1999 – July 1999 – August 2000",
+      "items": 18
     }
   ],
   "stats": {
@@ -45,5 +46,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

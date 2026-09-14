@@ -1,0 +1,208 @@
+{
+  "provider": "vghf",
+  "folder_id": "5c58e229-93bc-412b-953e-36edd364689a",
+  "url": "https://archive.gamehistory.org/folder/5c58e229-93bc-412b-953e-36edd364689a",
+  "retrieved_at": "2026-09-13T22:46:56+00:00",
+  "expected": 11,
+  "count": 11,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "59cae0fb-78b7-4264-9b02-b0dfbb41a6fd",
+      "title": "Atari Age, Volume 1, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 1982",
+        "start": "1982-05",
+        "end": "1982-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/59cae0fb-78b7-4264-9b02-b0dfbb41a6fd",
+      "number": null
+    },
+    {
+      "id": "7c92acbe-d5fe-4a81-ab81-d94d9c7f1f63",
+      "title": "Atari Age, Volume 1, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 1982",
+        "start": "1982-07",
+        "end": "1982-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7c92acbe-d5fe-4a81-ab81-d94d9c7f1f63",
+      "number": null
+    },
+    {
+      "id": "c31c5670-f8ba-4051-ad7d-4deccec87d7d",
+      "title": "Atari Age, Volume 1, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 1982",
+        "start": "1982-09",
+        "end": "1982-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/c31c5670-f8ba-4051-ad7d-4deccec87d7d",
+      "number": null
+    },
+    {
+      "id": "0e6a408a-7567-4e73-9213-fbbbdc97037e",
+      "title": "Atari Age, Volume 1, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November/December 1982",
+        "start": "1982-11",
+        "end": "1982-12",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/0e6a408a-7567-4e73-9213-fbbbdc97037e",
+      "number": null
+    },
+    {
+      "id": "746fc1d9-1b85-4d68-9431-a701aec82b13",
+      "title": "Atari Age, Volume 1, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "January/February 1983",
+        "start": "1983-01",
+        "end": "1983-02",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/746fc1d9-1b85-4d68-9431-a701aec82b13",
+      "number": null
+    },
+    {
+      "id": "a96d0ad0-c5a0-4598-8a82-8fb28af69373",
+      "title": "Atari Age, Volume 1, Number 6",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March/April 1983",
+        "start": "1983-03",
+        "end": "1983-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/a96d0ad0-c5a0-4598-8a82-8fb28af69373",
+      "number": null
+    },
+    {
+      "id": "5dded01e-e477-4b10-ac9e-a4ecc162067e",
+      "title": "Atari Age, Volume 2, Number 1",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "May/June 1983",
+        "start": "1983-05",
+        "end": "1983-06",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/5dded01e-e477-4b10-ac9e-a4ecc162067e",
+      "number": null
+    },
+    {
+      "id": "7ccd4983-6a98-4360-b5d8-6faf13064e86",
+      "title": "Atari Age, Volume 2, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "July/August 1983",
+        "start": "1983-07",
+        "end": "1983-08",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/7ccd4983-6a98-4360-b5d8-6faf13064e86",
+      "number": null
+    },
+    {
+      "id": "74b05ec4-633d-4c60-a978-2dfdb180ffd8",
+      "title": "Atari Age, Volume 2, Number 3",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "September/October 1983",
+        "start": "1983-09",
+        "end": "1983-10",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/74b05ec4-633d-4c60-a978-2dfdb180ffd8",
+      "number": null
+    },
+    {
+      "id": "f1fdf8e2-2543-425e-b538-dd7925c2b139",
+      "title": "Atari Age, Volume 2, Number 5",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "March/April 1984",
+        "start": "1984-03",
+        "end": "1984-04",
+        "precision": "month"
+      },
+      "url": "https://archive.gamehistory.org/item/f1fdf8e2-2543-425e-b538-dd7925c2b139",
+      "number": null
+    },
+    {
+      "id": "98e52628-c879-49be-832e-0f76b12d4b3f",
+      "title": "Atari Age, Volume 2, Number 4",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "November 1983/February 1984"
+      },
+      "url": "https://archive.gamehistory.org/item/98e52628-c879-49be-832e-0f76b12d4b3f",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "Atari Age, Volume 1, Number 1": "59cae0fb-78b7-4264-9b02-b0dfbb41a6fd",
+    "Atari Age, Volume 1, Number 2": "7c92acbe-d5fe-4a81-ab81-d94d9c7f1f63",
+    "Atari Age, Volume 1, Number 3": "c31c5670-f8ba-4051-ad7d-4deccec87d7d",
+    "Atari Age, Volume 1, Number 4": "0e6a408a-7567-4e73-9213-fbbbdc97037e",
+    "Atari Age, Volume 1, Number 5": "746fc1d9-1b85-4d68-9431-a701aec82b13",
+    "Atari Age, Volume 1, Number 6": "a96d0ad0-c5a0-4598-8a82-8fb28af69373",
+    "Atari Age, Volume 2, Number 1": "5dded01e-e477-4b10-ac9e-a4ecc162067e",
+    "Atari Age, Volume 2, Number 2": "7ccd4983-6a98-4360-b5d8-6faf13064e86",
+    "Atari Age, Volume 2, Number 3": "74b05ec4-633d-4c60-a978-2dfdb180ffd8",
+    "Atari Age, Volume 2, Number 5": "f1fdf8e2-2543-425e-b538-dd7925c2b139",
+    "Atari Age, Volume 2, Number 4": "98e52628-c879-49be-832e-0f76b12d4b3f"
+  }
+}

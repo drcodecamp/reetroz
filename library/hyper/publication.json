@@ -38,7 +38,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/30d88818-a185-4138-8b43-127f55b01c69",
-      "date_range": "December 1993 – 2018"
+      "date_range": "January 1994 – February 2003",
+      "items": 98
     }
   ],
   "stats": {
@@ -47,5 +48,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

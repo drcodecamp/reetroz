@@ -38,7 +38,8 @@
     {
       "provider": "vghf",
       "url": "https://archive.gamehistory.org/folder/eb2067ae-1d19-4d6c-b07a-fc0b0ce68d5f",
-      "date_range": "September 1998 –"
+      "date_range": "October 24, 2008 – August 22, 2018",
+      "items": 436
     }
   ],
   "stats": {
@@ -47,5 +48,5 @@
     "readable": 0,
     "with_text": 0
   },
-  "updated_at": "2026-09-05T21:21:32+00:00"
+  "updated_at": "2026-09-13T21:27:15+00:00"
 }

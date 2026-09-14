@@ -1,0 +1,47 @@
+{
+  "provider": "vghf",
+  "folder_id": "a238608c-2fe1-481a-ac89-e519abd73151",
+  "url": "https://archive.gamehistory.org/folder/a238608c-2fe1-481a-ac89-e519abd73151",
+  "retrieved_at": "2026-09-13T22:54:36+00:00",
+  "expected": 2,
+  "count": 2,
+  "note": "Public catalog index for matching and link-out only. VGHF Researcher Agreement restricts the files themselves to research or private study; do not mirror.",
+  "items": [
+    {
+      "id": "5870872d-7b3c-4c97-82a1-86f61ef39a06",
+      "title": "GameSport, Number 2",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1995",
+        "start": "1995",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/5870872d-7b3c-4c97-82a1-86f61ef39a06",
+      "number": null
+    },
+    {
+      "id": "341ca98a-c378-4cf0-8a02-fc38c8f3d6a4",
+      "title": "GameSport, Premiere Issue",
+      "kind": "item",
+      "document_type": "IO",
+      "formats": [
+        "pdf"
+      ],
+      "date": {
+        "display": "1995",
+        "start": "1995",
+        "precision": "year"
+      },
+      "url": "https://archive.gamehistory.org/item/341ca98a-c378-4cf0-8a02-fc38c8f3d6a4",
+      "number": null
+    }
+  ],
+  "by_title": {
+    "GameSport, Number 2": "5870872d-7b3c-4c97-82a1-86f61ef39a06",
+    "GameSport, Premiere Issue": "341ca98a-c378-4cf0-8a02-fc38c8f3d6a4"
+  }
+}
