@@ -393,7 +393,7 @@ export function CatalogBrowser({
           ) : view === "grid" ? (
             <ul className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-6 2xl:grid-cols-7">
               {filtered.map((i, idx) => (
-                <li key={i.slug}>
+                <li key={`${i.id}-${idx}`}>
                   <IssueCard issue={i} progress={progress[i.slug]} sizes="(max-width: 640px) 45vw, 200px" priority={idx < 8} />
                 </li>
               ))}
@@ -413,7 +413,7 @@ export function CatalogBrowser({
                   </div>
                   <ul className="mask-fade-r flex gap-4 overflow-x-auto pb-4 pr-10 pt-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
                     {list.map((i) => (
-                      <li key={i.slug} className="w-[150px] shrink-0 sm:w-[180px]">
+                      <li key={`${i.id}-${i.date}-${i.pages}`} className="w-[150px] shrink-0 sm:w-[180px]">
                         <IssueCard issue={i} progress={progress[i.slug]} sizes="180px" />
                       </li>
                     ))}

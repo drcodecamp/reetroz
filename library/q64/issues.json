@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/q64-199706-q64.jpg",
+   "cover": "covers/q64-199706-q64.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/q64-199806-q64.jpg",
+   "cover": "covers/q64-199806-q64.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/q64-199809-q64.jpg",
+   "cover": "covers/q64-199809-q64.jpg",
    "pages_rendered": false
   }
  },
@@ -135,7 +135,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/q64-199812-q64.jpg",
+   "cover": "covers/q64-199812-q64.jpg",
    "pages_rendered": false
   }
  },
@@ -170,7 +170,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/q64-199906-q64.jpg",
+   "cover": "covers/q64-199906-q64.jpg",
    "pages_rendered": false
   }
  },
@@ -205,7 +205,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/q64-199912-q64.jpg",
+   "cover": "covers/q64-199912-q64.jpg",
    "pages_rendered": false
   }
  }

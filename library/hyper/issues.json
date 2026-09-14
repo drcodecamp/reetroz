@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-2.jpg",
+   "cover": "covers/hyper-2.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-6.jpg",
+   "cover": "covers/hyper-6.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-7.jpg",
+   "cover": "covers/hyper-7.jpg",
    "pages_rendered": false
   }
  },
@@ -135,7 +135,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-8.jpg",
+   "cover": "covers/hyper-8.jpg",
    "pages_rendered": false
   }
  },
@@ -170,7 +170,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-9.jpg",
+   "cover": "covers/hyper-9.jpg",
    "pages_rendered": false
   }
  },
@@ -205,7 +205,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-10.jpg",
+   "cover": "covers/hyper-10.jpg",
    "pages_rendered": false
   }
  },
@@ -240,7 +240,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-11.jpg",
+   "cover": "covers/hyper-11.jpg",
    "pages_rendered": false
   }
  },
@@ -275,7 +275,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-12.jpg",
+   "cover": "covers/hyper-12.jpg",
    "pages_rendered": false
   }
  },
@@ -310,7 +310,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-13.jpg",
+   "cover": "covers/hyper-13.jpg",
    "pages_rendered": false
   }
  },
@@ -345,7 +345,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-14.jpg",
+   "cover": "covers/hyper-14.jpg",
    "pages_rendered": false
   }
  },
@@ -380,7 +380,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-15.jpg",
+   "cover": "covers/hyper-15.jpg",
    "pages_rendered": false
   }
  },
@@ -415,7 +415,7 @@
    "height_mm": 296.7
   },
   "assets": {
-   "cover": "site/public/covers/hyper-16.jpg",
+   "cover": "covers/hyper-16.jpg",
    "pages_rendered": false
   }
  },
@@ -450,7 +450,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-17.jpg",
+   "cover": "covers/hyper-17.jpg",
    "pages_rendered": false
   }
  },
@@ -485,7 +485,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-18.jpg",
+   "cover": "covers/hyper-18.jpg",
    "pages_rendered": false
   }
  },
@@ -520,7 +520,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-19.jpg",
+   "cover": "covers/hyper-19.jpg",
    "pages_rendered": false
   }
  },
@@ -555,7 +555,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-21.jpg",
+   "cover": "covers/hyper-21.jpg",
    "pages_rendered": false
   }
  },
@@ -590,7 +590,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-23.jpg",
+   "cover": "covers/hyper-23.jpg",
    "pages_rendered": false
   }
  },
@@ -625,7 +625,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-24.jpg",
+   "cover": "covers/hyper-24.jpg",
    "pages_rendered": false
   }
  },
@@ -660,7 +660,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-25.jpg",
+   "cover": "covers/hyper-25.jpg",
    "pages_rendered": false
   }
  },
@@ -695,7 +695,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-28.jpg",
+   "cover": "covers/hyper-28.jpg",
    "pages_rendered": false
   }
  },
@@ -730,7 +730,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-29.jpg",
+   "cover": "covers/hyper-29.jpg",
    "pages_rendered": false
   }
  },
@@ -765,7 +765,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-30.jpg",
+   "cover": "covers/hyper-30.jpg",
    "pages_rendered": false
   }
  },
@@ -800,7 +800,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-31.jpg",
+   "cover": "covers/hyper-31.jpg",
    "pages_rendered": false
   }
  },
@@ -835,7 +835,7 @@
    "height_mm": 296.7
   },
   "assets": {
-   "cover": "site/public/covers/hyper-32.jpg",
+   "cover": "covers/hyper-32.jpg",
    "pages_rendered": false
   }
  },
@@ -870,7 +870,7 @@
    "height_mm": 296.7
   },
   "assets": {
-   "cover": "site/public/covers/hyper-33.jpg",
+   "cover": "covers/hyper-33.jpg",
    "pages_rendered": false
   }
  },
@@ -905,7 +905,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-34.jpg",
+   "cover": "covers/hyper-34.jpg",
    "pages_rendered": false
   }
  },
@@ -940,7 +940,7 @@
    "height_mm": 300.1
   },
   "assets": {
-   "cover": "site/public/covers/hyper-35.jpg",
+   "cover": "covers/hyper-35.jpg",
    "pages_rendered": false
   }
  },
@@ -975,7 +975,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-36.jpg",
+   "cover": "covers/hyper-36.jpg",
    "pages_rendered": false
   }
  },
@@ -1010,7 +1010,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-37.jpg",
+   "cover": "covers/hyper-37.jpg",
    "pages_rendered": false
   }
  },
@@ -1045,7 +1045,7 @@
    "height_mm": 300.1
   },
   "assets": {
-   "cover": "site/public/covers/hyper-38.jpg",
+   "cover": "covers/hyper-38.jpg",
    "pages_rendered": false
   }
  },
@@ -1080,7 +1080,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-39.jpg",
+   "cover": "covers/hyper-39.jpg",
    "pages_rendered": false
   }
  },
@@ -1115,7 +1115,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-40.jpg",
+   "cover": "covers/hyper-40.jpg",
    "pages_rendered": false
   }
  },
@@ -1150,7 +1150,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-41.jpg",
+   "cover": "covers/hyper-41.jpg",
    "pages_rendered": false
   }
  },
@@ -1185,7 +1185,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-42.jpg",
+   "cover": "covers/hyper-42.jpg",
    "pages_rendered": false
   }
  },
@@ -1220,7 +1220,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-43.jpg",
+   "cover": "covers/hyper-43.jpg",
    "pages_rendered": false
   }
  },
@@ -1255,7 +1255,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-44.jpg",
+   "cover": "covers/hyper-44.jpg",
    "pages_rendered": false
   }
  },
@@ -1290,7 +1290,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-45.jpg",
+   "cover": "covers/hyper-45.jpg",
    "pages_rendered": false
   }
  },
@@ -1325,7 +1325,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-46.jpg",
+   "cover": "covers/hyper-46.jpg",
    "pages_rendered": false
   }
  },
@@ -1360,7 +1360,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-47.jpg",
+   "cover": "covers/hyper-47.jpg",
    "pages_rendered": false
   }
  },
@@ -1395,7 +1395,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-48.jpg",
+   "cover": "covers/hyper-48.jpg",
    "pages_rendered": false
   }
  },
@@ -1430,7 +1430,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-49.jpg",
+   "cover": "covers/hyper-49.jpg",
    "pages_rendered": false
   }
  },
@@ -1465,7 +1465,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-50.jpg",
+   "cover": "covers/hyper-50.jpg",
    "pages_rendered": false
   }
  },
@@ -1500,7 +1500,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-51.jpg",
+   "cover": "covers/hyper-51.jpg",
    "pages_rendered": false
   }
  },
@@ -1535,7 +1535,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-52.jpg",
+   "cover": "covers/hyper-52.jpg",
    "pages_rendered": false
   }
  },
@@ -1570,7 +1570,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-53.jpg",
+   "cover": "covers/hyper-53.jpg",
    "pages_rendered": false
   }
  },
@@ -1605,7 +1605,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-54.jpg",
+   "cover": "covers/hyper-54.jpg",
    "pages_rendered": false
   }
  },
@@ -1640,7 +1640,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-55.jpg",
+   "cover": "covers/hyper-55.jpg",
    "pages_rendered": false
   }
  },
@@ -1675,7 +1675,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-56.jpg",
+   "cover": "covers/hyper-56.jpg",
    "pages_rendered": false
   }
  },
@@ -1710,7 +1710,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-57.jpg",
+   "cover": "covers/hyper-57.jpg",
    "pages_rendered": false
   }
  },
@@ -1745,7 +1745,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-58.jpg",
+   "cover": "covers/hyper-58.jpg",
    "pages_rendered": false
   }
  },
@@ -1780,7 +1780,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-59.jpg",
+   "cover": "covers/hyper-59.jpg",
    "pages_rendered": false
   }
  },
@@ -1815,7 +1815,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-60.jpg",
+   "cover": "covers/hyper-60.jpg",
    "pages_rendered": false
   }
  },
@@ -1850,7 +1850,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-61.jpg",
+   "cover": "covers/hyper-61.jpg",
    "pages_rendered": false
   }
  },
@@ -1885,7 +1885,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-62.jpg",
+   "cover": "covers/hyper-62.jpg",
    "pages_rendered": false
   }
  },
@@ -1920,7 +1920,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-63.jpg",
+   "cover": "covers/hyper-63.jpg",
    "pages_rendered": false
   }
  },
@@ -1955,7 +1955,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-64.jpg",
+   "cover": "covers/hyper-64.jpg",
    "pages_rendered": false
   }
  },
@@ -1990,7 +1990,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-65.jpg",
+   "cover": "covers/hyper-65.jpg",
    "pages_rendered": false
   }
  },
@@ -2025,7 +2025,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-66.jpg",
+   "cover": "covers/hyper-66.jpg",
    "pages_rendered": false
   }
  },
@@ -2060,7 +2060,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-67.jpg",
+   "cover": "covers/hyper-67.jpg",
    "pages_rendered": false
   }
  },
@@ -2095,7 +2095,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-68.jpg",
+   "cover": "covers/hyper-68.jpg",
    "pages_rendered": false
   }
  },
@@ -2130,7 +2130,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-69.jpg",
+   "cover": "covers/hyper-69.jpg",
    "pages_rendered": false
   }
  },
@@ -2165,7 +2165,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-70.jpg",
+   "cover": "covers/hyper-70.jpg",
    "pages_rendered": false
   }
  },
@@ -2200,7 +2200,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-71.jpg",
+   "cover": "covers/hyper-71.jpg",
    "pages_rendered": false
   }
  },
@@ -2235,7 +2235,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-72.jpg",
+   "cover": "covers/hyper-72.jpg",
    "pages_rendered": false
   }
  },
@@ -2270,7 +2270,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-73.jpg",
+   "cover": "covers/hyper-73.jpg",
    "pages_rendered": false
   }
  },
@@ -2305,7 +2305,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-74.jpg",
+   "cover": "covers/hyper-74.jpg",
    "pages_rendered": false
   }
  },
@@ -2340,7 +2340,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-75.jpg",
+   "cover": "covers/hyper-75.jpg",
    "pages_rendered": false
   }
  },
@@ -2375,7 +2375,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-76.jpg",
+   "cover": "covers/hyper-76.jpg",
    "pages_rendered": false
   }
  },
@@ -2410,7 +2410,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-77.jpg",
+   "cover": "covers/hyper-77.jpg",
    "pages_rendered": false
   }
  },
@@ -2445,7 +2445,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-78.jpg",
+   "cover": "covers/hyper-78.jpg",
    "pages_rendered": false
   }
  },
@@ -2480,7 +2480,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-79.jpg",
+   "cover": "covers/hyper-79.jpg",
    "pages_rendered": false
   }
  },
@@ -2515,7 +2515,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-80.jpg",
+   "cover": "covers/hyper-80.jpg",
    "pages_rendered": false
   }
  },
@@ -2550,7 +2550,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-81.jpg",
+   "cover": "covers/hyper-81.jpg",
    "pages_rendered": false
   }
  },
@@ -2585,7 +2585,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-82.jpg",
+   "cover": "covers/hyper-82.jpg",
    "pages_rendered": false
   }
  },
@@ -2620,7 +2620,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-83.jpg",
+   "cover": "covers/hyper-83.jpg",
    "pages_rendered": false
   }
  },
@@ -2655,7 +2655,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-84.jpg",
+   "cover": "covers/hyper-84.jpg",
    "pages_rendered": false
   }
  },
@@ -2690,7 +2690,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-85.jpg",
+   "cover": "covers/hyper-85.jpg",
    "pages_rendered": false
   }
  },
@@ -2725,7 +2725,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-86.jpg",
+   "cover": "covers/hyper-86.jpg",
    "pages_rendered": false
   }
  },
@@ -2760,7 +2760,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-88.jpg",
+   "cover": "covers/hyper-88.jpg",
    "pages_rendered": false
   }
  },
@@ -2795,7 +2795,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-89.jpg",
+   "cover": "covers/hyper-89.jpg",
    "pages_rendered": false
   }
  },
@@ -2830,7 +2830,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-90.jpg",
+   "cover": "covers/hyper-90.jpg",
    "pages_rendered": false
   }
  },
@@ -2865,7 +2865,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-91.jpg",
+   "cover": "covers/hyper-91.jpg",
    "pages_rendered": false
   }
  },
@@ -2900,7 +2900,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-92.jpg",
+   "cover": "covers/hyper-92.jpg",
    "pages_rendered": false
   }
  },
@@ -2935,7 +2935,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-94.jpg",
+   "cover": "covers/hyper-94.jpg",
    "pages_rendered": false
   }
  },
@@ -2970,7 +2970,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-95.jpg",
+   "cover": "covers/hyper-95.jpg",
    "pages_rendered": false
   }
  },
@@ -3005,7 +3005,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-96.jpg",
+   "cover": "covers/hyper-96.jpg",
    "pages_rendered": false
   }
  },
@@ -3040,7 +3040,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-97.jpg",
+   "cover": "covers/hyper-97.jpg",
    "pages_rendered": false
   }
  },
@@ -3075,7 +3075,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-98.jpg",
+   "cover": "covers/hyper-98.jpg",
    "pages_rendered": false
   }
  },
@@ -3110,7 +3110,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-99.jpg",
+   "cover": "covers/hyper-99.jpg",
    "pages_rendered": false
   }
  },
@@ -3145,7 +3145,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-103.jpg",
+   "cover": "covers/hyper-103.jpg",
    "pages_rendered": false
   }
  },
@@ -3180,7 +3180,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-105.jpg",
+   "cover": "covers/hyper-105.jpg",
    "pages_rendered": false
   }
  },
@@ -3215,7 +3215,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-106.jpg",
+   "cover": "covers/hyper-106.jpg",
    "pages_rendered": false
   }
  },
@@ -3250,7 +3250,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-107.jpg",
+   "cover": "covers/hyper-107.jpg",
    "pages_rendered": false
   }
  },
@@ -3285,7 +3285,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-108.jpg",
+   "cover": "covers/hyper-108.jpg",
    "pages_rendered": false
   }
  },
@@ -3320,7 +3320,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-109.jpg",
+   "cover": "covers/hyper-109.jpg",
    "pages_rendered": false
   }
  },
@@ -3355,7 +3355,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-110.jpg",
+   "cover": "covers/hyper-110.jpg",
    "pages_rendered": false
   }
  },
@@ -3390,7 +3390,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-111.jpg",
+   "cover": "covers/hyper-111.jpg",
    "pages_rendered": false
   }
  },
@@ -3425,7 +3425,7 @@
   },
   "updated_at": "2026-09-14T09:33:57+00:00",
   "assets": {
-   "cover": "site/public/covers/hyper-112.jpg",
+   "cover": "covers/hyper-112.jpg",
    "pages_rendered": false
   }
  }

@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-1.jpg",
+   "cover": "covers/edge-1.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-2.jpg",
+   "cover": "covers/edge-2.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-3.jpg",
+   "cover": "covers/edge-3.jpg",
    "pages_rendered": false
   }
  },
@@ -135,7 +135,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-4.jpg",
+   "cover": "covers/edge-4.jpg",
    "pages_rendered": false
   }
  },
@@ -170,7 +170,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-5.jpg",
+   "cover": "covers/edge-5.jpg",
    "pages_rendered": false
   }
  },
@@ -205,7 +205,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-6.jpg",
+   "cover": "covers/edge-6.jpg",
    "pages_rendered": false
   }
  },
@@ -240,7 +240,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-7.jpg",
+   "cover": "covers/edge-7.jpg",
    "pages_rendered": false
   }
  },
@@ -275,7 +275,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-8.jpg",
+   "cover": "covers/edge-8.jpg",
    "pages_rendered": false
   }
  },
@@ -310,7 +310,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-9.jpg",
+   "cover": "covers/edge-9.jpg",
    "pages_rendered": false
   }
  },
@@ -345,7 +345,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-10.jpg",
+   "cover": "covers/edge-10.jpg",
    "pages_rendered": false
   }
  },
@@ -380,7 +380,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-11.jpg",
+   "cover": "covers/edge-11.jpg",
    "pages_rendered": false
   }
  },
@@ -415,7 +415,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-12.jpg",
+   "cover": "covers/edge-12.jpg",
    "pages_rendered": false
   }
  },
@@ -450,7 +450,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-13.jpg",
+   "cover": "covers/edge-13.jpg",
    "pages_rendered": false
   }
  },
@@ -485,7 +485,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-14.jpg",
+   "cover": "covers/edge-14.jpg",
    "pages_rendered": false
   }
  },
@@ -520,7 +520,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-15.jpg",
+   "cover": "covers/edge-15.jpg",
    "pages_rendered": false
   }
  },
@@ -555,7 +555,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-16.jpg",
+   "cover": "covers/edge-16.jpg",
    "pages_rendered": false
   }
  },
@@ -590,7 +590,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-17.jpg",
+   "cover": "covers/edge-17.jpg",
    "pages_rendered": false
   }
  },
@@ -625,7 +625,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-18.jpg",
+   "cover": "covers/edge-18.jpg",
    "pages_rendered": false
   }
  },
@@ -660,7 +660,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-19.jpg",
+   "cover": "covers/edge-19.jpg",
    "pages_rendered": false
   }
  },
@@ -695,7 +695,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-20.jpg",
+   "cover": "covers/edge-20.jpg",
    "pages_rendered": false
   }
  },
@@ -730,7 +730,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-21.jpg",
+   "cover": "covers/edge-21.jpg",
    "pages_rendered": false
   }
  },
@@ -765,7 +765,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-22.jpg",
+   "cover": "covers/edge-22.jpg",
    "pages_rendered": false
   }
  },
@@ -800,7 +800,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-23.jpg",
+   "cover": "covers/edge-23.jpg",
    "pages_rendered": false
   }
  },
@@ -835,7 +835,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-199508-special-edition-1996-essential-hardware-guide.jpg",
+   "cover": "covers/edge-199508-special-edition-1996-essential-hardware-guide.jpg",
    "pages_rendered": false
   }
  },
@@ -870,7 +870,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-24.jpg",
+   "cover": "covers/edge-24.jpg",
    "pages_rendered": false
   }
  },
@@ -905,7 +905,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-25.jpg",
+   "cover": "covers/edge-25.jpg",
    "pages_rendered": false
   }
  },
@@ -940,7 +940,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-26.jpg",
+   "cover": "covers/edge-26.jpg",
    "pages_rendered": false
   }
  },
@@ -975,7 +975,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-27.jpg",
+   "cover": "covers/edge-27.jpg",
    "pages_rendered": false
   }
  },
@@ -1010,7 +1010,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-28.jpg",
+   "cover": "covers/edge-28.jpg",
    "pages_rendered": false
   }
  },
@@ -1045,7 +1045,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-29.jpg",
+   "cover": "covers/edge-29.jpg",
    "pages_rendered": false
   }
  },
@@ -1080,7 +1080,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-30.jpg",
+   "cover": "covers/edge-30.jpg",
    "pages_rendered": false
   }
  },
@@ -1115,7 +1115,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-31.jpg",
+   "cover": "covers/edge-31.jpg",
    "pages_rendered": false
   }
  },
@@ -1150,7 +1150,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-32.jpg",
+   "cover": "covers/edge-32.jpg",
    "pages_rendered": false
   }
  },
@@ -1185,7 +1185,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-33.jpg",
+   "cover": "covers/edge-33.jpg",
    "pages_rendered": false
   }
  },
@@ -1220,7 +1220,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-34.jpg",
+   "cover": "covers/edge-34.jpg",
    "pages_rendered": false
   }
  },
@@ -1255,7 +1255,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-35.jpg",
+   "cover": "covers/edge-35.jpg",
    "pages_rendered": false
   }
  },
@@ -1290,7 +1290,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-36.jpg",
+   "cover": "covers/edge-36.jpg",
    "pages_rendered": false
   }
  },
@@ -1325,7 +1325,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-37.jpg",
+   "cover": "covers/edge-37.jpg",
    "pages_rendered": false
   }
  },
@@ -1360,7 +1360,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-38.jpg",
+   "cover": "covers/edge-38.jpg",
    "pages_rendered": false
   }
  },
@@ -1395,7 +1395,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-39.jpg",
+   "cover": "covers/edge-39.jpg",
    "pages_rendered": false
   }
  },
@@ -1430,7 +1430,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-40.jpg",
+   "cover": "covers/edge-40.jpg",
    "pages_rendered": false
   }
  },
@@ -1465,7 +1465,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-41.jpg",
+   "cover": "covers/edge-41.jpg",
    "pages_rendered": false
   }
  },
@@ -1500,7 +1500,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-42.jpg",
+   "cover": "covers/edge-42.jpg",
    "pages_rendered": false
   }
  },
@@ -1535,7 +1535,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-43.jpg",
+   "cover": "covers/edge-43.jpg",
    "pages_rendered": false
   }
  },
@@ -1570,7 +1570,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-44.jpg",
+   "cover": "covers/edge-44.jpg",
    "pages_rendered": false
   }
  },
@@ -1605,7 +1605,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-45.jpg",
+   "cover": "covers/edge-45.jpg",
    "pages_rendered": false
   }
  },
@@ -1640,7 +1640,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-46.jpg",
+   "cover": "covers/edge-46.jpg",
    "pages_rendered": false
   }
  },
@@ -1675,7 +1675,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-47.jpg",
+   "cover": "covers/edge-47.jpg",
    "pages_rendered": false
   }
  },
@@ -1710,7 +1710,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-48.jpg",
+   "cover": "covers/edge-48.jpg",
    "pages_rendered": false
   }
  },
@@ -1745,7 +1745,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-49.jpg",
+   "cover": "covers/edge-49.jpg",
    "pages_rendered": false
   }
  },
@@ -1780,7 +1780,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-50.jpg",
+   "cover": "covers/edge-50.jpg",
    "pages_rendered": false
   }
  },
@@ -1815,7 +1815,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-51.jpg",
+   "cover": "covers/edge-51.jpg",
    "pages_rendered": false
   }
  },
@@ -1850,7 +1850,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-52.jpg",
+   "cover": "covers/edge-52.jpg",
    "pages_rendered": false
   }
  },
@@ -1885,7 +1885,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-53.jpg",
+   "cover": "covers/edge-53.jpg",
    "pages_rendered": false
   }
  },
@@ -1920,7 +1920,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-54.jpg",
+   "cover": "covers/edge-54.jpg",
    "pages_rendered": false
   }
  },
@@ -1955,7 +1955,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-55.jpg",
+   "cover": "covers/edge-55.jpg",
    "pages_rendered": false
   }
  },
@@ -1990,7 +1990,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-56.jpg",
+   "cover": "covers/edge-56.jpg",
    "pages_rendered": false
   }
  },
@@ -2025,7 +2025,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-57.jpg",
+   "cover": "covers/edge-57.jpg",
    "pages_rendered": false
   }
  },
@@ -2060,7 +2060,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-58.jpg",
+   "cover": "covers/edge-58.jpg",
    "pages_rendered": false
   }
  },
@@ -2095,7 +2095,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-59.jpg",
+   "cover": "covers/edge-59.jpg",
    "pages_rendered": false
   }
  },
@@ -2130,7 +2130,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-60.jpg",
+   "cover": "covers/edge-60.jpg",
    "pages_rendered": false
   }
  },
@@ -2165,7 +2165,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-61.jpg",
+   "cover": "covers/edge-61.jpg",
    "pages_rendered": false
   }
  },
@@ -2200,7 +2200,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-62.jpg",
+   "cover": "covers/edge-62.jpg",
    "pages_rendered": false
   }
  },
@@ -2235,7 +2235,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-63.jpg",
+   "cover": "covers/edge-63.jpg",
    "pages_rendered": false
   }
  },
@@ -2270,7 +2270,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-64.jpg",
+   "cover": "covers/edge-64.jpg",
    "pages_rendered": false
   }
  },
@@ -2305,7 +2305,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-65.jpg",
+   "cover": "covers/edge-65.jpg",
    "pages_rendered": false
   }
  },
@@ -2340,7 +2340,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-66.jpg",
+   "cover": "covers/edge-66.jpg",
    "pages_rendered": false
   }
  },
@@ -2375,7 +2375,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-67.jpg",
+   "cover": "covers/edge-67.jpg",
    "pages_rendered": false
   }
  },
@@ -2410,7 +2410,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-68.jpg",
+   "cover": "covers/edge-68.jpg",
    "pages_rendered": false
   }
  },
@@ -2445,7 +2445,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-69.jpg",
+   "cover": "covers/edge-69.jpg",
    "pages_rendered": false
   }
  },
@@ -2480,7 +2480,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-70.jpg",
+   "cover": "covers/edge-70.jpg",
    "pages_rendered": false
   }
  },
@@ -2515,7 +2515,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-71.jpg",
+   "cover": "covers/edge-71.jpg",
    "pages_rendered": false
   }
  },
@@ -2550,7 +2550,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-72.jpg",
+   "cover": "covers/edge-72.jpg",
    "pages_rendered": false
   }
  },
@@ -2585,7 +2585,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-73.jpg",
+   "cover": "covers/edge-73.jpg",
    "pages_rendered": false
   }
  },
@@ -2620,7 +2620,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-74.jpg",
+   "cover": "covers/edge-74.jpg",
    "pages_rendered": false
   }
  },
@@ -2655,7 +2655,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-75.jpg",
+   "cover": "covers/edge-75.jpg",
    "pages_rendered": false
   }
  },
@@ -2690,7 +2690,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-77.jpg",
+   "cover": "covers/edge-77.jpg",
    "pages_rendered": false
   }
  },
@@ -2725,7 +2725,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-76.jpg",
+   "cover": "covers/edge-76.jpg",
    "pages_rendered": false
   }
  },
@@ -2760,7 +2760,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-78.jpg",
+   "cover": "covers/edge-78.jpg",
    "pages_rendered": false
   }
  },
@@ -2795,7 +2795,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-79.jpg",
+   "cover": "covers/edge-79.jpg",
    "pages_rendered": false
   }
  },
@@ -2830,7 +2830,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-80.jpg",
+   "cover": "covers/edge-80.jpg",
    "pages_rendered": false
   }
  },
@@ -2865,7 +2865,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-81.jpg",
+   "cover": "covers/edge-81.jpg",
    "pages_rendered": false
   }
  },
@@ -2900,7 +2900,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-82.jpg",
+   "cover": "covers/edge-82.jpg",
    "pages_rendered": false
   }
  },
@@ -2935,7 +2935,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-83.jpg",
+   "cover": "covers/edge-83.jpg",
    "pages_rendered": false
   }
  },
@@ -2970,7 +2970,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-84.jpg",
+   "cover": "covers/edge-84.jpg",
    "pages_rendered": false
   }
  },
@@ -3005,7 +3005,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-85.jpg",
+   "cover": "covers/edge-85.jpg",
    "pages_rendered": false
   }
  },
@@ -3040,7 +3040,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-86.jpg",
+   "cover": "covers/edge-86.jpg",
    "pages_rendered": false
   }
  },
@@ -3075,7 +3075,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-87.jpg",
+   "cover": "covers/edge-87.jpg",
    "pages_rendered": false
   }
  },
@@ -3110,7 +3110,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-88.jpg",
+   "cover": "covers/edge-88.jpg",
    "pages_rendered": false
   }
  },
@@ -3145,7 +3145,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-89.jpg",
+   "cover": "covers/edge-89.jpg",
    "pages_rendered": false
   }
  },
@@ -3180,7 +3180,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-90.jpg",
+   "cover": "covers/edge-90.jpg",
    "pages_rendered": false
   }
  },
@@ -3215,7 +3215,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-91.jpg",
+   "cover": "covers/edge-91.jpg",
    "pages_rendered": false
   }
  },
@@ -3250,7 +3250,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-92.jpg",
+   "cover": "covers/edge-92.jpg",
    "pages_rendered": false
   }
  },
@@ -3285,7 +3285,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-2001-special-collectors-edition-2001.jpg",
+   "cover": "covers/edge-2001-special-collectors-edition-2001.jpg",
    "pages_rendered": false
   }
  },
@@ -3320,7 +3320,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-93.jpg",
+   "cover": "covers/edge-93.jpg",
    "pages_rendered": false
   }
  },
@@ -3355,7 +3355,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-94.jpg",
+   "cover": "covers/edge-94.jpg",
    "pages_rendered": false
   }
  },
@@ -3390,7 +3390,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-95.jpg",
+   "cover": "covers/edge-95.jpg",
    "pages_rendered": false
   }
  },
@@ -3425,7 +3425,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-96.jpg",
+   "cover": "covers/edge-96.jpg",
    "pages_rendered": false
   }
  },
@@ -3460,7 +3460,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-97.jpg",
+   "cover": "covers/edge-97.jpg",
    "pages_rendered": false
   }
  },
@@ -3495,7 +3495,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-98.jpg",
+   "cover": "covers/edge-98.jpg",
    "pages_rendered": false
   }
  },
@@ -3530,7 +3530,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-99.jpg",
+   "cover": "covers/edge-99.jpg",
    "pages_rendered": false
   }
  },
@@ -3565,7 +3565,7 @@
   },
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
-   "cover": "site/public/covers/edge-100.jpg",
+   "cover": "covers/edge-100.jpg",
    "pages_rendered": false
   }
  }

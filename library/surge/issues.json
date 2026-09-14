@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
-   "cover": "site/public/covers/surge-2.jpg",
+   "cover": "covers/surge-2.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
-   "cover": "site/public/covers/surge-3.jpg",
+   "cover": "covers/surge-3.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
-   "cover": "site/public/covers/surge-4.jpg",
+   "cover": "covers/surge-4.jpg",
    "pages_rendered": false
   }
  },
@@ -136,7 +136,7 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/surge-1.jpg",
+   "cover": "covers/surge-1.jpg",
    "pages_rendered": false
   }
  }

@@ -31,7 +31,7 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "special": "Premiere issue",
   "assets": {
-   "cover": "site/public/covers/the-cursor-199706-game-developer-life-premier-issue.jpg",
+   "cover": "covers/the-cursor-199706-game-developer-life-premier-issue.jpg",
    "pages_rendered": false
   }
  },
@@ -66,7 +66,7 @@
   },
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
-   "cover": "site/public/covers/the-cursor-199809-game-developer-life.jpg",
+   "cover": "covers/the-cursor-199809-game-developer-life.jpg",
    "pages_rendered": false
   }
  }

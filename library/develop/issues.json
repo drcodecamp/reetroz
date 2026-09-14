@@ -31,7 +31,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-134.jpg",
+   "cover": "covers/develop-134.jpg",
    "pages_rendered": false
   }
  },
@@ -67,7 +67,7 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "volume": 2,
   "assets": {
-   "cover": "site/public/covers/develop-2.jpg",
+   "cover": "covers/develop-2.jpg",
    "pages_rendered": false
   }
  },
@@ -102,7 +102,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-144.jpg",
+   "cover": "covers/develop-144.jpg",
    "pages_rendered": false
   }
  },
@@ -138,7 +138,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-145.jpg",
+   "cover": "covers/develop-145.jpg",
    "pages_rendered": false
   }
  },
@@ -174,7 +174,7 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/develop-1.jpg",
+   "cover": "covers/develop-1.jpg",
    "pages_rendered": false
   }
  },
@@ -209,7 +209,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-146.jpg",
+   "cover": "covers/develop-146.jpg",
    "pages_rendered": false
   }
  },
@@ -244,7 +244,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-147.jpg",
+   "cover": "covers/develop-147.jpg",
    "pages_rendered": false
   }
  },
@@ -279,7 +279,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-149.jpg",
+   "cover": "covers/develop-149.jpg",
    "pages_rendered": false
   }
  },
@@ -314,7 +314,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-150.jpg",
+   "cover": "covers/develop-150.jpg",
    "pages_rendered": false
   }
  },
@@ -349,7 +349,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-151.jpg",
+   "cover": "covers/develop-151.jpg",
    "pages_rendered": false
   }
  },
@@ -384,7 +384,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-201407-industry-excellent-awards-2014-supplement.jpg",
+   "cover": "covers/develop-201407-industry-excellent-awards-2014-supplement.jpg",
    "pages_rendered": false
   }
  },
@@ -419,7 +419,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-152.jpg",
+   "cover": "covers/develop-152.jpg",
    "pages_rendered": false
   }
  },
@@ -454,7 +454,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-153.jpg",
+   "cover": "covers/develop-153.jpg",
    "pages_rendered": false
   }
  },
@@ -489,7 +489,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-154.jpg",
+   "cover": "covers/develop-154.jpg",
    "pages_rendered": false
   }
  },
@@ -524,7 +524,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-155.jpg",
+   "cover": "covers/develop-155.jpg",
    "pages_rendered": false
   }
  },
@@ -560,7 +560,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-156.jpg",
+   "cover": "covers/develop-156.jpg",
    "pages_rendered": false
   }
  },
@@ -595,7 +595,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-2015-100-2015-the-studio-hot-list.jpg",
+   "cover": "covers/develop-2015-100-2015-the-studio-hot-list.jpg",
    "pages_rendered": false
   }
  },
@@ -630,7 +630,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-157.jpg",
+   "cover": "covers/develop-157.jpg",
    "pages_rendered": false
   }
  },
@@ -665,7 +665,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-158.jpg",
+   "cover": "covers/develop-158.jpg",
    "pages_rendered": false
   }
  },
@@ -700,7 +700,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-159.jpg",
+   "cover": "covers/develop-159.jpg",
    "pages_rendered": false
   }
  },
@@ -735,7 +735,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-160.jpg",
+   "cover": "covers/develop-160.jpg",
    "pages_rendered": false
   }
  },
@@ -770,7 +770,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-161.jpg",
+   "cover": "covers/develop-161.jpg",
    "pages_rendered": false
   }
  },
@@ -805,7 +805,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-162.jpg",
+   "cover": "covers/develop-162.jpg",
    "pages_rendered": false
   }
  },
@@ -840,7 +840,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-163.jpg",
+   "cover": "covers/develop-163.jpg",
    "pages_rendered": false
   }
  },
@@ -875,7 +875,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-164.jpg",
+   "cover": "covers/develop-164.jpg",
    "pages_rendered": false
   }
  },
@@ -910,7 +910,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-165.jpg",
+   "cover": "covers/develop-165.jpg",
    "pages_rendered": false
   }
  },
@@ -945,7 +945,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-166.jpg",
+   "cover": "covers/develop-166.jpg",
    "pages_rendered": false
   }
  },
@@ -981,7 +981,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-167.jpg",
+   "cover": "covers/develop-167.jpg",
    "pages_rendered": false
   }
  },
@@ -1016,7 +1016,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-168.jpg",
+   "cover": "covers/develop-168.jpg",
    "pages_rendered": false
   }
  },
@@ -1051,7 +1051,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-169.jpg",
+   "cover": "covers/develop-169.jpg",
    "pages_rendered": false
   }
  },
@@ -1086,7 +1086,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-170.jpg",
+   "cover": "covers/develop-170.jpg",
    "pages_rendered": false
   }
  },
@@ -1121,7 +1121,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-171.jpg",
+   "cover": "covers/develop-171.jpg",
    "pages_rendered": false
   }
  },
@@ -1156,7 +1156,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-172.jpg",
+   "cover": "covers/develop-172.jpg",
    "pages_rendered": false
   }
  },
@@ -1191,7 +1191,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-173.jpg",
+   "cover": "covers/develop-173.jpg",
    "pages_rendered": false
   }
  },
@@ -1226,7 +1226,7 @@
    "height_mm": 311.6
   },
   "assets": {
-   "cover": "site/public/covers/develop-174.jpg",
+   "cover": "covers/develop-174.jpg",
    "pages_rendered": false
   }
  },
@@ -1261,7 +1261,7 @@
   },
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
-   "cover": "site/public/covers/develop-175.jpg",
+   "cover": "covers/develop-175.jpg",
    "pages_rendered": false
   }
  }

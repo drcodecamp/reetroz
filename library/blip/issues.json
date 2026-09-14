@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
-   "cover": "site/public/covers/blip-1.jpg",
+   "cover": "covers/blip-1.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
-   "cover": "site/public/covers/blip-2.jpg",
+   "cover": "covers/blip-2.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
-   "cover": "site/public/covers/blip-3.jpg",
+   "cover": "covers/blip-3.jpg",
    "pages_rendered": false
   }
  },
@@ -135,7 +135,7 @@
   },
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
-   "cover": "site/public/covers/blip-4.jpg",
+   "cover": "covers/blip-4.jpg",
    "pages_rendered": false
   }
  },
@@ -170,7 +170,7 @@
   },
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
-   "cover": "site/public/covers/blip-5.jpg",
+   "cover": "covers/blip-5.jpg",
    "pages_rendered": false
   }
  },
@@ -205,7 +205,7 @@
   },
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
-   "cover": "site/public/covers/blip-6.jpg",
+   "cover": "covers/blip-6.jpg",
    "pages_rendered": false
   }
  },
@@ -240,7 +240,7 @@
   },
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
-   "cover": "site/public/covers/blip-7.jpg",
+   "cover": "covers/blip-7.jpg",
    "pages_rendered": false
   }
  }

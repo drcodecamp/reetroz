@@ -32,7 +32,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-1.jpg",
+   "cover": "covers/nintendo-power-1.jpg",
    "pages_rendered": false
   }
  },
@@ -69,7 +69,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 2,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-2.jpg",
+   "cover": "covers/nintendo-power-2.jpg",
    "pages_rendered": false
   }
  },
@@ -106,7 +106,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 3,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-3.jpg",
+   "cover": "covers/nintendo-power-3.jpg",
    "pages_rendered": false
   }
  },
@@ -143,7 +143,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 4,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-4.jpg",
+   "cover": "covers/nintendo-power-4.jpg",
    "pages_rendered": false
   }
  },
@@ -180,7 +180,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 5,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-5.jpg",
+   "cover": "covers/nintendo-power-5.jpg",
    "pages_rendered": false
   }
  },
@@ -217,7 +217,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 6,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-6.jpg",
+   "cover": "covers/nintendo-power-6.jpg",
    "pages_rendered": false
   }
  },
@@ -254,7 +254,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 7,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-7.jpg",
+   "cover": "covers/nintendo-power-7.jpg",
    "pages_rendered": false
   }
  },
@@ -291,7 +291,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 8,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-8.jpg",
+   "cover": "covers/nintendo-power-8.jpg",
    "pages_rendered": false
   }
  },
@@ -328,7 +328,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 9,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-9.jpg",
+   "cover": "covers/nintendo-power-9.jpg",
    "pages_rendered": false
   }
  },
@@ -365,7 +365,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 10,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-10.jpg",
+   "cover": "covers/nintendo-power-10.jpg",
    "pages_rendered": false
   }
  },
@@ -402,7 +402,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 11,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-11.jpg",
+   "cover": "covers/nintendo-power-11.jpg",
    "pages_rendered": false
   }
  },
@@ -439,7 +439,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 12,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-12.jpg",
+   "cover": "covers/nintendo-power-12.jpg",
    "pages_rendered": false
   }
  },
@@ -475,7 +475,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 13,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-13.jpg",
+   "cover": "covers/nintendo-power-13.jpg",
    "pages_rendered": false
   }
  },
@@ -512,7 +512,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 14,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-14.jpg",
+   "cover": "covers/nintendo-power-14.jpg",
    "pages_rendered": false
   }
  },
@@ -548,7 +548,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 15,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-15.jpg",
+   "cover": "covers/nintendo-power-15.jpg",
    "pages_rendered": false
   }
  },
@@ -585,7 +585,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 16,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-16.jpg",
+   "cover": "covers/nintendo-power-16.jpg",
    "pages_rendered": false
   }
  },
@@ -621,7 +621,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 17,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-17.jpg",
+   "cover": "covers/nintendo-power-17.jpg",
    "pages_rendered": false
   }
  },
@@ -658,7 +658,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 18,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-18.jpg",
+   "cover": "covers/nintendo-power-18.jpg",
    "pages_rendered": false
   }
  },
@@ -694,7 +694,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 19,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-19.jpg",
+   "cover": "covers/nintendo-power-19.jpg",
    "pages_rendered": false
   }
  },
@@ -730,7 +730,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 20,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-20.jpg",
+   "cover": "covers/nintendo-power-20.jpg",
    "pages_rendered": false
   }
  },
@@ -766,7 +766,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 21,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-21.jpg",
+   "cover": "covers/nintendo-power-21.jpg",
    "pages_rendered": false
   }
  },
@@ -802,7 +802,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 22,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-22.jpg",
+   "cover": "covers/nintendo-power-22.jpg",
    "pages_rendered": false
   }
  },
@@ -838,7 +838,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 23,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-23.jpg",
+   "cover": "covers/nintendo-power-23.jpg",
    "pages_rendered": false
   }
  },
@@ -874,7 +874,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 24,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-24.jpg",
+   "cover": "covers/nintendo-power-24.jpg",
    "pages_rendered": false
   }
  },
@@ -910,7 +910,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 25,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-25.jpg",
+   "cover": "covers/nintendo-power-25.jpg",
    "pages_rendered": false
   }
  },
@@ -946,7 +946,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 26,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-26.jpg",
+   "cover": "covers/nintendo-power-26.jpg",
    "pages_rendered": false
   }
  },
@@ -982,7 +982,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 27,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-27.jpg",
+   "cover": "covers/nintendo-power-27.jpg",
    "pages_rendered": false
   }
  },
@@ -1018,7 +1018,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 28,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-28.jpg",
+   "cover": "covers/nintendo-power-28.jpg",
    "pages_rendered": false
   }
  },
@@ -1054,7 +1054,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 29,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-29.jpg",
+   "cover": "covers/nintendo-power-29.jpg",
    "pages_rendered": false
   }
  },
@@ -1090,7 +1090,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 30,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-30.jpg",
+   "cover": "covers/nintendo-power-30.jpg",
    "pages_rendered": false
   }
  },
@@ -1126,7 +1126,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 31,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-31.jpg",
+   "cover": "covers/nintendo-power-31.jpg",
    "pages_rendered": false
   }
  },
@@ -1162,7 +1162,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 32,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-32.jpg",
+   "cover": "covers/nintendo-power-32.jpg",
    "pages_rendered": false
   }
  },
@@ -1198,7 +1198,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 33,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-33.jpg",
+   "cover": "covers/nintendo-power-33.jpg",
    "pages_rendered": false
   }
  },
@@ -1234,7 +1234,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 34,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-34.jpg",
+   "cover": "covers/nintendo-power-34.jpg",
    "pages_rendered": false
   }
  },
@@ -1270,7 +1270,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 35,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-35.jpg",
+   "cover": "covers/nintendo-power-35.jpg",
    "pages_rendered": false
   }
  },
@@ -1306,7 +1306,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 36,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-36.jpg",
+   "cover": "covers/nintendo-power-36.jpg",
    "pages_rendered": false
   }
  },
@@ -1342,7 +1342,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 37,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-37.jpg",
+   "cover": "covers/nintendo-power-37.jpg",
    "pages_rendered": false
   }
  },
@@ -1378,7 +1378,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 38,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-38.jpg",
+   "cover": "covers/nintendo-power-38.jpg",
    "pages_rendered": false
   }
  },
@@ -1414,7 +1414,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 39,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-39.jpg",
+   "cover": "covers/nintendo-power-39.jpg",
    "pages_rendered": false
   }
  },
@@ -1450,7 +1450,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 40,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-40.jpg",
+   "cover": "covers/nintendo-power-40.jpg",
    "pages_rendered": false
   }
  },
@@ -1486,7 +1486,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 41,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-41.jpg",
+   "cover": "covers/nintendo-power-41.jpg",
    "pages_rendered": false
   }
  },
@@ -1522,7 +1522,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 42,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-42.jpg",
+   "cover": "covers/nintendo-power-42.jpg",
    "pages_rendered": false
   }
  },
@@ -1558,7 +1558,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 43,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-43.jpg",
+   "cover": "covers/nintendo-power-43.jpg",
    "pages_rendered": false
   }
  },
@@ -1594,7 +1594,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 44,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-44.jpg",
+   "cover": "covers/nintendo-power-44.jpg",
    "pages_rendered": false
   }
  },
@@ -1630,7 +1630,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 45,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-45.jpg",
+   "cover": "covers/nintendo-power-45.jpg",
    "pages_rendered": false
   }
  },
@@ -1666,7 +1666,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 46,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-46.jpg",
+   "cover": "covers/nintendo-power-46.jpg",
    "pages_rendered": false
   }
  },
@@ -1702,7 +1702,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 47,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-47.jpg",
+   "cover": "covers/nintendo-power-47.jpg",
    "pages_rendered": false
   }
  },
@@ -1738,7 +1738,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 48,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-48.jpg",
+   "cover": "covers/nintendo-power-48.jpg",
    "pages_rendered": false
   }
  },
@@ -1774,7 +1774,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 49,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-49.jpg",
+   "cover": "covers/nintendo-power-49.jpg",
    "pages_rendered": false
   }
  },
@@ -1810,7 +1810,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 50,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-50.jpg",
+   "cover": "covers/nintendo-power-50.jpg",
    "pages_rendered": false
   }
  },
@@ -1846,7 +1846,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 51,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-51.jpg",
+   "cover": "covers/nintendo-power-51.jpg",
    "pages_rendered": false
   }
  },
@@ -1882,7 +1882,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 52,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-52.jpg",
+   "cover": "covers/nintendo-power-52.jpg",
    "pages_rendered": false
   }
  },
@@ -1918,7 +1918,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 53,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-53.jpg",
+   "cover": "covers/nintendo-power-53.jpg",
    "pages_rendered": false
   }
  },
@@ -1954,7 +1954,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 54,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-54.jpg",
+   "cover": "covers/nintendo-power-54.jpg",
    "pages_rendered": false
   }
  },
@@ -1990,7 +1990,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 55,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-55.jpg",
+   "cover": "covers/nintendo-power-55.jpg",
    "pages_rendered": false
   }
  },
@@ -2026,7 +2026,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 56,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-56.jpg",
+   "cover": "covers/nintendo-power-56.jpg",
    "pages_rendered": false
   }
  },
@@ -2062,7 +2062,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 57,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-57.jpg",
+   "cover": "covers/nintendo-power-57.jpg",
    "pages_rendered": false
   }
  },
@@ -2098,7 +2098,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 58,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-58.jpg",
+   "cover": "covers/nintendo-power-58.jpg",
    "pages_rendered": false
   }
  },
@@ -2134,7 +2134,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 59,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-59.jpg",
+   "cover": "covers/nintendo-power-59.jpg",
    "pages_rendered": false
   }
  },
@@ -2170,7 +2170,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 60,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-60.jpg",
+   "cover": "covers/nintendo-power-60.jpg",
    "pages_rendered": false
   }
  },
@@ -2206,7 +2206,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 61,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-61.jpg",
+   "cover": "covers/nintendo-power-61.jpg",
    "pages_rendered": false
   }
  },
@@ -2242,7 +2242,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 62,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-62.jpg",
+   "cover": "covers/nintendo-power-62.jpg",
    "pages_rendered": false
   }
  },
@@ -2278,7 +2278,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 63,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-63.jpg",
+   "cover": "covers/nintendo-power-63.jpg",
    "pages_rendered": false
   }
  },
@@ -2314,7 +2314,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 64,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-64.jpg",
+   "cover": "covers/nintendo-power-64.jpg",
    "pages_rendered": false
   }
  },
@@ -2350,7 +2350,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 65,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-65.jpg",
+   "cover": "covers/nintendo-power-65.jpg",
    "pages_rendered": false
   }
  },
@@ -2386,7 +2386,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 66,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-66.jpg",
+   "cover": "covers/nintendo-power-66.jpg",
    "pages_rendered": false
   }
  },
@@ -2422,7 +2422,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 67,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-67.jpg",
+   "cover": "covers/nintendo-power-67.jpg",
    "pages_rendered": false
   }
  },
@@ -2458,7 +2458,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 68,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-68.jpg",
+   "cover": "covers/nintendo-power-68.jpg",
    "pages_rendered": false
   }
  },
@@ -2494,7 +2494,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 69,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-69.jpg",
+   "cover": "covers/nintendo-power-69.jpg",
    "pages_rendered": false
   }
  },
@@ -2530,7 +2530,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 70,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-70.jpg",
+   "cover": "covers/nintendo-power-70.jpg",
    "pages_rendered": false
   }
  },
@@ -2566,7 +2566,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 71,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-71.jpg",
+   "cover": "covers/nintendo-power-71.jpg",
    "pages_rendered": false
   }
  },
@@ -2602,7 +2602,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 72,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-72.jpg",
+   "cover": "covers/nintendo-power-72.jpg",
    "pages_rendered": false
   }
  },
@@ -2638,7 +2638,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 73,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-73.jpg",
+   "cover": "covers/nintendo-power-73.jpg",
    "pages_rendered": false
   }
  },
@@ -2674,7 +2674,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 74,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-74.jpg",
+   "cover": "covers/nintendo-power-74.jpg",
    "pages_rendered": false
   }
  },
@@ -2710,7 +2710,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 75,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-75.jpg",
+   "cover": "covers/nintendo-power-75.jpg",
    "pages_rendered": false
   }
  },
@@ -2746,7 +2746,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 76,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-76.jpg",
+   "cover": "covers/nintendo-power-76.jpg",
    "pages_rendered": false
   }
  },
@@ -2782,7 +2782,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 77,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-77.jpg",
+   "cover": "covers/nintendo-power-77.jpg",
    "pages_rendered": false
   }
  },
@@ -2818,7 +2818,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 78,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-78.jpg",
+   "cover": "covers/nintendo-power-78.jpg",
    "pages_rendered": false
   }
  },
@@ -2854,7 +2854,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 79,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-79.jpg",
+   "cover": "covers/nintendo-power-79.jpg",
    "pages_rendered": false
   }
  },
@@ -2890,7 +2890,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 80,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-80.jpg",
+   "cover": "covers/nintendo-power-80.jpg",
    "pages_rendered": false
   }
  },
@@ -2926,7 +2926,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 81,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-81.jpg",
+   "cover": "covers/nintendo-power-81.jpg",
    "pages_rendered": false
   }
  },
@@ -2962,7 +2962,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 82,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-82.jpg",
+   "cover": "covers/nintendo-power-82.jpg",
    "pages_rendered": false
   }
  },
@@ -2998,7 +2998,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 83,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-83.jpg",
+   "cover": "covers/nintendo-power-83.jpg",
    "pages_rendered": false
   }
  },
@@ -3034,7 +3034,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 84,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-84.jpg",
+   "cover": "covers/nintendo-power-84.jpg",
    "pages_rendered": false
   }
  },
@@ -3070,7 +3070,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 85,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-85.jpg",
+   "cover": "covers/nintendo-power-85.jpg",
    "pages_rendered": false
   }
  },
@@ -3106,7 +3106,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 86,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-86.jpg",
+   "cover": "covers/nintendo-power-86.jpg",
    "pages_rendered": false
   }
  },
@@ -3142,7 +3142,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 87,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-87.jpg",
+   "cover": "covers/nintendo-power-87.jpg",
    "pages_rendered": false
   }
  },
@@ -3178,7 +3178,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 88,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-88.jpg",
+   "cover": "covers/nintendo-power-88.jpg",
    "pages_rendered": false
   }
  },
@@ -3214,7 +3214,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 89,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-89.jpg",
+   "cover": "covers/nintendo-power-89.jpg",
    "pages_rendered": false
   }
  },
@@ -3250,7 +3250,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 90,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-90.jpg",
+   "cover": "covers/nintendo-power-90.jpg",
    "pages_rendered": false
   }
  },
@@ -3286,7 +3286,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 91,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-91.jpg",
+   "cover": "covers/nintendo-power-91.jpg",
    "pages_rendered": false
   }
  },
@@ -3322,7 +3322,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 92,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-92.jpg",
+   "cover": "covers/nintendo-power-92.jpg",
    "pages_rendered": false
   }
  },
@@ -3358,7 +3358,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 93,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-93.jpg",
+   "cover": "covers/nintendo-power-93.jpg",
    "pages_rendered": false
   }
  },
@@ -3394,7 +3394,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 94,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-94.jpg",
+   "cover": "covers/nintendo-power-94.jpg",
    "pages_rendered": false
   }
  },
@@ -3430,7 +3430,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 95,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-95.jpg",
+   "cover": "covers/nintendo-power-95.jpg",
    "pages_rendered": false
   }
  },
@@ -3466,7 +3466,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 96,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-96.jpg",
+   "cover": "covers/nintendo-power-96.jpg",
    "pages_rendered": false
   }
  },
@@ -3502,7 +3502,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 97,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-97.jpg",
+   "cover": "covers/nintendo-power-97.jpg",
    "pages_rendered": false
   }
  },
@@ -3538,7 +3538,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 98,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-98.jpg",
+   "cover": "covers/nintendo-power-98.jpg",
    "pages_rendered": false
   }
  },
@@ -3574,7 +3574,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 99,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-99.jpg",
+   "cover": "covers/nintendo-power-99.jpg",
    "pages_rendered": false
   }
  },
@@ -3610,7 +3610,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 100,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-100.jpg",
+   "cover": "covers/nintendo-power-100.jpg",
    "pages_rendered": false
   }
  },
@@ -3646,7 +3646,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 101,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-101.jpg",
+   "cover": "covers/nintendo-power-101.jpg",
    "pages_rendered": false
   }
  },
@@ -3682,7 +3682,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 102,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-102.jpg",
+   "cover": "covers/nintendo-power-102.jpg",
    "pages_rendered": false
   }
  },
@@ -3718,7 +3718,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 103,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-103.jpg",
+   "cover": "covers/nintendo-power-103.jpg",
    "pages_rendered": false
   }
  },
@@ -3754,7 +3754,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 104,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-104.jpg",
+   "cover": "covers/nintendo-power-104.jpg",
    "pages_rendered": false
   }
  },
@@ -3790,7 +3790,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 105,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-105.jpg",
+   "cover": "covers/nintendo-power-105.jpg",
    "pages_rendered": false
   }
  },
@@ -3826,7 +3826,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 106,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-106.jpg",
+   "cover": "covers/nintendo-power-106.jpg",
    "pages_rendered": false
   }
  },
@@ -3862,7 +3862,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 107,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-107.jpg",
+   "cover": "covers/nintendo-power-107.jpg",
    "pages_rendered": false
   }
  },
@@ -3898,7 +3898,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 108,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-108.jpg",
+   "cover": "covers/nintendo-power-108.jpg",
    "pages_rendered": false
   }
  },
@@ -3934,7 +3934,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 109,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-109.jpg",
+   "cover": "covers/nintendo-power-109.jpg",
    "pages_rendered": false
   }
  },
@@ -3970,7 +3970,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 110,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-110.jpg",
+   "cover": "covers/nintendo-power-110.jpg",
    "pages_rendered": false
   }
  },
@@ -4006,7 +4006,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 111,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-111.jpg",
+   "cover": "covers/nintendo-power-111.jpg",
    "pages_rendered": false
   }
  },
@@ -4042,7 +4042,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 112,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-112.jpg",
+   "cover": "covers/nintendo-power-112.jpg",
    "pages_rendered": false
   }
  },
@@ -4078,7 +4078,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 113,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-113.jpg",
+   "cover": "covers/nintendo-power-113.jpg",
    "pages_rendered": false
   }
  },
@@ -4114,7 +4114,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 114,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-114.jpg",
+   "cover": "covers/nintendo-power-114.jpg",
    "pages_rendered": false
   }
  },
@@ -4150,7 +4150,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 115,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-115.jpg",
+   "cover": "covers/nintendo-power-115.jpg",
    "pages_rendered": false
   }
  },
@@ -4186,7 +4186,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 116,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-116.jpg",
+   "cover": "covers/nintendo-power-116.jpg",
    "pages_rendered": false
   }
  },
@@ -4222,7 +4222,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 117,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-117.jpg",
+   "cover": "covers/nintendo-power-117.jpg",
    "pages_rendered": false
   }
  },
@@ -4258,7 +4258,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 118,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-118.jpg",
+   "cover": "covers/nintendo-power-118.jpg",
    "pages_rendered": false
   }
  },
@@ -4294,7 +4294,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 119,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-119.jpg",
+   "cover": "covers/nintendo-power-119.jpg",
    "pages_rendered": false
   }
  },
@@ -4330,7 +4330,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 120,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-120.jpg",
+   "cover": "covers/nintendo-power-120.jpg",
    "pages_rendered": false
   }
  },
@@ -4366,7 +4366,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 121,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-121.jpg",
+   "cover": "covers/nintendo-power-121.jpg",
    "pages_rendered": false
   }
  },
@@ -4402,7 +4402,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 122,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-122.jpg",
+   "cover": "covers/nintendo-power-122.jpg",
    "pages_rendered": false
   }
  },
@@ -4438,7 +4438,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 123,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-123.jpg",
+   "cover": "covers/nintendo-power-123.jpg",
    "pages_rendered": false
   }
  },
@@ -4474,7 +4474,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 124,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-124.jpg",
+   "cover": "covers/nintendo-power-124.jpg",
    "pages_rendered": false
   }
  },
@@ -4510,7 +4510,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 125,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-125.jpg",
+   "cover": "covers/nintendo-power-125.jpg",
    "pages_rendered": false
   }
  },
@@ -4546,7 +4546,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 126,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-126.jpg",
+   "cover": "covers/nintendo-power-126.jpg",
    "pages_rendered": false
   }
  },
@@ -4582,7 +4582,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 127,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-127.jpg",
+   "cover": "covers/nintendo-power-127.jpg",
    "pages_rendered": false
   }
  },
@@ -4618,7 +4618,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 128,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-128.jpg",
+   "cover": "covers/nintendo-power-128.jpg",
    "pages_rendered": false
   }
  },
@@ -4654,7 +4654,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 129,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-129.jpg",
+   "cover": "covers/nintendo-power-129.jpg",
    "pages_rendered": false
   }
  },
@@ -4690,7 +4690,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 130,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-130.jpg",
+   "cover": "covers/nintendo-power-130.jpg",
    "pages_rendered": false
   }
  },
@@ -4726,7 +4726,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 131,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-131.jpg",
+   "cover": "covers/nintendo-power-131.jpg",
    "pages_rendered": false
   }
  },
@@ -4762,7 +4762,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 132,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-132.jpg",
+   "cover": "covers/nintendo-power-132.jpg",
    "pages_rendered": false
   }
  },
@@ -4798,7 +4798,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 133,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-133.jpg",
+   "cover": "covers/nintendo-power-133.jpg",
    "pages_rendered": false
   }
  },
@@ -4834,7 +4834,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 134,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-134.jpg",
+   "cover": "covers/nintendo-power-134.jpg",
    "pages_rendered": false
   }
  },
@@ -4870,7 +4870,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 135,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-135.jpg",
+   "cover": "covers/nintendo-power-135.jpg",
    "pages_rendered": false
   }
  },
@@ -4906,7 +4906,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 136,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-136.jpg",
+   "cover": "covers/nintendo-power-136.jpg",
    "pages_rendered": false
   }
  },
@@ -4942,7 +4942,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 137,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-137.jpg",
+   "cover": "covers/nintendo-power-137.jpg",
    "pages_rendered": false
   }
  },
@@ -4978,7 +4978,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 138,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-138.jpg",
+   "cover": "covers/nintendo-power-138.jpg",
    "pages_rendered": false
   }
  },
@@ -5014,7 +5014,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 139,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-139.jpg",
+   "cover": "covers/nintendo-power-139.jpg",
    "pages_rendered": false
   }
  },
@@ -5050,7 +5050,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 140,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-140.jpg",
+   "cover": "covers/nintendo-power-140.jpg",
    "pages_rendered": false
   }
  },
@@ -5086,7 +5086,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 141,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-141.jpg",
+   "cover": "covers/nintendo-power-141.jpg",
    "pages_rendered": false
   }
  },
@@ -5122,7 +5122,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-1-2.jpg",
+   "cover": "covers/nintendo-power-1-2.jpg",
    "pages_rendered": false
   }
  },
@@ -5158,7 +5158,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 142,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-142.jpg",
+   "cover": "covers/nintendo-power-142.jpg",
    "pages_rendered": false
   }
  },
@@ -5194,7 +5194,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 143,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-143.jpg",
+   "cover": "covers/nintendo-power-143.jpg",
    "pages_rendered": false
   }
  },
@@ -5230,7 +5230,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 144,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-144.jpg",
+   "cover": "covers/nintendo-power-144.jpg",
    "pages_rendered": false
   }
  },
@@ -5266,7 +5266,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 2,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-2-2.jpg",
+   "cover": "covers/nintendo-power-2-2.jpg",
    "pages_rendered": false
   }
  },
@@ -5302,7 +5302,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 145,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-145.jpg",
+   "cover": "covers/nintendo-power-145.jpg",
    "pages_rendered": false
   }
  },
@@ -5338,7 +5338,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 146,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-146.jpg",
+   "cover": "covers/nintendo-power-146.jpg",
    "pages_rendered": false
   }
  },
@@ -5374,7 +5374,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 147,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-147.jpg",
+   "cover": "covers/nintendo-power-147.jpg",
    "pages_rendered": false
   }
  },
@@ -5410,7 +5410,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 3,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-3-2.jpg",
+   "cover": "covers/nintendo-power-3-2.jpg",
    "pages_rendered": false
   }
  },
@@ -5446,7 +5446,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 148,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-148.jpg",
+   "cover": "covers/nintendo-power-148.jpg",
    "pages_rendered": false
   }
  },
@@ -5482,7 +5482,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 149,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-149.jpg",
+   "cover": "covers/nintendo-power-149.jpg",
    "pages_rendered": false
   }
  },
@@ -5518,7 +5518,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 150,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-150.jpg",
+   "cover": "covers/nintendo-power-150.jpg",
    "pages_rendered": false
   }
  },
@@ -5554,7 +5554,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 151,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-151.jpg",
+   "cover": "covers/nintendo-power-151.jpg",
    "pages_rendered": false
   }
  },
@@ -5590,7 +5590,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 152,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-152.jpg",
+   "cover": "covers/nintendo-power-152.jpg",
    "pages_rendered": false
   }
  },
@@ -5626,7 +5626,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 153,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-153.jpg",
+   "cover": "covers/nintendo-power-153.jpg",
    "pages_rendered": false
   }
  },
@@ -5662,7 +5662,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 154,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-154.jpg",
+   "cover": "covers/nintendo-power-154.jpg",
    "pages_rendered": false
   }
  },
@@ -5698,7 +5698,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 155,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-155.jpg",
+   "cover": "covers/nintendo-power-155.jpg",
    "pages_rendered": false
   }
  },
@@ -5734,7 +5734,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 156,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-156.jpg",
+   "cover": "covers/nintendo-power-156.jpg",
    "pages_rendered": false
   }
  },
@@ -5770,7 +5770,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 157,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-157.jpg",
+   "cover": "covers/nintendo-power-157.jpg",
    "pages_rendered": false
   }
  },
@@ -5806,7 +5806,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 158,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-158.jpg",
+   "cover": "covers/nintendo-power-158.jpg",
    "pages_rendered": false
   }
  },
@@ -5842,7 +5842,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 159,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-159.jpg",
+   "cover": "covers/nintendo-power-159.jpg",
    "pages_rendered": false
   }
  },
@@ -5878,7 +5878,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 160,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-160.jpg",
+   "cover": "covers/nintendo-power-160.jpg",
    "pages_rendered": false
   }
  },
@@ -5914,7 +5914,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 161,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-161.jpg",
+   "cover": "covers/nintendo-power-161.jpg",
    "pages_rendered": false
   }
  },
@@ -5950,7 +5950,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 162,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-162.jpg",
+   "cover": "covers/nintendo-power-162.jpg",
    "pages_rendered": false
   }
  },
@@ -5986,7 +5986,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 4,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-4-2.jpg",
+   "cover": "covers/nintendo-power-4-2.jpg",
    "pages_rendered": false
   }
  },
@@ -6022,7 +6022,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 163,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-163.jpg",
+   "cover": "covers/nintendo-power-163.jpg",
    "pages_rendered": false
   }
  },
@@ -6058,7 +6058,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 164,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-164.jpg",
+   "cover": "covers/nintendo-power-164.jpg",
    "pages_rendered": false
   }
  },
@@ -6094,7 +6094,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 165,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-165.jpg",
+   "cover": "covers/nintendo-power-165.jpg",
    "pages_rendered": false
   }
  },
@@ -6130,7 +6130,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 166,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-166.jpg",
+   "cover": "covers/nintendo-power-166.jpg",
    "pages_rendered": false
   }
  },
@@ -6166,7 +6166,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 167,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-167.jpg",
+   "cover": "covers/nintendo-power-167.jpg",
    "pages_rendered": false
   }
  },
@@ -6202,7 +6202,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 168,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-168.jpg",
+   "cover": "covers/nintendo-power-168.jpg",
    "pages_rendered": false
   }
  },
@@ -6238,7 +6238,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 169,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-169.jpg",
+   "cover": "covers/nintendo-power-169.jpg",
    "pages_rendered": false
   }
  },
@@ -6275,7 +6275,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 170,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-170.jpg",
+   "cover": "covers/nintendo-power-170.jpg",
    "pages_rendered": false
   }
  },
@@ -6311,7 +6311,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 171,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-171.jpg",
+   "cover": "covers/nintendo-power-171.jpg",
    "pages_rendered": false
   }
  },
@@ -6347,7 +6347,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 172,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-172.jpg",
+   "cover": "covers/nintendo-power-172.jpg",
    "pages_rendered": false
   }
  },
@@ -6383,7 +6383,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 173,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-173.jpg",
+   "cover": "covers/nintendo-power-173.jpg",
    "pages_rendered": false
   }
  },
@@ -6419,7 +6419,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 174,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-174.jpg",
+   "cover": "covers/nintendo-power-174.jpg",
    "pages_rendered": false
   }
  },
@@ -6455,7 +6455,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 175,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-175.jpg",
+   "cover": "covers/nintendo-power-175.jpg",
    "pages_rendered": false
   }
  },
@@ -6491,7 +6491,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 176,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-176.jpg",
+   "cover": "covers/nintendo-power-176.jpg",
    "pages_rendered": false
   }
  },
@@ -6527,7 +6527,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 177,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-177.jpg",
+   "cover": "covers/nintendo-power-177.jpg",
    "pages_rendered": false
   }
  },
@@ -6563,7 +6563,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 178,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-178.jpg",
+   "cover": "covers/nintendo-power-178.jpg",
    "pages_rendered": false
   }
  },
@@ -6599,7 +6599,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 179,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-179.jpg",
+   "cover": "covers/nintendo-power-179.jpg",
    "pages_rendered": false
   }
  },
@@ -6635,7 +6635,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 180,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-180.jpg",
+   "cover": "covers/nintendo-power-180.jpg",
    "pages_rendered": false
   }
  },
@@ -6671,7 +6671,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 181,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-181.jpg",
+   "cover": "covers/nintendo-power-181.jpg",
    "pages_rendered": false
   }
  },
@@ -6707,7 +6707,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 182,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-182.jpg",
+   "cover": "covers/nintendo-power-182.jpg",
    "pages_rendered": false
   }
  },
@@ -6743,7 +6743,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 183,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-183.jpg",
+   "cover": "covers/nintendo-power-183.jpg",
    "pages_rendered": false
   }
  },
@@ -6779,7 +6779,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 184,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-184.jpg",
+   "cover": "covers/nintendo-power-184.jpg",
    "pages_rendered": false
   }
  },
@@ -6815,7 +6815,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 185,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-185.jpg",
+   "cover": "covers/nintendo-power-185.jpg",
    "pages_rendered": false
   }
  },
@@ -6851,7 +6851,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 186,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-186.jpg",
+   "cover": "covers/nintendo-power-186.jpg",
    "pages_rendered": false
   }
  },
@@ -6887,7 +6887,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 187,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-187.jpg",
+   "cover": "covers/nintendo-power-187.jpg",
    "pages_rendered": false
   }
  },
@@ -6923,7 +6923,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 188,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-188.jpg",
+   "cover": "covers/nintendo-power-188.jpg",
    "pages_rendered": false
   }
  },
@@ -6959,7 +6959,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 189,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-189.jpg",
+   "cover": "covers/nintendo-power-189.jpg",
    "pages_rendered": false
   }
  },
@@ -6995,7 +6995,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 190,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-190.jpg",
+   "cover": "covers/nintendo-power-190.jpg",
    "pages_rendered": false
   }
  },
@@ -7031,7 +7031,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 191,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-191.jpg",
+   "cover": "covers/nintendo-power-191.jpg",
    "pages_rendered": false
   }
  },
@@ -7067,7 +7067,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 192,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-192.jpg",
+   "cover": "covers/nintendo-power-192.jpg",
    "pages_rendered": false
   }
  },
@@ -7103,7 +7103,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 193,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-193.jpg",
+   "cover": "covers/nintendo-power-193.jpg",
    "pages_rendered": false
   }
  },
@@ -7139,7 +7139,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 194,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-194.jpg",
+   "cover": "covers/nintendo-power-194.jpg",
    "pages_rendered": false
   }
  },
@@ -7175,7 +7175,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 195,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-195.jpg",
+   "cover": "covers/nintendo-power-195.jpg",
    "pages_rendered": false
   }
  },
@@ -7211,7 +7211,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 196,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-196.jpg",
+   "cover": "covers/nintendo-power-196.jpg",
    "pages_rendered": false
   }
  },
@@ -7247,7 +7247,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 197,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-197.jpg",
+   "cover": "covers/nintendo-power-197.jpg",
    "pages_rendered": false
   }
  },
@@ -7283,7 +7283,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 198,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-198.jpg",
+   "cover": "covers/nintendo-power-198.jpg",
    "pages_rendered": false
   }
  },
@@ -7319,7 +7319,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 199,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-199.jpg",
+   "cover": "covers/nintendo-power-199.jpg",
    "pages_rendered": false
   }
  },
@@ -7355,7 +7355,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 200,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-200.jpg",
+   "cover": "covers/nintendo-power-200.jpg",
    "pages_rendered": false
   }
  },
@@ -7391,7 +7391,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 201,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-201.jpg",
+   "cover": "covers/nintendo-power-201.jpg",
    "pages_rendered": false
   }
  },
@@ -7427,7 +7427,7 @@
   },
   "volume": 202,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-202.jpg",
+   "cover": "covers/nintendo-power-202.jpg",
    "pages_rendered": false
   }
  },
@@ -7463,7 +7463,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 203,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-203.jpg",
+   "cover": "covers/nintendo-power-203.jpg",
    "pages_rendered": false
   }
  },
@@ -7499,7 +7499,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 204,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-204.jpg",
+   "cover": "covers/nintendo-power-204.jpg",
    "pages_rendered": false
   }
  },
@@ -7535,7 +7535,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 205,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-205.jpg",
+   "cover": "covers/nintendo-power-205.jpg",
    "pages_rendered": false
   }
  },
@@ -7571,7 +7571,7 @@
   },
   "volume": 206,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-206.jpg",
+   "cover": "covers/nintendo-power-206.jpg",
    "pages_rendered": false
   }
  },
@@ -7607,7 +7607,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 207,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-207.jpg",
+   "cover": "covers/nintendo-power-207.jpg",
    "pages_rendered": false
   }
  },
@@ -7643,7 +7643,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 208,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-208.jpg",
+   "cover": "covers/nintendo-power-208.jpg",
    "pages_rendered": false
   }
  },
@@ -7679,7 +7679,7 @@
   },
   "volume": 209,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-209.jpg",
+   "cover": "covers/nintendo-power-209.jpg",
    "pages_rendered": false
   }
  },
@@ -7715,7 +7715,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 210,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-210.jpg",
+   "cover": "covers/nintendo-power-210.jpg",
    "pages_rendered": false
   }
  },
@@ -7751,7 +7751,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 211,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-211.jpg",
+   "cover": "covers/nintendo-power-211.jpg",
    "pages_rendered": false
   }
  },
@@ -7787,7 +7787,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 212,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-212.jpg",
+   "cover": "covers/nintendo-power-212.jpg",
    "pages_rendered": false
   }
  },
@@ -7823,7 +7823,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 213,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-213.jpg",
+   "cover": "covers/nintendo-power-213.jpg",
    "pages_rendered": false
   }
  },
@@ -7859,7 +7859,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 214,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-214.jpg",
+   "cover": "covers/nintendo-power-214.jpg",
    "pages_rendered": false
   }
  },
@@ -7895,7 +7895,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 215,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-215.jpg",
+   "cover": "covers/nintendo-power-215.jpg",
    "pages_rendered": false
   }
  },
@@ -7931,7 +7931,7 @@
   },
   "volume": 216,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-216.jpg",
+   "cover": "covers/nintendo-power-216.jpg",
    "pages_rendered": false
   }
  },
@@ -7967,7 +7967,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 217,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-217.jpg",
+   "cover": "covers/nintendo-power-217.jpg",
    "pages_rendered": false
   }
  },
@@ -8003,7 +8003,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 218,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-218.jpg",
+   "cover": "covers/nintendo-power-218.jpg",
    "pages_rendered": false
   }
  },
@@ -8039,7 +8039,7 @@
   },
   "volume": 219,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-219.jpg",
+   "cover": "covers/nintendo-power-219.jpg",
    "pages_rendered": false
   }
  },
@@ -8075,7 +8075,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 220,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-220.jpg",
+   "cover": "covers/nintendo-power-220.jpg",
    "pages_rendered": false
   }
  },
@@ -8111,7 +8111,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 221,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-221.jpg",
+   "cover": "covers/nintendo-power-221.jpg",
    "pages_rendered": false
   }
  },
@@ -8147,7 +8147,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 222,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-222.jpg",
+   "cover": "covers/nintendo-power-222.jpg",
    "pages_rendered": false
   }
  },
@@ -8183,7 +8183,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 223,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-223.jpg",
+   "cover": "covers/nintendo-power-223.jpg",
    "pages_rendered": false
   }
  },
@@ -8219,7 +8219,7 @@
   },
   "volume": 224,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-224.jpg",
+   "cover": "covers/nintendo-power-224.jpg",
    "pages_rendered": false
   }
  },
@@ -8255,7 +8255,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 225,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-225.jpg",
+   "cover": "covers/nintendo-power-225.jpg",
    "pages_rendered": false
   }
  },
@@ -8291,7 +8291,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 226,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-226.jpg",
+   "cover": "covers/nintendo-power-226.jpg",
    "pages_rendered": false
   }
  },
@@ -8327,7 +8327,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 227,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-227.jpg",
+   "cover": "covers/nintendo-power-227.jpg",
    "pages_rendered": false
   }
  },
@@ -8363,7 +8363,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 228,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-228.jpg",
+   "cover": "covers/nintendo-power-228.jpg",
    "pages_rendered": false
   }
  },
@@ -8399,7 +8399,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 229,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-229.jpg",
+   "cover": "covers/nintendo-power-229.jpg",
    "pages_rendered": false
   }
  },
@@ -8435,7 +8435,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 230,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-230.jpg",
+   "cover": "covers/nintendo-power-230.jpg",
    "pages_rendered": false
   }
  },
@@ -8471,7 +8471,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 231,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-231.jpg",
+   "cover": "covers/nintendo-power-231.jpg",
    "pages_rendered": false
   }
  },
@@ -8507,7 +8507,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 232,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-232.jpg",
+   "cover": "covers/nintendo-power-232.jpg",
    "pages_rendered": false
   }
  },
@@ -8543,7 +8543,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 233,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-233.jpg",
+   "cover": "covers/nintendo-power-233.jpg",
    "pages_rendered": false
   }
  },
@@ -8579,7 +8579,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 234,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-234.jpg",
+   "cover": "covers/nintendo-power-234.jpg",
    "pages_rendered": false
   }
  },
@@ -8615,7 +8615,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 235,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-235.jpg",
+   "cover": "covers/nintendo-power-235.jpg",
    "pages_rendered": false
   }
  },
@@ -8651,7 +8651,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 236,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-236.jpg",
+   "cover": "covers/nintendo-power-236.jpg",
    "pages_rendered": false
   }
  },
@@ -8686,7 +8686,7 @@
   },
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
-   "cover": "site/public/covers/nintendo-power-2009-20-years-of-nintendo-power.jpg",
+   "cover": "covers/nintendo-power-2009-20-years-of-nintendo-power.jpg",
    "pages_rendered": false
   }
  },
@@ -8722,7 +8722,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 237,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-237.jpg",
+   "cover": "covers/nintendo-power-237.jpg",
    "pages_rendered": false
   }
  },
@@ -8758,7 +8758,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 238,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-238.jpg",
+   "cover": "covers/nintendo-power-238.jpg",
    "pages_rendered": false
   }
  },
@@ -8794,7 +8794,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 239,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-239.jpg",
+   "cover": "covers/nintendo-power-239.jpg",
    "pages_rendered": false
   }
  },
@@ -8830,7 +8830,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 240,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-240.jpg",
+   "cover": "covers/nintendo-power-240.jpg",
    "pages_rendered": false
   }
  },
@@ -8866,7 +8866,7 @@
   },
   "volume": 241,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-241.jpg",
+   "cover": "covers/nintendo-power-241.jpg",
    "pages_rendered": false
   }
  },
@@ -8902,7 +8902,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 242,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-242.jpg",
+   "cover": "covers/nintendo-power-242.jpg",
    "pages_rendered": false
   }
  },
@@ -8938,7 +8938,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 243,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-243.jpg",
+   "cover": "covers/nintendo-power-243.jpg",
    "pages_rendered": false
   }
  },
@@ -8974,7 +8974,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 244,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-244.jpg",
+   "cover": "covers/nintendo-power-244.jpg",
    "pages_rendered": false
   }
  },
@@ -9010,7 +9010,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 245,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-245.jpg",
+   "cover": "covers/nintendo-power-245.jpg",
    "pages_rendered": false
   }
  },
@@ -9046,7 +9046,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 246,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-246.jpg",
+   "cover": "covers/nintendo-power-246.jpg",
    "pages_rendered": false
   }
  },
@@ -9082,7 +9082,7 @@
   },
   "volume": 247,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-247.jpg",
+   "cover": "covers/nintendo-power-247.jpg",
    "pages_rendered": false
   }
  },
@@ -9118,7 +9118,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 248,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-248.jpg",
+   "cover": "covers/nintendo-power-248.jpg",
    "pages_rendered": false
   }
  },
@@ -9154,7 +9154,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 249,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-249.jpg",
+   "cover": "covers/nintendo-power-249.jpg",
    "pages_rendered": false
   }
  },
@@ -9189,7 +9189,7 @@
   },
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
-   "cover": "site/public/covers/nintendo-power-2010-the-official-guide-to-mario.jpg",
+   "cover": "covers/nintendo-power-2010-the-official-guide-to-mario.jpg",
    "pages_rendered": false
   }
  },
@@ -9225,7 +9225,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 250,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-250.jpg",
+   "cover": "covers/nintendo-power-250.jpg",
    "pages_rendered": false
   }
  },
@@ -9261,7 +9261,7 @@
   },
   "volume": 251,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-251.jpg",
+   "cover": "covers/nintendo-power-251.jpg",
    "pages_rendered": false
   }
  },
@@ -9297,7 +9297,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 252,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-252.jpg",
+   "cover": "covers/nintendo-power-252.jpg",
    "pages_rendered": false
   }
  },
@@ -9333,7 +9333,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 253,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-253.jpg",
+   "cover": "covers/nintendo-power-253.jpg",
    "pages_rendered": false
   }
  },
@@ -9369,7 +9369,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 254,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-254.jpg",
+   "cover": "covers/nintendo-power-254.jpg",
    "pages_rendered": false
   }
  },
@@ -9405,7 +9405,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 255,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-255.jpg",
+   "cover": "covers/nintendo-power-255.jpg",
    "pages_rendered": false
   }
  },
@@ -9441,7 +9441,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 256,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-256.jpg",
+   "cover": "covers/nintendo-power-256.jpg",
    "pages_rendered": false
   }
  },
@@ -9477,7 +9477,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 257,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-257.jpg",
+   "cover": "covers/nintendo-power-257.jpg",
    "pages_rendered": false
   }
  },
@@ -9513,7 +9513,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 258,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-258.jpg",
+   "cover": "covers/nintendo-power-258.jpg",
    "pages_rendered": false
   }
  },
@@ -9549,7 +9549,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 259,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-259.jpg",
+   "cover": "covers/nintendo-power-259.jpg",
    "pages_rendered": false
   }
  },
@@ -9585,7 +9585,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 260,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-260.jpg",
+   "cover": "covers/nintendo-power-260.jpg",
    "pages_rendered": false
   }
  },
@@ -9621,7 +9621,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 261,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-261.jpg",
+   "cover": "covers/nintendo-power-261.jpg",
    "pages_rendered": false
   }
  },
@@ -9657,7 +9657,7 @@
   },
   "volume": 262,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-262.jpg",
+   "cover": "covers/nintendo-power-262.jpg",
    "pages_rendered": false
   }
  },
@@ -9693,7 +9693,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-1-3.jpg",
+   "cover": "covers/nintendo-power-1-3.jpg",
    "pages_rendered": false
   }
  },
@@ -9728,7 +9728,7 @@
   },
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
-   "cover": "site/public/covers/nintendo-power-2011-the-official-guide-to-the-legend-of-zelda-2nd-ed.jpg",
+   "cover": "covers/nintendo-power-2011-the-official-guide-to-the-legend-of-zelda-2nd-ed.jpg",
    "pages_rendered": false
   }
  },
@@ -9764,7 +9764,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 263,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-263.jpg",
+   "cover": "covers/nintendo-power-263.jpg",
    "pages_rendered": false
   }
  },
@@ -9800,7 +9800,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 264,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-264.jpg",
+   "cover": "covers/nintendo-power-264.jpg",
    "pages_rendered": false
   }
  },
@@ -9836,7 +9836,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 265,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-265.jpg",
+   "cover": "covers/nintendo-power-265.jpg",
    "pages_rendered": false
   }
  },
@@ -9872,7 +9872,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 266,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-266.jpg",
+   "cover": "covers/nintendo-power-266.jpg",
    "pages_rendered": false
   }
  },
@@ -9908,7 +9908,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 267,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-267.jpg",
+   "cover": "covers/nintendo-power-267.jpg",
    "pages_rendered": false
   }
  },
@@ -9944,7 +9944,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 268,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-268.jpg",
+   "cover": "covers/nintendo-power-268.jpg",
    "pages_rendered": false
   }
  },
@@ -9980,7 +9980,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 269,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-269.jpg",
+   "cover": "covers/nintendo-power-269.jpg",
    "pages_rendered": false
   }
  },
@@ -10016,7 +10016,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 270,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-270.jpg",
+   "cover": "covers/nintendo-power-270.jpg",
    "pages_rendered": false
   }
  },
@@ -10052,7 +10052,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 271,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-271.jpg",
+   "cover": "covers/nintendo-power-271.jpg",
    "pages_rendered": false
   }
  },
@@ -10088,7 +10088,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 272,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-272.jpg",
+   "cover": "covers/nintendo-power-272.jpg",
    "pages_rendered": false
   }
  },
@@ -10124,7 +10124,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 273,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-273.jpg",
+   "cover": "covers/nintendo-power-273.jpg",
    "pages_rendered": false
   }
  },
@@ -10160,7 +10160,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 274,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-274.jpg",
+   "cover": "covers/nintendo-power-274.jpg",
    "pages_rendered": false
   }
  },
@@ -10195,7 +10195,7 @@
   },
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
-   "cover": "site/public/covers/nintendo-power-2012-the-ultimate-guide-to-nintendo-3ds.jpg",
+   "cover": "covers/nintendo-power-2012-the-ultimate-guide-to-nintendo-3ds.jpg",
    "pages_rendered": false
   }
  },
@@ -10232,7 +10232,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 275,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-275.jpg",
+   "cover": "covers/nintendo-power-275.jpg",
    "pages_rendered": false
   }
  },
@@ -10268,7 +10268,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 276,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-276.jpg",
+   "cover": "covers/nintendo-power-276.jpg",
    "pages_rendered": false
   }
  },
@@ -10304,7 +10304,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 277,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-277.jpg",
+   "cover": "covers/nintendo-power-277.jpg",
    "pages_rendered": false
   }
  },
@@ -10340,7 +10340,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 278,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-278.jpg",
+   "cover": "covers/nintendo-power-278.jpg",
    "pages_rendered": false
   }
  },
@@ -10376,7 +10376,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 279,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-279.jpg",
+   "cover": "covers/nintendo-power-279.jpg",
    "pages_rendered": false
   }
  },
@@ -10412,7 +10412,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 280,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-280.jpg",
+   "cover": "covers/nintendo-power-280.jpg",
    "pages_rendered": false
   }
  },
@@ -10448,7 +10448,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 281,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-281.jpg",
+   "cover": "covers/nintendo-power-281.jpg",
    "pages_rendered": false
   }
  },
@@ -10484,7 +10484,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 282,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-282.jpg",
+   "cover": "covers/nintendo-power-282.jpg",
    "pages_rendered": false
   }
  },
@@ -10520,7 +10520,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 283,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-283.jpg",
+   "cover": "covers/nintendo-power-283.jpg",
    "pages_rendered": false
   }
  },
@@ -10556,7 +10556,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 284,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-284.jpg",
+   "cover": "covers/nintendo-power-284.jpg",
    "pages_rendered": false
   }
  },
@@ -10592,7 +10592,7 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "volume": 285,
   "assets": {
-   "cover": "site/public/covers/nintendo-power-285.jpg",
+   "cover": "covers/nintendo-power-285.jpg",
    "pages_rendered": false
   }
  }

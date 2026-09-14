@@ -287,7 +287,13 @@ def inspect_pub(pub: str, force: bool) -> dict:
         )
         if reuse:
             issue = dict(prev)
-            used_ids.add(issue["id"])
+            title = (item.get("title") or "").strip()
+            number = printed_number(title)
+            date = parse_cover_date(item.get("date_display") or "")
+            if issue["id"] in used_ids:
+                issue["id"] = slug_id(pub, number, title, date["start"], used_ids)
+            else:
+                used_ids.add(issue["id"])
             skipped += 1
         else:
             try:
@@ -297,14 +303,17 @@ def inspect_pub(pub: str, force: bool) -> dict:
                 log(f"  FAIL {pub}: {name}: {exc}")
                 if prev:
                     issues.append(prev)
-                    used_ids.add(prev["id"])
+                    if prev["id"] not in used_ids:
+                        used_ids.add(prev["id"])
                 continue
             title = (item.get("title") or "").strip()
             number = printed_number(title)
             date = parse_cover_date(item.get("date_display") or "")
-            issue_id = prev["id"] if prev else slug_id(pub, number, title, date["start"], used_ids)
-            if prev:
+            if prev and prev["id"] not in used_ids:
+                issue_id = prev["id"]
                 used_ids.add(issue_id)
+            else:
+                issue_id = slug_id(pub, number, title, date["start"], used_ids)
             issue = {
                 "id": issue_id,
                 "publication": pub,

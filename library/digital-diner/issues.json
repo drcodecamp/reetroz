@@ -32,7 +32,7 @@
   "volume": 1,
   "special": "Premiere issue",
   "assets": {
-   "cover": "site/public/covers/digital-diner-1.jpg",
+   "cover": "covers/digital-diner-1.jpg",
    "pages_rendered": false
   }
  },
@@ -68,7 +68,7 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "volume": 2,
   "assets": {
-   "cover": "site/public/covers/digital-diner-2.jpg",
+   "cover": "covers/digital-diner-2.jpg",
    "pages_rendered": false
   }
  }

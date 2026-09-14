@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
-   "cover": "site/public/covers/imagine-town-200906-magazine.jpg",
+   "cover": "covers/imagine-town-200906-magazine.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
-   "cover": "site/public/covers/imagine-town-200909-magazine.jpg",
+   "cover": "covers/imagine-town-200909-magazine.jpg",
    "pages_rendered": false
   }
  },
@@ -101,7 +101,7 @@
   },
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
-   "cover": "site/public/covers/imagine-town-200912-game-candy.jpg",
+   "cover": "covers/imagine-town-200912-game-candy.jpg",
    "pages_rendered": false
   }
  }

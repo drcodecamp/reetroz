@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-1.jpg",
+   "cover": "covers/total-1.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-2.jpg",
+   "cover": "covers/total-2.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-3.jpg",
+   "cover": "covers/total-3.jpg",
    "pages_rendered": false
   }
  },
@@ -135,7 +135,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-4.jpg",
+   "cover": "covers/total-4.jpg",
    "pages_rendered": false
   }
  },
@@ -170,7 +170,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-5.jpg",
+   "cover": "covers/total-5.jpg",
    "pages_rendered": false
   }
  },
@@ -205,7 +205,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-7.jpg",
+   "cover": "covers/total-7.jpg",
    "pages_rendered": false
   }
  },
@@ -240,7 +240,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-11.jpg",
+   "cover": "covers/total-11.jpg",
    "pages_rendered": false
   }
  },
@@ -275,7 +275,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-12.jpg",
+   "cover": "covers/total-12.jpg",
    "pages_rendered": false
   }
  },
@@ -310,7 +310,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-13.jpg",
+   "cover": "covers/total-13.jpg",
    "pages_rendered": false
   }
  },
@@ -345,7 +345,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-14.jpg",
+   "cover": "covers/total-14.jpg",
    "pages_rendered": false
   }
  },
@@ -380,7 +380,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-15.jpg",
+   "cover": "covers/total-15.jpg",
    "pages_rendered": false
   }
  },
@@ -415,7 +415,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-16.jpg",
+   "cover": "covers/total-16.jpg",
    "pages_rendered": false
   }
  },
@@ -450,7 +450,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-17.jpg",
+   "cover": "covers/total-17.jpg",
    "pages_rendered": false
   }
  },
@@ -485,7 +485,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-18.jpg",
+   "cover": "covers/total-18.jpg",
    "pages_rendered": false
   }
  },
@@ -520,7 +520,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-19.jpg",
+   "cover": "covers/total-19.jpg",
    "pages_rendered": false
   }
  },
@@ -555,7 +555,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-20.jpg",
+   "cover": "covers/total-20.jpg",
    "pages_rendered": false
   }
  },
@@ -590,7 +590,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-21.jpg",
+   "cover": "covers/total-21.jpg",
    "pages_rendered": false
   }
  },
@@ -625,7 +625,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-22.jpg",
+   "cover": "covers/total-22.jpg",
    "pages_rendered": false
   }
  },
@@ -660,7 +660,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-23.jpg",
+   "cover": "covers/total-23.jpg",
    "pages_rendered": false
   }
  },
@@ -695,7 +695,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-25.jpg",
+   "cover": "covers/total-25.jpg",
    "pages_rendered": false
   }
  },
@@ -730,7 +730,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-26.jpg",
+   "cover": "covers/total-26.jpg",
    "pages_rendered": false
   }
  },
@@ -765,7 +765,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-27.jpg",
+   "cover": "covers/total-27.jpg",
    "pages_rendered": false
   }
  },
@@ -800,7 +800,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-28.jpg",
+   "cover": "covers/total-28.jpg",
    "pages_rendered": false
   }
  },
@@ -835,7 +835,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-29.jpg",
+   "cover": "covers/total-29.jpg",
    "pages_rendered": false
   }
  },
@@ -870,7 +870,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-30.jpg",
+   "cover": "covers/total-30.jpg",
    "pages_rendered": false
   }
  },
@@ -905,7 +905,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-31.jpg",
+   "cover": "covers/total-31.jpg",
    "pages_rendered": false
   }
  },
@@ -940,7 +940,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-32.jpg",
+   "cover": "covers/total-32.jpg",
    "pages_rendered": false
   }
  },
@@ -975,7 +975,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-33.jpg",
+   "cover": "covers/total-33.jpg",
    "pages_rendered": false
   }
  },
@@ -1010,7 +1010,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-34.jpg",
+   "cover": "covers/total-34.jpg",
    "pages_rendered": false
   }
  },
@@ -1045,7 +1045,7 @@
   },
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
-   "cover": "site/public/covers/total-38.jpg",
+   "cover": "covers/total-38.jpg",
    "pages_rendered": false
   }
  }

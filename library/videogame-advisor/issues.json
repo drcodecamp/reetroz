@@ -31,7 +31,7 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-1.jpg",
+   "cover": "covers/videogame-advisor-1.jpg",
    "pages_rendered": false
   }
  },
@@ -66,7 +66,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-2.jpg",
+   "cover": "covers/videogame-advisor-2.jpg",
    "pages_rendered": false
   }
  },
@@ -101,7 +101,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-3.jpg",
+   "cover": "covers/videogame-advisor-3.jpg",
    "pages_rendered": false
   }
  },
@@ -136,7 +136,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-4.jpg",
+   "cover": "covers/videogame-advisor-4.jpg",
    "pages_rendered": false
   }
  },
@@ -171,7 +171,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-7.jpg",
+   "cover": "covers/videogame-advisor-7.jpg",
    "pages_rendered": false
   }
  },
@@ -206,7 +206,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-8.jpg",
+   "cover": "covers/videogame-advisor-8.jpg",
    "pages_rendered": false
   }
  },
@@ -241,7 +241,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-1-2.jpg",
+   "cover": "covers/videogame-advisor-1-2.jpg",
    "pages_rendered": false
   }
  },
@@ -276,7 +276,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-3-2.jpg",
+   "cover": "covers/videogame-advisor-3-2.jpg",
    "pages_rendered": false
   }
  },
@@ -311,7 +311,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-5.jpg",
+   "cover": "covers/videogame-advisor-5.jpg",
    "pages_rendered": false
   }
  },
@@ -346,7 +346,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-6.jpg",
+   "cover": "covers/videogame-advisor-6.jpg",
    "pages_rendered": false
   }
  },
@@ -381,7 +381,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-8-2.jpg",
+   "cover": "covers/videogame-advisor-8-2.jpg",
    "pages_rendered": false
   }
  },
@@ -416,7 +416,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-9.jpg",
+   "cover": "covers/videogame-advisor-9.jpg",
    "pages_rendered": false
   }
  },
@@ -451,7 +451,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-10.jpg",
+   "cover": "covers/videogame-advisor-10.jpg",
    "pages_rendered": false
   }
  },
@@ -486,7 +486,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-11.jpg",
+   "cover": "covers/videogame-advisor-11.jpg",
    "pages_rendered": false
   }
  },
@@ -521,7 +521,7 @@
   },
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
-   "cover": "site/public/covers/videogame-advisor-12.jpg",
+   "cover": "covers/videogame-advisor-12.jpg",
    "pages_rendered": false
   }
  }

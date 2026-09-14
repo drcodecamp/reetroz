@@ -31,7 +31,7 @@
   "updated_at": "2026-09-14T09:35:59+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/ps-max-1.jpg",
+   "cover": "covers/ps-max-1.jpg",
    "pages_rendered": false
   }
  }

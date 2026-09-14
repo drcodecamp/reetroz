@@ -31,7 +31,7 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "special": "Premiere issue",
   "assets": {
-   "cover": "site/public/covers/play-us-200112-play-premiere-issue.jpg",
+   "cover": "covers/play-us-200112-play-premiere-issue.jpg",
    "pages_rendered": false
   }
  },
@@ -67,7 +67,7 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/play-us-1.jpg",
+   "cover": "covers/play-us-1.jpg",
    "pages_rendered": false
   }
  },
@@ -102,7 +102,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-2.jpg",
+   "cover": "covers/play-us-2.jpg",
    "pages_rendered": false
   }
  },
@@ -137,7 +137,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-3.jpg",
+   "cover": "covers/play-us-3.jpg",
    "pages_rendered": false
   }
  },
@@ -172,7 +172,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-5.jpg",
+   "cover": "covers/play-us-5.jpg",
    "pages_rendered": false
   }
  },
@@ -207,7 +207,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-6.jpg",
+   "cover": "covers/play-us-6.jpg",
    "pages_rendered": false
   }
  },
@@ -242,7 +242,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-7.jpg",
+   "cover": "covers/play-us-7.jpg",
    "pages_rendered": false
   }
  },
@@ -277,7 +277,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-8.jpg",
+   "cover": "covers/play-us-8.jpg",
    "pages_rendered": false
   }
  },
@@ -312,7 +312,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-9.jpg",
+   "cover": "covers/play-us-9.jpg",
    "pages_rendered": false
   }
  },
@@ -347,7 +347,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-10.jpg",
+   "cover": "covers/play-us-10.jpg",
    "pages_rendered": false
   }
  },
@@ -382,7 +382,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-11.jpg",
+   "cover": "covers/play-us-11.jpg",
    "pages_rendered": false
   }
  },
@@ -417,7 +417,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-12.jpg",
+   "cover": "covers/play-us-12.jpg",
    "pages_rendered": false
   }
  },
@@ -452,7 +452,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-1-2.jpg",
+   "cover": "covers/play-us-1-2.jpg",
    "pages_rendered": false
   }
  },
@@ -488,7 +488,7 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "volume": 2,
   "assets": {
-   "cover": "site/public/covers/play-us-2-2.jpg",
+   "cover": "covers/play-us-2-2.jpg",
    "pages_rendered": false
   }
  },
@@ -523,7 +523,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-3-2.jpg",
+   "cover": "covers/play-us-3-2.jpg",
    "pages_rendered": false
   }
  },
@@ -558,7 +558,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-4.jpg",
+   "cover": "covers/play-us-4.jpg",
    "pages_rendered": false
   }
  },
@@ -593,7 +593,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-17.jpg",
+   "cover": "covers/play-us-17.jpg",
    "pages_rendered": false
   }
  },
@@ -628,7 +628,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-18.jpg",
+   "cover": "covers/play-us-18.jpg",
    "pages_rendered": false
   }
  },
@@ -663,7 +663,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-19.jpg",
+   "cover": "covers/play-us-19.jpg",
    "pages_rendered": false
   }
  },
@@ -698,7 +698,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-20.jpg",
+   "cover": "covers/play-us-20.jpg",
    "pages_rendered": false
   }
  },
@@ -733,7 +733,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-21.jpg",
+   "cover": "covers/play-us-21.jpg",
    "pages_rendered": false
   }
  },
@@ -768,7 +768,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-22.jpg",
+   "cover": "covers/play-us-22.jpg",
    "pages_rendered": false
   }
  },
@@ -803,7 +803,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-23.jpg",
+   "cover": "covers/play-us-23.jpg",
    "pages_rendered": false
   }
  },
@@ -838,7 +838,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-24.jpg",
+   "cover": "covers/play-us-24.jpg",
    "pages_rendered": false
   }
  },
@@ -873,7 +873,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-25.jpg",
+   "cover": "covers/play-us-25.jpg",
    "pages_rendered": false
   }
  },
@@ -908,7 +908,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-26.jpg",
+   "cover": "covers/play-us-26.jpg",
    "pages_rendered": false
   }
  },
@@ -943,7 +943,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-27.jpg",
+   "cover": "covers/play-us-27.jpg",
    "pages_rendered": false
   }
  },
@@ -978,7 +978,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-28.jpg",
+   "cover": "covers/play-us-28.jpg",
    "pages_rendered": false
   }
  },
@@ -1013,7 +1013,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-29.jpg",
+   "cover": "covers/play-us-29.jpg",
    "pages_rendered": false
   }
  },
@@ -1048,7 +1048,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-30.jpg",
+   "cover": "covers/play-us-30.jpg",
    "pages_rendered": false
   }
  },
@@ -1083,7 +1083,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-31.jpg",
+   "cover": "covers/play-us-31.jpg",
    "pages_rendered": false
   }
  },
@@ -1118,7 +1118,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-32.jpg",
+   "cover": "covers/play-us-32.jpg",
    "pages_rendered": false
   }
  },
@@ -1153,7 +1153,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-33.jpg",
+   "cover": "covers/play-us-33.jpg",
    "pages_rendered": false
   }
  },
@@ -1188,7 +1188,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-34.jpg",
+   "cover": "covers/play-us-34.jpg",
    "pages_rendered": false
   }
  },
@@ -1223,7 +1223,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-35.jpg",
+   "cover": "covers/play-us-35.jpg",
    "pages_rendered": false
   }
  },
@@ -1258,7 +1258,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-36.jpg",
+   "cover": "covers/play-us-36.jpg",
    "pages_rendered": false
   }
  },
@@ -1293,7 +1293,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-37.jpg",
+   "cover": "covers/play-us-37.jpg",
    "pages_rendered": false
   }
  },
@@ -1328,7 +1328,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-38.jpg",
+   "cover": "covers/play-us-38.jpg",
    "pages_rendered": false
   }
  },
@@ -1363,7 +1363,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-39.jpg",
+   "cover": "covers/play-us-39.jpg",
    "pages_rendered": false
   }
  },
@@ -1398,7 +1398,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-40.jpg",
+   "cover": "covers/play-us-40.jpg",
    "pages_rendered": false
   }
  },
@@ -1433,7 +1433,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-41.jpg",
+   "cover": "covers/play-us-41.jpg",
    "pages_rendered": false
   }
  },
@@ -1468,7 +1468,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-42.jpg",
+   "cover": "covers/play-us-42.jpg",
    "pages_rendered": false
   }
  },
@@ -1503,7 +1503,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-43.jpg",
+   "cover": "covers/play-us-43.jpg",
    "pages_rendered": false
   }
  },
@@ -1538,7 +1538,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-44.jpg",
+   "cover": "covers/play-us-44.jpg",
    "pages_rendered": false
   }
  },
@@ -1573,7 +1573,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-45.jpg",
+   "cover": "covers/play-us-45.jpg",
    "pages_rendered": false
   }
  },
@@ -1608,7 +1608,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-46.jpg",
+   "cover": "covers/play-us-46.jpg",
    "pages_rendered": false
   }
  },
@@ -1643,7 +1643,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-47.jpg",
+   "cover": "covers/play-us-47.jpg",
    "pages_rendered": false
   }
  },
@@ -1678,7 +1678,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-48.jpg",
+   "cover": "covers/play-us-48.jpg",
    "pages_rendered": false
   }
  },
@@ -1713,7 +1713,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-49.jpg",
+   "cover": "covers/play-us-49.jpg",
    "pages_rendered": false
   }
  },
@@ -1748,7 +1748,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-50.jpg",
+   "cover": "covers/play-us-50.jpg",
    "pages_rendered": false
   }
  },
@@ -1783,7 +1783,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-51.jpg",
+   "cover": "covers/play-us-51.jpg",
    "pages_rendered": false
   }
  },
@@ -1818,7 +1818,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-52.jpg",
+   "cover": "covers/play-us-52.jpg",
    "pages_rendered": false
   }
  },
@@ -1853,7 +1853,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-53.jpg",
+   "cover": "covers/play-us-53.jpg",
    "pages_rendered": false
   }
  },
@@ -1888,7 +1888,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-54.jpg",
+   "cover": "covers/play-us-54.jpg",
    "pages_rendered": false
   }
  },
@@ -1923,7 +1923,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-55.jpg",
+   "cover": "covers/play-us-55.jpg",
    "pages_rendered": false
   }
  },
@@ -1958,7 +1958,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-56.jpg",
+   "cover": "covers/play-us-56.jpg",
    "pages_rendered": false
   }
  },
@@ -1993,7 +1993,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-57.jpg",
+   "cover": "covers/play-us-57.jpg",
    "pages_rendered": false
   }
  },
@@ -2028,7 +2028,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-58.jpg",
+   "cover": "covers/play-us-58.jpg",
    "pages_rendered": false
   }
  },
@@ -2063,7 +2063,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-59.jpg",
+   "cover": "covers/play-us-59.jpg",
    "pages_rendered": false
   }
  },
@@ -2098,7 +2098,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-60.jpg",
+   "cover": "covers/play-us-60.jpg",
    "pages_rendered": false
   }
  },
@@ -2133,7 +2133,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-61.jpg",
+   "cover": "covers/play-us-61.jpg",
    "pages_rendered": false
   }
  },
@@ -2168,7 +2168,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-62.jpg",
+   "cover": "covers/play-us-62.jpg",
    "pages_rendered": false
   }
  },
@@ -2203,7 +2203,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-63.jpg",
+   "cover": "covers/play-us-63.jpg",
    "pages_rendered": false
   }
  },
@@ -2238,7 +2238,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-64.jpg",
+   "cover": "covers/play-us-64.jpg",
    "pages_rendered": false
   }
  },
@@ -2273,7 +2273,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-65.jpg",
+   "cover": "covers/play-us-65.jpg",
    "pages_rendered": false
   }
  },
@@ -2308,7 +2308,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-66.jpg",
+   "cover": "covers/play-us-66.jpg",
    "pages_rendered": false
   }
  },
@@ -2343,7 +2343,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-67.jpg",
+   "cover": "covers/play-us-67.jpg",
    "pages_rendered": false
   }
  },
@@ -2378,7 +2378,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-68.jpg",
+   "cover": "covers/play-us-68.jpg",
    "pages_rendered": false
   }
  },
@@ -2413,7 +2413,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-69.jpg",
+   "cover": "covers/play-us-69.jpg",
    "pages_rendered": false
   }
  },
@@ -2448,7 +2448,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-70.jpg",
+   "cover": "covers/play-us-70.jpg",
    "pages_rendered": false
   }
  },
@@ -2483,7 +2483,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-71.jpg",
+   "cover": "covers/play-us-71.jpg",
    "pages_rendered": false
   }
  },
@@ -2518,7 +2518,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-72.jpg",
+   "cover": "covers/play-us-72.jpg",
    "pages_rendered": false
   }
  },
@@ -2553,7 +2553,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-73.jpg",
+   "cover": "covers/play-us-73.jpg",
    "pages_rendered": false
   }
  },
@@ -2588,7 +2588,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-74.jpg",
+   "cover": "covers/play-us-74.jpg",
    "pages_rendered": false
   }
  },
@@ -2623,7 +2623,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-75.jpg",
+   "cover": "covers/play-us-75.jpg",
    "pages_rendered": false
   }
  },
@@ -2658,7 +2658,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-76.jpg",
+   "cover": "covers/play-us-76.jpg",
    "pages_rendered": false
   }
  },
@@ -2693,7 +2693,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-77.jpg",
+   "cover": "covers/play-us-77.jpg",
    "pages_rendered": false
   }
  },
@@ -2728,7 +2728,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-78.jpg",
+   "cover": "covers/play-us-78.jpg",
    "pages_rendered": false
   }
  },
@@ -2763,7 +2763,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-79.jpg",
+   "cover": "covers/play-us-79.jpg",
    "pages_rendered": false
   }
  },
@@ -2798,7 +2798,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-80.jpg",
+   "cover": "covers/play-us-80.jpg",
    "pages_rendered": false
   }
  },
@@ -2833,7 +2833,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-81.jpg",
+   "cover": "covers/play-us-81.jpg",
    "pages_rendered": false
   }
  },
@@ -2868,7 +2868,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-82.jpg",
+   "cover": "covers/play-us-82.jpg",
    "pages_rendered": false
   }
  },
@@ -2903,7 +2903,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-83.jpg",
+   "cover": "covers/play-us-83.jpg",
    "pages_rendered": false
   }
  },
@@ -2938,7 +2938,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-84.jpg",
+   "cover": "covers/play-us-84.jpg",
    "pages_rendered": false
   }
  },
@@ -2973,7 +2973,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-85.jpg",
+   "cover": "covers/play-us-85.jpg",
    "pages_rendered": false
   }
  },
@@ -3008,7 +3008,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-86.jpg",
+   "cover": "covers/play-us-86.jpg",
    "pages_rendered": false
   }
  },
@@ -3043,7 +3043,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-87.jpg",
+   "cover": "covers/play-us-87.jpg",
    "pages_rendered": false
   }
  },
@@ -3078,7 +3078,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-88.jpg",
+   "cover": "covers/play-us-88.jpg",
    "pages_rendered": false
   }
  },
@@ -3113,7 +3113,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-89.jpg",
+   "cover": "covers/play-us-89.jpg",
    "pages_rendered": false
   }
  },
@@ -3148,7 +3148,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-90.jpg",
+   "cover": "covers/play-us-90.jpg",
    "pages_rendered": false
   }
  },
@@ -3183,7 +3183,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-91.jpg",
+   "cover": "covers/play-us-91.jpg",
    "pages_rendered": false
   }
  },
@@ -3218,7 +3218,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-92.jpg",
+   "cover": "covers/play-us-92.jpg",
    "pages_rendered": false
   }
  },
@@ -3253,7 +3253,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-93.jpg",
+   "cover": "covers/play-us-93.jpg",
    "pages_rendered": false
   }
  },
@@ -3288,7 +3288,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-94.jpg",
+   "cover": "covers/play-us-94.jpg",
    "pages_rendered": false
   }
  },
@@ -3323,7 +3323,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-95.jpg",
+   "cover": "covers/play-us-95.jpg",
    "pages_rendered": false
   }
  },
@@ -3358,7 +3358,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-96.jpg",
+   "cover": "covers/play-us-96.jpg",
    "pages_rendered": false
   }
  },
@@ -3393,7 +3393,7 @@
   },
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
-   "cover": "site/public/covers/play-us-97.jpg",
+   "cover": "covers/play-us-97.jpg",
    "pages_rendered": false
   }
  }

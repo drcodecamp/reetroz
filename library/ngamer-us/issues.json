@@ -31,7 +31,7 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "special": "Premiere issue",
   "assets": {
-   "cover": "site/public/covers/ngamer-us-200001-ngamer-premier-issue.jpg",
+   "cover": "covers/ngamer-us-200001-ngamer-premier-issue.jpg",
    "pages_rendered": false
   }
  }

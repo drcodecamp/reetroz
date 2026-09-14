@@ -31,7 +31,7 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-1.jpg",
+   "cover": "covers/official-us-playstation-magazine-1.jpg",
    "pages_rendered": false
   }
  },
@@ -66,7 +66,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-2.jpg",
    "pages_rendered": false
   }
  },
@@ -101,7 +101,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-3.jpg",
    "pages_rendered": false
   }
  },
@@ -136,7 +136,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-4.jpg",
+   "cover": "covers/official-us-playstation-magazine-4.jpg",
    "pages_rendered": false
   }
  },
@@ -171,7 +171,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-5.jpg",
+   "cover": "covers/official-us-playstation-magazine-5.jpg",
    "pages_rendered": false
   }
  },
@@ -206,7 +206,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-6.jpg",
+   "cover": "covers/official-us-playstation-magazine-6.jpg",
    "pages_rendered": false
   }
  },
@@ -241,7 +241,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-7.jpg",
+   "cover": "covers/official-us-playstation-magazine-7.jpg",
    "pages_rendered": false
   }
  },
@@ -276,7 +276,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-8.jpg",
+   "cover": "covers/official-us-playstation-magazine-8.jpg",
    "pages_rendered": false
   }
  },
@@ -311,7 +311,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-9.jpg",
+   "cover": "covers/official-us-playstation-magazine-9.jpg",
    "pages_rendered": false
   }
  },
@@ -346,7 +346,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-199806-the-ultimate-guide-to-playstation-strategies-pre.jpg",
+   "cover": "covers/official-us-playstation-magazine-199806-the-ultimate-guide-to-playstation-strategies-pre.jpg",
    "pages_rendered": false
   }
  },
@@ -381,7 +381,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-10.jpg",
+   "cover": "covers/official-us-playstation-magazine-10.jpg",
    "pages_rendered": false
   }
  },
@@ -416,7 +416,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-11.jpg",
+   "cover": "covers/official-us-playstation-magazine-11.jpg",
    "pages_rendered": false
   }
  },
@@ -451,7 +451,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-12.jpg",
+   "cover": "covers/official-us-playstation-magazine-12.jpg",
    "pages_rendered": false
   }
  },
@@ -486,7 +486,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-1-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-1-2.jpg",
    "pages_rendered": false
   }
  },
@@ -522,7 +522,7 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "volume": 2,
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-2-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-2-2.jpg",
    "pages_rendered": false
   }
  },
@@ -557,7 +557,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-3-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-3-2.jpg",
    "pages_rendered": false
   }
  },
@@ -592,7 +592,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-4-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-4-2.jpg",
    "pages_rendered": false
   }
  },
@@ -627,7 +627,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-5-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-5-2.jpg",
    "pages_rendered": false
   }
  },
@@ -662,7 +662,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-6-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-6-2.jpg",
    "pages_rendered": false
   }
  },
@@ -697,7 +697,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-7-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-7-2.jpg",
    "pages_rendered": false
   }
  },
@@ -732,7 +732,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-8-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-8-2.jpg",
    "pages_rendered": false
   }
  },
@@ -767,7 +767,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-9-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-9-2.jpg",
    "pages_rendered": false
   }
  },
@@ -802,7 +802,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-10-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-10-2.jpg",
    "pages_rendered": false
   }
  },
@@ -837,7 +837,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-11-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-11-2.jpg",
    "pages_rendered": false
   }
  },
@@ -872,7 +872,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-12-2.jpg",
+   "cover": "covers/official-us-playstation-magazine-12-2.jpg",
    "pages_rendered": false
   }
  },
@@ -907,7 +907,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-1-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-1-3.jpg",
    "pages_rendered": false
   }
  },
@@ -942,7 +942,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-2-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-2-3.jpg",
    "pages_rendered": false
   }
  },
@@ -978,7 +978,7 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "volume": 3,
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-3-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-3-3.jpg",
    "pages_rendered": false
   }
  },
@@ -1013,7 +1013,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-4-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-4-3.jpg",
    "pages_rendered": false
   }
  },
@@ -1048,7 +1048,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-5-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-5-3.jpg",
    "pages_rendered": false
   }
  },
@@ -1083,7 +1083,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-6-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-6-3.jpg",
    "pages_rendered": false
   }
  },
@@ -1118,7 +1118,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-7-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-7-3.jpg",
    "pages_rendered": false
   }
  },
@@ -1153,7 +1153,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-8-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-8-3.jpg",
    "pages_rendered": false
   }
  },
@@ -1188,7 +1188,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-9-3.jpg",
+   "cover": "covers/official-us-playstation-magazine-9-3.jpg",
    "pages_rendered": false
   }
  },
@@ -1223,7 +1223,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-34.jpg",
+   "cover": "covers/official-us-playstation-magazine-34.jpg",
    "pages_rendered": false
   }
  },
@@ -1258,7 +1258,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-35.jpg",
+   "cover": "covers/official-us-playstation-magazine-35.jpg",
    "pages_rendered": false
   }
  },
@@ -1293,7 +1293,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-36.jpg",
+   "cover": "covers/official-us-playstation-magazine-36.jpg",
    "pages_rendered": false
   }
  },
@@ -1328,7 +1328,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-37.jpg",
+   "cover": "covers/official-us-playstation-magazine-37.jpg",
    "pages_rendered": false
   }
  },
@@ -1363,7 +1363,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-38.jpg",
+   "cover": "covers/official-us-playstation-magazine-38.jpg",
    "pages_rendered": false
   }
  },
@@ -1398,7 +1398,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-39.jpg",
+   "cover": "covers/official-us-playstation-magazine-39.jpg",
    "pages_rendered": false
   }
  },
@@ -1433,7 +1433,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-40.jpg",
+   "cover": "covers/official-us-playstation-magazine-40.jpg",
    "pages_rendered": false
   }
  },
@@ -1468,7 +1468,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-41.jpg",
+   "cover": "covers/official-us-playstation-magazine-41.jpg",
    "pages_rendered": false
   }
  },
@@ -1503,7 +1503,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-42.jpg",
+   "cover": "covers/official-us-playstation-magazine-42.jpg",
    "pages_rendered": false
   }
  },
@@ -1538,7 +1538,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-43.jpg",
+   "cover": "covers/official-us-playstation-magazine-43.jpg",
    "pages_rendered": false
   }
  },
@@ -1573,7 +1573,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-44.jpg",
+   "cover": "covers/official-us-playstation-magazine-44.jpg",
    "pages_rendered": false
   }
  },
@@ -1608,7 +1608,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-45.jpg",
+   "cover": "covers/official-us-playstation-magazine-45.jpg",
    "pages_rendered": false
   }
  },
@@ -1643,7 +1643,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-46.jpg",
+   "cover": "covers/official-us-playstation-magazine-46.jpg",
    "pages_rendered": false
   }
  },
@@ -1678,7 +1678,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-47.jpg",
+   "cover": "covers/official-us-playstation-magazine-47.jpg",
    "pages_rendered": false
   }
  },
@@ -1713,7 +1713,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-48.jpg",
+   "cover": "covers/official-us-playstation-magazine-48.jpg",
    "pages_rendered": false
   }
  },
@@ -1748,7 +1748,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-49.jpg",
+   "cover": "covers/official-us-playstation-magazine-49.jpg",
    "pages_rendered": false
   }
  },
@@ -1783,7 +1783,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-50.jpg",
+   "cover": "covers/official-us-playstation-magazine-50.jpg",
    "pages_rendered": false
   }
  },
@@ -1818,7 +1818,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-51.jpg",
+   "cover": "covers/official-us-playstation-magazine-51.jpg",
    "pages_rendered": false
   }
  },
@@ -1853,7 +1853,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-52.jpg",
+   "cover": "covers/official-us-playstation-magazine-52.jpg",
    "pages_rendered": false
   }
  },
@@ -1888,7 +1888,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-53.jpg",
+   "cover": "covers/official-us-playstation-magazine-53.jpg",
    "pages_rendered": false
   }
  },
@@ -1923,7 +1923,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-54.jpg",
+   "cover": "covers/official-us-playstation-magazine-54.jpg",
    "pages_rendered": false
   }
  },
@@ -1958,7 +1958,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-55.jpg",
+   "cover": "covers/official-us-playstation-magazine-55.jpg",
    "pages_rendered": false
   }
  },
@@ -1993,7 +1993,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-56.jpg",
+   "cover": "covers/official-us-playstation-magazine-56.jpg",
    "pages_rendered": false
   }
  },
@@ -2028,7 +2028,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-57.jpg",
+   "cover": "covers/official-us-playstation-magazine-57.jpg",
    "pages_rendered": false
   }
  },
@@ -2063,7 +2063,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-58.jpg",
+   "cover": "covers/official-us-playstation-magazine-58.jpg",
    "pages_rendered": false
   }
  },
@@ -2098,7 +2098,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-59.jpg",
+   "cover": "covers/official-us-playstation-magazine-59.jpg",
    "pages_rendered": false
   }
  },
@@ -2133,7 +2133,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-60.jpg",
+   "cover": "covers/official-us-playstation-magazine-60.jpg",
    "pages_rendered": false
   }
  },
@@ -2168,7 +2168,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-61.jpg",
+   "cover": "covers/official-us-playstation-magazine-61.jpg",
    "pages_rendered": false
   }
  },
@@ -2203,7 +2203,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-62.jpg",
+   "cover": "covers/official-us-playstation-magazine-62.jpg",
    "pages_rendered": false
   }
  },
@@ -2238,7 +2238,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-63.jpg",
+   "cover": "covers/official-us-playstation-magazine-63.jpg",
    "pages_rendered": false
   }
  },
@@ -2273,7 +2273,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-64.jpg",
+   "cover": "covers/official-us-playstation-magazine-64.jpg",
    "pages_rendered": false
   }
  },
@@ -2308,7 +2308,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-65.jpg",
+   "cover": "covers/official-us-playstation-magazine-65.jpg",
    "pages_rendered": false
   }
  },
@@ -2343,7 +2343,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-66.jpg",
+   "cover": "covers/official-us-playstation-magazine-66.jpg",
    "pages_rendered": false
   }
  },
@@ -2378,7 +2378,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-67.jpg",
+   "cover": "covers/official-us-playstation-magazine-67.jpg",
    "pages_rendered": false
   }
  },
@@ -2413,7 +2413,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-68.jpg",
+   "cover": "covers/official-us-playstation-magazine-68.jpg",
    "pages_rendered": false
   }
  },
@@ -2448,7 +2448,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-69.jpg",
+   "cover": "covers/official-us-playstation-magazine-69.jpg",
    "pages_rendered": false
   }
  },
@@ -2483,7 +2483,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-70.jpg",
+   "cover": "covers/official-us-playstation-magazine-70.jpg",
    "pages_rendered": false
   }
  },
@@ -2518,7 +2518,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-71.jpg",
+   "cover": "covers/official-us-playstation-magazine-71.jpg",
    "pages_rendered": false
   }
  },
@@ -2553,7 +2553,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-72.jpg",
+   "cover": "covers/official-us-playstation-magazine-72.jpg",
    "pages_rendered": false
   }
  },
@@ -2588,7 +2588,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-73.jpg",
+   "cover": "covers/official-us-playstation-magazine-73.jpg",
    "pages_rendered": false
   }
  },
@@ -2623,7 +2623,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-74.jpg",
+   "cover": "covers/official-us-playstation-magazine-74.jpg",
    "pages_rendered": false
   }
  },
@@ -2658,7 +2658,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-75.jpg",
+   "cover": "covers/official-us-playstation-magazine-75.jpg",
    "pages_rendered": false
   }
  },
@@ -2693,7 +2693,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-76.jpg",
+   "cover": "covers/official-us-playstation-magazine-76.jpg",
    "pages_rendered": false
   }
  },
@@ -2728,7 +2728,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-77.jpg",
+   "cover": "covers/official-us-playstation-magazine-77.jpg",
    "pages_rendered": false
   }
  },
@@ -2763,7 +2763,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-78.jpg",
+   "cover": "covers/official-us-playstation-magazine-78.jpg",
    "pages_rendered": false
   }
  },
@@ -2798,7 +2798,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-79.jpg",
+   "cover": "covers/official-us-playstation-magazine-79.jpg",
    "pages_rendered": false
   }
  },
@@ -2833,7 +2833,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-80.jpg",
+   "cover": "covers/official-us-playstation-magazine-80.jpg",
    "pages_rendered": false
   }
  },
@@ -2868,7 +2868,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-81.jpg",
+   "cover": "covers/official-us-playstation-magazine-81.jpg",
    "pages_rendered": false
   }
  },
@@ -2903,7 +2903,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-82.jpg",
+   "cover": "covers/official-us-playstation-magazine-82.jpg",
    "pages_rendered": false
   }
  },
@@ -2938,7 +2938,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-83.jpg",
+   "cover": "covers/official-us-playstation-magazine-83.jpg",
    "pages_rendered": false
   }
  },
@@ -2973,7 +2973,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-84.jpg",
+   "cover": "covers/official-us-playstation-magazine-84.jpg",
    "pages_rendered": false
   }
  },
@@ -3008,7 +3008,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-85.jpg",
+   "cover": "covers/official-us-playstation-magazine-85.jpg",
    "pages_rendered": false
   }
  },
@@ -3043,7 +3043,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-86.jpg",
+   "cover": "covers/official-us-playstation-magazine-86.jpg",
    "pages_rendered": false
   }
  },
@@ -3078,7 +3078,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-87.jpg",
+   "cover": "covers/official-us-playstation-magazine-87.jpg",
    "pages_rendered": false
   }
  },
@@ -3113,7 +3113,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-88.jpg",
+   "cover": "covers/official-us-playstation-magazine-88.jpg",
    "pages_rendered": false
   }
  },
@@ -3148,7 +3148,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-89.jpg",
+   "cover": "covers/official-us-playstation-magazine-89.jpg",
    "pages_rendered": false
   }
  },
@@ -3183,7 +3183,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-90.jpg",
+   "cover": "covers/official-us-playstation-magazine-90.jpg",
    "pages_rendered": false
   }
  },
@@ -3218,7 +3218,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-91.jpg",
+   "cover": "covers/official-us-playstation-magazine-91.jpg",
    "pages_rendered": false
   }
  },
@@ -3253,7 +3253,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-92.jpg",
+   "cover": "covers/official-us-playstation-magazine-92.jpg",
    "pages_rendered": false
   }
  },
@@ -3288,7 +3288,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-93.jpg",
+   "cover": "covers/official-us-playstation-magazine-93.jpg",
    "pages_rendered": false
   }
  },
@@ -3323,7 +3323,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-94.jpg",
+   "cover": "covers/official-us-playstation-magazine-94.jpg",
    "pages_rendered": false
   }
  },
@@ -3358,7 +3358,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-95.jpg",
+   "cover": "covers/official-us-playstation-magazine-95.jpg",
    "pages_rendered": false
   }
  },
@@ -3393,7 +3393,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-96.jpg",
+   "cover": "covers/official-us-playstation-magazine-96.jpg",
    "pages_rendered": false
   }
  },
@@ -3428,7 +3428,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-97.jpg",
+   "cover": "covers/official-us-playstation-magazine-97.jpg",
    "pages_rendered": false
   }
  },
@@ -3463,7 +3463,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-98.jpg",
+   "cover": "covers/official-us-playstation-magazine-98.jpg",
    "pages_rendered": false
   }
  },
@@ -3498,7 +3498,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-99.jpg",
+   "cover": "covers/official-us-playstation-magazine-99.jpg",
    "pages_rendered": false
   }
  },
@@ -3533,7 +3533,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-100.jpg",
+   "cover": "covers/official-us-playstation-magazine-100.jpg",
    "pages_rendered": false
   }
  },
@@ -3568,7 +3568,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-101.jpg",
+   "cover": "covers/official-us-playstation-magazine-101.jpg",
    "pages_rendered": false
   }
  },
@@ -3603,7 +3603,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-102.jpg",
+   "cover": "covers/official-us-playstation-magazine-102.jpg",
    "pages_rendered": false
   }
  },
@@ -3638,7 +3638,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-103.jpg",
+   "cover": "covers/official-us-playstation-magazine-103.jpg",
    "pages_rendered": false
   }
  },
@@ -3673,7 +3673,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-104.jpg",
+   "cover": "covers/official-us-playstation-magazine-104.jpg",
    "pages_rendered": false
   }
  },
@@ -3708,7 +3708,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-105.jpg",
+   "cover": "covers/official-us-playstation-magazine-105.jpg",
    "pages_rendered": false
   }
  },
@@ -3743,7 +3743,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-106.jpg",
+   "cover": "covers/official-us-playstation-magazine-106.jpg",
    "pages_rendered": false
   }
  },
@@ -3778,7 +3778,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-107.jpg",
+   "cover": "covers/official-us-playstation-magazine-107.jpg",
    "pages_rendered": false
   }
  },
@@ -3813,7 +3813,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-108.jpg",
+   "cover": "covers/official-us-playstation-magazine-108.jpg",
    "pages_rendered": false
   }
  },
@@ -3848,7 +3848,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-109.jpg",
+   "cover": "covers/official-us-playstation-magazine-109.jpg",
    "pages_rendered": false
   }
  },
@@ -3883,7 +3883,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-110.jpg",
+   "cover": "covers/official-us-playstation-magazine-110.jpg",
    "pages_rendered": false
   }
  },
@@ -3918,7 +3918,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-111.jpg",
+   "cover": "covers/official-us-playstation-magazine-111.jpg",
    "pages_rendered": false
   }
  },
@@ -3953,7 +3953,7 @@
   },
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
-   "cover": "site/public/covers/official-us-playstation-magazine-112.jpg",
+   "cover": "covers/official-us-playstation-magazine-112.jpg",
    "pages_rendered": false
   }
  }

@@ -32,7 +32,7 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/sega-visions-1.jpg",
+   "cover": "covers/sega-visions-1.jpg",
    "pages_rendered": false
   }
  },
@@ -68,7 +68,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-2.jpg",
+   "cover": "covers/sega-visions-2.jpg",
    "pages_rendered": false
   }
  },
@@ -103,7 +103,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-3.jpg",
+   "cover": "covers/sega-visions-3.jpg",
    "pages_rendered": false
   }
  },
@@ -139,7 +139,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-4.jpg",
+   "cover": "covers/sega-visions-4.jpg",
    "pages_rendered": false
   }
  },
@@ -174,7 +174,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-5.jpg",
+   "cover": "covers/sega-visions-5.jpg",
    "pages_rendered": false
   }
  },
@@ -209,7 +209,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-6.jpg",
+   "cover": "covers/sega-visions-6.jpg",
    "pages_rendered": false
   }
  },
@@ -244,7 +244,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-7.jpg",
+   "cover": "covers/sega-visions-7.jpg",
    "pages_rendered": false
   }
  },
@@ -280,7 +280,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-8.jpg",
+   "cover": "covers/sega-visions-8.jpg",
    "pages_rendered": false
   }
  },
@@ -316,7 +316,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-9.jpg",
+   "cover": "covers/sega-visions-9.jpg",
    "pages_rendered": false
   }
  },
@@ -352,7 +352,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199211-sega-visions.jpg",
+   "cover": "covers/sega-visions-199211-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -388,7 +388,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199302-sega-visions.jpg",
+   "cover": "covers/sega-visions-199302-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -424,7 +424,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199304-sega-visions.jpg",
+   "cover": "covers/sega-visions-199304-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -460,7 +460,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199306-sega-visions.jpg",
+   "cover": "covers/sega-visions-199306-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -496,7 +496,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199308-sega-visions.jpg",
+   "cover": "covers/sega-visions-199308-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -532,7 +532,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199310-sega-visions.jpg",
+   "cover": "covers/sega-visions-199310-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -568,7 +568,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199402-sega-visions.jpg",
+   "cover": "covers/sega-visions-199402-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -604,7 +604,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199404-sega-visions.jpg",
+   "cover": "covers/sega-visions-199404-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -640,7 +640,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199406-sega-visions.jpg",
+   "cover": "covers/sega-visions-199406-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -676,7 +676,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199408-sega-visions.jpg",
+   "cover": "covers/sega-visions-199408-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -712,7 +712,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199410-sega-visions.jpg",
+   "cover": "covers/sega-visions-199410-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -748,7 +748,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199412-sega-visions.jpg",
+   "cover": "covers/sega-visions-199412-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -784,7 +784,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199502-sega-visions.jpg",
+   "cover": "covers/sega-visions-199502-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -819,7 +819,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199505-sega-visions.jpg",
+   "cover": "covers/sega-visions-199505-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -854,7 +854,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199509-sega-visions.jpg",
+   "cover": "covers/sega-visions-199509-sega-visions.jpg",
    "pages_rendered": false
   }
  },
@@ -890,7 +890,7 @@
   },
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
-   "cover": "site/public/covers/sega-visions-199512-sega-visions.jpg",
+   "cover": "covers/sega-visions-199512-sega-visions.jpg",
    "pages_rendered": false
   }
  }

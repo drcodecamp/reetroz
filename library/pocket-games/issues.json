@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-1.jpg",
+   "cover": "covers/pocket-games-1.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-2.jpg",
+   "cover": "covers/pocket-games-2.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-3.jpg",
+   "cover": "covers/pocket-games-3.jpg",
    "pages_rendered": false
   }
  },
@@ -135,7 +135,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-4.jpg",
+   "cover": "covers/pocket-games-4.jpg",
    "pages_rendered": false
   }
  },
@@ -170,7 +170,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-6.jpg",
+   "cover": "covers/pocket-games-6.jpg",
    "pages_rendered": false
   }
  },
@@ -205,7 +205,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-9.jpg",
+   "cover": "covers/pocket-games-9.jpg",
    "pages_rendered": false
   }
  },
@@ -240,7 +240,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-7.jpg",
+   "cover": "covers/pocket-games-7.jpg",
    "pages_rendered": false
   }
  },
@@ -275,7 +275,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-11.jpg",
+   "cover": "covers/pocket-games-11.jpg",
    "pages_rendered": false
   }
  },
@@ -310,7 +310,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-12.jpg",
+   "cover": "covers/pocket-games-12.jpg",
    "pages_rendered": false
   }
  },
@@ -345,7 +345,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-10.jpg",
+   "cover": "covers/pocket-games-10.jpg",
    "pages_rendered": false
   }
  },
@@ -380,7 +380,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-17.jpg",
+   "cover": "covers/pocket-games-17.jpg",
    "pages_rendered": false
   }
  },
@@ -415,7 +415,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-16.jpg",
+   "cover": "covers/pocket-games-16.jpg",
    "pages_rendered": false
   }
  },
@@ -450,7 +450,7 @@
   },
   "updated_at": "2026-09-14T09:35:58+00:00",
   "assets": {
-   "cover": "site/public/covers/pocket-games-20.jpg",
+   "cover": "covers/pocket-games-20.jpg",
    "pages_rendered": false
   }
  }

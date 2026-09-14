@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-1.jpg",
+   "cover": "covers/megatech-1.jpg",
    "pages_rendered": false
   }
  },
@@ -65,7 +65,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-2.jpg",
+   "cover": "covers/megatech-2.jpg",
    "pages_rendered": false
   }
  },
@@ -100,7 +100,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-3.jpg",
+   "cover": "covers/megatech-3.jpg",
    "pages_rendered": false
   }
  },
@@ -135,7 +135,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-4.jpg",
+   "cover": "covers/megatech-4.jpg",
    "pages_rendered": false
   }
  },
@@ -170,7 +170,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-5.jpg",
+   "cover": "covers/megatech-5.jpg",
    "pages_rendered": false
   }
  },
@@ -205,7 +205,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-6.jpg",
+   "cover": "covers/megatech-6.jpg",
    "pages_rendered": false
   }
  },
@@ -240,7 +240,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-7.jpg",
+   "cover": "covers/megatech-7.jpg",
    "pages_rendered": false
   }
  },
@@ -275,7 +275,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-8.jpg",
+   "cover": "covers/megatech-8.jpg",
    "pages_rendered": false
   }
  },
@@ -310,7 +310,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-9.jpg",
+   "cover": "covers/megatech-9.jpg",
    "pages_rendered": false
   }
  },
@@ -345,7 +345,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-10.jpg",
+   "cover": "covers/megatech-10.jpg",
    "pages_rendered": false
   }
  },
@@ -380,7 +380,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-11.jpg",
+   "cover": "covers/megatech-11.jpg",
    "pages_rendered": false
   }
  },
@@ -415,7 +415,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-12.jpg",
+   "cover": "covers/megatech-12.jpg",
    "pages_rendered": false
   }
  },
@@ -450,7 +450,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-13.jpg",
+   "cover": "covers/megatech-13.jpg",
    "pages_rendered": false
   }
  },
@@ -485,7 +485,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-14.jpg",
+   "cover": "covers/megatech-14.jpg",
    "pages_rendered": false
   }
  },
@@ -520,7 +520,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-15.jpg",
+   "cover": "covers/megatech-15.jpg",
    "pages_rendered": false
   }
  },
@@ -555,7 +555,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-16.jpg",
+   "cover": "covers/megatech-16.jpg",
    "pages_rendered": false
   }
  },
@@ -590,7 +590,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-17.jpg",
+   "cover": "covers/megatech-17.jpg",
    "pages_rendered": false
   }
  },
@@ -625,7 +625,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-18.jpg",
+   "cover": "covers/megatech-18.jpg",
    "pages_rendered": false
   }
  },
@@ -660,7 +660,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-19.jpg",
+   "cover": "covers/megatech-19.jpg",
    "pages_rendered": false
   }
  },
@@ -695,7 +695,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-20.jpg",
+   "cover": "covers/megatech-20.jpg",
    "pages_rendered": false
   }
  },
@@ -730,7 +730,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-21.jpg",
+   "cover": "covers/megatech-21.jpg",
    "pages_rendered": false
   }
  },
@@ -765,7 +765,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-22.jpg",
+   "cover": "covers/megatech-22.jpg",
    "pages_rendered": false
   }
  },
@@ -800,7 +800,7 @@
   },
   "updated_at": "2026-09-14T09:34:00+00:00",
   "assets": {
-   "cover": "site/public/covers/megatech-23.jpg",
+   "cover": "covers/megatech-23.jpg",
    "pages_rendered": false
   }
  }

@@ -30,7 +30,7 @@
    "status": "embedded"
   },
   "assets": {
-   "cover": "site/public/covers/gamepro-1.jpg",
+   "cover": "covers/gamepro-1.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-1/manifest.json"
   },
@@ -68,7 +68,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-2.jpg",
+   "cover": "covers/gamepro-2.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-2/manifest.json"
   }
@@ -105,7 +105,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-3.jpg",
+   "cover": "covers/gamepro-3.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-3/manifest.json"
   }
@@ -141,7 +141,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-4.jpg",
+   "cover": "covers/gamepro-4.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-4/manifest.json"
   }
@@ -177,7 +177,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-5.jpg",
+   "cover": "covers/gamepro-5.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-5/manifest.json"
   }
@@ -213,7 +213,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-6.jpg",
+   "cover": "covers/gamepro-6.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-6/manifest.json"
   }
@@ -249,7 +249,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-7.jpg",
+   "cover": "covers/gamepro-7.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-7/manifest.json"
   }
@@ -285,7 +285,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-8.jpg",
+   "cover": "covers/gamepro-8.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-8/manifest.json"
   }
@@ -321,7 +321,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-9.jpg",
+   "cover": "covers/gamepro-9.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-9/manifest.json"
   }
@@ -357,7 +357,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-10.jpg",
+   "cover": "covers/gamepro-10.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-10/manifest.json"
   }
@@ -393,7 +393,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-11.jpg",
+   "cover": "covers/gamepro-11.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-11/manifest.json"
   }
@@ -429,7 +429,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-12.jpg",
+   "cover": "covers/gamepro-12.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-12/manifest.json"
   }
@@ -465,7 +465,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-13.jpg",
+   "cover": "covers/gamepro-13.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-13/manifest.json"
   }
@@ -501,7 +501,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-14.jpg",
+   "cover": "covers/gamepro-14.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-14/manifest.json"
   }
@@ -537,7 +537,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-15.jpg",
+   "cover": "covers/gamepro-15.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-15/manifest.json"
   }
@@ -573,7 +573,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-16.jpg",
+   "cover": "covers/gamepro-16.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-16/manifest.json"
   }
@@ -609,7 +609,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-17.jpg",
+   "cover": "covers/gamepro-17.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-17/manifest.json"
   }
@@ -645,7 +645,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-18.jpg",
+   "cover": "covers/gamepro-18.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-18/manifest.json"
   }
@@ -681,7 +681,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-19.jpg",
+   "cover": "covers/gamepro-19.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-19/manifest.json"
   }
@@ -717,7 +717,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-20.jpg",
+   "cover": "covers/gamepro-20.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-20/manifest.json"
   }
@@ -753,7 +753,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-21.jpg",
+   "cover": "covers/gamepro-21.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-21/manifest.json"
   }
@@ -789,7 +789,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-22.jpg",
+   "cover": "covers/gamepro-22.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-22/manifest.json"
   }
@@ -825,7 +825,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-23.jpg",
+   "cover": "covers/gamepro-23.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-23/manifest.json"
   }
@@ -861,7 +861,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-24.jpg",
+   "cover": "covers/gamepro-24.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-24/manifest.json"
   }
@@ -897,7 +897,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-25.jpg",
+   "cover": "covers/gamepro-25.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-25/manifest.json"
   }
@@ -933,7 +933,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-26.jpg",
+   "cover": "covers/gamepro-26.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-26/manifest.json"
   }
@@ -969,7 +969,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-27.jpg",
+   "cover": "covers/gamepro-27.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-27/manifest.json"
   }
@@ -1005,7 +1005,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-28.jpg",
+   "cover": "covers/gamepro-28.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-28/manifest.json"
   }
@@ -1041,7 +1041,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-29.jpg",
+   "cover": "covers/gamepro-29.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-29/manifest.json"
   }
@@ -1077,7 +1077,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-30.jpg",
+   "cover": "covers/gamepro-30.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-30/manifest.json"
   }
@@ -1113,7 +1113,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-31.jpg",
+   "cover": "covers/gamepro-31.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-31/manifest.json"
   }
@@ -1149,7 +1149,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-32.jpg",
+   "cover": "covers/gamepro-32.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-32/manifest.json"
   }
@@ -1185,7 +1185,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-33.jpg",
+   "cover": "covers/gamepro-33.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-33/manifest.json"
   }
@@ -1221,7 +1221,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-34.jpg",
+   "cover": "covers/gamepro-34.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-34/manifest.json"
   }
@@ -1257,7 +1257,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-35.jpg",
+   "cover": "covers/gamepro-35.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-35/manifest.json"
   }
@@ -1293,7 +1293,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-36.jpg",
+   "cover": "covers/gamepro-36.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-36/manifest.json"
   }
@@ -1329,7 +1329,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-37.jpg",
+   "cover": "covers/gamepro-37.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-37/manifest.json"
   }
@@ -1365,7 +1365,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-38.jpg",
+   "cover": "covers/gamepro-38.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-38/manifest.json"
   }
@@ -1401,7 +1401,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-39.jpg",
+   "cover": "covers/gamepro-39.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-39/manifest.json"
   }
@@ -1437,7 +1437,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-40.jpg",
+   "cover": "covers/gamepro-40.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-40/manifest.json"
   }
@@ -1473,7 +1473,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-41.jpg",
+   "cover": "covers/gamepro-41.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-41/manifest.json"
   }
@@ -1509,7 +1509,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-42.jpg",
+   "cover": "covers/gamepro-42.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-42/manifest.json"
   }
@@ -1545,7 +1545,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-43.jpg",
+   "cover": "covers/gamepro-43.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-43/manifest.json"
   }
@@ -1581,7 +1581,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-44.jpg",
+   "cover": "covers/gamepro-44.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-44/manifest.json"
   }
@@ -1617,7 +1617,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-45.jpg",
+   "cover": "covers/gamepro-45.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-45/manifest.json"
   }
@@ -1653,7 +1653,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-46.jpg",
+   "cover": "covers/gamepro-46.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-46/manifest.json"
   }
@@ -1689,7 +1689,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-47.jpg",
+   "cover": "covers/gamepro-47.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-47/manifest.json"
   }
@@ -1725,7 +1725,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-48.jpg",
+   "cover": "covers/gamepro-48.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-48/manifest.json"
   }
@@ -1761,7 +1761,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-49.jpg",
+   "cover": "covers/gamepro-49.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-49/manifest.json"
   }
@@ -1797,7 +1797,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-50.jpg",
+   "cover": "covers/gamepro-50.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-50/manifest.json"
   }
@@ -1833,7 +1833,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-51.jpg",
+   "cover": "covers/gamepro-51.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-51/manifest.json"
   }
@@ -1869,7 +1869,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-52.jpg",
+   "cover": "covers/gamepro-52.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-52/manifest.json"
   }
@@ -1905,7 +1905,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-53.jpg",
+   "cover": "covers/gamepro-53.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-53/manifest.json"
   }
@@ -1941,7 +1941,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-54.jpg",
+   "cover": "covers/gamepro-54.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-54/manifest.json"
   }
@@ -1977,7 +1977,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-55.jpg",
+   "cover": "covers/gamepro-55.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-55/manifest.json"
   }
@@ -2013,7 +2013,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-56.jpg",
+   "cover": "covers/gamepro-56.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-56/manifest.json"
   }
@@ -2049,7 +2049,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-57.jpg",
+   "cover": "covers/gamepro-57.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-57/manifest.json"
   }
@@ -2085,7 +2085,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-58.jpg",
+   "cover": "covers/gamepro-58.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-58/manifest.json"
   }
@@ -2121,7 +2121,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-59.jpg",
+   "cover": "covers/gamepro-59.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-59/manifest.json"
   }
@@ -2157,7 +2157,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-60.jpg",
+   "cover": "covers/gamepro-60.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-60/manifest.json"
   }
@@ -2193,7 +2193,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-61.jpg",
+   "cover": "covers/gamepro-61.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-61/manifest.json"
   }
@@ -2229,7 +2229,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-62.jpg",
+   "cover": "covers/gamepro-62.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-62/manifest.json"
   }
@@ -2265,7 +2265,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-63.jpg",
+   "cover": "covers/gamepro-63.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-63/manifest.json"
   }
@@ -2301,7 +2301,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-64.jpg",
+   "cover": "covers/gamepro-64.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-64/manifest.json"
   }
@@ -2337,7 +2337,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-65.jpg",
+   "cover": "covers/gamepro-65.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-65/manifest.json"
   }
@@ -2373,7 +2373,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-66.jpg",
+   "cover": "covers/gamepro-66.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-66/manifest.json"
   }
@@ -2409,7 +2409,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-67.jpg",
+   "cover": "covers/gamepro-67.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-67/manifest.json"
   }
@@ -2445,7 +2445,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-68.jpg",
+   "cover": "covers/gamepro-68.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-68/manifest.json"
   }
@@ -2481,7 +2481,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-69.jpg",
+   "cover": "covers/gamepro-69.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-69/manifest.json"
   }
@@ -2517,7 +2517,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-70.jpg",
+   "cover": "covers/gamepro-70.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-70/manifest.json"
   }
@@ -2553,7 +2553,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-71.jpg",
+   "cover": "covers/gamepro-71.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-71/manifest.json"
   }
@@ -2589,7 +2589,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-72.jpg",
+   "cover": "covers/gamepro-72.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-72/manifest.json"
   }
@@ -2625,7 +2625,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-73.jpg",
+   "cover": "covers/gamepro-73.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-73/manifest.json"
   }
@@ -2661,7 +2661,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-74.jpg",
+   "cover": "covers/gamepro-74.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-74/manifest.json"
   }
@@ -2697,7 +2697,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-75.jpg",
+   "cover": "covers/gamepro-75.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-75/manifest.json"
   }
@@ -2733,7 +2733,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-76.jpg",
+   "cover": "covers/gamepro-76.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-76/manifest.json"
   }
@@ -2769,7 +2769,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-77.jpg",
+   "cover": "covers/gamepro-77.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-77/manifest.json"
   }
@@ -2805,7 +2805,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-78.jpg",
+   "cover": "covers/gamepro-78.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-78/manifest.json"
   }
@@ -2841,7 +2841,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-79.jpg",
+   "cover": "covers/gamepro-79.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-79/manifest.json"
   }
@@ -2877,7 +2877,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-80.jpg",
+   "cover": "covers/gamepro-80.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-80/manifest.json"
   }
@@ -2913,7 +2913,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-91.jpg",
+   "cover": "covers/gamepro-91.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-91/manifest.json"
   }
@@ -2949,7 +2949,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-92.jpg",
+   "cover": "covers/gamepro-92.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-92/manifest.json"
   }
@@ -2985,7 +2985,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-93.jpg",
+   "cover": "covers/gamepro-93.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-93/manifest.json"
   }
@@ -3021,7 +3021,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-94.jpg",
+   "cover": "covers/gamepro-94.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-94/manifest.json"
   }
@@ -3057,7 +3057,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-95.jpg",
+   "cover": "covers/gamepro-95.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-95/manifest.json"
   }
@@ -3093,7 +3093,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-96.jpg",
+   "cover": "covers/gamepro-96.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-96/manifest.json"
   }
@@ -3129,7 +3129,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-97.jpg",
+   "cover": "covers/gamepro-97.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-97/manifest.json"
   }
@@ -3165,7 +3165,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-98.jpg",
+   "cover": "covers/gamepro-98.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-98/manifest.json"
   }
@@ -3201,7 +3201,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-99.jpg",
+   "cover": "covers/gamepro-99.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-99/manifest.json"
   }
@@ -3237,7 +3237,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-100.jpg",
+   "cover": "covers/gamepro-100.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-100/manifest.json"
   }
@@ -3273,7 +3273,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-101.jpg",
+   "cover": "covers/gamepro-101.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-101/manifest.json"
   }
@@ -3309,7 +3309,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-102.jpg",
+   "cover": "covers/gamepro-102.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-102/manifest.json"
   }
@@ -3345,7 +3345,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-103.jpg",
+   "cover": "covers/gamepro-103.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-103/manifest.json"
   }
@@ -3381,7 +3381,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-104.jpg",
+   "cover": "covers/gamepro-104.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-104/manifest.json"
   }
@@ -3417,7 +3417,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-105.jpg",
+   "cover": "covers/gamepro-105.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-105/manifest.json"
   }
@@ -3453,7 +3453,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-106.jpg",
+   "cover": "covers/gamepro-106.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-106/manifest.json"
   }
@@ -3489,7 +3489,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-107.jpg",
+   "cover": "covers/gamepro-107.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-107/manifest.json"
   }
@@ -3525,7 +3525,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-108.jpg",
+   "cover": "covers/gamepro-108.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-108/manifest.json"
   }
@@ -3561,7 +3561,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-109.jpg",
+   "cover": "covers/gamepro-109.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-109/manifest.json"
   }
@@ -3597,7 +3597,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-110.jpg",
+   "cover": "covers/gamepro-110.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-110/manifest.json"
   }
@@ -3633,7 +3633,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-111.jpg",
+   "cover": "covers/gamepro-111.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-111/manifest.json"
   }
@@ -3669,7 +3669,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-112.jpg",
+   "cover": "covers/gamepro-112.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-112/manifest.json"
   }
@@ -3705,7 +3705,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-113.jpg",
+   "cover": "covers/gamepro-113.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-113/manifest.json"
   }
@@ -3741,7 +3741,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-114.jpg",
+   "cover": "covers/gamepro-114.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-114/manifest.json"
   }
@@ -3777,7 +3777,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-115.jpg",
+   "cover": "covers/gamepro-115.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-115/manifest.json"
   }
@@ -3813,7 +3813,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-116.jpg",
+   "cover": "covers/gamepro-116.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-116/manifest.json"
   }
@@ -3849,7 +3849,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-117.jpg",
+   "cover": "covers/gamepro-117.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-117/manifest.json"
   }
@@ -3885,7 +3885,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-118.jpg",
+   "cover": "covers/gamepro-118.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-118/manifest.json"
   }
@@ -3921,7 +3921,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-119.jpg",
+   "cover": "covers/gamepro-119.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-119/manifest.json"
   }
@@ -3957,7 +3957,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-120.jpg",
+   "cover": "covers/gamepro-120.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-120/manifest.json"
   }
@@ -3993,7 +3993,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-121.jpg",
+   "cover": "covers/gamepro-121.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-121/manifest.json"
   }
@@ -4029,7 +4029,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-122.jpg",
+   "cover": "covers/gamepro-122.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-122/manifest.json"
   }
@@ -4065,7 +4065,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-123.jpg",
+   "cover": "covers/gamepro-123.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-123/manifest.json"
   }
@@ -4101,7 +4101,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-124.jpg",
+   "cover": "covers/gamepro-124.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-124/manifest.json"
   }
@@ -4137,7 +4137,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-125.jpg",
+   "cover": "covers/gamepro-125.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-125/manifest.json"
   }
@@ -4173,7 +4173,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-126.jpg",
+   "cover": "covers/gamepro-126.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-126/manifest.json"
   }
@@ -4209,7 +4209,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-127.jpg",
+   "cover": "covers/gamepro-127.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-127/manifest.json"
   }
@@ -4245,7 +4245,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-128.jpg",
+   "cover": "covers/gamepro-128.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-128/manifest.json"
   }
@@ -4281,7 +4281,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-129.jpg",
+   "cover": "covers/gamepro-129.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-129/manifest.json"
   }
@@ -4317,7 +4317,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-130.jpg",
+   "cover": "covers/gamepro-130.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-130/manifest.json"
   }
@@ -4353,7 +4353,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-131.jpg",
+   "cover": "covers/gamepro-131.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-131/manifest.json"
   }
@@ -4389,7 +4389,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-132.jpg",
+   "cover": "covers/gamepro-132.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-132/manifest.json"
   }
@@ -4425,7 +4425,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-133.jpg",
+   "cover": "covers/gamepro-133.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-133/manifest.json"
   }
@@ -4461,7 +4461,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-134.jpg",
+   "cover": "covers/gamepro-134.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-134/manifest.json"
   }
@@ -4497,7 +4497,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-135.jpg",
+   "cover": "covers/gamepro-135.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-135/manifest.json"
   }
@@ -4533,7 +4533,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-136.jpg",
+   "cover": "covers/gamepro-136.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-136/manifest.json"
   }
@@ -4569,7 +4569,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-137.jpg",
+   "cover": "covers/gamepro-137.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-137/manifest.json"
   }
@@ -4605,7 +4605,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-138.jpg",
+   "cover": "covers/gamepro-138.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-138/manifest.json"
   }
@@ -4641,7 +4641,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-139.jpg",
+   "cover": "covers/gamepro-139.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-139/manifest.json"
   }
@@ -4677,7 +4677,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-140.jpg",
+   "cover": "covers/gamepro-140.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-140/manifest.json"
   }
@@ -4713,7 +4713,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-141.jpg",
+   "cover": "covers/gamepro-141.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-141/manifest.json"
   }
@@ -4749,7 +4749,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-142.jpg",
+   "cover": "covers/gamepro-142.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-142/manifest.json"
   }
@@ -4785,7 +4785,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-143.jpg",
+   "cover": "covers/gamepro-143.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-143/manifest.json"
   }
@@ -4821,7 +4821,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-144.jpg",
+   "cover": "covers/gamepro-144.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-144/manifest.json"
   }
@@ -4857,7 +4857,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-145.jpg",
+   "cover": "covers/gamepro-145.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-145/manifest.json"
   }
@@ -4893,7 +4893,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-146.jpg",
+   "cover": "covers/gamepro-146.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-146/manifest.json"
   }
@@ -4929,7 +4929,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-147.jpg",
+   "cover": "covers/gamepro-147.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-147/manifest.json"
   }
@@ -4965,7 +4965,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-148.jpg",
+   "cover": "covers/gamepro-148.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-148/manifest.json"
   }
@@ -5001,7 +5001,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-149.jpg",
+   "cover": "covers/gamepro-149.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-149/manifest.json"
   }
@@ -5037,7 +5037,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-150.jpg",
+   "cover": "covers/gamepro-150.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-150/manifest.json"
   }
@@ -5073,7 +5073,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-151.jpg",
+   "cover": "covers/gamepro-151.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-151/manifest.json"
   }
@@ -5109,7 +5109,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-152.jpg",
+   "cover": "covers/gamepro-152.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-152/manifest.json"
   }
@@ -5145,7 +5145,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-153.jpg",
+   "cover": "covers/gamepro-153.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-153/manifest.json"
   }
@@ -5181,7 +5181,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-154.jpg",
+   "cover": "covers/gamepro-154.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-154/manifest.json"
   }
@@ -5217,7 +5217,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-155.jpg",
+   "cover": "covers/gamepro-155.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-155/manifest.json"
   }
@@ -5253,7 +5253,7 @@
    "height_mm": 216.7
   },
   "assets": {
-   "cover": "site/public/covers/gamepro-156.jpg",
+   "cover": "covers/gamepro-156.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-156/manifest.json"
   }
@@ -5289,7 +5289,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-157.jpg",
+   "cover": "covers/gamepro-157.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-157/manifest.json"
   }
@@ -5325,7 +5325,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-158.jpg",
+   "cover": "covers/gamepro-158.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-158/manifest.json"
   }
@@ -5361,7 +5361,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-159.jpg",
+   "cover": "covers/gamepro-159.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-159/manifest.json"
   }
@@ -5397,7 +5397,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-160.jpg",
+   "cover": "covers/gamepro-160.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-160/manifest.json"
   }
@@ -5433,7 +5433,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-161.jpg",
+   "cover": "covers/gamepro-161.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-161/manifest.json"
   }
@@ -5469,7 +5469,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-162.jpg",
+   "cover": "covers/gamepro-162.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-162/manifest.json"
   }
@@ -5505,7 +5505,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-163.jpg",
+   "cover": "covers/gamepro-163.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-163/manifest.json"
   }
@@ -5541,7 +5541,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-164.jpg",
+   "cover": "covers/gamepro-164.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-164/manifest.json"
   }
@@ -5577,7 +5577,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-165.jpg",
+   "cover": "covers/gamepro-165.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-165/manifest.json"
   }
@@ -5613,7 +5613,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-166.jpg",
+   "cover": "covers/gamepro-166.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-166/manifest.json"
   }
@@ -5649,7 +5649,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-167.jpg",
+   "cover": "covers/gamepro-167.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-167/manifest.json"
   }
@@ -5685,7 +5685,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-168.jpg",
+   "cover": "covers/gamepro-168.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-168/manifest.json"
   }
@@ -5721,7 +5721,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-169.jpg",
+   "cover": "covers/gamepro-169.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-169/manifest.json"
   }
@@ -5757,7 +5757,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-170.jpg",
+   "cover": "covers/gamepro-170.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-170/manifest.json"
   }
@@ -5793,7 +5793,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-171.jpg",
+   "cover": "covers/gamepro-171.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-171/manifest.json"
   }
@@ -5829,7 +5829,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-172.jpg",
+   "cover": "covers/gamepro-172.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-172/manifest.json"
   }
@@ -5865,7 +5865,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-173.jpg",
+   "cover": "covers/gamepro-173.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-173/manifest.json"
   }
@@ -5901,7 +5901,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-174.jpg",
+   "cover": "covers/gamepro-174.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-174/manifest.json"
   }
@@ -5937,7 +5937,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-175.jpg",
+   "cover": "covers/gamepro-175.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-175/manifest.json"
   }
@@ -5973,7 +5973,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-176.jpg",
+   "cover": "covers/gamepro-176.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-176/manifest.json"
   }
@@ -6009,7 +6009,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-177.jpg",
+   "cover": "covers/gamepro-177.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-177/manifest.json"
   }
@@ -6045,7 +6045,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-178.jpg",
+   "cover": "covers/gamepro-178.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-178/manifest.json"
   }
@@ -6081,7 +6081,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-179.jpg",
+   "cover": "covers/gamepro-179.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-179/manifest.json"
   }
@@ -6117,7 +6117,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-180.jpg",
+   "cover": "covers/gamepro-180.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-180/manifest.json"
   }
@@ -6153,7 +6153,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-181.jpg",
+   "cover": "covers/gamepro-181.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-181/manifest.json"
   }
@@ -6189,7 +6189,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-182.jpg",
+   "cover": "covers/gamepro-182.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-182/manifest.json"
   }
@@ -6225,7 +6225,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-183.jpg",
+   "cover": "covers/gamepro-183.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-183/manifest.json"
   }
@@ -6261,7 +6261,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-184.jpg",
+   "cover": "covers/gamepro-184.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-184/manifest.json"
   }
@@ -6297,7 +6297,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-185.jpg",
+   "cover": "covers/gamepro-185.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-185/manifest.json"
   }
@@ -6333,7 +6333,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-186.jpg",
+   "cover": "covers/gamepro-186.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-186/manifest.json"
   }
@@ -6369,7 +6369,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-187.jpg",
+   "cover": "covers/gamepro-187.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-187/manifest.json"
   }
@@ -6405,7 +6405,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-188.jpg",
+   "cover": "covers/gamepro-188.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-188/manifest.json"
   }
@@ -6441,7 +6441,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-189.jpg",
+   "cover": "covers/gamepro-189.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-189/manifest.json"
   }
@@ -6477,7 +6477,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-190.jpg",
+   "cover": "covers/gamepro-190.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-190/manifest.json"
   }
@@ -6513,7 +6513,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-191.jpg",
+   "cover": "covers/gamepro-191.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-191/manifest.json"
   }
@@ -6549,7 +6549,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-192.jpg",
+   "cover": "covers/gamepro-192.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-192/manifest.json"
   }
@@ -6585,7 +6585,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-193.jpg",
+   "cover": "covers/gamepro-193.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-193/manifest.json"
   }
@@ -6621,7 +6621,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-194.jpg",
+   "cover": "covers/gamepro-194.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-194/manifest.json"
   }
@@ -6657,7 +6657,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-195.jpg",
+   "cover": "covers/gamepro-195.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-195/manifest.json"
   }
@@ -6693,7 +6693,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-196.jpg",
+   "cover": "covers/gamepro-196.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-196/manifest.json"
   }
@@ -6729,7 +6729,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-197.jpg",
+   "cover": "covers/gamepro-197.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-197/manifest.json"
   }
@@ -6765,7 +6765,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-198.jpg",
+   "cover": "covers/gamepro-198.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-198/manifest.json"
   }
@@ -6801,7 +6801,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-199.jpg",
+   "cover": "covers/gamepro-199.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-199/manifest.json"
   }
@@ -6837,7 +6837,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-200.jpg",
+   "cover": "covers/gamepro-200.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-200/manifest.json"
   }
@@ -6873,7 +6873,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-201.jpg",
+   "cover": "covers/gamepro-201.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-201/manifest.json"
   }
@@ -6909,7 +6909,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-202.jpg",
+   "cover": "covers/gamepro-202.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-202/manifest.json"
   }
@@ -6945,7 +6945,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-203.jpg",
+   "cover": "covers/gamepro-203.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-203/manifest.json"
   }
@@ -6981,7 +6981,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-204.jpg",
+   "cover": "covers/gamepro-204.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-204/manifest.json"
   }
@@ -7017,7 +7017,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-205.jpg",
+   "cover": "covers/gamepro-205.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-205/manifest.json"
   }
@@ -7053,7 +7053,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-206.jpg",
+   "cover": "covers/gamepro-206.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-206/manifest.json"
   }
@@ -7089,7 +7089,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-207.jpg",
+   "cover": "covers/gamepro-207.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-207/manifest.json"
   }
@@ -7125,7 +7125,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-208.jpg",
+   "cover": "covers/gamepro-208.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-208/manifest.json"
   }
@@ -7161,7 +7161,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-209.jpg",
+   "cover": "covers/gamepro-209.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-209/manifest.json"
   }
@@ -7197,7 +7197,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-210.jpg",
+   "cover": "covers/gamepro-210.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-210/manifest.json"
   }
@@ -7233,7 +7233,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-211.jpg",
+   "cover": "covers/gamepro-211.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-211/manifest.json"
   }
@@ -7269,7 +7269,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-212.jpg",
+   "cover": "covers/gamepro-212.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-212/manifest.json"
   }
@@ -7305,7 +7305,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-213.jpg",
+   "cover": "covers/gamepro-213.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-213/manifest.json"
   }
@@ -7341,7 +7341,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-214.jpg",
+   "cover": "covers/gamepro-214.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-214/manifest.json"
   }
@@ -7377,7 +7377,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-215.jpg",
+   "cover": "covers/gamepro-215.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-215/manifest.json"
   }
@@ -7413,7 +7413,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-216.jpg",
+   "cover": "covers/gamepro-216.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-216/manifest.json"
   }
@@ -7449,7 +7449,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-217.jpg",
+   "cover": "covers/gamepro-217.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-217/manifest.json"
   }
@@ -7485,7 +7485,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-218.jpg",
+   "cover": "covers/gamepro-218.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-218/manifest.json"
   }
@@ -7521,7 +7521,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-219.jpg",
+   "cover": "covers/gamepro-219.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-219/manifest.json"
   }
@@ -7557,7 +7557,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-220.jpg",
+   "cover": "covers/gamepro-220.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-220/manifest.json"
   }
@@ -7593,7 +7593,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-221.jpg",
+   "cover": "covers/gamepro-221.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-221/manifest.json"
   }
@@ -7629,7 +7629,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-222.jpg",
+   "cover": "covers/gamepro-222.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-222/manifest.json"
   }
@@ -7665,7 +7665,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-223.jpg",
+   "cover": "covers/gamepro-223.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-223/manifest.json"
   }
@@ -7701,7 +7701,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-224.jpg",
+   "cover": "covers/gamepro-224.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-224/manifest.json"
   }
@@ -7737,7 +7737,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-225.jpg",
+   "cover": "covers/gamepro-225.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-225/manifest.json"
   }
@@ -7773,7 +7773,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-226.jpg",
+   "cover": "covers/gamepro-226.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-226/manifest.json"
   }
@@ -7809,7 +7809,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-227.jpg",
+   "cover": "covers/gamepro-227.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-227/manifest.json"
   }
@@ -7845,7 +7845,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-228.jpg",
+   "cover": "covers/gamepro-228.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-228/manifest.json"
   }
@@ -7881,7 +7881,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-229.jpg",
+   "cover": "covers/gamepro-229.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-229/manifest.json"
   }
@@ -7917,7 +7917,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-230.jpg",
+   "cover": "covers/gamepro-230.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-230/manifest.json"
   }
@@ -7953,7 +7953,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-231.jpg",
+   "cover": "covers/gamepro-231.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-231/manifest.json"
   }
@@ -7989,7 +7989,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-232.jpg",
+   "cover": "covers/gamepro-232.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-232/manifest.json"
   }
@@ -8025,7 +8025,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-233.jpg",
+   "cover": "covers/gamepro-233.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-233/manifest.json"
   }
@@ -8061,7 +8061,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-234.jpg",
+   "cover": "covers/gamepro-234.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-234/manifest.json"
   }
@@ -8097,7 +8097,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-235.jpg",
+   "cover": "covers/gamepro-235.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-235/manifest.json"
   }
@@ -8133,7 +8133,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-236.jpg",
+   "cover": "covers/gamepro-236.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-236/manifest.json"
   }
@@ -8169,7 +8169,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-237.jpg",
+   "cover": "covers/gamepro-237.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-237/manifest.json"
   }
@@ -8205,7 +8205,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-238.jpg",
+   "cover": "covers/gamepro-238.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-238/manifest.json"
   }
@@ -8241,7 +8241,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-239.jpg",
+   "cover": "covers/gamepro-239.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-239/manifest.json"
   }
@@ -8277,7 +8277,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-240.jpg",
+   "cover": "covers/gamepro-240.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-240/manifest.json"
   }
@@ -8313,7 +8313,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-241.jpg",
+   "cover": "covers/gamepro-241.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-241/manifest.json"
   }
@@ -8349,7 +8349,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-242.jpg",
+   "cover": "covers/gamepro-242.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-242/manifest.json"
   }
@@ -8385,7 +8385,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-243.jpg",
+   "cover": "covers/gamepro-243.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-243/manifest.json"
   }
@@ -8421,7 +8421,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-244.jpg",
+   "cover": "covers/gamepro-244.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-244/manifest.json"
   }
@@ -8457,7 +8457,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-245.jpg",
+   "cover": "covers/gamepro-245.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-245/manifest.json"
   }
@@ -8493,7 +8493,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-246.jpg",
+   "cover": "covers/gamepro-246.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-246/manifest.json"
   }
@@ -8529,7 +8529,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-247.jpg",
+   "cover": "covers/gamepro-247.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-247/manifest.json"
   }
@@ -8565,7 +8565,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-248.jpg",
+   "cover": "covers/gamepro-248.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-248/manifest.json"
   }
@@ -8601,7 +8601,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-249.jpg",
+   "cover": "covers/gamepro-249.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-249/manifest.json"
   }
@@ -8637,7 +8637,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-250.jpg",
+   "cover": "covers/gamepro-250.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-250/manifest.json"
   }
@@ -8673,7 +8673,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-251.jpg",
+   "cover": "covers/gamepro-251.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-251/manifest.json"
   }
@@ -8709,7 +8709,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-252.jpg",
+   "cover": "covers/gamepro-252.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-252/manifest.json"
   }
@@ -8745,7 +8745,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-253.jpg",
+   "cover": "covers/gamepro-253.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-253/manifest.json"
   }
@@ -8781,7 +8781,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-254.jpg",
+   "cover": "covers/gamepro-254.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-254/manifest.json"
   }
@@ -8817,7 +8817,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-255.jpg",
+   "cover": "covers/gamepro-255.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-255/manifest.json"
   }
@@ -8853,7 +8853,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-256.jpg",
+   "cover": "covers/gamepro-256.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-256/manifest.json"
   }
@@ -8889,7 +8889,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-257.jpg",
+   "cover": "covers/gamepro-257.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-257/manifest.json"
   }
@@ -8925,7 +8925,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-258.jpg",
+   "cover": "covers/gamepro-258.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-258/manifest.json"
   }
@@ -8961,7 +8961,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-259.jpg",
+   "cover": "covers/gamepro-259.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-259/manifest.json"
   }
@@ -8997,7 +8997,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-260.jpg",
+   "cover": "covers/gamepro-260.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-260/manifest.json"
   }
@@ -9033,7 +9033,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-261.jpg",
+   "cover": "covers/gamepro-261.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-261/manifest.json"
   }
@@ -9069,7 +9069,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-262.jpg",
+   "cover": "covers/gamepro-262.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-262/manifest.json"
   }
@@ -9105,7 +9105,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-263.jpg",
+   "cover": "covers/gamepro-263.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-263/manifest.json"
   }
@@ -9141,7 +9141,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-264.jpg",
+   "cover": "covers/gamepro-264.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-264/manifest.json"
   }
@@ -9177,7 +9177,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-265.jpg",
+   "cover": "covers/gamepro-265.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-265/manifest.json"
   }
@@ -9213,7 +9213,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-266.jpg",
+   "cover": "covers/gamepro-266.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-266/manifest.json"
   }
@@ -9249,7 +9249,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-267.jpg",
+   "cover": "covers/gamepro-267.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-267/manifest.json"
   }
@@ -9285,7 +9285,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-268.jpg",
+   "cover": "covers/gamepro-268.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-268/manifest.json"
   }
@@ -9321,7 +9321,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-269.jpg",
+   "cover": "covers/gamepro-269.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-269/manifest.json"
   }
@@ -9357,7 +9357,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-270.jpg",
+   "cover": "covers/gamepro-270.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-270/manifest.json"
   }
@@ -9393,7 +9393,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-271.jpg",
+   "cover": "covers/gamepro-271.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-271/manifest.json"
   }
@@ -9429,7 +9429,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-272.jpg",
+   "cover": "covers/gamepro-272.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-272/manifest.json"
   }
@@ -9465,7 +9465,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-273.jpg",
+   "cover": "covers/gamepro-273.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-273/manifest.json"
   }
@@ -9501,7 +9501,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-274.jpg",
+   "cover": "covers/gamepro-274.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-274/manifest.json"
   }
@@ -9537,7 +9537,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-275.jpg",
+   "cover": "covers/gamepro-275.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-275/manifest.json"
   }
@@ -9573,7 +9573,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-276.jpg",
+   "cover": "covers/gamepro-276.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-276/manifest.json"
   }
@@ -9609,7 +9609,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-277.jpg",
+   "cover": "covers/gamepro-277.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-277/manifest.json"
   }
@@ -9645,7 +9645,7 @@
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
   "assets": {
-   "cover": "site/public/covers/gamepro-201112-winter-quarterly-2011.jpg",
+   "cover": "covers/gamepro-201112-winter-quarterly-2011.jpg",
    "pages_rendered": true,
    "manifest": "site/public/pages/gamepro-201112-winter-quarterly-2011/manifest.json"
   }

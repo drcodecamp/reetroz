@@ -30,7 +30,7 @@
   },
   "updated_at": "2026-09-14T09:33:58+00:00",
   "assets": {
-   "cover": "site/public/covers/ign-magazines-1998-ign64-com-the-magazine.jpg",
+   "cover": "covers/ign-magazines-1998-ign64-com-the-magazine.jpg",
    "pages_rendered": false
   }
  },
@@ -66,7 +66,7 @@
   "updated_at": "2026-09-14T09:33:58+00:00",
   "volume": 1,
   "assets": {
-   "cover": "site/public/covers/ign-magazines-1.jpg",
+   "cover": "covers/ign-magazines-1.jpg",
    "pages_rendered": false
   }
  }

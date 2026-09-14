@@ -31,7 +31,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-1.jpg",
+   "cover": "covers/neopets-magazine-1.jpg",
    "pages_rendered": false
   }
  },
@@ -67,7 +67,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-2.jpg",
+   "cover": "covers/neopets-magazine-2.jpg",
    "pages_rendered": false
   }
  },
@@ -103,7 +103,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-3.jpg",
+   "cover": "covers/neopets-magazine-3.jpg",
    "pages_rendered": false
   }
  },
@@ -139,7 +139,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-4.jpg",
+   "cover": "covers/neopets-magazine-4.jpg",
    "pages_rendered": false
   }
  },
@@ -175,7 +175,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-5.jpg",
+   "cover": "covers/neopets-magazine-5.jpg",
    "pages_rendered": false
   }
  },
@@ -211,7 +211,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-6.jpg",
+   "cover": "covers/neopets-magazine-6.jpg",
    "pages_rendered": false
   }
  },
@@ -247,7 +247,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-7.jpg",
+   "cover": "covers/neopets-magazine-7.jpg",
    "pages_rendered": false
   }
  },
@@ -283,7 +283,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-8.jpg",
+   "cover": "covers/neopets-magazine-8.jpg",
    "pages_rendered": false
   }
  },
@@ -318,7 +318,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-10.jpg",
+   "cover": "covers/neopets-magazine-10.jpg",
    "pages_rendered": false
   }
  },
@@ -353,7 +353,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-11.jpg",
+   "cover": "covers/neopets-magazine-11.jpg",
    "pages_rendered": false
   }
  },
@@ -388,7 +388,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-12.jpg",
+   "cover": "covers/neopets-magazine-12.jpg",
    "pages_rendered": false
   }
  },
@@ -423,7 +423,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-13.jpg",
+   "cover": "covers/neopets-magazine-13.jpg",
    "pages_rendered": false
   }
  },
@@ -459,7 +459,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-9.jpg",
+   "cover": "covers/neopets-magazine-9.jpg",
    "pages_rendered": false
   }
  },
@@ -495,7 +495,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-14.jpg",
+   "cover": "covers/neopets-magazine-14.jpg",
    "pages_rendered": false
   }
  },
@@ -531,7 +531,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-15.jpg",
+   "cover": "covers/neopets-magazine-15.jpg",
    "pages_rendered": false
   }
  },
@@ -567,7 +567,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-16.jpg",
+   "cover": "covers/neopets-magazine-16.jpg",
    "pages_rendered": false
   }
  },
@@ -603,7 +603,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-17.jpg",
+   "cover": "covers/neopets-magazine-17.jpg",
    "pages_rendered": false
   }
  },
@@ -639,7 +639,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-18.jpg",
+   "cover": "covers/neopets-magazine-18.jpg",
    "pages_rendered": false
   }
  },
@@ -675,7 +675,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-19.jpg",
+   "cover": "covers/neopets-magazine-19.jpg",
    "pages_rendered": false
   }
  },
@@ -711,7 +711,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-20.jpg",
+   "cover": "covers/neopets-magazine-20.jpg",
    "pages_rendered": false
   }
  },
@@ -747,7 +747,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-21.jpg",
+   "cover": "covers/neopets-magazine-21.jpg",
    "pages_rendered": false
   }
  },
@@ -783,7 +783,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-22.jpg",
+   "cover": "covers/neopets-magazine-22.jpg",
    "pages_rendered": false
   }
  },
@@ -819,7 +819,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-23.jpg",
+   "cover": "covers/neopets-magazine-23.jpg",
    "pages_rendered": false
   }
  },
@@ -855,7 +855,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-24.jpg",
+   "cover": "covers/neopets-magazine-24.jpg",
    "pages_rendered": false
   }
  },
@@ -891,7 +891,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-25.jpg",
+   "cover": "covers/neopets-magazine-25.jpg",
    "pages_rendered": false
   }
  },
@@ -927,7 +927,7 @@
   },
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
-   "cover": "site/public/covers/neopets-magazine-26.jpg",
+   "cover": "covers/neopets-magazine-26.jpg",
    "pages_rendered": false
   }
  }
