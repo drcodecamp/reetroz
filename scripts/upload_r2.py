@@ -98,6 +98,7 @@ def delete_keys(s3, bucket: str, keys: list[str]) -> None:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--issue", action="append", default=[], help="issue id, e.g. cgw-186")
+    ap.add_argument("--publication", action="append", default=[], help="every rendered issue of a publication")
     ap.add_argument("--covers", action="store_true", help="upload every cover")
     ap.add_argument("--all-rendered", action="store_true", help="every issue with a manifest")
     ap.add_argument("--prune", action="store_true", help="delete objects in the bucket that have no local counterpart (old formats, PDFs)")
@@ -117,6 +118,17 @@ def main() -> int:
             for f in sorted(root.glob("*.jpg"))
         ]
     issue_ids = list(args.issue)
+    if args.publication:
+        for pub in args.publication:
+            prefix = pub + "-"
+            for root in (PAGES_ROOT, LOCAL_PAGES):
+                if not root.exists():
+                    continue
+                issue_ids += [
+                    p.name
+                    for p in root.iterdir()
+                    if p.name.startswith(prefix) and (p / "manifest.json").exists()
+                ]
     if args.all_rendered:
         for root in (PAGES_ROOT, LOCAL_PAGES):
             if root.exists():

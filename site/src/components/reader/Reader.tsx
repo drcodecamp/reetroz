@@ -8,6 +8,7 @@ import { saveProgress, useMediaQuery, useSpeed } from "@/lib/progress";
 
 const SPEEDS = [2, 3, 5, 8, 12, 20];
 const IDLE_MS = 2600;
+const CROSSFADE_MS = 1400;
 
 type Props = {
   issue: CatalogIssue;
@@ -45,7 +46,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
   const [uiVisible, setUiVisible] = useState(true);
   const [speedOpen, setSpeedOpen] = useState(false);
   const [scrubbing, setScrubbing] = useState(false);
-  const [elapsed, setElapsed] = useState(0); // 0..1 progress of current page timer
+  const ringRef = useRef<SVGCircleElement>(null);
 
   // Pausing always brings the controls back.
   const setPlaying = useCallback((next: boolean | ((v: boolean) => boolean)) => {
@@ -59,24 +60,71 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
   const idleTimer = useRef<number | null>(null);
   const rootRef = useRef<HTMLDivElement>(null);
   const filmstripRef = useRef<HTMLDivElement>(null);
+  const shownKeyRef = useRef<string | null>(null);
+  const [outgoing, setOutgoing] = useState<number[] | null>(null);
+  const [crossfading, setCrossfading] = useState(false);
 
   // --- derived --------------------------------------------------------------
   const pagesShown = useMemo(
     () => (spread ? spreadFor(page, total) : [page]),
     [spread, page, total],
   );
+  const pagesKey = pagesShown.join("-");
   const meta = manifest.pageList[page - 1];
   const ambient = meta?.color ?? "#06080f";
 
+  useEffect(() => {
+    if (shownKeyRef.current === null) {
+      shownKeyRef.current = pagesKey;
+      return;
+    }
+    if (shownKeyRef.current === pagesKey) return;
+    const leaving = shownKeyRef.current.split("-").map(Number);
+    shownKeyRef.current = pagesKey;
+    setOutgoing(leaving);
+    setCrossfading(false);
+  }, [pagesKey]);
+
+  const beginCrossfade = useCallback(() => {
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => setCrossfading(true));
+    });
+  }, []);
+
+  useEffect(() => {
+    if (!outgoing) return;
+    const fallback = window.setTimeout(beginCrossfade, 900);
+    return () => window.clearTimeout(fallback);
+  }, [outgoing, pagesKey, beginCrossfade]);
+
+  useEffect(() => {
+    if (!outgoing || !crossfading) return;
+    const done = window.setTimeout(() => {
+      setOutgoing(null);
+      setCrossfading(false);
+    }, CROSSFADE_MS);
+    return () => window.clearTimeout(done);
+  }, [outgoing, crossfading]);
+
   // --- navigation -------------------------------------------------------------
+  const setRing = useCallback((t: number) => {
+    const el = ringRef.current;
+    if (!el) return;
+    el.style.strokeDashoffset = String(2 * Math.PI * 17 * (1 - t));
+  }, []);
+
   const goTo = useCallback(
     (p: number, opts: { keepPlaying?: boolean } = {}) => {
       const next = clamp(p);
+      if (next !== page) {
+        setOutgoing(pagesShown);
+        setCrossfading(false);
+      }
       setPage(next);
-      setElapsed(0);
+      setRing(0);
       if (!opts.keepPlaying) setPlaying(false);
     },
-    [clamp, setPlaying],
+    [clamp, setPlaying, page, pagesShown, setRing],
   );
 
   const advance = useCallback(
@@ -101,24 +149,31 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
     [spread, page, total, goTo, setPlaying],
   );
 
-  // --- autoplay timer -----------------------------------------------------------
+  // Autoplay waits `speed` seconds on a settled spread, then turns with the
+  // same dissolve as the arrow keys. The ring is written on the SVG node so
+  // the page layers aren't re-rendered every frame.
   useEffect(() => {
-    if (!playing) return;
+    if (!playing) {
+      setRing(0);
+      return;
+    }
+    if (outgoing) return;
+
     let frame = 0;
     const started = performance.now();
-    const duration = speed * 1000;
+    const duration = Math.round(speed * 1000);
     const tick = (now: number) => {
-      const t = (now - started) / duration;
+      const t = Math.min(1, (now - started) / duration);
+      setRing(t);
       if (t >= 1) {
         advance(1, { keepPlaying: true });
         return;
       }
-      setElapsed(t);
       frame = requestAnimationFrame(tick);
     };
     frame = requestAnimationFrame(tick);
     return () => cancelAnimationFrame(frame);
-  }, [playing, speed, page, advance]);
+  }, [playing, outgoing, speed, advance, setRing]);
 
   // --- persistence + URL ------------------------------------------------------
   useEffect(() => {
@@ -272,32 +327,46 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
           </div>
         ) : (
           <div
-            key={pagesShown.join("-")}
-            className={`flex h-full w-full items-center justify-center gap-1 animate-fade-up ${drift && playing ? "reader-drift" : ""}`}
-            style={{ animationDuration: "420ms" }}
+            className="relative h-full w-full"
+            style={{ ["--reader-fade-ms" as string]: `${CROSSFADE_MS}ms` }}
           >
-            {pagesShown.map((p, i) => {
-              const m = manifest.pageList[p - 1];
-              return (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img
-                  key={p}
-                  src={pageUrl(issue.slug, p, "read", manifest.format.read)}
-                  alt={`Page ${p} of ${total}`}
-                  width={m.w}
-                  height={m.h}
-                  decoding="async"
-                  draggable={false}
-                  className={`h-auto max-h-full w-auto object-contain shadow-[0_30px_80px_-10px_rgba(0,0,0,0.85)] ${
-                    pagesShown.length === 1
-                      ? "max-w-full rounded-sm"
-                      : i === 0
-                        ? "max-w-[calc(50%-2px)] rounded-l-sm"
-                        : "max-w-[calc(50%-2px)] rounded-r-sm"
-                  }`}
+            {outgoing && (
+              <div
+                className={`pointer-events-none absolute inset-0 flex items-center justify-center gap-1 ${
+                  crossfading ? "reader-fade-out" : ""
+                }`}
+                aria-hidden
+              >
+                <Spread
+                  pages={outgoing}
+                  issue={issue}
+                  manifest={manifest}
+                  total={total}
                 />
-              );
-            })}
+              </div>
+            )}
+            <div
+              className={`absolute inset-0 flex items-center justify-center gap-1 ${
+                outgoing
+                  ? crossfading
+                    ? "reader-fade-in"
+                    : "reader-fade-hidden"
+                  : ""
+              }`}
+            >
+              <div
+                key={pagesKey}
+                className={`flex h-full w-full items-center justify-center gap-1 ${drift && playing ? "reader-drift" : ""}`}
+              >
+                <Spread
+                  pages={pagesShown}
+                  issue={issue}
+                  manifest={manifest}
+                  total={total}
+                  onReady={outgoing ? beginCrossfade : undefined}
+                />
+              </div>
+            </div>
           </div>
         )}
       </div>
@@ -392,6 +461,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
             <svg className="absolute inset-0 -rotate-90" viewBox="0 0 40 40" aria-hidden>
               <circle cx="20" cy="20" r="17" fill="none" stroke="rgba(6,8,15,0.18)" strokeWidth="3" />
               <circle
+                ref={ringRef}
                 cx="20"
                 cy="20"
                 r="17"
@@ -400,7 +470,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
                 strokeWidth="3"
                 strokeLinecap="round"
                 strokeDasharray={ring}
-                strokeDashoffset={ring * (1 - (playing ? elapsed : 0))}
+                strokeDashoffset={ring}
               />
             </svg>
             {playing ? (
@@ -516,6 +586,60 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
         </div>
       )}
     </div>
+  );
+}
+
+function Spread({
+  pages,
+  issue,
+  manifest,
+  total,
+  onReady,
+}: {
+  pages: number[];
+  issue: CatalogIssue;
+  manifest: IssueManifest;
+  total: number;
+  onReady?: () => void;
+}) {
+  const loaded = useRef(0);
+  const notified = useRef(false);
+
+  const mark = useCallback(() => {
+    loaded.current += 1;
+    if (!notified.current && loaded.current >= pages.length) {
+      notified.current = true;
+      onReady?.();
+    }
+  }, [onReady, pages.length]);
+
+  return (
+    <>
+      {pages.map((p, i) => {
+        const m = manifest.pageList[p - 1];
+        return (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            key={p}
+            src={pageUrl(issue.slug, p, "read", manifest.format.read)}
+            alt={onReady ? "" : `Page ${p} of ${total}`}
+            width={m.w}
+            height={m.h}
+            decoding="async"
+            draggable={false}
+            onLoad={mark}
+            onError={mark}
+            className={`h-auto max-h-full w-auto object-contain shadow-[0_30px_80px_-10px_rgba(0,0,0,0.85)] ${
+              pages.length === 1
+                ? "max-w-full rounded-sm"
+                : i === 0
+                  ? "max-w-[calc(50%-2px)] rounded-l-sm"
+                  : "max-w-[calc(50%-2px)] rounded-r-sm"
+            }`}
+          />
+        );
+      })}
+    </>
   );
 }
 

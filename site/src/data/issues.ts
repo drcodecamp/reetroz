@@ -1,3 +1,5 @@
+import { assetUrl } from "@/lib/assets";
+
 export type Issue = {
   number: string;
   year: number;
@@ -9,7 +11,7 @@ export type Issue = {
   h: number;
 };
 
-export const issues: Issue[] = [
+const rawIssues: Issue[] = [
   { number: "1.1", year: 1981, date: "Nov-Dec 1981", pages: 40, cover: "/covers/cgw-1-1.jpg", file: "cgw_1.1.pdf", w: 458, h: 600 },
   { number: "2.1", year: 1982, date: "Jan-Feb 1982", pages: 40, cover: "/covers/cgw-2-1.jpg", file: "cgw_2.1.pdf", w: 452, h: 600 },
   { number: "3.4", year: 1983, date: "Jul-Aug 1983", pages: 56, cover: "/covers/cgw-3-4.jpg", file: "cgw_3.4.pdf", w: 452, h: 600 },
@@ -35,5 +37,10 @@ export const issues: Issue[] = [
   { number: "258", year: 2006, date: "Jan 2006", pages: 124, cover: "/covers/cgw-258.jpg", file: "cgw_258.pdf", w: 434, h: 600 },
   { number: "268", year: 2006, date: "Nov 2006", pages: 136, cover: "/covers/cgw-268.jpg", file: "cgw_268.pdf", w: 424, h: 600 },
 ];
+
+export const issues: Issue[] = rawIssues.map((i) => ({
+  ...i,
+  cover: assetUrl(i.cover),
+}));
 
 export const byNumber = (n: string) => issues.find((i) => i.number === n)!;
