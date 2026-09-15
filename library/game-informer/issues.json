@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-2/manifest.json"
   }
  },
  {
@@ -103,7 +105,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-3/manifest.json"
   }
  },
  {
@@ -138,7 +141,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-4/manifest.json"
   }
  },
  {
@@ -173,7 +177,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-5/manifest.json"
   }
  },
  {
@@ -209,7 +214,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-6/manifest.json"
   }
  },
  {
@@ -245,7 +251,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-7/manifest.json"
   }
  },
  {
@@ -281,7 +288,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-8/manifest.json"
   }
  },
  {
@@ -317,7 +325,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-9/manifest.json"
   }
  },
  {
@@ -353,7 +362,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-10/manifest.json"
   }
  },
  {
@@ -389,7 +399,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-11/manifest.json"
   }
  },
  {
@@ -425,7 +436,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-12/manifest.json"
   }
  },
  {
@@ -461,7 +473,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-13/manifest.json"
   }
  },
  {
@@ -497,7 +510,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-14/manifest.json"
   }
  },
  {
@@ -533,7 +547,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-15/manifest.json"
   }
  },
  {
@@ -569,7 +584,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-16/manifest.json"
   }
  },
  {
@@ -605,7 +621,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-17/manifest.json"
   }
  },
  {
@@ -641,7 +658,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-18/manifest.json"
   }
  },
  {
@@ -676,7 +694,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-19/manifest.json"
   }
  },
  {
@@ -711,7 +730,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-20/manifest.json"
   }
  },
  {
@@ -746,7 +766,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-21/manifest.json"
   }
  },
  {
@@ -781,7 +802,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-22/manifest.json"
   }
  },
  {
@@ -816,7 +838,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-23/manifest.json"
   }
  },
  {
@@ -851,7 +874,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-24/manifest.json"
   }
  },
  {
@@ -886,7 +910,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-25/manifest.json"
   }
  },
  {
@@ -921,7 +946,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-26/manifest.json"
   }
  },
  {
@@ -956,7 +982,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-27/manifest.json"
   }
  },
  {
@@ -991,7 +1018,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-28/manifest.json"
   }
  },
  {
@@ -1026,7 +1054,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-29/manifest.json"
   }
  },
  {
@@ -1061,7 +1090,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-30/manifest.json"
   }
  },
  {
@@ -1096,7 +1126,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-31/manifest.json"
   }
  },
  {
@@ -1131,7 +1162,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-32/manifest.json"
   }
  },
  {
@@ -1166,7 +1198,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-33/manifest.json"
   }
  },
  {
@@ -1201,7 +1234,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-34/manifest.json"
   }
  },
  {
@@ -1236,7 +1270,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-35/manifest.json"
   }
  },
  {
@@ -1271,7 +1306,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-36/manifest.json"
   }
  },
  {
@@ -1306,7 +1342,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-37/manifest.json"
   }
  },
  {
@@ -1341,7 +1378,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-38/manifest.json"
   }
  },
  {
@@ -1376,7 +1414,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-39/manifest.json"
   }
  },
  {
@@ -1411,7 +1450,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-40/manifest.json"
   }
  },
  {
@@ -1446,7 +1486,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-41/manifest.json"
   }
  },
  {
@@ -1481,7 +1522,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-42/manifest.json"
   }
  },
  {
@@ -1516,7 +1558,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-43/manifest.json"
   }
  },
  {
@@ -1551,7 +1594,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-44.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-44/manifest.json"
   }
  },
  {
@@ -1586,7 +1630,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-45/manifest.json"
   }
  },
  {
@@ -1621,7 +1666,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-46/manifest.json"
   }
  },
  {
@@ -1656,7 +1702,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-47/manifest.json"
   }
  },
  {
@@ -1691,7 +1738,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-48/manifest.json"
   }
  },
  {
@@ -1726,7 +1774,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-49/manifest.json"
   }
  },
  {
@@ -1761,7 +1810,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-50/manifest.json"
   }
  },
  {
@@ -1796,7 +1846,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-51/manifest.json"
   }
  },
  {
@@ -1831,7 +1882,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-52/manifest.json"
   }
  },
  {
@@ -1866,7 +1918,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-53/manifest.json"
   }
  },
  {
@@ -1901,7 +1954,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-54/manifest.json"
   }
  },
  {
@@ -1936,7 +1990,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-55/manifest.json"
   }
  },
  {
@@ -1971,7 +2026,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-56/manifest.json"
   }
  },
  {
@@ -2006,7 +2062,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-57/manifest.json"
   }
  },
  {
@@ -2041,7 +2098,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-58/manifest.json"
   }
  },
  {
@@ -2076,7 +2134,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-59/manifest.json"
   }
  },
  {
@@ -2111,7 +2170,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-60/manifest.json"
   }
  },
  {
@@ -2146,7 +2206,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-61/manifest.json"
   }
  },
  {
@@ -2181,7 +2242,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-62.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-62/manifest.json"
   }
  },
  {
@@ -2216,7 +2278,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-63/manifest.json"
   }
  },
  {
@@ -2251,7 +2314,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-64.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-64/manifest.json"
   }
  },
  {
@@ -2286,7 +2350,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-65.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-65/manifest.json"
   }
  },
  {
@@ -2321,7 +2386,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-66.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-66/manifest.json"
   }
  },
  {
@@ -2356,7 +2422,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-67.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-67/manifest.json"
   }
  },
  {
@@ -2391,7 +2458,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-68.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-68/manifest.json"
   }
  },
  {
@@ -2426,7 +2494,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-1999-special-edition-the-final-fantasy-companion.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-1999-special-edition-the-final-fantasy-companion/manifest.json"
   }
  },
  {
@@ -2461,7 +2530,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-69/manifest.json"
   }
  },
  {
@@ -2496,7 +2566,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-70.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-70/manifest.json"
   }
  },
  {
@@ -2531,7 +2602,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-71/manifest.json"
   }
  },
  {
@@ -2566,7 +2638,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-72.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-72/manifest.json"
   }
  },
  {
@@ -2601,7 +2674,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-73/manifest.json"
   }
  },
  {
@@ -2636,7 +2710,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-74/manifest.json"
   }
  },
  {
@@ -2671,7 +2746,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-75/manifest.json"
   }
  },
  {
@@ -2706,7 +2782,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-76.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-76/manifest.json"
   }
  },
  {
@@ -2741,7 +2818,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-77.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-77/manifest.json"
   }
  },
  {
@@ -2776,7 +2854,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-78.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-78/manifest.json"
   }
  },
  {
@@ -2811,7 +2890,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-79/manifest.json"
   }
  },
  {
@@ -2846,7 +2926,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-80/manifest.json"
   }
  },
  {
@@ -2881,7 +2962,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-81/manifest.json"
   }
  },
  {
@@ -2916,7 +2998,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-82/manifest.json"
   }
  },
  {
@@ -2951,7 +3034,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-83/manifest.json"
   }
  },
  {
@@ -2986,7 +3070,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-84/manifest.json"
   }
  },
  {
@@ -3021,7 +3106,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-85/manifest.json"
   }
  },
  {
@@ -3056,7 +3142,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-86/manifest.json"
   }
  },
  {
@@ -3091,7 +3178,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-87/manifest.json"
   }
  },
  {
@@ -3126,7 +3214,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-88/manifest.json"
   }
  },
  {
@@ -3161,7 +3250,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-89/manifest.json"
   }
  },
  {
@@ -3196,7 +3286,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-90/manifest.json"
   }
  },
  {
@@ -3231,7 +3322,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-91/manifest.json"
   }
  },
  {
@@ -3266,7 +3358,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-92/manifest.json"
   }
  },
  {
@@ -3301,7 +3394,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-93/manifest.json"
   }
  },
  {
@@ -3336,7 +3430,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-94/manifest.json"
   }
  },
  {
@@ -3371,7 +3466,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-95/manifest.json"
   }
  },
  {
@@ -3406,7 +3502,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-96/manifest.json"
   }
  },
  {
@@ -3441,7 +3538,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-97/manifest.json"
   }
  },
  {
@@ -3476,7 +3574,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-98.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-98/manifest.json"
   }
  },
  {
@@ -3511,7 +3610,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-99.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-99/manifest.json"
   }
  },
  {
@@ -3546,7 +3646,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-100.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-100/manifest.json"
   }
  },
  {
@@ -3581,7 +3682,8 @@
   },
   "assets": {
    "cover": "covers/game-informer-101.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-101/manifest.json"
   }
  },
  {
@@ -3616,7 +3718,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-102.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-102/manifest.json"
   }
  },
  {
@@ -3651,7 +3754,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-103.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-103/manifest.json"
   }
  },
  {
@@ -3686,7 +3790,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-104.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-104/manifest.json"
   }
  },
  {
@@ -3721,7 +3826,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-105.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-105/manifest.json"
   }
  },
  {
@@ -3756,7 +3862,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-106.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-106/manifest.json"
   }
  },
  {
@@ -3791,7 +3898,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-107.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-107/manifest.json"
   }
  },
  {
@@ -3826,7 +3934,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-108.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-108/manifest.json"
   }
  },
  {
@@ -3861,7 +3970,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-109.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-109/manifest.json"
   }
  },
  {
@@ -3896,7 +4006,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-110.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-110/manifest.json"
   }
  },
  {
@@ -3931,7 +4042,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-111.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-111/manifest.json"
   }
  },
  {
@@ -3966,7 +4078,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-112.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-112/manifest.json"
   }
  },
  {
@@ -4001,7 +4114,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-113.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-113/manifest.json"
   }
  },
  {
@@ -4036,7 +4150,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-114.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-114/manifest.json"
   }
  },
  {
@@ -4071,7 +4186,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-115.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-115/manifest.json"
   }
  },
  {
@@ -4106,7 +4222,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-116.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-116/manifest.json"
   }
  },
  {
@@ -4141,7 +4258,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-117.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-117/manifest.json"
   }
  },
  {
@@ -4176,7 +4294,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-118.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-118/manifest.json"
   }
  },
  {
@@ -4211,7 +4330,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-119.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-119/manifest.json"
   }
  },
  {
@@ -4246,7 +4366,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-120.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-120/manifest.json"
   }
  },
  {
@@ -4281,7 +4402,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-121.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-121/manifest.json"
   }
  },
  {
@@ -4316,7 +4438,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-122.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-122/manifest.json"
   }
  },
  {
@@ -4351,7 +4474,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-123.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-123/manifest.json"
   }
  },
  {
@@ -4386,7 +4510,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-124.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-124/manifest.json"
   }
  },
  {
@@ -4421,7 +4546,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-125.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-125/manifest.json"
   }
  },
  {
@@ -4456,7 +4582,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-126.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-126/manifest.json"
   }
  },
  {
@@ -4491,7 +4618,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-127.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-127/manifest.json"
   }
  },
  {
@@ -4526,7 +4654,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-128.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-128/manifest.json"
   }
  },
  {
@@ -4561,7 +4690,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-129.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-129/manifest.json"
   }
  },
  {
@@ -4596,7 +4726,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-130.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-130/manifest.json"
   }
  },
  {
@@ -4631,7 +4762,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-131.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-131/manifest.json"
   }
  },
  {
@@ -4666,7 +4798,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-132.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-132/manifest.json"
   }
  },
  {
@@ -4701,7 +4834,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-133.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-133/manifest.json"
   }
  },
  {
@@ -4736,7 +4870,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-134.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-134/manifest.json"
   }
  },
  {
@@ -4771,7 +4906,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-135.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-135/manifest.json"
   }
  },
  {
@@ -4806,7 +4942,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-136.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-136/manifest.json"
   }
  },
  {
@@ -4841,7 +4978,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-137.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-137/manifest.json"
   }
  },
  {
@@ -4876,7 +5014,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-138.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-138/manifest.json"
   }
  },
  {
@@ -4911,7 +5050,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-139.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-139/manifest.json"
   }
  },
  {
@@ -4946,7 +5086,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-140.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-140/manifest.json"
   }
  },
  {
@@ -4981,7 +5122,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-141.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-141/manifest.json"
   }
  },
  {
@@ -5016,7 +5158,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-142.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-142/manifest.json"
   }
  },
  {
@@ -5051,7 +5194,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-143.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-143/manifest.json"
   }
  },
  {
@@ -5086,7 +5230,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-144.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-144/manifest.json"
   }
  },
  {
@@ -5121,7 +5266,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-145.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-145/manifest.json"
   }
  },
  {
@@ -5156,7 +5302,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-146.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-146/manifest.json"
   }
  },
  {
@@ -5191,7 +5338,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-147.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-147/manifest.json"
   }
  },
  {
@@ -5226,7 +5374,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-148.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-148/manifest.json"
   }
  },
  {
@@ -5261,7 +5410,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-149.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-149/manifest.json"
   }
  },
  {
@@ -5296,7 +5446,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-150.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-150/manifest.json"
   }
  },
  {
@@ -5331,7 +5482,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-151.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-151/manifest.json"
   }
  },
  {
@@ -5366,7 +5518,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-152.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-152/manifest.json"
   }
  },
  {
@@ -5401,7 +5554,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-153.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-153/manifest.json"
   }
  },
  {
@@ -5436,7 +5590,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-154.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-154/manifest.json"
   }
  },
  {
@@ -5471,7 +5626,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-155.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-155/manifest.json"
   }
  },
  {
@@ -5506,7 +5662,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-156.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-156/manifest.json"
   }
  },
  {
@@ -5541,7 +5698,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-157.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-157/manifest.json"
   }
  },
  {
@@ -5576,7 +5734,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-158.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-158/manifest.json"
   }
  },
  {
@@ -5611,7 +5770,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-159.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-159/manifest.json"
   }
  },
  {
@@ -5646,7 +5806,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-160.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-160/manifest.json"
   }
  },
  {
@@ -5681,7 +5842,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-161.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-161/manifest.json"
   }
  },
  {
@@ -5716,7 +5878,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-162.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-162/manifest.json"
   }
  },
  {
@@ -5751,7 +5914,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-163.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-163/manifest.json"
   }
  },
  {
@@ -5786,7 +5950,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-164.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-164/manifest.json"
   }
  },
  {
@@ -5821,7 +5986,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-165.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-165/manifest.json"
   }
  },
  {
@@ -5856,7 +6022,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-166.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-166/manifest.json"
   }
  },
  {
@@ -5891,7 +6058,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-167.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-167/manifest.json"
   }
  },
  {
@@ -5926,7 +6094,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-168.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-168/manifest.json"
   }
  },
  {
@@ -5961,7 +6130,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-169.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-169/manifest.json"
   }
  },
  {
@@ -5996,7 +6166,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-170.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-170/manifest.json"
   }
  },
  {
@@ -6031,7 +6202,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-171.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-171/manifest.json"
   }
  },
  {
@@ -6066,7 +6238,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-172.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-172/manifest.json"
   }
  },
  {
@@ -6101,7 +6274,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-173.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-173/manifest.json"
   }
  },
  {
@@ -6136,7 +6310,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-174.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-174/manifest.json"
   }
  },
  {
@@ -6171,7 +6346,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-175.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-175/manifest.json"
   }
  },
  {
@@ -6206,7 +6382,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-176.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-176/manifest.json"
   }
  },
  {
@@ -6241,7 +6418,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-177.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-177/manifest.json"
   }
  },
  {
@@ -6276,7 +6454,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-178.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-178/manifest.json"
   }
  },
  {
@@ -6311,7 +6490,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-179.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-179/manifest.json"
   }
  },
  {
@@ -6346,7 +6526,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-180.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-180/manifest.json"
   }
  },
  {
@@ -6381,7 +6562,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-181.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-181/manifest.json"
   }
  },
  {
@@ -6416,7 +6598,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-182.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-182/manifest.json"
   }
  },
  {
@@ -6451,7 +6634,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-183.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-183/manifest.json"
   }
  },
  {
@@ -6486,7 +6670,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-184.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-184/manifest.json"
   }
  },
  {
@@ -6521,7 +6706,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-185.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-185/manifest.json"
   }
  },
  {
@@ -6556,7 +6742,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-186.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-186/manifest.json"
   }
  },
  {
@@ -6591,7 +6778,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-187.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-187/manifest.json"
   }
  },
  {
@@ -6626,7 +6814,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-188.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-188/manifest.json"
   }
  },
  {
@@ -6661,7 +6850,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-189.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-189/manifest.json"
   }
  },
  {
@@ -6696,7 +6886,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-190.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-190/manifest.json"
   }
  },
  {
@@ -6731,7 +6922,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-191.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-191/manifest.json"
   }
  },
  {
@@ -6766,7 +6958,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-192.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-192/manifest.json"
   }
  },
  {
@@ -6801,7 +6994,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-193.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-193/manifest.json"
   }
  },
  {
@@ -6836,7 +7030,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-194.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-194/manifest.json"
   }
  },
  {
@@ -6871,7 +7066,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-195.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-195/manifest.json"
   }
  },
  {
@@ -6906,7 +7102,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-196.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-196/manifest.json"
   }
  },
  {
@@ -6941,7 +7138,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-197.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-197/manifest.json"
   }
  },
  {
@@ -6976,7 +7174,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-198.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-198/manifest.json"
   }
  },
  {
@@ -7011,7 +7210,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-199.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-199/manifest.json"
   }
  },
  {
@@ -7046,7 +7246,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-200.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-200/manifest.json"
   }
  },
  {
@@ -7081,7 +7282,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-201.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-201/manifest.json"
   }
  },
  {
@@ -7116,7 +7318,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-202.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-202/manifest.json"
   }
  },
  {
@@ -7151,7 +7354,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-203.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-203/manifest.json"
   }
  },
  {
@@ -7186,7 +7390,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-204.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-204/manifest.json"
   }
  },
  {
@@ -7221,7 +7426,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-205.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-205/manifest.json"
   }
  },
  {
@@ -7256,7 +7462,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-206.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-206/manifest.json"
   }
  },
  {
@@ -7291,7 +7498,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-207.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-207/manifest.json"
   }
  },
  {
@@ -7326,7 +7534,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-208.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-208/manifest.json"
   }
  },
  {
@@ -7361,7 +7570,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-209.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-209/manifest.json"
   }
  },
  {
@@ -7396,7 +7606,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-210.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-210/manifest.json"
   }
  },
  {
@@ -7431,7 +7642,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-211.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-211/manifest.json"
   }
  },
  {
@@ -7466,7 +7678,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-212.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-212/manifest.json"
   }
  },
  {
@@ -7501,7 +7714,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-213.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-213/manifest.json"
   }
  },
  {
@@ -7536,7 +7750,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-214.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-214/manifest.json"
   }
  },
  {
@@ -7571,7 +7786,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-215.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-215/manifest.json"
   }
  },
  {
@@ -7606,7 +7822,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-216.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-216/manifest.json"
   }
  },
  {
@@ -7641,7 +7858,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-217.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-217/manifest.json"
   }
  },
  {
@@ -7676,7 +7894,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-218.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-218/manifest.json"
   }
  },
  {
@@ -7711,7 +7930,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-219.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-219/manifest.json"
   }
  },
  {
@@ -7746,7 +7966,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-220.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-220/manifest.json"
   }
  },
  {
@@ -7781,7 +8002,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-221.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-221/manifest.json"
   }
  },
  {
@@ -7816,7 +8038,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-222.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-222/manifest.json"
   }
  },
  {
@@ -7851,7 +8074,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-223.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-223/manifest.json"
   }
  },
  {
@@ -7886,7 +8110,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-224.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-224/manifest.json"
   }
  },
  {
@@ -7921,7 +8146,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-225.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-225/manifest.json"
   }
  },
  {
@@ -7956,7 +8182,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-226.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-226/manifest.json"
   }
  },
  {
@@ -7991,7 +8218,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-227.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-227/manifest.json"
   }
  },
  {
@@ -8026,7 +8254,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-228.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-228/manifest.json"
   }
  },
  {
@@ -8061,7 +8290,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-229.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-229/manifest.json"
   }
  },
  {
@@ -8096,7 +8326,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-230.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-230/manifest.json"
   }
  },
  {
@@ -8131,7 +8362,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-231.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-231/manifest.json"
   }
  },
  {
@@ -8166,7 +8398,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-232.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-232/manifest.json"
   }
  },
  {
@@ -8201,7 +8434,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-233.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-233/manifest.json"
   }
  },
  {
@@ -8236,7 +8470,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-234.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-234/manifest.json"
   }
  },
  {
@@ -8271,7 +8506,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-235.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-235/manifest.json"
   }
  },
  {
@@ -8306,7 +8542,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-236.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-236/manifest.json"
   }
  },
  {
@@ -8341,7 +8578,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-237.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-237/manifest.json"
   }
  },
  {
@@ -8376,7 +8614,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-238.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-238/manifest.json"
   }
  },
  {
@@ -8411,7 +8650,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-239.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-239/manifest.json"
   }
  },
  {
@@ -8446,7 +8686,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-240.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-240/manifest.json"
   }
  },
  {
@@ -8481,7 +8722,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-241.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-241/manifest.json"
   }
  },
  {
@@ -8516,7 +8758,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-242.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-242/manifest.json"
   }
  },
  {
@@ -8551,7 +8794,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-243.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-243/manifest.json"
   }
  },
  {
@@ -8586,7 +8830,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-244.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-244/manifest.json"
   }
  },
  {
@@ -8621,7 +8866,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-245.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-245/manifest.json"
   }
  },
  {
@@ -8656,7 +8902,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-246.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-246/manifest.json"
   }
  },
  {
@@ -8691,7 +8938,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-247.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-247/manifest.json"
   }
  },
  {
@@ -8726,7 +8974,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-248.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-248/manifest.json"
   }
  },
  {
@@ -8761,7 +9010,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-249.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-249/manifest.json"
   }
  },
  {
@@ -8796,7 +9046,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-250.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-250/manifest.json"
   }
  },
  {
@@ -8831,7 +9082,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-251.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-251/manifest.json"
   }
  },
  {
@@ -8866,7 +9118,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-252.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-252/manifest.json"
   }
  },
  {
@@ -8901,7 +9154,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-253.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-253/manifest.json"
   }
  },
  {
@@ -8936,7 +9190,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-254.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-254/manifest.json"
   }
  },
  {
@@ -8971,7 +9226,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-255.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-255/manifest.json"
   }
  },
  {
@@ -9006,7 +9262,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-256.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-256/manifest.json"
   }
  },
  {
@@ -9041,7 +9298,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-257.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-257/manifest.json"
   }
  },
  {
@@ -9076,7 +9334,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-258.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-258/manifest.json"
   }
  },
  {
@@ -9111,7 +9370,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-259.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-259/manifest.json"
   }
  },
  {
@@ -9146,7 +9406,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-260.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-260/manifest.json"
   }
  },
  {
@@ -9181,7 +9442,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-261.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-261/manifest.json"
   }
  },
  {
@@ -9216,7 +9478,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-262.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-262/manifest.json"
   }
  },
  {
@@ -9251,7 +9514,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-263.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-263/manifest.json"
   }
  },
  {
@@ -9286,7 +9550,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-264.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-264/manifest.json"
   }
  },
  {
@@ -9321,7 +9586,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-265.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-265/manifest.json"
   }
  },
  {
@@ -9356,7 +9622,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-266.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-266/manifest.json"
   }
  },
  {
@@ -9391,7 +9658,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-267.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-267/manifest.json"
   }
  },
  {
@@ -9426,7 +9694,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-268.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-268/manifest.json"
   }
  },
  {
@@ -9461,7 +9730,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-269.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-269/manifest.json"
   }
  },
  {
@@ -9496,7 +9766,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-270.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-270/manifest.json"
   }
  },
  {
@@ -9531,7 +9802,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-271.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-271/manifest.json"
   }
  },
  {
@@ -9566,7 +9838,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-272.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-272/manifest.json"
   }
  },
  {
@@ -9601,7 +9874,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-273.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-273/manifest.json"
   }
  },
  {
@@ -9636,7 +9910,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-274.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-274/manifest.json"
   }
  },
  {
@@ -9671,7 +9946,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-275.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-275/manifest.json"
   }
  },
  {
@@ -9706,7 +9982,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-276.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-276/manifest.json"
   }
  },
  {
@@ -9741,7 +10018,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-277.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-277/manifest.json"
   }
  },
  {
@@ -9776,7 +10054,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-278.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-278/manifest.json"
   }
  },
  {
@@ -9811,7 +10090,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-279.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-279/manifest.json"
   }
  },
  {
@@ -9846,7 +10126,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-280.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-280/manifest.json"
   }
  },
  {
@@ -9881,7 +10162,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-281.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-281/manifest.json"
   }
  },
  {
@@ -9916,7 +10198,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-282.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-282/manifest.json"
   }
  },
  {
@@ -9951,7 +10234,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-283.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-283/manifest.json"
   }
  },
  {
@@ -9986,7 +10270,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-284.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-284/manifest.json"
   }
  },
  {
@@ -10021,7 +10306,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-285.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-285/manifest.json"
   }
  },
  {
@@ -10056,7 +10342,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-286.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-286/manifest.json"
   }
  },
  {
@@ -10091,7 +10378,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-287.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-287/manifest.json"
   }
  },
  {
@@ -10126,7 +10414,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-288.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-288/manifest.json"
   }
  },
  {
@@ -10161,7 +10450,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-289.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-289/manifest.json"
   }
  },
  {
@@ -10196,7 +10486,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-290.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-290/manifest.json"
   }
  },
  {
@@ -10231,7 +10522,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-291.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-291/manifest.json"
   }
  },
  {
@@ -10266,7 +10558,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-292.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-292/manifest.json"
   }
  },
  {
@@ -10301,7 +10594,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-294.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-294/manifest.json"
   }
  },
  {
@@ -10336,7 +10630,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-296.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-296/manifest.json"
   }
  },
  {
@@ -10371,7 +10666,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-297.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-297/manifest.json"
   }
  },
  {
@@ -10406,7 +10702,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-298.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-298/manifest.json"
   }
  },
  {
@@ -10441,7 +10738,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-299.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-299/manifest.json"
   }
  },
  {
@@ -10476,7 +10774,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-300.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-300/manifest.json"
   }
  },
  {
@@ -10511,7 +10810,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-301.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-301/manifest.json"
   }
  },
  {
@@ -10546,7 +10846,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-302.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-302/manifest.json"
   }
  },
  {
@@ -10581,7 +10882,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-303.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-303/manifest.json"
   }
  },
  {
@@ -10616,7 +10918,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-304.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-304/manifest.json"
   }
  },
  {
@@ -10651,7 +10954,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-305.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-305/manifest.json"
   }
  },
  {
@@ -10686,7 +10990,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-306.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-306/manifest.json"
   }
  },
  {
@@ -10721,7 +11026,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-307.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-307/manifest.json"
   }
  },
  {
@@ -10756,7 +11062,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-308.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-308/manifest.json"
   }
  },
  {
@@ -10791,7 +11098,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-309.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-309/manifest.json"
   }
  },
  {
@@ -10826,7 +11134,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-310.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-310/manifest.json"
   }
  },
  {
@@ -10861,7 +11170,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-311.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-311/manifest.json"
   }
  },
  {
@@ -10896,7 +11206,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-312.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-312/manifest.json"
   }
  },
  {
@@ -10931,7 +11242,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-313.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-313/manifest.json"
   }
  },
  {
@@ -10966,7 +11278,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-314.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-314/manifest.json"
   }
  },
  {
@@ -11001,7 +11314,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-316.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-316/manifest.json"
   }
  },
  {
@@ -11036,7 +11350,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-317.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-317/manifest.json"
   }
  },
  {
@@ -11071,7 +11386,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-318.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-318/manifest.json"
   }
  },
  {
@@ -11106,7 +11422,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-319.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-319/manifest.json"
   }
  },
  {
@@ -11141,7 +11458,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-320.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-320/manifest.json"
   }
  },
  {
@@ -11176,7 +11494,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-321.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-321/manifest.json"
   }
  },
  {
@@ -11211,7 +11530,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-322.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-322/manifest.json"
   }
  },
  {
@@ -11246,7 +11566,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-323.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-323/manifest.json"
   }
  },
  {
@@ -11281,7 +11602,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-324.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-324/manifest.json"
   }
  },
  {
@@ -11316,7 +11638,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-325.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-325/manifest.json"
   }
  },
  {
@@ -11351,7 +11674,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-326.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-326/manifest.json"
   }
  },
  {
@@ -11386,7 +11710,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-327.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-327/manifest.json"
   }
  },
  {
@@ -11421,7 +11746,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-328.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-328/manifest.json"
   }
  },
  {
@@ -11456,7 +11782,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-329.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-329/manifest.json"
   }
  },
  {
@@ -11491,7 +11818,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-330.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-330/manifest.json"
   }
  },
  {
@@ -11526,7 +11854,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-331.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-331/manifest.json"
   }
  },
  {
@@ -11561,7 +11890,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-332.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-332/manifest.json"
   }
  },
  {
@@ -11596,7 +11926,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-333.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-333/manifest.json"
   }
  },
  {
@@ -11631,7 +11962,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-334.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-334/manifest.json"
   }
  },
  {
@@ -11666,7 +11998,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-335.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-335/manifest.json"
   }
  },
  {
@@ -11701,7 +12034,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-336.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-336/manifest.json"
   }
  },
  {
@@ -11736,7 +12070,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-337.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-337/manifest.json"
   }
  },
  {
@@ -11771,7 +12106,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-338.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-338/manifest.json"
   }
  },
  {
@@ -11806,7 +12142,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-339.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-339/manifest.json"
   }
  },
  {
@@ -11841,7 +12178,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-340.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-340/manifest.json"
   }
  },
  {
@@ -11876,7 +12214,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-341.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-341/manifest.json"
   }
  },
  {
@@ -11911,7 +12250,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-342.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-342/manifest.json"
   }
  },
  {
@@ -11946,7 +12286,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-343.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-343/manifest.json"
   }
  },
  {
@@ -11981,7 +12322,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-344.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-344/manifest.json"
   }
  },
  {
@@ -12016,7 +12358,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-345.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-345/manifest.json"
   }
  },
  {
@@ -12051,7 +12394,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-346.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-346/manifest.json"
   }
  },
  {
@@ -12086,7 +12430,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-347.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-347/manifest.json"
   }
  },
  {
@@ -12121,7 +12466,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-348.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-348/manifest.json"
   }
  },
  {
@@ -12156,7 +12502,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-349.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-349/manifest.json"
   }
  },
  {
@@ -12191,7 +12538,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-350.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-350/manifest.json"
   }
  },
  {
@@ -12226,7 +12574,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-351.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-351/manifest.json"
   }
  },
  {
@@ -12261,7 +12610,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-352.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-352/manifest.json"
   }
  },
  {
@@ -12296,7 +12646,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-353.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-353/manifest.json"
   }
  },
  {
@@ -12331,7 +12682,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-354.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-354/manifest.json"
   }
  },
  {
@@ -12366,7 +12718,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-356.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-356/manifest.json"
   }
  },
  {
@@ -12401,7 +12754,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-357.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-357/manifest.json"
   }
  },
  {
@@ -12436,7 +12790,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-358.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-358/manifest.json"
   }
  },
  {
@@ -12471,7 +12826,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-359.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-359/manifest.json"
   }
  },
  {
@@ -12506,7 +12862,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-360.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-360/manifest.json"
   }
  },
  {
@@ -12541,7 +12898,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-361.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-361/manifest.json"
   }
  },
  {
@@ -12576,7 +12934,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-362.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-362/manifest.json"
   }
  },
  {
@@ -12611,7 +12970,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-363.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-363/manifest.json"
   }
  },
  {
@@ -12646,7 +13006,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-364.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-364/manifest.json"
   }
  },
  {
@@ -12681,7 +13042,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-365.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-365/manifest.json"
   }
  },
  {
@@ -12716,7 +13078,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-366.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-366/manifest.json"
   }
  },
  {
@@ -12751,7 +13114,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-367.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-367/manifest.json"
   }
  },
  {
@@ -12786,7 +13150,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-368.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-368/manifest.json"
   }
  },
  {
@@ -12821,7 +13186,8 @@
   "updated_at": "2026-09-14T09:33:42+00:00",
   "assets": {
    "cover": "covers/game-informer-355.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-informer-355/manifest.json"
   }
  }
 ]

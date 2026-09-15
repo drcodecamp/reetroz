@@ -66,6 +66,7 @@ def main() -> int:
     ap.add_argument("--publication", required=True)
     ap.add_argument("--workers", type=int, default=1)
     ap.add_argument("--no-upload", action="store_true")
+    ap.add_argument("--no-catalog", action="store_true", help="skip catalog rebuild (safe for parallel pubs)")
     ap.add_argument("--force", action="store_true", help="re-encode existing pages")
     ap.add_argument("--limit", type=int, default=0, help="only do the first N pending issues")
     ap.add_argument("--webp-read", action="store_true", help="Write read-tier pages as WebP")
@@ -137,8 +138,9 @@ def main() -> int:
             for n, fut in enumerate(cf.as_completed(futures), 1):
                 consume(n, fut.result())
 
-    print("Rebuilding site catalog...", flush=True)
-    subprocess.run([sys.executable, "-X", "utf8", str(SCRIPTS / "build_pages.py")], check=False)
+    if not args.no_catalog:
+        print("Rebuilding site catalog...", flush=True)
+        subprocess.run([sys.executable, "-X", "utf8", str(SCRIPTS / "build_pages.py")], check=False)
     if failures:
         print(f"{len(failures)} issue(s) failed: {', '.join(i for i, _ in failures)}")
         return 1

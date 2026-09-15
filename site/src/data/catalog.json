@@ -4615,7 +4615,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-1.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4783,7 +4783,7 @@
   "pages": 111,
   "cover": "/covers/nintendo-power-3.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4881,7 +4881,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5427,7 +5427,7 @@
   "pages": 111,
   "cover": "/covers/nintendo-power-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5511,7 +5511,7 @@
   "pages": 84,
   "cover": "/covers/nintendo-power-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5651,7 +5651,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5735,7 +5735,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5847,7 +5847,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6029,7 +6029,7 @@
   "pages": 103,
   "cover": "/covers/nintendo-power-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6575,7 +6575,7 @@
   "pages": 78,
   "cover": "/covers/nintendo-power-15.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6715,7 +6715,7 @@
   "pages": 76,
   "cover": "/covers/nintendo-power-19.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7037,7 +7037,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7121,7 +7121,7 @@
   "pages": 84,
   "cover": "/covers/nintendo-power-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7163,7 +7163,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7429,7 +7429,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7541,7 +7541,7 @@
   "pages": 92,
   "cover": "/covers/nintendo-power-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7667,7 +7667,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-18.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7779,7 +7779,7 @@
   "pages": 84,
   "cover": "/covers/nintendo-power-17.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7947,7 +7947,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8339,7 +8339,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-23.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8535,7 +8535,7 @@
   "pages": 96,
   "cover": "/covers/nintendo-power-27.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8703,7 +8703,7 @@
   "pages": 107,
   "cover": "/covers/nintendo-power-31.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8759,7 +8759,7 @@
   "pages": 16,
   "cover": "/covers/game-informer-1.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8899,7 +8899,7 @@
   "pages": 108,
   "cover": "/covers/nintendo-power-21.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9067,7 +9067,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-20.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9221,7 +9221,7 @@
   "pages": 111,
   "cover": "/covers/nintendo-power-26.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9347,7 +9347,7 @@
   "pages": 77,
   "cover": "/covers/nintendo-power-25.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9501,7 +9501,7 @@
   "pages": 108,
   "cover": "/covers/nintendo-power-22.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9641,7 +9641,7 @@
   "pages": 107,
   "cover": "/covers/nintendo-power-24.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9767,7 +9767,7 @@
   "pages": 110,
   "cover": "/covers/nintendo-power-30.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9809,7 +9809,7 @@
   "pages": 36,
   "cover": "/covers/game-informer-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9935,7 +9935,7 @@
   "pages": 108,
   "cover": "/covers/nintendo-power-29.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10089,7 +10089,7 @@
   "pages": 108,
   "cover": "/covers/nintendo-power-28.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10425,7 +10425,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-35.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10579,7 +10579,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-39.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10831,7 +10831,7 @@
   "pages": 131,
   "cover": "/covers/nintendo-power-43.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11041,7 +11041,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-33.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11209,7 +11209,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-32.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11251,7 +11251,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-3.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11419,7 +11419,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-38.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11615,7 +11615,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-37.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11755,7 +11755,7 @@
   "pages": 123,
   "cover": "/covers/nintendo-power-34.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11895,7 +11895,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-36.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12077,7 +12077,7 @@
   "pages": 128,
   "cover": "/covers/nintendo-power-42.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12147,7 +12147,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12357,7 +12357,7 @@
   "pages": 128,
   "cover": "/covers/nintendo-power-41.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12511,7 +12511,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-40.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12539,7 +12539,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12567,7 +12567,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12623,7 +12623,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12903,7 +12903,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-47.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13155,7 +13155,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-51.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13393,7 +13393,7 @@
   "pages": 130,
   "cover": "/covers/nintendo-power-55.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13589,7 +13589,7 @@
   "pages": 118,
   "cover": "/covers/nintendo-power-45.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13841,7 +13841,7 @@
   "pages": 172,
   "cover": "/covers/nintendo-power-44.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13911,7 +13911,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14107,7 +14107,7 @@
   "pages": 119,
   "cover": "/covers/nintendo-power-50.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14163,7 +14163,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14359,7 +14359,7 @@
   "pages": 118,
   "cover": "/covers/nintendo-power-49.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14583,7 +14583,7 @@
   "pages": 128,
   "cover": "/covers/nintendo-power-46.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14639,7 +14639,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14821,7 +14821,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-48.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14877,7 +14877,7 @@
   "pages": 76,
   "cover": "/covers/game-informer-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15045,7 +15045,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-54.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15115,7 +15115,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-13.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15325,7 +15325,7 @@
   "pages": 120,
   "cover": "/covers/nintendo-power-53.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15563,7 +15563,7 @@
   "pages": 119,
   "cover": "/covers/nintendo-power-52.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15633,7 +15633,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15941,7 +15941,7 @@
   "pages": 116,
   "cover": "/covers/nintendo-power-59.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16249,7 +16249,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-63.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16487,7 +16487,7 @@
   "pages": 76,
   "cover": "/covers/game-informer-20.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16585,7 +16585,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-67.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16837,7 +16837,7 @@
   "pages": 116,
   "cover": "/covers/nintendo-power-57.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17103,7 +17103,7 @@
   "pages": 145,
   "cover": "/covers/nintendo-power-56.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17173,7 +17173,7 @@
   "pages": 72,
   "cover": "/covers/game-informer-14.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17369,7 +17369,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-62.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17453,7 +17453,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-17.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17621,7 +17621,7 @@
   "pages": 116,
   "cover": "/covers/nintendo-power-61.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17859,7 +17859,7 @@
   "pages": 118,
   "cover": "/covers/nintendo-power-58.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17929,7 +17929,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-15.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18111,7 +18111,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-60.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18181,7 +18181,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-16.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18293,7 +18293,7 @@
   "pages": 76,
   "cover": "/covers/game-informer-19.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18377,7 +18377,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-66.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18629,7 +18629,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-65.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18881,7 +18881,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18965,7 +18965,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-18.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19203,7 +19203,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-24.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19315,7 +19315,7 @@
   "pages": 120,
   "cover": "/covers/nintendo-power-71.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19483,7 +19483,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-28.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19595,7 +19595,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-75.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19819,7 +19819,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-32.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19945,7 +19945,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-79.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20225,7 +20225,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-22.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20323,7 +20323,7 @@
   "pages": 125,
   "cover": "/covers/nintendo-power-69.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20575,7 +20575,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-21.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20673,7 +20673,7 @@
   "pages": 146,
   "cover": "/covers/nintendo-power-68.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20855,7 +20855,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-27.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20911,7 +20911,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-74.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21107,7 +21107,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-26.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21205,7 +21205,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-73.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21429,7 +21429,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-23.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21527,7 +21527,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-70.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21737,7 +21737,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-25.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21849,7 +21849,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-72.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22101,7 +22101,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-31.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22185,7 +22185,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-78.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22395,7 +22395,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-30.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22507,7 +22507,7 @@
   "pages": 116,
   "cover": "/covers/nintendo-power-77.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22689,7 +22689,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-29.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22759,7 +22759,7 @@
   "pages": 122,
   "cover": "/covers/nintendo-power-76.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23039,7 +23039,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-36.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23137,7 +23137,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-83.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23347,7 +23347,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-40.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23445,7 +23445,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-87.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23683,7 +23683,7 @@
   "pages": 86,
   "cover": "/covers/game-informer-44.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23781,7 +23781,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-91.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24005,7 +24005,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-34.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24117,7 +24117,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-81.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24355,7 +24355,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-33.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24439,7 +24439,7 @@
   "pages": 143,
   "cover": "/covers/nintendo-power-80.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -24649,7 +24649,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-39.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24733,7 +24733,7 @@
   "pages": 110,
   "cover": "/covers/nintendo-power-86.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24929,7 +24929,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-38.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25027,7 +25027,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-85.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25251,7 +25251,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-35.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25349,7 +25349,7 @@
   "pages": 113,
   "cover": "/covers/nintendo-power-82.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25573,7 +25573,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-37.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25671,7 +25671,7 @@
   "pages": 116,
   "cover": "/covers/nintendo-power-84.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25881,7 +25881,7 @@
   "pages": 67,
   "cover": "/covers/game-informer-43.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25979,7 +25979,7 @@
   "pages": 110,
   "cover": "/covers/nintendo-power-90.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26147,7 +26147,7 @@
   "pages": 72,
   "cover": "/covers/game-informer-42.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26245,7 +26245,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-89.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26427,7 +26427,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-41.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26511,7 +26511,7 @@
   "pages": 117,
   "cover": "/covers/nintendo-power-88.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26819,7 +26819,7 @@
   "pages": 72,
   "cover": "/covers/game-informer-48.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26903,7 +26903,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-95.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27057,7 +27057,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-52.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27127,7 +27127,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-99.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27295,7 +27295,7 @@
   "pages": 84,
   "cover": "/covers/game-informer-56.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27365,7 +27365,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-103.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27547,7 +27547,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-46.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27617,7 +27617,7 @@
   "pages": 113,
   "cover": "/covers/nintendo-power-93.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27799,7 +27799,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-45.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27869,7 +27869,7 @@
   "pages": 113,
   "cover": "/covers/nintendo-power-92.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28065,7 +28065,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-51.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28135,7 +28135,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-98.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28317,7 +28317,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-50.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28401,7 +28401,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-97.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28583,7 +28583,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-47.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28653,7 +28653,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-94.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28807,7 +28807,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-49.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28891,7 +28891,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-96.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29059,7 +29059,7 @@
   "pages": 92,
   "cover": "/covers/game-informer-55.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29129,7 +29129,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-102.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29311,7 +29311,7 @@
   "pages": 84,
   "cover": "/covers/game-informer-54.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29381,7 +29381,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-101.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29535,7 +29535,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-53.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29605,7 +29605,7 @@
   "pages": 123,
   "cover": "/covers/nintendo-power-100.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29899,7 +29899,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-60.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29969,7 +29969,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-107.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30151,7 +30151,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30221,7 +30221,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-111.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30389,7 +30389,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-68.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30445,7 +30445,7 @@
   "pages": 154,
   "cover": "/covers/nintendo-power-115.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30669,7 +30669,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-58.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30739,7 +30739,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-105.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30921,7 +30921,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-57.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30991,7 +30991,7 @@
   "pages": 150,
   "cover": "/covers/nintendo-power-104.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31159,7 +31159,7 @@
   "pages": 72,
   "cover": "/covers/game-informer-63.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31229,7 +31229,7 @@
   "pages": 110,
   "cover": "/covers/nintendo-power-110.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31397,7 +31397,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-62.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31467,7 +31467,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-109.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31621,7 +31621,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-59.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31691,7 +31691,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-106.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31859,7 +31859,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-61.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31929,7 +31929,7 @@
   "pages": 112,
   "cover": "/covers/nintendo-power-108.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32139,7 +32139,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-67.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32195,7 +32195,7 @@
   "pages": 149,
   "cover": "/covers/nintendo-power-114.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32349,7 +32349,7 @@
   "pages": 92,
   "cover": "/covers/game-informer-66.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32419,7 +32419,7 @@
   "pages": 130,
   "cover": "/covers/nintendo-power-113.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32587,7 +32587,7 @@
   "pages": 76,
   "cover": "/covers/game-informer-65.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32657,7 +32657,7 @@
   "pages": 126,
   "cover": "/covers/nintendo-power-112.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32895,7 +32895,7 @@
   "pages": 132,
   "cover": "/covers/game-informer-1999-special-edition-the-final-fantasy-companion.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33007,7 +33007,7 @@
   "pages": 76,
   "cover": "/covers/game-informer-72.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33063,7 +33063,7 @@
   "pages": 136,
   "cover": "/covers/nintendo-power-119.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33217,7 +33217,7 @@
   "pages": 96,
   "cover": "/covers/game-informer-76.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33273,7 +33273,7 @@
   "pages": 166,
   "cover": "/covers/nintendo-power-123.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33441,7 +33441,7 @@
   "pages": 128,
   "cover": "/covers/game-informer-80.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33525,7 +33525,7 @@
   "pages": 202,
   "cover": "/covers/nintendo-power-127.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33707,7 +33707,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-70.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33763,7 +33763,7 @@
   "pages": 138,
   "cover": "/covers/nintendo-power-117.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33931,7 +33931,7 @@
   "pages": 84,
   "cover": "/covers/game-informer-69.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33987,7 +33987,7 @@
   "pages": 149,
   "cover": "/covers/nintendo-power-116.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34127,7 +34127,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-75.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34183,7 +34183,7 @@
   "pages": 134,
   "cover": "/covers/nintendo-power-122.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34337,7 +34337,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-74.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34393,7 +34393,7 @@
   "pages": 132,
   "cover": "/covers/nintendo-power-121.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34561,7 +34561,7 @@
   "pages": 68,
   "cover": "/covers/game-informer-71.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34617,7 +34617,7 @@
   "pages": 142,
   "cover": "/covers/nintendo-power-118.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34785,7 +34785,7 @@
   "pages": 80,
   "cover": "/covers/game-informer-73.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34841,7 +34841,7 @@
   "pages": 146,
   "cover": "/covers/nintendo-power-120.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34981,7 +34981,7 @@
   "pages": 110,
   "cover": "/covers/game-informer-79.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35037,7 +35037,7 @@
   "pages": 198,
   "cover": "/covers/nintendo-power-126.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35191,7 +35191,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-78.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35247,7 +35247,7 @@
   "pages": 171,
   "cover": "/covers/nintendo-power-125.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35401,7 +35401,7 @@
   "pages": 112,
   "cover": "/covers/game-informer-77.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35457,7 +35457,7 @@
   "pages": 182,
   "cover": "/covers/nintendo-power-124.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -35751,7 +35751,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-84.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35835,7 +35835,7 @@
   "pages": 181,
   "cover": "/covers/nintendo-power-131.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35975,7 +35975,7 @@
   "pages": 118,
   "cover": "/covers/game-informer-88.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36059,7 +36059,7 @@
   "pages": 157,
   "cover": "/covers/nintendo-power-135.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36269,7 +36269,7 @@
   "pages": 176,
   "cover": "/covers/game-informer-92.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36325,7 +36325,7 @@
   "pages": 195,
   "cover": "/covers/nintendo-power-139.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -36479,7 +36479,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-82.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36563,7 +36563,7 @@
   "pages": 162,
   "cover": "/covers/nintendo-power-129.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36717,7 +36717,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-81.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36801,7 +36801,7 @@
   "pages": 173,
   "cover": "/covers/nintendo-power-128.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36969,7 +36969,7 @@
   "pages": 121,
   "cover": "/covers/game-informer-87.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37053,7 +37053,7 @@
   "pages": 152,
   "cover": "/covers/nintendo-power-134.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37207,7 +37207,7 @@
   "pages": 112,
   "cover": "/covers/game-informer-86.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37291,7 +37291,7 @@
   "pages": 154,
   "cover": "/covers/nintendo-power-133.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -37431,7 +37431,7 @@
   "pages": 96,
   "cover": "/covers/game-informer-83.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37515,7 +37515,7 @@
   "pages": 149,
   "cover": "/covers/nintendo-power-130.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37669,7 +37669,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-85.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37753,7 +37753,7 @@
   "pages": 162,
   "cover": "/covers/nintendo-power-132.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37921,7 +37921,7 @@
   "pages": 176,
   "cover": "/covers/game-informer-91.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37977,7 +37977,7 @@
   "pages": 170,
   "cover": "/covers/nintendo-power-138.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38131,7 +38131,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-90.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38187,7 +38187,7 @@
   "pages": 145,
   "cover": "/covers/nintendo-power-137.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38313,7 +38313,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-89.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38369,7 +38369,7 @@
   "pages": 128,
   "cover": "/covers/nintendo-power-136.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38579,7 +38579,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-96.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38635,7 +38635,7 @@
   "pages": 148,
   "cover": "/covers/nintendo-power-143.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38775,7 +38775,7 @@
   "pages": 138,
   "cover": "/covers/game-informer-100.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38831,7 +38831,7 @@
   "pages": 130,
   "cover": "/covers/nintendo-power-147.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38957,7 +38957,7 @@
   "pages": 150,
   "cover": "/covers/game-informer-104.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -39013,7 +39013,7 @@
   "pages": 184,
   "cover": "/covers/nintendo-power-151.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39111,7 +39111,7 @@
   "pages": 142,
   "cover": "/covers/nintendo-power-3-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -39209,7 +39209,7 @@
   "pages": 144,
   "cover": "/covers/game-informer-94.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39265,7 +39265,7 @@
   "pages": 153,
   "cover": "/covers/nintendo-power-141.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39433,7 +39433,7 @@
   "pages": 180,
   "cover": "/covers/game-informer-93.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39475,7 +39475,7 @@
   "pages": 170,
   "cover": "/covers/nintendo-power-140.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39601,7 +39601,7 @@
   "pages": 114,
   "cover": "/covers/game-informer-99.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39643,7 +39643,7 @@
   "pages": 130,
   "cover": "/covers/nintendo-power-146.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -39783,7 +39783,7 @@
   "pages": 122,
   "cover": "/covers/game-informer-98.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39839,7 +39839,7 @@
   "pages": 128,
   "cover": "/covers/nintendo-power-145.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39979,7 +39979,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-95.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40035,7 +40035,7 @@
   "pages": 153,
   "cover": "/covers/nintendo-power-142.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -40203,7 +40203,7 @@
   "pages": 122,
   "cover": "/covers/game-informer-97.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40259,7 +40259,7 @@
   "pages": 130,
   "cover": "/covers/nintendo-power-144.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40413,7 +40413,7 @@
   "pages": 152,
   "cover": "/covers/game-informer-103.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40469,7 +40469,7 @@
   "pages": 165,
   "cover": "/covers/nintendo-power-150.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40623,7 +40623,7 @@
   "pages": 130,
   "cover": "/covers/game-informer-102.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40679,7 +40679,7 @@
   "pages": 136,
   "cover": "/covers/nintendo-power-149.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40819,7 +40819,7 @@
   "pages": 122,
   "cover": "/covers/game-informer-101.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40875,7 +40875,7 @@
   "pages": 136,
   "cover": "/covers/nintendo-power-148.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40959,7 +40959,7 @@
   "pages": 132,
   "cover": "/covers/nintendo-power-1-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40973,7 +40973,7 @@
   "pages": 134,
   "cover": "/covers/nintendo-power-2-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41071,7 +41071,7 @@
   "pages": 118,
   "cover": "/covers/game-informer-108.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -41099,7 +41099,7 @@
   "pages": 172,
   "cover": "/covers/nintendo-power-155.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41267,7 +41267,7 @@
   "pages": 118,
   "cover": "/covers/game-informer-112.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41309,7 +41309,7 @@
   "pages": 162,
   "cover": "/covers/nintendo-power-159.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41463,7 +41463,7 @@
   "pages": 186,
   "cover": "/covers/game-informer-116.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41505,7 +41505,7 @@
   "pages": 249,
   "cover": "/covers/nintendo-power-163.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41673,7 +41673,7 @@
   "pages": 126,
   "cover": "/covers/game-informer-106.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41701,7 +41701,7 @@
   "pages": 170,
   "cover": "/covers/nintendo-power-153.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41897,7 +41897,7 @@
   "pages": 130,
   "cover": "/covers/game-informer-105.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41953,7 +41953,7 @@
   "pages": 168,
   "cover": "/covers/nintendo-power-152.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42093,7 +42093,7 @@
   "pages": 114,
   "cover": "/covers/game-informer-111.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42135,7 +42135,7 @@
   "pages": 168,
   "cover": "/covers/nintendo-power-158.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42317,7 +42317,7 @@
   "pages": 114,
   "cover": "/covers/game-informer-110.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42345,7 +42345,7 @@
   "pages": 172,
   "cover": "/covers/nintendo-power-157.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42499,7 +42499,7 @@
   "pages": 118,
   "cover": "/covers/game-informer-107.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42527,7 +42527,7 @@
   "pages": 158,
   "cover": "/covers/nintendo-power-154.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42681,7 +42681,7 @@
   "pages": 114,
   "cover": "/covers/game-informer-109.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42723,7 +42723,7 @@
   "pages": 174,
   "cover": "/covers/nintendo-power-156.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42905,7 +42905,7 @@
   "pages": 184,
   "cover": "/covers/game-informer-115.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42947,7 +42947,7 @@
   "pages": 268,
   "cover": "/covers/nintendo-power-162.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43129,7 +43129,7 @@
   "pages": 126,
   "cover": "/covers/game-informer-114.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43171,7 +43171,7 @@
   "pages": 216,
   "cover": "/covers/nintendo-power-161.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43339,7 +43339,7 @@
   "pages": 122,
   "cover": "/covers/game-informer-113.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43381,7 +43381,7 @@
   "pages": 188,
   "cover": "/covers/nintendo-power-160.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43535,7 +43535,7 @@
   "pages": 134,
   "cover": "/covers/nintendo-power-4-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43647,7 +43647,7 @@
   "pages": 122,
   "cover": "/covers/game-informer-120.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43675,7 +43675,7 @@
   "pages": 155,
   "cover": "/covers/nintendo-power-167.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43843,7 +43843,7 @@
   "pages": 128,
   "cover": "/covers/game-informer-124.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44053,7 +44053,7 @@
   "pages": 224,
   "cover": "/covers/game-informer-128.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44081,7 +44081,7 @@
   "pages": 174,
   "cover": "/covers/nintendo-power-174.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44235,7 +44235,7 @@
   "pages": 136,
   "cover": "/covers/game-informer-118.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44277,7 +44277,7 @@
   "pages": 180,
   "cover": "/covers/nintendo-power-165.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44459,7 +44459,7 @@
   "pages": 158,
   "cover": "/covers/game-informer-117.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44501,7 +44501,7 @@
   "pages": 198,
   "cover": "/covers/nintendo-power-164.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44669,7 +44669,7 @@
   "pages": 146,
   "cover": "/covers/game-informer-123.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44767,7 +44767,7 @@
   "pages": 172,
   "cover": "/covers/nintendo-power-170.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44837,7 +44837,7 @@
   "pages": 141,
   "cover": "/covers/game-informer-122.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44865,7 +44865,7 @@
   "pages": 156,
   "cover": "/covers/nintendo-power-169.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45033,7 +45033,7 @@
   "pages": 118,
   "cover": "/covers/game-informer-119.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45061,7 +45061,7 @@
   "pages": 154,
   "cover": "/covers/nintendo-power-166.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45215,7 +45215,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-121.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45243,7 +45243,7 @@
   "pages": 154,
   "cover": "/covers/nintendo-power-168.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -45411,7 +45411,7 @@
   "pages": 200,
   "cover": "/covers/game-informer-127.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45439,7 +45439,7 @@
   "pages": 174,
   "cover": "/covers/nintendo-power-173.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45621,7 +45621,7 @@
   "pages": 166,
   "cover": "/covers/game-informer-126.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45649,7 +45649,7 @@
   "pages": 154,
   "cover": "/covers/nintendo-power-172.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45817,7 +45817,7 @@
   "pages": 152,
   "cover": "/covers/game-informer-125.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45845,7 +45845,7 @@
   "pages": 149,
   "cover": "/covers/nintendo-power-171.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46027,7 +46027,7 @@
   "pages": 132,
   "cover": "/covers/game-informer-132.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46055,7 +46055,7 @@
   "pages": 136,
   "cover": "/covers/nintendo-power-178.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46181,7 +46181,7 @@
   "pages": 124,
   "cover": "/covers/game-informer-136.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46209,7 +46209,7 @@
   "pages": 140,
   "cover": "/covers/nintendo-power-182.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46363,7 +46363,7 @@
   "pages": 210,
   "cover": "/covers/game-informer-140.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46391,7 +46391,7 @@
   "pages": 176,
   "cover": "/covers/nintendo-power-186.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46573,7 +46573,7 @@
   "pages": 136,
   "cover": "/covers/game-informer-130.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46601,7 +46601,7 @@
   "pages": 170,
   "cover": "/covers/nintendo-power-176.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46853,7 +46853,7 @@
   "pages": 184,
   "cover": "/covers/game-informer-129.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46881,7 +46881,7 @@
   "pages": 190,
   "cover": "/covers/nintendo-power-175.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47007,7 +47007,7 @@
   "pages": 144,
   "cover": "/covers/game-informer-135.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47035,7 +47035,7 @@
   "pages": 138,
   "cover": "/covers/nintendo-power-181.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47161,7 +47161,7 @@
   "pages": 158,
   "cover": "/covers/game-informer-134.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47189,7 +47189,7 @@
   "pages": 138,
   "cover": "/covers/nintendo-power-180.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -47343,7 +47343,7 @@
   "pages": 134,
   "cover": "/covers/game-informer-131.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47371,7 +47371,7 @@
   "pages": 132,
   "cover": "/covers/nintendo-power-177.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47525,7 +47525,7 @@
   "pages": 126,
   "cover": "/covers/game-informer-133.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47553,7 +47553,7 @@
   "pages": 138,
   "cover": "/covers/nintendo-power-179.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47707,7 +47707,7 @@
   "pages": 192,
   "cover": "/covers/game-informer-139.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47735,7 +47735,7 @@
   "pages": 149,
   "cover": "/covers/nintendo-power-185.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47875,7 +47875,7 @@
   "pages": 168,
   "cover": "/covers/game-informer-138.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47903,7 +47903,7 @@
   "pages": 140,
   "cover": "/covers/nintendo-power-184.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48071,7 +48071,7 @@
   "pages": 142,
   "cover": "/covers/game-informer-137.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48099,7 +48099,7 @@
   "pages": 132,
   "cover": "/covers/nintendo-power-183.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48491,7 +48491,7 @@
   "pages": 164,
   "cover": "/covers/game-informer-144.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48519,7 +48519,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-190.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48631,7 +48631,7 @@
   "pages": 136,
   "cover": "/covers/game-informer-148.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48659,7 +48659,7 @@
   "pages": 108,
   "cover": "/covers/nintendo-power-194.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48785,7 +48785,7 @@
   "pages": 210,
   "cover": "/covers/game-informer-152.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48813,7 +48813,7 @@
   "pages": 166,
   "cover": "/covers/nintendo-power-198.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48953,7 +48953,7 @@
   "pages": 142,
   "cover": "/covers/game-informer-142.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48981,7 +48981,7 @@
   "pages": 130,
   "cover": "/covers/nintendo-power-188.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49177,7 +49177,7 @@
   "pages": 164,
   "cover": "/covers/game-informer-141.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49205,7 +49205,7 @@
   "pages": 158,
   "cover": "/covers/nintendo-power-187.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49345,7 +49345,7 @@
   "pages": 144,
   "cover": "/covers/game-informer-147.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49373,7 +49373,7 @@
   "pages": 123,
   "cover": "/covers/nintendo-power-193.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49499,7 +49499,7 @@
   "pages": 160,
   "cover": "/covers/game-informer-146.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49527,7 +49527,7 @@
   "pages": 118,
   "cover": "/covers/nintendo-power-192.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49639,7 +49639,7 @@
   "pages": 156,
   "cover": "/covers/game-informer-143.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49667,7 +49667,7 @@
   "pages": 124,
   "cover": "/covers/nintendo-power-189.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49793,7 +49793,7 @@
   "pages": 156,
   "cover": "/covers/game-informer-145.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49821,7 +49821,7 @@
   "pages": 110,
   "cover": "/covers/nintendo-power-191.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49947,7 +49947,7 @@
   "pages": 212,
   "cover": "/covers/game-informer-151.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49975,7 +49975,7 @@
   "pages": 138,
   "cover": "/covers/nintendo-power-197.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50101,7 +50101,7 @@
   "pages": 175,
   "cover": "/covers/game-informer-150.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50129,7 +50129,7 @@
   "pages": 146,
   "cover": "/covers/nintendo-power-196.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50255,7 +50255,7 @@
   "pages": 134,
   "cover": "/covers/game-informer-149.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50283,7 +50283,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-195.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50465,7 +50465,7 @@
   "pages": 150,
   "cover": "/covers/game-informer-156.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50493,7 +50493,7 @@
   "pages": 105,
   "cover": "/covers/nintendo-power-202.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50619,7 +50619,7 @@
   "pages": 110,
   "cover": "/covers/game-informer-160.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50647,7 +50647,7 @@
   "pages": 104,
   "cover": "/covers/nintendo-power-206.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50759,7 +50759,7 @@
   "pages": 171,
   "cover": "/covers/game-informer-164.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50787,7 +50787,7 @@
   "pages": 167,
   "cover": "/covers/nintendo-power-210.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50913,7 +50913,7 @@
   "pages": 132,
   "cover": "/covers/game-informer-154.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50941,7 +50941,7 @@
   "pages": 123,
   "cover": "/covers/nintendo-power-200.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51109,7 +51109,7 @@
   "pages": 174,
   "cover": "/covers/game-informer-153.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -51137,7 +51137,7 @@
   "pages": 148,
   "cover": "/covers/nintendo-power-199.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51263,7 +51263,7 @@
   "pages": 128,
   "cover": "/covers/game-informer-159.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51291,7 +51291,7 @@
   "pages": 118,
   "cover": "/covers/nintendo-power-205.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51431,7 +51431,7 @@
   "pages": 134,
   "cover": "/covers/game-informer-158.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51459,7 +51459,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-204.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51585,7 +51585,7 @@
   "pages": 140,
   "cover": "/covers/game-informer-155.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51613,7 +51613,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-201.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51739,7 +51739,7 @@
   "pages": 128,
   "cover": "/covers/game-informer-157.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51767,7 +51767,7 @@
   "pages": 114,
   "cover": "/covers/nintendo-power-203.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51907,7 +51907,7 @@
   "pages": 168,
   "cover": "/covers/game-informer-163.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51935,7 +51935,7 @@
   "pages": 142,
   "cover": "/covers/nintendo-power-209.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52061,7 +52061,7 @@
   "pages": 130,
   "cover": "/covers/game-informer-162.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52089,7 +52089,7 @@
   "pages": 140,
   "cover": "/covers/nintendo-power-208.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52229,7 +52229,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-161.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52257,7 +52257,7 @@
   "pages": 133,
   "cover": "/covers/nintendo-power-207.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52495,7 +52495,7 @@
   "pages": 124,
   "cover": "/covers/game-informer-168.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52523,7 +52523,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-214.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52621,7 +52621,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-172.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52649,7 +52649,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-218.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52747,7 +52747,7 @@
   "pages": 172,
   "cover": "/covers/game-informer-176.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52775,7 +52775,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-222.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52887,7 +52887,7 @@
   "pages": 128,
   "cover": "/covers/game-informer-166.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52915,7 +52915,7 @@
   "pages": 144,
   "cover": "/covers/nintendo-power-212.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53013,7 +53013,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-223.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53083,7 +53083,7 @@
   "pages": 130,
   "cover": "/covers/game-informer-165.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53111,7 +53111,7 @@
   "pages": 167,
   "cover": "/covers/nintendo-power-211.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53237,7 +53237,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-171.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53265,7 +53265,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-217.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53363,7 +53363,7 @@
   "pages": 132,
   "cover": "/covers/game-informer-170.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53391,7 +53391,7 @@
   "pages": 132,
   "cover": "/covers/nintendo-power-216.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53489,7 +53489,7 @@
   "pages": 124,
   "cover": "/covers/game-informer-167.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53517,7 +53517,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-213.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53629,7 +53629,7 @@
   "pages": 112,
   "cover": "/covers/game-informer-169.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53657,7 +53657,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-215.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53755,7 +53755,7 @@
   "pages": 176,
   "cover": "/covers/game-informer-175.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53783,7 +53783,7 @@
   "pages": 116,
   "cover": "/covers/nintendo-power-221.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53881,7 +53881,7 @@
   "pages": 140,
   "cover": "/covers/game-informer-174.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53909,7 +53909,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-220.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53993,7 +53993,7 @@
   "pages": 140,
   "cover": "/covers/game-informer-173.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -54021,7 +54021,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-219.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54259,7 +54259,7 @@
   "pages": 112,
   "cover": "/covers/game-informer-180.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54287,7 +54287,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-227.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54371,7 +54371,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-184.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54399,7 +54399,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-231.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54483,7 +54483,7 @@
   "pages": 144,
   "cover": "/covers/game-informer-188.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54511,7 +54511,7 @@
   "pages": 118,
   "cover": "/covers/nintendo-power-235.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54609,7 +54609,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-178.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -54637,7 +54637,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-225.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54707,7 +54707,7 @@
   "pages": 108,
   "cover": "/covers/nintendo-power-236.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54777,7 +54777,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-177.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54805,7 +54805,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-224.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54903,7 +54903,7 @@
   "pages": 108,
   "cover": "/covers/game-informer-183.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54931,7 +54931,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-230.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55029,7 +55029,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-182.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55057,7 +55057,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-229.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55141,7 +55141,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-179.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55169,7 +55169,7 @@
   "pages": 104,
   "cover": "/covers/nintendo-power-226.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55267,7 +55267,7 @@
   "pages": 112,
   "cover": "/covers/game-informer-181.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55295,7 +55295,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-228.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55393,7 +55393,7 @@
   "pages": 144,
   "cover": "/covers/game-informer-187.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55421,7 +55421,7 @@
   "pages": 120,
   "cover": "/covers/nintendo-power-234.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55519,7 +55519,7 @@
   "pages": 128,
   "cover": "/covers/game-informer-186.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55547,7 +55547,7 @@
   "pages": 106,
   "cover": "/covers/nintendo-power-233.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55631,7 +55631,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-185.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55659,7 +55659,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-232.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55757,7 +55757,7 @@
   "pages": 68,
   "cover": "/covers/nintendo-power-2009-20-years-of-nintendo-power.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55771,7 +55771,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-192.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55799,7 +55799,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-240.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55855,7 +55855,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-196.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55883,7 +55883,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-244.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55953,7 +55953,7 @@
   "pages": 140,
   "cover": "/covers/game-informer-200.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55981,7 +55981,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-248.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56079,7 +56079,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-190.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56107,7 +56107,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-238.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56177,7 +56177,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-249.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56247,7 +56247,7 @@
   "pages": 92,
   "cover": "/covers/game-informer-189.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56275,7 +56275,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-237.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56359,7 +56359,7 @@
   "pages": 106,
   "cover": "/covers/game-informer-195.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56387,7 +56387,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-243.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56471,7 +56471,7 @@
   "pages": 108,
   "cover": "/covers/game-informer-194.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56499,7 +56499,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-242.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56569,7 +56569,7 @@
   "pages": 108,
   "cover": "/covers/game-informer-191.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56597,7 +56597,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-239.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56681,7 +56681,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-193.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56709,7 +56709,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-241.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56793,7 +56793,7 @@
   "pages": 124,
   "cover": "/covers/game-informer-199.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56821,7 +56821,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-247.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56891,7 +56891,7 @@
   "pages": 112,
   "cover": "/covers/game-informer-198.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56919,7 +56919,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-246.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56975,7 +56975,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-197.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57003,7 +57003,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-245.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57129,7 +57129,7 @@
   "pages": 52,
   "cover": "/covers/nintendo-power-2010-the-official-guide-to-mario.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57143,7 +57143,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-204.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57171,7 +57171,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-253.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57227,7 +57227,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-208.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57255,7 +57255,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-257.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57339,7 +57339,7 @@
   "pages": 136,
   "cover": "/covers/game-informer-212.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57367,7 +57367,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-261.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57437,7 +57437,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-202.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57465,7 +57465,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-251.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57521,7 +57521,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-262.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57577,7 +57577,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-201.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57605,7 +57605,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-250.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57675,7 +57675,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-207.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57703,7 +57703,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-256.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57829,7 +57829,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-206.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57857,7 +57857,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-255.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57913,7 +57913,7 @@
   "pages": 102,
   "cover": "/covers/game-informer-203.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57941,7 +57941,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-252.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58011,7 +58011,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-205.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58039,7 +58039,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-254.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58123,7 +58123,7 @@
   "pages": 114,
   "cover": "/covers/game-informer-211.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58151,7 +58151,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-260.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58249,7 +58249,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-210.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58277,7 +58277,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-259.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58347,7 +58347,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-209.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58375,7 +58375,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-258.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58501,7 +58501,7 @@
   "pages": 58,
   "cover": "/covers/nintendo-power-1-3.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58515,7 +58515,7 @@
   "pages": 60,
   "cover": "/covers/nintendo-power-2011-the-official-guide-to-the-legend-of-zelda-2nd-ed.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58557,7 +58557,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-216.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58585,7 +58585,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-266.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58641,7 +58641,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-220.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58669,7 +58669,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-270.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58739,7 +58739,7 @@
   "pages": 140,
   "cover": "/covers/game-informer-224.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58753,7 +58753,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-274.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58837,7 +58837,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-214.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58865,7 +58865,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-264.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58977,7 +58977,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-213.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59005,7 +59005,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-263.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59075,7 +59075,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-219.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59103,7 +59103,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-269.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59187,7 +59187,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-218.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59215,7 +59215,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-268.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59341,7 +59341,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-215.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59369,7 +59369,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-265.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59453,7 +59453,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-217.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59481,7 +59481,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-267.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59551,7 +59551,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-223.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59565,7 +59565,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-273.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59649,7 +59649,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-222.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59677,7 +59677,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-272.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59747,7 +59747,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-221.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59775,7 +59775,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-271.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59873,7 +59873,7 @@
   "pages": 68,
   "cover": "/covers/nintendo-power-2012-the-ultimate-guide-to-nintendo-3ds.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59901,7 +59901,7 @@
   "pages": 106,
   "cover": "/covers/game-informer-228.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -59915,7 +59915,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-277.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59943,7 +59943,7 @@
   "pages": 120,
   "cover": "/covers/game-informer-232.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59957,7 +59957,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-281.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59985,7 +59985,7 @@
   "pages": 116,
   "cover": "/covers/game-informer-236.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59999,7 +59999,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-285.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60041,7 +60041,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-226.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60097,7 +60097,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-225.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60181,7 +60181,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-275.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60195,7 +60195,7 @@
   "pages": 113,
   "cover": "/covers/game-informer-231.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60209,7 +60209,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-280.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60251,7 +60251,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-230.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60265,7 +60265,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-279.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60349,7 +60349,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-227.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60363,7 +60363,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-276.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60447,7 +60447,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-229.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60461,7 +60461,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-278.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60517,7 +60517,7 @@
   "pages": 136,
   "cover": "/covers/game-informer-235.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60531,7 +60531,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-284.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60587,7 +60587,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-234.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60601,7 +60601,7 @@
   "pages": 102,
   "cover": "/covers/nintendo-power-283.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60643,7 +60643,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-233.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60657,7 +60657,7 @@
   "pages": 100,
   "cover": "/covers/nintendo-power-282.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60741,7 +60741,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-240.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60755,7 +60755,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-244.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60769,7 +60769,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-248.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60811,7 +60811,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-238.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60825,7 +60825,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-237.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60867,7 +60867,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-243.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60951,7 +60951,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-242.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60979,7 +60979,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-239.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61021,7 +61021,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-241.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61049,7 +61049,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-247.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61091,7 +61091,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-246.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61133,7 +61133,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-245.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61231,7 +61231,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-252.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61259,7 +61259,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-256.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61287,7 +61287,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-260.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61343,7 +61343,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-250.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61357,7 +61357,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-249.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61385,7 +61385,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-255.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61469,7 +61469,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-254.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61511,7 +61511,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-251.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61539,7 +61539,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-253.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61567,7 +61567,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-259.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61609,7 +61609,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-258.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61693,7 +61693,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-257.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61833,7 +61833,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-264.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61875,7 +61875,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-268.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61903,7 +61903,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-272.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61959,7 +61959,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-262.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61987,7 +61987,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-261.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62015,7 +62015,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-267.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62085,7 +62085,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-266.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62127,7 +62127,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-263.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62169,7 +62169,7 @@
   "pages": 104,
   "cover": "/covers/game-informer-265.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62211,7 +62211,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-271.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62253,7 +62253,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-270.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62281,7 +62281,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-269.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62365,7 +62365,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-276.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62407,7 +62407,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-280.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62421,7 +62421,7 @@
   "pages": 101,
   "cover": "/covers/game-informer-284.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62463,7 +62463,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-274.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62477,7 +62477,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-273.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62505,7 +62505,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-279.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62575,7 +62575,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-278.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62617,7 +62617,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-275.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62645,7 +62645,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-277.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62659,7 +62659,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-283.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62673,7 +62673,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-282.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62701,7 +62701,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-281.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62743,7 +62743,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-288.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62757,7 +62757,7 @@
   "pages": 101,
   "cover": "/covers/game-informer-292.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62771,7 +62771,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-296.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62799,7 +62799,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-286.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62827,7 +62827,7 @@
   "pages": 102,
   "cover": "/covers/game-informer-285.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62855,7 +62855,7 @@
   "pages": 101,
   "cover": "/covers/game-informer-291.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62869,7 +62869,7 @@
   "pages": 102,
   "cover": "/covers/game-informer-290.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62883,7 +62883,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-287.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62911,7 +62911,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-289.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62939,7 +62939,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-294.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63065,7 +63065,7 @@
   "pages": 108,
   "cover": "/covers/game-informer-300.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63093,7 +63093,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-304.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63107,7 +63107,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-308.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63121,7 +63121,7 @@
   "pages": 102,
   "cover": "/covers/game-informer-298.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63135,7 +63135,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-297.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63163,7 +63163,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-303.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63191,7 +63191,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-302.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63205,7 +63205,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-299.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63233,7 +63233,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-301.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63261,7 +63261,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-307.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63275,7 +63275,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-306.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63289,7 +63289,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-305.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63317,7 +63317,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-312.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63331,7 +63331,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-316.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63359,7 +63359,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-320.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63387,7 +63387,7 @@
   "pages": 102,
   "cover": "/covers/game-informer-310.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63401,7 +63401,7 @@
   "pages": 98,
   "cover": "/covers/game-informer-309.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63457,7 +63457,7 @@
   "pages": 101,
   "cover": "/covers/game-informer-314.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63471,7 +63471,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-311.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63499,7 +63499,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-313.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63527,7 +63527,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-319.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63569,7 +63569,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-318.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63583,7 +63583,7 @@
   "pages": 100,
   "cover": "/covers/game-informer-317.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63625,7 +63625,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-324.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63639,7 +63639,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-328.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63709,7 +63709,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-322.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63737,7 +63737,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-321.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63751,7 +63751,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-327.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63765,7 +63765,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-326.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63793,7 +63793,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-323.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63821,7 +63821,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-325.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63849,7 +63849,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-331.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63863,7 +63863,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-330.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63877,7 +63877,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-329.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63905,7 +63905,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-335.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63933,7 +63933,7 @@
   "pages": 85,
   "cover": "/covers/game-informer-338.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63947,7 +63947,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-342.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -63975,7 +63975,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-333.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64003,7 +64003,7 @@
   "pages": 87,
   "cover": "/covers/game-informer-332.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64017,7 +64017,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-337.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64045,7 +64045,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-334.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64059,7 +64059,7 @@
   "pages": 86,
   "cover": "/covers/game-informer-336.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64073,7 +64073,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-341.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64101,7 +64101,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-340.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64115,7 +64115,7 @@
   "pages": 86,
   "cover": "/covers/game-informer-339.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64157,7 +64157,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-349.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64199,7 +64199,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-344.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64227,7 +64227,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-343.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64255,7 +64255,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-348.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64269,7 +64269,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-347.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64297,7 +64297,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-345.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64311,7 +64311,7 @@
   "pages": 87,
   "cover": "/covers/game-informer-346.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64339,7 +64339,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-351.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64367,7 +64367,7 @@
   "pages": 87,
   "cover": "/covers/game-informer-350.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64437,7 +64437,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-359.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64451,7 +64451,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-353.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64479,7 +64479,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-352.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64493,7 +64493,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-358.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64507,7 +64507,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-357.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64521,7 +64521,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-354.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64535,7 +64535,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-356.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64549,7 +64549,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-361.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64577,7 +64577,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-360.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64647,7 +64647,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-365.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64661,7 +64661,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-363.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64675,7 +64675,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-362.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64689,7 +64689,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-368.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64703,7 +64703,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-367.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64717,7 +64717,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-364.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64731,7 +64731,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-366.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -64759,7 +64759,7 @@
   "pages": 88,
   "cover": "/covers/game-informer-355.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },

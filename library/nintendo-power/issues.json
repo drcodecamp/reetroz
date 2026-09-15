@@ -33,7 +33,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/nintendo-power-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-1/manifest.json"
   }
  },
  {
@@ -70,7 +71,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/nintendo-power-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-2/manifest.json"
   }
  },
  {
@@ -107,7 +109,8 @@
   "volume": 3,
   "assets": {
    "cover": "covers/nintendo-power-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-3/manifest.json"
   }
  },
  {
@@ -144,7 +147,8 @@
   "volume": 4,
   "assets": {
    "cover": "covers/nintendo-power-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-4/manifest.json"
   }
  },
  {
@@ -181,7 +185,8 @@
   "volume": 5,
   "assets": {
    "cover": "covers/nintendo-power-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-5/manifest.json"
   }
  },
  {
@@ -218,7 +223,8 @@
   "volume": 6,
   "assets": {
    "cover": "covers/nintendo-power-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-6/manifest.json"
   }
  },
  {
@@ -255,7 +261,8 @@
   "volume": 7,
   "assets": {
    "cover": "covers/nintendo-power-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-7/manifest.json"
   }
  },
  {
@@ -292,7 +299,8 @@
   "volume": 8,
   "assets": {
    "cover": "covers/nintendo-power-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-8/manifest.json"
   }
  },
  {
@@ -329,7 +337,8 @@
   "volume": 9,
   "assets": {
    "cover": "covers/nintendo-power-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-9/manifest.json"
   }
  },
  {
@@ -366,7 +375,8 @@
   "volume": 10,
   "assets": {
    "cover": "covers/nintendo-power-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-10/manifest.json"
   }
  },
  {
@@ -403,7 +413,8 @@
   "volume": 11,
   "assets": {
    "cover": "covers/nintendo-power-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-11/manifest.json"
   }
  },
  {
@@ -440,7 +451,8 @@
   "volume": 12,
   "assets": {
    "cover": "covers/nintendo-power-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-12/manifest.json"
   }
  },
  {
@@ -476,7 +488,8 @@
   "volume": 13,
   "assets": {
    "cover": "covers/nintendo-power-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-13/manifest.json"
   }
  },
  {
@@ -513,7 +526,8 @@
   "volume": 14,
   "assets": {
    "cover": "covers/nintendo-power-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-14/manifest.json"
   }
  },
  {
@@ -549,7 +563,8 @@
   "volume": 15,
   "assets": {
    "cover": "covers/nintendo-power-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-15/manifest.json"
   }
  },
  {
@@ -586,7 +601,8 @@
   "volume": 16,
   "assets": {
    "cover": "covers/nintendo-power-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-16/manifest.json"
   }
  },
  {
@@ -622,7 +638,8 @@
   "volume": 17,
   "assets": {
    "cover": "covers/nintendo-power-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-17/manifest.json"
   }
  },
  {
@@ -659,7 +676,8 @@
   "volume": 18,
   "assets": {
    "cover": "covers/nintendo-power-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-18/manifest.json"
   }
  },
  {
@@ -695,7 +713,8 @@
   "volume": 19,
   "assets": {
    "cover": "covers/nintendo-power-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-19/manifest.json"
   }
  },
  {
@@ -731,7 +750,8 @@
   "volume": 20,
   "assets": {
    "cover": "covers/nintendo-power-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-20/manifest.json"
   }
  },
  {
@@ -767,7 +787,8 @@
   "volume": 21,
   "assets": {
    "cover": "covers/nintendo-power-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-21/manifest.json"
   }
  },
  {
@@ -803,7 +824,8 @@
   "volume": 22,
   "assets": {
    "cover": "covers/nintendo-power-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-22/manifest.json"
   }
  },
  {
@@ -839,7 +861,8 @@
   "volume": 23,
   "assets": {
    "cover": "covers/nintendo-power-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-23/manifest.json"
   }
  },
  {
@@ -875,7 +898,8 @@
   "volume": 24,
   "assets": {
    "cover": "covers/nintendo-power-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-24/manifest.json"
   }
  },
  {
@@ -911,7 +935,8 @@
   "volume": 25,
   "assets": {
    "cover": "covers/nintendo-power-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-25/manifest.json"
   }
  },
  {
@@ -947,7 +972,8 @@
   "volume": 26,
   "assets": {
    "cover": "covers/nintendo-power-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-26/manifest.json"
   }
  },
  {
@@ -983,7 +1009,8 @@
   "volume": 27,
   "assets": {
    "cover": "covers/nintendo-power-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-27/manifest.json"
   }
  },
  {
@@ -1019,7 +1046,8 @@
   "volume": 28,
   "assets": {
    "cover": "covers/nintendo-power-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-28/manifest.json"
   }
  },
  {
@@ -1055,7 +1083,8 @@
   "volume": 29,
   "assets": {
    "cover": "covers/nintendo-power-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-29/manifest.json"
   }
  },
  {
@@ -1091,7 +1120,8 @@
   "volume": 30,
   "assets": {
    "cover": "covers/nintendo-power-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-30/manifest.json"
   }
  },
  {
@@ -1127,7 +1157,8 @@
   "volume": 31,
   "assets": {
    "cover": "covers/nintendo-power-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-31/manifest.json"
   }
  },
  {
@@ -1163,7 +1194,8 @@
   "volume": 32,
   "assets": {
    "cover": "covers/nintendo-power-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-32/manifest.json"
   }
  },
  {
@@ -1199,7 +1231,8 @@
   "volume": 33,
   "assets": {
    "cover": "covers/nintendo-power-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-33/manifest.json"
   }
  },
  {
@@ -1235,7 +1268,8 @@
   "volume": 34,
   "assets": {
    "cover": "covers/nintendo-power-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-34/manifest.json"
   }
  },
  {
@@ -1271,7 +1305,8 @@
   "volume": 35,
   "assets": {
    "cover": "covers/nintendo-power-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-35/manifest.json"
   }
  },
  {
@@ -1307,7 +1342,8 @@
   "volume": 36,
   "assets": {
    "cover": "covers/nintendo-power-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-36/manifest.json"
   }
  },
  {
@@ -1343,7 +1379,8 @@
   "volume": 37,
   "assets": {
    "cover": "covers/nintendo-power-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-37/manifest.json"
   }
  },
  {
@@ -1379,7 +1416,8 @@
   "volume": 38,
   "assets": {
    "cover": "covers/nintendo-power-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-38/manifest.json"
   }
  },
  {
@@ -1415,7 +1453,8 @@
   "volume": 39,
   "assets": {
    "cover": "covers/nintendo-power-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-39/manifest.json"
   }
  },
  {
@@ -1451,7 +1490,8 @@
   "volume": 40,
   "assets": {
    "cover": "covers/nintendo-power-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-40/manifest.json"
   }
  },
  {
@@ -1487,7 +1527,8 @@
   "volume": 41,
   "assets": {
    "cover": "covers/nintendo-power-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-41/manifest.json"
   }
  },
  {
@@ -1523,7 +1564,8 @@
   "volume": 42,
   "assets": {
    "cover": "covers/nintendo-power-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-42/manifest.json"
   }
  },
  {
@@ -1559,7 +1601,8 @@
   "volume": 43,
   "assets": {
    "cover": "covers/nintendo-power-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-43/manifest.json"
   }
  },
  {
@@ -1595,7 +1638,8 @@
   "volume": 44,
   "assets": {
    "cover": "covers/nintendo-power-44.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-44/manifest.json"
   }
  },
  {
@@ -1631,7 +1675,8 @@
   "volume": 45,
   "assets": {
    "cover": "covers/nintendo-power-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-45/manifest.json"
   }
  },
  {
@@ -1667,7 +1712,8 @@
   "volume": 46,
   "assets": {
    "cover": "covers/nintendo-power-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-46/manifest.json"
   }
  },
  {
@@ -1703,7 +1749,8 @@
   "volume": 47,
   "assets": {
    "cover": "covers/nintendo-power-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-47/manifest.json"
   }
  },
  {
@@ -1739,7 +1786,8 @@
   "volume": 48,
   "assets": {
    "cover": "covers/nintendo-power-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-48/manifest.json"
   }
  },
  {
@@ -1775,7 +1823,8 @@
   "volume": 49,
   "assets": {
    "cover": "covers/nintendo-power-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-49/manifest.json"
   }
  },
  {
@@ -1811,7 +1860,8 @@
   "volume": 50,
   "assets": {
    "cover": "covers/nintendo-power-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-50/manifest.json"
   }
  },
  {
@@ -1847,7 +1897,8 @@
   "volume": 51,
   "assets": {
    "cover": "covers/nintendo-power-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-51/manifest.json"
   }
  },
  {
@@ -1883,7 +1934,8 @@
   "volume": 52,
   "assets": {
    "cover": "covers/nintendo-power-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-52/manifest.json"
   }
  },
  {
@@ -1919,7 +1971,8 @@
   "volume": 53,
   "assets": {
    "cover": "covers/nintendo-power-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-53/manifest.json"
   }
  },
  {
@@ -1955,7 +2008,8 @@
   "volume": 54,
   "assets": {
    "cover": "covers/nintendo-power-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-54/manifest.json"
   }
  },
  {
@@ -1991,7 +2045,8 @@
   "volume": 55,
   "assets": {
    "cover": "covers/nintendo-power-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-55/manifest.json"
   }
  },
  {
@@ -2027,7 +2082,8 @@
   "volume": 56,
   "assets": {
    "cover": "covers/nintendo-power-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-56/manifest.json"
   }
  },
  {
@@ -2063,7 +2119,8 @@
   "volume": 57,
   "assets": {
    "cover": "covers/nintendo-power-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-57/manifest.json"
   }
  },
  {
@@ -2099,7 +2156,8 @@
   "volume": 58,
   "assets": {
    "cover": "covers/nintendo-power-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-58/manifest.json"
   }
  },
  {
@@ -2135,7 +2193,8 @@
   "volume": 59,
   "assets": {
    "cover": "covers/nintendo-power-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-59/manifest.json"
   }
  },
  {
@@ -2171,7 +2230,8 @@
   "volume": 60,
   "assets": {
    "cover": "covers/nintendo-power-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-60/manifest.json"
   }
  },
  {
@@ -2207,7 +2267,8 @@
   "volume": 61,
   "assets": {
    "cover": "covers/nintendo-power-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-61/manifest.json"
   }
  },
  {
@@ -2243,7 +2304,8 @@
   "volume": 62,
   "assets": {
    "cover": "covers/nintendo-power-62.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-62/manifest.json"
   }
  },
  {
@@ -2279,7 +2341,8 @@
   "volume": 63,
   "assets": {
    "cover": "covers/nintendo-power-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-63/manifest.json"
   }
  },
  {
@@ -2315,7 +2378,8 @@
   "volume": 64,
   "assets": {
    "cover": "covers/nintendo-power-64.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-64/manifest.json"
   }
  },
  {
@@ -2351,7 +2415,8 @@
   "volume": 65,
   "assets": {
    "cover": "covers/nintendo-power-65.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-65/manifest.json"
   }
  },
  {
@@ -2387,7 +2452,8 @@
   "volume": 66,
   "assets": {
    "cover": "covers/nintendo-power-66.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-66/manifest.json"
   }
  },
  {
@@ -2423,7 +2489,8 @@
   "volume": 67,
   "assets": {
    "cover": "covers/nintendo-power-67.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-67/manifest.json"
   }
  },
  {
@@ -2459,7 +2526,8 @@
   "volume": 68,
   "assets": {
    "cover": "covers/nintendo-power-68.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-68/manifest.json"
   }
  },
  {
@@ -2495,7 +2563,8 @@
   "volume": 69,
   "assets": {
    "cover": "covers/nintendo-power-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-69/manifest.json"
   }
  },
  {
@@ -2531,7 +2600,8 @@
   "volume": 70,
   "assets": {
    "cover": "covers/nintendo-power-70.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-70/manifest.json"
   }
  },
  {
@@ -2567,7 +2637,8 @@
   "volume": 71,
   "assets": {
    "cover": "covers/nintendo-power-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-71/manifest.json"
   }
  },
  {
@@ -2603,7 +2674,8 @@
   "volume": 72,
   "assets": {
    "cover": "covers/nintendo-power-72.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-72/manifest.json"
   }
  },
  {
@@ -2639,7 +2711,8 @@
   "volume": 73,
   "assets": {
    "cover": "covers/nintendo-power-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-73/manifest.json"
   }
  },
  {
@@ -2675,7 +2748,8 @@
   "volume": 74,
   "assets": {
    "cover": "covers/nintendo-power-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-74/manifest.json"
   }
  },
  {
@@ -2711,7 +2785,8 @@
   "volume": 75,
   "assets": {
    "cover": "covers/nintendo-power-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-75/manifest.json"
   }
  },
  {
@@ -2747,7 +2822,8 @@
   "volume": 76,
   "assets": {
    "cover": "covers/nintendo-power-76.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-76/manifest.json"
   }
  },
  {
@@ -2783,7 +2859,8 @@
   "volume": 77,
   "assets": {
    "cover": "covers/nintendo-power-77.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-77/manifest.json"
   }
  },
  {
@@ -2819,7 +2896,8 @@
   "volume": 78,
   "assets": {
    "cover": "covers/nintendo-power-78.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-78/manifest.json"
   }
  },
  {
@@ -2855,7 +2933,8 @@
   "volume": 79,
   "assets": {
    "cover": "covers/nintendo-power-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-79/manifest.json"
   }
  },
  {
@@ -2891,7 +2970,8 @@
   "volume": 80,
   "assets": {
    "cover": "covers/nintendo-power-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-80/manifest.json"
   }
  },
  {
@@ -2927,7 +3007,8 @@
   "volume": 81,
   "assets": {
    "cover": "covers/nintendo-power-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-81/manifest.json"
   }
  },
  {
@@ -2963,7 +3044,8 @@
   "volume": 82,
   "assets": {
    "cover": "covers/nintendo-power-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-82/manifest.json"
   }
  },
  {
@@ -2999,7 +3081,8 @@
   "volume": 83,
   "assets": {
    "cover": "covers/nintendo-power-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-83/manifest.json"
   }
  },
  {
@@ -3035,7 +3118,8 @@
   "volume": 84,
   "assets": {
    "cover": "covers/nintendo-power-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-84/manifest.json"
   }
  },
  {
@@ -3071,7 +3155,8 @@
   "volume": 85,
   "assets": {
    "cover": "covers/nintendo-power-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-85/manifest.json"
   }
  },
  {
@@ -3107,7 +3192,8 @@
   "volume": 86,
   "assets": {
    "cover": "covers/nintendo-power-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-86/manifest.json"
   }
  },
  {
@@ -3143,7 +3229,8 @@
   "volume": 87,
   "assets": {
    "cover": "covers/nintendo-power-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-87/manifest.json"
   }
  },
  {
@@ -3179,7 +3266,8 @@
   "volume": 88,
   "assets": {
    "cover": "covers/nintendo-power-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-88/manifest.json"
   }
  },
  {
@@ -3215,7 +3303,8 @@
   "volume": 89,
   "assets": {
    "cover": "covers/nintendo-power-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-89/manifest.json"
   }
  },
  {
@@ -3251,7 +3340,8 @@
   "volume": 90,
   "assets": {
    "cover": "covers/nintendo-power-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-90/manifest.json"
   }
  },
  {
@@ -3287,7 +3377,8 @@
   "volume": 91,
   "assets": {
    "cover": "covers/nintendo-power-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-91/manifest.json"
   }
  },
  {
@@ -3323,7 +3414,8 @@
   "volume": 92,
   "assets": {
    "cover": "covers/nintendo-power-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-92/manifest.json"
   }
  },
  {
@@ -3359,7 +3451,8 @@
   "volume": 93,
   "assets": {
    "cover": "covers/nintendo-power-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-93/manifest.json"
   }
  },
  {
@@ -3395,7 +3488,8 @@
   "volume": 94,
   "assets": {
    "cover": "covers/nintendo-power-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-94/manifest.json"
   }
  },
  {
@@ -3431,7 +3525,8 @@
   "volume": 95,
   "assets": {
    "cover": "covers/nintendo-power-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-95/manifest.json"
   }
  },
  {
@@ -3467,7 +3562,8 @@
   "volume": 96,
   "assets": {
    "cover": "covers/nintendo-power-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-96/manifest.json"
   }
  },
  {
@@ -3503,7 +3599,8 @@
   "volume": 97,
   "assets": {
    "cover": "covers/nintendo-power-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-97/manifest.json"
   }
  },
  {
@@ -3539,7 +3636,8 @@
   "volume": 98,
   "assets": {
    "cover": "covers/nintendo-power-98.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-98/manifest.json"
   }
  },
  {
@@ -3575,7 +3673,8 @@
   "volume": 99,
   "assets": {
    "cover": "covers/nintendo-power-99.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-99/manifest.json"
   }
  },
  {
@@ -3611,7 +3710,8 @@
   "volume": 100,
   "assets": {
    "cover": "covers/nintendo-power-100.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-100/manifest.json"
   }
  },
  {
@@ -3647,7 +3747,8 @@
   "volume": 101,
   "assets": {
    "cover": "covers/nintendo-power-101.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-101/manifest.json"
   }
  },
  {
@@ -3683,7 +3784,8 @@
   "volume": 102,
   "assets": {
    "cover": "covers/nintendo-power-102.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-102/manifest.json"
   }
  },
  {
@@ -3719,7 +3821,8 @@
   "volume": 103,
   "assets": {
    "cover": "covers/nintendo-power-103.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-103/manifest.json"
   }
  },
  {
@@ -3755,7 +3858,8 @@
   "volume": 104,
   "assets": {
    "cover": "covers/nintendo-power-104.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-104/manifest.json"
   }
  },
  {
@@ -3791,7 +3895,8 @@
   "volume": 105,
   "assets": {
    "cover": "covers/nintendo-power-105.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-105/manifest.json"
   }
  },
  {
@@ -3827,7 +3932,8 @@
   "volume": 106,
   "assets": {
    "cover": "covers/nintendo-power-106.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-106/manifest.json"
   }
  },
  {
@@ -3863,7 +3969,8 @@
   "volume": 107,
   "assets": {
    "cover": "covers/nintendo-power-107.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-107/manifest.json"
   }
  },
  {
@@ -3899,7 +4006,8 @@
   "volume": 108,
   "assets": {
    "cover": "covers/nintendo-power-108.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-108/manifest.json"
   }
  },
  {
@@ -3935,7 +4043,8 @@
   "volume": 109,
   "assets": {
    "cover": "covers/nintendo-power-109.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-109/manifest.json"
   }
  },
  {
@@ -3971,7 +4080,8 @@
   "volume": 110,
   "assets": {
    "cover": "covers/nintendo-power-110.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-110/manifest.json"
   }
  },
  {
@@ -4007,7 +4117,8 @@
   "volume": 111,
   "assets": {
    "cover": "covers/nintendo-power-111.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-111/manifest.json"
   }
  },
  {
@@ -4043,7 +4154,8 @@
   "volume": 112,
   "assets": {
    "cover": "covers/nintendo-power-112.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-112/manifest.json"
   }
  },
  {
@@ -4079,7 +4191,8 @@
   "volume": 113,
   "assets": {
    "cover": "covers/nintendo-power-113.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-113/manifest.json"
   }
  },
  {
@@ -4115,7 +4228,8 @@
   "volume": 114,
   "assets": {
    "cover": "covers/nintendo-power-114.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-114/manifest.json"
   }
  },
  {
@@ -4151,7 +4265,8 @@
   "volume": 115,
   "assets": {
    "cover": "covers/nintendo-power-115.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-115/manifest.json"
   }
  },
  {
@@ -4187,7 +4302,8 @@
   "volume": 116,
   "assets": {
    "cover": "covers/nintendo-power-116.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-116/manifest.json"
   }
  },
  {
@@ -4223,7 +4339,8 @@
   "volume": 117,
   "assets": {
    "cover": "covers/nintendo-power-117.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-117/manifest.json"
   }
  },
  {
@@ -4259,7 +4376,8 @@
   "volume": 118,
   "assets": {
    "cover": "covers/nintendo-power-118.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-118/manifest.json"
   }
  },
  {
@@ -4295,7 +4413,8 @@
   "volume": 119,
   "assets": {
    "cover": "covers/nintendo-power-119.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-119/manifest.json"
   }
  },
  {
@@ -4331,7 +4450,8 @@
   "volume": 120,
   "assets": {
    "cover": "covers/nintendo-power-120.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-120/manifest.json"
   }
  },
  {
@@ -4367,7 +4487,8 @@
   "volume": 121,
   "assets": {
    "cover": "covers/nintendo-power-121.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-121/manifest.json"
   }
  },
  {
@@ -4403,7 +4524,8 @@
   "volume": 122,
   "assets": {
    "cover": "covers/nintendo-power-122.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-122/manifest.json"
   }
  },
  {
@@ -4439,7 +4561,8 @@
   "volume": 123,
   "assets": {
    "cover": "covers/nintendo-power-123.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-123/manifest.json"
   }
  },
  {
@@ -4475,7 +4598,8 @@
   "volume": 124,
   "assets": {
    "cover": "covers/nintendo-power-124.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-124/manifest.json"
   }
  },
  {
@@ -4511,7 +4635,8 @@
   "volume": 125,
   "assets": {
    "cover": "covers/nintendo-power-125.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-125/manifest.json"
   }
  },
  {
@@ -4547,7 +4672,8 @@
   "volume": 126,
   "assets": {
    "cover": "covers/nintendo-power-126.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-126/manifest.json"
   }
  },
  {
@@ -4583,7 +4709,8 @@
   "volume": 127,
   "assets": {
    "cover": "covers/nintendo-power-127.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-127/manifest.json"
   }
  },
  {
@@ -4619,7 +4746,8 @@
   "volume": 128,
   "assets": {
    "cover": "covers/nintendo-power-128.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-128/manifest.json"
   }
  },
  {
@@ -4655,7 +4783,8 @@
   "volume": 129,
   "assets": {
    "cover": "covers/nintendo-power-129.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-129/manifest.json"
   }
  },
  {
@@ -4691,7 +4820,8 @@
   "volume": 130,
   "assets": {
    "cover": "covers/nintendo-power-130.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-130/manifest.json"
   }
  },
  {
@@ -4727,7 +4857,8 @@
   "volume": 131,
   "assets": {
    "cover": "covers/nintendo-power-131.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-131/manifest.json"
   }
  },
  {
@@ -4763,7 +4894,8 @@
   "volume": 132,
   "assets": {
    "cover": "covers/nintendo-power-132.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-132/manifest.json"
   }
  },
  {
@@ -4799,7 +4931,8 @@
   "volume": 133,
   "assets": {
    "cover": "covers/nintendo-power-133.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-133/manifest.json"
   }
  },
  {
@@ -4835,7 +4968,8 @@
   "volume": 134,
   "assets": {
    "cover": "covers/nintendo-power-134.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-134/manifest.json"
   }
  },
  {
@@ -4871,7 +5005,8 @@
   "volume": 135,
   "assets": {
    "cover": "covers/nintendo-power-135.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-135/manifest.json"
   }
  },
  {
@@ -4907,7 +5042,8 @@
   "volume": 136,
   "assets": {
    "cover": "covers/nintendo-power-136.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-136/manifest.json"
   }
  },
  {
@@ -4943,7 +5079,8 @@
   "volume": 137,
   "assets": {
    "cover": "covers/nintendo-power-137.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-137/manifest.json"
   }
  },
  {
@@ -4979,7 +5116,8 @@
   "volume": 138,
   "assets": {
    "cover": "covers/nintendo-power-138.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-138/manifest.json"
   }
  },
  {
@@ -5015,7 +5153,8 @@
   "volume": 139,
   "assets": {
    "cover": "covers/nintendo-power-139.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-139/manifest.json"
   }
  },
  {
@@ -5051,7 +5190,8 @@
   "volume": 140,
   "assets": {
    "cover": "covers/nintendo-power-140.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-140/manifest.json"
   }
  },
  {
@@ -5087,7 +5227,8 @@
   "volume": 141,
   "assets": {
    "cover": "covers/nintendo-power-141.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-141/manifest.json"
   }
  },
  {
@@ -5123,7 +5264,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/nintendo-power-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-1-2/manifest.json"
   }
  },
  {
@@ -5159,7 +5301,8 @@
   "volume": 142,
   "assets": {
    "cover": "covers/nintendo-power-142.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-142/manifest.json"
   }
  },
  {
@@ -5195,7 +5338,8 @@
   "volume": 143,
   "assets": {
    "cover": "covers/nintendo-power-143.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-143/manifest.json"
   }
  },
  {
@@ -5231,7 +5375,8 @@
   "volume": 144,
   "assets": {
    "cover": "covers/nintendo-power-144.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-144/manifest.json"
   }
  },
  {
@@ -5267,7 +5412,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/nintendo-power-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-2-2/manifest.json"
   }
  },
  {
@@ -5303,7 +5449,8 @@
   "volume": 145,
   "assets": {
    "cover": "covers/nintendo-power-145.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-145/manifest.json"
   }
  },
  {
@@ -5339,7 +5486,8 @@
   "volume": 146,
   "assets": {
    "cover": "covers/nintendo-power-146.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-146/manifest.json"
   }
  },
  {
@@ -5375,7 +5523,8 @@
   "volume": 147,
   "assets": {
    "cover": "covers/nintendo-power-147.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-147/manifest.json"
   }
  },
  {
@@ -5411,7 +5560,8 @@
   "volume": 3,
   "assets": {
    "cover": "covers/nintendo-power-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-3-2/manifest.json"
   }
  },
  {
@@ -5447,7 +5597,8 @@
   "volume": 148,
   "assets": {
    "cover": "covers/nintendo-power-148.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-148/manifest.json"
   }
  },
  {
@@ -5483,7 +5634,8 @@
   "volume": 149,
   "assets": {
    "cover": "covers/nintendo-power-149.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-149/manifest.json"
   }
  },
  {
@@ -5519,7 +5671,8 @@
   "volume": 150,
   "assets": {
    "cover": "covers/nintendo-power-150.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-150/manifest.json"
   }
  },
  {
@@ -5555,7 +5708,8 @@
   "volume": 151,
   "assets": {
    "cover": "covers/nintendo-power-151.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-151/manifest.json"
   }
  },
  {
@@ -5591,7 +5745,8 @@
   "volume": 152,
   "assets": {
    "cover": "covers/nintendo-power-152.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-152/manifest.json"
   }
  },
  {
@@ -5627,7 +5782,8 @@
   "volume": 153,
   "assets": {
    "cover": "covers/nintendo-power-153.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-153/manifest.json"
   }
  },
  {
@@ -5663,7 +5819,8 @@
   "volume": 154,
   "assets": {
    "cover": "covers/nintendo-power-154.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-154/manifest.json"
   }
  },
  {
@@ -5699,7 +5856,8 @@
   "volume": 155,
   "assets": {
    "cover": "covers/nintendo-power-155.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-155/manifest.json"
   }
  },
  {
@@ -5735,7 +5893,8 @@
   "volume": 156,
   "assets": {
    "cover": "covers/nintendo-power-156.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-156/manifest.json"
   }
  },
  {
@@ -5771,7 +5930,8 @@
   "volume": 157,
   "assets": {
    "cover": "covers/nintendo-power-157.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-157/manifest.json"
   }
  },
  {
@@ -5807,7 +5967,8 @@
   "volume": 158,
   "assets": {
    "cover": "covers/nintendo-power-158.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-158/manifest.json"
   }
  },
  {
@@ -5843,7 +6004,8 @@
   "volume": 159,
   "assets": {
    "cover": "covers/nintendo-power-159.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-159/manifest.json"
   }
  },
  {
@@ -5879,7 +6041,8 @@
   "volume": 160,
   "assets": {
    "cover": "covers/nintendo-power-160.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-160/manifest.json"
   }
  },
  {
@@ -5915,7 +6078,8 @@
   "volume": 161,
   "assets": {
    "cover": "covers/nintendo-power-161.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-161/manifest.json"
   }
  },
  {
@@ -5951,7 +6115,8 @@
   "volume": 162,
   "assets": {
    "cover": "covers/nintendo-power-162.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-162/manifest.json"
   }
  },
  {
@@ -5987,7 +6152,8 @@
   "volume": 4,
   "assets": {
    "cover": "covers/nintendo-power-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-4-2/manifest.json"
   }
  },
  {
@@ -6023,7 +6189,8 @@
   "volume": 163,
   "assets": {
    "cover": "covers/nintendo-power-163.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-163/manifest.json"
   }
  },
  {
@@ -6059,7 +6226,8 @@
   "volume": 164,
   "assets": {
    "cover": "covers/nintendo-power-164.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-164/manifest.json"
   }
  },
  {
@@ -6095,7 +6263,8 @@
   "volume": 165,
   "assets": {
    "cover": "covers/nintendo-power-165.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-165/manifest.json"
   }
  },
  {
@@ -6131,7 +6300,8 @@
   "volume": 166,
   "assets": {
    "cover": "covers/nintendo-power-166.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-166/manifest.json"
   }
  },
  {
@@ -6167,7 +6337,8 @@
   "volume": 167,
   "assets": {
    "cover": "covers/nintendo-power-167.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-167/manifest.json"
   }
  },
  {
@@ -6203,7 +6374,8 @@
   "volume": 168,
   "assets": {
    "cover": "covers/nintendo-power-168.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-168/manifest.json"
   }
  },
  {
@@ -6239,7 +6411,8 @@
   "volume": 169,
   "assets": {
    "cover": "covers/nintendo-power-169.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-169/manifest.json"
   }
  },
  {
@@ -6276,7 +6449,8 @@
   "volume": 170,
   "assets": {
    "cover": "covers/nintendo-power-170.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-170/manifest.json"
   }
  },
  {
@@ -6312,7 +6486,8 @@
   "volume": 171,
   "assets": {
    "cover": "covers/nintendo-power-171.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-171/manifest.json"
   }
  },
  {
@@ -6348,7 +6523,8 @@
   "volume": 172,
   "assets": {
    "cover": "covers/nintendo-power-172.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-172/manifest.json"
   }
  },
  {
@@ -6384,7 +6560,8 @@
   "volume": 173,
   "assets": {
    "cover": "covers/nintendo-power-173.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-173/manifest.json"
   }
  },
  {
@@ -6420,7 +6597,8 @@
   "volume": 174,
   "assets": {
    "cover": "covers/nintendo-power-174.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-174/manifest.json"
   }
  },
  {
@@ -6456,7 +6634,8 @@
   "volume": 175,
   "assets": {
    "cover": "covers/nintendo-power-175.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-175/manifest.json"
   }
  },
  {
@@ -6492,7 +6671,8 @@
   "volume": 176,
   "assets": {
    "cover": "covers/nintendo-power-176.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-176/manifest.json"
   }
  },
  {
@@ -6528,7 +6708,8 @@
   "volume": 177,
   "assets": {
    "cover": "covers/nintendo-power-177.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-177/manifest.json"
   }
  },
  {
@@ -6564,7 +6745,8 @@
   "volume": 178,
   "assets": {
    "cover": "covers/nintendo-power-178.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-178/manifest.json"
   }
  },
  {
@@ -6600,7 +6782,8 @@
   "volume": 179,
   "assets": {
    "cover": "covers/nintendo-power-179.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-179/manifest.json"
   }
  },
  {
@@ -6636,7 +6819,8 @@
   "volume": 180,
   "assets": {
    "cover": "covers/nintendo-power-180.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-180/manifest.json"
   }
  },
  {
@@ -6672,7 +6856,8 @@
   "volume": 181,
   "assets": {
    "cover": "covers/nintendo-power-181.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-181/manifest.json"
   }
  },
  {
@@ -6708,7 +6893,8 @@
   "volume": 182,
   "assets": {
    "cover": "covers/nintendo-power-182.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-182/manifest.json"
   }
  },
  {
@@ -6744,7 +6930,8 @@
   "volume": 183,
   "assets": {
    "cover": "covers/nintendo-power-183.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-183/manifest.json"
   }
  },
  {
@@ -6780,7 +6967,8 @@
   "volume": 184,
   "assets": {
    "cover": "covers/nintendo-power-184.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-184/manifest.json"
   }
  },
  {
@@ -6816,7 +7004,8 @@
   "volume": 185,
   "assets": {
    "cover": "covers/nintendo-power-185.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-185/manifest.json"
   }
  },
  {
@@ -6852,7 +7041,8 @@
   "volume": 186,
   "assets": {
    "cover": "covers/nintendo-power-186.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-186/manifest.json"
   }
  },
  {
@@ -6888,7 +7078,8 @@
   "volume": 187,
   "assets": {
    "cover": "covers/nintendo-power-187.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-187/manifest.json"
   }
  },
  {
@@ -6924,7 +7115,8 @@
   "volume": 188,
   "assets": {
    "cover": "covers/nintendo-power-188.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-188/manifest.json"
   }
  },
  {
@@ -6960,7 +7152,8 @@
   "volume": 189,
   "assets": {
    "cover": "covers/nintendo-power-189.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-189/manifest.json"
   }
  },
  {
@@ -6996,7 +7189,8 @@
   "volume": 190,
   "assets": {
    "cover": "covers/nintendo-power-190.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-190/manifest.json"
   }
  },
  {
@@ -7032,7 +7226,8 @@
   "volume": 191,
   "assets": {
    "cover": "covers/nintendo-power-191.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-191/manifest.json"
   }
  },
  {
@@ -7068,7 +7263,8 @@
   "volume": 192,
   "assets": {
    "cover": "covers/nintendo-power-192.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-192/manifest.json"
   }
  },
  {
@@ -7104,7 +7300,8 @@
   "volume": 193,
   "assets": {
    "cover": "covers/nintendo-power-193.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-193/manifest.json"
   }
  },
  {
@@ -7140,7 +7337,8 @@
   "volume": 194,
   "assets": {
    "cover": "covers/nintendo-power-194.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-194/manifest.json"
   }
  },
  {
@@ -7176,7 +7374,8 @@
   "volume": 195,
   "assets": {
    "cover": "covers/nintendo-power-195.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-195/manifest.json"
   }
  },
  {
@@ -7212,7 +7411,8 @@
   "volume": 196,
   "assets": {
    "cover": "covers/nintendo-power-196.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-196/manifest.json"
   }
  },
  {
@@ -7248,7 +7448,8 @@
   "volume": 197,
   "assets": {
    "cover": "covers/nintendo-power-197.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-197/manifest.json"
   }
  },
  {
@@ -7284,7 +7485,8 @@
   "volume": 198,
   "assets": {
    "cover": "covers/nintendo-power-198.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-198/manifest.json"
   }
  },
  {
@@ -7320,7 +7522,8 @@
   "volume": 199,
   "assets": {
    "cover": "covers/nintendo-power-199.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-199/manifest.json"
   }
  },
  {
@@ -7356,7 +7559,8 @@
   "volume": 200,
   "assets": {
    "cover": "covers/nintendo-power-200.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-200/manifest.json"
   }
  },
  {
@@ -7392,7 +7596,8 @@
   "volume": 201,
   "assets": {
    "cover": "covers/nintendo-power-201.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-201/manifest.json"
   }
  },
  {
@@ -7428,7 +7633,8 @@
   "volume": 202,
   "assets": {
    "cover": "covers/nintendo-power-202.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-202/manifest.json"
   }
  },
  {
@@ -7464,7 +7670,8 @@
   "volume": 203,
   "assets": {
    "cover": "covers/nintendo-power-203.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-203/manifest.json"
   }
  },
  {
@@ -7500,7 +7707,8 @@
   "volume": 204,
   "assets": {
    "cover": "covers/nintendo-power-204.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-204/manifest.json"
   }
  },
  {
@@ -7536,7 +7744,8 @@
   "volume": 205,
   "assets": {
    "cover": "covers/nintendo-power-205.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-205/manifest.json"
   }
  },
  {
@@ -7572,7 +7781,8 @@
   "volume": 206,
   "assets": {
    "cover": "covers/nintendo-power-206.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-206/manifest.json"
   }
  },
  {
@@ -7608,7 +7818,8 @@
   "volume": 207,
   "assets": {
    "cover": "covers/nintendo-power-207.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-207/manifest.json"
   }
  },
  {
@@ -7644,7 +7855,8 @@
   "volume": 208,
   "assets": {
    "cover": "covers/nintendo-power-208.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-208/manifest.json"
   }
  },
  {
@@ -7680,7 +7892,8 @@
   "volume": 209,
   "assets": {
    "cover": "covers/nintendo-power-209.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-209/manifest.json"
   }
  },
  {
@@ -7716,7 +7929,8 @@
   "volume": 210,
   "assets": {
    "cover": "covers/nintendo-power-210.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-210/manifest.json"
   }
  },
  {
@@ -7752,7 +7966,8 @@
   "volume": 211,
   "assets": {
    "cover": "covers/nintendo-power-211.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-211/manifest.json"
   }
  },
  {
@@ -7788,7 +8003,8 @@
   "volume": 212,
   "assets": {
    "cover": "covers/nintendo-power-212.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-212/manifest.json"
   }
  },
  {
@@ -7824,7 +8040,8 @@
   "volume": 213,
   "assets": {
    "cover": "covers/nintendo-power-213.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-213/manifest.json"
   }
  },
  {
@@ -7860,7 +8077,8 @@
   "volume": 214,
   "assets": {
    "cover": "covers/nintendo-power-214.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-214/manifest.json"
   }
  },
  {
@@ -7896,7 +8114,8 @@
   "volume": 215,
   "assets": {
    "cover": "covers/nintendo-power-215.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-215/manifest.json"
   }
  },
  {
@@ -7932,7 +8151,8 @@
   "volume": 216,
   "assets": {
    "cover": "covers/nintendo-power-216.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-216/manifest.json"
   }
  },
  {
@@ -7968,7 +8188,8 @@
   "volume": 217,
   "assets": {
    "cover": "covers/nintendo-power-217.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-217/manifest.json"
   }
  },
  {
@@ -8004,7 +8225,8 @@
   "volume": 218,
   "assets": {
    "cover": "covers/nintendo-power-218.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-218/manifest.json"
   }
  },
  {
@@ -8040,7 +8262,8 @@
   "volume": 219,
   "assets": {
    "cover": "covers/nintendo-power-219.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-219/manifest.json"
   }
  },
  {
@@ -8076,7 +8299,8 @@
   "volume": 220,
   "assets": {
    "cover": "covers/nintendo-power-220.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-220/manifest.json"
   }
  },
  {
@@ -8112,7 +8336,8 @@
   "volume": 221,
   "assets": {
    "cover": "covers/nintendo-power-221.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-221/manifest.json"
   }
  },
  {
@@ -8148,7 +8373,8 @@
   "volume": 222,
   "assets": {
    "cover": "covers/nintendo-power-222.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-222/manifest.json"
   }
  },
  {
@@ -8184,7 +8410,8 @@
   "volume": 223,
   "assets": {
    "cover": "covers/nintendo-power-223.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-223/manifest.json"
   }
  },
  {
@@ -8220,7 +8447,8 @@
   "volume": 224,
   "assets": {
    "cover": "covers/nintendo-power-224.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-224/manifest.json"
   }
  },
  {
@@ -8256,7 +8484,8 @@
   "volume": 225,
   "assets": {
    "cover": "covers/nintendo-power-225.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-225/manifest.json"
   }
  },
  {
@@ -8292,7 +8521,8 @@
   "volume": 226,
   "assets": {
    "cover": "covers/nintendo-power-226.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-226/manifest.json"
   }
  },
  {
@@ -8328,7 +8558,8 @@
   "volume": 227,
   "assets": {
    "cover": "covers/nintendo-power-227.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-227/manifest.json"
   }
  },
  {
@@ -8364,7 +8595,8 @@
   "volume": 228,
   "assets": {
    "cover": "covers/nintendo-power-228.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-228/manifest.json"
   }
  },
  {
@@ -8400,7 +8632,8 @@
   "volume": 229,
   "assets": {
    "cover": "covers/nintendo-power-229.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-229/manifest.json"
   }
  },
  {
@@ -8436,7 +8669,8 @@
   "volume": 230,
   "assets": {
    "cover": "covers/nintendo-power-230.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-230/manifest.json"
   }
  },
  {
@@ -8472,7 +8706,8 @@
   "volume": 231,
   "assets": {
    "cover": "covers/nintendo-power-231.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-231/manifest.json"
   }
  },
  {
@@ -8508,7 +8743,8 @@
   "volume": 232,
   "assets": {
    "cover": "covers/nintendo-power-232.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-232/manifest.json"
   }
  },
  {
@@ -8544,7 +8780,8 @@
   "volume": 233,
   "assets": {
    "cover": "covers/nintendo-power-233.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-233/manifest.json"
   }
  },
  {
@@ -8580,7 +8817,8 @@
   "volume": 234,
   "assets": {
    "cover": "covers/nintendo-power-234.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-234/manifest.json"
   }
  },
  {
@@ -8616,7 +8854,8 @@
   "volume": 235,
   "assets": {
    "cover": "covers/nintendo-power-235.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-235/manifest.json"
   }
  },
  {
@@ -8652,7 +8891,8 @@
   "volume": 236,
   "assets": {
    "cover": "covers/nintendo-power-236.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-236/manifest.json"
   }
  },
  {
@@ -8687,7 +8927,8 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
    "cover": "covers/nintendo-power-2009-20-years-of-nintendo-power.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-2009-20-years-of-nintendo-power/manifest.json"
   }
  },
  {
@@ -8723,7 +8964,8 @@
   "volume": 237,
   "assets": {
    "cover": "covers/nintendo-power-237.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-237/manifest.json"
   }
  },
  {
@@ -8759,7 +9001,8 @@
   "volume": 238,
   "assets": {
    "cover": "covers/nintendo-power-238.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-238/manifest.json"
   }
  },
  {
@@ -8795,7 +9038,8 @@
   "volume": 239,
   "assets": {
    "cover": "covers/nintendo-power-239.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-239/manifest.json"
   }
  },
  {
@@ -8831,7 +9075,8 @@
   "volume": 240,
   "assets": {
    "cover": "covers/nintendo-power-240.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-240/manifest.json"
   }
  },
  {
@@ -8867,7 +9112,8 @@
   "volume": 241,
   "assets": {
    "cover": "covers/nintendo-power-241.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-241/manifest.json"
   }
  },
  {
@@ -8903,7 +9149,8 @@
   "volume": 242,
   "assets": {
    "cover": "covers/nintendo-power-242.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-242/manifest.json"
   }
  },
  {
@@ -8939,7 +9186,8 @@
   "volume": 243,
   "assets": {
    "cover": "covers/nintendo-power-243.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-243/manifest.json"
   }
  },
  {
@@ -8975,7 +9223,8 @@
   "volume": 244,
   "assets": {
    "cover": "covers/nintendo-power-244.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-244/manifest.json"
   }
  },
  {
@@ -9011,7 +9260,8 @@
   "volume": 245,
   "assets": {
    "cover": "covers/nintendo-power-245.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-245/manifest.json"
   }
  },
  {
@@ -9047,7 +9297,8 @@
   "volume": 246,
   "assets": {
    "cover": "covers/nintendo-power-246.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-246/manifest.json"
   }
  },
  {
@@ -9083,7 +9334,8 @@
   "volume": 247,
   "assets": {
    "cover": "covers/nintendo-power-247.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-247/manifest.json"
   }
  },
  {
@@ -9119,7 +9371,8 @@
   "volume": 248,
   "assets": {
    "cover": "covers/nintendo-power-248.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-248/manifest.json"
   }
  },
  {
@@ -9155,7 +9408,8 @@
   "volume": 249,
   "assets": {
    "cover": "covers/nintendo-power-249.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-249/manifest.json"
   }
  },
  {
@@ -9190,7 +9444,8 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
    "cover": "covers/nintendo-power-2010-the-official-guide-to-mario.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-2010-the-official-guide-to-mario/manifest.json"
   }
  },
  {
@@ -9226,7 +9481,8 @@
   "volume": 250,
   "assets": {
    "cover": "covers/nintendo-power-250.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-250/manifest.json"
   }
  },
  {
@@ -9262,7 +9518,8 @@
   "volume": 251,
   "assets": {
    "cover": "covers/nintendo-power-251.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-251/manifest.json"
   }
  },
  {
@@ -9298,7 +9555,8 @@
   "volume": 252,
   "assets": {
    "cover": "covers/nintendo-power-252.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-252/manifest.json"
   }
  },
  {
@@ -9334,7 +9592,8 @@
   "volume": 253,
   "assets": {
    "cover": "covers/nintendo-power-253.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-253/manifest.json"
   }
  },
  {
@@ -9370,7 +9629,8 @@
   "volume": 254,
   "assets": {
    "cover": "covers/nintendo-power-254.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-254/manifest.json"
   }
  },
  {
@@ -9406,7 +9666,8 @@
   "volume": 255,
   "assets": {
    "cover": "covers/nintendo-power-255.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-255/manifest.json"
   }
  },
  {
@@ -9442,7 +9703,8 @@
   "volume": 256,
   "assets": {
    "cover": "covers/nintendo-power-256.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-256/manifest.json"
   }
  },
  {
@@ -9478,7 +9740,8 @@
   "volume": 257,
   "assets": {
    "cover": "covers/nintendo-power-257.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-257/manifest.json"
   }
  },
  {
@@ -9514,7 +9777,8 @@
   "volume": 258,
   "assets": {
    "cover": "covers/nintendo-power-258.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-258/manifest.json"
   }
  },
  {
@@ -9550,7 +9814,8 @@
   "volume": 259,
   "assets": {
    "cover": "covers/nintendo-power-259.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-259/manifest.json"
   }
  },
  {
@@ -9586,7 +9851,8 @@
   "volume": 260,
   "assets": {
    "cover": "covers/nintendo-power-260.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-260/manifest.json"
   }
  },
  {
@@ -9622,7 +9888,8 @@
   "volume": 261,
   "assets": {
    "cover": "covers/nintendo-power-261.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-261/manifest.json"
   }
  },
  {
@@ -9658,7 +9925,8 @@
   "volume": 262,
   "assets": {
    "cover": "covers/nintendo-power-262.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-262/manifest.json"
   }
  },
  {
@@ -9694,7 +9962,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/nintendo-power-1-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-1-3/manifest.json"
   }
  },
  {
@@ -9729,7 +9998,8 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
    "cover": "covers/nintendo-power-2011-the-official-guide-to-the-legend-of-zelda-2nd-ed.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-2011-the-official-guide-to-the-legend-of-zelda-2nd-ed/manifest.json"
   }
  },
  {
@@ -9765,7 +10035,8 @@
   "volume": 263,
   "assets": {
    "cover": "covers/nintendo-power-263.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-263/manifest.json"
   }
  },
  {
@@ -9801,7 +10072,8 @@
   "volume": 264,
   "assets": {
    "cover": "covers/nintendo-power-264.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-264/manifest.json"
   }
  },
  {
@@ -9837,7 +10109,8 @@
   "volume": 265,
   "assets": {
    "cover": "covers/nintendo-power-265.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-265/manifest.json"
   }
  },
  {
@@ -9873,7 +10146,8 @@
   "volume": 266,
   "assets": {
    "cover": "covers/nintendo-power-266.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-266/manifest.json"
   }
  },
  {
@@ -9909,7 +10183,8 @@
   "volume": 267,
   "assets": {
    "cover": "covers/nintendo-power-267.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-267/manifest.json"
   }
  },
  {
@@ -9945,7 +10220,8 @@
   "volume": 268,
   "assets": {
    "cover": "covers/nintendo-power-268.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-268/manifest.json"
   }
  },
  {
@@ -9981,7 +10257,8 @@
   "volume": 269,
   "assets": {
    "cover": "covers/nintendo-power-269.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-269/manifest.json"
   }
  },
  {
@@ -10017,7 +10294,8 @@
   "volume": 270,
   "assets": {
    "cover": "covers/nintendo-power-270.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-270/manifest.json"
   }
  },
  {
@@ -10053,7 +10331,8 @@
   "volume": 271,
   "assets": {
    "cover": "covers/nintendo-power-271.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-271/manifest.json"
   }
  },
  {
@@ -10089,7 +10368,8 @@
   "volume": 272,
   "assets": {
    "cover": "covers/nintendo-power-272.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-272/manifest.json"
   }
  },
  {
@@ -10125,7 +10405,8 @@
   "volume": 273,
   "assets": {
    "cover": "covers/nintendo-power-273.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-273/manifest.json"
   }
  },
  {
@@ -10161,7 +10442,8 @@
   "volume": 274,
   "assets": {
    "cover": "covers/nintendo-power-274.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-274/manifest.json"
   }
  },
  {
@@ -10196,7 +10478,8 @@
   "updated_at": "2026-09-14T09:34:02+00:00",
   "assets": {
    "cover": "covers/nintendo-power-2012-the-ultimate-guide-to-nintendo-3ds.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-2012-the-ultimate-guide-to-nintendo-3ds/manifest.json"
   }
  },
  {
@@ -10233,7 +10516,8 @@
   "volume": 275,
   "assets": {
    "cover": "covers/nintendo-power-275.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-275/manifest.json"
   }
  },
  {
@@ -10269,7 +10553,8 @@
   "volume": 276,
   "assets": {
    "cover": "covers/nintendo-power-276.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-276/manifest.json"
   }
  },
  {
@@ -10305,7 +10590,8 @@
   "volume": 277,
   "assets": {
    "cover": "covers/nintendo-power-277.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-277/manifest.json"
   }
  },
  {
@@ -10341,7 +10627,8 @@
   "volume": 278,
   "assets": {
    "cover": "covers/nintendo-power-278.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-278/manifest.json"
   }
  },
  {
@@ -10377,7 +10664,8 @@
   "volume": 279,
   "assets": {
    "cover": "covers/nintendo-power-279.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-279/manifest.json"
   }
  },
  {
@@ -10413,7 +10701,8 @@
   "volume": 280,
   "assets": {
    "cover": "covers/nintendo-power-280.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-280/manifest.json"
   }
  },
  {
@@ -10449,7 +10738,8 @@
   "volume": 281,
   "assets": {
    "cover": "covers/nintendo-power-281.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-281/manifest.json"
   }
  },
  {
@@ -10485,7 +10775,8 @@
   "volume": 282,
   "assets": {
    "cover": "covers/nintendo-power-282.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-282/manifest.json"
   }
  },
  {
@@ -10521,7 +10812,8 @@
   "volume": 283,
   "assets": {
    "cover": "covers/nintendo-power-283.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-283/manifest.json"
   }
  },
  {
@@ -10557,7 +10849,8 @@
   "volume": 284,
   "assets": {
    "cover": "covers/nintendo-power-284.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-284/manifest.json"
   }
  },
  {
@@ -10593,7 +10886,8 @@
   "volume": 285,
   "assets": {
    "cover": "covers/nintendo-power-285.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/nintendo-power-285/manifest.json"
   }
  }
 ]
