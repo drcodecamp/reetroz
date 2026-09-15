@@ -4461,7 +4461,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-1.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": "Premiere issue"
  },
@@ -5245,7 +5245,7 @@
   "pages": 116,
   "cover": "/covers/pc-games-198912-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5301,7 +5301,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-3.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6057,7 +6057,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-1-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6085,7 +6085,7 @@
   "pages": 74,
   "cover": "/covers/pc-games-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6463,7 +6463,7 @@
   "pages": 68,
   "cover": "/covers/pc-games-199004-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6729,7 +6729,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-199012-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6897,7 +6897,7 @@
   "pages": 86,
   "cover": "/covers/pc-games-199002-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -7961,7 +7961,7 @@
   "pages": 76,
   "cover": "/covers/pc-games-199009-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8717,7 +8717,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-199112-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9109,7 +9109,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199101-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9543,7 +9543,7 @@
   "pages": 80,
   "cover": "/covers/pc-games-199103-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9781,7 +9781,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199111-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9949,7 +9949,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199110-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10621,7 +10621,7 @@
   "pages": 92,
   "cover": "/covers/pc-games-199208-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10845,7 +10845,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-199212-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11279,7 +11279,7 @@
   "pages": 92,
   "cover": "/covers/pc-games-199201-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12091,7 +12091,7 @@
   "pages": 90,
   "cover": "/covers/pc-games-199211-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12371,7 +12371,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199210-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12595,7 +12595,7 @@
   "pages": 176,
   "cover": "/covers/pc-games-199206-pcgames.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12973,7 +12973,7 @@
   "pages": 88,
   "cover": "/covers/pc-games-199304-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13659,7 +13659,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199302-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13855,7 +13855,7 @@
   "pages": 96,
   "cover": "/covers/pc-games-199301-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14415,7 +14415,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199306-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15059,7 +15059,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199311-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15339,7 +15339,7 @@
   "pages": 88,
   "cover": "/covers/pc-games-199310-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15577,7 +15577,7 @@
   "pages": 84,
   "cover": "/covers/pc-games-199309-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15955,7 +15955,7 @@
   "pages": 128,
   "cover": "/covers/pc-games-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16277,7 +16277,7 @@
   "pages": 122,
   "cover": "/covers/pc-games-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16613,7 +16613,7 @@
   "pages": 168,
   "cover": "/covers/pc-games-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16851,7 +16851,7 @@
   "pages": 124,
   "cover": "/covers/pc-games-2-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17117,7 +17117,7 @@
   "pages": 148,
   "cover": "/covers/pc-games-1-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17397,7 +17397,7 @@
   "pages": 124,
   "cover": "/covers/pc-games-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17635,7 +17635,7 @@
   "pages": 124,
   "cover": "/covers/pc-games-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17873,7 +17873,7 @@
   "pages": 128,
   "cover": "/covers/pc-games-3-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18125,7 +18125,7 @@
   "pages": 130,
   "cover": "/covers/pc-games-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18405,7 +18405,7 @@
   "pages": 132,
   "cover": "/covers/pc-games-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18657,7 +18657,7 @@
   "pages": 122,
   "cover": "/covers/pc-games-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18909,7 +18909,7 @@
   "pages": 116,
   "cover": "/covers/pc-games-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19035,7 +19035,7 @@
   "pages": 172,
   "cover": "/covers/pc-games-199412-pcgames.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19343,7 +19343,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-4-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19623,7 +19623,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-8-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19973,7 +19973,7 @@
   "pages": 212,
   "cover": "/covers/pc-games-12-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20351,7 +20351,7 @@
   "pages": 63,
   "cover": "/covers/pc-games-2-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20701,7 +20701,7 @@
   "pages": 140,
   "cover": "/covers/pc-games-1-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20939,7 +20939,7 @@
   "pages": 110,
   "cover": "/covers/pc-games-7-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21233,7 +21233,7 @@
   "pages": 132,
   "cover": "/covers/pc-games-6-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21555,7 +21555,7 @@
   "pages": 104,
   "cover": "/covers/pc-games-3-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21877,7 +21877,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-5-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22213,7 +22213,7 @@
   "pages": 180,
   "cover": "/covers/pc-games-11-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22535,7 +22535,7 @@
   "pages": 148,
   "cover": "/covers/pc-games-10-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22787,7 +22787,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-9-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23165,7 +23165,7 @@
   "pages": 108,
   "cover": "/covers/pc-games-4-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23473,7 +23473,7 @@
   "pages": 106,
   "cover": "/covers/pc-games-8-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24145,7 +24145,7 @@
   "pages": 132,
   "cover": "/covers/pc-games-2-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24467,7 +24467,7 @@
   "pages": 164,
   "cover": "/covers/pc-games-1-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24761,7 +24761,7 @@
   "pages": 100,
   "cover": "/covers/pc-games-7-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25055,7 +25055,7 @@
   "pages": 118,
   "cover": "/covers/pc-games-6-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25377,7 +25377,7 @@
   "pages": 102,
   "cover": "/covers/pc-games-3-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26539,7 +26539,7 @@
   "pages": 122,
   "cover": "/covers/pc-games-9-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27407,7 +27407,7 @@
   "pages": 222,
   "cover": "/covers/pc-games-10-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27897,7 +27897,7 @@
   "pages": 168,
   "cover": "/covers/pc-games-1-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28205,7 +28205,7 @@
   "pages": 221,
   "cover": "/covers/pc-games-6-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29157,7 +29157,7 @@
   "pages": 204,
   "cover": "/covers/pc-games-9-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29409,7 +29409,7 @@
   "pages": 188,
   "cover": "/covers/pc-games-8-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -29633,7 +29633,7 @@
   "pages": 178,
   "cover": "/covers/pc-games-7-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30011,7 +30011,7 @@
   "pages": 112,
   "cover": "/covers/pc-games-4-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30781,7 +30781,7 @@
   "pages": 114,
   "cover": "/covers/pc-games-2-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31033,7 +31033,7 @@
   "pages": 184,
   "cover": "/covers/pc-games-1-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31313,7 +31313,7 @@
   "pages": 149,
   "cover": "/covers/pc-games-6-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31733,7 +31733,7 @@
   "pages": 135,
   "cover": "/covers/pc-games-3-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32223,7 +32223,7 @@
   "pages": 170,
   "cover": "/covers/pc-games-9-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32461,7 +32461,7 @@
   "pages": 144,
   "cover": "/covers/pc-games-8-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32699,7 +32699,7 @@
   "pages": 126,
   "cover": "/covers/pc-games-7-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53055,7 +53055,7 @@
   "pages": 138,
   "cover": "/covers/playstation-the-official-magazine-1.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54343,7 +54343,7 @@
   "pages": 106,
   "cover": "/covers/playstation-the-official-magazine-5.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54455,7 +54455,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-9.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54567,7 +54567,7 @@
   "pages": 116,
   "cover": "/covers/playstation-the-official-magazine-13.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54693,7 +54693,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-3.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54749,7 +54749,7 @@
   "pages": 104,
   "cover": "/covers/playstation-the-official-magazine-14.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54861,7 +54861,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54987,7 +54987,7 @@
   "pages": 108,
   "cover": "/covers/playstation-the-official-magazine-8.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55113,7 +55113,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-7.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55225,7 +55225,7 @@
   "pages": 108,
   "cover": "/covers/playstation-the-official-magazine-4.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55351,7 +55351,7 @@
   "pages": 104,
   "cover": "/covers/playstation-the-official-magazine-6.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55477,7 +55477,7 @@
   "pages": 108,
   "cover": "/covers/playstation-the-official-magazine-12.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55603,7 +55603,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-11.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55701,7 +55701,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-10.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55841,7 +55841,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-18.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55939,7 +55939,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-22.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56037,7 +56037,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-26.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56163,7 +56163,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-16.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56219,7 +56219,7 @@
   "pages": 104,
   "cover": "/covers/playstation-the-official-magazine-27.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56331,7 +56331,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-15.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56443,7 +56443,7 @@
   "pages": 104,
   "cover": "/covers/playstation-the-official-magazine-21.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56555,7 +56555,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-20.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56653,7 +56653,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-17.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56765,7 +56765,7 @@
   "pages": 96,
   "cover": "/covers/playstation-the-official-magazine-19.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56863,7 +56863,7 @@
   "pages": 107,
   "cover": "/covers/playstation-the-official-magazine-25.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56961,7 +56961,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-24.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57045,7 +57045,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-23.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57213,7 +57213,7 @@
   "pages": 206,
   "cover": "/covers/playstation-the-official-magazine-31.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57297,7 +57297,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-35.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57409,7 +57409,7 @@
   "pages": 114,
   "cover": "/covers/playstation-the-official-magazine-39.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57507,7 +57507,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-29.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57563,7 +57563,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-40.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57661,7 +57661,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-28.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57745,7 +57745,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-34.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57899,7 +57899,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-33.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57983,7 +57983,7 @@
   "pages": 104,
   "cover": "/covers/playstation-the-official-magazine-30.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58081,7 +58081,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-32.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58193,7 +58193,7 @@
   "pages": 104,
   "cover": "/covers/playstation-the-official-magazine-38.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58319,7 +58319,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-37.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58417,7 +58417,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-36.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58613,7 +58613,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-44.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58711,7 +58711,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-48.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58795,7 +58795,7 @@
   "pages": 103,
   "cover": "/covers/playstation-the-official-magazine-52.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58907,7 +58907,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-42.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58949,7 +58949,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-53.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59033,7 +59033,7 @@
   "pages": 98,
   "cover": "/covers/playstation-the-official-magazine-41.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59131,7 +59131,7 @@
   "pages": 104,
   "cover": "/covers/playstation-the-official-magazine-47.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59257,7 +59257,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-46.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59411,7 +59411,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-43.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59523,7 +59523,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-45.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59607,7 +59607,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-51.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59719,7 +59719,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-50.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59817,7 +59817,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-49.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -59929,7 +59929,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-57.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60013,7 +60013,7 @@
   "pages": 106,
   "cover": "/covers/playstation-the-official-magazine-65.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60083,7 +60083,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-55.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60139,7 +60139,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-54.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60223,7 +60223,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-60.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60279,7 +60279,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-59.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60405,7 +60405,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-56.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60475,7 +60475,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-58.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60545,7 +60545,7 @@
   "pages": 102,
   "cover": "/covers/playstation-the-official-magazine-64.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60615,7 +60615,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-63.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -60671,7 +60671,7 @@
   "pages": 100,
   "cover": "/covers/playstation-the-official-magazine-62.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },

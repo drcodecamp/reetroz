@@ -4,8 +4,8 @@ Status as of 2026-09-15. Rendered titles are on R2 and readable at localhost:300
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 7 | 1,770 | 236,941 |
-| Left — PDFs on disk | 66 | 2,858 | 280,852 |
+| Done (readable on R2) | 9 | 2,195 | 282,772 |
+| Left — PDFs on disk | 64 | 2,433 | 235,021 |
 | Left — no local PDFs (stubs) | 27 | — | — |
 | Left — no `publication.json` | 16 | — | — |
 
@@ -19,6 +19,8 @@ Status as of 2026-09-15. Rendered titles are on R2 and readable at localhost:300
 - [x] Game Informer (`game-informer`) — 366 issues / 38,668 pages
 - [x] Nintendo Power (`nintendo-power`) — 294 issues / 36,497 pages
 - [x] PC Gamer (US) (`pc-gamer-us`) — 195 issues / 31,613 pages
+- [x] Game Players (`game-players`) — 238 issues / 27,281 pages
+- [x] Tips & Tricks (`tips-and-tricks`) — 187 issues / 18,550 pages
 - [x] @Gamer (`atgamer`) — 32 issues / 3,238 pages
 
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
@@ -31,8 +33,8 @@ Suggested order. Check off as each title is rendered + uploaded.
 
 ### Next (flagships)
 
-- [ ] Game Players (`game-players`) — 238 issues / 27,281 pages — **encoding now**
-- [ ] Tips & Tricks (`tips-and-tricks`) — 187 issues / 18,550 pages — **encoding now**
+- [ ] PC Games / Electronic Entertainment (`pc-games`) — 75 issues / 9,142 pages — **encoding now**
+- [ ] PlayStation: The Official Magazine (`playstation-the-official-magazine`) — 64 issues / 6,664 pages — **encoding now**
 - [ ] EGM2 / Expert Gamer / GameNOW (`egm2`) — 121 issues / 16,172 pages
 - [ ] Official U.S. PlayStation Magazine (`official-us-playstation-magazine`) — 113 issues / 15,850 pages
 - [ ] PSM (`psm`) — 131 issues / 15,277 pages
@@ -46,9 +48,7 @@ Suggested order. Check off as each title is rendered + uploaded.
 - [ ] VideoGames & Computer Entertainment (`videogames-computer-entertainment`) — 93 issues / 10,908 pages
 - [ ] Play (US) (`play-us`) — 97 issues / 10,669 pages
 - [ ] Hyper (`hyper`) — 98 issues / 9,384 pages
-- [ ] PC Games / Electronic Entertainment (`pc-games`) — 75 issues / 9,142 pages
 - [ ] Computer Game Review (`computer-game-review`) — 66 issues / 7,524 pages
-- [ ] PlayStation: The Official Magazine (`playstation-the-official-magazine`) — 64 issues / 6,664 pages
 - [ ] PSExtreme / Dimension PS-X / PSE2 (`psextreme`) — 74 issues / 6,124 pages
 
 ### Worth doing after that
