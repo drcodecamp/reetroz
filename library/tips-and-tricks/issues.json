@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/tips-and-tricks-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-2/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-3/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-5/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-6/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-7/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-8/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-9/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-4/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-10/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-11/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-12/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-13/manifest.json"
   }
  },
  {
@@ -487,7 +500,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-14/manifest.json"
   }
  },
  {
@@ -522,7 +536,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-15/manifest.json"
   }
  },
  {
@@ -557,7 +572,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-16/manifest.json"
   }
  },
  {
@@ -592,7 +608,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-17/manifest.json"
   }
  },
  {
@@ -627,7 +644,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-18/manifest.json"
   }
  },
  {
@@ -662,7 +680,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-19/manifest.json"
   }
  },
  {
@@ -697,7 +716,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-20/manifest.json"
   }
  },
  {
@@ -732,7 +752,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-21/manifest.json"
   }
  },
  {
@@ -767,7 +788,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-22/manifest.json"
   }
  },
  {
@@ -802,7 +824,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-23/manifest.json"
   }
  },
  {
@@ -837,7 +860,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-24/manifest.json"
   }
  },
  {
@@ -872,7 +896,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-25/manifest.json"
   }
  },
  {
@@ -907,7 +932,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-26/manifest.json"
   }
  },
  {
@@ -942,7 +968,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-27/manifest.json"
   }
  },
  {
@@ -977,7 +1004,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-28/manifest.json"
   }
  },
  {
@@ -1012,7 +1040,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-29/manifest.json"
   }
  },
  {
@@ -1047,7 +1076,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-30/manifest.json"
   }
  },
  {
@@ -1082,7 +1112,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-31/manifest.json"
   }
  },
  {
@@ -1117,7 +1148,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-32/manifest.json"
   }
  },
  {
@@ -1152,7 +1184,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-33/manifest.json"
   }
  },
  {
@@ -1187,7 +1220,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-34/manifest.json"
   }
  },
  {
@@ -1222,7 +1256,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-1998-tips-tricks-1998-video-game-codebook-collector-s.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-1998-tips-tricks-1998-video-game-codebook-collector-s/manifest.json"
   }
  },
  {
@@ -1257,7 +1292,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-35/manifest.json"
   }
  },
  {
@@ -1292,7 +1328,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-36/manifest.json"
   }
  },
  {
@@ -1327,7 +1364,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-37/manifest.json"
   }
  },
  {
@@ -1362,7 +1400,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-38/manifest.json"
   }
  },
  {
@@ -1397,7 +1436,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-39/manifest.json"
   }
  },
  {
@@ -1432,7 +1472,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-40/manifest.json"
   }
  },
  {
@@ -1467,7 +1508,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-41/manifest.json"
   }
  },
  {
@@ -1502,7 +1544,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-42/manifest.json"
   }
  },
  {
@@ -1537,7 +1580,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-43/manifest.json"
   }
  },
  {
@@ -1572,7 +1616,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-44.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-44/manifest.json"
   }
  },
  {
@@ -1607,7 +1652,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-45/manifest.json"
   }
  },
  {
@@ -1642,7 +1688,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-46/manifest.json"
   }
  },
  {
@@ -1677,7 +1724,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-1999-tips-tricks-1999-video-game-codebook-special-edi.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-1999-tips-tricks-1999-video-game-codebook-special-edi/manifest.json"
   }
  },
  {
@@ -1712,7 +1760,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-47/manifest.json"
   }
  },
  {
@@ -1747,7 +1796,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-48/manifest.json"
   }
  },
  {
@@ -1782,7 +1832,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-49/manifest.json"
   }
  },
  {
@@ -1817,7 +1868,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-50/manifest.json"
   }
  },
  {
@@ -1852,7 +1904,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-51/manifest.json"
   }
  },
  {
@@ -1887,7 +1940,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-52/manifest.json"
   }
  },
  {
@@ -1922,7 +1976,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-53/manifest.json"
   }
  },
  {
@@ -1957,7 +2012,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-54/manifest.json"
   }
  },
  {
@@ -1992,7 +2048,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-55/manifest.json"
   }
  },
  {
@@ -2027,7 +2084,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-56/manifest.json"
   }
  },
  {
@@ -2062,7 +2120,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-57/manifest.json"
   }
  },
  {
@@ -2097,7 +2156,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-58/manifest.json"
   }
  },
  {
@@ -2132,7 +2192,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-2000-tips-tricks-pok-mon-report-special-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-2000-tips-tricks-pok-mon-report-special-issue/manifest.json"
   }
  },
  {
@@ -2167,7 +2228,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-59/manifest.json"
   }
  },
  {
@@ -2202,7 +2264,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-60/manifest.json"
   }
  },
  {
@@ -2237,7 +2300,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-61/manifest.json"
   }
  },
  {
@@ -2272,7 +2336,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-62.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-62/manifest.json"
   }
  },
  {
@@ -2307,7 +2372,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-63/manifest.json"
   }
  },
  {
@@ -2342,7 +2408,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-64.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-64/manifest.json"
   }
  },
  {
@@ -2377,7 +2444,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-65.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-65/manifest.json"
   }
  },
  {
@@ -2412,7 +2480,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-66.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-66/manifest.json"
   }
  },
  {
@@ -2447,7 +2516,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200008-tips-tricks-2000-video-game-codebook-special-edi.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200008-tips-tricks-2000-video-game-codebook-special-edi/manifest.json"
   }
  },
  {
@@ -2482,7 +2552,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-67.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-67/manifest.json"
   }
  },
  {
@@ -2517,7 +2588,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-68.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-68/manifest.json"
   }
  },
  {
@@ -2552,7 +2624,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-69/manifest.json"
   }
  },
  {
@@ -2587,7 +2660,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-70.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-70/manifest.json"
   }
  },
  {
@@ -2622,7 +2696,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-71/manifest.json"
   }
  },
  {
@@ -2657,7 +2732,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-72.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-72/manifest.json"
   }
  },
  {
@@ -2692,7 +2768,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-73/manifest.json"
   }
  },
  {
@@ -2727,7 +2804,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-74/manifest.json"
   }
  },
  {
@@ -2762,7 +2840,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-75/manifest.json"
   }
  },
  {
@@ -2797,7 +2876,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200105-tips-tricks-2001-video-game-codebook-special-col.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200105-tips-tricks-2001-video-game-codebook-special-col/manifest.json"
   }
  },
  {
@@ -2832,7 +2912,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-76.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-76/manifest.json"
   }
  },
  {
@@ -2867,7 +2948,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-77.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-77/manifest.json"
   }
  },
  {
@@ -2902,7 +2984,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-78.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-78/manifest.json"
   }
  },
  {
@@ -2937,7 +3020,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-79/manifest.json"
   }
  },
  {
@@ -2972,7 +3056,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-80/manifest.json"
   }
  },
  {
@@ -3007,7 +3092,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-81/manifest.json"
   }
  },
  {
@@ -3042,7 +3128,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200111-tips-tricks-video-game-codebook-special-edition.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200111-tips-tricks-video-game-codebook-special-edition/manifest.json"
   }
  },
  {
@@ -3077,7 +3164,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-82/manifest.json"
   }
  },
  {
@@ -3112,7 +3200,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-83/manifest.json"
   }
  },
  {
@@ -3147,7 +3236,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-84/manifest.json"
   }
  },
  {
@@ -3182,7 +3272,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-85/manifest.json"
   }
  },
  {
@@ -3217,7 +3308,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-86/manifest.json"
   }
  },
  {
@@ -3252,7 +3344,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-87/manifest.json"
   }
  },
  {
@@ -3287,7 +3380,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200205-tips-tricks-summer-2002-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200205-tips-tricks-summer-2002-video-game-codebook/manifest.json"
   }
  },
  {
@@ -3322,7 +3416,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-88/manifest.json"
   }
  },
  {
@@ -3357,7 +3452,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-89/manifest.json"
   }
  },
  {
@@ -3392,7 +3488,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-90/manifest.json"
   }
  },
  {
@@ -3427,7 +3524,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-91/manifest.json"
   }
  },
  {
@@ -3462,7 +3560,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-92/manifest.json"
   }
  },
  {
@@ -3497,7 +3596,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-93/manifest.json"
   }
  },
  {
@@ -3532,7 +3632,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200211-tips-tricks-holiday-2002-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200211-tips-tricks-holiday-2002-video-game-codebook/manifest.json"
   }
  },
  {
@@ -3567,7 +3668,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-94/manifest.json"
   }
  },
  {
@@ -3602,7 +3704,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-95/manifest.json"
   }
  },
  {
@@ -3637,7 +3740,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-96/manifest.json"
   }
  },
  {
@@ -3672,7 +3776,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-97/manifest.json"
   }
  },
  {
@@ -3707,7 +3812,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-98.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-98/manifest.json"
   }
  },
  {
@@ -3742,7 +3848,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-99.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-99/manifest.json"
   }
  },
  {
@@ -3777,7 +3884,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200305-tips-tricks-2003-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200305-tips-tricks-2003-video-game-codebook/manifest.json"
   }
  },
  {
@@ -3812,7 +3920,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-100.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-100/manifest.json"
   }
  },
  {
@@ -3847,7 +3956,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-101.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-101/manifest.json"
   }
  },
  {
@@ -3882,7 +3992,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-102.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-102/manifest.json"
   }
  },
  {
@@ -3917,7 +4028,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-103.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-103/manifest.json"
   }
  },
  {
@@ -3952,7 +4064,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-104.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-104/manifest.json"
   }
  },
  {
@@ -3987,7 +4100,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-105.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-105/manifest.json"
   }
  },
  {
@@ -4022,7 +4136,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200311-tips-tricks-holiday-2003-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200311-tips-tricks-holiday-2003-codebook/manifest.json"
   }
  },
  {
@@ -4057,7 +4172,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-106.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-106/manifest.json"
   }
  },
  {
@@ -4092,7 +4208,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-107.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-107/manifest.json"
   }
  },
  {
@@ -4127,7 +4244,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-108.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-108/manifest.json"
   }
  },
  {
@@ -4162,7 +4280,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-109.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-109/manifest.json"
   }
  },
  {
@@ -4197,7 +4316,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-110.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-110/manifest.json"
   }
  },
  {
@@ -4232,7 +4352,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-111.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-111/manifest.json"
   }
  },
  {
@@ -4267,7 +4388,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200405-tips-tricks-codebook-10th-anniversary-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200405-tips-tricks-codebook-10th-anniversary-codebook/manifest.json"
   }
  },
  {
@@ -4302,7 +4424,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-112.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-112/manifest.json"
   }
  },
  {
@@ -4337,7 +4460,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-113.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-113/manifest.json"
   }
  },
  {
@@ -4372,7 +4496,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-114.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-114/manifest.json"
   }
  },
  {
@@ -4407,7 +4532,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-115.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-115/manifest.json"
   }
  },
  {
@@ -4442,7 +4568,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-116.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-116/manifest.json"
   }
  },
  {
@@ -4477,7 +4604,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200410-tips-tricks-codebook-special-edition.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200410-tips-tricks-codebook-special-edition/manifest.json"
   }
  },
  {
@@ -4512,7 +4640,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-117.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-117/manifest.json"
   }
  },
  {
@@ -4547,7 +4676,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-118.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-118/manifest.json"
   }
  },
  {
@@ -4582,7 +4712,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-119.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-119/manifest.json"
   }
  },
  {
@@ -4617,7 +4748,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-120.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-120/manifest.json"
   }
  },
  {
@@ -4652,7 +4784,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-121.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-121/manifest.json"
   }
  },
  {
@@ -4687,7 +4820,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-122.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-122/manifest.json"
   }
  },
  {
@@ -4722,7 +4856,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-123.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-123/manifest.json"
   }
  },
  {
@@ -4757,7 +4892,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200505-tips-tricks-special-edition-2005-video-game-code.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200505-tips-tricks-special-edition-2005-video-game-code/manifest.json"
   }
  },
  {
@@ -4792,7 +4928,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-124.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-124/manifest.json"
   }
  },
  {
@@ -4827,7 +4964,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-125.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-125/manifest.json"
   }
  },
  {
@@ -4862,7 +5000,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-126.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-126/manifest.json"
   }
  },
  {
@@ -4897,7 +5036,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-127.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-127/manifest.json"
   }
  },
  {
@@ -4932,7 +5072,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-128.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-128/manifest.json"
   }
  },
  {
@@ -4967,7 +5108,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200510-tips-tricks-2005-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200510-tips-tricks-2005-video-game-codebook/manifest.json"
   }
  },
  {
@@ -5002,7 +5144,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-129.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-129/manifest.json"
   }
  },
  {
@@ -5037,7 +5180,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-130.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-130/manifest.json"
   }
  },
  {
@@ -5072,7 +5216,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-131.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-131/manifest.json"
   }
  },
  {
@@ -5107,7 +5252,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-132.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-132/manifest.json"
   }
  },
  {
@@ -5142,7 +5288,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-133.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-133/manifest.json"
   }
  },
  {
@@ -5177,7 +5324,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-134.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-134/manifest.json"
   }
  },
  {
@@ -5212,7 +5360,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-135.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-135/manifest.json"
   }
  },
  {
@@ -5247,7 +5396,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200605-tips-tricks-2006-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200605-tips-tricks-2006-video-game-codebook/manifest.json"
   }
  },
  {
@@ -5282,7 +5432,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-136.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-136/manifest.json"
   }
  },
  {
@@ -5317,7 +5468,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-137.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-137/manifest.json"
   }
  },
  {
@@ -5352,7 +5504,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-138.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-138/manifest.json"
   }
  },
  {
@@ -5387,7 +5540,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-139.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-139/manifest.json"
   }
  },
  {
@@ -5422,7 +5576,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-140.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-140/manifest.json"
   }
  },
  {
@@ -5457,7 +5612,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200610-tips-tricks-2006-video-game-codebook-special-zom.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200610-tips-tricks-2006-video-game-codebook-special-zom/manifest.json"
   }
  },
  {
@@ -5492,7 +5648,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-141.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-141/manifest.json"
   }
  },
  {
@@ -5527,7 +5684,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-143.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-143/manifest.json"
   }
  },
  {
@@ -5562,7 +5720,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200701-tips-tricks-super-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200701-tips-tricks-super-video-game-codebook/manifest.json"
   }
  },
  {
@@ -5597,7 +5756,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-144.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-144/manifest.json"
   }
  },
  {
@@ -5632,7 +5792,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-145.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-145/manifest.json"
   }
  },
  {
@@ -5667,7 +5828,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200703-tips-tricks-spring-07-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200703-tips-tricks-spring-07-video-game-codebook/manifest.json"
   }
  },
  {
@@ -5702,7 +5864,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-146.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-146/manifest.json"
   }
  },
  {
@@ -5737,7 +5900,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-147.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-147/manifest.json"
   }
  },
  {
@@ -5772,7 +5936,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-148.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-148/manifest.json"
   }
  },
  {
@@ -5807,7 +5972,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200706-tips-tricks-2007-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200706-tips-tricks-2007-video-game-codebook/manifest.json"
   }
  },
  {
@@ -5842,7 +6008,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-149.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-149/manifest.json"
   }
  },
  {
@@ -5877,7 +6044,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-150.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-150/manifest.json"
   }
  },
  {
@@ -5913,7 +6081,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200709-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200709-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -5949,7 +6118,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200711-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200711-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -5984,7 +6154,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-142.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-142/manifest.json"
   }
  },
  {
@@ -6020,7 +6191,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200801-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200801-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6056,7 +6228,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200803-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200803-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6092,7 +6265,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200805-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200805-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6128,7 +6302,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200807-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200807-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6164,7 +6339,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200809-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200809-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6200,7 +6376,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200811-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200811-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6236,7 +6413,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200901-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200901-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6272,7 +6450,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200903-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200903-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6308,7 +6487,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200905-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200905-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6344,7 +6524,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200907-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200907-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6380,7 +6561,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200909-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200909-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6416,7 +6598,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-200911-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-200911-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6451,7 +6634,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-201003-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-201003-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6486,7 +6670,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-201007-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-201007-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6521,7 +6706,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-201009-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-201009-tips-tricks-video-game-codebook/manifest.json"
   }
  },
  {
@@ -6556,7 +6742,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/tips-and-tricks-201011-tips-tricks-video-game-codebook.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/tips-and-tricks-201011-tips-tricks-video-game-codebook/manifest.json"
   }
  }
 ]

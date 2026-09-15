@@ -4433,7 +4433,7 @@
   "pages": 132,
   "cover": "/covers/game-players-2-29.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4909,7 +4909,7 @@
   "pages": 116,
   "cover": "/covers/game-players-1-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5035,7 +5035,7 @@
   "pages": 100,
   "cover": "/covers/game-players-1-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5119,7 +5119,7 @@
   "pages": 100,
   "cover": "/covers/game-players-3-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5133,7 +5133,7 @@
   "pages": 100,
   "cover": "/covers/game-players-3-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5147,7 +5147,7 @@
   "pages": 132,
   "cover": "/covers/game-players-4-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5203,7 +5203,7 @@
   "pages": 142,
   "cover": "/covers/game-players-6-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5273,7 +5273,7 @@
   "pages": 108,
   "cover": "/covers/game-players-1-28.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5287,7 +5287,7 @@
   "pages": 156,
   "cover": "/covers/game-players-6-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5385,7 +5385,7 @@
   "pages": 124,
   "cover": "/covers/game-players-4-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5581,7 +5581,7 @@
   "pages": 132,
   "cover": "/covers/game-players-2-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5595,7 +5595,7 @@
   "pages": 100,
   "cover": "/covers/game-players-2-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5609,7 +5609,7 @@
   "pages": 132,
   "cover": "/covers/game-players-3-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5791,7 +5791,7 @@
   "pages": 130,
   "cover": "/covers/game-players-5-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5833,7 +5833,7 @@
   "pages": 156,
   "cover": "/covers/game-players-5-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5889,7 +5889,7 @@
   "pages": 102,
   "cover": "/covers/game-players-4-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5931,7 +5931,7 @@
   "pages": 164,
   "cover": "/covers/game-players-5-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6001,7 +6001,7 @@
   "pages": 100,
   "cover": "/covers/game-players-4-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6071,7 +6071,7 @@
   "pages": 16,
   "cover": "/covers/game-players-198906-game-player-s-ces-videogame-and-computer-game-gu.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6113,7 +6113,7 @@
   "pages": 8,
   "cover": "/covers/game-players-198912-game-player-s-ces-videogame-and-computer-game-gu.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6141,7 +6141,7 @@
   "pages": 134,
   "cover": "/covers/game-players-1-27.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6155,7 +6155,7 @@
   "pages": 124,
   "cover": "/covers/game-players-2-29-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6169,7 +6169,7 @@
   "pages": 116,
   "cover": "/covers/game-players-1-26.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6183,7 +6183,7 @@
   "pages": 116,
   "cover": "/covers/game-players-3-25.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6211,7 +6211,7 @@
   "pages": 272,
   "cover": "/covers/game-players-1-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6225,7 +6225,7 @@
   "pages": 272,
   "cover": "/covers/game-players-1-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6239,7 +6239,7 @@
   "pages": 274,
   "cover": "/covers/game-players-1-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6253,7 +6253,7 @@
   "pages": 212,
   "cover": "/covers/game-players-2-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6267,7 +6267,7 @@
   "pages": 260,
   "cover": "/covers/game-players-2-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6421,7 +6421,7 @@
   "pages": 100,
   "cover": "/covers/game-players-4-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6491,7 +6491,7 @@
   "pages": 132,
   "cover": "/covers/game-players-2-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6505,7 +6505,7 @@
   "pages": 111,
   "cover": "/covers/game-players-3-8-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6533,7 +6533,7 @@
   "pages": 100,
   "cover": "/covers/game-players-8-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6603,7 +6603,7 @@
   "pages": 132,
   "cover": "/covers/game-players-4-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6617,7 +6617,7 @@
   "pages": 104,
   "cover": "/covers/game-players-5-7-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -6659,7 +6659,7 @@
   "pages": 132,
   "cover": "/covers/game-players-7-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6673,7 +6673,7 @@
   "pages": 116,
   "cover": "/covers/game-players-12-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6757,7 +6757,7 @@
   "pages": 88,
   "cover": "/covers/game-players-1-29.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6771,7 +6771,7 @@
   "pages": 88,
   "cover": "/covers/game-players-1-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6855,7 +6855,7 @@
   "pages": 124,
   "cover": "/covers/game-players-2-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6925,7 +6925,7 @@
   "pages": 148,
   "cover": "/covers/game-players-1-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6939,7 +6939,7 @@
   "pages": 106,
   "cover": "/covers/game-players-2-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6995,7 +6995,7 @@
   "pages": 134,
   "cover": "/covers/game-players-1-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7093,7 +7093,7 @@
   "pages": 100,
   "cover": "/covers/game-players-7-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7149,7 +7149,7 @@
   "pages": 100,
   "cover": "/covers/game-players-4-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7233,7 +7233,7 @@
   "pages": 116,
   "cover": "/covers/game-players-6-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7289,7 +7289,7 @@
   "pages": 132,
   "cover": "/covers/game-players-3-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7303,7 +7303,7 @@
   "pages": 104,
   "cover": "/covers/game-players-4-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7373,7 +7373,7 @@
   "pages": 116,
   "cover": "/covers/game-players-3-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7415,7 +7415,7 @@
   "pages": 100,
   "cover": "/covers/game-players-2-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7485,7 +7485,7 @@
   "pages": 116,
   "cover": "/covers/game-players-5-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7527,7 +7527,7 @@
   "pages": 102,
   "cover": "/covers/game-players-3-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7597,7 +7597,7 @@
   "pages": 116,
   "cover": "/covers/game-players-6-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7611,7 +7611,7 @@
   "pages": 116,
   "cover": "/covers/game-players-11-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7653,7 +7653,7 @@
   "pages": 106,
   "cover": "/covers/game-players-6-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7723,7 +7723,7 @@
   "pages": 116,
   "cover": "/covers/game-players-5-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7737,7 +7737,7 @@
   "pages": 100,
   "cover": "/covers/game-players-10-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7807,7 +7807,7 @@
   "pages": 90,
   "cover": "/covers/game-players-6-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7877,7 +7877,7 @@
   "pages": 104,
   "cover": "/covers/game-players-2-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7891,7 +7891,7 @@
   "pages": 100,
   "cover": "/covers/game-players-9-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7933,7 +7933,7 @@
   "pages": 102,
   "cover": "/covers/game-players-5-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8003,7 +8003,7 @@
   "pages": 100,
   "cover": "/covers/game-players-1-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8017,7 +8017,7 @@
   "pages": 16,
   "cover": "/covers/game-players-199006-game-player-s-ces-videogame-and-computer-game-gu.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8045,7 +8045,7 @@
   "pages": 16,
   "cover": "/covers/game-players-199012-game-player-s-ces-videogame-and-computer-game-gu.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8087,7 +8087,7 @@
   "pages": 212,
   "cover": "/covers/game-players-2-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8101,7 +8101,7 @@
   "pages": 212,
   "cover": "/covers/game-players-2-15.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8115,7 +8115,7 @@
   "pages": 212,
   "cover": "/covers/game-players-3-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8129,7 +8129,7 @@
   "pages": 228,
   "cover": "/covers/game-players-3-11-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8143,7 +8143,7 @@
   "pages": 212,
   "cover": "/covers/game-players-3-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8157,7 +8157,7 @@
   "pages": 228,
   "cover": "/covers/game-players-4-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8283,7 +8283,7 @@
   "pages": 100,
   "cover": "/covers/game-players-4-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8297,7 +8297,7 @@
   "pages": 100,
   "cover": "/covers/game-players-4-15.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8381,7 +8381,7 @@
   "pages": 84,
   "cover": "/covers/game-players-2-21.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8395,7 +8395,7 @@
   "pages": 74,
   "cover": "/covers/game-players-3-15.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8479,7 +8479,7 @@
   "pages": 100,
   "cover": "/covers/game-players-8-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8493,7 +8493,7 @@
   "pages": 100,
   "cover": "/covers/game-players-8-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8563,7 +8563,7 @@
   "pages": 84,
   "cover": "/covers/game-players-4-19.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8577,7 +8577,7 @@
   "pages": 74,
   "cover": "/covers/game-players-5-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8661,7 +8661,7 @@
   "pages": 102,
   "cover": "/covers/game-players-12-4-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8745,7 +8745,7 @@
   "pages": 81,
   "cover": "/covers/game-players-6-18.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8843,7 +8843,7 @@
   "pages": 100,
   "cover": "/covers/game-players-2-17.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8857,7 +8857,7 @@
   "pages": 100,
   "cover": "/covers/game-players-2-18.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8927,7 +8927,7 @@
   "pages": 84,
   "cover": "/covers/game-players-1-18.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8941,7 +8941,7 @@
   "pages": 76,
   "cover": "/covers/game-players-2-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8955,7 +8955,7 @@
   "pages": 84,
   "cover": "/covers/game-players-6-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9011,7 +9011,7 @@
   "pages": 84,
   "cover": "/covers/game-players-1-15.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9025,7 +9025,7 @@
   "pages": 116,
   "cover": "/covers/game-players-1-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9039,7 +9039,7 @@
   "pages": 100,
   "cover": "/covers/game-players-1-17.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9095,7 +9095,7 @@
   "pages": 84,
   "cover": "/covers/game-players-1-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9165,7 +9165,7 @@
   "pages": 84,
   "cover": "/covers/game-players-4-18.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9179,7 +9179,7 @@
   "pages": 100,
   "cover": "/covers/game-players-7-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9193,7 +9193,7 @@
   "pages": 100,
   "cover": "/covers/game-players-7-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9249,7 +9249,7 @@
   "pages": 84,
   "cover": "/covers/game-players-4-17.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9291,7 +9291,7 @@
   "pages": 100,
   "cover": "/covers/game-players-6-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9305,7 +9305,7 @@
   "pages": 100,
   "cover": "/covers/game-players-6-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9375,7 +9375,7 @@
   "pages": 86,
   "cover": "/covers/game-players-3-18.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9389,7 +9389,7 @@
   "pages": 74,
   "cover": "/covers/game-players-4-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9445,7 +9445,7 @@
   "pages": 84,
   "cover": "/covers/game-players-2-20.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9459,7 +9459,7 @@
   "pages": 100,
   "cover": "/covers/game-players-3-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9473,7 +9473,7 @@
   "pages": 100,
   "cover": "/covers/game-players-3-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9529,7 +9529,7 @@
   "pages": 84,
   "cover": "/covers/game-players-2-19.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9599,7 +9599,7 @@
   "pages": 100,
   "cover": "/covers/game-players-5-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9613,7 +9613,7 @@
   "pages": 100,
   "cover": "/covers/game-players-5-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9669,7 +9669,7 @@
   "pages": 84,
   "cover": "/covers/game-players-3-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9725,7 +9725,7 @@
   "pages": 84,
   "cover": "/covers/game-players-3-19.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9739,7 +9739,7 @@
   "pages": 100,
   "cover": "/covers/game-players-11-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9823,7 +9823,7 @@
   "pages": 84,
   "cover": "/covers/game-players-7-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9879,7 +9879,7 @@
   "pages": 100,
   "cover": "/covers/game-players-10-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9893,7 +9893,7 @@
   "pages": 100,
   "cover": "/covers/game-players-10-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9977,7 +9977,7 @@
   "pages": 81,
   "cover": "/covers/game-players-5-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10047,7 +10047,7 @@
   "pages": 100,
   "cover": "/covers/game-players-9-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10061,7 +10061,7 @@
   "pages": 100,
   "cover": "/covers/game-players-9-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10117,7 +10117,7 @@
   "pages": 84,
   "cover": "/covers/game-players-5-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10131,7 +10131,7 @@
   "pages": 16,
   "cover": "/covers/game-players-199106-game-player-s-ces-videogame-and-computer-game-gu.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10159,7 +10159,7 @@
   "pages": 90,
   "cover": "/covers/game-players-13-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10173,7 +10173,7 @@
   "pages": 16,
   "cover": "/covers/game-players-199112-game-player-s-ces-videogame-and-computer-game-gu.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10229,7 +10229,7 @@
   "pages": 182,
   "cover": "/covers/game-players-4-20.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10369,7 +10369,7 @@
   "pages": 76,
   "cover": "/covers/game-players-4-21.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10467,7 +10467,7 @@
   "pages": 76,
   "cover": "/covers/game-players-2-24.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10523,7 +10523,7 @@
   "pages": 76,
   "cover": "/covers/game-players-8-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10607,7 +10607,7 @@
   "pages": 76,
   "cover": "/covers/game-players-4-23.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10733,7 +10733,7 @@
   "pages": 92,
   "cover": "/covers/game-players-12-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10901,7 +10901,7 @@
   "pages": 76,
   "cover": "/covers/game-players-6-19.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10985,7 +10985,7 @@
   "pages": 100,
   "cover": "/covers/game-players-2-22.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11083,7 +11083,7 @@
   "pages": 76,
   "cover": "/covers/game-players-1-21.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11097,7 +11097,7 @@
   "pages": 76,
   "cover": "/covers/game-players-7-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11111,7 +11111,7 @@
   "pages": 76,
   "cover": "/covers/game-players-13-3.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11181,7 +11181,7 @@
   "pages": 100,
   "cover": "/covers/game-players-1-19.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11265,7 +11265,7 @@
   "pages": 84,
   "cover": "/covers/game-players-1-20.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11377,7 +11377,7 @@
   "pages": 76,
   "cover": "/covers/game-players-7-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11461,7 +11461,7 @@
   "pages": 76,
   "cover": "/covers/game-players-4-22.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11559,7 +11559,7 @@
   "pages": 72,
   "cover": "/covers/game-players-6-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11643,7 +11643,7 @@
   "pages": 76,
   "cover": "/covers/game-players-3-22.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11713,7 +11713,7 @@
   "pages": 84,
   "cover": "/covers/game-players-3-20.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11797,7 +11797,7 @@
   "pages": 76,
   "cover": "/covers/game-players-2-23.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11853,7 +11853,7 @@
   "pages": 76,
   "cover": "/covers/game-players-5-15.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11937,7 +11937,7 @@
   "pages": 76,
   "cover": "/covers/game-players-3-21.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12021,7 +12021,7 @@
   "pages": 92,
   "cover": "/covers/game-players-11-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12161,7 +12161,7 @@
   "pages": 100,
   "cover": "/covers/game-players-6-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12175,7 +12175,7 @@
   "pages": 34,
   "cover": "/covers/game-players-199211-the-first-decade-of-computer-games-supplement.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12273,7 +12273,7 @@
   "pages": 84,
   "cover": "/covers/game-players-10-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12399,7 +12399,7 @@
   "pages": 76,
   "cover": "/covers/game-players-5-17.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12469,7 +12469,7 @@
   "pages": 76,
   "cover": "/covers/game-players-9-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12553,7 +12553,7 @@
   "pages": 84,
   "cover": "/covers/game-players-5-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12609,7 +12609,7 @@
   "pages": 196,
   "cover": "/covers/game-players-5-20.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12833,7 +12833,7 @@
   "pages": 76,
   "cover": "/covers/game-players-4-24.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12959,7 +12959,7 @@
   "pages": 76,
   "cover": "/covers/game-players-2-27.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13071,7 +13071,7 @@
   "pages": 138,
   "cover": "/covers/game-players-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13309,7 +13309,7 @@
   "pages": 82,
   "cover": "/covers/game-players-7-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13323,7 +13323,7 @@
   "pages": 228,
   "cover": "/covers/game-players-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13505,7 +13505,7 @@
   "pages": 76,
   "cover": "/covers/game-players-2-25.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13645,7 +13645,7 @@
   "pages": 80,
   "cover": "/covers/game-players-1-24.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13785,7 +13785,7 @@
   "pages": 92,
   "cover": "/covers/game-players-1-22.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13925,7 +13925,7 @@
   "pages": 84,
   "cover": "/covers/game-players-1-23.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14037,7 +14037,7 @@
   "pages": 132,
   "cover": "/covers/game-players-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14177,7 +14177,7 @@
   "pages": 93,
   "cover": "/covers/game-players-4-25.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14289,7 +14289,7 @@
   "pages": 156,
   "cover": "/covers/game-players-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14513,7 +14513,7 @@
   "pages": 76,
   "cover": "/covers/game-players-3-23.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14653,7 +14653,7 @@
   "pages": 92,
   "cover": "/covers/game-players-2-26.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14737,7 +14737,7 @@
   "pages": 84,
   "cover": "/covers/game-players-5-18.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14891,7 +14891,7 @@
   "pages": 101,
   "cover": "/covers/game-players-3-24.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14975,7 +14975,7 @@
   "pages": 188,
   "cover": "/covers/game-players-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15129,7 +15129,7 @@
   "pages": 108,
   "cover": "/covers/game-players-6-15.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15241,7 +15241,7 @@
   "pages": 140,
   "cover": "/covers/game-players-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15493,7 +15493,7 @@
   "pages": 136,
   "cover": "/covers/game-players-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15647,7 +15647,7 @@
   "pages": 96,
   "cover": "/covers/game-players-5-19.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15689,7 +15689,7 @@
   "pages": 196,
   "cover": "/covers/game-players-7-13.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15703,7 +15703,7 @@
   "pages": 194,
   "cover": "/covers/game-players-6-17.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15717,7 +15717,7 @@
   "pages": 36,
   "cover": "/covers/game-players-1993-jurassic-park-supplement-to-game-players-nintend.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15731,7 +15731,7 @@
   "pages": 36,
   "cover": "/covers/game-players-1993-jurassic-park-supplement-to-game-players-nintend-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15885,7 +15885,7 @@
   "pages": 127,
   "cover": "/covers/game-players-4-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16165,7 +16165,7 @@
   "pages": 122,
   "cover": "/covers/game-players-8-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16501,7 +16501,7 @@
   "pages": 228,
   "cover": "/covers/game-players-12-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16697,7 +16697,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16781,7 +16781,7 @@
   "pages": 132,
   "cover": "/covers/game-players-2-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16991,7 +16991,7 @@
   "pages": 186,
   "cover": "/covers/game-players-1-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -17005,7 +17005,7 @@
   "pages": 36,
   "cover": "/covers/game-players-199401-nintendo-sega-presents-virgin-the-new-games-supp.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17187,7 +17187,7 @@
   "pages": 102,
   "cover": "/covers/game-players-1-25.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17313,7 +17313,7 @@
   "pages": 144,
   "cover": "/covers/game-players-7-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17565,7 +17565,7 @@
   "pages": 136,
   "cover": "/covers/game-players-6-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17803,7 +17803,7 @@
   "pages": 128,
   "cover": "/covers/game-players-3-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17943,7 +17943,7 @@
   "pages": 104,
   "cover": "/covers/game-players-2-28.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18055,7 +18055,7 @@
   "pages": 132,
   "cover": "/covers/game-players-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18307,7 +18307,7 @@
   "pages": 200,
   "cover": "/covers/game-players-11-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18559,7 +18559,7 @@
   "pages": 154,
   "cover": "/covers/game-players-10-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18825,7 +18825,7 @@
   "pages": 144,
   "cover": "/covers/game-players-9-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19007,7 +19007,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19021,7 +19021,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19049,7 +19049,7 @@
   "pages": 196,
   "cover": "/covers/game-players-8-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19217,7 +19217,7 @@
   "pages": 112,
   "cover": "/covers/game-players-4-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19497,7 +19497,7 @@
   "pages": 122,
   "cover": "/covers/game-players-8-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19833,7 +19833,7 @@
   "pages": 176,
   "cover": "/covers/game-players-12-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20015,7 +20015,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20239,7 +20239,7 @@
   "pages": 133,
   "cover": "/covers/game-players-2-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20421,7 +20421,7 @@
   "pages": 150,
   "cover": "/covers/game-players-13.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -20589,7 +20589,7 @@
   "pages": 158,
   "cover": "/covers/game-players-1-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20869,7 +20869,7 @@
   "pages": 122,
   "cover": "/covers/game-players-7-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20967,7 +20967,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21121,7 +21121,7 @@
   "pages": 124,
   "cover": "/covers/game-players-6-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21443,7 +21443,7 @@
   "pages": 136,
   "cover": "/covers/game-players-3-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21751,7 +21751,7 @@
   "pages": 118,
   "cover": "/covers/game-players-5-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21919,7 +21919,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22115,7 +22115,7 @@
   "pages": 160,
   "cover": "/covers/game-players-11-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22255,7 +22255,7 @@
   "pages": 75,
   "cover": "/covers/tips-and-tricks-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22409,7 +22409,7 @@
   "pages": 148,
   "cover": "/covers/game-players-10-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22563,7 +22563,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -22703,7 +22703,7 @@
   "pages": 120,
   "cover": "/covers/game-players-9-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22829,7 +22829,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22871,7 +22871,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22885,7 +22885,7 @@
   "pages": 18,
   "cover": "/covers/game-players-1995-the-book-of-cheats-1-of-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22899,7 +22899,7 @@
   "pages": 16,
   "cover": "/covers/game-players-1995-the-book-of-cheats-2-of-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23053,7 +23053,7 @@
   "pages": 116,
   "cover": "/covers/game-players-4-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23207,7 +23207,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-14.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23361,7 +23361,7 @@
   "pages": 118,
   "cover": "/covers/game-players-8-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23515,7 +23515,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-18.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23697,7 +23697,7 @@
   "pages": 170,
   "cover": "/covers/game-players-91.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23823,7 +23823,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-22.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24019,7 +24019,7 @@
   "pages": 116,
   "cover": "/covers/game-players-2-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24173,7 +24173,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24215,7 +24215,7 @@
   "pages": 158,
   "cover": "/covers/game-players-92.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24369,7 +24369,7 @@
   "pages": 143,
   "cover": "/covers/game-players-1-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24523,7 +24523,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24663,7 +24663,7 @@
   "pages": 118,
   "cover": "/covers/game-players-7-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24803,7 +24803,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-17.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24943,7 +24943,7 @@
   "pages": 122,
   "cover": "/covers/game-players-6-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25097,7 +25097,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-16.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25265,7 +25265,7 @@
   "pages": 118,
   "cover": "/covers/game-players-3-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25419,7 +25419,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-13.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25587,7 +25587,7 @@
   "pages": 118,
   "cover": "/covers/game-players-5-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25741,7 +25741,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-15.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25895,7 +25895,7 @@
   "pages": 166,
   "cover": "/covers/game-players-90.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26035,7 +26035,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-21.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26161,7 +26161,7 @@
   "pages": 160,
   "cover": "/covers/game-players-89.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26301,7 +26301,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-20.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -26441,7 +26441,7 @@
   "pages": 116,
   "cover": "/covers/game-players-9-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26581,7 +26581,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-19.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26833,7 +26833,7 @@
   "pages": 126,
   "cover": "/covers/game-players-96.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26959,7 +26959,7 @@
   "pages": 85,
   "cover": "/covers/tips-and-tricks-26.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27071,7 +27071,7 @@
   "pages": 113,
   "cover": "/covers/game-players-100.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27183,7 +27183,7 @@
   "pages": 85,
   "cover": "/covers/tips-and-tricks-30.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27309,7 +27309,7 @@
   "pages": 166,
   "cover": "/covers/game-players-104.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27449,7 +27449,7 @@
   "pages": 86,
   "cover": "/covers/tips-and-tricks-34.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27561,7 +27561,7 @@
   "pages": 116,
   "cover": "/covers/game-players-94.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27673,7 +27673,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-24.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27687,7 +27687,7 @@
   "pages": 160,
   "cover": "/covers/game-players-105.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27813,7 +27813,7 @@
   "pages": 136,
   "cover": "/covers/game-players-93.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27925,7 +27925,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-23.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28079,7 +28079,7 @@
   "pages": 126,
   "cover": "/covers/game-players-99.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28191,7 +28191,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-29.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28331,7 +28331,7 @@
   "pages": 116,
   "cover": "/covers/game-players-98.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28457,7 +28457,7 @@
   "pages": 85,
   "cover": "/covers/tips-and-tricks-28.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28597,7 +28597,7 @@
   "pages": 120,
   "cover": "/covers/game-players-95.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28709,7 +28709,7 @@
   "pages": 82,
   "cover": "/covers/tips-and-tricks-25.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28821,7 +28821,7 @@
   "pages": 116,
   "cover": "/covers/game-players-97.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28947,7 +28947,7 @@
   "pages": 87,
   "cover": "/covers/tips-and-tricks-27.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29073,7 +29073,7 @@
   "pages": 176,
   "cover": "/covers/game-players-103.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29199,7 +29199,7 @@
   "pages": 86,
   "cover": "/covers/tips-and-tricks-33.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29325,7 +29325,7 @@
   "pages": 158,
   "cover": "/covers/game-players-102.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29451,7 +29451,7 @@
   "pages": 91,
   "cover": "/covers/tips-and-tricks-32.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29549,7 +29549,7 @@
   "pages": 134,
   "cover": "/covers/game-players-101.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29689,7 +29689,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-31.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29815,7 +29815,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-1998-tips-tricks-1998-video-game-codebook-collector-s.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29913,7 +29913,7 @@
   "pages": 122,
   "cover": "/covers/game-players-109.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30053,7 +30053,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-38.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30165,7 +30165,7 @@
   "pages": 124,
   "cover": "/covers/game-players-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30291,7 +30291,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-42.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30529,7 +30529,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-46.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30683,7 +30683,7 @@
   "pages": 121,
   "cover": "/covers/game-players-107.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30823,7 +30823,7 @@
   "pages": 85,
   "cover": "/covers/tips-and-tricks-36.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30935,7 +30935,7 @@
   "pages": 114,
   "cover": "/covers/game-players-106.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31075,7 +31075,7 @@
   "pages": 86,
   "cover": "/covers/tips-and-tricks-35.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31173,7 +31173,7 @@
   "pages": 166,
   "cover": "/covers/game-players-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31299,7 +31299,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-41.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31411,7 +31411,7 @@
   "pages": 105,
   "cover": "/covers/game-players-111.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31537,7 +31537,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-40.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31635,7 +31635,7 @@
   "pages": 118,
   "cover": "/covers/game-players-108.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31775,7 +31775,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-37.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31873,7 +31873,7 @@
   "pages": 102,
   "cover": "/covers/game-players-110.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31999,7 +31999,7 @@
   "pages": 102,
   "cover": "/covers/tips-and-tricks-39.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32265,7 +32265,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-45.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -32363,7 +32363,7 @@
   "pages": 120,
   "cover": "/covers/game-players-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32503,7 +32503,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-44.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32601,7 +32601,7 @@
   "pages": 124,
   "cover": "/covers/game-players-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32741,7 +32741,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-43.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32909,7 +32909,7 @@
   "pages": 84,
   "cover": "/covers/tips-and-tricks-1999-tips-tricks-1999-video-game-codebook-special-edi.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33133,7 +33133,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-50.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33343,7 +33343,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-54.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33595,7 +33595,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-58.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33833,7 +33833,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-48.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34057,7 +34057,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-47.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34253,7 +34253,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-53.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34477,7 +34477,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-52.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34687,7 +34687,7 @@
   "pages": 114,
   "cover": "/covers/tips-and-tricks-49.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34911,7 +34911,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-51.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35121,7 +35121,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-57.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35317,7 +35317,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-56.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -35541,7 +35541,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-55.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35667,7 +35667,7 @@
   "pages": 88,
   "cover": "/covers/tips-and-tricks-2000-tips-tricks-pok-mon-report-special-issue.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35905,7 +35905,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-62.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36129,7 +36129,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-66.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36143,7 +36143,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200008-tips-tricks-2000-video-game-codebook-special-edi.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36395,7 +36395,7 @@
   "pages": 132,
   "cover": "/covers/tips-and-tricks-70.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36633,7 +36633,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-60.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36885,7 +36885,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-59.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37123,7 +37123,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-65.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37361,7 +37361,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-64.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37599,7 +37599,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-61.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37837,7 +37837,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-63.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38047,7 +38047,7 @@
   "pages": 132,
   "cover": "/covers/tips-and-tricks-69.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38243,7 +38243,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-68.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38439,7 +38439,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-67.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38691,7 +38691,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-74.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38887,7 +38887,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-78.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39097,7 +39097,7 @@
   "pages": 108,
   "cover": "/covers/tips-and-tricks-82.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39335,7 +39335,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-72.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39531,7 +39531,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-71.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39699,7 +39699,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-77.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39895,7 +39895,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-76.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40105,7 +40105,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-73.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40329,7 +40329,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-75.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40343,7 +40343,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200105-tips-tricks-2001-video-game-codebook-special-col.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40539,7 +40539,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-81.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40553,7 +40553,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200111-tips-tricks-video-game-codebook-special-edition.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40749,7 +40749,7 @@
   "pages": 108,
   "cover": "/covers/tips-and-tricks-80.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40945,7 +40945,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-79.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41183,7 +41183,7 @@
   "pages": 102,
   "cover": "/covers/tips-and-tricks-86.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41393,7 +41393,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-90.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41589,7 +41589,7 @@
   "pages": 108,
   "cover": "/covers/tips-and-tricks-94.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41799,7 +41799,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-84.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42023,7 +42023,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-83.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42233,7 +42233,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-89.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42429,7 +42429,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-88.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42625,7 +42625,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-85.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42821,7 +42821,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-87.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42835,7 +42835,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200205-tips-tricks-summer-2002-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43031,7 +43031,7 @@
   "pages": 116,
   "cover": "/covers/tips-and-tricks-93.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43045,7 +43045,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200211-tips-tricks-holiday-2002-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43269,7 +43269,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-92.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43465,7 +43465,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-91.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43745,7 +43745,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-98.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43955,7 +43955,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-102.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44165,7 +44165,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-106.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44347,7 +44347,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-96.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44571,7 +44571,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-95.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44753,7 +44753,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-101.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44963,7 +44963,7 @@
   "pages": 98,
   "cover": "/covers/tips-and-tricks-100.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -45131,7 +45131,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-97.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45313,7 +45313,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-99.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45327,7 +45327,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200305-tips-tricks-2003-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45523,7 +45523,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-105.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45537,7 +45537,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200311-tips-tricks-holiday-2003-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45719,7 +45719,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-104.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45915,7 +45915,7 @@
   "pages": 102,
   "cover": "/covers/tips-and-tricks-103.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46139,7 +46139,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-110.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46293,7 +46293,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-114.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46475,7 +46475,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-118.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46685,7 +46685,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-108.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46965,7 +46965,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-107.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47119,7 +47119,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-113.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47273,7 +47273,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-112.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47469,7 +47469,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-109.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47637,7 +47637,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-111.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47651,7 +47651,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200405-tips-tricks-codebook-10th-anniversary-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47833,7 +47833,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-117.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47987,7 +47987,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-116.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48001,7 +48001,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200410-tips-tricks-codebook-special-edition.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48183,7 +48183,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-115.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48603,7 +48603,7 @@
   "pages": 99,
   "cover": "/covers/tips-and-tricks-122.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48743,7 +48743,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-126.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48897,7 +48897,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-130.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49065,7 +49065,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-120.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49275,7 +49275,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-119.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49443,7 +49443,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-125.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49597,7 +49597,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-124.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49737,7 +49737,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-121.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49891,7 +49891,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-123.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49905,7 +49905,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200505-tips-tricks-special-edition-2005-video-game-code.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50059,7 +50059,7 @@
   "pages": 104,
   "cover": "/covers/tips-and-tricks-129.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50199,7 +50199,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-128.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50213,7 +50213,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200510-tips-tricks-2005-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50353,7 +50353,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-127.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50577,7 +50577,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-134.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50731,7 +50731,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-138.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51025,7 +51025,7 @@
   "pages": 98,
   "cover": "/covers/tips-and-tricks-132.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51221,7 +51221,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-131.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51375,7 +51375,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-137.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51543,7 +51543,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-136.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51697,7 +51697,7 @@
   "pages": 106,
   "cover": "/covers/tips-and-tricks-133.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51851,7 +51851,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-135.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51865,7 +51865,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200605-tips-tricks-2006-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52019,7 +52019,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-141.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52173,7 +52173,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-140.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52187,7 +52187,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200610-tips-tricks-2006-video-game-codebook-special-zom.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52341,7 +52341,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-139.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52593,7 +52593,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-146.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52719,7 +52719,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-150.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52845,7 +52845,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-142.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52985,7 +52985,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-144.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53195,7 +53195,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-143.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53209,7 +53209,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200701-tips-tricks-super-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53335,7 +53335,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-149.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53461,7 +53461,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-148.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53587,7 +53587,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-145.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53601,7 +53601,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200703-tips-tricks-spring-07-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53727,7 +53727,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-147.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53853,7 +53853,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200711-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54091,7 +54091,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200709-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54133,7 +54133,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200706-tips-tricks-2007-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54875,7 +54875,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200801-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55001,7 +55001,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200807-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55239,7 +55239,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200803-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55365,7 +55365,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200805-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55491,7 +55491,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200811-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55715,7 +55715,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200809-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56345,7 +56345,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200901-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56457,7 +56457,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200907-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56667,7 +56667,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200903-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56779,7 +56779,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200905-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56877,7 +56877,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200911-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57059,7 +57059,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-200909-tips-tricks-video-game-codebook.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57759,7 +57759,7 @@
   "pages": 100,
   "cover": "/covers/tips-and-tricks-201007-tips-tricks-video-game-codebook.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57997,7 +57997,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-201003-tips-tricks-video-game-codebook.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58207,7 +58207,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-201011-tips-tricks-video-game-codebook.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -58431,7 +58431,7 @@
   "pages": 80,
   "cover": "/covers/tips-and-tricks-201009-tips-tricks-video-game-codebook.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
