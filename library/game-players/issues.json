@@ -3228,7 +3228,8 @@
   "updated_at": "2026-09-14T09:33:44+00:00",
   "assets": {
    "cover": "covers/game-players-3-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-players-3-17/manifest.json"
   }
  },
  {

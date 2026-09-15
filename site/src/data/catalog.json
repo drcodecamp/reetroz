@@ -9585,7 +9585,7 @@
   "pages": 84,
   "cover": "/covers/game-players-3-17.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
