@@ -32,7 +32,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-2/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-3/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-4/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-5/manifest.json"
   }
  },
  {
@@ -208,7 +213,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-6/manifest.json"
   }
  },
  {
@@ -243,7 +249,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-7/manifest.json"
   }
  },
  {
@@ -278,7 +285,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-8/manifest.json"
   }
  },
  {
@@ -313,7 +321,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-9/manifest.json"
   }
  },
  {
@@ -348,7 +357,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-10/manifest.json"
   }
  },
  {
@@ -384,7 +394,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-11/manifest.json"
   }
  },
  {
@@ -419,7 +430,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-12/manifest.json"
   }
  },
  {
@@ -454,7 +466,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-13/manifest.json"
   }
  },
  {
@@ -489,7 +502,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-14/manifest.json"
   }
  },
  {
@@ -524,7 +538,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-15/manifest.json"
   }
  },
  {
@@ -560,7 +575,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-16/manifest.json"
   }
  },
  {
@@ -595,7 +611,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-17/manifest.json"
   }
  },
  {
@@ -630,7 +647,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-18/manifest.json"
   }
  },
  {
@@ -665,7 +683,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-19/manifest.json"
   }
  },
  {
@@ -701,7 +720,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-21/manifest.json"
   }
  },
  {
@@ -736,7 +756,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-22/manifest.json"
   }
  },
  {
@@ -771,7 +792,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-23/manifest.json"
   }
  },
  {
@@ -806,7 +828,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-24/manifest.json"
   }
  },
  {
@@ -841,7 +864,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-25/manifest.json"
   }
  },
  {
@@ -877,7 +901,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-26/manifest.json"
   }
  },
  {
@@ -912,7 +937,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-27/manifest.json"
   }
  },
  {
@@ -947,7 +973,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-28/manifest.json"
   }
  },
  {
@@ -982,7 +1009,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-29/manifest.json"
   }
  },
  {
@@ -1017,7 +1045,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-30/manifest.json"
   }
  },
  {
@@ -1053,7 +1082,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-31/manifest.json"
   }
  },
  {
@@ -1088,7 +1118,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-32/manifest.json"
   }
  },
  {
@@ -1123,7 +1154,8 @@
   "updated_at": "2026-09-14T09:32:45+00:00",
   "assets": {
    "cover": "covers/atgamer-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atgamer-33/manifest.json"
   }
  }
 ]
