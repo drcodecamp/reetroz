@@ -105,11 +105,33 @@ export const publications: CatalogPublication[] =
 
 const publicationById = new Map(publications.map((p) => [p.id, p]));
 
-export const YEARS = Array.from(new Set(catalog.map((i) => i.year))).sort(
-  (a, b) => a - b,
-);
+/** Sentinel in issues.json when VGHF had no date. Not a real year. */
+export const UNDATED_YEAR = 9999;
+
+export const YEARS = Array.from(
+  new Set(catalog.map((i) => i.year).filter((y) => y !== UNDATED_YEAR)),
+).sort((a, b) => a - b);
 export const MIN_YEAR = YEARS[0];
 export const MAX_YEAR = YEARS[YEARS.length - 1];
+
+export function isUndated(year: number) {
+  return year === UNDATED_YEAR;
+}
+
+/** Leading number from "#368" / "1.1" / "84". Null for "special" and the like. */
+export function issueNumberValue(number: string): number | null {
+  const match = number.trim().match(/^(\d+(?:\.\d+)?)/);
+  return match ? Number(match[1]) : null;
+}
+
+export function compareIssueNumber(a: CatalogIssue, b: CatalogIssue): number {
+  const na = issueNumberValue(a.number);
+  const nb = issueNumberValue(b.number);
+  if (na != null && nb != null && na !== nb) return na - nb;
+  if (na != null && nb == null) return -1;
+  if (na == null && nb != null) return 1;
+  return a.number.localeCompare(b.number) || a.publication.localeCompare(b.publication);
+}
 
 export function getIssue(slug: string): CatalogIssue | undefined {
   return catalog.find((i) => i.slug === slug || i.id === slug);

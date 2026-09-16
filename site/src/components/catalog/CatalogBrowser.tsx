@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { IssueCard } from "@/components/IssueCard";
 import {
@@ -8,6 +8,8 @@ import {
   MAX_YEAR,
   MIN_YEAR,
   YEARS,
+  compareIssueNumber,
+  isUndated,
   type CatalogIssue,
   type CatalogPublication,
   type EraKey,
@@ -26,6 +28,86 @@ const LENGTHS: { key: Length; label: string; test: (p: number) => boolean }[] = 
 
 function parseList<T extends string>(v: string | null): T[] {
   return v ? (v.split(",").filter(Boolean) as T[]) : [];
+}
+
+function YearRow({
+  year,
+  issues,
+  progress,
+}: {
+  year: number;
+  issues: CatalogIssue[];
+  progress: ReturnType<typeof useProgress>;
+}) {
+  const scroller = useRef<HTMLUListElement>(null);
+  const [showLeft, setShowLeft] = useState(false);
+  const [showRight, setShowRight] = useState(false);
+  const label = isUndated(year) ? "undated" : String(year);
+
+  const update = useCallback(() => {
+    const el = scroller.current;
+    if (!el) return;
+    setShowLeft(el.scrollLeft > 4);
+    setShowRight(el.scrollLeft + el.clientWidth < el.scrollWidth - 4);
+  }, []);
+
+  useEffect(() => {
+    const el = scroller.current;
+    if (!el) return;
+    update();
+    el.addEventListener("scroll", update, { passive: true });
+    const ro = new ResizeObserver(update);
+    ro.observe(el);
+    return () => {
+      el.removeEventListener("scroll", update);
+      ro.disconnect();
+    };
+  }, [update, issues.length]);
+
+  function scrollByPage(dir: -1 | 1) {
+    const el = scroller.current;
+    if (!el) return;
+    el.scrollBy({ left: dir * Math.max(el.clientWidth * 0.8, 360), behavior: "smooth" });
+  }
+
+  return (
+    <div className="relative">
+      <ul
+        ref={scroller}
+        className="mask-fade-r flex gap-4 overflow-x-auto pb-4 pr-14 pt-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+      >
+        {issues.map((i) => (
+          <li key={`${i.id}-${i.date}-${i.pages}`} className="w-[150px] shrink-0 sm:w-[180px]">
+            <IssueCard issue={i} progress={progress[i.slug]} sizes="180px" />
+          </li>
+        ))}
+      </ul>
+      {showLeft && (
+        <button
+          type="button"
+          aria-label={`Previous ${label} issues`}
+          onClick={() => scrollByPage(-1)}
+          className="absolute left-0 top-[4.4rem] z-10 flex size-10 items-center justify-center rounded-full border border-paper/15 bg-ink/90 text-paper shadow-lg backdrop-blur transition hover:border-amber hover:text-amber sm:top-[5.2rem]"
+        >
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden>
+            <path d="M15 6l-6 6 6 6" />
+          </svg>
+        </button>
+      )}
+      {showRight && (
+        <button
+          type="button"
+          aria-label={`More ${label} issues`}
+          onClick={() => scrollByPage(1)}
+          className="absolute right-0 top-[4.4rem] z-10 flex size-10 items-center justify-center rounded-full border border-paper/15 bg-ink/90 text-paper shadow-lg backdrop-blur transition hover:border-amber hover:text-amber sm:top-[5.2rem]"
+        >
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden>
+            <path d="M9 6l6 6-6 6" />
+          </svg>
+        </button>
+      )}
+    </div>
+  );
 }
 
 export function CatalogBrowser({
@@ -82,7 +164,11 @@ export function CatalogBrowser({
   const matchesBase = useMemo(() => {
     const needle = q.trim().toLowerCase();
     return (i: CatalogIssue) => {
-      if (i.year < from || i.year > to) return false;
+      if (isUndated(i.year)) {
+        if (from !== MIN_YEAR || to !== MAX_YEAR) return false;
+      } else if (i.year < from || i.year > to) {
+        return false;
+      }
       if (eras.length && !eras.includes(i.era)) return false;
       if (lengths.length && !lengths.some((l) => LENGTHS.find((x) => x.key === l)!.test(i.pages)))
         return false;
@@ -106,15 +192,18 @@ export function CatalogBrowser({
   const filtered = useMemo(() => {
     let list = issues.filter((i) => matchesBase(i) && (!pubs.length || pubs.includes(i.publication)));
     list = [...list].sort((a, b) => {
+      const aU = isUndated(a.year);
+      const bU = isUndated(b.year);
+      if (aU !== bU) return aU ? 1 : -1;
       switch (sort) {
         case "newest":
-          return issues.indexOf(b) - issues.indexOf(a);
+          return a.year !== b.year ? b.year - a.year : compareIssueNumber(b, a);
         case "longest":
           return b.pages - a.pages;
         case "shortest":
           return a.pages - b.pages;
         default:
-          return issues.indexOf(a) - issues.indexOf(b);
+          return a.year !== b.year ? a.year - b.year : compareIssueNumber(a, b);
       }
     });
     return list;
@@ -135,9 +224,12 @@ export function CatalogBrowser({
       if (!map.has(i.year)) map.set(i.year, []);
       map.get(i.year)!.push(i);
     }
-    return [...map.entries()].sort((a, b) =>
-      sort === "newest" ? b[0] - a[0] : a[0] - b[0],
-    );
+    return [...map.entries()].sort((a, b) => {
+      const aU = isUndated(a[0]);
+      const bU = isUndated(b[0]);
+      if (aU !== bU) return aU ? 1 : -1;
+      return sort === "newest" ? b[0] - a[0] : a[0] - b[0];
+    });
   }, [filtered, sort]);
 
   const filters = (
@@ -404,20 +496,14 @@ export function CatalogBrowser({
                 <section key={year} id={`y${year}`}>
                   <div className="mb-4 flex items-baseline gap-4">
                     <h2 className="font-display text-3xl font-bold tracking-tight">
-                      {year}
+                      {isUndated(year) ? "Undated" : year}
                     </h2>
                     <span className="hairline flex-1" />
                     <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim">
                       {list.length} issue{list.length === 1 ? "" : "s"}
                     </span>
                   </div>
-                  <ul className="mask-fade-r flex gap-4 overflow-x-auto pb-4 pr-10 pt-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-                    {list.map((i) => (
-                      <li key={`${i.id}-${i.date}-${i.pages}`} className="w-[150px] shrink-0 sm:w-[180px]">
-                        <IssueCard issue={i} progress={progress[i.slug]} sizes="180px" />
-                      </li>
-                    ))}
-                  </ul>
+                  <YearRow year={year} issues={list} progress={progress} />
                 </section>
               ))}
             </div>
