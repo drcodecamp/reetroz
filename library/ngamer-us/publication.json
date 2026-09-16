@@ -38,11 +38,11 @@
   "stats": {
     "issues": 1,
     "pages": 116,
-    "readable": 0,
+    "readable": 1,
     "with_text": 1,
     "first_year": 2000,
     "last_year": 2000
   },
-  "updated_at": "2026-09-15T21:03:50+00:00",
+  "updated_at": "2026-09-16T06:51:47+00:00",
   "description": "Single issue."
 }

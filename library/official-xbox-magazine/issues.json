@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-0.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-0/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-200111-special-preview-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-200111-special-preview-issue/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-1/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-2/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-3/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-4/manifest.json"
   }
  },
  {
@@ -241,7 +247,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-5/manifest.json"
   }
  },
  {
@@ -276,7 +283,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-6/manifest.json"
   }
  },
  {
@@ -311,7 +319,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-7/manifest.json"
   }
  },
  {
@@ -346,7 +355,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-8/manifest.json"
   }
  },
  {
@@ -381,7 +391,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-9/manifest.json"
   }
  },
  {
@@ -416,7 +427,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-10/manifest.json"
   }
  },
  {
@@ -451,7 +463,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-11/manifest.json"
   }
  },
  {
@@ -486,7 +499,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-12/manifest.json"
   }
  },
  {
@@ -521,7 +535,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-13/manifest.json"
   }
  },
  {
@@ -556,7 +571,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-14/manifest.json"
   }
  },
  {
@@ -591,7 +607,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-15/manifest.json"
   }
  },
  {
@@ -626,7 +643,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-16/manifest.json"
   }
  },
  {
@@ -661,7 +679,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-17/manifest.json"
   }
  },
  {
@@ -696,7 +715,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-18/manifest.json"
   }
  },
  {
@@ -731,7 +751,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-19/manifest.json"
   }
  },
  {
@@ -766,7 +787,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-20/manifest.json"
   }
  },
  {
@@ -801,7 +823,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-21/manifest.json"
   }
  },
  {
@@ -836,7 +859,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-22/manifest.json"
   }
  },
  {
@@ -871,7 +895,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-23/manifest.json"
   }
  },
  {
@@ -906,7 +931,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-24/manifest.json"
   }
  },
  {
@@ -941,7 +967,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-25/manifest.json"
   }
  },
  {
@@ -976,7 +1003,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-26/manifest.json"
   }
  },
  {
@@ -1012,7 +1040,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/official-xbox-magazine-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-1-2/manifest.json"
   }
  },
  {
@@ -1048,7 +1077,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/official-xbox-magazine-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-2-2/manifest.json"
   }
  },
  {
@@ -1083,7 +1113,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-27/manifest.json"
   }
  },
  {
@@ -1118,7 +1149,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-28/manifest.json"
   }
  },
  {
@@ -1153,7 +1185,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-29/manifest.json"
   }
  },
  {
@@ -1188,7 +1221,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-30/manifest.json"
   }
  },
  {
@@ -1223,7 +1257,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-31/manifest.json"
   }
  },
  {
@@ -1258,7 +1293,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-32/manifest.json"
   }
  },
  {
@@ -1293,7 +1329,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-33/manifest.json"
   }
  },
  {
@@ -1328,7 +1365,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-34/manifest.json"
   }
  },
  {
@@ -1363,7 +1401,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-35/manifest.json"
   }
  },
  {
@@ -1398,7 +1437,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-36/manifest.json"
   }
  },
  {
@@ -1433,7 +1473,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-37/manifest.json"
   }
  },
  {
@@ -1468,7 +1509,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-38/manifest.json"
   }
  },
  {
@@ -1503,7 +1545,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-39/manifest.json"
   }
  },
  {
@@ -1538,7 +1581,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-200412-special-issue-holiday-preview-guide.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-200412-special-issue-holiday-preview-guide/manifest.json"
   }
  },
  {
@@ -1573,7 +1617,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-40/manifest.json"
   }
  },
  {
@@ -1608,7 +1653,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-41/manifest.json"
   }
  },
  {
@@ -1643,7 +1689,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-42/manifest.json"
   }
  },
  {
@@ -1678,7 +1725,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-43/manifest.json"
   }
  },
  {
@@ -1713,7 +1761,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-44.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-44/manifest.json"
   }
  },
  {
@@ -1748,7 +1797,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-45/manifest.json"
   }
  },
  {
@@ -1783,7 +1833,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-46/manifest.json"
   }
  },
  {
@@ -1818,7 +1869,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-47/manifest.json"
   }
  },
  {
@@ -1853,7 +1905,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-48/manifest.json"
   }
  },
  {
@@ -1888,7 +1941,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-49/manifest.json"
   }
  },
  {
@@ -1923,7 +1977,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-50/manifest.json"
   }
  },
  {
@@ -1958,7 +2013,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-51/manifest.json"
   }
  },
  {
@@ -1993,7 +2049,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-52/manifest.json"
   }
  },
  {
@@ -2028,7 +2085,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-53/manifest.json"
   }
  },
  {
@@ -2063,7 +2121,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-54/manifest.json"
   }
  },
  {
@@ -2098,7 +2157,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-55/manifest.json"
   }
  },
  {
@@ -2133,7 +2193,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-56/manifest.json"
   }
  },
  {
@@ -2168,7 +2229,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-57/manifest.json"
   }
  },
  {
@@ -2203,7 +2265,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-58/manifest.json"
   }
  },
  {
@@ -2238,7 +2301,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-59/manifest.json"
   }
  },
  {
@@ -2273,7 +2337,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-60/manifest.json"
   }
  },
  {
@@ -2308,7 +2373,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-61/manifest.json"
   }
  },
  {
@@ -2343,7 +2409,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-62.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-62/manifest.json"
   }
  },
  {
@@ -2378,7 +2445,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-63/manifest.json"
   }
  },
  {
@@ -2413,7 +2481,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-64.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-64/manifest.json"
   }
  },
  {
@@ -2448,7 +2517,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-65.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-65/manifest.json"
   }
  },
  {
@@ -2483,7 +2553,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-66.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-66/manifest.json"
   }
  },
  {
@@ -2518,7 +2589,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-67.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-67/manifest.json"
   }
  },
  {
@@ -2553,7 +2625,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-68.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-68/manifest.json"
   }
  },
  {
@@ -2588,7 +2661,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-69/manifest.json"
   }
  },
  {
@@ -2623,7 +2697,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-70.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-70/manifest.json"
   }
  },
  {
@@ -2658,7 +2733,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-71/manifest.json"
   }
  },
  {
@@ -2693,7 +2769,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-72.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-72/manifest.json"
   }
  },
  {
@@ -2728,7 +2805,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-73/manifest.json"
   }
  },
  {
@@ -2763,7 +2841,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-74/manifest.json"
   }
  },
  {
@@ -2798,7 +2877,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-75/manifest.json"
   }
  },
  {
@@ -2833,7 +2913,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-76.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-76/manifest.json"
   }
  },
  {
@@ -2868,7 +2949,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-77.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-77/manifest.json"
   }
  },
  {
@@ -2903,7 +2985,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-78.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-78/manifest.json"
   }
  },
  {
@@ -2938,7 +3021,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-79/manifest.json"
   }
  },
  {
@@ -2973,7 +3057,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-80/manifest.json"
   }
  },
  {
@@ -3008,7 +3093,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-81/manifest.json"
   }
  },
  {
@@ -3043,7 +3129,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-82/manifest.json"
   }
  },
  {
@@ -3078,7 +3165,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-83/manifest.json"
   }
  },
  {
@@ -3113,7 +3201,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-84/manifest.json"
   }
  },
  {
@@ -3148,7 +3237,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-85/manifest.json"
   }
  },
  {
@@ -3183,7 +3273,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-86/manifest.json"
   }
  },
  {
@@ -3218,7 +3309,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-87/manifest.json"
   }
  },
  {
@@ -3253,7 +3345,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-88/manifest.json"
   }
  },
  {
@@ -3288,7 +3381,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-89/manifest.json"
   }
  },
  {
@@ -3323,7 +3417,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-90/manifest.json"
   }
  },
  {
@@ -3358,7 +3453,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-91/manifest.json"
   }
  },
  {
@@ -3393,7 +3489,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-92/manifest.json"
   }
  },
  {
@@ -3428,7 +3525,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-93/manifest.json"
   }
  },
  {
@@ -3463,7 +3561,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-94/manifest.json"
   }
  },
  {
@@ -3498,7 +3597,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-200903-presents-zombies.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-200903-presents-zombies/manifest.json"
   }
  },
  {
@@ -3533,7 +3633,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-95/manifest.json"
   }
  },
  {
@@ -3568,7 +3669,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-96/manifest.json"
   }
  },
  {
@@ -3603,7 +3705,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-97/manifest.json"
   }
  },
  {
@@ -3638,7 +3741,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-98.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-98/manifest.json"
   }
  },
  {
@@ -3673,7 +3777,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-99.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-99/manifest.json"
   }
  },
  {
@@ -3708,7 +3813,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-100.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-100/manifest.json"
   }
  },
  {
@@ -3743,7 +3849,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-101.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-101/manifest.json"
   }
  },
  {
@@ -3778,7 +3885,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-102.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-102/manifest.json"
   }
  },
  {
@@ -3813,7 +3921,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-103.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-103/manifest.json"
   }
  },
  {
@@ -3848,7 +3957,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-104.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-104/manifest.json"
   }
  },
  {
@@ -3883,7 +3993,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-105.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-105/manifest.json"
   }
  },
  {
@@ -3918,7 +4029,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-106.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-106/manifest.json"
   }
  },
  {
@@ -3953,7 +4065,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-107.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-107/manifest.json"
   }
  },
  {
@@ -3988,7 +4101,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-108.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-108/manifest.json"
   }
  },
  {
@@ -4023,7 +4137,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-109.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-109/manifest.json"
   }
  },
  {
@@ -4058,7 +4173,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-110.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-110/manifest.json"
   }
  },
  {
@@ -4093,7 +4209,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-111.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-111/manifest.json"
   }
  },
  {
@@ -4128,7 +4245,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-112.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-112/manifest.json"
   }
  },
  {
@@ -4163,7 +4281,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-113.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-113/manifest.json"
   }
  },
  {
@@ -4198,7 +4317,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-114.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-114/manifest.json"
   }
  },
  {
@@ -4233,7 +4353,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-115.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-115/manifest.json"
   }
  },
  {
@@ -4268,7 +4389,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-116.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-116/manifest.json"
   }
  },
  {
@@ -4303,7 +4425,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-117.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-117/manifest.json"
   }
  },
  {
@@ -4338,7 +4461,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-118.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-118/manifest.json"
   }
  },
  {
@@ -4373,7 +4497,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-119.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-119/manifest.json"
   }
  },
  {
@@ -4408,7 +4533,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-120.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-120/manifest.json"
   }
  },
  {
@@ -4443,7 +4569,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-121.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-121/manifest.json"
   }
  },
  {
@@ -4478,7 +4605,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-122.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-122/manifest.json"
   }
  },
  {
@@ -4513,7 +4641,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-123.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-123/manifest.json"
   }
  },
  {
@@ -4548,7 +4677,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-124.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-124/manifest.json"
   }
  },
  {
@@ -4583,7 +4713,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-125.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-125/manifest.json"
   }
  },
  {
@@ -4618,7 +4749,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-126.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-126/manifest.json"
   }
  },
  {
@@ -4653,7 +4785,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-127.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-127/manifest.json"
   }
  },
  {
@@ -4688,7 +4821,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-128.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-128/manifest.json"
   }
  },
  {
@@ -4723,7 +4857,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-129.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-129/manifest.json"
   }
  },
  {
@@ -4758,7 +4893,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-130.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-130/manifest.json"
   }
  },
  {
@@ -4793,7 +4929,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-131.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-131/manifest.json"
   }
  },
  {
@@ -4828,7 +4965,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-132.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-132/manifest.json"
   }
  },
  {
@@ -4863,7 +5001,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-xbox-magazine-133.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-xbox-magazine-133/manifest.json"
   }
  }
 ]

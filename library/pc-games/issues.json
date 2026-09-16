@@ -2711,7 +2711,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/pc-games-10-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/pc-games-10-4/manifest.json"
   }
  }
 ]

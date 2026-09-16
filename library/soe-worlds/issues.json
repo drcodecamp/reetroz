@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/soe-worlds-200410-the-official-magazine-special-preview-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/soe-worlds-200410-the-official-magazine-special-preview-issue/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/soe-worlds-200503-the-official-magazine.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/soe-worlds-200503-the-official-magazine/manifest.json"
   }
  }
 ]

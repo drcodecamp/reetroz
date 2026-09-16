@@ -32,7 +32,8 @@
   "special": "Premiere issue",
   "assets": {
    "cover": "covers/ngamer-us-200001-ngamer-premier-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/ngamer-us-200001-ngamer-premier-issue/manifest.json"
   }
  }
 ]

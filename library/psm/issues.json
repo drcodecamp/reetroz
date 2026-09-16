@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1997-e3-1997-preview-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1997-e3-1997-preview-issue/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/psm-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-2/manifest.json"
   }
  },
  {
@@ -243,7 +249,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/psm-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-2/manifest.json"
   }
  },
  {
@@ -278,7 +285,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-2/manifest.json"
   }
  },
  {
@@ -313,7 +321,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-2/manifest.json"
   }
  },
  {
@@ -348,7 +357,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5/manifest.json"
   }
  },
  {
@@ -383,7 +393,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6/manifest.json"
   }
  },
  {
@@ -418,7 +429,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7/manifest.json"
   }
  },
  {
@@ -453,7 +465,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8/manifest.json"
   }
  },
  {
@@ -488,7 +501,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9/manifest.json"
   }
  },
  {
@@ -523,7 +537,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10/manifest.json"
   }
  },
  {
@@ -558,7 +573,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11/manifest.json"
   }
  },
  {
@@ -593,7 +609,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12/manifest.json"
   }
  },
  {
@@ -628,7 +645,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-3/manifest.json"
   }
  },
  {
@@ -663,7 +681,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-3/manifest.json"
   }
  },
  {
@@ -699,7 +718,8 @@
   "volume": 3,
   "assets": {
    "cover": "covers/psm-3-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-3/manifest.json"
   }
  },
  {
@@ -734,7 +754,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-3/manifest.json"
   }
  },
  {
@@ -769,7 +790,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-2/manifest.json"
   }
  },
  {
@@ -804,7 +826,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-6-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6-2/manifest.json"
   }
  },
  {
@@ -839,7 +862,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-7-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7-2/manifest.json"
   }
  },
  {
@@ -874,7 +898,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-8-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8-2/manifest.json"
   }
  },
  {
@@ -909,7 +934,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-9-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9-2/manifest.json"
   }
  },
  {
@@ -944,7 +970,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10-2/manifest.json"
   }
  },
  {
@@ -979,7 +1006,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11-2/manifest.json"
   }
  },
  {
@@ -1014,7 +1042,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12-2/manifest.json"
   }
  },
  {
@@ -1049,7 +1078,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-4/manifest.json"
   }
  },
  {
@@ -1084,7 +1114,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-4/manifest.json"
   }
  },
  {
@@ -1119,7 +1150,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-4/manifest.json"
   }
  },
  {
@@ -1155,7 +1187,8 @@
   "volume": 4,
   "assets": {
    "cover": "covers/psm-4-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-4/manifest.json"
   }
  },
  {
@@ -1190,7 +1223,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-3/manifest.json"
   }
  },
  {
@@ -1225,7 +1259,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-6-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6-3/manifest.json"
   }
  },
  {
@@ -1260,7 +1295,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-7-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7-3/manifest.json"
   }
  },
  {
@@ -1295,7 +1331,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-8-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8-3/manifest.json"
   }
  },
  {
@@ -1330,7 +1367,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-9-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9-3/manifest.json"
   }
  },
  {
@@ -1365,7 +1403,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10-3/manifest.json"
   }
  },
  {
@@ -1400,7 +1439,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11-3/manifest.json"
   }
  },
  {
@@ -1435,7 +1475,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12-3/manifest.json"
   }
  },
  {
@@ -1470,7 +1511,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-5/manifest.json"
   }
  },
  {
@@ -1505,7 +1547,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-5/manifest.json"
   }
  },
  {
@@ -1540,7 +1583,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-5/manifest.json"
   }
  },
  {
@@ -1575,7 +1619,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-5/manifest.json"
   }
  },
  {
@@ -1611,7 +1656,8 @@
   "volume": 5,
   "assets": {
    "cover": "covers/psm-5-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-4/manifest.json"
   }
  },
  {
@@ -1646,7 +1692,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-6-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6-4/manifest.json"
   }
  },
  {
@@ -1681,7 +1728,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-7-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7-4/manifest.json"
   }
  },
  {
@@ -1716,7 +1764,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-8-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8-4/manifest.json"
   }
  },
  {
@@ -1751,7 +1800,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-9-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9-4/manifest.json"
   }
  },
  {
@@ -1786,7 +1836,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10-4/manifest.json"
   }
  },
  {
@@ -1821,7 +1872,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11-4/manifest.json"
   }
  },
  {
@@ -1856,7 +1908,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12-4/manifest.json"
   }
  },
  {
@@ -1891,7 +1944,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-13/manifest.json"
   }
  },
  {
@@ -1926,7 +1980,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-6/manifest.json"
   }
  },
  {
@@ -1961,7 +2016,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-6/manifest.json"
   }
  },
  {
@@ -1996,7 +2052,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-6/manifest.json"
   }
  },
  {
@@ -2031,7 +2088,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-6/manifest.json"
   }
  },
  {
@@ -2066,7 +2124,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-5/manifest.json"
   }
  },
  {
@@ -2102,7 +2161,8 @@
   "volume": 6,
   "assets": {
    "cover": "covers/psm-6-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6-5/manifest.json"
   }
  },
  {
@@ -2137,7 +2197,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-7-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7-5/manifest.json"
   }
  },
  {
@@ -2172,7 +2233,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-8-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8-5/manifest.json"
   }
  },
  {
@@ -2207,7 +2269,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-9-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9-5/manifest.json"
   }
  },
  {
@@ -2242,7 +2305,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10-5/manifest.json"
   }
  },
  {
@@ -2277,7 +2341,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11-5/manifest.json"
   }
  },
  {
@@ -2312,7 +2377,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12-5/manifest.json"
   }
  },
  {
@@ -2347,7 +2413,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-13-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-13-2/manifest.json"
   }
  },
  {
@@ -2382,7 +2449,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-7/manifest.json"
   }
  },
  {
@@ -2417,7 +2485,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-7/manifest.json"
   }
  },
  {
@@ -2452,7 +2521,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-7/manifest.json"
   }
  },
  {
@@ -2487,7 +2557,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-7/manifest.json"
   }
  },
  {
@@ -2522,7 +2593,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-6/manifest.json"
   }
  },
  {
@@ -2557,7 +2629,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-6-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6-6/manifest.json"
   }
  },
  {
@@ -2593,7 +2666,8 @@
   "volume": 7,
   "assets": {
    "cover": "covers/psm-7-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7-6/manifest.json"
   }
  },
  {
@@ -2628,7 +2702,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-8-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8-6/manifest.json"
   }
  },
  {
@@ -2663,7 +2738,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-9-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9-6/manifest.json"
   }
  },
  {
@@ -2698,7 +2774,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10-6/manifest.json"
   }
  },
  {
@@ -2733,7 +2810,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11-6/manifest.json"
   }
  },
  {
@@ -2768,7 +2846,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12-6/manifest.json"
   }
  },
  {
@@ -2803,7 +2882,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-13-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-13-3/manifest.json"
   }
  },
  {
@@ -2838,7 +2918,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-8/manifest.json"
   }
  },
  {
@@ -2873,7 +2954,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-8/manifest.json"
   }
  },
  {
@@ -2908,7 +2990,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-8/manifest.json"
   }
  },
  {
@@ -2943,7 +3026,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-8/manifest.json"
   }
  },
  {
@@ -2978,7 +3062,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-7/manifest.json"
   }
  },
  {
@@ -3013,7 +3098,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-6-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6-7/manifest.json"
   }
  },
  {
@@ -3048,7 +3134,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-7-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7-7/manifest.json"
   }
  },
  {
@@ -3084,7 +3171,8 @@
   "volume": 8,
   "assets": {
    "cover": "covers/psm-8-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8-7/manifest.json"
   }
  },
  {
@@ -3119,7 +3207,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-9-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9-7/manifest.json"
   }
  },
  {
@@ -3154,7 +3243,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10-7/manifest.json"
   }
  },
  {
@@ -3189,7 +3279,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11-7/manifest.json"
   }
  },
  {
@@ -3224,7 +3315,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12-7/manifest.json"
   }
  },
  {
@@ -3259,7 +3351,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-13-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-13-4/manifest.json"
   }
  },
  {
@@ -3294,7 +3387,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-9/manifest.json"
   }
  },
  {
@@ -3329,7 +3423,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-9/manifest.json"
   }
  },
  {
@@ -3364,7 +3459,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-9/manifest.json"
   }
  },
  {
@@ -3399,7 +3495,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-9/manifest.json"
   }
  },
  {
@@ -3434,7 +3531,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-8/manifest.json"
   }
  },
  {
@@ -3469,7 +3567,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-6-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-6-8/manifest.json"
   }
  },
  {
@@ -3504,7 +3603,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-7-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-7-8/manifest.json"
   }
  },
  {
@@ -3539,7 +3639,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-8-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-8-8/manifest.json"
   }
  },
  {
@@ -3575,7 +3676,8 @@
   "volume": 9,
   "assets": {
    "cover": "covers/psm-9-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-9-8/manifest.json"
   }
  },
  {
@@ -3610,7 +3712,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-10-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-10-8/manifest.json"
   }
  },
  {
@@ -3645,7 +3748,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-11-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-11-8/manifest.json"
   }
  },
  {
@@ -3680,7 +3784,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-12-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-12-8/manifest.json"
   }
  },
  {
@@ -3715,7 +3820,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-13-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-13-5/manifest.json"
   }
  },
  {
@@ -3750,7 +3856,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-1-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-1-10/manifest.json"
   }
  },
  {
@@ -3785,7 +3892,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-2-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-2-10/manifest.json"
   }
  },
  {
@@ -3820,7 +3928,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-3-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-3-10/manifest.json"
   }
  },
  {
@@ -3855,7 +3964,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-4-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-4-10/manifest.json"
   }
  },
  {
@@ -3890,7 +4000,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-5-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-5-9/manifest.json"
   }
  },
  {
@@ -3925,7 +4036,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-111.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-111/manifest.json"
   }
  },
  {
@@ -3960,7 +4072,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-112.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-112/manifest.json"
   }
  },
  {
@@ -3995,7 +4108,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-113.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-113/manifest.json"
   }
  },
  {
@@ -4030,7 +4144,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-114.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-114/manifest.json"
   }
  },
  {
@@ -4065,7 +4180,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-115.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-115/manifest.json"
   }
  },
  {
@@ -4100,7 +4216,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-116.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-116/manifest.json"
   }
  },
  {
@@ -4135,7 +4252,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-117.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-117/manifest.json"
   }
  },
  {
@@ -4170,7 +4288,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-118.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-118/manifest.json"
   }
  },
  {
@@ -4205,7 +4324,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-119.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-119/manifest.json"
   }
  },
  {
@@ -4240,7 +4360,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-120.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-120/manifest.json"
   }
  },
  {
@@ -4275,7 +4396,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-121.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-121/manifest.json"
   }
  },
  {
@@ -4310,7 +4432,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-122.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-122/manifest.json"
   }
  },
  {
@@ -4345,7 +4468,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-123.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-123/manifest.json"
   }
  },
  {
@@ -4380,7 +4504,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-124.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-124/manifest.json"
   }
  },
  {
@@ -4415,7 +4540,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-125.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-125/manifest.json"
   }
  },
  {
@@ -4450,7 +4576,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-126.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-126/manifest.json"
   }
  },
  {
@@ -4485,7 +4612,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-127.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-127/manifest.json"
   }
  },
  {
@@ -4520,7 +4648,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-128.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-128/manifest.json"
   }
  },
  {
@@ -4555,7 +4684,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-129.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-129/manifest.json"
   }
  },
  {
@@ -4590,7 +4720,8 @@
   "updated_at": "2026-09-14T09:36:00+00:00",
   "assets": {
    "cover": "covers/psm-130.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psm-130/manifest.json"
   }
  }
 ]

@@ -25,7 +25,7 @@
   ],
   "issues": 5,
   "pages": 104,
-  "readable": 0,
+  "readable": 5,
   "coverIssue": null
  },
  {
@@ -743,7 +743,7 @@
   ],
   "issues": 2,
   "pages": 268,
-  "readable": 0,
+  "readable": 2,
   "coverIssue": null
  },
  {
@@ -853,7 +853,7 @@
   ],
   "issues": 121,
   "pages": 16172,
-  "readable": 0,
+  "readable": 121,
   "coverIssue": null
  },
  {
@@ -1123,7 +1123,7 @@
   ],
   "issues": 2,
   "pages": 220,
-  "readable": 0,
+  "readable": 2,
   "coverIssue": null
  },
  {
@@ -1152,7 +1152,7 @@
   ],
   "issues": 3,
   "pages": 60,
-  "readable": 0,
+  "readable": 3,
   "coverIssue": null
  },
  {
@@ -1582,7 +1582,7 @@
   ],
   "issues": 1,
   "pages": 116,
-  "readable": 0,
+  "readable": 1,
   "coverIssue": null
  },
  {
@@ -1796,7 +1796,7 @@
   ],
   "issues": 113,
   "pages": 15850,
-  "readable": 0,
+  "readable": 113,
   "coverIssue": null
  },
  {
@@ -1825,7 +1825,7 @@
   ],
   "issues": 139,
   "pages": 14922,
-  "readable": 0,
+  "readable": 139,
   "coverIssue": null
  },
  {
@@ -1906,7 +1906,7 @@
   ],
   "issues": 75,
   "pages": 9142,
-  "readable": 74,
+  "readable": 75,
   "coverIssue": null
  },
  {
@@ -2074,7 +2074,7 @@
   ],
   "issues": 1,
   "pages": 100,
-  "readable": 0,
+  "readable": 1,
   "coverIssue": null
  },
  {
@@ -2132,7 +2132,7 @@
   ],
   "issues": 131,
   "pages": 15277,
-  "readable": 0,
+  "readable": 131,
   "coverIssue": null
  },
  {
@@ -2317,7 +2317,7 @@
   ],
   "issues": 2,
   "pages": 121,
-  "readable": 0,
+  "readable": 2,
   "coverIssue": null
  },
  {
@@ -2405,7 +2405,7 @@
   ],
   "issues": 4,
   "pages": 512,
-  "readable": 0,
+  "readable": 4,
   "coverIssue": null
  },
  {
@@ -2434,7 +2434,7 @@
   ],
   "issues": 2,
   "pages": 120,
-  "readable": 0,
+  "readable": 2,
   "coverIssue": null
  },
  {
@@ -2714,7 +2714,7 @@
   ],
   "issues": 5,
   "pages": 325,
-  "readable": 0,
+  "readable": 5,
   "coverIssue": null
  },
  {

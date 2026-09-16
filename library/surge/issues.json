@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/surge-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/surge-2/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/surge-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/surge-3/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/surge-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/surge-4/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/surge-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/surge-1/manifest.json"
   }
  }
 ]

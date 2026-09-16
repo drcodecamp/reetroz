@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/ps-max-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/ps-max-1/manifest.json"
   }
  }
 ]
