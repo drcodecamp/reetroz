@@ -5,9 +5,7 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
 | Done (readable on R2) | 73 | 4,627 | 513,793 |
-| Left — PDFs on disk | 0 | 0 | 0 |
-| Left — no local PDFs (stubs) | 27 | — | — |
-| Left — no `publication.json` | 16 | — | — |
+| Left (no PDFs yet) | 43 | — | — |
 
 ---
 
@@ -155,9 +153,9 @@ All local PDFs are on R2. Last four done, including Play US 86 and 94 after a se
 
 ---
 
-## Left — no local PDFs
+## Left — no PDFs yet
 
-Need scans before encode. Mostly UK / Internet Archive titles.
+Same situation for all of these: we cannot encode them until scans exist. There is no split anymore.
 
 - [ ] ACE (`ace`)
 - [ ] Amiga Power (`amiga-power`)
@@ -167,10 +165,26 @@ Need scans before encode. Mostly UK / Internet Archive titles.
 - [ ] Computer Game Forum (`computer-game-forum`)
 - [ ] Crash (`crash`)
 - [ ] Dreamcast Magazine (UK) (`dreamcast-magazine-uk`)
+- [ ] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`)
+- [ ] Electronic Gaming Retail News (`electronic-gaming-retail-news`)
+- [ ] Future Play (`future-play`)
+- [ ] Game Developer (`game-developer`)
+- [ ] Game Intelligence Magazine (`game-intelligence-magazine`)
+- [ ] Game On USA (`game-on-usa`)
+- [ ] Game-specific promotional magazines, assorted (`game-specific-promotional-magazines-assorted`)
+- [ ] Games Business (`games-business`)
 - [ ] Games for Windows: The Official Magazine (`games-for-windows`)
 - [ ] GamesMaster (`gamesmaster`)
+- [ ] Gamesport (`gamesport`)
+- [ ] GameWeek / IE Magazine (`gameweek-iemagazine`)
+- [ ] Girl Gamer (`girl-gamer`)
+- [ ] GMR (`gmr`)
+- [ ] Hardcore Gamer (`hardcore-gamer`)
+- [ ] Lifestyle magazines, assorted (`lifestyle-magazines-assorted`)
 - [ ] MCV (`mcv`)
 - [ ] Mean Machines (`mean-machines`)
+- [ ] New Earth (`new-earth`)
+- [ ] News and media magazines, assorted (`news-and-media-magazines-assorted`)
 - [ ] Nintendo Magazine System / Official Nintendo Magazine (`nintendo-magazine-system`)
 - [ ] Official Sega Saturn Magazine (`official-sega-saturn-magazine`)
 - [ ] Official UK PlayStation Magazine (`official-uk-playstation-magazine`)
@@ -186,24 +200,3 @@ Need scans before encode. Mostly UK / Internet Archive titles.
 - [ ] Your Sinclair (`your-sinclair`)
 - [ ] Zero (`zero`)
 - [ ] Zzap!64 (`zzap64`)
-
----
-
-## Left — folders, no `publication.json` yet
-
-- [ ] electronic-fun-with-computers-and-games
-- [ ] electronic-gaming-retail-news
-- [ ] future-play
-- [ ] game-developer
-- [ ] game-intelligence-magazine
-- [ ] game-on-usa
-- [ ] game-specific-promotional-magazines-assorted
-- [ ] games-business
-- [ ] gamesport
-- [ ] gameweek-iemagazine
-- [ ] girl-gamer
-- [ ] gmr
-- [ ] hardcore-gamer
-- [ ] lifestyle-magazines-assorted
-- [ ] new-earth
-- [ ] news-and-media-magazines-assorted
