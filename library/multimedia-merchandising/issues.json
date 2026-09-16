@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-merchandising-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-merchandising-10/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-merchandising-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-merchandising-11/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-merchandising-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-merchandising-1/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-merchandising-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-merchandising-2/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "volume": 3,
   "assets": {
    "cover": "covers/multimedia-merchandising-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-merchandising-3/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-merchandising-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-merchandising-5/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-merchandising-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-merchandising-8/manifest.json"
   }
  }
 ]

@@ -33,7 +33,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/atari-age-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-1/manifest.json"
   }
  },
  {
@@ -69,7 +70,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-2/manifest.json"
   }
  },
  {
@@ -105,7 +107,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-3/manifest.json"
   }
  },
  {
@@ -141,7 +144,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-4/manifest.json"
   }
  },
  {
@@ -177,7 +181,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-5/manifest.json"
   }
  },
  {
@@ -213,7 +218,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-6/manifest.json"
   }
  },
  {
@@ -249,7 +255,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-1-2/manifest.json"
   }
  },
  {
@@ -286,7 +293,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/atari-age-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-2-2/manifest.json"
   }
  },
  {
@@ -322,7 +330,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-3-2/manifest.json"
   }
  },
  {
@@ -358,7 +367,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-4-2/manifest.json"
   }
  },
  {
@@ -394,7 +404,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/atari-age-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/atari-age-5-2/manifest.json"
   }
  }
 ]

@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-1/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-2/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-3/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-4/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-5/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-6/manifest.json"
   }
  },
  {
@@ -241,7 +247,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-7/manifest.json"
   }
  },
  {
@@ -276,7 +283,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-8/manifest.json"
   }
  },
  {
@@ -311,7 +319,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-9/manifest.json"
   }
  },
  {
@@ -346,7 +355,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-10/manifest.json"
   }
  },
  {
@@ -381,7 +391,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-11/manifest.json"
   }
  },
  {
@@ -416,7 +427,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-12/manifest.json"
   }
  },
  {
@@ -451,7 +463,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-13/manifest.json"
   }
  },
  {
@@ -486,7 +499,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/videogaming-illustrated-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogaming-illustrated-14/manifest.json"
   }
  }
 ]

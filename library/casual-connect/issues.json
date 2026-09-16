@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/casual-connect-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-200806-magazine.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-200806-magazine/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-200809-magazine.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-200809-magazine/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-200909-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-200909-casual-connect/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-200912-magazine.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-200912-magazine/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201006-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201006-casual-connect/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201009-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201009-casual-connect/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201012-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201012-casual-connect/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201109-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201109-casual-connect/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201112-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201112-casual-connect/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201212-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201212-casual-connect/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201306-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201306-casual-connect/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201406-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201406-casual-connect/manifest.json"
   }
  },
  {
@@ -487,7 +500,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201506-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201506-casual-connect/manifest.json"
   }
  },
  {
@@ -522,7 +536,8 @@
   "updated_at": "2026-09-14T09:33:10+00:00",
   "assets": {
    "cover": "covers/casual-connect-201512-casual-connect.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/casual-connect-201512-casual-connect/manifest.json"
   }
  }
 ]

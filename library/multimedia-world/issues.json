@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-2/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-4/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-12/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-1/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/multimedia-world-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-2-2/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-4-2/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-5/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-6/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-7/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/multimedia-world-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/multimedia-world-9/manifest.json"
   }
  }
 ]

@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-entertainment-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-entertainment-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-entertainment-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-entertainment-2/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-entertainment-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-entertainment-3/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-entertainment-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-entertainment-4/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-entertainment-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-entertainment-5/manifest.json"
   }
  }
 ]

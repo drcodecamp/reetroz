@@ -1,11 +1,11 @@
 # Pixel Press — publication TODO
 
-Status as of 2026-09-16 (checked after overnight PC shutdown). Rendered titles are on R2 and readable at localhost:3001.
+Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:3001.
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 15 | 2,838 | 360,799 |
-| Left — PDFs on disk | 58 | 1,790 | 156,994 |
+| Done (readable on R2) | 25 | 2,865 | 362,745 |
+| Left — PDFs on disk | 48 | 1,763 | 155,048 |
 | Left — no local PDFs (stubs) | 27 | — | — |
 | Left — no `publication.json` | 16 | — | — |
 
@@ -28,6 +28,16 @@ Status as of 2026-09-16 (checked after overnight PC shutdown). Rendered titles a
 - [x] PC Games / Electronic Entertainment (`pc-games`) — 75 issues / 9,142 pages
 - [x] PlayStation: The Official Magazine (`playstation-the-official-magazine`) — 64 issues / 6,664 pages
 - [x] @Gamer (`atgamer`) — 32 issues / 3,238 pages
+- [x] Surge (`surge`) — 4 issues / 512 pages
+- [x] Vidiot (`vidiot`) — 5 issues / 325 pages
+- [x] Digital Diner (`digital-diner`) — 2 issues / 268 pages
+- [x] IGN magazines (`ign-magazines`) — 2 issues / 220 pages
+- [x] SOE Worlds: The Official Magazine (`soe-worlds`) — 2 issues / 121 pages
+- [x] The Cursor: Game Developer Life (`the-cursor`) — 2 issues / 120 pages
+- [x] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
+- [x] 3DO Club News (`3do-club-news`) — 5 issues / 104 pages
+- [x] PS Max (`ps-max`) — 1 issue / 100 pages
+- [x] Imagine Town Magazine / Game Candy (`imagine-town`) — 3 issues / 60 pages
 
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
 
@@ -35,25 +45,25 @@ Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplica
 
 ## Left — PDFs on disk (fewest issues first)
 
-58 titles. Ordered least issues → most so we start light and go deep.
+48 titles left. Ordered least issues → most.
 
-Encoding now: all titles with ≤20 issues, 5 publications at a time. Stop before Video Games (21).
+Batches 1–2 uploaded. Batch 3 encoding now (CGE, Q64, Odyssey, Blip, MultiMedia Merchandising). Stop before Video Games (21).
 
-- [ ] PS Max (`ps-max`) — 1 issue / 100 pages
-- [ ] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
-- [ ] The Cursor: Game Developer Life (`the-cursor`) — 2 issues / 120 pages
-- [ ] SOE Worlds: The Official Magazine (`soe-worlds`) — 2 issues / 121 pages
-- [ ] IGN magazines (`ign-magazines`) — 2 issues / 220 pages
-- [ ] Digital Diner (`digital-diner`) — 2 issues / 268 pages
-- [ ] Imagine Town Magazine / Game Candy (`imagine-town`) — 3 issues / 60 pages
-- [ ] Surge (`surge`) — 4 issues / 512 pages
-- [ ] 3DO Club News (`3do-club-news`) — 5 issues / 104 pages
-- [ ] Vidiot (`vidiot`) — 5 issues / 325 pages
-- [ ] Computer Game Entertainment (`computer-game-entertainment`) — 5 issues / 635 pages
-- [ ] Q64 (`q64`) — 6 issues / 712 pages
-- [ ] Odyssey Adventure (`odyssey-adventure`) — 7 issues / 84 pages
-- [ ] Blip (`blip`) — 7 issues / 248 pages
-- [ ] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages
+- [x] PS Max (`ps-max`) — 1 issue / 100 pages
+- [x] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
+- [x] The Cursor: Game Developer Life (`the-cursor`) — 2 issues / 120 pages
+- [x] SOE Worlds: The Official Magazine (`soe-worlds`) — 2 issues / 121 pages
+- [x] IGN magazines (`ign-magazines`) — 2 issues / 220 pages
+- [x] Digital Diner (`digital-diner`) — 2 issues / 268 pages
+- [x] Imagine Town Magazine / Game Candy (`imagine-town`) — 3 issues / 60 pages
+- [x] Surge (`surge`) — 4 issues / 512 pages
+- [x] 3DO Club News (`3do-club-news`) — 5 issues / 104 pages
+- [x] Vidiot (`vidiot`) — 5 issues / 325 pages
+- [ ] Computer Game Entertainment (`computer-game-entertainment`) — 5 issues / 635 pages — **encoding**
+- [ ] Q64 (`q64`) — 6 issues / 712 pages — **encoding**
+- [ ] Odyssey Adventure (`odyssey-adventure`) — 7 issues / 84 pages — **encoding**
+- [ ] Blip (`blip`) — 7 issues / 248 pages — **encoding**
+- [ ] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages — **encoding**
 - [ ] Activisions (`activisions`) — 10 issues / 53 pages
 - [ ] NewMedia (`newmedia`) — 10 issues / 1,182 pages
 - [ ] Multimedia World (`multimedia-world`) — 10 issues / 1,398 pages

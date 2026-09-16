@@ -9,7 +9,7 @@
   "pages": 4,
   "cover": "/covers/activisions-1.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37,7 +37,7 @@
   "pages": 4,
   "cover": "/covers/activisions-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -149,7 +149,7 @@
   "pages": 68,
   "cover": "/covers/videogaming-illustrated-1.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -191,7 +191,7 @@
   "pages": 8,
   "cover": "/covers/activisions-5.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -205,7 +205,7 @@
   "pages": 2,
   "cover": "/covers/activisions-198212-activision-for-atari-computers-insert.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -289,7 +289,7 @@
   "pages": 68,
   "cover": "/covers/videogaming-illustrated-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -317,7 +317,7 @@
   "pages": 6,
   "cover": "/covers/activisions-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -331,7 +331,7 @@
   "pages": 12,
   "cover": "/covers/odyssey-adventure-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -373,7 +373,7 @@
   "pages": 1,
   "cover": "/covers/activisions-198207-special-edition.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -415,7 +415,7 @@
   "pages": 20,
   "cover": "/covers/atari-age-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -499,7 +499,7 @@
   "pages": 16,
   "cover": "/covers/atari-age-1.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -597,7 +597,7 @@
   "pages": 20,
   "cover": "/covers/atari-age-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -667,7 +667,7 @@
   "pages": 68,
   "cover": "/covers/videogaming-illustrated-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -779,7 +779,7 @@
   "pages": 26,
   "cover": "/covers/atari-age-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -807,7 +807,7 @@
   "pages": 6,
   "cover": "/covers/activisions-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -821,7 +821,7 @@
   "pages": 12,
   "cover": "/covers/odyssey-adventure-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -835,7 +835,7 @@
   "pages": 12,
   "cover": "/covers/odyssey-adventure-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -849,7 +849,7 @@
   "pages": 12,
   "cover": "/covers/odyssey-adventure-1.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -905,7 +905,7 @@
   "pages": 35,
   "cover": "/covers/blip-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -975,7 +975,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-5.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1031,7 +1031,7 @@
   "pages": 35,
   "cover": "/covers/blip-7.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1101,7 +1101,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-8.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1213,7 +1213,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-12.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1241,7 +1241,7 @@
   "pages": 10,
   "cover": "/covers/activisions-7.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1269,7 +1269,7 @@
   "pages": 36,
   "cover": "/covers/blip-1.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1339,7 +1339,7 @@
   "pages": 76,
   "cover": "/covers/videogaming-illustrated-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1507,7 +1507,7 @@
   "pages": 22,
   "cover": "/covers/atari-age-5.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1549,7 +1549,7 @@
   "pages": 36,
   "cover": "/covers/blip-6.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1619,7 +1619,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-7.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1661,7 +1661,7 @@
   "pages": 38,
   "cover": "/covers/atari-age-2-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1689,7 +1689,7 @@
   "pages": 35,
   "cover": "/covers/blip-5.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1759,7 +1759,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-6.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1829,7 +1829,7 @@
   "pages": 35,
   "cover": "/covers/blip-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1913,7 +1913,7 @@
   "pages": 22,
   "cover": "/covers/atari-age-6.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1927,7 +1927,7 @@
   "pages": 36,
   "cover": "/covers/blip-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2039,7 +2039,7 @@
   "pages": 30,
   "cover": "/covers/atari-age-1-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -2095,7 +2095,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-11.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2109,7 +2109,7 @@
   "pages": 38,
   "cover": "/covers/atari-age-4-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2249,7 +2249,7 @@
   "pages": 90,
   "cover": "/covers/videogaming-illustrated-10.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2361,7 +2361,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-9.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2389,7 +2389,7 @@
   "pages": 54,
   "cover": "/covers/atari-age-3-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2403,7 +2403,7 @@
   "pages": 8,
   "cover": "/covers/activisions-6.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2417,7 +2417,7 @@
   "pages": 12,
   "cover": "/covers/odyssey-adventure-2-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2431,7 +2431,7 @@
   "pages": 12,
   "cover": "/covers/odyssey-adventure-3-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2445,7 +2445,7 @@
   "pages": 12,
   "cover": "/covers/odyssey-adventure-1-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2753,7 +2753,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-13.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2963,7 +2963,7 @@
   "pages": 84,
   "cover": "/covers/videogaming-illustrated-14.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2991,7 +2991,7 @@
   "pages": 38,
   "cover": "/covers/atari-age-5-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3201,7 +3201,7 @@
   "pages": 4,
   "cover": "/covers/activisions-1984-update-pitfall-ii-lost-caverns.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -10789,7 +10789,7 @@
   "pages": 108,
   "cover": "/covers/mega-3.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10817,7 +10817,7 @@
   "pages": 93,
   "cover": "/covers/newmedia-12.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12329,7 +12329,7 @@
   "pages": 100,
   "cover": "/covers/mega-1.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13141,7 +13141,7 @@
   "pages": 110,
   "cover": "/covers/newmedia-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13379,7 +13379,7 @@
   "pages": 108,
   "cover": "/covers/mega-15.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13561,7 +13561,7 @@
   "pages": 100,
   "cover": "/covers/mega-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14079,7 +14079,7 @@
   "pages": 100,
   "cover": "/covers/mega-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14331,7 +14331,7 @@
   "pages": 100,
   "cover": "/covers/mega-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14555,7 +14555,7 @@
   "pages": 100,
   "cover": "/covers/mega-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14779,7 +14779,7 @@
   "pages": 100,
   "cover": "/covers/mega-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14807,7 +14807,7 @@
   "pages": 101,
   "cover": "/covers/newmedia-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15017,7 +15017,7 @@
   "pages": 108,
   "cover": "/covers/mega-14.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15297,7 +15297,7 @@
   "pages": 100,
   "cover": "/covers/mega-13.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15535,7 +15535,7 @@
   "pages": 108,
   "cover": "/covers/mega-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16235,7 +16235,7 @@
   "pages": 135,
   "cover": "/covers/newmedia-8-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16571,7 +16571,7 @@
   "pages": 172,
   "cover": "/covers/multimedia-world-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17061,7 +17061,7 @@
   "pages": 116,
   "cover": "/covers/mega-16.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17075,7 +17075,7 @@
   "pages": 128,
   "cover": "/covers/multimedia-world-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17089,7 +17089,7 @@
   "pages": 135,
   "cover": "/covers/newmedia-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17845,7 +17845,7 @@
   "pages": 120,
   "cover": "/covers/multimedia-world-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18363,7 +18363,7 @@
   "pages": 164,
   "cover": "/covers/multimedia-world-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19287,7 +19287,7 @@
   "pages": 144,
   "cover": "/covers/multimedia-world-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19553,7 +19553,7 @@
   "pages": 114,
   "cover": "/covers/multimedia-world-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19567,7 +19567,7 @@
   "pages": 148,
   "cover": "/covers/newmedia-8-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19651,7 +19651,7 @@
   "pages": 50,
   "cover": "/covers/videogame-advisor-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20029,7 +20029,7 @@
   "pages": 52,
   "cover": "/covers/videogame-advisor-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20645,7 +20645,7 @@
   "pages": 140,
   "cover": "/covers/multimedia-world-2-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20981,7 +20981,7 @@
   "pages": 52,
   "cover": "/covers/videogame-advisor-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21177,7 +21177,7 @@
   "pages": 146,
   "cover": "/covers/multimedia-world-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21261,7 +21261,7 @@
   "pages": 52,
   "cover": "/covers/videogame-advisor-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21499,7 +21499,7 @@
   "pages": 136,
   "cover": "/covers/multimedia-world-4-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21807,7 +21807,7 @@
   "pages": 134,
   "cover": "/covers/multimedia-world-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21821,7 +21821,7 @@
   "pages": 140,
   "cover": "/covers/newmedia-5-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21933,7 +21933,7 @@
   "pages": 52,
   "cover": "/covers/videogame-advisor-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22157,7 +22157,7 @@
   "pages": 72,
   "cover": "/covers/multimedia-merchandising-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22269,7 +22269,7 @@
   "pages": 52,
   "cover": "/covers/videogame-advisor-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22465,7 +22465,7 @@
   "pages": 72,
   "cover": "/covers/multimedia-merchandising-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22479,7 +22479,7 @@
   "pages": 112,
   "cover": "/covers/newmedia-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22731,7 +22731,7 @@
   "pages": 120,
   "cover": "/covers/newmedia-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23529,7 +23529,7 @@
   "pages": 64,
   "cover": "/covers/videogame-advisor-8-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23837,7 +23837,7 @@
   "pages": 84,
   "cover": "/covers/videogame-advisor-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24089,7 +24089,7 @@
   "pages": 64,
   "cover": "/covers/multimedia-merchandising-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24411,7 +24411,7 @@
   "pages": 72,
   "cover": "/covers/multimedia-merchandising-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24537,7 +24537,7 @@
   "pages": 48,
   "cover": "/covers/videogame-advisor-1-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25111,7 +25111,7 @@
   "pages": 68,
   "cover": "/covers/videogame-advisor-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25321,7 +25321,7 @@
   "pages": 64,
   "cover": "/covers/multimedia-merchandising-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25433,7 +25433,7 @@
   "pages": 56,
   "cover": "/covers/videogame-advisor-3-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25643,7 +25643,7 @@
   "pages": 96,
   "cover": "/covers/multimedia-merchandising-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25755,7 +25755,7 @@
   "pages": 69,
   "cover": "/covers/videogame-advisor-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26049,7 +26049,7 @@
   "pages": 84,
   "cover": "/covers/videogame-advisor-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26315,7 +26315,7 @@
   "pages": 66,
   "cover": "/covers/videogame-advisor-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26329,7 +26329,7 @@
   "pages": 88,
   "cover": "/covers/newmedia-14.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26483,7 +26483,7 @@
   "pages": 58,
   "cover": "/covers/multimedia-merchandising-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26595,7 +26595,7 @@
   "pages": 68,
   "cover": "/covers/videogame-advisor-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27197,7 +27197,7 @@
   "pages": 105,
   "cover": "/covers/computer-game-entertainment-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27953,7 +27953,7 @@
   "pages": 132,
   "cover": "/covers/computer-game-entertainment-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28975,7 +28975,7 @@
   "pages": 132,
   "cover": "/covers/computer-game-entertainment-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29227,7 +29227,7 @@
   "pages": 132,
   "cover": "/covers/computer-game-entertainment-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29759,7 +29759,7 @@
   "pages": 148,
   "cover": "/covers/q64-199706-q64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30557,7 +30557,7 @@
   "pages": 116,
   "cover": "/covers/q64-199809-q64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32783,7 +32783,7 @@
   "pages": 100,
   "cover": "/covers/q64-199806-q64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32811,7 +32811,7 @@
   "pages": 116,
   "cover": "/covers/q64-199812-q64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32825,7 +32825,7 @@
   "pages": 134,
   "cover": "/covers/computer-game-entertainment-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34407,7 +34407,7 @@
   "pages": 36,
   "cover": "/covers/official-dreamcast-magazine-us-0.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35051,7 +35051,7 @@
   "pages": 124,
   "cover": "/covers/official-dreamcast-magazine-us-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35471,7 +35471,7 @@
   "pages": 126,
   "cover": "/covers/official-dreamcast-magazine-us-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35583,7 +35583,7 @@
   "pages": 116,
   "cover": "/covers/q64-199906-q64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35597,7 +35597,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35611,7 +35611,7 @@
   "pages": 116,
   "cover": "/covers/q64-199912-q64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36339,7 +36339,7 @@
   "pages": 124,
   "cover": "/covers/official-dreamcast-magazine-us-9.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36409,7 +36409,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-4.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36647,7 +36647,7 @@
   "pages": 116,
   "cover": "/covers/official-dreamcast-magazine-us-10.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36815,7 +36815,7 @@
   "pages": 132,
   "cover": "/covers/official-dreamcast-magazine-us-3.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37137,7 +37137,7 @@
   "pages": 124,
   "cover": "/covers/official-dreamcast-magazine-us-6.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37529,7 +37529,7 @@
   "pages": 116,
   "cover": "/covers/official-dreamcast-magazine-us-4.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37767,7 +37767,7 @@
   "pages": 116,
   "cover": "/covers/official-dreamcast-magazine-us-5.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37991,7 +37991,7 @@
   "pages": 134,
   "cover": "/covers/official-dreamcast-magazine-us-8.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38453,7 +38453,7 @@
   "pages": 126,
   "cover": "/covers/official-dreamcast-magazine-us-7.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38467,7 +38467,7 @@
   "pages": 102,
   "cover": "/covers/pocket-games-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38481,7 +38481,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-3.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38495,7 +38495,7 @@
   "pages": 118,
   "cover": "/covers/official-dreamcast-magazine-us-200012-official-sega-dreamcast-magazine-presents-codebo.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39279,7 +39279,7 @@
   "pages": 102,
   "cover": "/covers/official-dreamcast-magazine-us-11.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40119,7 +40119,7 @@
   "pages": 102,
   "cover": "/covers/official-dreamcast-magazine-us-12.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40987,7 +40987,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-6.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43507,7 +43507,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-9.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43549,7 +43549,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-7.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45943,7 +45943,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-11.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45957,7 +45957,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-12.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45971,7 +45971,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-10.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50381,7 +50381,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-17.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50409,7 +50409,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-16.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51403,7 +51403,7 @@
   "pages": 44,
   "cover": "/covers/casual-connect-1.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52369,7 +52369,7 @@
   "pages": 100,
   "cover": "/covers/pocket-games-20.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54581,7 +54581,7 @@
   "pages": 68,
   "cover": "/covers/casual-connect-200809-magazine.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55729,7 +55729,7 @@
   "pages": 76,
   "cover": "/covers/casual-connect-200806-magazine.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -56051,7 +56051,7 @@
   "pages": 60,
   "cover": "/covers/casual-connect-200909-casual-connect.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -57087,7 +57087,7 @@
   "pages": 64,
   "cover": "/covers/casual-connect-200912-magazine.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57423,7 +57423,7 @@
   "pages": 76,
   "cover": "/covers/casual-connect-201009-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -58459,7 +58459,7 @@
   "pages": 92,
   "cover": "/covers/casual-connect-201006-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -58487,7 +58487,7 @@
   "pages": 64,
   "cover": "/covers/casual-connect-201012-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -58809,7 +58809,7 @@
   "pages": 64,
   "cover": "/covers/casual-connect-201109-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -59845,7 +59845,7 @@
   "pages": 68,
   "cover": "/covers/casual-connect-201112-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -60685,7 +60685,7 @@
   "pages": 68,
   "cover": "/covers/casual-connect-201212-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61161,7 +61161,7 @@
   "pages": 96,
   "cover": "/covers/casual-connect-201306-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -61749,7 +61749,7 @@
   "pages": 80,
   "cover": "/covers/casual-connect-201406-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62309,7 +62309,7 @@
   "pages": 40,
   "cover": "/covers/casual-connect-201506-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -62323,7 +62323,7 @@
   "pages": 68,
   "cover": "/covers/casual-connect-201512-casual-connect.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },

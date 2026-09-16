@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-12/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-5/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-8/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-1/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-8-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-8-2/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "volume": 5,
   "assets": {
    "cover": "covers/newmedia-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-5-2/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-8-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-8-3/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-9/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-10/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:34:01+00:00",
   "assets": {
    "cover": "covers/newmedia-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/newmedia-14/manifest.json"
   }
  }
 ]

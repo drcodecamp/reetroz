@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-0.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-0/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-1/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-2/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-3/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-4/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-5/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-6/manifest.json"
   }
  },
  {
@@ -278,7 +285,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-7/manifest.json"
   }
  },
  {
@@ -313,7 +321,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-8/manifest.json"
   }
  },
  {
@@ -348,7 +357,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-9/manifest.json"
   }
  },
  {
@@ -383,7 +393,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-10/manifest.json"
   }
  },
  {
@@ -418,7 +429,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-200012-official-sega-dreamcast-magazine-presents-codebo.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-200012-official-sega-dreamcast-magazine-presents-codebo/manifest.json"
   }
  },
  {
@@ -453,7 +465,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-11/manifest.json"
   }
  },
  {
@@ -489,7 +502,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/official-dreamcast-magazine-us-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/official-dreamcast-magazine-us-12/manifest.json"
   }
  }
 ]

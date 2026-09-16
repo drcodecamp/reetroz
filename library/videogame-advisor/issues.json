@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/videogame-advisor-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-2/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-3/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-4/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-7/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-8/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-1-2/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-3-2/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-5/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-6/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-8-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-8-2/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-9/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-10/manifest.json"
   }
  },
  {
@@ -487,7 +500,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-11/manifest.json"
   }
  },
  {
@@ -522,7 +536,8 @@
   "updated_at": "2026-09-14T09:36:06+00:00",
   "assets": {
    "cover": "covers/videogame-advisor-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/videogame-advisor-12/manifest.json"
   }
  }
 ]

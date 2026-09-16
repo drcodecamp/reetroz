@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/odyssey-adventure-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/odyssey-adventure-2/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/odyssey-adventure-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/odyssey-adventure-3/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/odyssey-adventure-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/odyssey-adventure-4/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/odyssey-adventure-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/odyssey-adventure-1/manifest.json"
   }
  },
  {
@@ -173,7 +177,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/odyssey-adventure-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/odyssey-adventure-2-2/manifest.json"
   }
  },
  {
@@ -208,7 +213,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/odyssey-adventure-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/odyssey-adventure-3-2/manifest.json"
   }
  },
  {
@@ -243,7 +249,8 @@
   "updated_at": "2026-09-14T09:35:43+00:00",
   "assets": {
    "cover": "covers/odyssey-adventure-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/odyssey-adventure-1-2/manifest.json"
   }
  }
 ]

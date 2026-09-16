@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/activisions-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-1/manifest.json"
   }
  },
  {
@@ -68,7 +69,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/activisions-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-2/manifest.json"
   }
  },
  {
@@ -104,7 +106,8 @@
   "volume": 3,
   "assets": {
    "cover": "covers/activisions-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-3/manifest.json"
   }
  },
  {
@@ -139,7 +142,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/activisions-198207-special-edition.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-198207-special-edition/manifest.json"
   }
  },
  {
@@ -175,7 +179,8 @@
   "volume": 4,
   "assets": {
    "cover": "covers/activisions-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-4/manifest.json"
   }
  },
  {
@@ -211,7 +216,8 @@
   "volume": 5,
   "assets": {
    "cover": "covers/activisions-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-5/manifest.json"
   }
  },
  {
@@ -246,7 +252,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/activisions-198212-activision-for-atari-computers-insert.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-198212-activision-for-atari-computers-insert/manifest.json"
   }
  },
  {
@@ -282,7 +289,8 @@
   "volume": 6,
   "assets": {
    "cover": "covers/activisions-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-6/manifest.json"
   }
  },
  {
@@ -318,7 +326,8 @@
   "volume": 7,
   "assets": {
    "cover": "covers/activisions-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-7/manifest.json"
   }
  },
  {
@@ -353,7 +362,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/activisions-1984-update-pitfall-ii-lost-caverns.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/activisions-1984-update-pitfall-ii-lost-caverns/manifest.json"
   }
  }
 ]
