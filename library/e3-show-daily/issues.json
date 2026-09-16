@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19950511-1995-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19950511-1995-day-1/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19950513-1995-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19950513-1995-day-3/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19970619-1997-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19970619-1997-day-1/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19970620-1997-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19970620-1997-day-2/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19970621-1997-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19970621-1997-day-3/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19980528-1998-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19980528-1998-day-1/manifest.json"
   }
  },
  {
@@ -241,7 +247,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19980529-1998-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19980529-1998-day-2/manifest.json"
   }
  },
  {
@@ -276,7 +283,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-19980530-1998-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-19980530-1998-day-3/manifest.json"
   }
  },
  {
@@ -311,7 +319,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20100615-2010-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20100615-2010-day-1/manifest.json"
   }
  },
  {
@@ -346,7 +355,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20100616-2010-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20100616-2010-day-2/manifest.json"
   }
  },
  {
@@ -381,7 +391,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20100617-2010-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20100617-2010-day-3/manifest.json"
   }
  },
  {
@@ -416,7 +427,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20110606-2011-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20110606-2011-day-1/manifest.json"
   }
  },
  {
@@ -451,7 +463,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20110607-2011-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20110607-2011-day-2/manifest.json"
   }
  },
  {
@@ -486,7 +499,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20110608-2011-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20110608-2011-day-3/manifest.json"
   }
  },
  {
@@ -521,7 +535,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20120605-2012-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20120605-2012-day-1/manifest.json"
   }
  },
  {
@@ -556,7 +571,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20120606-2012-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20120606-2012-day-2/manifest.json"
   }
  },
  {
@@ -591,7 +607,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20120607-2012-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20120607-2012-day-3/manifest.json"
   }
  },
  {
@@ -626,7 +643,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20130611-2013-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20130611-2013-day-1/manifest.json"
   }
  },
  {
@@ -661,7 +679,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20130612-2013-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20130612-2013-day-2/manifest.json"
   }
  },
  {
@@ -696,7 +715,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20130613-2013-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20130613-2013-day-3/manifest.json"
   }
  },
  {
@@ -731,7 +751,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20140610-2014-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20140610-2014-day-1/manifest.json"
   }
  },
  {
@@ -766,7 +787,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20140611-2014-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20140611-2014-day-2/manifest.json"
   }
  },
  {
@@ -801,7 +823,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20140612-2014-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20140612-2014-day-3/manifest.json"
   }
  },
  {
@@ -836,7 +859,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20150616-2015-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20150616-2015-day-1/manifest.json"
   }
  },
  {
@@ -871,7 +895,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20150617-2015-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20150617-2015-day-2/manifest.json"
   }
  },
  {
@@ -906,7 +931,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20150618-2015-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20150618-2015-day-3/manifest.json"
   }
  },
  {
@@ -941,7 +967,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20160614-2016-day-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20160614-2016-day-1/manifest.json"
   }
  },
  {
@@ -976,7 +1003,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20160615-2016-day-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20160615-2016-day-2/manifest.json"
   }
  },
  {
@@ -1011,7 +1039,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/e3-show-daily-20160616-2016-day-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/e3-show-daily-20160616-2016-day-3/manifest.json"
   }
  }
 ]

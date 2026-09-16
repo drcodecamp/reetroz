@@ -32,7 +32,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-134.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-134/manifest.json"
   }
  },
  {
@@ -68,7 +69,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/develop-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-2/manifest.json"
   }
  },
  {
@@ -103,7 +105,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-144.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-144/manifest.json"
   }
  },
  {
@@ -139,7 +142,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-145.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-145/manifest.json"
   }
  },
  {
@@ -175,7 +179,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/develop-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-1/manifest.json"
   }
  },
  {
@@ -210,7 +215,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-146.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-146/manifest.json"
   }
  },
  {
@@ -245,7 +251,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-147.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-147/manifest.json"
   }
  },
  {
@@ -280,7 +287,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-149.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-149/manifest.json"
   }
  },
  {
@@ -315,7 +323,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-150.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-150/manifest.json"
   }
  },
  {
@@ -350,7 +359,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-151.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-151/manifest.json"
   }
  },
  {
@@ -385,7 +395,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-201407-industry-excellent-awards-2014-supplement.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-201407-industry-excellent-awards-2014-supplement/manifest.json"
   }
  },
  {
@@ -420,7 +431,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-152.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-152/manifest.json"
   }
  },
  {
@@ -455,7 +467,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-153.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-153/manifest.json"
   }
  },
  {
@@ -490,7 +503,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-154.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-154/manifest.json"
   }
  },
  {
@@ -525,7 +539,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-155.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-155/manifest.json"
   }
  },
  {
@@ -561,7 +576,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-156.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-156/manifest.json"
   }
  },
  {
@@ -596,7 +612,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-2015-100-2015-the-studio-hot-list.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-2015-100-2015-the-studio-hot-list/manifest.json"
   }
  },
  {
@@ -631,7 +648,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-157.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-157/manifest.json"
   }
  },
  {
@@ -666,7 +684,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-158.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-158/manifest.json"
   }
  },
  {
@@ -701,7 +720,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-159.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-159/manifest.json"
   }
  },
  {
@@ -736,7 +756,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-160.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-160/manifest.json"
   }
  },
  {
@@ -771,7 +792,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-161.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-161/manifest.json"
   }
  },
  {
@@ -806,7 +828,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-162.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-162/manifest.json"
   }
  },
  {
@@ -841,7 +864,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-163.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-163/manifest.json"
   }
  },
  {
@@ -876,7 +900,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-164.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-164/manifest.json"
   }
  },
  {
@@ -911,7 +936,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-165.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-165/manifest.json"
   }
  },
  {
@@ -946,7 +972,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-166.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-166/manifest.json"
   }
  },
  {
@@ -982,7 +1009,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-167.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-167/manifest.json"
   }
  },
  {
@@ -1017,7 +1045,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-168.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-168/manifest.json"
   }
  },
  {
@@ -1052,7 +1081,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-169.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-169/manifest.json"
   }
  },
  {
@@ -1087,7 +1117,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-170.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-170/manifest.json"
   }
  },
  {
@@ -1122,7 +1153,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-171.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-171/manifest.json"
   }
  },
  {
@@ -1157,7 +1189,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-172.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-172/manifest.json"
   }
  },
  {
@@ -1192,7 +1225,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-173.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-173/manifest.json"
   }
  },
  {
@@ -1227,7 +1261,8 @@
   },
   "assets": {
    "cover": "covers/develop-174.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-174/manifest.json"
   }
  },
  {
@@ -1262,7 +1297,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/develop-175.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/develop-175/manifest.json"
   }
  }
 ]

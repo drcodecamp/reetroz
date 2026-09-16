@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/arcade-express-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-2/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-3/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-4/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-5/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-6/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-7/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-8/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-9/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-10/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-11/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-12/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-13/manifest.json"
   }
  },
  {
@@ -487,7 +500,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-14/manifest.json"
   }
  },
  {
@@ -522,7 +536,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-15/manifest.json"
   }
  },
  {
@@ -557,7 +572,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-16/manifest.json"
   }
  },
  {
@@ -592,7 +608,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-17/manifest.json"
   }
  },
  {
@@ -627,7 +644,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-18/manifest.json"
   }
  },
  {
@@ -662,7 +680,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-19/manifest.json"
   }
  },
  {
@@ -697,7 +716,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-20/manifest.json"
   }
  },
  {
@@ -732,7 +752,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-21/manifest.json"
   }
  },
  {
@@ -767,7 +788,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-22/manifest.json"
   }
  },
  {
@@ -802,7 +824,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-23/manifest.json"
   }
  },
  {
@@ -837,7 +860,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-24/manifest.json"
   }
  },
  {
@@ -872,7 +896,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-25/manifest.json"
   }
  },
  {
@@ -907,7 +932,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-26/manifest.json"
   }
  },
  {
@@ -942,7 +968,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-1-2/manifest.json"
   }
  },
  {
@@ -978,7 +1005,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/arcade-express-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-2-2/manifest.json"
   }
  },
  {
@@ -1013,7 +1041,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-3-2/manifest.json"
   }
  },
  {
@@ -1048,7 +1077,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-4-2/manifest.json"
   }
  },
  {
@@ -1083,7 +1113,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-5-2/manifest.json"
   }
  },
  {
@@ -1118,7 +1149,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-6-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-6-2/manifest.json"
   }
  },
  {
@@ -1153,7 +1185,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-7-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-7-2/manifest.json"
   }
  },
  {
@@ -1188,7 +1221,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-8-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-8-2/manifest.json"
   }
  },
  {
@@ -1223,7 +1257,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-9-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-9-2/manifest.json"
   }
  },
  {
@@ -1258,7 +1293,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-10-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-10-2/manifest.json"
   }
  },
  {
@@ -1293,7 +1329,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-11-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-11-2/manifest.json"
   }
  },
  {
@@ -1328,7 +1365,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-12-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-12-2/manifest.json"
   }
  },
  {
@@ -1363,7 +1401,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-13-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-13-2/manifest.json"
   }
  },
  {
@@ -1398,7 +1437,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-14-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-14-2/manifest.json"
   }
  },
  {
@@ -1433,7 +1473,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-15-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-15-2/manifest.json"
   }
  },
  {
@@ -1468,7 +1509,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-16-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-16-2/manifest.json"
   }
  },
  {
@@ -1503,7 +1545,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-17-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-17-2/manifest.json"
   }
  },
  {
@@ -1538,7 +1581,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-18-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-18-2/manifest.json"
   }
  },
  {
@@ -1573,7 +1617,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-19-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-19-2/manifest.json"
   }
  },
  {
@@ -1608,7 +1653,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-20-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-20-2/manifest.json"
   }
  },
  {
@@ -1643,7 +1689,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-21-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-21-2/manifest.json"
   }
  },
  {
@@ -1678,7 +1725,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-22-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-22-2/manifest.json"
   }
  },
  {
@@ -1713,7 +1761,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-23-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-23-2/manifest.json"
   }
  },
  {
@@ -1748,7 +1797,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-24-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-24-2/manifest.json"
   }
  },
  {
@@ -1783,7 +1833,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-25-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-25-2/manifest.json"
   }
  },
  {
@@ -1818,7 +1869,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-26-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-26-2/manifest.json"
   }
  },
  {
@@ -1853,7 +1905,8 @@
   "updated_at": "2026-09-14T09:33:09+00:00",
   "assets": {
    "cover": "covers/arcade-express-1-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/arcade-express-1-3/manifest.json"
   }
  }
 ]

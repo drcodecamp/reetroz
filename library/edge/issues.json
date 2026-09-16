@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-1/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-2/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-3/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-4/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-5/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-6/manifest.json"
   }
  },
  {
@@ -241,7 +247,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-7/manifest.json"
   }
  },
  {
@@ -276,7 +283,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-8/manifest.json"
   }
  },
  {
@@ -311,7 +319,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-9/manifest.json"
   }
  },
  {
@@ -346,7 +355,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-10/manifest.json"
   }
  },
  {
@@ -381,7 +391,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-11/manifest.json"
   }
  },
  {
@@ -416,7 +427,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-12/manifest.json"
   }
  },
  {
@@ -451,7 +463,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-13/manifest.json"
   }
  },
  {
@@ -486,7 +499,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-14/manifest.json"
   }
  },
  {
@@ -521,7 +535,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-15/manifest.json"
   }
  },
  {
@@ -556,7 +571,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-16/manifest.json"
   }
  },
  {
@@ -591,7 +607,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-17/manifest.json"
   }
  },
  {
@@ -626,7 +643,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-18/manifest.json"
   }
  },
  {
@@ -661,7 +679,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-19/manifest.json"
   }
  },
  {
@@ -696,7 +715,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-20/manifest.json"
   }
  },
  {
@@ -731,7 +751,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-21/manifest.json"
   }
  },
  {
@@ -766,7 +787,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-22/manifest.json"
   }
  },
  {
@@ -801,7 +823,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-23/manifest.json"
   }
  },
  {
@@ -836,7 +859,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-199508-special-edition-1996-essential-hardware-guide.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-199508-special-edition-1996-essential-hardware-guide/manifest.json"
   }
  },
  {
@@ -871,7 +895,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-24/manifest.json"
   }
  },
  {
@@ -906,7 +931,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-25/manifest.json"
   }
  },
  {
@@ -941,7 +967,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-26/manifest.json"
   }
  },
  {
@@ -976,7 +1003,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-27/manifest.json"
   }
  },
  {
@@ -1011,7 +1039,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-28/manifest.json"
   }
  },
  {
@@ -1046,7 +1075,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-29/manifest.json"
   }
  },
  {
@@ -1081,7 +1111,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-30/manifest.json"
   }
  },
  {
@@ -1116,7 +1147,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-31/manifest.json"
   }
  },
  {
@@ -1151,7 +1183,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-32/manifest.json"
   }
  },
  {
@@ -1186,7 +1219,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-33/manifest.json"
   }
  },
  {
@@ -1221,7 +1255,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-34/manifest.json"
   }
  },
  {
@@ -1256,7 +1291,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-35/manifest.json"
   }
  },
  {
@@ -1291,7 +1327,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-36/manifest.json"
   }
  },
  {
@@ -1326,7 +1363,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-37/manifest.json"
   }
  },
  {
@@ -1361,7 +1399,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-38/manifest.json"
   }
  },
  {
@@ -1396,7 +1435,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-39/manifest.json"
   }
  },
  {
@@ -1431,7 +1471,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-40/manifest.json"
   }
  },
  {
@@ -1466,7 +1507,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-41/manifest.json"
   }
  },
  {
@@ -1501,7 +1543,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-42/manifest.json"
   }
  },
  {
@@ -1536,7 +1579,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-43/manifest.json"
   }
  },
  {
@@ -1571,7 +1615,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-44.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-44/manifest.json"
   }
  },
  {
@@ -1606,7 +1651,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-45/manifest.json"
   }
  },
  {
@@ -1641,7 +1687,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-46/manifest.json"
   }
  },
  {
@@ -1676,7 +1723,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-47/manifest.json"
   }
  },
  {
@@ -1711,7 +1759,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-48/manifest.json"
   }
  },
  {
@@ -1746,7 +1795,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-49/manifest.json"
   }
  },
  {
@@ -1781,7 +1831,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-50/manifest.json"
   }
  },
  {
@@ -1816,7 +1867,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-51/manifest.json"
   }
  },
  {
@@ -1851,7 +1903,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-52/manifest.json"
   }
  },
  {
@@ -1886,7 +1939,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-53/manifest.json"
   }
  },
  {
@@ -1921,7 +1975,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-54/manifest.json"
   }
  },
  {
@@ -1956,7 +2011,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-55/manifest.json"
   }
  },
  {
@@ -1991,7 +2047,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-56/manifest.json"
   }
  },
  {
@@ -2026,7 +2083,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-57/manifest.json"
   }
  },
  {
@@ -2061,7 +2119,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-58/manifest.json"
   }
  },
  {
@@ -2096,7 +2155,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-59/manifest.json"
   }
  },
  {
@@ -2131,7 +2191,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-60/manifest.json"
   }
  },
  {
@@ -2166,7 +2227,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-61/manifest.json"
   }
  },
  {
@@ -2201,7 +2263,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-62.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-62/manifest.json"
   }
  },
  {
@@ -2236,7 +2299,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-63/manifest.json"
   }
  },
  {
@@ -2271,7 +2335,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-64.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-64/manifest.json"
   }
  },
  {
@@ -2306,7 +2371,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-65.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-65/manifest.json"
   }
  },
  {
@@ -2341,7 +2407,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-66.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-66/manifest.json"
   }
  },
  {
@@ -2376,7 +2443,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-67.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-67/manifest.json"
   }
  },
  {
@@ -2411,7 +2479,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-68.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-68/manifest.json"
   }
  },
  {
@@ -2446,7 +2515,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-69/manifest.json"
   }
  },
  {
@@ -2481,7 +2551,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-70.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-70/manifest.json"
   }
  },
  {
@@ -2516,7 +2587,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-71/manifest.json"
   }
  },
  {
@@ -2551,7 +2623,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-72.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-72/manifest.json"
   }
  },
  {
@@ -2586,7 +2659,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-73/manifest.json"
   }
  },
  {
@@ -2621,7 +2695,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-74/manifest.json"
   }
  },
  {
@@ -2656,7 +2731,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-75/manifest.json"
   }
  },
  {
@@ -2691,7 +2767,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-77.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-77/manifest.json"
   }
  },
  {
@@ -2726,7 +2803,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-76.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-76/manifest.json"
   }
  },
  {
@@ -2761,7 +2839,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-78.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-78/manifest.json"
   }
  },
  {
@@ -2796,7 +2875,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-79/manifest.json"
   }
  },
  {
@@ -2831,7 +2911,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-80/manifest.json"
   }
  },
  {
@@ -2866,7 +2947,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-81/manifest.json"
   }
  },
  {
@@ -2901,7 +2983,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-82/manifest.json"
   }
  },
  {
@@ -2936,7 +3019,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-83/manifest.json"
   }
  },
  {
@@ -2971,7 +3055,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-84/manifest.json"
   }
  },
  {
@@ -3006,7 +3091,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-85/manifest.json"
   }
  },
  {
@@ -3041,7 +3127,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-86/manifest.json"
   }
  },
  {
@@ -3076,7 +3163,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-87/manifest.json"
   }
  },
  {
@@ -3111,7 +3199,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-88/manifest.json"
   }
  },
  {
@@ -3146,7 +3235,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-89/manifest.json"
   }
  },
  {
@@ -3181,7 +3271,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-90/manifest.json"
   }
  },
  {
@@ -3216,7 +3307,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-91/manifest.json"
   }
  },
  {
@@ -3251,7 +3343,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-92/manifest.json"
   }
  },
  {
@@ -3286,7 +3379,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-2001-special-collectors-edition-2001.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-2001-special-collectors-edition-2001/manifest.json"
   }
  },
  {
@@ -3321,7 +3415,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-93/manifest.json"
   }
  },
  {
@@ -3356,7 +3451,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-94/manifest.json"
   }
  },
  {
@@ -3391,7 +3487,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-95/manifest.json"
   }
  },
  {
@@ -3426,7 +3523,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-96/manifest.json"
   }
  },
  {
@@ -3461,7 +3559,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-97/manifest.json"
   }
  },
  {
@@ -3496,7 +3595,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-98.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-98/manifest.json"
   }
  },
  {
@@ -3531,7 +3631,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-99.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-99/manifest.json"
   }
  },
  {
@@ -3566,7 +3667,8 @@
   "updated_at": "2026-09-14T09:33:14+00:00",
   "assets": {
    "cover": "covers/edge-100.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/edge-100/manifest.json"
   }
  }
 ]

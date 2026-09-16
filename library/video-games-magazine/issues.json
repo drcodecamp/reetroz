@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/video-games-magazine-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-3/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-4/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-5/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-6/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-7/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-8/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-9/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-10/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-11/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-12/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-1-2/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-2/manifest.json"
   }
  },
  {
@@ -488,7 +501,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/video-games-magazine-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-2-2/manifest.json"
   }
  },
  {
@@ -523,7 +537,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-3-2/manifest.json"
   }
  },
  {
@@ -558,7 +573,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-4-2/manifest.json"
   }
  },
  {
@@ -593,7 +609,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-5-2/manifest.json"
   }
  },
  {
@@ -628,7 +645,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-6-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-6-2/manifest.json"
   }
  },
  {
@@ -663,7 +681,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-7-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-7-2/manifest.json"
   }
  },
  {
@@ -698,7 +717,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-8-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-8-2/manifest.json"
   }
  },
  {
@@ -733,7 +753,8 @@
   "updated_at": "2026-09-14T09:36:05+00:00",
   "assets": {
    "cover": "covers/video-games-magazine-9-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/video-games-magazine-9-2/manifest.json"
   }
  }
 ]

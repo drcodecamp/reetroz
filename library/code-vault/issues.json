@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200109-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200109-code-vault/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200112-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200112-code-vault/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200202-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200202-code-vault/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200204-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200204-code-vault/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200206-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200206-code-vault/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200208-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200208-code-vault/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200209-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200209-code-vault/manifest.json"
   }
  },
  {
@@ -278,7 +285,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200211-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200211-code-vault/manifest.json"
   }
  },
  {
@@ -314,7 +322,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200301-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200301-code-vault/manifest.json"
   }
  },
  {
@@ -350,7 +359,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200303-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200303-code-vault/manifest.json"
   }
  },
  {
@@ -386,7 +396,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200305-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200305-code-vault/manifest.json"
   }
  },
  {
@@ -421,7 +432,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200307-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200307-code-vault/manifest.json"
   }
  },
  {
@@ -456,7 +468,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200308-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200308-code-vault/manifest.json"
   }
  },
  {
@@ -491,7 +504,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200309-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200309-code-vault/manifest.json"
   }
  },
  {
@@ -526,7 +540,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200310-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200310-code-vault/manifest.json"
   }
  },
  {
@@ -561,7 +576,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200311-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200311-code-vault/manifest.json"
   }
  },
  {
@@ -596,7 +612,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200312-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200312-code-vault/manifest.json"
   }
  },
  {
@@ -631,7 +648,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200401-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200401-code-vault/manifest.json"
   }
  },
  {
@@ -666,7 +684,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200402-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200402-code-vault/manifest.json"
   }
  },
  {
@@ -701,7 +720,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200403-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200403-code-vault/manifest.json"
   }
  },
  {
@@ -737,7 +757,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200405-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200405-code-vault/manifest.json"
   }
  },
  {
@@ -773,7 +794,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200408-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200408-code-vault/manifest.json"
   }
  },
  {
@@ -809,7 +831,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200410-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200410-code-vault/manifest.json"
   }
  },
  {
@@ -844,7 +867,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200503-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200503-code-vault/manifest.json"
   }
  },
  {
@@ -879,7 +903,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200509-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200509-code-vault/manifest.json"
   }
  },
  {
@@ -914,7 +939,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200512-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200512-code-vault/manifest.json"
   }
  },
  {
@@ -949,7 +975,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200603-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200603-code-vault/manifest.json"
   }
  },
  {
@@ -984,7 +1011,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200609-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200609-code-vault/manifest.json"
   }
  },
  {
@@ -1019,7 +1047,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200612-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200612-code-vault/manifest.json"
   }
  },
  {
@@ -1054,7 +1083,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200703-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200703-code-vault/manifest.json"
   }
  },
  {
@@ -1089,7 +1119,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200706-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200706-code-vault/manifest.json"
   }
  },
  {
@@ -1124,7 +1155,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200709-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200709-code-vault/manifest.json"
   }
  },
  {
@@ -1159,7 +1191,8 @@
   "updated_at": "2026-09-14T09:33:11+00:00",
   "assets": {
    "cover": "covers/code-vault-200712-code-vault.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/code-vault-200712-code-vault/manifest.json"
   }
  }
 ]

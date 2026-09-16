@@ -164,15 +164,22 @@ def main() -> int:
     if not jobs:
         ap.error("nothing to upload; pass --covers, --issue, --all-rendered or --prune")
 
-    # de-dupe by key and skip objects already present with same size
+    # de-dupe by key. Targeted --issue/--publication uploads overwrite immediately
+    # instead of listing the whole bucket (that inventory now takes 10–20 min).
     unique = {key: (path, cc) for path, key, cc in jobs}
-    prefixes = {k.split("/", 1)[0] + "/" for k in unique}
-    remote: dict[str, int] = {}
-    for prefix in prefixes:
-        remote.update(existing_sizes(s3, bucket, prefix))
-    todo = [(path, key, cc) for key, (path, cc) in unique.items() if remote.get(key) != path.stat().st_size]
-    total_bytes = sum(p.stat().st_size for p, _, _ in todo)
-    print(f"{len(unique)} objects planned, {len(unique) - len(todo)} already in bucket, uploading {len(todo)} ({total_bytes / 1e6:.1f} MB)", flush=True)
+    targeted = bool(args.issue or args.publication) and not args.prune
+    if targeted:
+        todo = [(path, key, cc) for key, (path, cc) in unique.items()]
+        total_bytes = sum(p.stat().st_size for p, _, _ in todo)
+        print(f"uploading {len(todo)} objects ({total_bytes / 1e6:.1f} MB), overwrite, no bucket list", flush=True)
+    else:
+        prefixes = {k.split("/", 1)[0] + "/" for k in unique}
+        remote: dict[str, int] = {}
+        for prefix in prefixes:
+            remote.update(existing_sizes(s3, bucket, prefix))
+        todo = [(path, key, cc) for key, (path, cc) in unique.items() if remote.get(key) != path.stat().st_size]
+        total_bytes = sum(p.stat().st_size for p, _, _ in todo)
+        print(f"{len(unique)} objects planned, {len(unique) - len(todo)} already in bucket, uploading {len(todo)} ({total_bytes / 1e6:.1f} MB)", flush=True)
 
     def put(job: tuple[Path, str, str]) -> int:
         path, key, cc = job

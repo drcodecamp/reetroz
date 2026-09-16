@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-13/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-14/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-15/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-20/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-21/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-22/manifest.json"
   }
  },
  {
@@ -241,7 +247,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-23/manifest.json"
   }
  },
  {
@@ -276,7 +283,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-20140912-launch-day-magazine-naruto-shippuden-ultimate-ni.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-20140912-launch-day-magazine-naruto-shippuden-ultimate-ni/manifest.json"
   }
  },
  {
@@ -311,7 +319,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-20140923-launch-day-magazine-disney-infinity-2-0.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-20140923-launch-day-magazine-disney-infinity-2-0/manifest.json"
   }
  },
  {
@@ -346,7 +355,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-24/manifest.json"
   }
  },
  {
@@ -381,7 +391,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-20141007-launch-day-magazine-alien-isolation.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-20141007-launch-day-magazine-alien-isolation/manifest.json"
   }
  },
  {
@@ -416,7 +427,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-20141028-launch-day-magazine-sunset-overdrive.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-20141028-launch-day-magazine-sunset-overdrive/manifest.json"
   }
  },
  {
@@ -451,7 +463,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-25/manifest.json"
   }
  },
  {
@@ -486,7 +499,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-26/manifest.json"
   }
  },
  {
@@ -521,7 +535,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-27/manifest.json"
   }
  },
  {
@@ -556,7 +571,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-28/manifest.json"
   }
  },
  {
@@ -591,7 +607,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-29/manifest.json"
   }
  },
  {
@@ -626,7 +643,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-30/manifest.json"
   }
  },
  {
@@ -661,7 +679,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-31/manifest.json"
   }
  },
  {
@@ -696,7 +715,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-32/manifest.json"
   }
  },
  {
@@ -731,7 +751,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-33/manifest.json"
   }
  },
  {
@@ -766,7 +787,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-35/manifest.json"
   }
  },
  {
@@ -801,7 +823,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-36/manifest.json"
   }
  },
  {
@@ -836,7 +859,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-39/manifest.json"
   }
  },
  {
@@ -871,7 +895,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-40/manifest.json"
   }
  },
  {
@@ -906,7 +931,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-45/manifest.json"
   }
  },
  {
@@ -941,7 +967,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-1/manifest.json"
   }
  },
  {
@@ -976,7 +1003,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2017-walmart-parents-guide-to-video-games.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2017-walmart-parents-guide-to-video-games/manifest.json"
   }
  },
  {
@@ -1011,7 +1039,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-46/manifest.json"
   }
  },
  {
@@ -1046,7 +1075,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-47/manifest.json"
   }
  },
  {
@@ -1081,7 +1111,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-48/manifest.json"
   }
  },
  {
@@ -1116,7 +1147,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2/manifest.json"
   }
  },
  {
@@ -1151,7 +1183,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-52/manifest.json"
   }
  },
  {
@@ -1186,7 +1219,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-53/manifest.json"
   }
  },
  {
@@ -1221,7 +1255,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-3/manifest.json"
   }
  },
  {
@@ -1256,7 +1291,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-4/manifest.json"
   }
  },
  {
@@ -1291,7 +1327,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-5/manifest.json"
   }
  },
  {
@@ -1326,7 +1363,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-59/manifest.json"
   }
  },
  {
@@ -1361,7 +1399,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-60/manifest.json"
   }
  },
  {
@@ -1396,7 +1435,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-61/manifest.json"
   }
  },
  {
@@ -1431,7 +1471,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2018-walmart-parents-guide-to-video-games.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2018-walmart-parents-guide-to-video-games/manifest.json"
   }
  },
  {
@@ -1467,7 +1508,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-54/manifest.json"
   }
  },
  {
@@ -1502,7 +1544,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-55/manifest.json"
   }
  },
  {
@@ -1537,7 +1580,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-56/manifest.json"
   }
  },
  {
@@ -1573,7 +1617,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-57/manifest.json"
   }
  },
  {
@@ -1609,7 +1654,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-58/manifest.json"
   }
  },
  {
@@ -1644,7 +1690,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2019-walmart-parents-guide-to-video-games.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2019-walmart-parents-guide-to-video-games/manifest.json"
   }
  },
  {
@@ -1680,7 +1727,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-62.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-62/manifest.json"
   }
  },
  {
@@ -1715,7 +1763,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-6/manifest.json"
   }
  },
  {
@@ -1750,7 +1799,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-63/manifest.json"
   }
  },
  {
@@ -1785,7 +1835,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-7/manifest.json"
   }
  },
  {
@@ -1820,7 +1871,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-64.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-64/manifest.json"
   }
  },
  {
@@ -1855,7 +1907,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-8/manifest.json"
   }
  },
  {
@@ -1890,7 +1943,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-65.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-65/manifest.json"
   }
  },
  {
@@ -1925,7 +1979,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-9/manifest.json"
   }
  },
  {
@@ -1960,7 +2015,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-66.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-66/manifest.json"
   }
  },
  {
@@ -1995,7 +2051,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-67.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-67/manifest.json"
   }
  },
  {
@@ -2030,7 +2087,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2020-walmart-parents-guide-to-video-games.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2020-walmart-parents-guide-to-video-games/manifest.json"
   }
  },
  {
@@ -2065,7 +2123,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-68.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-68/manifest.json"
   }
  },
  {
@@ -2100,7 +2159,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-69/manifest.json"
   }
  },
  {
@@ -2136,7 +2196,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-70.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-70/manifest.json"
   }
  },
  {
@@ -2171,7 +2232,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-10/manifest.json"
   }
  },
  {
@@ -2206,7 +2268,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-11/manifest.json"
   }
  },
  {
@@ -2242,7 +2305,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-71/manifest.json"
   }
  },
  {
@@ -2277,7 +2341,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-12/manifest.json"
   }
  },
  {
@@ -2312,7 +2377,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-73/manifest.json"
   }
  },
  {
@@ -2347,7 +2413,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2021-walmart-parents-guide-to-video-games.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2021-walmart-parents-guide-to-video-games/manifest.json"
   }
  },
  {
@@ -2382,7 +2449,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-74/manifest.json"
   }
  },
  {
@@ -2418,7 +2486,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-75/manifest.json"
   }
  },
  {
@@ -2453,7 +2522,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-13-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-13-2/manifest.json"
   }
  },
  {
@@ -2488,7 +2558,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-79/manifest.json"
   }
  },
  {
@@ -2523,7 +2594,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-80/manifest.json"
   }
  },
  {
@@ -2558,7 +2630,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2022-walmart-parents-guide-to-video-games.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2022-walmart-parents-guide-to-video-games/manifest.json"
   }
  },
  {
@@ -2593,7 +2666,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-81/manifest.json"
   }
  },
  {
@@ -2629,7 +2703,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-82/manifest.json"
   }
  },
  {
@@ -2664,7 +2739,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-83/manifest.json"
   }
  },
  {
@@ -2699,7 +2775,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-84/manifest.json"
   }
  },
  {
@@ -2735,7 +2812,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-85/manifest.json"
   }
  },
  {
@@ -2770,7 +2848,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-86/manifest.json"
   }
  },
  {
@@ -2805,7 +2884,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-87/manifest.json"
   }
  },
  {
@@ -2840,7 +2920,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-88/manifest.json"
   }
  },
  {
@@ -2875,7 +2956,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-89/manifest.json"
   }
  },
  {
@@ -2910,7 +2992,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-90/manifest.json"
   }
  },
  {
@@ -2945,7 +3028,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-2023-walmart-parents-guide-to-video-games.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-2023-walmart-parents-guide-to-video-games/manifest.json"
   }
  },
  {
@@ -2980,7 +3064,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-91/manifest.json"
   }
  },
  {
@@ -3016,7 +3101,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-92/manifest.json"
   }
  },
  {
@@ -3052,7 +3138,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-93/manifest.json"
   }
  },
  {
@@ -3087,7 +3174,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-94/manifest.json"
   }
  },
  {
@@ -3122,7 +3210,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-95/manifest.json"
   }
  },
  {
@@ -3157,7 +3246,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-96/manifest.json"
   }
  },
  {
@@ -3192,7 +3282,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-97/manifest.json"
   }
  },
  {
@@ -3227,7 +3318,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-14-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-14-2/manifest.json"
   }
  },
  {
@@ -3262,7 +3354,8 @@
   "updated_at": "2026-09-14T09:36:07+00:00",
   "assets": {
    "cover": "covers/walmart-gamecenter-072.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/walmart-gamecenter-072/manifest.json"
   }
  }
 ]

@@ -4,8 +4,8 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 38 | 2,991 | 369,151 |
-| Left — PDFs on disk | 35 | 1,637 | 148,642 |
+| Done (readable on R2) | 69 | 4,213 | 477,920 |
+| Left — PDFs on disk | 4 | 415 | 39,873 |
 | Left — no local PDFs (stubs) | 27 | — | — |
 | Left — no `publication.json` | 16 | — | — |
 
@@ -25,8 +25,32 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 - [x] Official U.S. PlayStation Magazine (`official-us-playstation-magazine`) — 113 issues / 15,850 pages
 - [x] PSM (`psm`) — 131 issues / 15,277 pages
 - [x] Official Xbox Magazine (`official-xbox-magazine`) — 139 issues / 14,922 pages
+- [x] Next Generation / NextGen (`next-generation`) — 85 issues / 12,052 pages
+- [x] Edge (`edge`) — 102 issues / 11,477 pages
 - [x] PC Games / Electronic Entertainment (`pc-games`) — 75 issues / 9,142 pages
 - [x] PlayStation: The Official Magazine (`playstation-the-official-magazine`) — 64 issues / 6,664 pages
+- [x] VideoGames & Computer Entertainment (`videogames-computer-entertainment`) — 93 issues / 10,908 pages
+- [x] Computer Game Review (`computer-game-review`) — 66 issues / 7,524 pages
+- [x] PSExtreme / Dimension PS-X / PSE2 (`psextreme`) — 74 issues / 6,124 pages
+- [x] The Journal of Computer Game Design (`journal-of-computer-game-design`) — 56 issues / 890 pages
+- [x] Arcade Express / Electronic Games Hotline (`arcade-express`) — 53 issues / 424 pages
+- [x] Super Play (`super-play`) — 48 issues / 4,542 pages
+- [x] Electronic Games (`electronic-games`) — 41 issues / 4,338 pages
+- [x] Mean Machines Sega (`mean-machines-sega`) — 35 issues / 4,090 pages
+- [x] Develop (`develop`) — 36 issues / 2,199 pages
+- [x] Nintendo newsletters (`nintendo-newsletters`) — 42 issues / 1,038 pages
+- [x] Walmart GameCenter (`walmart-gamecenter`) — 93 issues / 4,807 pages
+- [x] CD-ROM Today (`cd-rom-today`) — 28 issues / 3,844 pages
+- [x] Code Vault (`code-vault`) — 33 issues / 3,588 pages
+- [x] Total! (`total`) — 30 issues / 3,020 pages
+- [x] InterAction / Sierra News Magazine (`interaction`) — 28 issues / 2,657 pages
+- [x] E3 Show Daily (`e3-show-daily`) — 29 issues / 1,909 pages
+- [x] DieHard GameFan (`diehard-gamefan`) — 21 issues / 2,622 pages
+- [x] Sega Visions (`sega-visions`) — 25 issues / 2,429 pages
+- [x] Neopets The Official Magazine (`neopets-magazine`) — 26 issues / 2,222 pages
+- [x] MegaTech (`megatech`) — 23 issues / 2,164 pages
+- [x] Computer Player (`computer-player`) — 20 issues / 2,108 pages
+- [x] Video Games (`video-games-magazine`) — 21 issues / 1,766 pages
 - [x] @Gamer (`atgamer`) — 32 issues / 3,238 pages
 - [x] Surge (`surge`) — 4 issues / 512 pages
 - [x] Vidiot (`vidiot`) — 5 issues / 325 pages
@@ -51,16 +75,20 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 - [x] Blip (`blip`) — 7 issues / 248 pages
 - [x] Odyssey Adventure (`odyssey-adventure`) — 7 issues / 84 pages
 - [x] Activisions (`activisions`) — 10 issues / 53 pages
-
+- [x] Incite Video Gaming / Incite PC Gaming (`incite`) — 18 issues / 2,732 pages
+- [x] Xbox Nation (`xbox-nation`) — 19 issues / 2,196 pages
+- [x] P.S.X. (`psx`) — 17 issues / 1,509 pages
+- [x] Internet Underground (`internet-underground`) — 15 issues / 1,286 pages
+- [x] Casual Connect (`casual-connect`) — 15 issues / 1,028 pages
+- [x] Videogame Advisor (`videogame-advisor`) — 15 issues / 917 pages
+- [x] The Logical Gamer (`the-logical-gamer`) — 16 issues / 359 pages
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
 
 ---
 
 ## Left — PDFs on disk (fewest issues first)
 
-35 titles left. Ordered least issues → most.
-
-Crash mid-batch 5 upload. Resuming: finish Videogame Advisor + Casual Connect upload, then remaining ≤20 titles. Stop before Video Games (21).
+Encoding the last four PDF titles: Play US, Hyper, Computer Entertainer, Strategy Plus.
 
 - [x] PS Max (`ps-max`) — 1 issue / 100 pages
 - [x] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
@@ -85,41 +113,41 @@ Crash mid-batch 5 upload. Resuming: finish Videogame Advisor + Casual Connect up
 - [x] Pocket Games (`pocket-games`) — 13 issues / 1,302 pages
 - [x] Videogaming & Computergaming Illustrated (`videogaming-illustrated`) — 14 issues / 1,126 pages
 - [x] Official Sega Dreamcast Magazine (US) (`official-dreamcast-magazine-us`) — 14 issues / 1,596 pages
-- [ ] Videogame Advisor (`videogame-advisor`) — 15 issues / 917 pages — **uploading**
-- [ ] Casual Connect (`casual-connect`) — 15 issues / 1,028 pages — **uploading**
-- [ ] Internet Underground (`internet-underground`) — 15 issues / 1,286 pages
-- [ ] The Logical Gamer (`the-logical-gamer`) — 16 issues / 359 pages
-- [ ] P.S.X. (`psx`) — 17 issues / 1,509 pages
-- [ ] Incite Video Gaming / Incite PC Gaming (`incite`) — 18 issues / 2,732 pages
-- [ ] Xbox Nation (`xbox-nation`) — 19 issues / 2,196 pages
-- [ ] Computer Player (`computer-player`) — 20 issues / 2,108 pages
-- [ ] Video Games (`video-games-magazine`) — 21 issues / 1,766 pages
-- [ ] DieHard GameFan (`diehard-gamefan`) — 21 issues / 2,622 pages
-- [ ] MegaTech (`megatech`) — 23 issues / 2,164 pages
-- [ ] Sega Visions (`sega-visions`) — 25 issues / 2,429 pages
-- [ ] Neopets The Official Magazine (`neopets-magazine`) — 26 issues / 2,222 pages
-- [ ] InterAction / Sierra News Magazine (`interaction`) — 28 issues / 2,657 pages
-- [ ] CD-ROM Today (`cd-rom-today`) — 28 issues / 3,844 pages
-- [ ] E3 Show Daily (`e3-show-daily`) — 29 issues / 1,909 pages
-- [ ] Total! (`total`) — 30 issues / 3,020 pages
-- [ ] Code Vault (`code-vault`) — 33 issues / 3,588 pages
-- [ ] Mean Machines Sega (`mean-machines-sega`) — 35 issues / 4,090 pages
-- [ ] Develop (`develop`) — 36 issues / 2,199 pages
-- [ ] Electronic Games (`electronic-games`) — 41 issues / 4,338 pages
-- [ ] Nintendo newsletters (`nintendo-newsletters`) — 42 issues / 1,038 pages
-- [ ] Super Play (`super-play`) — 48 issues / 4,542 pages
-- [ ] Arcade Express / Electronic Games Hotline (`arcade-express`) — 53 issues / 424 pages
-- [ ] The Journal of Computer Game Design (`journal-of-computer-game-design`) — 56 issues / 890 pages
-- [ ] Computer Game Review (`computer-game-review`) — 66 issues / 7,524 pages
-- [ ] PSExtreme / Dimension PS-X / PSE2 (`psextreme`) — 74 issues / 6,124 pages
-- [ ] Next Generation / NextGen (`next-generation`) — 85 issues / 12,052 pages
-- [ ] Walmart GameCenter (`walmart-gamecenter`) — 93 issues / 4,807 pages
-- [ ] VideoGames & Computer Entertainment (`videogames-computer-entertainment`) — 93 issues / 10,908 pages
-- [ ] Play (US) (`play-us`) — 97 issues / 10,669 pages
-- [ ] Hyper (`hyper`) — 98 issues / 9,384 pages
-- [ ] Computer Entertainer (`computer-entertainer`) — 102 issues / 1,510 pages
-- [ ] Edge (`edge`) — 102 issues / 11,477 pages
-- [ ] Computer Games Strategy Plus (`computer-games-strategy-plus`) — 117 issues / 14,310 pages
+- [x] Videogame Advisor (`videogame-advisor`) — 15 issues / 917 pages
+- [x] Casual Connect (`casual-connect`) — 15 issues / 1,028 pages
+- [x] Internet Underground (`internet-underground`) — 15 issues / 1,286 pages
+- [x] The Logical Gamer (`the-logical-gamer`) — 16 issues / 359 pages
+- [x] P.S.X. (`psx`) — 17 issues / 1,509 pages
+- [x] Incite Video Gaming / Incite PC Gaming (`incite`) — 18 issues / 2,732 pages
+- [x] Xbox Nation (`xbox-nation`) — 19 issues / 2,196 pages
+- [x] Computer Player (`computer-player`) — 20 issues / 2,108 pages
+- [x] Video Games (`video-games-magazine`) — 21 issues / 1,766 pages
+- [x] DieHard GameFan (`diehard-gamefan`) — 21 issues / 2,622 pages
+- [x] MegaTech (`megatech`) — 23 issues / 2,164 pages
+- [x] Sega Visions (`sega-visions`) — 25 issues / 2,429 pages
+- [x] Neopets The Official Magazine (`neopets-magazine`) — 26 issues / 2,222 pages
+- [x] InterAction / Sierra News Magazine (`interaction`) — 28 issues / 2,657 pages
+- [x] CD-ROM Today (`cd-rom-today`) — 28 issues / 3,844 pages
+- [x] E3 Show Daily (`e3-show-daily`) — 29 issues / 1,909 pages
+- [x] Total! (`total`) — 30 issues / 3,020 pages
+- [x] Code Vault (`code-vault`) — 33 issues / 3,588 pages
+- [x] Mean Machines Sega (`mean-machines-sega`) — 35 issues / 4,090 pages
+- [x] Develop (`develop`) — 36 issues / 2,199 pages
+- [x] Electronic Games (`electronic-games`) — 41 issues / 4,338 pages
+- [x] Nintendo newsletters (`nintendo-newsletters`) — 42 issues / 1,038 pages
+- [x] Super Play (`super-play`) — 48 issues / 4,542 pages
+- [x] Arcade Express / Electronic Games Hotline (`arcade-express`) — 53 issues / 424 pages
+- [x] The Journal of Computer Game Design (`journal-of-computer-game-design`) — 56 issues / 890 pages
+- [x] Computer Game Review (`computer-game-review`) — 66 issues / 7,524 pages
+- [x] PSExtreme / Dimension PS-X / PSE2 (`psextreme`) — 74 issues / 6,124 pages
+- [x] Next Generation / NextGen (`next-generation`) — 85 issues / 12,052 pages
+- [x] Walmart GameCenter (`walmart-gamecenter`) — 93 issues / 4,807 pages
+- [x] VideoGames & Computer Entertainment (`videogames-computer-entertainment`) — 93 issues / 10,908 pages
+- [ ] Play (US) (`play-us`) — 97 issues / 10,669 pages — **encoding**
+- [ ] Hyper (`hyper`) — 98 issues / 9,384 pages — **encoding**
+- [ ] Computer Entertainer (`computer-entertainer`) — 102 issues / 1,510 pages — **encoding**
+- [x] Edge (`edge`) — 102 issues / 11,477 pages
+- [ ] Computer Games Strategy Plus (`computer-games-strategy-plus`) — 117 issues / 14,310 pages — **encoding**
 
 ---
 

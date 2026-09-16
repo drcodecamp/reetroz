@@ -32,7 +32,8 @@
   "special": "Premiere issue",
   "assets": {
    "cover": "covers/computer-game-review-199006-computer-fun-games-premiere-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-199006-computer-fun-games-premiere-issue/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-2/manifest.json"
   }
  },
  {
@@ -103,7 +105,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/computer-game-review-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-1/manifest.json"
   }
  },
  {
@@ -138,7 +141,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-2-2/manifest.json"
   }
  },
  {
@@ -173,7 +177,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-3/manifest.json"
   }
  },
  {
@@ -208,7 +213,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-4/manifest.json"
   }
  },
  {
@@ -243,7 +249,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-5/manifest.json"
   }
  },
  {
@@ -278,7 +285,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-6/manifest.json"
   }
  },
  {
@@ -313,7 +321,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-7/manifest.json"
   }
  },
  {
@@ -348,7 +357,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-8/manifest.json"
   }
  },
  {
@@ -383,7 +393,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-9/manifest.json"
   }
  },
  {
@@ -418,7 +429,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-10/manifest.json"
   }
  },
  {
@@ -453,7 +465,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-11/manifest.json"
   }
  },
  {
@@ -488,7 +501,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-12/manifest.json"
   }
  },
  {
@@ -523,7 +537,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-13/manifest.json"
   }
  },
  {
@@ -558,7 +573,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-14/manifest.json"
   }
  },
  {
@@ -593,7 +609,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-15/manifest.json"
   }
  },
  {
@@ -628,7 +645,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-16/manifest.json"
   }
  },
  {
@@ -663,7 +681,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-17/manifest.json"
   }
  },
  {
@@ -698,7 +717,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-18/manifest.json"
   }
  },
  {
@@ -733,7 +753,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-19/manifest.json"
   }
  },
  {
@@ -768,7 +789,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-20/manifest.json"
   }
  },
  {
@@ -803,7 +825,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-21/manifest.json"
   }
  },
  {
@@ -838,7 +861,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-22/manifest.json"
   }
  },
  {
@@ -873,7 +897,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-23/manifest.json"
   }
  },
  {
@@ -908,7 +933,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-24/manifest.json"
   }
  },
  {
@@ -943,7 +969,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-25/manifest.json"
   }
  },
  {
@@ -978,7 +1005,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-26/manifest.json"
   }
  },
  {
@@ -1013,7 +1041,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-27/manifest.json"
   }
  },
  {
@@ -1048,7 +1077,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-28/manifest.json"
   }
  },
  {
@@ -1083,7 +1113,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-29/manifest.json"
   }
  },
  {
@@ -1118,7 +1149,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-30/manifest.json"
   }
  },
  {
@@ -1153,7 +1185,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-31/manifest.json"
   }
  },
  {
@@ -1188,7 +1221,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-32/manifest.json"
   }
  },
  {
@@ -1223,7 +1257,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-33/manifest.json"
   }
  },
  {
@@ -1259,7 +1294,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/computer-game-review-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-1-2/manifest.json"
   }
  },
  {
@@ -1294,7 +1330,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-34/manifest.json"
   }
  },
  {
@@ -1329,7 +1366,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-35/manifest.json"
   }
  },
  {
@@ -1364,7 +1402,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-199406-cd-rom-entertainment.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-199406-cd-rom-entertainment/manifest.json"
   }
  },
  {
@@ -1399,7 +1438,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-36/manifest.json"
   }
  },
  {
@@ -1434,7 +1474,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-199407-cd-rom-entertainment.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-199407-cd-rom-entertainment/manifest.json"
   }
  },
  {
@@ -1469,7 +1510,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-37/manifest.json"
   }
  },
  {
@@ -1504,7 +1546,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-199408-cd-rom-entertainment.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-199408-cd-rom-entertainment/manifest.json"
   }
  },
  {
@@ -1539,7 +1582,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-38/manifest.json"
   }
  },
  {
@@ -1574,7 +1618,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-199409-cd-rom-entertainment.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-199409-cd-rom-entertainment/manifest.json"
   }
  },
  {
@@ -1609,7 +1654,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-39/manifest.json"
   }
  },
  {
@@ -1644,7 +1690,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-40/manifest.json"
   }
  },
  {
@@ -1679,7 +1726,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-41/manifest.json"
   }
  },
  {
@@ -1714,7 +1762,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-42/manifest.json"
   }
  },
  {
@@ -1749,7 +1798,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-43/manifest.json"
   }
  },
  {
@@ -1784,7 +1834,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-44.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-44/manifest.json"
   }
  },
  {
@@ -1819,7 +1870,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-45/manifest.json"
   }
  },
  {
@@ -1854,7 +1906,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-46/manifest.json"
   }
  },
  {
@@ -1889,7 +1942,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-47/manifest.json"
   }
  },
  {
@@ -1924,7 +1978,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-48/manifest.json"
   }
  },
  {
@@ -1959,7 +2014,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-49/manifest.json"
   }
  },
  {
@@ -1994,7 +2050,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-50/manifest.json"
   }
  },
  {
@@ -2029,7 +2086,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-51/manifest.json"
   }
  },
  {
@@ -2064,7 +2122,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-52/manifest.json"
   }
  },
  {
@@ -2099,7 +2158,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-53/manifest.json"
   }
  },
  {
@@ -2134,7 +2194,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-54/manifest.json"
   }
  },
  {
@@ -2169,7 +2230,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-55/manifest.json"
   }
  },
  {
@@ -2204,7 +2266,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-56/manifest.json"
   }
  },
  {
@@ -2239,7 +2302,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-57/manifest.json"
   }
  },
  {
@@ -2274,7 +2338,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-58/manifest.json"
   }
  },
  {
@@ -2309,7 +2374,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-game-review-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-game-review-59/manifest.json"
   }
  }
 ]

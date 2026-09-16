@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-1/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-2/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-3/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-4/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-5/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-6/manifest.json"
   }
  },
  {
@@ -241,7 +247,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-7/manifest.json"
   }
  },
  {
@@ -276,7 +283,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-8/manifest.json"
   }
  },
  {
@@ -311,7 +319,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-9/manifest.json"
   }
  },
  {
@@ -346,7 +355,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-10/manifest.json"
   }
  },
  {
@@ -381,7 +391,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-11/manifest.json"
   }
  },
  {
@@ -416,7 +427,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-12/manifest.json"
   }
  },
  {
@@ -451,7 +463,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-13/manifest.json"
   }
  },
  {
@@ -486,7 +499,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-14/manifest.json"
   }
  },
  {
@@ -521,7 +535,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-15/manifest.json"
   }
  },
  {
@@ -556,7 +571,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-16/manifest.json"
   }
  },
  {
@@ -591,7 +607,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-17/manifest.json"
   }
  },
  {
@@ -626,7 +643,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-18/manifest.json"
   }
  },
  {
@@ -661,7 +679,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-19/manifest.json"
   }
  },
  {
@@ -696,7 +715,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-21/manifest.json"
   }
  },
  {
@@ -731,7 +751,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-22/manifest.json"
   }
  },
  {
@@ -766,7 +787,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-23/manifest.json"
   }
  },
  {
@@ -801,7 +823,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-24/manifest.json"
   }
  },
  {
@@ -836,7 +859,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-25/manifest.json"
   }
  },
  {
@@ -871,7 +895,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-26/manifest.json"
   }
  },
  {
@@ -906,7 +931,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-27/manifest.json"
   }
  },
  {
@@ -941,7 +967,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-28/manifest.json"
   }
  },
  {
@@ -976,7 +1003,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-29/manifest.json"
   }
  },
  {
@@ -1011,7 +1039,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-30/manifest.json"
   }
  },
  {
@@ -1046,7 +1075,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-31/manifest.json"
   }
  },
  {
@@ -1081,7 +1111,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-38/manifest.json"
   }
  },
  {
@@ -1116,7 +1147,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-41/manifest.json"
   }
  },
  {
@@ -1151,7 +1183,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-48/manifest.json"
   }
  },
  {
@@ -1186,7 +1219,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-49/manifest.json"
   }
  },
  {
@@ -1221,7 +1255,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/mean-machines-sega-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/mean-machines-sega-50/manifest.json"
   }
  }
 ]
