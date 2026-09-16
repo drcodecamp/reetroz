@@ -4,8 +4,8 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 25 | 2,865 | 362,745 |
-| Left — PDFs on disk | 48 | 1,763 | 155,048 |
+| Done (readable on R2) | 38 | 2,991 | 369,151 |
+| Left — PDFs on disk | 35 | 1,637 | 148,642 |
 | Left — no local PDFs (stubs) | 27 | — | — |
 | Left — no `publication.json` | 16 | — | — |
 
@@ -38,6 +38,19 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 - [x] 3DO Club News (`3do-club-news`) — 5 issues / 104 pages
 - [x] PS Max (`ps-max`) — 1 issue / 100 pages
 - [x] Imagine Town Magazine / Game Candy (`imagine-town`) — 3 issues / 60 pages
+- [x] Official Sega Dreamcast Magazine (US) (`official-dreamcast-magazine-us`) — 14 issues / 1,596 pages
+- [x] Multimedia World (`multimedia-world`) — 10 issues / 1,398 pages
+- [x] Pocket Games (`pocket-games`) — 13 issues / 1,302 pages
+- [x] Mega (`mega`) — 12 issues / 1,248 pages
+- [x] NewMedia (`newmedia`) — 10 issues / 1,182 pages
+- [x] Videogaming & Computergaming Illustrated (`videogaming-illustrated`) — 14 issues / 1,126 pages
+- [x] Q64 (`q64`) — 6 issues / 712 pages
+- [x] Computer Game Entertainment (`computer-game-entertainment`) — 5 issues / 635 pages
+- [x] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages
+- [x] Atari Age (`atari-age`) — 11 issues / 324 pages
+- [x] Blip (`blip`) — 7 issues / 248 pages
+- [x] Odyssey Adventure (`odyssey-adventure`) — 7 issues / 84 pages
+- [x] Activisions (`activisions`) — 10 issues / 53 pages
 
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
 
@@ -45,9 +58,9 @@ Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplica
 
 ## Left — PDFs on disk (fewest issues first)
 
-48 titles left. Ordered least issues → most.
+35 titles left. Ordered least issues → most.
 
-Batches 1–2 uploaded. Batch 3 encoding now (CGE, Q64, Odyssey, Blip, MultiMedia Merchandising). Stop before Video Games (21).
+Crash mid-batch 5 upload. Resuming: finish Videogame Advisor + Casual Connect upload, then remaining ≤20 titles. Stop before Video Games (21).
 
 - [x] PS Max (`ps-max`) — 1 issue / 100 pages
 - [x] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
@@ -59,21 +72,21 @@ Batches 1–2 uploaded. Batch 3 encoding now (CGE, Q64, Odyssey, Blip, MultiMedi
 - [x] Surge (`surge`) — 4 issues / 512 pages
 - [x] 3DO Club News (`3do-club-news`) — 5 issues / 104 pages
 - [x] Vidiot (`vidiot`) — 5 issues / 325 pages
-- [ ] Computer Game Entertainment (`computer-game-entertainment`) — 5 issues / 635 pages — **encoding**
-- [ ] Q64 (`q64`) — 6 issues / 712 pages — **encoding**
-- [ ] Odyssey Adventure (`odyssey-adventure`) — 7 issues / 84 pages — **encoding**
-- [ ] Blip (`blip`) — 7 issues / 248 pages — **encoding**
-- [ ] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages — **encoding**
-- [ ] Activisions (`activisions`) — 10 issues / 53 pages
-- [ ] NewMedia (`newmedia`) — 10 issues / 1,182 pages
-- [ ] Multimedia World (`multimedia-world`) — 10 issues / 1,398 pages
-- [ ] Atari Age (`atari-age`) — 11 issues / 324 pages
-- [ ] Mega (`mega`) — 12 issues / 1,248 pages
-- [ ] Pocket Games (`pocket-games`) — 13 issues / 1,302 pages
-- [ ] Videogaming & Computergaming Illustrated (`videogaming-illustrated`) — 14 issues / 1,126 pages
-- [ ] Official Sega Dreamcast Magazine (US) (`official-dreamcast-magazine-us`) — 14 issues / 1,596 pages
-- [ ] Videogame Advisor (`videogame-advisor`) — 15 issues / 917 pages
-- [ ] Casual Connect (`casual-connect`) — 15 issues / 1,028 pages
+- [x] Computer Game Entertainment (`computer-game-entertainment`) — 5 issues / 635 pages
+- [x] Q64 (`q64`) — 6 issues / 712 pages
+- [x] Odyssey Adventure (`odyssey-adventure`) — 7 issues / 84 pages
+- [x] Blip (`blip`) — 7 issues / 248 pages
+- [x] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages
+- [x] Activisions (`activisions`) — 10 issues / 53 pages
+- [x] NewMedia (`newmedia`) — 10 issues / 1,182 pages
+- [x] Multimedia World (`multimedia-world`) — 10 issues / 1,398 pages
+- [x] Atari Age (`atari-age`) — 11 issues / 324 pages
+- [x] Mega (`mega`) — 12 issues / 1,248 pages
+- [x] Pocket Games (`pocket-games`) — 13 issues / 1,302 pages
+- [x] Videogaming & Computergaming Illustrated (`videogaming-illustrated`) — 14 issues / 1,126 pages
+- [x] Official Sega Dreamcast Magazine (US) (`official-dreamcast-magazine-us`) — 14 issues / 1,596 pages
+- [ ] Videogame Advisor (`videogame-advisor`) — 15 issues / 917 pages — **uploading**
+- [ ] Casual Connect (`casual-connect`) — 15 issues / 1,028 pages — **uploading**
 - [ ] Internet Underground (`internet-underground`) — 15 issues / 1,286 pages
 - [ ] The Logical Gamer (`the-logical-gamer`) — 16 issues / 359 pages
 - [ ] P.S.X. (`psx`) — 17 issues / 1,509 pages
