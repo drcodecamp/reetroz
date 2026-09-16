@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-1/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-2/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-4/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-5/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-6/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-7/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-9/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-10/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-11/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-13.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-13/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-14.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-14/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-16.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-16/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-19/manifest.json"
   }
  },
  {
@@ -487,7 +500,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-22/manifest.json"
   }
  },
  {
@@ -522,7 +536,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-23/manifest.json"
   }
  },
  {
@@ -557,7 +572,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-24/manifest.json"
   }
  },
  {
@@ -592,7 +608,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-25/manifest.json"
   }
  },
  {
@@ -627,7 +644,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-26/manifest.json"
   }
  },
  {
@@ -662,7 +680,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-27/manifest.json"
   }
  },
  {
@@ -697,7 +716,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-28/manifest.json"
   }
  },
  {
@@ -732,7 +752,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-29/manifest.json"
   }
  },
  {
@@ -767,7 +788,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-30/manifest.json"
   }
  },
  {
@@ -802,7 +824,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-31/manifest.json"
   }
  },
  {
@@ -837,7 +860,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-32/manifest.json"
   }
  },
  {
@@ -872,7 +896,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-33/manifest.json"
   }
  },
  {
@@ -907,7 +932,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-34/manifest.json"
   }
  },
  {
@@ -942,7 +968,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-35/manifest.json"
   }
  },
  {
@@ -977,7 +1004,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-36/manifest.json"
   }
  },
  {
@@ -1012,7 +1040,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-37/manifest.json"
   }
  },
  {
@@ -1047,7 +1076,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-39/manifest.json"
   }
  },
  {
@@ -1082,7 +1112,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-40/manifest.json"
   }
  },
  {
@@ -1117,7 +1148,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-41/manifest.json"
   }
  },
  {
@@ -1152,7 +1184,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-42/manifest.json"
   }
  },
  {
@@ -1187,7 +1220,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-43/manifest.json"
   }
  },
  {
@@ -1222,7 +1256,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-46/manifest.json"
   }
  },
  {
@@ -1257,7 +1292,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-49/manifest.json"
   }
  },
  {
@@ -1292,7 +1328,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-50/manifest.json"
   }
  },
  {
@@ -1327,7 +1364,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-51/manifest.json"
   }
  },
  {
@@ -1362,7 +1400,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-52/manifest.json"
   }
  },
  {
@@ -1397,7 +1436,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-53/manifest.json"
   }
  },
  {
@@ -1432,7 +1472,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-54/manifest.json"
   }
  },
  {
@@ -1467,7 +1508,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-60/manifest.json"
   }
  },
  {
@@ -1502,7 +1544,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-61/manifest.json"
   }
  },
  {
@@ -1537,7 +1580,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-63/manifest.json"
   }
  },
  {
@@ -1572,7 +1616,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-69/manifest.json"
   }
  },
  {
@@ -1607,7 +1652,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-71/manifest.json"
   }
  },
  {
@@ -1642,7 +1688,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-73/manifest.json"
   }
  },
  {
@@ -1677,7 +1724,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-1997-1997-annual-computer-games-buyer-s-guide.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-1997-1997-annual-computer-games-buyer-s-guide/manifest.json"
   }
  },
  {
@@ -1712,7 +1760,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-74/manifest.json"
   }
  },
  {
@@ -1747,7 +1796,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-75/manifest.json"
   }
  },
  {
@@ -1782,7 +1832,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-76.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-76/manifest.json"
   }
  },
  {
@@ -1817,7 +1868,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-77.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-77/manifest.json"
   }
  },
  {
@@ -1852,7 +1904,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-78.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-78/manifest.json"
   }
  },
  {
@@ -1887,7 +1940,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-79/manifest.json"
   }
  },
  {
@@ -1922,7 +1976,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-80/manifest.json"
   }
  },
  {
@@ -1957,7 +2012,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-81/manifest.json"
   }
  },
  {
@@ -1992,7 +2048,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-82/manifest.json"
   }
  },
  {
@@ -2027,7 +2084,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-83/manifest.json"
   }
  },
  {
@@ -2062,7 +2120,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-84/manifest.json"
   }
  },
  {
@@ -2097,7 +2156,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-85/manifest.json"
   }
  },
  {
@@ -2132,7 +2192,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-86/manifest.json"
   }
  },
  {
@@ -2167,7 +2228,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-87/manifest.json"
   }
  },
  {
@@ -2202,7 +2264,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-88/manifest.json"
   }
  },
  {
@@ -2237,7 +2300,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-89/manifest.json"
   }
  },
  {
@@ -2272,7 +2336,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-90/manifest.json"
   }
  },
  {
@@ -2307,7 +2372,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-91/manifest.json"
   }
  },
  {
@@ -2342,7 +2408,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-92/manifest.json"
   }
  },
  {
@@ -2377,7 +2444,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-93/manifest.json"
   }
  },
  {
@@ -2412,7 +2480,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-94/manifest.json"
   }
  },
  {
@@ -2447,7 +2516,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-95/manifest.json"
   }
  },
  {
@@ -2482,7 +2552,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-96/manifest.json"
   }
  },
  {
@@ -2517,7 +2588,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-97/manifest.json"
   }
  },
  {
@@ -2552,7 +2624,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-98.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-98/manifest.json"
   }
  },
  {
@@ -2587,7 +2660,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-99.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-99/manifest.json"
   }
  },
  {
@@ -2622,7 +2696,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-100.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-100/manifest.json"
   }
  },
  {
@@ -2657,7 +2732,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-101.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-101/manifest.json"
   }
  },
  {
@@ -2692,7 +2768,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-102.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-102/manifest.json"
   }
  },
  {
@@ -2727,7 +2804,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-103.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-103/manifest.json"
   }
  },
  {
@@ -2762,7 +2840,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-105.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-105/manifest.json"
   }
  },
  {
@@ -2797,7 +2876,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-106.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-106/manifest.json"
   }
  },
  {
@@ -2832,7 +2912,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-109.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-109/manifest.json"
   }
  },
  {
@@ -2867,7 +2948,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-113.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-113/manifest.json"
   }
  },
  {
@@ -2902,7 +2984,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-116.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-116/manifest.json"
   }
  },
  {
@@ -2937,7 +3020,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-119.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-119/manifest.json"
   }
  },
  {
@@ -2972,7 +3056,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-120.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-120/manifest.json"
   }
  },
  {
@@ -3007,7 +3092,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-121.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-121/manifest.json"
   }
  },
  {
@@ -3042,7 +3128,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-122.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-122/manifest.json"
   }
  },
  {
@@ -3077,7 +3164,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-123.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-123/manifest.json"
   }
  },
  {
@@ -3112,7 +3200,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-124.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-124/manifest.json"
   }
  },
  {
@@ -3147,7 +3236,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-126.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-126/manifest.json"
   }
  },
  {
@@ -3182,7 +3272,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-127.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-127/manifest.json"
   }
  },
  {
@@ -3217,7 +3308,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-129.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-129/manifest.json"
   }
  },
  {
@@ -3252,7 +3344,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-131.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-131/manifest.json"
   }
  },
  {
@@ -3287,7 +3380,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-132.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-132/manifest.json"
   }
  },
  {
@@ -3322,7 +3416,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-134.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-134/manifest.json"
   }
  },
  {
@@ -3357,7 +3452,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-136.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-136/manifest.json"
   }
  },
  {
@@ -3392,7 +3488,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-137.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-137/manifest.json"
   }
  },
  {
@@ -3427,7 +3524,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-139.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-139/manifest.json"
   }
  },
  {
@@ -3462,7 +3560,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-141.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-141/manifest.json"
   }
  },
  {
@@ -3497,7 +3596,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-142.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-142/manifest.json"
   }
  },
  {
@@ -3532,7 +3632,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-143.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-143/manifest.json"
   }
  },
  {
@@ -3567,7 +3668,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-144.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-144/manifest.json"
   }
  },
  {
@@ -3602,7 +3704,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-145.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-145/manifest.json"
   }
  },
  {
@@ -3637,7 +3740,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-146.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-146/manifest.json"
   }
  },
  {
@@ -3672,7 +3776,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-147.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-147/manifest.json"
   }
  },
  {
@@ -3707,7 +3812,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-149.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-149/manifest.json"
   }
  },
  {
@@ -3742,7 +3848,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-150.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-150/manifest.json"
   }
  },
  {
@@ -3777,7 +3884,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-151.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-151/manifest.json"
   }
  },
  {
@@ -3812,7 +3920,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-152.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-152/manifest.json"
   }
  },
  {
@@ -3847,7 +3956,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-153.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-153/manifest.json"
   }
  },
  {
@@ -3882,7 +3992,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-154.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-154/manifest.json"
   }
  },
  {
@@ -3917,7 +4028,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-157.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-157/manifest.json"
   }
  },
  {
@@ -3952,7 +4064,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-158.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-158/manifest.json"
   }
  },
  {
@@ -3987,7 +4100,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-173.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-173/manifest.json"
   }
  },
  {
@@ -4022,7 +4136,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-174.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-174/manifest.json"
   }
  },
  {
@@ -4057,7 +4172,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-175.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-175/manifest.json"
   }
  },
  {
@@ -4092,7 +4208,8 @@
   "updated_at": "2026-09-14T09:33:12+00:00",
   "assets": {
    "cover": "covers/computer-games-strategy-plus-176.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-games-strategy-plus-176/manifest.json"
   }
  }
 ]

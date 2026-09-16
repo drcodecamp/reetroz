@@ -4,8 +4,8 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 69 | 4,213 | 477,920 |
-| Left — PDFs on disk | 4 | 415 | 39,873 |
+| Done (readable on R2) | 73 | 4,627 | 513,793 |
+| Left — PDFs on disk | 0 | 0 | 0 |
 | Left — no local PDFs (stubs) | 27 | — | — |
 | Left — no `publication.json` | 16 | — | — |
 
@@ -29,6 +29,10 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 - [x] Edge (`edge`) — 102 issues / 11,477 pages
 - [x] PC Games / Electronic Entertainment (`pc-games`) — 75 issues / 9,142 pages
 - [x] PlayStation: The Official Magazine (`playstation-the-official-magazine`) — 64 issues / 6,664 pages
+- [x] Computer Games Strategy Plus (`computer-games-strategy-plus`) — 117 issues / 14,310 pages
+- [x] Play (US) (`play-us`) — 97 issues / 10,669 pages
+- [x] Hyper (`hyper`) — 98 issues / 9,384 pages
+- [x] Computer Entertainer (`computer-entertainer`) — 102 issues / 1,510 pages
 - [x] VideoGames & Computer Entertainment (`videogames-computer-entertainment`) — 93 issues / 10,908 pages
 - [x] Computer Game Review (`computer-game-review`) — 66 issues / 7,524 pages
 - [x] PSExtreme / Dimension PS-X / PSE2 (`psextreme`) — 74 issues / 6,124 pages
@@ -88,7 +92,7 @@ Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplica
 
 ## Left — PDFs on disk (fewest issues first)
 
-Last four still running (Cursor dropped the panel; process is alive). First pass done; retrying Hyper and Strategy Plus. Play US retry left 2 flakes (94, 86).
+All local PDFs are on R2. Last four done, including Play US 86 and 94 after a second retry. Remaining work is UK/IA stubs (no PDFs) and folders without `publication.json`.
 
 - [x] PS Max (`ps-max`) — 1 issue / 100 pages
 - [x] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
@@ -143,11 +147,11 @@ Last four still running (Cursor dropped the panel; process is alive). First pass
 - [x] Next Generation / NextGen (`next-generation`) — 85 issues / 12,052 pages
 - [x] Walmart GameCenter (`walmart-gamecenter`) — 93 issues / 4,807 pages
 - [x] VideoGames & Computer Entertainment (`videogames-computer-entertainment`) — 93 issues / 10,908 pages
-- [ ] Play (US) (`play-us`) — 97 issues / 10,669 pages — **encoding**
-- [ ] Hyper (`hyper`) — 98 issues / 9,384 pages — **encoding**
-- [ ] Computer Entertainer (`computer-entertainer`) — 102 issues / 1,510 pages — **encoding**
+- [x] Play (US) (`play-us`) — 97 issues / 10,669 pages
+- [x] Hyper (`hyper`) — 98 issues / 9,384 pages
+- [x] Computer Entertainer (`computer-entertainer`) — 102 issues / 1,510 pages
 - [x] Edge (`edge`) — 102 issues / 11,477 pages
-- [ ] Computer Games Strategy Plus (`computer-games-strategy-plus`) — 117 issues / 14,310 pages — **encoding**
+- [x] Computer Games Strategy Plus (`computer-games-strategy-plus`) — 117 issues / 14,310 pages
 
 ---
 

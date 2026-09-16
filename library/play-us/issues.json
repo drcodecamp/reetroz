@@ -32,7 +32,8 @@
   "special": "Premiere issue",
   "assets": {
    "cover": "covers/play-us-200112-play-premiere-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-200112-play-premiere-issue/manifest.json"
   }
  },
  {
@@ -68,7 +69,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/play-us-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-1/manifest.json"
   }
  },
  {
@@ -103,7 +105,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-2/manifest.json"
   }
  },
  {
@@ -138,7 +141,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-3/manifest.json"
   }
  },
  {
@@ -173,7 +177,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-5/manifest.json"
   }
  },
  {
@@ -208,7 +213,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-6/manifest.json"
   }
  },
  {
@@ -243,7 +249,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-7/manifest.json"
   }
  },
  {
@@ -278,7 +285,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-8/manifest.json"
   }
  },
  {
@@ -313,7 +321,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-9/manifest.json"
   }
  },
  {
@@ -348,7 +357,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-10/manifest.json"
   }
  },
  {
@@ -383,7 +393,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-11/manifest.json"
   }
  },
  {
@@ -418,7 +429,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-12/manifest.json"
   }
  },
  {
@@ -453,7 +465,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-1-2/manifest.json"
   }
  },
  {
@@ -489,7 +502,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/play-us-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-2-2/manifest.json"
   }
  },
  {
@@ -524,7 +538,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-3-2/manifest.json"
   }
  },
  {
@@ -559,7 +574,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-4/manifest.json"
   }
  },
  {
@@ -594,7 +610,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-17/manifest.json"
   }
  },
  {
@@ -629,7 +646,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-18/manifest.json"
   }
  },
  {
@@ -664,7 +682,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-19/manifest.json"
   }
  },
  {
@@ -699,7 +718,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-20.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-20/manifest.json"
   }
  },
  {
@@ -734,7 +754,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-21.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-21/manifest.json"
   }
  },
  {
@@ -769,7 +790,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-22/manifest.json"
   }
  },
  {
@@ -804,7 +826,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-23/manifest.json"
   }
  },
  {
@@ -839,7 +862,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-24.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-24/manifest.json"
   }
  },
  {
@@ -874,7 +898,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-25.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-25/manifest.json"
   }
  },
  {
@@ -909,7 +934,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-26.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-26/manifest.json"
   }
  },
  {
@@ -944,7 +970,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-27.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-27/manifest.json"
   }
  },
  {
@@ -979,7 +1006,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-28.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-28/manifest.json"
   }
  },
  {
@@ -1014,7 +1042,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-29.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-29/manifest.json"
   }
  },
  {
@@ -1049,7 +1078,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-30.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-30/manifest.json"
   }
  },
  {
@@ -1084,7 +1114,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-31.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-31/manifest.json"
   }
  },
  {
@@ -1119,7 +1150,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-32.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-32/manifest.json"
   }
  },
  {
@@ -1154,7 +1186,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-33.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-33/manifest.json"
   }
  },
  {
@@ -1189,7 +1222,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-34.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-34/manifest.json"
   }
  },
  {
@@ -1224,7 +1258,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-35.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-35/manifest.json"
   }
  },
  {
@@ -1259,7 +1294,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-36.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-36/manifest.json"
   }
  },
  {
@@ -1294,7 +1330,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-37.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-37/manifest.json"
   }
  },
  {
@@ -1329,7 +1366,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-38.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-38/manifest.json"
   }
  },
  {
@@ -1364,7 +1402,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-39.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-39/manifest.json"
   }
  },
  {
@@ -1399,7 +1438,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-40.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-40/manifest.json"
   }
  },
  {
@@ -1434,7 +1474,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-41.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-41/manifest.json"
   }
  },
  {
@@ -1469,7 +1510,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-42.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-42/manifest.json"
   }
  },
  {
@@ -1504,7 +1546,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-43.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-43/manifest.json"
   }
  },
  {
@@ -1539,7 +1582,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-44.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-44/manifest.json"
   }
  },
  {
@@ -1574,7 +1618,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-45.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-45/manifest.json"
   }
  },
  {
@@ -1609,7 +1654,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-46.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-46/manifest.json"
   }
  },
  {
@@ -1644,7 +1690,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-47.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-47/manifest.json"
   }
  },
  {
@@ -1679,7 +1726,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-48.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-48/manifest.json"
   }
  },
  {
@@ -1714,7 +1762,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-49.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-49/manifest.json"
   }
  },
  {
@@ -1749,7 +1798,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-50.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-50/manifest.json"
   }
  },
  {
@@ -1784,7 +1834,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-51.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-51/manifest.json"
   }
  },
  {
@@ -1819,7 +1870,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-52.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-52/manifest.json"
   }
  },
  {
@@ -1854,7 +1906,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-53.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-53/manifest.json"
   }
  },
  {
@@ -1889,7 +1942,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-54.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-54/manifest.json"
   }
  },
  {
@@ -1924,7 +1978,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-55.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-55/manifest.json"
   }
  },
  {
@@ -1959,7 +2014,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-56.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-56/manifest.json"
   }
  },
  {
@@ -1994,7 +2050,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-57.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-57/manifest.json"
   }
  },
  {
@@ -2029,7 +2086,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-58.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-58/manifest.json"
   }
  },
  {
@@ -2064,7 +2122,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-59.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-59/manifest.json"
   }
  },
  {
@@ -2099,7 +2158,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-60.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-60/manifest.json"
   }
  },
  {
@@ -2134,7 +2194,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-61.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-61/manifest.json"
   }
  },
  {
@@ -2169,7 +2230,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-62.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-62/manifest.json"
   }
  },
  {
@@ -2204,7 +2266,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-63.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-63/manifest.json"
   }
  },
  {
@@ -2239,7 +2302,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-64.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-64/manifest.json"
   }
  },
  {
@@ -2274,7 +2338,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-65.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-65/manifest.json"
   }
  },
  {
@@ -2309,7 +2374,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-66.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-66/manifest.json"
   }
  },
  {
@@ -2344,7 +2410,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-67.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-67/manifest.json"
   }
  },
  {
@@ -2379,7 +2446,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-68.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-68/manifest.json"
   }
  },
  {
@@ -2414,7 +2482,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-69.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-69/manifest.json"
   }
  },
  {
@@ -2449,7 +2518,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-70.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-70/manifest.json"
   }
  },
  {
@@ -2484,7 +2554,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-71.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-71/manifest.json"
   }
  },
  {
@@ -2519,7 +2590,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-72.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-72/manifest.json"
   }
  },
  {
@@ -2554,7 +2626,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-73.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-73/manifest.json"
   }
  },
  {
@@ -2589,7 +2662,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-74.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-74/manifest.json"
   }
  },
  {
@@ -2624,7 +2698,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-75.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-75/manifest.json"
   }
  },
  {
@@ -2659,7 +2734,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-76.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-76/manifest.json"
   }
  },
  {
@@ -2694,7 +2770,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-77.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-77/manifest.json"
   }
  },
  {
@@ -2729,7 +2806,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-78.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-78/manifest.json"
   }
  },
  {
@@ -2764,7 +2842,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-79.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-79/manifest.json"
   }
  },
  {
@@ -2799,7 +2878,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-80.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-80/manifest.json"
   }
  },
  {
@@ -2834,7 +2914,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-81.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-81/manifest.json"
   }
  },
  {
@@ -2869,7 +2950,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-82.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-82/manifest.json"
   }
  },
  {
@@ -2904,7 +2986,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-83.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-83/manifest.json"
   }
  },
  {
@@ -2939,7 +3022,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-84.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-84/manifest.json"
   }
  },
  {
@@ -2974,7 +3058,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-85.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-85/manifest.json"
   }
  },
  {
@@ -3009,7 +3094,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-86.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-86/manifest.json"
   }
  },
  {
@@ -3044,7 +3130,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-87.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-87/manifest.json"
   }
  },
  {
@@ -3079,7 +3166,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-88.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-88/manifest.json"
   }
  },
  {
@@ -3114,7 +3202,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-89.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-89/manifest.json"
   }
  },
  {
@@ -3149,7 +3238,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-90.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-90/manifest.json"
   }
  },
  {
@@ -3184,7 +3274,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-91.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-91/manifest.json"
   }
  },
  {
@@ -3219,7 +3310,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-92.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-92/manifest.json"
   }
  },
  {
@@ -3254,7 +3346,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-93.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-93/manifest.json"
   }
  },
  {
@@ -3289,7 +3382,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-94.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-94/manifest.json"
   }
  },
  {
@@ -3324,7 +3418,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-95.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-95/manifest.json"
   }
  },
  {
@@ -3359,7 +3454,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-96.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-96/manifest.json"
   }
  },
  {
@@ -3394,7 +3490,8 @@
   "updated_at": "2026-09-14T09:35:56+00:00",
   "assets": {
    "cover": "covers/play-us-97.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/play-us-97/manifest.json"
   }
  }
 ]

@@ -65,7 +65,7 @@
   "pages": 2,
   "cover": "/covers/computer-entertainer-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -93,7 +93,7 @@
   "pages": 4,
   "cover": "/covers/computer-entertainer-5.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -219,7 +219,7 @@
   "pages": 8,
   "cover": "/covers/computer-entertainer-9.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -387,7 +387,7 @@
   "pages": 4,
   "cover": "/covers/computer-entertainer-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -527,7 +527,7 @@
   "pages": 6,
   "cover": "/covers/computer-entertainer-8.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -625,7 +625,7 @@
   "pages": 6,
   "cover": "/covers/computer-entertainer-7.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -723,7 +723,7 @@
   "pages": 4,
   "cover": "/covers/computer-entertainer-6.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -863,7 +863,7 @@
   "pages": 2,
   "cover": "/covers/computer-entertainer-1-9.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -877,7 +877,7 @@
   "pages": 2,
   "cover": "/covers/computer-entertainer-2-9.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -919,7 +919,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1045,7 +1045,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-5-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1171,7 +1171,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-9-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1283,7 +1283,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1409,7 +1409,7 @@
   "pages": 8,
   "cover": "/covers/computer-entertainer-10.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1563,7 +1563,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1703,7 +1703,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1843,7 +1843,7 @@
   "pages": 8,
   "cover": "/covers/computer-entertainer-12.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1941,7 +1941,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2053,7 +2053,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-8-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2179,7 +2179,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-7-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2305,7 +2305,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-6-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2473,7 +2473,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2557,7 +2557,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-5-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2585,7 +2585,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-9-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2641,7 +2641,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2711,7 +2711,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-10-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2809,7 +2809,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2879,7 +2879,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2921,7 +2921,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-12-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3019,7 +3019,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3089,7 +3089,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-8-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3131,7 +3131,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-7-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3159,7 +3159,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-6-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3229,7 +3229,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3257,7 +3257,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-5-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3285,7 +3285,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-9-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3299,7 +3299,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3341,7 +3341,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-10-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3369,7 +3369,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3411,7 +3411,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3439,7 +3439,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-12-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3467,7 +3467,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3509,7 +3509,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-8-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3523,7 +3523,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-7-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3551,7 +3551,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-6-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3579,7 +3579,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3607,7 +3607,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-5-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3635,7 +3635,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-9-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3649,7 +3649,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3677,7 +3677,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-10-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3691,7 +3691,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3719,7 +3719,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3747,7 +3747,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-12-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3775,7 +3775,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3803,7 +3803,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-8-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3817,7 +3817,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-7-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3845,7 +3845,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-6-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3873,7 +3873,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3901,7 +3901,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-5-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3943,7 +3943,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-9-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -3985,7 +3985,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4013,7 +4013,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-10-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4027,7 +4027,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4055,7 +4055,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4097,7 +4097,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-12-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4125,7 +4125,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4153,7 +4153,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-8-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4181,7 +4181,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-7-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4209,7 +4209,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-6-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4223,7 +4223,7 @@
   "pages": 8,
   "cover": "/covers/computer-entertainer-198703-special-fifth-birthday-edition.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4293,7 +4293,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4349,7 +4349,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-5-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4391,7 +4391,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-9-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4489,7 +4489,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4545,7 +4545,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-10-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4587,7 +4587,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4643,7 +4643,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4699,7 +4699,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-12-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4727,7 +4727,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4769,7 +4769,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-8-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4811,7 +4811,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-7-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4853,7 +4853,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-6-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -4993,7 +4993,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5063,7 +5063,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-5-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5175,7 +5175,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-9-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5329,7 +5329,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5413,7 +5413,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-10-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5455,7 +5455,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5539,7 +5539,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5637,7 +5637,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-12-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5679,7 +5679,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5763,7 +5763,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-8-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5875,7 +5875,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-7-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -5959,7 +5959,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-6-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6197,7 +6197,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-198902-master-index-and-awards-1982-1988.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6393,7 +6393,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-1-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6827,7 +6827,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-11-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -6967,7 +6967,7 @@
   "pages": 24,
   "cover": "/covers/computer-entertainer-10-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7065,7 +7065,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-4-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7191,7 +7191,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-3-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7345,7 +7345,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-12-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7457,7 +7457,7 @@
   "pages": 16,
   "cover": "/covers/computer-entertainer-2-8.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7569,7 +7569,7 @@
   "pages": 60,
   "cover": "/covers/computer-games-strategy-plus-2.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -7695,7 +7695,7 @@
   "pages": 60,
   "cover": "/covers/computer-games-strategy-plus-1.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8367,7 +8367,7 @@
   "pages": 68,
   "cover": "/covers/computer-games-strategy-plus-7.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8451,7 +8451,7 @@
   "pages": 68,
   "cover": "/covers/computer-games-strategy-plus-10.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8633,7 +8633,7 @@
   "pages": 92,
   "cover": "/covers/computer-games-strategy-plus-13.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8815,7 +8815,7 @@
   "pages": 60,
   "cover": "/covers/computer-games-strategy-plus-5.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -8983,7 +8983,7 @@
   "pages": 60,
   "cover": "/covers/computer-games-strategy-plus-4.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9137,7 +9137,7 @@
   "pages": 68,
   "cover": "/covers/computer-games-strategy-plus-9.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -9417,7 +9417,7 @@
   "pages": 68,
   "cover": "/covers/computer-games-strategy-plus-6.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10019,7 +10019,7 @@
   "pages": 68,
   "cover": "/covers/computer-games-strategy-plus-11.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -10677,7 +10677,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-25.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11153,7 +11153,7 @@
   "pages": 84,
   "cover": "/covers/computer-games-strategy-plus-14.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11503,7 +11503,7 @@
   "pages": 76,
   "cover": "/covers/computer-games-strategy-plus-19.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11685,7 +11685,7 @@
   "pages": 76,
   "cover": "/covers/computer-games-strategy-plus-16.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -11993,7 +11993,7 @@
   "pages": 108,
   "cover": "/covers/computer-games-strategy-plus-24.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12231,7 +12231,7 @@
   "pages": 92,
   "cover": "/covers/computer-games-strategy-plus-23.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12441,7 +12441,7 @@
   "pages": 76,
   "cover": "/covers/computer-games-strategy-plus-22.jpg",
   "era": "boom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -12777,7 +12777,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-29.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13029,7 +13029,7 @@
   "pages": 68,
   "cover": "/covers/computer-games-strategy-plus-33.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13253,7 +13253,7 @@
   "pages": 168,
   "cover": "/covers/computer-games-strategy-plus-37.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13477,7 +13477,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-27.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13729,7 +13729,7 @@
   "pages": 108,
   "cover": "/covers/computer-games-strategy-plus-26.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -13967,7 +13967,7 @@
   "pages": 104,
   "cover": "/covers/computer-games-strategy-plus-32.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14233,7 +14233,7 @@
   "pages": 104,
   "cover": "/covers/computer-games-strategy-plus-31.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14471,7 +14471,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-28.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14695,7 +14695,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-30.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -14933,7 +14933,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-36.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15171,7 +15171,7 @@
   "pages": 144,
   "cover": "/covers/computer-games-strategy-plus-35.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15437,7 +15437,7 @@
   "pages": 104,
   "cover": "/covers/computer-games-strategy-plus-34.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -15815,7 +15815,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-41.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16193,7 +16193,7 @@
   "pages": 84,
   "cover": "/covers/hyper-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16403,7 +16403,7 @@
   "pages": 164,
   "cover": "/covers/computer-games-strategy-plus-49.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16529,7 +16529,7 @@
   "pages": 100,
   "cover": "/covers/hyper-13.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -16739,7 +16739,7 @@
   "pages": 130,
   "cover": "/covers/computer-games-strategy-plus-39.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17033,7 +17033,7 @@
   "pages": 84,
   "cover": "/covers/hyper-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17341,7 +17341,7 @@
   "pages": 84,
   "cover": "/covers/hyper-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17509,7 +17509,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-43.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17593,7 +17593,7 @@
   "pages": 84,
   "cover": "/covers/hyper-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17747,7 +17747,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-40.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17999,7 +17999,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-42.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18083,7 +18083,7 @@
   "pages": 84,
   "cover": "/covers/hyper-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18335,7 +18335,7 @@
   "pages": 100,
   "cover": "/covers/hyper-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18587,7 +18587,7 @@
   "pages": 84,
   "cover": "/covers/hyper-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18769,7 +18769,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-46.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18853,7 +18853,7 @@
   "pages": 84,
   "cover": "/covers/hyper-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19119,7 +19119,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-53.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19245,7 +19245,7 @@
   "pages": 84,
   "cover": "/covers/hyper-17.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19525,7 +19525,7 @@
   "pages": 84,
   "cover": "/covers/hyper-21.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19735,7 +19735,7 @@
   "pages": 200,
   "cover": "/covers/computer-games-strategy-plus-61.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19861,7 +19861,7 @@
   "pages": 100,
   "cover": "/covers/hyper-25.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20169,7 +20169,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-51.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20267,7 +20267,7 @@
   "pages": 84,
   "cover": "/covers/hyper-15.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20491,7 +20491,7 @@
   "pages": 134,
   "cover": "/covers/computer-games-strategy-plus-50.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20617,7 +20617,7 @@
   "pages": 100,
   "cover": "/covers/hyper-14.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21149,7 +21149,7 @@
   "pages": 84,
   "cover": "/covers/hyper-19.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21331,7 +21331,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-52.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21471,7 +21471,7 @@
   "pages": 84,
   "cover": "/covers/hyper-16.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21667,7 +21667,7 @@
   "pages": 128,
   "cover": "/covers/computer-games-strategy-plus-54.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21779,7 +21779,7 @@
   "pages": 84,
   "cover": "/covers/hyper-18.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22003,7 +22003,7 @@
   "pages": 168,
   "cover": "/covers/computer-games-strategy-plus-60.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22143,7 +22143,7 @@
   "pages": 84,
   "cover": "/covers/hyper-24.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22437,7 +22437,7 @@
   "pages": 84,
   "cover": "/covers/hyper-23.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23081,7 +23081,7 @@
   "pages": 84,
   "cover": "/covers/hyper-30.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23249,7 +23249,7 @@
   "pages": 118,
   "cover": "/covers/computer-games-strategy-plus-69.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23389,7 +23389,7 @@
   "pages": 80,
   "cover": "/covers/hyper-34.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23599,7 +23599,7 @@
   "pages": 196,
   "cover": "/covers/computer-games-strategy-plus-73.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23725,7 +23725,7 @@
   "pages": 96,
   "cover": "/covers/hyper-38.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23921,7 +23921,7 @@
   "pages": 136,
   "cover": "/covers/computer-games-strategy-plus-63.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24047,7 +24047,7 @@
   "pages": 84,
   "cover": "/covers/hyper-28.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24691,7 +24691,7 @@
   "pages": 80,
   "cover": "/covers/hyper-33.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24971,7 +24971,7 @@
   "pages": 84,
   "cover": "/covers/hyper-32.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25293,7 +25293,7 @@
   "pages": 84,
   "cover": "/covers/hyper-29.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25615,7 +25615,7 @@
   "pages": 84,
   "cover": "/covers/hyper-31.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25923,7 +25923,7 @@
   "pages": 80,
   "cover": "/covers/hyper-37.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26077,7 +26077,7 @@
   "pages": 134,
   "cover": "/covers/computer-games-strategy-plus-71.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26189,7 +26189,7 @@
   "pages": 84,
   "cover": "/covers/hyper-36.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26469,7 +26469,7 @@
   "pages": 84,
   "cover": "/covers/hyper-35.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26707,7 +26707,7 @@
   "pages": 196,
   "cover": "/covers/computer-games-strategy-plus-1997-1997-annual-computer-games-buyer-s-guide.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26749,7 +26749,7 @@
   "pages": 108,
   "cover": "/covers/computer-games-strategy-plus-77.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26861,7 +26861,7 @@
   "pages": 96,
   "cover": "/covers/hyper-42.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26987,7 +26987,7 @@
   "pages": 124,
   "cover": "/covers/computer-games-strategy-plus-81.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27099,7 +27099,7 @@
   "pages": 96,
   "cover": "/covers/hyper-46.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27239,7 +27239,7 @@
   "pages": 228,
   "cover": "/covers/computer-games-strategy-plus-85.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27337,7 +27337,7 @@
   "pages": 112,
   "cover": "/covers/hyper-50.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27491,7 +27491,7 @@
   "pages": 134,
   "cover": "/covers/computer-games-strategy-plus-75.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27589,7 +27589,7 @@
   "pages": 80,
   "cover": "/covers/hyper-40.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27729,7 +27729,7 @@
   "pages": 150,
   "cover": "/covers/computer-games-strategy-plus-74.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27841,7 +27841,7 @@
   "pages": 96,
   "cover": "/covers/hyper-39.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27967,7 +27967,7 @@
   "pages": 140,
   "cover": "/covers/computer-games-strategy-plus-80.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28107,7 +28107,7 @@
   "pages": 96,
   "cover": "/covers/hyper-45.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28261,7 +28261,7 @@
   "pages": 124,
   "cover": "/covers/computer-games-strategy-plus-79.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28359,7 +28359,7 @@
   "pages": 96,
   "cover": "/covers/hyper-44.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28513,7 +28513,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-76.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28625,7 +28625,7 @@
   "pages": 96,
   "cover": "/covers/hyper-41.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28737,7 +28737,7 @@
   "pages": 116,
   "cover": "/covers/computer-games-strategy-plus-78.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28849,7 +28849,7 @@
   "pages": 96,
   "cover": "/covers/hyper-43.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28989,7 +28989,7 @@
   "pages": 232,
   "cover": "/covers/computer-games-strategy-plus-84.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -29101,7 +29101,7 @@
   "pages": 112,
   "cover": "/covers/hyper-49.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29241,7 +29241,7 @@
   "pages": 212,
   "cover": "/covers/computer-games-strategy-plus-83.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -29353,7 +29353,7 @@
   "pages": 100,
   "cover": "/covers/hyper-48.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29479,7 +29479,7 @@
   "pages": 164,
   "cover": "/covers/computer-games-strategy-plus-82.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29577,7 +29577,7 @@
   "pages": 100,
   "cover": "/covers/hyper-47.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29843,7 +29843,7 @@
   "pages": 120,
   "cover": "/covers/computer-games-strategy-plus-89.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29941,7 +29941,7 @@
   "pages": 96,
   "cover": "/covers/hyper-54.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30081,7 +30081,7 @@
   "pages": 120,
   "cover": "/covers/computer-games-strategy-plus-93.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30193,7 +30193,7 @@
   "pages": 96,
   "cover": "/covers/hyper-58.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30333,7 +30333,7 @@
   "pages": 198,
   "cover": "/covers/computer-games-strategy-plus-97.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30417,7 +30417,7 @@
   "pages": 116,
   "cover": "/covers/hyper-62.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30585,7 +30585,7 @@
   "pages": 144,
   "cover": "/covers/computer-games-strategy-plus-87.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30711,7 +30711,7 @@
   "pages": 100,
   "cover": "/covers/hyper-52.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30865,7 +30865,7 @@
   "pages": 172,
   "cover": "/covers/computer-games-strategy-plus-86.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -30963,7 +30963,7 @@
   "pages": 112,
   "cover": "/covers/hyper-51.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31103,7 +31103,7 @@
   "pages": 148,
   "cover": "/covers/computer-games-strategy-plus-92.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31201,7 +31201,7 @@
   "pages": 100,
   "cover": "/covers/hyper-57.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31341,7 +31341,7 @@
   "pages": 136,
   "cover": "/covers/computer-games-strategy-plus-91.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31439,7 +31439,7 @@
   "pages": 100,
   "cover": "/covers/hyper-56.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31565,7 +31565,7 @@
   "pages": 122,
   "cover": "/covers/computer-games-strategy-plus-88.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -31663,7 +31663,7 @@
   "pages": 100,
   "cover": "/covers/hyper-53.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31803,7 +31803,7 @@
   "pages": 134,
   "cover": "/covers/computer-games-strategy-plus-90.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -31901,7 +31901,7 @@
   "pages": 80,
   "cover": "/covers/hyper-55.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32069,7 +32069,7 @@
   "pages": 198,
   "cover": "/covers/computer-games-strategy-plus-96.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32167,7 +32167,7 @@
   "pages": 116,
   "cover": "/covers/hyper-61.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32293,7 +32293,7 @@
   "pages": 182,
   "cover": "/covers/computer-games-strategy-plus-95.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32391,7 +32391,7 @@
   "pages": 96,
   "cover": "/covers/hyper-60.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32531,7 +32531,7 @@
   "pages": 132,
   "cover": "/covers/computer-games-strategy-plus-94.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32629,7 +32629,7 @@
   "pages": 96,
   "cover": "/covers/hyper-59.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -32937,7 +32937,7 @@
   "pages": 122,
   "cover": "/covers/computer-games-strategy-plus-101.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33035,7 +33035,7 @@
   "pages": 96,
   "cover": "/covers/hyper-66.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33161,7 +33161,7 @@
   "pages": 110,
   "cover": "/covers/computer-games-strategy-plus-105.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33245,7 +33245,7 @@
   "pages": 100,
   "cover": "/covers/hyper-70.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33385,7 +33385,7 @@
   "pages": 164,
   "cover": "/covers/computer-games-strategy-plus-109.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33469,7 +33469,7 @@
   "pages": 100,
   "cover": "/covers/hyper-74.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33637,7 +33637,7 @@
   "pages": 148,
   "cover": "/covers/computer-games-strategy-plus-99.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33735,7 +33735,7 @@
   "pages": 100,
   "cover": "/covers/hyper-64.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33861,7 +33861,7 @@
   "pages": 164,
   "cover": "/covers/computer-games-strategy-plus-98.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33959,7 +33959,7 @@
   "pages": 116,
   "cover": "/covers/hyper-63.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34155,7 +34155,7 @@
   "pages": 100,
   "cover": "/covers/hyper-69.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34281,7 +34281,7 @@
   "pages": 102,
   "cover": "/covers/computer-games-strategy-plus-103.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34365,7 +34365,7 @@
   "pages": 100,
   "cover": "/covers/hyper-68.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34505,7 +34505,7 @@
   "pages": 108,
   "cover": "/covers/computer-games-strategy-plus-100.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34589,7 +34589,7 @@
   "pages": 96,
   "cover": "/covers/hyper-65.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34715,7 +34715,7 @@
   "pages": 102,
   "cover": "/covers/computer-games-strategy-plus-102.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -34813,7 +34813,7 @@
   "pages": 96,
   "cover": "/covers/hyper-67.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35009,7 +35009,7 @@
   "pages": 96,
   "cover": "/covers/hyper-73.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35219,7 +35219,7 @@
   "pages": 96,
   "cover": "/covers/hyper-72.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35345,7 +35345,7 @@
   "pages": 108,
   "cover": "/covers/computer-games-strategy-plus-106.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35429,7 +35429,7 @@
   "pages": 100,
   "cover": "/covers/hyper-71.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35695,7 +35695,7 @@
   "pages": 164,
   "cover": "/covers/computer-games-strategy-plus-113.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35779,7 +35779,7 @@
   "pages": 116,
   "cover": "/covers/hyper-78.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36003,7 +36003,7 @@
   "pages": 96,
   "cover": "/covers/hyper-82.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36199,7 +36199,7 @@
   "pages": 190,
   "cover": "/covers/computer-games-strategy-plus-121.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -36297,7 +36297,7 @@
   "pages": 116,
   "cover": "/covers/hyper-86.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36507,7 +36507,7 @@
   "pages": 116,
   "cover": "/covers/hyper-76.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36745,7 +36745,7 @@
   "pages": 116,
   "cover": "/covers/hyper-75.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36913,7 +36913,7 @@
   "pages": 164,
   "cover": "/covers/computer-games-strategy-plus-116.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36997,7 +36997,7 @@
   "pages": 96,
   "cover": "/covers/hyper-81.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37235,7 +37235,7 @@
   "pages": 96,
   "cover": "/covers/hyper-80.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37459,7 +37459,7 @@
   "pages": 100,
   "cover": "/covers/hyper-77.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37697,7 +37697,7 @@
   "pages": 100,
   "cover": "/covers/hyper-79.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37865,7 +37865,7 @@
   "pages": 188,
   "cover": "/covers/computer-games-strategy-plus-120.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37949,7 +37949,7 @@
   "pages": 100,
   "cover": "/covers/hyper-85.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38075,7 +38075,7 @@
   "pages": 172,
   "cover": "/covers/computer-games-strategy-plus-119.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38159,7 +38159,7 @@
   "pages": 100,
   "cover": "/covers/hyper-84.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38341,7 +38341,7 @@
   "pages": 100,
   "cover": "/covers/hyper-83.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38607,7 +38607,7 @@
   "pages": 100,
   "cover": "/covers/hyper-90.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38719,7 +38719,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-129.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38803,7 +38803,7 @@
   "pages": 100,
   "cover": "/covers/hyper-94.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -38985,7 +38985,7 @@
   "pages": 100,
   "cover": "/covers/hyper-98.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39069,7 +39069,7 @@
   "pages": 116,
   "cover": "/covers/play-us-200112-play-premiere-issue.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": "Premiere issue"
  },
@@ -39153,7 +39153,7 @@
   "pages": 150,
   "cover": "/covers/computer-games-strategy-plus-123.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -39237,7 +39237,7 @@
   "pages": 100,
   "cover": "/covers/hyper-88.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39377,7 +39377,7 @@
   "pages": 184,
   "cover": "/covers/computer-games-strategy-plus-122.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39727,7 +39727,7 @@
   "pages": 118,
   "cover": "/covers/computer-games-strategy-plus-127.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39811,7 +39811,7 @@
   "pages": 100,
   "cover": "/covers/hyper-92.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -39923,7 +39923,7 @@
   "pages": 136,
   "cover": "/covers/computer-games-strategy-plus-124.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40007,7 +40007,7 @@
   "pages": 100,
   "cover": "/covers/hyper-89.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40147,7 +40147,7 @@
   "pages": 118,
   "cover": "/covers/computer-games-strategy-plus-126.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40231,7 +40231,7 @@
   "pages": 100,
   "cover": "/covers/hyper-91.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40371,7 +40371,7 @@
   "pages": 104,
   "cover": "/covers/computer-games-strategy-plus-132.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40441,7 +40441,7 @@
   "pages": 96,
   "cover": "/covers/hyper-97.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40581,7 +40581,7 @@
   "pages": 104,
   "cover": "/covers/computer-games-strategy-plus-131.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40651,7 +40651,7 @@
   "pages": 84,
   "cover": "/covers/hyper-96.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -40847,7 +40847,7 @@
   "pages": 84,
   "cover": "/covers/hyper-95.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41029,7 +41029,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-137.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41155,7 +41155,7 @@
   "pages": 116,
   "cover": "/covers/play-us-3.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41225,7 +41225,7 @@
   "pages": 102,
   "cover": "/covers/computer-games-strategy-plus-141.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41295,7 +41295,7 @@
   "pages": 100,
   "cover": "/covers/hyper-106.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41365,7 +41365,7 @@
   "pages": 118,
   "cover": "/covers/play-us-8.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41421,7 +41421,7 @@
   "pages": 116,
   "cover": "/covers/computer-games-strategy-plus-145.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41491,7 +41491,7 @@
   "pages": 102,
   "cover": "/covers/hyper-110.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41561,7 +41561,7 @@
   "pages": 140,
   "cover": "/covers/play-us-12.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41757,7 +41757,7 @@
   "pages": 116,
   "cover": "/covers/play-us-1.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41855,7 +41855,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-134.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41925,7 +41925,7 @@
   "pages": 100,
   "cover": "/covers/hyper-99.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42121,7 +42121,7 @@
   "pages": 100,
   "cover": "/covers/hyper-105.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42191,7 +42191,7 @@
   "pages": 123,
   "cover": "/covers/play-us-7.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42275,7 +42275,7 @@
   "pages": 101,
   "cover": "/covers/computer-games-strategy-plus-139.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42401,7 +42401,7 @@
   "pages": 116,
   "cover": "/covers/play-us-6.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42457,7 +42457,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-136.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42583,7 +42583,7 @@
   "pages": 116,
   "cover": "/covers/play-us-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -42709,7 +42709,7 @@
   "pages": 100,
   "cover": "/covers/hyper-103.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42779,7 +42779,7 @@
   "pages": 116,
   "cover": "/covers/play-us-5.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42863,7 +42863,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-144.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42933,7 +42933,7 @@
   "pages": 102,
   "cover": "/covers/hyper-109.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43003,7 +43003,7 @@
   "pages": 142,
   "cover": "/covers/play-us-11.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43087,7 +43087,7 @@
   "pages": 102,
   "cover": "/covers/computer-games-strategy-plus-143.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43157,7 +43157,7 @@
   "pages": 100,
   "cover": "/covers/hyper-108.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43227,7 +43227,7 @@
   "pages": 124,
   "cover": "/covers/play-us-10.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43297,7 +43297,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-142.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43367,7 +43367,7 @@
   "pages": 100,
   "cover": "/covers/hyper-107.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43437,7 +43437,7 @@
   "pages": 118,
   "cover": "/covers/play-us-9.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43605,7 +43605,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-149.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43717,7 +43717,7 @@
   "pages": 108,
   "cover": "/covers/play-us-4.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43801,7 +43801,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-153.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43913,7 +43913,7 @@
   "pages": 112,
   "cover": "/covers/play-us-20.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44011,7 +44011,7 @@
   "pages": 116,
   "cover": "/covers/computer-games-strategy-plus-157.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44123,7 +44123,7 @@
   "pages": 134,
   "cover": "/covers/play-us-24.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44193,7 +44193,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-147.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44263,7 +44263,7 @@
   "pages": 100,
   "cover": "/covers/hyper-112.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44319,7 +44319,7 @@
   "pages": 114,
   "cover": "/covers/play-us-2-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44417,7 +44417,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-146.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44487,7 +44487,7 @@
   "pages": 100,
   "cover": "/covers/hyper-111.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44543,7 +44543,7 @@
   "pages": 118,
   "cover": "/covers/play-us-1-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44627,7 +44627,7 @@
   "pages": 102,
   "cover": "/covers/computer-games-strategy-plus-152.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44725,7 +44725,7 @@
   "pages": 108,
   "cover": "/covers/play-us-19.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44795,7 +44795,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-151.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44921,7 +44921,7 @@
   "pages": 106,
   "cover": "/covers/play-us-18.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45103,7 +45103,7 @@
   "pages": 110,
   "cover": "/covers/play-us-3-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45173,7 +45173,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-150.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45285,7 +45285,7 @@
   "pages": 112,
   "cover": "/covers/play-us-17.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45495,7 +45495,7 @@
   "pages": 136,
   "cover": "/covers/play-us-23.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45691,7 +45691,7 @@
   "pages": 118,
   "cover": "/covers/play-us-22.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45775,7 +45775,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-154.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45887,7 +45887,7 @@
   "pages": 120,
   "cover": "/covers/play-us-21.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46111,7 +46111,7 @@
   "pages": 100,
   "cover": "/covers/play-us-28.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46265,7 +46265,7 @@
   "pages": 102,
   "cover": "/covers/play-us-32.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46447,7 +46447,7 @@
   "pages": 134,
   "cover": "/covers/play-us-36.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46657,7 +46657,7 @@
   "pages": 116,
   "cover": "/covers/play-us-26.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46811,7 +46811,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-158.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -46937,7 +46937,7 @@
   "pages": 116,
   "cover": "/covers/play-us-25.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47091,7 +47091,7 @@
   "pages": 108,
   "cover": "/covers/play-us-31.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47245,7 +47245,7 @@
   "pages": 107,
   "cover": "/covers/play-us-30.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47427,7 +47427,7 @@
   "pages": 120,
   "cover": "/covers/play-us-27.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47609,7 +47609,7 @@
   "pages": 102,
   "cover": "/covers/play-us-29.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47791,7 +47791,7 @@
   "pages": 128,
   "cover": "/covers/play-us-35.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47959,7 +47959,7 @@
   "pages": 120,
   "cover": "/covers/play-us-34.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48155,7 +48155,7 @@
   "pages": 116,
   "cover": "/covers/play-us-33.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48463,7 +48463,7 @@
   "pages": 101,
   "cover": "/covers/computer-games-strategy-plus-173.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48575,7 +48575,7 @@
   "pages": 102,
   "cover": "/covers/play-us-40.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48715,7 +48715,7 @@
   "pages": 102,
   "cover": "/covers/play-us-44.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48869,7 +48869,7 @@
   "pages": 118,
   "cover": "/covers/play-us-48.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49023,7 +49023,7 @@
   "pages": 108,
   "cover": "/covers/play-us-38.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49247,7 +49247,7 @@
   "pages": 122,
   "cover": "/covers/play-us-37.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49317,7 +49317,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-176.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49415,7 +49415,7 @@
   "pages": 118,
   "cover": "/covers/play-us-43.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49471,7 +49471,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-175.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49569,7 +49569,7 @@
   "pages": 118,
   "cover": "/covers/play-us-42.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49709,7 +49709,7 @@
   "pages": 118,
   "cover": "/covers/play-us-39.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49765,7 +49765,7 @@
   "pages": 100,
   "cover": "/covers/computer-games-strategy-plus-174.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49863,7 +49863,7 @@
   "pages": 102,
   "cover": "/covers/play-us-41.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50031,7 +50031,7 @@
   "pages": 160,
   "cover": "/covers/play-us-47.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50171,7 +50171,7 @@
   "pages": 128,
   "cover": "/covers/play-us-46.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50325,7 +50325,7 @@
   "pages": 103,
   "cover": "/covers/play-us-45.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50549,7 +50549,7 @@
   "pages": 102,
   "cover": "/covers/play-us-52.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -50703,7 +50703,7 @@
   "pages": 102,
   "cover": "/covers/play-us-56.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50843,7 +50843,7 @@
   "pages": 134,
   "cover": "/covers/play-us-60.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -50997,7 +50997,7 @@
   "pages": 84,
   "cover": "/covers/play-us-50.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51193,7 +51193,7 @@
   "pages": 84,
   "cover": "/covers/play-us-49.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51347,7 +51347,7 @@
   "pages": 98,
   "cover": "/covers/play-us-55.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51515,7 +51515,7 @@
   "pages": 92,
   "cover": "/covers/play-us-54.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51669,7 +51669,7 @@
   "pages": 102,
   "cover": "/covers/play-us-51.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51823,7 +51823,7 @@
   "pages": 100,
   "cover": "/covers/play-us-53.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -51991,7 +51991,7 @@
   "pages": 114,
   "cover": "/covers/play-us-59.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52145,7 +52145,7 @@
   "pages": 100,
   "cover": "/covers/play-us-58.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52313,7 +52313,7 @@
   "pages": 104,
   "cover": "/covers/play-us-57.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52565,7 +52565,7 @@
   "pages": 84,
   "cover": "/covers/play-us-64.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -52691,7 +52691,7 @@
   "pages": 100,
   "cover": "/covers/play-us-68.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52817,7 +52817,7 @@
   "pages": 124,
   "cover": "/covers/play-us-72.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -52957,7 +52957,7 @@
   "pages": 100,
   "cover": "/covers/play-us-62.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -53167,7 +53167,7 @@
   "pages": 116,
   "cover": "/covers/play-us-61.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53307,7 +53307,7 @@
   "pages": 100,
   "cover": "/covers/play-us-67.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53433,7 +53433,7 @@
   "pages": 116,
   "cover": "/covers/play-us-66.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53559,7 +53559,7 @@
   "pages": 100,
   "cover": "/covers/play-us-63.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53699,7 +53699,7 @@
   "pages": 100,
   "cover": "/covers/play-us-65.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53825,7 +53825,7 @@
   "pages": 140,
   "cover": "/covers/play-us-71.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -53951,7 +53951,7 @@
   "pages": 134,
   "cover": "/covers/play-us-70.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54063,7 +54063,7 @@
   "pages": 118,
   "cover": "/covers/play-us-69.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -54329,7 +54329,7 @@
   "pages": 106,
   "cover": "/covers/play-us-76.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -54441,7 +54441,7 @@
   "pages": 100,
   "cover": "/covers/play-us-80.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54553,7 +54553,7 @@
   "pages": 116,
   "cover": "/covers/play-us-84.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54679,7 +54679,7 @@
   "pages": 92,
   "cover": "/covers/play-us-74.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -54847,7 +54847,7 @@
   "pages": 92,
   "cover": "/covers/play-us-73.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -54973,7 +54973,7 @@
   "pages": 100,
   "cover": "/covers/play-us-79.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55099,7 +55099,7 @@
   "pages": 100,
   "cover": "/covers/play-us-78.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55211,7 +55211,7 @@
   "pages": 102,
   "cover": "/covers/play-us-75.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55337,7 +55337,7 @@
   "pages": 98,
   "cover": "/covers/play-us-77.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55463,7 +55463,7 @@
   "pages": 116,
   "cover": "/covers/play-us-83.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55589,7 +55589,7 @@
   "pages": 128,
   "cover": "/covers/play-us-82.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55687,7 +55687,7 @@
   "pages": 112,
   "cover": "/covers/play-us-81.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55827,7 +55827,7 @@
   "pages": 92,
   "cover": "/covers/play-us-88.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -55925,7 +55925,7 @@
   "pages": 92,
   "cover": "/covers/play-us-92.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56023,7 +56023,7 @@
   "pages": 102,
   "cover": "/covers/play-us-96.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56149,7 +56149,7 @@
   "pages": 92,
   "cover": "/covers/play-us-86.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56317,7 +56317,7 @@
   "pages": 100,
   "cover": "/covers/play-us-85.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56429,7 +56429,7 @@
   "pages": 95,
   "cover": "/covers/play-us-91.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56541,7 +56541,7 @@
   "pages": 92,
   "cover": "/covers/play-us-90.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56639,7 +56639,7 @@
   "pages": 92,
   "cover": "/covers/play-us-87.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56751,7 +56751,7 @@
   "pages": 94,
   "cover": "/covers/play-us-89.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56849,7 +56849,7 @@
   "pages": 99,
   "cover": "/covers/play-us-95.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -56947,7 +56947,7 @@
   "pages": 100,
   "cover": "/covers/play-us-94.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57031,7 +57031,7 @@
   "pages": 92,
   "cover": "/covers/play-us-93.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -57647,7 +57647,7 @@
   "pages": 92,
   "cover": "/covers/play-us-97.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
