@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-1/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-1-2/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-2/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-2-2/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-3/manifest.json"
   }
  },
  {
@@ -206,7 +211,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-3-2/manifest.json"
   }
  },
  {
@@ -241,7 +247,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-4/manifest.json"
   }
  },
  {
@@ -276,7 +283,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-4-2/manifest.json"
   }
  },
  {
@@ -311,7 +319,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-5/manifest.json"
   }
  },
  {
@@ -346,7 +355,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-5-2/manifest.json"
   }
  },
  {
@@ -381,7 +391,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-6/manifest.json"
   }
  },
  {
@@ -416,7 +427,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-6-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-6-2/manifest.json"
   }
  },
  {
@@ -451,7 +463,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-7/manifest.json"
   }
  },
  {
@@ -486,7 +499,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-7-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-7-2/manifest.json"
   }
  },
  {
@@ -521,7 +535,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-8/manifest.json"
   }
  },
  {
@@ -556,7 +571,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-8-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-8-2/manifest.json"
   }
  },
  {
@@ -591,7 +607,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-9/manifest.json"
   }
  },
  {
@@ -626,7 +643,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/incite-9-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/incite-9-2/manifest.json"
   }
  }
 ]

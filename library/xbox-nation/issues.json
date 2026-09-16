@@ -31,7 +31,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-1/manifest.json"
   }
  },
  {
@@ -66,7 +67,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-2/manifest.json"
   }
  },
  {
@@ -101,7 +103,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-3/manifest.json"
   }
  },
  {
@@ -136,7 +139,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-4/manifest.json"
   }
  },
  {
@@ -171,7 +175,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-5/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-6/manifest.json"
   }
  },
  {
@@ -243,7 +249,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-7/manifest.json"
   }
  },
  {
@@ -279,7 +286,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-8/manifest.json"
   }
  },
  {
@@ -315,7 +323,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-9/manifest.json"
   }
  },
  {
@@ -351,7 +360,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-10/manifest.json"
   }
  },
  {
@@ -386,7 +396,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-12/manifest.json"
   }
  },
  {
@@ -421,7 +432,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-15.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-15/manifest.json"
   }
  },
  {
@@ -456,7 +468,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-17.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-17/manifest.json"
   }
  },
  {
@@ -491,7 +504,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-18.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-18/manifest.json"
   }
  },
  {
@@ -526,7 +540,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-19.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-19/manifest.json"
   }
  },
  {
@@ -562,7 +577,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-11/manifest.json"
   }
  },
  {
@@ -632,7 +648,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-22.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-22/manifest.json"
   }
  },
  {
@@ -667,7 +684,8 @@
   "updated_at": "2026-09-14T09:36:08+00:00",
   "assets": {
    "cover": "covers/xbox-nation-23.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/xbox-nation-23/manifest.json"
   }
  }
 ]

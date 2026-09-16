@@ -32,7 +32,8 @@
   "special": "Premiere issue",
   "assets": {
    "cover": "covers/psx-199509-p-s-x-premiere-issue.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199509-p-s-x-premiere-issue/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199601-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199601-p-s-x/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199603-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199603-p-s-x/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199605-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199605-p-s-x/manifest.json"
   }
  },
  {
@@ -173,7 +177,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199606-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199606-p-s-x/manifest.json"
   }
  },
  {
@@ -209,7 +214,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199608-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199608-p-s-x/manifest.json"
   }
  },
  {
@@ -244,7 +250,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199610-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199610-p-s-x/manifest.json"
   }
  },
  {
@@ -279,7 +286,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199611-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199611-p-s-x/manifest.json"
   }
  },
  {
@@ -315,7 +323,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199612-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199612-p-s-x/manifest.json"
   }
  },
  {
@@ -350,7 +359,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199702-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199702-p-s-x/manifest.json"
   }
  },
  {
@@ -385,7 +395,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199703-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199703-p-s-x/manifest.json"
   }
  },
  {
@@ -420,7 +431,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199704-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199704-p-s-x/manifest.json"
   }
  },
  {
@@ -455,7 +467,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199705-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199705-p-s-x/manifest.json"
   }
  },
  {
@@ -490,7 +503,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199706-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199706-p-s-x/manifest.json"
   }
  },
  {
@@ -525,7 +539,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199707-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199707-p-s-x/manifest.json"
   }
  },
  {
@@ -560,7 +575,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199708-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199708-p-s-x/manifest.json"
   }
  },
  {
@@ -595,7 +611,8 @@
   "updated_at": "2026-09-14T09:36:01+00:00",
   "assets": {
    "cover": "covers/psx-199709-p-s-x.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/psx-199709-p-s-x/manifest.json"
   }
  }
 ]

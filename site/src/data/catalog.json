@@ -121,7 +121,7 @@
   "pages": 17,
   "cover": "/covers/the-logical-gamer-1.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -261,7 +261,7 @@
   "pages": 21,
   "cover": "/covers/the-logical-gamer-5.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -555,7 +555,7 @@
   "pages": 20,
   "cover": "/covers/the-logical-gamer-4.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -653,7 +653,7 @@
   "pages": 17,
   "cover": "/covers/the-logical-gamer-3.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -751,7 +751,7 @@
   "pages": 17,
   "cover": "/covers/the-logical-gamer-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -947,7 +947,7 @@
   "pages": 25,
   "cover": "/covers/the-logical-gamer-9.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1073,7 +1073,7 @@
   "pages": 25,
   "cover": "/covers/the-logical-gamer-1-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1311,7 +1311,7 @@
   "pages": 21,
   "cover": "/covers/the-logical-gamer-7.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1437,7 +1437,7 @@
   "pages": 21,
   "cover": "/covers/the-logical-gamer-6.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1591,7 +1591,7 @@
   "pages": 29,
   "cover": "/covers/the-logical-gamer-12.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1731,7 +1731,7 @@
   "pages": 25,
   "cover": "/covers/the-logical-gamer-11.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1871,7 +1871,7 @@
   "pages": 21,
   "cover": "/covers/the-logical-gamer-8.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -1969,7 +1969,7 @@
   "pages": 25,
   "cover": "/covers/the-logical-gamer-10.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2151,7 +2151,7 @@
   "pages": 25,
   "cover": "/covers/the-logical-gamer-4-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2207,7 +2207,7 @@
   "pages": 25,
   "cover": "/covers/the-logical-gamer-3-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -2333,7 +2333,7 @@
   "pages": 25,
   "cover": "/covers/the-logical-gamer-2-2.jpg",
   "era": "early",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17243,7 +17243,7 @@
   "pages": 96,
   "cover": "/covers/computer-player-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -17523,7 +17523,7 @@
   "pages": 96,
   "cover": "/covers/computer-player-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -18489,7 +18489,7 @@
   "pages": 96,
   "cover": "/covers/computer-player-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19133,7 +19133,7 @@
   "pages": 80,
   "cover": "/covers/computer-player-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19875,7 +19875,7 @@
   "pages": 100,
   "cover": "/covers/internet-underground-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -19889,7 +19889,7 @@
   "pages": 36,
   "cover": "/covers/internet-underground-199512-webguide-the-underground-guide-to-what-s-hot-on.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20099,7 +20099,7 @@
   "pages": 68,
   "cover": "/covers/psx-199509-p-s-x-premiere-issue.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": "Premiere issue"
  },
@@ -20505,7 +20505,7 @@
   "pages": 96,
   "cover": "/covers/computer-player-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -20799,7 +20799,7 @@
   "pages": 96,
   "cover": "/covers/computer-player-2-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21051,7 +21051,7 @@
   "pages": 96,
   "cover": "/covers/computer-player-1-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21345,7 +21345,7 @@
   "pages": 96,
   "cover": "/covers/computer-player-10.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -21681,7 +21681,7 @@
   "pages": 100,
   "cover": "/covers/computer-player-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -22017,7 +22017,7 @@
   "pages": 104,
   "cover": "/covers/computer-player-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23095,7 +23095,7 @@
   "pages": 102,
   "cover": "/covers/internet-underground-5.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23263,7 +23263,7 @@
   "pages": 100,
   "cover": "/covers/computer-player-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23403,7 +23403,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23557,7 +23557,7 @@
   "pages": 68,
   "cover": "/covers/psx-199608-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23613,7 +23613,7 @@
   "pages": 126,
   "cover": "/covers/computer-player-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23739,7 +23739,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-1-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23851,7 +23851,7 @@
   "pages": 116,
   "cover": "/covers/psx-199612-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -23935,7 +23935,7 @@
   "pages": 100,
   "cover": "/covers/computer-player-9.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24061,7 +24061,7 @@
   "pages": 104,
   "cover": "/covers/internet-underground-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24285,7 +24285,7 @@
   "pages": 100,
   "cover": "/covers/computer-player-8-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24397,7 +24397,7 @@
   "pages": 100,
   "cover": "/covers/internet-underground-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24495,7 +24495,7 @@
   "pages": 100,
   "cover": "/covers/psx-199601-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24705,7 +24705,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-8.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -24985,7 +24985,7 @@
   "pages": 86,
   "cover": "/covers/internet-underground-7.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25139,7 +25139,7 @@
   "pages": 84,
   "cover": "/covers/psx-199606-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25391,7 +25391,7 @@
   "pages": 68,
   "cover": "/covers/psx-199603-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25503,7 +25503,7 @@
   "pages": 100,
   "cover": "/covers/computer-player-12-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25629,7 +25629,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-6.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25713,7 +25713,7 @@
   "pages": 84,
   "cover": "/covers/psx-199605-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -25797,7 +25797,7 @@
   "pages": 114,
   "cover": "/covers/computer-player-6-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },
@@ -25937,7 +25937,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-12.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26021,7 +26021,7 @@
   "pages": 132,
   "cover": "/covers/psx-199611-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26203,7 +26203,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-11.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26287,7 +26287,7 @@
   "pages": 116,
   "cover": "/covers/psx-199610-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26763,7 +26763,7 @@
   "pages": 120,
   "cover": "/covers/computer-player-11-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26875,7 +26875,7 @@
   "pages": 86,
   "cover": "/covers/internet-underground-4.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -26945,7 +26945,7 @@
   "pages": 84,
   "cover": "/covers/psx-199704-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27169,7 +27169,7 @@
   "pages": 84,
   "cover": "/covers/psx-199708-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27659,7 +27659,7 @@
   "pages": 84,
   "cover": "/covers/psx-199702-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -27981,7 +27981,7 @@
   "pages": 126,
   "cover": "/covers/computer-player-2-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28177,7 +28177,7 @@
   "pages": 84,
   "cover": "/covers/psx-199707-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28373,7 +28373,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-6-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28443,7 +28443,7 @@
   "pages": 84,
   "cover": "/covers/psx-199706-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28695,7 +28695,7 @@
   "pages": 84,
   "cover": "/covers/psx-199703-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28751,7 +28751,7 @@
   "pages": 122,
   "cover": "/covers/computer-player-12-3.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28863,7 +28863,7 @@
   "pages": 84,
   "cover": "/covers/internet-underground-5-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -28933,7 +28933,7 @@
   "pages": 84,
   "cover": "/covers/psx-199705-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29003,7 +29003,7 @@
   "pages": 144,
   "cover": "/covers/computer-player-5-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -29675,7 +29675,7 @@
   "pages": 85,
   "cover": "/covers/psx-199709-p-s-x.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33483,7 +33483,7 @@
   "pages": 198,
   "cover": "/covers/incite-1.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -33497,7 +33497,7 @@
   "pages": 182,
   "cover": "/covers/incite-1-2.jpg",
   "era": "cdrom",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35793,7 +35793,7 @@
   "pages": 136,
   "cover": "/covers/incite-5.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -35807,7 +35807,7 @@
   "pages": 126,
   "cover": "/covers/incite-5-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36017,7 +36017,7 @@
   "pages": 124,
   "cover": "/covers/incite-9.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36031,7 +36031,7 @@
   "pages": 148,
   "cover": "/covers/incite-9-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36521,7 +36521,7 @@
   "pages": 186,
   "cover": "/covers/incite-3.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36535,7 +36535,7 @@
   "pages": 150,
   "cover": "/covers/incite-3-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36759,7 +36759,7 @@
   "pages": 198,
   "cover": "/covers/incite-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -36773,7 +36773,7 @@
   "pages": 190,
   "cover": "/covers/incite-2-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37011,7 +37011,7 @@
   "pages": 148,
   "cover": "/covers/incite-8.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37025,7 +37025,7 @@
   "pages": 146,
   "cover": "/covers/incite-8-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37249,7 +37249,7 @@
   "pages": 126,
   "cover": "/covers/incite-7.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37263,7 +37263,7 @@
   "pages": 126,
   "cover": "/covers/incite-7-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37473,7 +37473,7 @@
   "pages": 150,
   "cover": "/covers/incite-4.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37487,7 +37487,7 @@
   "pages": 150,
   "cover": "/covers/incite-4-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37711,7 +37711,7 @@
   "pages": 124,
   "cover": "/covers/incite-6.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -37725,7 +37725,7 @@
   "pages": 124,
   "cover": "/covers/incite-6-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -41603,7 +41603,7 @@
   "pages": 136,
   "cover": "/covers/xbox-nation-4.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -42037,7 +42037,7 @@
   "pages": 124,
   "cover": "/covers/xbox-nation-1.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43493,7 +43493,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-2.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43521,7 +43521,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-3.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43563,7 +43563,7 @@
   "pages": 128,
   "cover": "/covers/xbox-nation-5.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43759,7 +43759,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-7.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -43969,7 +43969,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-9.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44361,7 +44361,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-6.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -44977,7 +44977,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-8.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -45733,7 +45733,7 @@
   "pages": 114,
   "cover": "/covers/xbox-nation-10.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46307,7 +46307,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-17.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -46503,7 +46503,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-11.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47287,7 +47287,7 @@
   "pages": 118,
   "cover": "/covers/xbox-nation-15.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -47483,7 +47483,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-12.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48015,7 +48015,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-19.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -48197,7 +48197,7 @@
   "pages": 116,
   "cover": "/covers/xbox-nation-18.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49079,7 +49079,7 @@
   "pages": 116,
   "cover": "/covers/xbox-nation-23.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
@@ -49289,7 +49289,7 @@
   "pages": 112,
   "cover": "/covers/xbox-nation-22.jpg",
   "era": "2000s",
-  "readable": false,
+  "readable": true,
   "hasText": false,
   "special": null
  },

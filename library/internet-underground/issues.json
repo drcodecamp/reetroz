@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/internet-underground-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-199512-webguide-the-underground-guide-to-what-s-hot-on.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-199512-webguide-the-underground-guide-to-what-s-hot-on/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-2/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-3/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-5/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-6/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-7/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-8/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-9/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-11/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-12/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-1-2/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-4/manifest.json"
   }
  },
  {
@@ -487,7 +500,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-5-2/manifest.json"
   }
  },
  {
@@ -522,7 +536,8 @@
   "updated_at": "2026-09-14T09:33:59+00:00",
   "assets": {
    "cover": "covers/internet-underground-6-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/internet-underground-6-2/manifest.json"
   }
  }
 ]

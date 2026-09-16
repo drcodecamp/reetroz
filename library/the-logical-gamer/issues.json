@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/the-logical-gamer-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-2/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-3/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-4.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-4/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-5/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-6/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-7/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-8/manifest.json"
   }
  },
  {
@@ -312,7 +320,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-9/manifest.json"
   }
  },
  {
@@ -347,7 +356,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-10/manifest.json"
   }
  },
  {
@@ -382,7 +392,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-11/manifest.json"
   }
  },
  {
@@ -417,7 +428,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-12/manifest.json"
   }
  },
  {
@@ -452,7 +464,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-1-2/manifest.json"
   }
  },
  {
@@ -488,7 +501,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/the-logical-gamer-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-2-2/manifest.json"
   }
  },
  {
@@ -523,7 +537,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-3-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-3-2/manifest.json"
   }
  },
  {
@@ -559,7 +574,8 @@
   "updated_at": "2026-09-14T09:36:02+00:00",
   "assets": {
    "cover": "covers/the-logical-gamer-4-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/the-logical-gamer-4-2/manifest.json"
   }
  }
 ]

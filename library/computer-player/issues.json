@@ -32,7 +32,8 @@
   "volume": 1,
   "assets": {
    "cover": "covers/computer-player-1.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-1/manifest.json"
   }
  },
  {
@@ -67,7 +68,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-2/manifest.json"
   }
  },
  {
@@ -102,7 +104,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-5.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-5/manifest.json"
   }
  },
  {
@@ -137,7 +140,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-8.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-8/manifest.json"
   }
  },
  {
@@ -172,7 +176,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-10.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-10/manifest.json"
   }
  },
  {
@@ -207,7 +212,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-11.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-11/manifest.json"
   }
  },
  {
@@ -242,7 +248,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-12.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-12/manifest.json"
   }
  },
  {
@@ -277,7 +284,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-1-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-1-2/manifest.json"
   }
  },
  {
@@ -313,7 +321,8 @@
   "volume": 2,
   "assets": {
    "cover": "covers/computer-player-2-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-2-2/manifest.json"
   }
  },
  {
@@ -348,7 +357,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-6.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-6/manifest.json"
   }
  },
  {
@@ -383,7 +393,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-8-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-8-2/manifest.json"
   }
  },
  {
@@ -418,7 +429,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-9.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-9/manifest.json"
   }
  },
  {
@@ -453,7 +465,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-12-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-12-2/manifest.json"
   }
  },
  {
@@ -489,7 +502,8 @@
   "volume": 3,
   "assets": {
    "cover": "covers/computer-player-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-3/manifest.json"
   }
  },
  {
@@ -524,7 +538,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-6-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-6-2/manifest.json"
   }
  },
  {
@@ -559,7 +574,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-7.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-7/manifest.json"
   }
  },
  {
@@ -594,7 +610,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-11-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-11-2/manifest.json"
   }
  },
  {
@@ -629,7 +646,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-12-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-12-3/manifest.json"
   }
  },
  {
@@ -664,7 +682,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-2-3.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-2-3/manifest.json"
   }
  },
  {
@@ -699,7 +718,8 @@
   "updated_at": "2026-09-14T09:33:13+00:00",
   "assets": {
    "cover": "covers/computer-player-5-2.jpg",
-   "pages_rendered": false
+   "pages_rendered": true,
+   "manifest": "site/public/pages/computer-player-5-2/manifest.json"
   }
  }
 ]
