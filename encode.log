@@ -1,0 +1,1304 @@
+4 titles: play-us, hyper, computer-entertainer, computer-games-strategy-plus
+
+=== start render play-us ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication play-us --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+
+=== start render hyper ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication hyper --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+
+=== start render computer-entertainer ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication computer-entertainer --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+
+=== start render computer-games-strategy-plus ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication computer-games-strategy-plus --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+97 issues / 10669 pages to render with 4 workers
+98 issues / 9384 pages to render with 4 workers
+102 issues / 1510 pages to render with 4 workers
+117 issues / 14310 pages to render with 4 workers
+  FAILED computer-games-strategy-plus-176: RuntimeError('WebP encode failed for 025.webp: failed to read next frame')
+  computer-entertainer-4-9: page 16/16  (13s)
+  [1/102] computer-entertainer-4-9: 16 pages in 13s | 16/1510 pages, 1.2 p/s, ETA 21 min
+  computer-entertainer-1-8: page 16/16  (14s)
+  [2/102] computer-entertainer-1-8: 16 pages in 14s | 32/1510 pages, 2.2 p/s, ETA 11 min
+  FAILED computer-entertainer-3-9: RuntimeError('WebP encode failed for 013.webp: decoded WebP does not match source')
+  computer-entertainer-2-8: page 16/16  (15s)
+  [4/102] computer-entertainer-2-8: 16 pages in 15s | 48/1510 pages, 3.1 p/s, ETA 8 min
+  play-us-97: page 50/92  (18s)
+  FAILED hyper-111: RuntimeError('WebP encode failed for 020.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-174: page 50/100  (19s)
+  computer-games-strategy-plus-175: page 50/100  (23s)
+  FAILED computer-games-strategy-plus-173: RuntimeError('WebP encode failed for 042.webp: decoded WebP does not match source')
+  computer-entertainer-12-8: page 16/16  (13s)
+  [5/102] computer-entertainer-12-8: 16 pages in 13s | 64/1510 pages, 2.4 p/s, ETA 10 min
+  computer-entertainer-9-8: page 16/16  (12s)
+  [6/102] computer-entertainer-9-8: 16 pages in 12s | 80/1510 pages, 2.9 p/s, ETA 8 min
+  FAILED hyper-109: RuntimeError('WebP encode failed for 028.webp: decoded WebP does not match source')
+  FAILED play-us-94: RuntimeError('WebP encode failed for 032.webp: failed to read next frame')
+  computer-games-strategy-plus-158: page 50/100  (20s)
+  computer-entertainer-11-8: page 16/16  (19s)
+  [7/102] computer-entertainer-11-8: 16 pages in 19s | 96/1510 pages, 2.8 p/s, ETA 8 min
+  play-us-97: page 92/92  (34s)
+  [2/97] play-us-97: 92 pages in 34s | 92/10669 pages, 2.7 p/s, ETA 66 min
+  FAILED computer-games-strategy-plus-157: RuntimeError('WebP encode failed for 008.webp: decoded WebP does not match source')
+  computer-entertainer-8-8: page 16/16  (10s)
+  [8/102] computer-entertainer-8-8: 16 pages in 10s | 112/1510 pages, 3.0 p/s, ETA 8 min
+  computer-games-strategy-plus-174: page 100/100  (37s)
+  [4/117] computer-games-strategy-plus-174: 100 pages in 37s | 100/14310 pages, 2.7 p/s, ETA 89 min
+  computer-entertainer-7-8: page 16/16  (11s)
+  [9/102] computer-entertainer-7-8: 16 pages in 11s | 128/1510 pages, 3.3 p/s, ETA 7 min
+  computer-entertainer-10-8: page 24/24  (25s)
+  [10/102] computer-entertainer-10-8: 24 pages in 25s | 152/1510 pages, 3.8 p/s, ETA 6 min
+  computer-games-strategy-plus-175: page 100/100  (40s)
+  [5/117] computer-games-strategy-plus-175: 100 pages in 41s | 200/14310 pages, 4.9 p/s, ETA 48 min
+  FAILED hyper-108: RuntimeError('WebP encode failed for 014.webp: failed to read next frame')
+  play-us-96: page 50/102  (42s)
+  computer-entertainer-6-8: page 16/16  (10s)
+  [11/102] computer-entertainer-6-8: 16 pages in 10s | 168/1510 pages, 3.9 p/s, ETA 6 min
+  hyper-110: page 50/102  (42s)
+  FAILED computer-games-strategy-plus-154: RuntimeError('WebP encode failed for 010.webp: decoded WebP does not match source')
+  computer-entertainer-5-8: page 16/16  (10s)
+  [12/102] computer-entertainer-5-8: 16 pages in 10s | 184/1510 pages, 3.9 p/s, ETA 6 min
+  computer-entertainer-4-8: page 16/16  (9s)
+  [13/102] computer-entertainer-4-8: 16 pages in 9s | 200/1510 pages, 4.2 p/s, ETA 5 min
+  FAILED hyper-110: RuntimeError('WebP encode failed for 051.webp: decoded WebP does not match source')
+  play-us-92: page 50/92  (16s)
+  computer-games-strategy-plus-158: page 100/100  (38s)
+  [7/117] computer-games-strategy-plus-158: 100 pages in 38s | 300/14310 pages, 5.9 p/s, ETA 39 min
+  hyper-112: page 50/100  (49s)
+  computer-entertainer-3-8: page 16/16  (11s)
+  [14/102] computer-entertainer-3-8: 16 pages in 11s | 216/1510 pages, 4.3 p/s, ETA 5 min
+  computer-entertainer-2-7: page 16/16  (10s)
+  [15/102] computer-entertainer-2-7: 16 pages in 10s | 232/1510 pages, 4.3 p/s, ETA 5 min
+  computer-entertainer-1-7: page 16/16  (11s)
+  [16/102] computer-entertainer-1-7: 16 pages in 11s | 248/1510 pages, 4.3 p/s, ETA 5 min
+  play-us-95: page 50/99  (57s)
+  computer-entertainer-12-7: page 16/16  (11s)
+  [17/102] computer-entertainer-12-7: 16 pages in 11s | 264/1510 pages, 4.5 p/s, ETA 5 min
+  computer-entertainer-11-7: page 16/16  (12s)
+  [18/102] computer-entertainer-11-7: 16 pages in 12s | 280/1510 pages, 4.5 p/s, ETA 5 min
+  computer-entertainer-198902-master-index-and-awards-1982-1988: page 16/16  (9s)
+  [19/102] computer-entertainer-198902-master-index-and-awards-1982-1988: 16 pages in 9s | 296/1510 pages, 4.7 p/s, ETA 4 min
+  play-us-92: page 92/92  (30s)
+  [3/97] play-us-92: 92 pages in 30s | 184/10669 pages, 2.9 p/s, ETA 61 min
+  FAILED computer-games-strategy-plus-152: RuntimeError('WebP encode failed for 031.webp: failed to read next frame')
+  computer-entertainer-10-7: page 16/16  (11s)
+  [20/102] computer-entertainer-10-7: 16 pages in 11s | 312/1510 pages, 4.5 p/s, ETA 4 min
+  computer-entertainer-9-7: page 16/16  (11s)
+  [21/102] computer-entertainer-9-7: 16 pages in 11s | 328/1510 pages, 4.7 p/s, ETA 4 min
+  computer-entertainer-7-7: page 16/16  (10s)
+  [22/102] computer-entertainer-7-7: 16 pages in 10s | 344/1510 pages, 4.7 p/s, ETA 4 min
+  play-us-93: page 50/92  (42s)
+  computer-entertainer-8-7: page 16/16  (12s)
+  [23/102] computer-entertainer-8-7: 16 pages in 12s | 360/1510 pages, 4.8 p/s, ETA 4 min
+  hyper-107: page 50/100  (45s)
+  computer-entertainer-6-7: page 16/16  (10s)
+  [24/102] computer-entertainer-6-7: 16 pages in 10s | 376/1510 pages, 4.8 p/s, ETA 4 min
+  computer-games-strategy-plus-153: page 50/100  (44s)
+  computer-entertainer-5-7: page 16/16  (12s)
+  [25/102] computer-entertainer-5-7: 16 pages in 12s | 392/1510 pages, 4.8 p/s, ETA 4 min
+  play-us-91: page 50/95  (18s)
+  computer-entertainer-4-7: page 16/16  (12s)
+  [26/102] computer-entertainer-4-7: 16 pages in 12s | 408/1510 pages, 4.8 p/s, ETA 4 min
+  computer-entertainer-3-7: page 16/16  (12s)
+  [27/102] computer-entertainer-3-7: 16 pages in 12s | 424/1510 pages, 4.9 p/s, ETA 4 min
+  hyper-106: page 50/100  (45s)
+  computer-games-strategy-plus-151: page 50/100  (42s)
+  computer-entertainer-2-6: page 16/16  (10s)
+  [28/102] computer-entertainer-2-6: 16 pages in 10s | 440/1510 pages, 4.9 p/s, ETA 4 min
+  hyper-112: page 100/100  (88s)
+  [5/98] hyper-112: 100 pages in 89s | 100/9384 pages, 1.1 p/s, ETA 139 min
+  hyper-105: page 50/100  (41s)
+  computer-entertainer-1-6: page 16/16  (12s)
+  [29/102] computer-entertainer-1-6: 16 pages in 12s | 456/1510 pages, 4.8 p/s, ETA 4 min
+  play-us-96: page 100/102  (95s)
+  computer-entertainer-12-6: page 16/16  (11s)
+  [30/102] computer-entertainer-12-6: 16 pages in 11s | 472/1510 pages, 4.9 p/s, ETA 4 min
+  computer-entertainer-11-6: page 16/16  (11s)
+  [31/102] computer-entertainer-11-6: 16 pages in 11s | 488/1510 pages, 5.0 p/s, ETA 3 min
+  play-us-96: page 102/102  (96s)
+  [4/97] play-us-96: 102 pages in 97s | 286/10669 pages, 2.9 p/s, ETA 59 min
+  play-us-91: page 95/95  (37s)
+  [5/97] play-us-91: 95 pages in 37s | 381/10669 pages, 3.8 p/s, ETA 46 min
+  computer-entertainer-10-6: page 16/16  (12s)
+  [32/102] computer-entertainer-10-6: 16 pages in 12s | 504/1510 pages, 5.0 p/s, ETA 3 min
+  computer-games-strategy-plus-150: page 50/100  (51s)
+  play-us-95: page 99/99  (100s)
+  [6/97] play-us-95: 99 pages in 102s | 480/10669 pages, 4.7 p/s, ETA 36 min
+  FAILED computer-games-strategy-plus-149: RuntimeError('WebP encode failed for 033.webp: decoded WebP does not match source')
+  computer-entertainer-9-6: page 16/16  (11s)
+  [33/102] computer-entertainer-9-6: 16 pages in 11s | 520/1510 pages, 4.9 p/s, ETA 3 min
+  computer-entertainer-8-6: page 16/16  (11s)
+  [34/102] computer-entertainer-8-6: 16 pages in 11s | 536/1510 pages, 5.0 p/s, ETA 3 min
+  computer-entertainer-7-6: page 16/16  (11s)
+  [35/102] computer-entertainer-7-6: 16 pages in 11s | 552/1510 pages, 5.1 p/s, ETA 3 min
+  computer-entertainer-6-6: page 16/16  (11s)
+  [36/102] computer-entertainer-6-6: 16 pages in 11s | 568/1510 pages, 5.1 p/s, ETA 3 min
+  hyper-107: page 100/100  (82s)
+  [6/98] hyper-107: 100 pages in 83s | 200/9384 pages, 1.8 p/s, ETA 86 min
+  play-us-93: page 92/92  (81s)
+  [7/97] play-us-93: 92 pages in 82s | 572/10669 pages, 5.0 p/s, ETA 33 min
+  computer-entertainer-5-6: page 16/16  (11s)
+  [37/102] computer-entertainer-5-6: 16 pages in 11s | 584/1510 pages, 5.0 p/s, ETA 3 min
+  computer-entertainer-4-6: page 16/16  (10s)
+  [38/102] computer-entertainer-4-6: 16 pages in 10s | 600/1510 pages, 5.1 p/s, ETA 3 min
+  computer-entertainer-3-6: page 16/16  (11s)
+  [39/102] computer-entertainer-3-6: 16 pages in 11s | 616/1510 pages, 5.2 p/s, ETA 3 min
+  computer-entertainer-2-5: page 16/16  (10s)
+  [40/102] computer-entertainer-2-5: 16 pages in 10s | 632/1510 pages, 5.1 p/s, ETA 3 min
+  computer-games-strategy-plus-153: page 100/100  (86s)
+  [10/117] computer-games-strategy-plus-153: 100 pages in 86s | 400/14310 pages, 3.2 p/s, ETA 72 min
+  computer-entertainer-198703-special-fifth-birthday-edition: page 8/8  (6s)
+  [41/102] computer-entertainer-198703-special-fifth-birthday-edition: 8 pages in 6s | 640/1510 pages, 5.2 p/s, ETA 3 min
+  hyper-106: page 100/100  (83s)
+  [7/98] hyper-106: 100 pages in 84s | 300/9384 pages, 2.4 p/s, ETA 63 min
+  computer-entertainer-1-5: page 16/16  (10s)
+  [42/102] computer-entertainer-1-5: 16 pages in 10s | 656/1510 pages, 5.2 p/s, ETA 3 min
+  computer-entertainer-12-5: page 16/16  (11s)
+  [43/102] computer-entertainer-12-5: 16 pages in 11s | 672/1510 pages, 5.2 p/s, ETA 3 min
+  hyper-105: page 100/100  (81s)
+  [8/98] hyper-105: 100 pages in 82s | 400/9384 pages, 3.1 p/s, ETA 49 min
+  computer-games-strategy-plus-151: page 100/100  (86s)
+  [11/117] computer-games-strategy-plus-151: 100 pages in 86s | 500/14310 pages, 3.8 p/s, ETA 61 min
+  computer-entertainer-11-5: page 16/16  (11s)
+  [44/102] computer-entertainer-11-5: 16 pages in 11s | 688/1510 pages, 5.1 p/s, ETA 3 min
+  computer-entertainer-10-5: page 16/16  (12s)
+  [45/102] computer-entertainer-10-5: 16 pages in 12s | 704/1510 pages, 5.2 p/s, ETA 3 min
+  computer-games-strategy-plus-147: page 50/100  (35s)
+  hyper-103: page 50/100  (47s)
+  computer-entertainer-9-5: page 16/16  (11s)
+  [46/102] computer-entertainer-9-5: 16 pages in 11s | 720/1510 pages, 5.2 p/s, ETA 3 min
+  computer-entertainer-8-5: page 16/16  (11s)
+  [47/102] computer-entertainer-8-5: 16 pages in 11s | 736/1510 pages, 5.3 p/s, ETA 2 min
+  computer-games-strategy-plus-150: page 100/100  (92s)
+  [12/117] computer-games-strategy-plus-150: 100 pages in 92s | 600/14310 pages, 4.2 p/s, ETA 54 min
+  play-us-90: page 50/92  (46s)
+  play-us-88: page 50/92  (43s)
+  computer-entertainer-7-5: page 16/16  (12s)
+  [48/102] computer-entertainer-7-5: 16 pages in 12s | 752/1510 pages, 5.2 p/s, ETA 2 min
+  computer-entertainer-6-5: page 16/16  (11s)
+  [49/102] computer-entertainer-6-5: 16 pages in 11s | 768/1510 pages, 5.2 p/s, ETA 2 min
+  play-us-89: page 50/94  (47s)
+  computer-entertainer-4-5: page 16/16  (11s)
+  [50/102] computer-entertainer-4-5: 16 pages in 11s | 784/1510 pages, 5.3 p/s, ETA 2 min
+  computer-entertainer-5-5: page 16/16  (11s)
+  [51/102] computer-entertainer-5-5: 16 pages in 11s | 800/1510 pages, 5.3 p/s, ETA 2 min
+  play-us-87: page 50/92  (38s)
+  hyper-99: page 50/100  (41s)
+  computer-entertainer-3-5: page 16/16  (10s)
+  [52/102] computer-entertainer-3-5: 16 pages in 10s | 816/1510 pages, 5.3 p/s, ETA 2 min
+  computer-entertainer-2-4: page 16/16  (10s)
+  [53/102] computer-entertainer-2-4: 16 pages in 10s | 832/1510 pages, 5.3 p/s, ETA 2 min
+  computer-entertainer-1-4: page 16/16  (10s)
+  [54/102] computer-entertainer-1-4: 16 pages in 10s | 848/1510 pages, 5.3 p/s, ETA 2 min
+  computer-entertainer-12-4: page 16/16  (11s)
+  [55/102] computer-entertainer-12-4: 16 pages in 11s | 864/1510 pages, 5.4 p/s, ETA 2 min
+  computer-games-strategy-plus-146: page 50/100  (41s)
+  computer-games-strategy-plus-145: page 50/116  (33s)
+  computer-entertainer-11-4: page 16/16  (11s)
+  [56/102] computer-entertainer-11-4: 16 pages in 11s | 880/1510 pages, 5.3 p/s, ETA 2 min
+  computer-entertainer-10-4: page 16/16  (9s)
+  [57/102] computer-entertainer-10-4: 16 pages in 9s | 896/1510 pages, 5.4 p/s, ETA 2 min
+  hyper-97: page 50/96  (38s)
+  computer-entertainer-9-4: page 16/16  (11s)
+  [58/102] computer-entertainer-9-4: 16 pages in 11s | 912/1510 pages, 5.4 p/s, ETA 2 min
+  hyper-103: page 100/100  (81s)
+  hyper-98: page 50/100  (46s)
+  [9/98] hyper-103: 100 pages in 82s | 500/9384 pages, 2.9 p/s, ETA 51 min
+  computer-entertainer-8-4: page 16/16  (12s)
+  [59/102] computer-entertainer-8-4: 16 pages in 12s | 928/1510 pages, 5.4 p/s, ETA 2 min
+  computer-games-strategy-plus-147: page 100/100  (72s)
+  [13/117] computer-games-strategy-plus-147: 100 pages in 72s | 700/14310 pages, 4.0 p/s, ETA 56 min
+  play-us-88: page 92/92  (75s)
+  [8/97] play-us-88: 92 pages in 75s | 664/10669 pages, 3.8 p/s, ETA 44 min
+  computer-entertainer-6-4: page 16/16  (10s)
+  [60/102] computer-entertainer-6-4: 16 pages in 10s | 944/1510 pages, 5.3 p/s, ETA 2 min
+  computer-entertainer-7-4: page 16/16  (12s)
+  [61/102] computer-entertainer-7-4: 16 pages in 12s | 960/1510 pages, 5.4 p/s, ETA 2 min
+  play-us-90: page 92/92  (80s)
+  [9/97] play-us-90: 92 pages in 81s | 756/10669 pages, 4.2 p/s, ETA 39 min
+  computer-entertainer-5-4: page 16/16  (10s)
+  [62/102] computer-entertainer-5-4: 16 pages in 10s | 976/1510 pages, 5.4 p/s, ETA 2 min
+  play-us-89: page 94/94  (81s)
+  [10/97] play-us-89: 94 pages in 82s | 850/10669 pages, 4.7 p/s, ETA 35 min
+  computer-games-strategy-plus-144: page 50/100  (40s)
+  play-us-87: page 92/92  (69s)
+  [11/97] play-us-87: 92 pages in 70s | 942/10669 pages, 5.1 p/s, ETA 32 min
+  FAILED computer-games-strategy-plus-146: RuntimeError('WebP encode failed for 072.webp: decoded WebP does not match source')
+  computer-entertainer-2-3: page 16/16  (10s)
+  [63/102] computer-entertainer-2-3: 16 pages in 10s | 992/1510 pages, 5.3 p/s, ETA 2 min
+  computer-entertainer-4-4: page 16/16  (14s)
+  [64/102] computer-entertainer-4-4: 16 pages in 14s | 1008/1510 pages, 5.4 p/s, ETA 2 min
+  computer-entertainer-3-4: page 16/16  (12s)
+  [65/102] computer-entertainer-3-4: 16 pages in 12s | 1024/1510 pages, 5.4 p/s, ETA 1 min
+  computer-entertainer-1-3: page 16/16  (9s)
+  [66/102] computer-entertainer-1-3: 16 pages in 9s | 1040/1510 pages, 5.5 p/s, ETA 1 min
+  computer-entertainer-12-3: page 16/16  (9s)
+  [67/102] computer-entertainer-12-3: 16 pages in 9s | 1056/1510 pages, 5.4 p/s, ETA 1 min
+  computer-games-strategy-plus-145: page 100/116  (64s)
+  computer-entertainer-11-3: page 16/16  (10s)
+  [68/102] computer-entertainer-11-3: 16 pages in 10s | 1072/1510 pages, 5.4 p/s, ETA 1 min
+  computer-entertainer-10-3: page 16/16  (10s)
+  [69/102] computer-entertainer-10-3: 16 pages in 11s | 1088/1510 pages, 5.5 p/s, ETA 1 min
+  computer-entertainer-9-3: page 16/16  (11s)
+  [70/102] computer-entertainer-9-3: 16 pages in 11s | 1104/1510 pages, 5.5 p/s, ETA 1 min
+  FAILED play-us-86: RuntimeError('WebP encode failed for 025.webp: decoded WebP does not match source')
+  hyper-99: page 100/100  (88s)
+  [10/98] hyper-99: 100 pages in 89s | 600/9384 pages, 3.0 p/s, ETA 49 min
+  hyper-97: page 96/96  (71s)
+  [11/98] hyper-97: 96 pages in 72s | 696/9384 pages, 3.4 p/s, ETA 42 min
+  computer-games-strategy-plus-143: page 50/102  (31s)
+  computer-entertainer-8-3: page 16/16  (10s)
+  [71/102] computer-entertainer-8-3: 16 pages in 10s | 1120/1510 pages, 5.4 p/s, ETA 1 min
+  computer-games-strategy-plus-145: page 116/116  (75s)
+  [15/117] computer-games-strategy-plus-145: 116 pages in 75s | 816/14310 pages, 3.9 p/s, ETA 57 min
+  computer-entertainer-7-3: page 16/16  (10s)
+  [72/102] computer-entertainer-7-3: 16 pages in 10s | 1136/1510 pages, 5.5 p/s, ETA 1 min
+  hyper-98: page 100/100  (83s)
+  [12/98] hyper-98: 100 pages in 84s | 796/9384 pages, 3.8 p/s, ETA 38 min
+  computer-entertainer-6-3: page 16/16  (10s)
+  [73/102] computer-entertainer-6-3: 16 pages in 10s | 1152/1510 pages, 5.5 p/s, ETA 1 min
+  computer-entertainer-5-3: page 16/16  (11s)
+  [74/102] computer-entertainer-5-3: 16 pages in 11s | 1168/1510 pages, 5.5 p/s, ETA 1 min
+  play-us-85: page 50/100  (37s)
+  hyper-96: page 50/84  (43s)
+  computer-entertainer-4-3: page 16/16  (11s)
+  [75/102] computer-entertainer-4-3: 16 pages in 11s | 1184/1510 pages, 5.4 p/s, ETA 1 min
+  computer-entertainer-3-3: page 16/16  (10s)
+  [76/102] computer-entertainer-3-3: 16 pages in 11s | 1200/1510 pages, 5.5 p/s, ETA 1 min
+  FAILED computer-games-strategy-plus-142: RuntimeError('WebP encode failed for 041.webp: decoded WebP does not match source')
+  computer-entertainer-2-2: page 16/16  (11s)
+  [77/102] computer-entertainer-2-2: 16 pages in 11s | 1216/1510 pages, 5.5 p/s, ETA 1 min
+  play-us-84: page 50/116  (37s)
+  play-us-82: page 50/128  (20s)
+  computer-entertainer-1-2: page 16/16  (12s)
+  [78/102] computer-entertainer-1-2: 16 pages in 12s | 1232/1510 pages, 5.5 p/s, ETA 1 min
+  computer-games-strategy-plus-144: page 100/100  (80s)
+  [17/117] computer-games-strategy-plus-144: 100 pages in 80s | 916/14310 pages, 4.1 p/s, ETA 54 min
+  computer-games-strategy-plus-141: page 50/102  (17s)
+  computer-entertainer-12-2: page 16/16  (10s)
+  [79/102] computer-entertainer-12-2: 16 pages in 11s | 1248/1510 pages, 5.5 p/s, ETA 1 min
+  play-us-83: page 50/116  (45s)
+  computer-entertainer-11-2: page 16/16  (12s)
+  [80/102] computer-entertainer-11-2: 16 pages in 12s | 1264/1510 pages, 5.5 p/s, ETA 1 min
+  computer-entertainer-10-2: page 16/16  (11s)
+  [81/102] computer-entertainer-10-2: 16 pages in 11s | 1280/1510 pages, 5.5 p/s, ETA 1 min
+  computer-entertainer-9-2: page 16/16  (11s)
+  [82/102] computer-entertainer-9-2: 16 pages in 11s | 1296/1510 pages, 5.6 p/s, ETA 1 min
+  computer-games-strategy-plus-139: page 50/101  (18s)
+  computer-games-strategy-plus-137: page 50/100  (15s)
+  hyper-96: page 84/84  (66s)
+  [13/98] hyper-96: 84 pages in 67s | 880/9384 pages, 3.7 p/s, ETA 39 min
+  computer-games-strategy-plus-143: page 100/102  (65s)
+  computer-entertainer-8-2: page 16/16  (12s)
+  [83/102] computer-entertainer-8-2: 16 pages in 12s | 1312/1510 pages, 5.5 p/s, ETA 1 min
+  computer-entertainer-7-2: page 16/16  (10s)
+  [84/102] computer-entertainer-7-2: 16 pages in 10s | 1328/1510 pages, 5.5 p/s, ETA 1 min
+  play-us-82: page 100/128  (41s)
+  computer-games-strategy-plus-141: page 100/102  (34s)
+  hyper-94: page 50/100  (39s)
+  computer-games-strategy-plus-141: page 102/102  (35s)
+  [18/117] computer-games-strategy-plus-141: 102 pages in 35s | 1018/14310 pages, 4.2 p/s, ETA 53 min
+  computer-entertainer-6-2: page 16/16  (10s)
+  [85/102] computer-entertainer-6-2: 16 pages in 10s | 1344/1510 pages, 5.6 p/s, ETA 0 min
+  computer-games-strategy-plus-143: page 102/102  (69s)
+  [19/117] computer-games-strategy-plus-143: 102 pages in 69s | 1120/14310 pages, 4.6 p/s, ETA 48 min
+  computer-entertainer-5-2: page 16/16  (10s)
+  [86/102] computer-entertainer-5-2: 16 pages in 10s | 1360/1510 pages, 5.6 p/s, ETA 0 min
+  hyper-95: page 50/84  (45s)
+  hyper-92: page 50/100  (39s)
+  play-us-82: page 128/128  (51s)
+  [13/97] play-us-82: 128 pages in 51s | 1070/10669 pages, 4.3 p/s, ETA 38 min
+  computer-entertainer-4-2: page 16/16  (12s)
+  [87/102] computer-entertainer-4-2: 16 pages in 12s | 1376/1510 pages, 5.5 p/s, ETA 0 min
+  computer-entertainer-3-2: page 16/16  (11s)
+  [88/102] computer-entertainer-3-2: 16 pages in 11s | 1392/1510 pages, 5.5 p/s, ETA 0 min
+  play-us-85: page 100/100  (75s)
+  [14/97] play-us-85: 100 pages in 75s | 1170/10669 pages, 4.6 p/s, ETA 34 min
+  computer-entertainer-2: page 16/16  (11s)
+  [89/102] computer-entertainer-2: 16 pages in 11s | 1408/1510 pages, 5.6 p/s, ETA 0 min
+  computer-games-strategy-plus-137: page 100/100  (31s)
+  [20/117] computer-games-strategy-plus-137: 100 pages in 31s | 1220/14310 pages, 4.8 p/s, ETA 45 min
+  computer-entertainer-1: page 16/16  (11s)
+  [90/102] computer-entertainer-1: 16 pages in 11s | 1424/1510 pages, 5.6 p/s, ETA 0 min
+  computer-games-strategy-plus-139: page 100/101  (37s)
+  computer-games-strategy-plus-139: page 101/101  (37s)
+  [21/117] computer-games-strategy-plus-139: 101 pages in 37s | 1321/14310 pages, 5.2 p/s, ETA 42 min
+  computer-entertainer-12: page 8/8  (5s)
+  [91/102] computer-entertainer-12: 8 pages in 5s | 1432/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-10: page 8/8  (5s)
+  [92/102] computer-entertainer-10: 8 pages in 5s | 1440/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-9: page 8/8  (5s)
+  [93/102] computer-entertainer-9: 8 pages in 5s | 1448/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-6: page 4/4  (3s)
+  [94/102] computer-entertainer-6: 4 pages in 3s | 1452/1510 pages, 5.5 p/s, ETA 0 min
+  computer-entertainer-8: page 6/6  (4s)
+  [95/102] computer-entertainer-8: 6 pages in 4s | 1458/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-7: page 6/6  (4s)
+  [96/102] computer-entertainer-7: 6 pages in 4s | 1464/1510 pages, 5.6 p/s, ETA 0 min
+  FAILED play-us-84: RuntimeError('WebP encode failed for 100.webp: decoded WebP does not match source')
+  computer-entertainer-3: page 2/2  (1s)
+  [97/102] computer-entertainer-3: 2 pages in 1s | 1466/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-11: page 16/16  (12s)
+  [98/102] computer-entertainer-11: 16 pages in 12s | 1482/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-4: page 4/4  (2s)
+  [99/102] computer-entertainer-4: 4 pages in 2s | 1486/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-5: page 4/4  (2s)
+  [100/102] computer-entertainer-5: 4 pages in 2s | 1490/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-1-9: page 2/2  (1s)
+  [101/102] computer-entertainer-1-9: 2 pages in 1s | 1492/1510 pages, 5.6 p/s, ETA 0 min
+  computer-entertainer-2-9: page 2/2  (1s)
+  [102/102] computer-entertainer-2-9: 2 pages in 1s | 1494/1510 pages, 5.6 p/s, ETA 0 min
+1 issue(s) failed: computer-entertainer-3-9
+  hyper-95: page 84/84  (69s)
+  [14/98] hyper-95: 84 pages in 70s | 964/9384 pages, 3.6 p/s, ETA 39 min
+  computer-games-strategy-plus-132: page 50/104  (19s)
+  play-us-83: page 100/116  (90s)
+  computer-games-strategy-plus-136: page 50/100  (32s)
+  hyper-91: page 50/100  (36s)
+  computer-games-strategy-plus-134: page 50/100  (35s)
+  hyper-94: page 100/100  (77s)
+  [15/98] hyper-94: 100 pages in 77s | 1064/9384 pages, 3.8 p/s, ETA 36 min
+  play-us-79: page 50/100  (17s)
+  play-us-83: page 116/116  (100s)
+  [16/97] play-us-83: 116 pages in 101s | 1286/10669 pages, 4.5 p/s, ETA 35 min
+  computer-games-strategy-plus-131: page 50/104  (30s)
+  hyper-92: page 100/100  (77s)
+  [16/98] hyper-92: 100 pages in 78s | 1164/9384 pages, 4.1 p/s, ETA 34 min
+  play-us-81: page 50/112  (36s)
+  computer-games-strategy-plus-132: page 100/104  (35s)
+  computer-games-strategy-plus-132: page 104/104  (36s)
+  [22/117] computer-games-strategy-plus-132: 104 pages in 36s | 1425/14310 pages, 4.9 p/s, ETA 44 min
+  play-us-80: page 50/100  (38s)
+  play-us-79: page 100/100  (33s)
+  [17/97] play-us-79: 100 pages in 33s | 1386/10669 pages, 4.7 p/s, ETA 33 min
+  computer-games-strategy-plus-136: page 100/100  (60s)
+  [23/117] computer-games-strategy-plus-136: 100 pages in 60s | 1525/14310 pages, 5.0 p/s, ETA 42 min
+  computer-games-strategy-plus-129: page 50/100  (15s)
+  computer-games-strategy-plus-134: page 100/100  (63s)
+  [24/117] computer-games-strategy-plus-134: 100 pages in 63s | 1625/14310 pages, 5.3 p/s, ETA 40 min
+  hyper-90: page 50/100  (34s)
+  hyper-91: page 100/100  (69s)
+  [17/98] hyper-91: 100 pages in 70s | 1264/9384 pages, 4.1 p/s, ETA 33 min
+  computer-games-strategy-plus-131: page 100/104  (56s)
+  play-us-78: page 50/100  (29s)
+  computer-games-strategy-plus-131: page 104/104  (59s)
+  [25/117] computer-games-strategy-plus-131: 104 pages in 59s | 1729/14310 pages, 5.5 p/s, ETA 38 min
+  hyper-89: page 50/100  (35s)
+  play-us-81: page 100/112  (66s)
+  computer-games-strategy-plus-127: page 50/118  (16s)
+  computer-games-strategy-plus-129: page 100/100  (29s)
+  [26/117] computer-games-strategy-plus-129: 100 pages in 29s | 1829/14310 pages, 5.7 p/s, ETA 36 min
+  hyper-88: page 50/100  (35s)
+  play-us-80: page 100/100  (69s)
+  [18/97] play-us-80: 100 pages in 70s | 1486/10669 pages, 4.6 p/s, ETA 33 min
+  play-us-81: page 112/112  (74s)
+  [19/97] play-us-81: 112 pages in 74s | 1598/10669 pages, 4.9 p/s, ETA 31 min
+  play-us-77: page 50/98  (31s)
+  computer-games-strategy-plus-126: page 50/118  (28s)
+  computer-games-strategy-plus-127: page 100/118  (32s)
+  computer-games-strategy-plus-123: page 50/150  (19s)
+  hyper-90: page 100/100  (67s)
+  [18/98] hyper-90: 100 pages in 68s | 1364/9384 pages, 4.0 p/s, ETA 33 min
+  computer-games-strategy-plus-124: page 50/136  (25s)
+  computer-games-strategy-plus-127: page 118/118  (37s)
+  [27/117] computer-games-strategy-plus-127: 118 pages in 37s | 1947/14310 pages, 5.7 p/s, ETA 36 min
+  hyper-86: page 50/116  (32s)
+  play-us-78: page 100/100  (57s)
+  [20/97] play-us-78: 100 pages in 57s | 1698/10669 pages, 5.0 p/s, ETA 30 min
+  hyper-89: page 100/100  (70s)
+  [19/98] hyper-89: 100 pages in 71s | 1464/9384 pages, 4.2 p/s, ETA 32 min
+  play-us-76: page 50/106  (29s)
+  computer-games-strategy-plus-122: page 50/184  (16s)
+  play-us-75: page 50/102  (30s)
+  hyper-88: page 100/100  (69s)
+  [20/98] hyper-88: 100 pages in 70s | 1564/9384 pages, 4.4 p/s, ETA 30 min
+  computer-games-strategy-plus-123: page 100/150  (39s)
+  play-us-77: page 98/98  (61s)
+  [21/97] play-us-77: 98 pages in 62s | 1796/10669 pages, 5.0 p/s, ETA 29 min
+  computer-games-strategy-plus-126: page 100/118  (57s)
+  computer-games-strategy-plus-124: page 100/136  (50s)
+  computer-games-strategy-plus-122: page 100/184  (32s)
+  hyper-85: page 50/100  (32s)
+  play-us-74: page 50/92  (31s)
+  hyper-86: page 100/116  (64s)
+  computer-games-strategy-plus-126: page 118/118  (68s)
+  [28/117] computer-games-strategy-plus-126: 118 pages in 68s | 2065/14310 pages, 5.5 p/s, ETA 37 min
+  computer-games-strategy-plus-123: page 150/150  (59s)
+  [29/117] computer-games-strategy-plus-123: 150 pages in 59s | 2215/14310 pages, 5.9 p/s, ETA 34 min
+  play-us-76: page 100/106  (60s)
+  hyper-86: page 116/116  (74s)
+  [21/98] hyper-86: 116 pages in 75s | 1680/9384 pages, 4.4 p/s, ETA 29 min
+  hyper-84: page 50/100  (33s)
+  play-us-76: page 106/106  (61s)
+  [22/97] play-us-76: 106 pages in 61s | 1902/10669 pages, 5.0 p/s, ETA 29 min
+  computer-games-strategy-plus-124: page 136/136  (69s)
+  computer-games-strategy-plus-124: 136 page(s) rendered instead of extracted
+  [30/117] computer-games-strategy-plus-124: 136 pages in 69s | 2351/14310 pages, 6.1 p/s, ETA 33 min
+  play-us-75: page 100/102  (60s)
+  play-us-73: page 50/92  (30s)
+  computer-games-strategy-plus-122: page 150/184  (49s)
+  play-us-75: page 102/102  (64s)
+  [23/97] play-us-75: 102 pages in 64s | 2004/10669 pages, 5.1 p/s, ETA 28 min
+  computer-games-strategy-plus-121: page 50/190  (17s)
+  hyper-83: page 50/100  (33s)
+  computer-games-strategy-plus-120: page 50/188  (15s)
+  play-us-74: page 92/92  (55s)
+  [24/97] play-us-74: 92 pages in 56s | 2096/10669 pages, 5.3 p/s, ETA 27 min
+  computer-games-strategy-plus-122: page 184/184  (60s)
+  [31/117] computer-games-strategy-plus-122: 184 pages in 60s | 2535/14310 pages, 6.3 p/s, ETA 31 min
+  hyper-85: page 100/100  (66s)
+  [22/98] hyper-85: 100 pages in 66s | 1780/9384 pages, 4.4 p/s, ETA 29 min
+  computer-games-strategy-plus-120: page 100/188  (30s)
+  computer-games-strategy-plus-121: page 100/190  (34s)
+  play-us-73: page 92/92  (55s)
+  [25/97] play-us-73: 92 pages in 55s | 2188/10669 pages, 5.3 p/s, ETA 27 min
+  hyper-84: page 100/100  (65s)
+  [23/98] hyper-84: 100 pages in 66s | 1880/9384 pages, 4.5 p/s, ETA 28 min
+  play-us-72: page 50/124  (32s)
+  hyper-82: page 50/96  (33s)
+  play-us-71: page 50/140  (29s)
+  computer-games-strategy-plus-120: page 150/188  (44s)
+  hyper-83: page 100/100  (67s)
+  [24/98] hyper-83: 100 pages in 68s | 1980/9384 pages, 4.7 p/s, ETA 26 min
+  computer-games-strategy-plus-121: page 150/190  (51s)
+  play-us-70: page 50/134  (30s)
+  computer-games-strategy-plus-119: page 50/172  (47s)
+  computer-games-strategy-plus-120: page 188/188  (56s)
+  [32/117] computer-games-strategy-plus-120: 188 pages in 56s | 2723/14310 pages, 6.3 p/s, ETA 31 min
+  computer-games-strategy-plus-121: page 190/190  (63s)
+  [33/117] computer-games-strategy-plus-121: 190 pages in 63s | 2913/14310 pages, 6.7 p/s, ETA 29 min
+  hyper-81: page 50/96  (33s)
+  play-us-69: page 50/118  (29s)
+  play-us-71: page 100/140  (58s)
+  hyper-82: page 96/96  (63s)
+  [25/98] hyper-82: 96 pages in 64s | 2076/9384 pages, 4.6 p/s, ETA 26 min
+  hyper-80: page 50/96  (32s)
+  play-us-72: page 100/124  (65s)
+  computer-games-strategy-plus-116: page 50/164  (53s)
+  play-us-70: page 100/134  (59s)
+  hyper-79: page 50/100  (32s)
+  computer-games-strategy-plus-113: page 50/164  (29s)
+  play-us-72: page 124/124  (80s)
+  [26/97] play-us-72: 124 pages in 80s | 2312/10669 pages, 5.0 p/s, ETA 28 min
+  hyper-81: page 96/96  (63s)
+  [26/98] hyper-81: 96 pages in 64s | 2172/9384 pages, 4.6 p/s, ETA 26 min
+  play-us-69: page 100/118  (57s)
+  play-us-71: page 140/140  (85s)
+  [27/97] play-us-71: 140 pages in 85s | 2452/10669 pages, 5.2 p/s, ETA 26 min
+  FAILED computer-games-strategy-plus-113: RuntimeError('WebP encode failed for 066.webp: decoded WebP does not match source')
+  play-us-70: page 134/134  (81s)
+  [28/97] play-us-70: 134 pages in 81s | 2586/10669 pages, 5.4 p/s, ETA 25 min
+  play-us-69: page 118/118  (67s)
+  [29/97] play-us-69: 118 pages in 67s | 2704/10669 pages, 5.6 p/s, ETA 24 min
+  hyper-78: page 50/116  (34s)
+  computer-games-strategy-plus-119: page 100/172  (100s)
+  hyper-80: page 96/96  (70s)
+  [27/98] hyper-80: 96 pages in 70s | 2268/9384 pages, 4.7 p/s, ETA 25 min
+  FAILED computer-games-strategy-plus-116: RuntimeError('WebP encode failed for 071.webp: decoded WebP does not match source')
+  play-us-68: page 50/100  (26s)
+  hyper-79: page 100/100  (66s)
+  [28/98] hyper-79: 100 pages in 67s | 2368/9384 pages, 4.8 p/s, ETA 24 min
+  computer-games-strategy-plus-109: page 50/164  (57s)
+  play-us-67: page 50/100  (27s)
+  play-us-66: page 50/116  (26s)
+  play-us-65: page 50/100  (26s)
+  hyper-77: page 50/100  (41s)
+  play-us-68: page 100/100  (51s)
+  [30/97] play-us-68: 100 pages in 51s | 2804/10669 pages, 5.4 p/s, ETA 24 min
+  computer-games-strategy-plus-106: page 50/108  (43s)
+  hyper-76: page 50/116  (33s)
+  FAILED computer-games-strategy-plus-109: RuntimeError('WebP encode failed for 070.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-119: page 150/172  (138s)
+  hyper-78: page 100/116  (78s)
+  play-us-67: page 100/100  (53s)
+  [31/97] play-us-67: 100 pages in 54s | 2904/10669 pages, 5.5 p/s, ETA 24 min
+  play-us-66: page 100/116  (52s)
+  play-us-65: page 100/100  (52s)
+  [32/97] play-us-65: 100 pages in 53s | 3004/10669 pages, 5.6 p/s, ETA 23 min
+  computer-games-strategy-plus-105: page 50/110  (47s)
+  hyper-75: page 50/116  (45s)
+  hyper-78: page 116/116  (90s)
+  [29/98] hyper-78: 116 pages in 90s | 2484/9384 pages, 4.6 p/s, ETA 25 min
+  play-us-66: page 116/116  (61s)
+  [33/97] play-us-66: 116 pages in 61s | 3120/10669 pages, 5.8 p/s, ETA 22 min
+  computer-games-strategy-plus-119: page 172/172  (157s)
+  [37/117] computer-games-strategy-plus-119: 172 pages in 157s | 3085/14310 pages, 5.7 p/s, ETA 33 min
+  play-us-64: page 50/84  (26s)
+  FAILED computer-games-strategy-plus-106: RuntimeError('WebP encode failed for 084.webp: decoded WebP does not match source')
+  play-us-63: page 50/100  (27s)
+  hyper-77: page 100/100  (87s)
+  [30/98] hyper-77: 100 pages in 88s | 2584/9384 pages, 4.6 p/s, ETA 24 min
+  play-us-64: page 84/84  (43s)
+  [34/97] play-us-64: 84 pages in 43s | 3204/10669 pages, 5.7 p/s, ETA 22 min
+  play-us-62: page 50/100  (27s)
+  computer-games-strategy-plus-103: page 50/102  (41s)
+  play-us-61: page 50/116  (26s)
+  computer-games-strategy-plus-102: page 50/102  (25s)
+  FAILED hyper-73: RuntimeError('WebP encode failed for 006.webp: decoded WebP does not match source')
+  hyper-76: page 100/116  (81s)
+  computer-games-strategy-plus-105: page 100/110  (86s)
+  hyper-75: page 100/116  (86s)
+  play-us-63: page 100/100  (53s)
+  [35/97] play-us-63: 100 pages in 54s | 3304/10669 pages, 5.7 p/s, ETA 22 min
+  hyper-76: page 116/116  (96s)
+  [32/98] hyper-76: 116 pages in 97s | 2700/9384 pages, 4.6 p/s, ETA 24 min
+  FAILED computer-games-strategy-plus-101: RuntimeError('WebP encode failed for 041.webp: failed to read next frame')
+  play-us-60: page 50/134  (25s)
+  hyper-74: page 50/100  (47s)
+  play-us-62: page 100/100  (53s)
+  [36/97] play-us-62: 100 pages in 54s | 3404/10669 pages, 5.8 p/s, ETA 21 min
+  computer-games-strategy-plus-105: page 110/110  (99s)
+  [40/117] computer-games-strategy-plus-105: 110 pages in 100s | 3195/14310 pages, 5.4 p/s, ETA 34 min
+  FAILED hyper-75: RuntimeError('WebP encode failed for 112.webp: failed to read next frame')
+  computer-games-strategy-plus-102: page 100/102  (49s)
+  computer-games-strategy-plus-102: page 102/102  (51s)
+  [41/117] computer-games-strategy-plus-102: 102 pages in 51s | 3297/14310 pages, 5.6 p/s, ETA 33 min
+  play-us-61: page 100/116  (53s)
+  computer-games-strategy-plus-103: page 100/102  (76s)
+  computer-games-strategy-plus-103: page 102/102  (78s)
+  [42/117] computer-games-strategy-plus-103: 102 pages in 78s | 3399/14310 pages, 5.7 p/s, ETA 32 min
+  play-us-61: page 116/116  (62s)
+  [37/97] play-us-61: 116 pages in 63s | 3520/10669 pages, 5.8 p/s, ETA 20 min
+  play-us-60: page 100/134  (51s)
+  play-us-59: page 50/114  (28s)
+  play-us-58: page 50/100  (26s)
+  computer-games-strategy-plus-98: page 50/164  (24s)
+  hyper-72: page 50/96  (53s)
+  computer-games-strategy-plus-100: page 50/108  (38s)
+  computer-games-strategy-plus-99: page 50/148  (34s)
+  hyper-71: page 50/100  (43s)
+  play-us-60: page 134/134  (69s)
+  [38/97] play-us-60: 134 pages in 69s | 3654/10669 pages, 5.8 p/s, ETA 20 min
+  play-us-57: page 50/104  (26s)
+  FAILED computer-games-strategy-plus-99: RuntimeError('WebP encode failed for 053.webp: decoded WebP does not match source')
+  hyper-74: page 100/100  (94s)
+  [34/98] hyper-74: 100 pages in 94s | 2800/9384 pages, 4.4 p/s, ETA 25 min
+  FAILED computer-games-strategy-plus-97: RuntimeError('WebP encode failed for 037.webp: decoded WebP does not match source')
+  play-us-59: page 100/114  (53s)
+  FAILED hyper-72: RuntimeError('WebP encode failed for 072.webp: decoded WebP does not match source')
+  play-us-58: page 100/100  (52s)
+  [39/97] play-us-58: 100 pages in 53s | 3754/10669 pages, 5.9 p/s, ETA 20 min
+  computer-games-strategy-plus-98: page 100/164  (48s)
+  hyper-70: page 50/100  (49s)
+  play-us-59: page 114/114  (61s)
+  [40/97] play-us-59: 114 pages in 62s | 3868/10669 pages, 6.0 p/s, ETA 19 min
+  play-us-56: page 50/102  (27s)
+  play-us-57: page 100/104  (54s)
+  play-us-57: page 104/104  (56s)
+  [41/97] play-us-57: 104 pages in 57s | 3972/10669 pages, 6.0 p/s, ETA 19 min
+  computer-games-strategy-plus-100: page 100/108  (77s)
+  computer-games-strategy-plus-98: page 150/164  (71s)
+  FAILED computer-games-strategy-plus-100: RuntimeError('WebP encode failed for 102.webp: decoded WebP does not match source')
+  play-us-55: page 50/98  (26s)
+  computer-games-strategy-plus-96: page 50/198  (37s)
+  hyper-71: page 100/100  (86s)
+  [36/98] hyper-71: 100 pages in 86s | 2900/9384 pages, 4.3 p/s, ETA 25 min
+  computer-games-strategy-plus-98: page 164/164  (78s)
+  [46/117] computer-games-strategy-plus-98: 164 pages in 78s | 3563/14310 pages, 5.3 p/s, ETA 34 min
+  play-us-54: page 50/92  (26s)
+  hyper-69: page 50/100  (38s)
+  hyper-68: page 50/100  (35s)
+  computer-games-strategy-plus-95: page 50/182  (46s)
+  play-us-56: page 100/102  (53s)
+  play-us-56: page 102/102  (54s)
+  [42/97] play-us-56: 102 pages in 55s | 4074/10669 pages, 6.0 p/s, ETA 18 min
+  FAILED computer-games-strategy-plus-96: RuntimeError('WebP encode failed for 075.webp: failed to read next frame')
+  play-us-53: page 50/100  (26s)
+  hyper-70: page 100/100  (94s)
+  [37/98] hyper-70: 100 pages in 95s | 3000/9384 pages, 4.4 p/s, ETA 24 min
+  play-us-55: page 98/98  (51s)
+  [43/97] play-us-55: 98 pages in 52s | 4172/10669 pages, 6.0 p/s, ETA 18 min
+  play-us-54: page 92/92  (48s)
+  [44/97] play-us-54: 92 pages in 49s | 4264/10669 pages, 6.2 p/s, ETA 17 min
+  computer-games-strategy-plus-93: page 50/120  (24s)
+  FAILED computer-games-strategy-plus-95: RuntimeError('WebP encode failed for 071.webp: decoded WebP does not match source')
+  FAILED computer-games-strategy-plus-94: RuntimeError('WebP encode failed for 043.webp: decoded WebP does not match source')
+  FAILED hyper-66: RuntimeError('WebP encode failed for 022.webp: decoded WebP does not match source')
+  hyper-69: page 100/100  (74s)
+  [39/98] hyper-69: 100 pages in 75s | 3100/9384 pages, 4.4 p/s, ETA 24 min
+  play-us-52: page 50/102  (26s)
+  play-us-53: page 100/100  (52s)
+  [45/97] play-us-53: 100 pages in 52s | 4364/10669 pages, 6.1 p/s, ETA 17 min
+  hyper-68: page 100/100  (75s)
+  [40/98] hyper-68: 100 pages in 76s | 3200/9384 pages, 4.5 p/s, ETA 23 min
+  play-us-51: page 50/102  (24s)
+  hyper-67: page 50/96  (46s)
+  computer-games-strategy-plus-93: page 100/120  (47s)
+  FAILED computer-games-strategy-plus-90: RuntimeError('WebP encode failed for 017.webp: failed to read next frame')
+  play-us-50: page 50/84  (25s)
+  computer-games-strategy-plus-92: page 50/148  (42s)
+  computer-games-strategy-plus-93: page 120/120  (56s)
+  [51/117] computer-games-strategy-plus-93: 120 pages in 56s | 3683/14310 pages, 5.1 p/s, ETA 35 min
+  FAILED computer-games-strategy-plus-91: RuntimeError('WebP encode failed for 038.webp: decoded WebP does not match source')
+  play-us-52: page 100/102  (51s)
+  play-us-52: page 102/102  (52s)
+  [46/97] play-us-52: 102 pages in 52s | 4466/10669 pages, 6.1 p/s, ETA 17 min
+  play-us-50: page 84/84  (42s)
+  [47/97] play-us-50: 84 pages in 42s | 4550/10669 pages, 6.2 p/s, ETA 16 min
+  play-us-49: page 50/84  (25s)
+  FAILED hyper-67: RuntimeError('WebP encode failed for 074.webp: decoded WebP does not match source')
+  play-us-51: page 100/102  (49s)
+  play-us-51: page 102/102  (50s)
+  [48/97] play-us-51: 102 pages in 50s | 4652/10669 pages, 6.3 p/s, ETA 16 min
+  hyper-64: page 50/100  (39s)
+  hyper-65: page 50/96  (48s)
+  computer-games-strategy-plus-88: page 50/122  (26s)
+  play-us-49: page 84/84  (43s)
+  [49/97] play-us-49: 84 pages in 43s | 4736/10669 pages, 6.3 p/s, ETA 16 min
+  hyper-63: page 50/116  (39s)
+  computer-games-strategy-plus-92: page 100/148  (72s)
+  play-us-48: page 50/118  (26s)
+  play-us-47: page 50/160  (26s)
+  computer-games-strategy-plus-89: page 50/120  (46s)
+  play-us-46: page 50/128  (24s)
+  computer-games-strategy-plus-87: page 50/144  (40s)
+  computer-games-strategy-plus-88: page 100/122  (50s)
+  FAILED hyper-64: RuntimeError('WebP encode failed for 088.webp: decoded WebP does not match source')
+  play-us-45: page 50/103  (27s)
+  hyper-62: page 50/116  (43s)
+  play-us-48: page 100/118  (51s)
+  play-us-47: page 100/160  (50s)
+  computer-games-strategy-plus-88: page 122/122  (61s)
+  [53/117] computer-games-strategy-plus-88: 122 pages in 61s | 3805/14310 pages, 4.8 p/s, ETA 36 min
+  play-us-46: page 100/128  (50s)
+  hyper-65: page 96/96  (91s)
+  [43/98] hyper-65: 96 pages in 92s | 3296/9384 pages, 4.1 p/s, ETA 24 min
+  play-us-48: page 118/118  (60s)
+  [50/97] play-us-48: 118 pages in 61s | 4854/10669 pages, 6.1 p/s, ETA 16 min
+  hyper-63: page 100/116  (83s)
+  computer-games-strategy-plus-89: page 100/120  (84s)
+  FAILED computer-games-strategy-plus-87: RuntimeError('WebP encode failed for 084.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-92: page 148/148  (121s)
+  [55/117] computer-games-strategy-plus-92: 148 pages in 121s | 3953/14310 pages, 4.9 p/s, ETA 35 min
+  play-us-46: page 128/128  (64s)
+  [51/97] play-us-46: 128 pages in 64s | 4982/10669 pages, 6.2 p/s, ETA 15 min
+  play-us-45: page 100/103  (55s)
+  play-us-47: page 150/160  (75s)
+  play-us-45: page 103/103  (56s)
+  [52/97] play-us-45: 103 pages in 57s | 5085/10669 pages, 6.3 p/s, ETA 15 min
+  hyper-63: page 116/116  (95s)
+  [44/98] hyper-63: 116 pages in 96s | 3412/9384 pages, 4.2 p/s, ETA 24 min
+  computer-games-strategy-plus-86: page 50/172  (25s)
+  FAILED hyper-61: RuntimeError('WebP encode failed for 036.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-89: page 120/120  (101s)
+  [56/117] computer-games-strategy-plus-89: 120 pages in 101s | 4073/14310 pages, 5.0 p/s, ETA 34 min
+  play-us-44: page 50/102  (24s)
+  play-us-47: page 160/160  (84s)
+  [53/97] play-us-47: 160 pages in 84s | 5245/10669 pages, 6.4 p/s, ETA 14 min
+  hyper-62: page 100/116  (86s)
+  play-us-43: page 50/118  (25s)
+  FAILED computer-games-strategy-plus-85: RuntimeError('WebP encode failed for 040.webp: decoded WebP does not match source')
+  hyper-60: page 50/96  (39s)
+  computer-games-strategy-plus-86: page 100/172  (48s)
+  play-us-42: page 50/118  (25s)
+  play-us-44: page 100/102  (49s)
+  hyper-62: page 116/116  (103s)
+  [46/98] hyper-62: 116 pages in 104s | 3528/9384 pages, 4.2 p/s, ETA 23 min
+  play-us-44: page 102/102  (50s)
+  [54/97] play-us-44: 102 pages in 50s | 5347/10669 pages, 6.3 p/s, ETA 14 min
+  computer-games-strategy-plus-84: page 50/232  (41s)
+  play-us-41: page 50/102  (28s)
+  FAILED hyper-59: RuntimeError('WebP encode failed for 042.webp: decoded WebP does not match source')
+  hyper-58: page 50/96  (43s)
+  computer-games-strategy-plus-86: page 150/172  (71s)
+  play-us-43: page 100/118  (53s)
+  computer-games-strategy-plus-83: page 50/212  (40s)
+  play-us-42: page 100/118  (52s)
+  play-us-43: page 118/118  (62s)
+  [55/97] play-us-43: 118 pages in 62s | 5465/10669 pages, 6.3 p/s, ETA 14 min
+  computer-games-strategy-plus-86: page 172/172  (82s)
+  [58/117] computer-games-strategy-plus-86: 172 pages in 82s | 4245/14310 pages, 4.9 p/s, ETA 34 min
+  play-us-40: page 50/102  (26s)
+  play-us-42: page 118/118  (60s)
+  [56/97] play-us-42: 118 pages in 60s | 5583/10669 pages, 6.4 p/s, ETA 13 min
+  play-us-41: page 100/102  (57s)
+  play-us-41: page 102/102  (58s)
+  [57/97] play-us-41: 102 pages in 59s | 5685/10669 pages, 6.5 p/s, ETA 13 min
+  hyper-57: page 50/100  (36s)
+  hyper-60: page 96/96  (86s)
+  [48/98] hyper-60: 96 pages in 86s | 3624/9384 pages, 4.1 p/s, ETA 23 min
+  computer-games-strategy-plus-84: page 100/232  (78s)
+  play-us-38: page 50/108  (13s)
+  computer-games-strategy-plus-82: page 50/164  (54s)
+  hyper-56: page 50/100  (40s)
+  computer-games-strategy-plus-81: page 50/124  (24s)
+  play-us-39: page 50/118  (26s)
+  hyper-58: page 96/96  (80s)
+  [49/98] hyper-58: 96 pages in 81s | 3720/9384 pages, 4.2 p/s, ETA 23 min
+  FAILED hyper-55: RuntimeError('WebP encode failed for 009.webp: failed to read next frame')
+  play-us-40: page 100/102  (53s)
+  play-us-38: page 100/108  (27s)
+  play-us-40: page 102/102  (54s)
+  [58/97] play-us-40: 102 pages in 54s | 5787/10669 pages, 6.4 p/s, ETA 13 min
+  play-us-38: page 108/108  (29s)
+  [59/97] play-us-38: 108 pages in 29s | 5895/10669 pages, 6.6 p/s, ETA 12 min
+  play-us-37: page 50/122  (26s)
+  computer-games-strategy-plus-83: page 100/212  (88s)
+  computer-games-strategy-plus-81: page 100/124  (47s)
+  FAILED computer-games-strategy-plus-84: RuntimeError('WebP encode failed for 150.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-82: page 100/164  (85s)
+  play-us-39: page 100/118  (52s)
+  play-us-36: page 50/134  (26s)
+  computer-games-strategy-plus-81: page 124/124  (58s)
+  [60/117] computer-games-strategy-plus-81: 124 pages in 58s | 4369/14310 pages, 4.7 p/s, ETA 35 min
+  play-us-35: page 50/128  (26s)
+  hyper-57: page 100/100  (86s)
+  [51/98] hyper-57: 100 pages in 86s | 3820/9384 pages, 4.1 p/s, ETA 23 min
+  play-us-39: page 118/118  (62s)
+  [60/97] play-us-39: 118 pages in 62s | 6013/10669 pages, 6.5 p/s, ETA 12 min
+  hyper-53: page 50/100  (36s)
+  play-us-37: page 100/122  (55s)
+  hyper-56: page 100/100  (86s)
+  [52/98] hyper-56: 100 pages in 87s | 3920/9384 pages, 4.2 p/s, ETA 22 min
+  hyper-54: page 50/96  (45s)
+  FAILED computer-games-strategy-plus-82: RuntimeError('WebP encode failed for 125.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-83: page 150/212  (127s)
+  play-us-37: page 122/122  (67s)
+  [61/97] play-us-37: 122 pages in 68s | 6135/10669 pages, 6.5 p/s, ETA 12 min
+  computer-games-strategy-plus-79: page 50/124  (24s)
+  play-us-36: page 100/134  (52s)
+  play-us-35: page 100/128  (53s)
+  play-us-34: page 50/120  (26s)
+  play-us-33: page 50/116  (13s)
+  hyper-53: page 100/100  (70s)
+  [53/98] hyper-53: 100 pages in 71s | 4020/9384 pages, 4.2 p/s, ETA 21 min
+  FAILED computer-games-strategy-plus-80: RuntimeError('WebP encode failed for 050.webp: decoded WebP does not match source')
+  play-us-36: page 134/134  (69s)
+  [62/97] play-us-36: 134 pages in 70s | 6269/10669 pages, 6.5 p/s, ETA 11 min
+  play-us-35: page 128/128  (70s)
+  [63/97] play-us-35: 128 pages in 70s | 6397/10669 pages, 6.6 p/s, ETA 11 min
+  hyper-52: page 50/100  (41s)
+  play-us-33: page 100/116  (26s)
+  FAILED hyper-54: RuntimeError('WebP encode failed for 083.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-79: page 100/124  (46s)
+  play-us-33: page 116/116  (30s)
+  [64/97] play-us-33: 116 pages in 30s | 6513/10669 pages, 6.7 p/s, ETA 10 min
+  hyper-51: page 50/112  (45s)
+  play-us-31: page 50/108  (13s)
+  computer-games-strategy-plus-83: page 200/212  (165s)
+  computer-games-strategy-plus-79: page 124/124  (57s)
+  [63/117] computer-games-strategy-plus-79: 124 pages in 57s | 4493/14310 pages, 4.6 p/s, ETA 36 min
+  computer-games-strategy-plus-78: page 50/116  (42s)
+  play-us-34: page 100/120  (55s)
+  play-us-30: page 50/107  (13s)
+  computer-games-strategy-plus-83: page 212/212  (173s)
+  [64/117] computer-games-strategy-plus-83: 212 pages in 173s | 4705/14310 pages, 4.7 p/s, ETA 34 min
+  play-us-32: page 50/102  (26s)
+  play-us-31: page 100/108  (25s)
+  play-us-34: page 120/120  (66s)
+  [65/97] play-us-34: 120 pages in 66s | 6633/10669 pages, 6.7 p/s, ETA 10 min
+  FAILED computer-games-strategy-plus-77: RuntimeError('WebP encode failed for 036.webp: decoded WebP does not match source')
+  play-us-31: page 108/108  (28s)
+  [66/97] play-us-31: 108 pages in 28s | 6741/10669 pages, 6.8 p/s, ETA 10 min
+  play-us-30: page 100/107  (27s)
+  play-us-30: page 107/107  (28s)
+  [67/97] play-us-30: 107 pages in 29s | 6848/10669 pages, 6.8 p/s, ETA 9 min
+  computer-games-strategy-plus-76: page 50/132  (24s)
+  hyper-49: page 50/112  (36s)
+  play-us-28: page 50/100  (13s)
+  hyper-52: page 100/100  (81s)
+  [55/98] hyper-52: 100 pages in 82s | 4120/9384 pages, 4.1 p/s, ETA 22 min
+  FAILED computer-games-strategy-plus-74: RuntimeError('WebP encode failed for 012.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-78: page 100/116  (74s)
+  play-us-32: page 100/102  (52s)
+  hyper-50: page 50/112  (54s)
+  play-us-32: page 102/102  (53s)
+  [68/97] play-us-32: 102 pages in 54s | 6950/10669 pages, 6.8 p/s, ETA 9 min
+  FAILED computer-games-strategy-plus-78: RuntimeError('WebP encode failed for 106.webp: decoded WebP does not match source')
+  play-us-28: page 100/100  (27s)
+  [69/97] play-us-28: 100 pages in 27s | 7050/10669 pages, 6.9 p/s, ETA 9 min
+  play-us-29: page 50/102  (28s)
+  FAILED hyper-51: RuntimeError('WebP encode failed for 096.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-76: page 100/132  (47s)
+  FAILED computer-games-strategy-plus-75: RuntimeError('WebP encode failed for 038.webp: decoded WebP does not match source')
+  play-us-27: page 50/120  (29s)
+  FAILED computer-games-strategy-plus-1997-1997-annual-computer-games-buyer-s-guide: RuntimeError('WebP encode failed for 029.webp: decoded WebP does not match source')
+  FAILED computer-games-strategy-plus-69: RuntimeError('WebP encode failed for 002.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-76: page 132/132  (60s)
+  [71/117] computer-games-strategy-plus-76: 132 pages in 60s | 4837/14310 pages, 4.6 p/s, ETA 34 min
+  hyper-49: page 100/112  (76s)
+  computer-games-strategy-plus-61: page 50/200  (7s)
+  play-us-26: page 50/116  (28s)
+  play-us-25: page 50/116  (27s)
+  computer-games-strategy-plus-63: page 50/136  (10s)
+  hyper-48: page 50/100  (41s)
+  FAILED computer-games-strategy-plus-71: RuntimeError('WebP encode failed for 022.webp: decoded WebP does not match source')
+  play-us-29: page 100/102  (59s)
+  hyper-49: page 112/112  (84s)
+  [57/98] hyper-49: 112 pages in 85s | 4232/9384 pages, 4.0 p/s, ETA 21 min
+  play-us-29: page 102/102  (60s)
+  [70/97] play-us-29: 102 pages in 61s | 7152/10669 pages, 6.8 p/s, ETA 9 min
+  computer-games-strategy-plus-61: page 100/200  (14s)
+  FAILED computer-games-strategy-plus-60: RuntimeError('WebP encode failed for 018.webp: failed to read next frame')
+  FAILED computer-games-strategy-plus-63: RuntimeError('WebP encode failed for 070.webp: decoded WebP does not match source')
+  FAILED hyper-50: RuntimeError('WebP encode failed for 093.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-73: page 50/196  (37s)
+  computer-games-strategy-plus-61: page 150/200  (20s)
+  play-us-27: page 100/120  (59s)
+  computer-games-strategy-plus-61: page 200/200  (27s)
+  [75/117] computer-games-strategy-plus-61: 200 pages in 27s | 5037/14310 pages, 4.7 p/s, ETA 33 min
+  FAILED hyper-47: RuntimeError('WebP encode failed for 050.webp: decoded WebP does not match source')
+  play-us-27: page 120/120  (71s)
+  [71/97] play-us-27: 120 pages in 71s | 7272/10669 pages, 6.8 p/s, ETA 8 min
+  play-us-25: page 100/116  (52s)
+  play-us-26: page 100/116  (55s)
+  play-us-24: page 50/134  (27s)
+  play-us-25: page 116/116  (60s)
+  [72/97] play-us-25: 116 pages in 61s | 7388/10669 pages, 6.8 p/s, ETA 8 min
+  play-us-26: page 116/116  (63s)
+  [73/97] play-us-26: 116 pages in 64s | 7504/10669 pages, 6.9 p/s, ETA 8 min
+  hyper-48: page 100/100  (76s)
+  [60/98] hyper-48: 100 pages in 77s | 4332/9384 pages, 4.0 p/s, ETA 21 min
+  FAILED computer-games-strategy-plus-54: RuntimeError('WebP encode failed for 036.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-52: page 50/132  (23s)
+  computer-games-strategy-plus-53: page 50/132  (37s)
+  computer-games-strategy-plus-73: page 100/196  (77s)
+  hyper-46: page 50/96  (44s)
+  hyper-45: page 50/96  (41s)
+  play-us-23: page 50/136  (28s)
+  play-us-24: page 100/134  (54s)
+  play-us-22: page 50/118  (27s)
+  play-us-21: page 50/120  (27s)
+  FAILED computer-games-strategy-plus-51: RuntimeError('WebP encode failed for 034.webp: decoded WebP does not match source')
+  FAILED hyper-44: RuntimeError('WebP encode failed for 033.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-52: page 100/132  (47s)
+  FAILED hyper-45: RuntimeError('WebP encode failed for 069.webp: decoded WebP does not match source')
+  play-us-24: page 134/134  (73s)
+  [74/97] play-us-24: 134 pages in 74s | 7638/10669 pages, 6.8 p/s, ETA 7 min
+  play-us-23: page 100/136  (55s)
+  computer-games-strategy-plus-53: page 100/132  (74s)
+  computer-games-strategy-plus-52: page 132/132  (62s)
+  [78/117] computer-games-strategy-plus-52: 132 pages in 62s | 5169/14310 pages, 4.6 p/s, ETA 33 min
+  play-us-22: page 100/118  (53s)
+  computer-games-strategy-plus-73: page 150/196  (116s)
+  play-us-21: page 100/120  (53s)
+  FAILED hyper-46: RuntimeError('WebP encode failed for 093.webp: decoded WebP does not match source')
+  hyper-43: page 50/96  (56s)
+  play-us-22: page 118/118  (64s)
+  [75/97] play-us-22: 118 pages in 64s | 7756/10669 pages, 6.7 p/s, ETA 7 min
+  play-us-21: page 120/120  (64s)
+  [76/97] play-us-21: 120 pages in 64s | 7876/10669 pages, 6.8 p/s, ETA 7 min
+  play-us-23: page 136/136  (75s)
+  [77/97] play-us-23: 136 pages in 76s | 8012/10669 pages, 7.0 p/s, ETA 6 min
+  hyper-42: page 50/96  (37s)
+  computer-games-strategy-plus-53: page 132/132  (97s)
+  [79/117] computer-games-strategy-plus-53: 132 pages in 97s | 5301/14310 pages, 4.6 p/s, ETA 33 min
+  computer-games-strategy-plus-50: page 50/134  (42s)
+  computer-games-strategy-plus-49: page 50/164  (25s)
+  play-us-20: page 50/112  (28s)
+  play-us-19: page 50/108  (16s)
+  hyper-41: page 50/96  (46s)
+  FAILED hyper-42: RuntimeError('WebP encode failed for 074.webp: failed to read next frame')
+  play-us-18: page 50/106  (28s)
+  computer-games-strategy-plus-73: page 196/196  (156s)
+  [80/117] computer-games-strategy-plus-73: 196 pages in 157s | 5497/14310 pages, 4.7 p/s, ETA 32 min
+  play-us-17: page 50/112  (28s)
+  play-us-19: page 100/108  (32s)
+  hyper-40: page 50/80  (39s)
+  computer-games-strategy-plus-49: page 100/164  (49s)
+  play-us-19: page 108/108  (35s)
+  [78/97] play-us-19: 108 pages in 35s | 8120/10669 pages, 6.9 p/s, ETA 6 min
+  play-us-20: page 100/112  (55s)
+  computer-games-strategy-plus-50: page 100/134  (74s)
+  play-us-20: page 112/112  (61s)
+  [79/97] play-us-20: 112 pages in 62s | 8232/10669 pages, 6.9 p/s, ETA 6 min
+  hyper-43: page 96/96  (104s)
+  [65/98] hyper-43: 96 pages in 105s | 4428/9384 pages, 3.7 p/s, ETA 22 min
+  computer-games-strategy-plus-46: page 50/132  (43s)
+  hyper-41: page 96/96  (83s)
+  [66/98] hyper-41: 96 pages in 84s | 4524/9384 pages, 3.8 p/s, ETA 22 min
+  play-us-18: page 100/106  (54s)
+  computer-games-strategy-plus-49: page 150/164  (74s)
+  play-us-18: page 106/106  (57s)
+  [80/97] play-us-18: 106 pages in 58s | 8338/10669 pages, 6.9 p/s, ETA 6 min
+  play-us-17: page 100/112  (58s)
+  computer-games-strategy-plus-50: page 134/134  (96s)
+  [81/117] computer-games-strategy-plus-50: 134 pages in 96s | 5631/14310 pages, 4.7 p/s, ETA 31 min
+  play-us-4: page 50/108  (28s)
+  computer-games-strategy-plus-49: page 164/164  (81s)
+  [82/117] computer-games-strategy-plus-49: 164 pages in 81s | 5795/14310 pages, 4.8 p/s, ETA 30 min
+  hyper-40: page 80/80  (72s)
+  [67/98] hyper-40: 80 pages in 72s | 4604/9384 pages, 3.8 p/s, ETA 21 min
+  play-us-17: page 112/112  (63s)
+  [81/97] play-us-17: 112 pages in 64s | 8450/10669 pages, 7.0 p/s, ETA 5 min
+  FAILED hyper-36: RuntimeError('WebP encode failed for 001.webp: failed to read next frame')
+  FAILED computer-games-strategy-plus-46: RuntimeError('WebP encode failed for 075.webp: decoded WebP does not match source')
+  play-us-3-2: page 50/110  (27s)
+  hyper-39: page 50/96  (45s)
+  computer-games-strategy-plus-43: page 50/100  (45s)
+  FAILED computer-games-strategy-plus-40: RuntimeError('WebP encode failed for 007.webp: decoded WebP does not match source')
+  play-us-2-2: page 50/114  (27s)
+  hyper-38: page 50/96  (43s)
+  computer-games-strategy-plus-41: page 50/100  (25s)
+  play-us-4: page 100/108  (56s)
+  play-us-1-2: page 50/118  (25s)
+  play-us-4: page 108/108  (60s)
+  [82/97] play-us-4: 108 pages in 60s | 8558/10669 pages, 6.9 p/s, ETA 5 min
+  play-us-3-2: page 100/110  (54s)
+  hyper-37: page 50/80  (44s)
+  FAILED computer-games-strategy-plus-39: RuntimeError('WebP encode failed for 033.webp: failed to read next frame')
+  computer-games-strategy-plus-42: page 50/100  (40s)
+  play-us-3-2: page 110/110  (60s)
+  [83/97] play-us-3-2: 110 pages in 61s | 8668/10669 pages, 6.9 p/s, ETA 5 min
+  hyper-39: page 96/96  (83s)
+  [69/98] hyper-39: 96 pages in 83s | 4700/9384 pages, 3.7 p/s, ETA 21 min
+  play-us-2-2: page 100/114  (52s)
+  computer-games-strategy-plus-41: page 100/100  (49s)
+  [86/117] computer-games-strategy-plus-41: 100 pages in 50s | 5895/14310 pages, 4.7 p/s, ETA 30 min
+  play-us-12: page 50/140  (20s)
+  FAILED hyper-35: RuntimeError('WebP encode failed for 040.webp: decoded WebP does not match source')
+  play-us-1-2: page 100/118  (51s)
+  play-us-2-2: page 114/114  (60s)
+  [84/97] play-us-2-2: 114 pages in 60s | 8782/10669 pages, 6.9 p/s, ETA 5 min
+  hyper-38: page 96/96  (76s)
+  [71/98] hyper-38: 96 pages in 77s | 4796/9384 pages, 3.8 p/s, ETA 20 min
+  FAILED computer-games-strategy-plus-43: RuntimeError('WebP encode failed for 099.webp: decoded WebP does not match source')
+  play-us-1-2: page 118/118  (60s)
+  [85/97] play-us-1-2: 118 pages in 60s | 8900/10669 pages, 7.0 p/s, ETA 4 min
+  hyper-37: page 80/80  (73s)
+  [72/98] hyper-37: 80 pages in 74s | 4876/9384 pages, 3.8 p/s, ETA 20 min
+  play-us-11: page 50/142  (28s)
+  play-us-12: page 100/140  (40s)
+  computer-games-strategy-plus-36: page 50/132  (25s)
+  computer-games-strategy-plus-37: page 50/168  (39s)
+  computer-games-strategy-plus-42: page 100/100  (82s)
+  [88/117] computer-games-strategy-plus-42: 100 pages in 82s | 5995/14310 pages, 4.6 p/s, ETA 30 min
+  play-us-10: page 50/124  (28s)
+  FAILED computer-games-strategy-plus-37: RuntimeError('WebP encode failed for 057.webp: decoded WebP does not match source')
+  play-us-12: page 140/140  (57s)
+  [86/97] play-us-12: 140 pages in 58s | 9040/10669 pages, 6.9 p/s, ETA 4 min
+  hyper-34: page 50/80  (41s)
+  hyper-33: page 50/80  (39s)
+  play-us-9: page 50/118  (28s)
+  play-us-11: page 100/142  (54s)
+  computer-games-strategy-plus-36: page 100/132  (49s)
+  hyper-32: page 50/84  (47s)
+  computer-games-strategy-plus-35: page 50/144  (46s)
+  play-us-10: page 100/124  (57s)
+  computer-games-strategy-plus-36: page 132/132  (63s)
+  [90/117] computer-games-strategy-plus-36: 132 pages in 63s | 6127/14310 pages, 4.6 p/s, ETA 30 min
+  hyper-34: page 80/80  (66s)
+  [73/98] hyper-34: 80 pages in 67s | 4956/9384 pages, 3.7 p/s, ETA 20 min
+  play-us-8: page 50/118  (27s)
+  play-us-11: page 142/142  (77s)
+  [87/97] play-us-11: 142 pages in 78s | 9182/10669 pages, 6.9 p/s, ETA 4 min
+  play-us-9: page 100/118  (56s)
+  computer-games-strategy-plus-33: page 50/68  (34s)
+  hyper-31: page 50/84  (55s)
+  FAILED hyper-33: RuntimeError('WebP encode failed for 079.webp: decoded WebP does not match source')
+  play-us-10: page 124/124  (71s)
+  [88/97] play-us-10: 124 pages in 71s | 9306/10669 pages, 6.9 p/s, ETA 3 min
+  computer-games-strategy-plus-34: page 50/104  (50s)
+  play-us-9: page 118/118  (66s)
+  [89/97] play-us-9: 118 pages in 67s | 9424/10669 pages, 7.0 p/s, ETA 3 min
+  hyper-32: page 84/84  (73s)
+  [75/98] hyper-32: 84 pages in 74s | 5040/9384 pages, 3.8 p/s, ETA 19 min
+  computer-games-strategy-plus-33: page 68/68  (49s)
+  [91/117] computer-games-strategy-plus-33: 68 pages in 49s | 6195/14310 pages, 4.6 p/s, ETA 29 min
+  computer-games-strategy-plus-32: page 50/104  (24s)
+  play-us-8: page 100/118  (54s)
+  computer-games-strategy-plus-35: page 100/144  (85s)
+  play-us-7: page 50/123  (28s)
+  hyper-31: page 84/84  (82s)
+  [76/98] hyper-31: 84 pages in 82s | 5124/9384 pages, 3.8 p/s, ETA 19 min
+  FAILED hyper-28: RuntimeError('WebP encode failed for 017.webp: failed to read next frame')
+  play-us-8: page 118/118  (64s)
+  [90/97] play-us-8: 118 pages in 65s | 9542/10669 pages, 7.0 p/s, ETA 3 min
+  hyper-30: page 50/84  (39s)
+  play-us-6: page 50/116  (28s)
+  play-us-5: page 50/116  (28s)
+  computer-games-strategy-plus-32: page 100/104  (48s)
+  computer-games-strategy-plus-32: page 104/104  (50s)
+  [92/117] computer-games-strategy-plus-32: 104 pages in 51s | 6299/14310 pages, 4.6 p/s, ETA 29 min
+  FAILED hyper-25: RuntimeError('WebP encode failed for 016.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-30: page 50/100  (7s)
+  play-us-7: page 100/123  (56s)
+  computer-games-strategy-plus-35: page 144/144  (117s)
+  [93/117] computer-games-strategy-plus-35: 144 pages in 118s | 6443/14310 pages, 4.6 p/s, ETA 28 min
+  computer-games-strategy-plus-34: page 100/104  (98s)
+  FAILED computer-games-strategy-plus-29: RuntimeError('WebP encode failed for 008.webp: decoded WebP does not match source')
+  hyper-29: page 50/84  (56s)
+  computer-games-strategy-plus-30: page 100/100  (15s)
+  [95/117] computer-games-strategy-plus-30: 100 pages in 15s | 6543/14310 pages, 4.7 p/s, ETA 28 min
+  computer-games-strategy-plus-34: page 104/104  (100s)
+  [96/117] computer-games-strategy-plus-34: 104 pages in 101s | 6647/14310 pages, 4.8 p/s, ETA 27 min
+  computer-games-strategy-plus-31: page 50/104  (45s)
+  play-us-3: page 50/116  (27s)
+  play-us-6: page 100/116  (54s)
+  hyper-30: page 84/84  (68s)
+  [79/98] hyper-30: 84 pages in 69s | 5208/9384 pages, 3.7 p/s, ETA 19 min
+  play-us-5: page 100/116  (56s)
+  computer-games-strategy-plus-27: page 50/100  (7s)
+  play-us-7: page 123/123  (69s)
+  [91/97] play-us-7: 123 pages in 70s | 9665/10669 pages, 6.9 p/s, ETA 2 min
+  FAILED computer-games-strategy-plus-28: RuntimeError('WebP encode failed for 041.webp: decoded WebP does not match source')
+  hyper-24: page 50/84  (40s)
+  play-us-6: page 116/116  (63s)
+  [92/97] play-us-6: 116 pages in 64s | 9781/10669 pages, 7.0 p/s, ETA 2 min
+  computer-games-strategy-plus-26: page 50/108  (12s)
+  computer-games-strategy-plus-27: page 100/100  (15s)
+  [98/117] computer-games-strategy-plus-27: 100 pages in 15s | 6747/14310 pages, 4.8 p/s, ETA 26 min
+  FAILED hyper-24: RuntimeError('WebP encode failed for 053.webp: decoded WebP does not match source')
+  play-us-5: page 116/116  (65s)
+  [93/97] play-us-5: 116 pages in 65s | 9897/10669 pages, 7.0 p/s, ETA 2 min
+  computer-games-strategy-plus-25: page 50/100  (10s)
+  FAILED computer-games-strategy-plus-26: RuntimeError('WebP encode failed for 083.webp: failed to read next frame')
+  computer-games-strategy-plus-24: page 50/108  (7s)
+  FAILED computer-games-strategy-plus-25: RuntimeError('WebP encode failed for 092.webp: decoded WebP does not match source')
+  play-us-3: page 100/116  (54s)
+  computer-games-strategy-plus-24: page 100/108  (15s)
+  computer-games-strategy-plus-23: page 50/92  (8s)
+  computer-games-strategy-plus-24: page 108/108  (16s)
+  [101/117] computer-games-strategy-plus-24: 108 pages in 16s | 6855/14310 pages, 4.8 p/s, ETA 26 min
+  hyper-29: page 84/84  (90s)
+  [81/98] hyper-29: 84 pages in 91s | 5292/9384 pages, 3.7 p/s, ETA 18 min
+  hyper-23: page 50/84  (47s)
+  play-us-2: page 50/116  (28s)
+  play-us-3: page 116/116  (63s)
+  [94/97] play-us-3: 116 pages in 64s | 10013/10669 pages, 7.0 p/s, ETA 2 min
+  FAILED hyper-23: RuntimeError('WebP encode failed for 052.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-19: page 50/76  (8s)
+  computer-games-strategy-plus-22: page 50/76  (9s)
+  FAILED computer-games-strategy-plus-23: RuntimeError('WebP encode failed for 079.webp: decoded WebP does not match source')
+  play-us-1: page 50/116  (29s)
+  FAILED computer-games-strategy-plus-16: RuntimeError('WebP encode failed for 006.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-19: page 76/76  (11s)
+  [104/117] computer-games-strategy-plus-19: 76 pages in 11s | 6931/14310 pages, 4.8 p/s, ETA 25 min
+  computer-games-strategy-plus-22: page 76/76  (14s)
+  [105/117] computer-games-strategy-plus-22: 76 pages in 15s | 7007/14310 pages, 4.9 p/s, ETA 25 min
+  FAILED hyper-19: RuntimeError('WebP encode failed for 025.webp: decoded WebP does not match source')
+  hyper-21: page 50/84  (40s)
+  play-us-200112-play-premiere-issue: page 50/116  (28s)
+  FAILED computer-games-strategy-plus-14: RuntimeError('WebP encode failed for 017.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-31: page 100/104  (90s)
+  computer-games-strategy-plus-13: page 50/92  (8s)
+  computer-games-strategy-plus-31: page 104/104  (94s)
+  [107/117] computer-games-strategy-plus-31: 104 pages in 95s | 7111/14310 pages, 4.9 p/s, ETA 24 min
+  FAILED hyper-17: RuntimeError('WebP encode failed for 013.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-13: page 92/92  (14s)
+  [108/117] computer-games-strategy-plus-13: 92 pages in 14s | 7203/14310 pages, 5.0 p/s, ETA 24 min
+  play-us-2: page 100/116  (55s)
+  hyper-21: page 84/84  (62s)
+  [85/98] hyper-21: 84 pages in 63s | 5376/9384 pages, 3.7 p/s, ETA 18 min
+  play-us-1: page 100/116  (56s)
+  FAILED computer-games-strategy-plus-10: RuntimeError('WebP encode failed for 025.webp: decoded WebP does not match source')
+  play-us-2: page 116/116  (63s)
+  [95/97] play-us-2: 116 pages in 64s | 10129/10669 pages, 6.9 p/s, ETA 1 min
+  play-us-200112-play-premiere-issue: page 100/116  (56s)
+  play-us-1: page 116/116  (64s)
+  [96/97] play-us-1: 116 pages in 65s | 10245/10669 pages, 7.0 p/s, ETA 1 min
+  hyper-18: page 50/84  (45s)
+  hyper-16: page 50/84  (36s)
+  play-us-200112-play-premiere-issue: page 116/116  (65s)
+  [97/97] play-us-200112-play-premiere-issue: 116 pages in 65s | 10361/10669 pages, 7.0 p/s, ETA 1 min
+3 issue(s) failed: play-us-94, play-us-86, play-us-84
+=== render play-us rc=1 in 24.6 min ===
+  computer-games-strategy-plus-7: page 50/68  (25s)
+  computer-games-strategy-plus-9: page 50/68  (32s)
+  FAILED hyper-18: RuntimeError('WebP encode failed for 058.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-7: page 68/68  (33s)
+  [110/117] computer-games-strategy-plus-7: 68 pages in 34s | 7271/14310 pages, 4.9 p/s, ETA 24 min
+  computer-games-strategy-plus-11: page 50/68  (48s)
+  computer-games-strategy-plus-9: page 68/68  (44s)
+  [111/117] computer-games-strategy-plus-9: 68 pages in 45s | 7339/14310 pages, 4.9 p/s, ETA 24 min
+  hyper-15: page 50/84  (42s)
+  hyper-16: page 84/84  (62s)
+  [87/98] hyper-16: 84 pages in 63s | 5460/9384 pages, 3.6 p/s, ETA 18 min
+  hyper-14: page 50/100  (44s)
+  FAILED hyper-13: RuntimeError('WebP encode failed for 017.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-11: page 68/68  (69s)
+  [112/117] computer-games-strategy-plus-11: 68 pages in 69s | 7407/14310 pages, 4.9 p/s, ETA 23 min
+  FAILED hyper-11: RuntimeError('WebP encode failed for 011.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-5: page 50/60  (38s)
+  FAILED hyper-15: RuntimeError('WebP encode failed for 084.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-5: page 60/60  (46s)
+  [113/117] computer-games-strategy-plus-5: 60 pages in 46s | 7467/14310 pages, 4.9 p/s, ETA 23 min
+  FAILED computer-games-strategy-plus-2: RuntimeError('WebP encode failed for 020.webp: decoded WebP does not match source')
+  hyper-12: page 50/100  (37s)
+  computer-games-strategy-plus-6: page 50/68  (75s)
+  hyper-14: page 100/100  (82s)
+  [91/98] hyper-14: 100 pages in 82s | 5560/9384 pages, 3.6 p/s, ETA 18 min
+  FAILED hyper-10: RuntimeError('WebP encode failed for 023.webp: decoded WebP does not match source')
+  FAILED hyper-7: RuntimeError('WebP encode failed for 008.webp: decoded WebP does not match source')
+  hyper-9: page 50/84  (38s)
+  computer-games-strategy-plus-4: page 50/60  (73s)
+  FAILED hyper-12: RuntimeError('WebP encode failed for 074.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-1: page 50/60  (37s)
+  computer-games-strategy-plus-6: page 68/68  (107s)
+  [115/117] computer-games-strategy-plus-6: 68 pages in 107s | 7535/14310 pages, 4.8 p/s, ETA 24 min
+  FAILED hyper-6: RuntimeError('WebP encode failed for 023.webp: failed to read next frame')
+  computer-games-strategy-plus-1: page 60/60  (45s)
+  [116/117] computer-games-strategy-plus-1: 60 pages in 45s | 7595/14310 pages, 4.8 p/s, ETA 23 min
+  FAILED hyper-2: RuntimeError('WebP encode failed for 013.webp: decoded WebP does not match source')
+  computer-games-strategy-plus-4: page 60/60  (87s)
+  [117/117] computer-games-strategy-plus-4: 60 pages in 87s | 7655/14310 pages, 4.9 p/s, ETA 23 min
+51 issue(s) failed: computer-games-strategy-plus-176, computer-games-strategy-plus-173, computer-games-strategy-plus-157, computer-games-strategy-plus-154, computer-games-strategy-plus-152, computer-games-strategy-plus-149, computer-games-strategy-plus-146, computer-games-strategy-plus-142, computer-games-strategy-plus-113, computer-games-strategy-plus-116, computer-games-strategy-plus-109, computer-games-strategy-plus-106, computer-games-strategy-plus-101, computer-games-strategy-plus-99, computer-games-strategy-plus-97, computer-games-strategy-plus-100, computer-games-strategy-plus-96, computer-games-strategy-plus-95, computer-games-strategy-plus-94, computer-games-strategy-plus-90, computer-games-strategy-plus-91, computer-games-strategy-plus-87, computer-games-strategy-plus-85, computer-games-strategy-plus-84, computer-games-strategy-plus-82, computer-games-strategy-plus-80, computer-games-strategy-plus-77, computer-games-strategy-plus-74, computer-games-strategy-plus-78, computer-games-strategy-plus-75, computer-games-strategy-plus-1997-1997-annual-computer-games-buyer-s-guide, computer-games-strategy-plus-69, computer-games-strategy-plus-71, computer-games-strategy-plus-60, computer-games-strategy-plus-63, computer-games-strategy-plus-54, computer-games-strategy-plus-51, computer-games-strategy-plus-46, computer-games-strategy-plus-40, computer-games-strategy-plus-39, computer-games-strategy-plus-43, computer-games-strategy-plus-37, computer-games-strategy-plus-29, computer-games-strategy-plus-28, computer-games-strategy-plus-26, computer-games-strategy-plus-25, computer-games-strategy-plus-23, computer-games-strategy-plus-16, computer-games-strategy-plus-14, computer-games-strategy-plus-10, computer-games-strategy-plus-2
+  hyper-8: page 50/84  (41s)
+  hyper-9: page 84/84  (64s)
+  [97/98] hyper-9: 84 pages in 64s | 5644/9384 pages, 3.6 p/s, ETA 18 min
+  hyper-8: page 84/84  (55s)
+  [98/98] hyper-8: 84 pages in 56s | 5728/9384 pages, 3.6 p/s, ETA 17 min
+39 issue(s) failed: hyper-111, hyper-109, hyper-108, hyper-110, hyper-73, hyper-75, hyper-72, hyper-66, hyper-67, hyper-64, hyper-61, hyper-59, hyper-55, hyper-54, hyper-51, hyper-50, hyper-47, hyper-44, hyper-45, hyper-46, hyper-42, hyper-36, hyper-35, hyper-33, hyper-28, hyper-25, hyper-24, hyper-23, hyper-19, hyper-17, hyper-18, hyper-13, hyper-11, hyper-15, hyper-10, hyper-7, hyper-12, hyper-6, hyper-2
+=== render hyper rc=1 in 26.6 min ===
+=== render computer-entertainer rc=1 in 26.6 min ===
+=== render computer-games-strategy-plus rc=1 in 26.6 min ===
+
+=== start retry play-us ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication play-us --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+
+=== start retry hyper ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication hyper --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+
+=== start retry computer-entertainer ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication computer-entertainer --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+
+=== start retry computer-games-strategy-plus ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication computer-games-strategy-plus --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+39 issues / 3656 pages to render with 1 workers
+51 issues / 6655 pages to render with 1 workers
+3 issues / 308 pages to render with 1 workers
+1 issues / 16 pages to render with 1 workers
+  computer-entertainer-3-9: page 16/16  (12s)
+  [1/1] computer-entertainer-3-9: 16 pages in 12s | 16/16 pages, 1.3 p/s, ETA 0 min
+all done in 0 min
+  computer-games-strategy-plus-176: page 50/100  (13s)
+  computer-games-strategy-plus-176: page 100/100  (24s)
+  [1/51] computer-games-strategy-plus-176: 100 pages in 24s | 100/6655 pages, 4.1 p/s, ETA 27 min
+  hyper-111: page 50/100  (25s)
+  computer-games-strategy-plus-173: page 50/101  (14s)
+  play-us-94: page 50/100  (39s)
+  hyper-111: page 100/100  (48s)
+  [1/39] hyper-111: 100 pages in 49s | 100/3656 pages, 2.1 p/s, ETA 29 min
+  computer-games-strategy-plus-173: page 100/101  (27s)
+  computer-games-strategy-plus-173: page 101/101  (27s)
+  [2/51] computer-games-strategy-plus-173: 101 pages in 27s | 201/6655 pages, 3.9 p/s, ETA 27 min
+  FAILED play-us-94: RuntimeError('WebP encode failed for 077.webp: decoded WebP does not match source')
+  FAILED play-us-86: RuntimeError('WebP encode failed for 009.webp: decoded WebP does not match source')
+  hyper-110: page 50/102  (26s)
+  computer-games-strategy-plus-157: page 50/116  (23s)
+  computer-games-strategy-plus-157: page 100/116  (47s)
+  play-us-84: page 50/116  (35s)
+  hyper-110: page 100/102  (52s)
+  hyper-110: page 102/102  (53s)
+  [2/39] hyper-110: 102 pages in 53s | 202/3656 pages, 2.0 p/s, ETA 29 min
+  computer-games-strategy-plus-157: page 116/116  (54s)
+  [3/51] computer-games-strategy-plus-157: 116 pages in 54s | 317/6655 pages, 3.0 p/s, ETA 35 min
+  hyper-109: page 50/102  (24s)
+  computer-games-strategy-plus-154: page 50/100  (23s)
+  play-us-84: page 100/116  (71s)
+  play-us-84: page 116/116  (82s)
+  [3/3] play-us-84: 116 pages in 82s | 116/308 pages, 0.8 p/s, ETA 4 min
+2 issue(s) failed: play-us-94, play-us-86
+=== retry play-us rc=1 in 2.5 min ===
+  computer-games-strategy-plus-154: page 100/100  (44s)
+  [4/51] computer-games-strategy-plus-154: 100 pages in 44s | 417/6655 pages, 2.8 p/s, ETA 37 min
+  hyper-109: page 100/102  (51s)
+  hyper-109: page 102/102  (52s)
+  [3/39] hyper-109: 102 pages in 52s | 304/3656 pages, 2.0 p/s, ETA 28 min
+  computer-games-strategy-plus-152: page 50/102  (25s)
+  hyper-108: page 50/100  (28s)
+  computer-games-strategy-plus-152: page 100/102  (49s)
+  computer-games-strategy-plus-152: page 102/102  (50s)
+  [5/51] computer-games-strategy-plus-152: 102 pages in 50s | 519/6655 pages, 2.6 p/s, ETA 39 min
+  hyper-108: page 100/100  (56s)
+  [4/39] hyper-108: 100 pages in 56s | 404/3656 pages, 1.9 p/s, ETA 28 min
+  computer-games-strategy-plus-149: page 50/100  (25s)
+  hyper-75: page 50/116  (28s)
+  computer-games-strategy-plus-149: page 100/100  (50s)
+  [6/51] computer-games-strategy-plus-149: 100 pages in 50s | 619/6655 pages, 2.5 p/s, ETA 40 min
+  hyper-75: page 100/116  (55s)
+  hyper-75: page 116/116  (64s)
+  [5/39] hyper-75: 116 pages in 64s | 520/3656 pages, 1.9 p/s, ETA 28 min
+  computer-games-strategy-plus-146: page 50/100  (25s)
+  computer-games-strategy-plus-146: page 100/100  (50s)
+  [7/51] computer-games-strategy-plus-146: 100 pages in 50s | 719/6655 pages, 2.4 p/s, ETA 41 min
+  hyper-73: page 50/96  (29s)
+  computer-games-strategy-plus-142: page 50/100  (25s)
+  hyper-73: page 96/96  (55s)
+  [6/39] hyper-73: 96 pages in 55s | 616/3656 pages, 1.9 p/s, ETA 27 min
+  computer-games-strategy-plus-142: page 100/100  (50s)
+  [8/51] computer-games-strategy-plus-142: 100 pages in 50s | 819/6655 pages, 2.4 p/s, ETA 41 min
+  hyper-72: page 50/96  (28s)
+  hyper-72: page 96/96  (52s)
+  [7/39] hyper-72: 96 pages in 52s | 712/3656 pages, 1.9 p/s, ETA 26 min
+  computer-games-strategy-plus-116: page 50/164  (39s)
+  hyper-67: page 50/96  (25s)
+  computer-games-strategy-plus-116: page 100/164  (76s)
+  hyper-67: page 96/96  (47s)
+  [8/39] hyper-67: 96 pages in 47s | 808/3656 pages, 1.9 p/s, ETA 25 min
+  hyper-66: page 50/96  (25s)
+  computer-games-strategy-plus-116: page 150/164  (114s)
+  computer-games-strategy-plus-116: page 164/164  (127s)
+  [9/51] computer-games-strategy-plus-116: 164 pages in 127s | 983/6655 pages, 2.1 p/s, ETA 46 min
+  hyper-66: page 96/96  (52s)
+  [9/39] hyper-66: 96 pages in 52s | 904/3656 pages, 1.9 p/s, ETA 24 min
+  computer-games-strategy-plus-113: page 50/164  (24s)
+  hyper-64: page 50/100  (28s)
+  computer-games-strategy-plus-113: page 100/164  (48s)
+  hyper-64: page 100/100  (56s)
+  [10/39] hyper-64: 100 pages in 56s | 1004/3656 pages, 1.9 p/s, ETA 24 min
+  computer-games-strategy-plus-113: page 150/164  (73s)
+  computer-games-strategy-plus-113: page 164/164  (81s)
+  [10/51] computer-games-strategy-plus-113: 164 pages in 81s | 1147/6655 pages, 2.1 p/s, ETA 45 min
+  hyper-61: page 50/116  (28s)
+  hyper-61: page 100/116  (57s)
+  computer-games-strategy-plus-109: page 50/164  (45s)
+  hyper-61: page 116/116  (66s)
+  [11/39] hyper-61: 116 pages in 66s | 1120/3656 pages, 1.9 p/s, ETA 23 min
+  hyper-59: page 50/96  (28s)
+  computer-games-strategy-plus-109: page 100/164  (89s)
+  hyper-59: page 96/96  (54s)
+  [12/39] hyper-59: 96 pages in 54s | 1216/3656 pages, 1.9 p/s, ETA 22 min
+  hyper-55: page 50/80  (30s)
+  computer-games-strategy-plus-109: page 150/164  (132s)
+  computer-games-strategy-plus-109: page 164/164  (145s)
+  [11/51] computer-games-strategy-plus-109: 164 pages in 145s | 1311/6655 pages, 1.9 p/s, ETA 48 min
+  hyper-55: page 80/80  (48s)
+  [13/39] hyper-55: 80 pages in 48s | 1296/3656 pages, 1.8 p/s, ETA 21 min
+  computer-games-strategy-plus-106: page 50/108  (26s)
+  hyper-54: page 50/96  (30s)
+  computer-games-strategy-plus-106: page 100/108  (50s)
+  computer-games-strategy-plus-106: page 108/108  (55s)
+  [12/51] computer-games-strategy-plus-106: 108 pages in 55s | 1419/6655 pages, 1.9 p/s, ETA 47 min
+  hyper-54: page 96/96  (57s)
+  [14/39] hyper-54: 96 pages in 57s | 1392/3656 pages, 1.8 p/s, ETA 21 min
+  computer-games-strategy-plus-101: page 50/122  (26s)
+  hyper-51: page 50/112  (29s)
+  computer-games-strategy-plus-101: page 100/122  (52s)
+  computer-games-strategy-plus-101: page 122/122  (64s)
+  [13/51] computer-games-strategy-plus-101: 122 pages in 64s | 1541/6655 pages, 1.9 p/s, ETA 45 min
+  hyper-51: page 100/112  (60s)
+  hyper-51: page 112/112  (68s)
+  [15/39] hyper-51: 112 pages in 68s | 1504/3656 pages, 1.8 p/s, ETA 20 min
+  computer-games-strategy-plus-100: page 50/108  (26s)
+  hyper-50: page 50/112  (29s)
+  computer-games-strategy-plus-100: page 100/108  (49s)
+  computer-games-strategy-plus-100: page 108/108  (54s)
+  [14/51] computer-games-strategy-plus-100: 108 pages in 54s | 1649/6655 pages, 1.9 p/s, ETA 44 min
+  hyper-50: page 100/112  (57s)
+  hyper-50: page 112/112  (64s)
+  [16/39] hyper-50: 112 pages in 64s | 1616/3656 pages, 1.8 p/s, ETA 19 min
+  computer-games-strategy-plus-99: page 50/148  (26s)
+  hyper-47: page 50/100  (28s)
+  computer-games-strategy-plus-99: page 100/148  (50s)
+  hyper-47: page 100/100  (53s)
+  [17/39] hyper-47: 100 pages in 53s | 1716/3656 pages, 1.8 p/s, ETA 18 min
+  computer-games-strategy-plus-99: page 148/148  (76s)
+  [15/51] computer-games-strategy-plus-99: 148 pages in 76s | 1797/6655 pages, 1.9 p/s, ETA 43 min
+  hyper-46: page 50/96  (28s)
+  computer-games-strategy-plus-97: page 50/198  (27s)
+  hyper-46: page 96/96  (58s)
+  [18/39] hyper-46: 96 pages in 58s | 1812/3656 pages, 1.8 p/s, ETA 17 min
+  computer-games-strategy-plus-97: page 100/198  (54s)
+  computer-games-strategy-plus-97: page 150/198  (79s)
+  hyper-45: page 50/96  (29s)
+  computer-games-strategy-plus-97: page 198/198  (100s)
+  [16/51] computer-games-strategy-plus-97: 198 pages in 100s | 1995/6655 pages, 1.9 p/s, ETA 41 min
+  hyper-45: page 96/96  (50s)
+  [19/39] hyper-45: 96 pages in 50s | 1908/3656 pages, 1.8 p/s, ETA 16 min
+  computer-games-strategy-plus-96: page 50/198  (19s)
+  hyper-44: page 50/96  (22s)
+  computer-games-strategy-plus-96: page 100/198  (34s)
+  hyper-44: page 96/96  (41s)
+  [20/39] hyper-44: 96 pages in 41s | 2004/3656 pages, 1.8 p/s, ETA 15 min
+  computer-games-strategy-plus-96: page 150/198  (52s)

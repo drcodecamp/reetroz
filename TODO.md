@@ -88,7 +88,7 @@ Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplica
 
 ## Left — PDFs on disk (fewest issues first)
 
-Encoding the last four PDF titles: Play US, Hyper, Computer Entertainer, Strategy Plus.
+Last four still running (Cursor dropped the panel; process is alive). First pass done; retrying Hyper and Strategy Plus. Play US retry left 2 flakes (94, 86).
 
 - [x] PS Max (`ps-max`) — 1 issue / 100 pages
 - [x] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
