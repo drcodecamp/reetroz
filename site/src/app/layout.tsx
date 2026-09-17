@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Inter, JetBrains_Mono } from "next/font/google";
+import { homeDescription, homeTitle, SITE_NAME, siteOrigin } from "@/lib/seo";
 import "./globals.css";
 
 const display = Bricolage_Grotesque({
@@ -23,16 +24,16 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3210",
-  ),
-  title: "Pixel Press — Every issue of Computer Gaming World, 1981–2006",
-  description:
-    "Read all 268 issues of Computer Gaming World in a fast, beautiful online reader. Browse 25 years of PC gaming history by year, cover, or game.",
+  metadataBase: new URL(siteOrigin()),
+  title: {
+    default: homeTitle(),
+    template: `%s | ${SITE_NAME}`,
+  },
+  description: homeDescription(),
   openGraph: {
-    title: "Pixel Press — 25 years of gaming magazines, one reader",
-    description:
-      "268 issues. 40,000+ pages. Every era of PC gaming, from 1981 to 2006, readable in your browser.",
+    title: homeTitle(),
+    description: homeDescription(),
+    siteName: SITE_NAME,
     images: ["/img/hero-desk.png"],
   },
 };

@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-2/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-3",
@@ -59,7 +64,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-3/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-4",
@@ -90,7 +100,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-4/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-5",
@@ -121,7 +136,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-5.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-5/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-6",
@@ -152,7 +172,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-6.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-6/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-7",
@@ -183,7 +208,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-7.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-7/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-1",
@@ -214,7 +244,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-1/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-2-2",
@@ -246,7 +281,12 @@
    "status": "embedded"
   },
   "updated_at": "2026-09-14T09:33:40+00:00",
-  "volume": 2
+  "volume": 2,
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-2-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-2-2/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-3-2",
@@ -277,7 +317,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-3-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-3-2/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-199301-1993-winter-ces",
@@ -308,7 +353,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-199301-1993-winter-ces.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-199301-1993-winter-ces/manifest.json"
+  }
  },
  {
   "id": "electronic-gaming-retail-news-199306-1993-summer-ces",
@@ -339,6 +389,11 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:40+00:00"
+  "updated_at": "2026-09-14T09:33:40+00:00",
+  "assets": {
+   "cover": "covers/electronic-gaming-retail-news-199306-1993-summer-ces.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/electronic-gaming-retail-news-199306-1993-summer-ces/manifest.json"
+  }
  }
 ]

@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-15.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-15/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-14",
@@ -59,7 +64,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-14.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-14/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-17",
@@ -90,7 +100,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-17.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-17/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-41",
@@ -121,7 +136,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-41.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-41/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-2",
@@ -152,7 +172,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-2/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-3",
@@ -183,7 +208,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-3/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-5",
@@ -214,7 +244,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-5.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-5/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-14-2",
@@ -245,7 +280,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-14-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-14-2/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-16",
@@ -276,7 +316,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-16.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-16/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-18",
@@ -307,7 +352,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-18.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-18/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-20",
@@ -338,7 +388,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-20.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-20/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-27",
@@ -369,7 +424,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-27.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-27/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-28",
@@ -400,7 +460,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-28.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-28/manifest.json"
+  }
  },
  {
   "id": "gameweek-iemagazine-30",
@@ -431,6 +496,11 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gameweek-iemagazine-30.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gameweek-iemagazine-30/manifest.json"
+  }
  }
 ]

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { catalog } from "@/lib/catalog";
+import { startReadingIssue } from "@/lib/catalog";
 
 const links = [
   { href: "/catalog", label: "Catalog" },
@@ -9,10 +9,8 @@ const links = [
 ];
 
 export function Nav() {
-  const firstReadable = catalog.find((i) => i.readable);
-  const startHref = firstReadable
-    ? `/read/${firstReadable.slug}?p=1&play=1`
-    : "/catalog";
+  const start = startReadingIssue();
+  const startHref = start ? `/read/${start.slug}?p=1&play=1` : "/catalog";
   return (
     <header className="fixed inset-x-0 top-0 z-50">
       <div className="mx-auto mt-4 flex max-w-7xl items-center justify-between px-4 sm:px-6">
@@ -27,7 +25,7 @@ export function Nav() {
             <span className="font-display text-base font-semibold tracking-tight">
               Pixel Press
               <span className="ml-2 hidden font-mono text-[10px] font-normal uppercase tracking-[0.2em] text-paper-dim sm:inline">
-                est. 1981
+                the archive
               </span>
             </span>
           </Link>

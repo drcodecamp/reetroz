@@ -19,9 +19,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const issue = getIssue(slug);
   return {
     title: issue
-      ? `Reading ${getPublication(issue.publication)?.short ?? issue.publication} #${issue.number} · ${issue.date} | Pixel Press`
+      ? `Reading ${getPublication(issue.publication)?.short ?? issue.publication} #${issue.number} · ${issue.date}`
       : "Reader",
-    robots: { index: false },
+    robots: { index: false, follow: false },
+    alternates: issue ? { canonical: `/issue/${issue.slug}` } : undefined,
   };
 }
 

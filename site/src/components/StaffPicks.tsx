@@ -32,7 +32,7 @@ export function StaffPicks() {
             href="/catalog"
             className="inline-flex items-center gap-2 rounded-full border border-paper/15 px-5 py-2 text-sm text-paper transition hover:border-paper/40"
           >
-            View all 268
+            View the catalog
           </Link>
         </div>
       </div>

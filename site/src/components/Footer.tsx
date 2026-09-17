@@ -1,6 +1,10 @@
 import Link from "next/link";
+import { featuredPublications, siteStats } from "@/lib/catalog";
+import { magazinePath } from "@/lib/seo";
 
 export function Footer() {
+  const stats = siteStats();
+  const titles = featuredPublications(6);
   return (
     <footer className="relative overflow-hidden border-t border-paper/8">
       <div className="absolute inset-0 bg-[radial-gradient(70%_60%_at_50%_120%,rgba(245,181,63,0.12),transparent)]" />
@@ -11,11 +15,11 @@ export function Footer() {
             <p className="font-mono text-xs uppercase tracking-[0.3em] text-amber">
               Free to read, forever
             </p>
-            <h2 className="mt-4 font-display text-[clamp(2.4rem,6vw,5rem)] font-extrabold leading-[0.95] tracking-[-0.03em]">
+            <p className="mt-4 font-display text-[clamp(2.4rem,6vw,5rem)] font-extrabold leading-[0.95] tracking-[-0.03em]">
               Pick a year.
               <br />
               <span className="gradient-text">Lose an afternoon.</span>
-            </h2>
+            </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link
                 href="/catalog"
@@ -40,9 +44,11 @@ export function Footer() {
               <ul className="mt-4 space-y-2 text-sm">
                 {[
                   ["Catalog", "/catalog"],
+                  ["Nintendo Power", magazinePath("nintendo-power")],
+                  ["EGM", magazinePath("electronic-gaming-monthly")],
+                  ["GamePro", magazinePath("gamepro")],
                   ["Reader", "/#reader"],
                   ["Eras", "/#eras"],
-                  ["Staff picks", "/#picks"],
                 ].map(([l, href]) => (
                   <li key={l}>
                     <Link href={href} className="text-paper-dim transition hover:text-paper">
@@ -57,18 +63,23 @@ export function Footer() {
                 Credits
               </p>
               <p className="mt-4 text-sm leading-relaxed text-paper-dim">
-                Scans courtesy of the{" "}
-                <Link
-                  href="https://www.cgwmuseum.org/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-paper underline decoration-paper/30 underline-offset-4 hover:decoration-amber"
-                >
-                  CGW Museum
-                </Link>
-                , which preserved every issue from 1981 to 2006. Computer
-                Gaming World is a trademark of its respective owner. This is a
-                fan archive.
+                Scans and catalogs come from the Video Game History Foundation,
+                Internet Archive, CGW Museum and community scanners. Magazines
+                remain trademarks of their owners. This is a fan archive —{" "}
+                {titles.length > 0 ? (
+                  <>
+                    start with{" "}
+                    <Link
+                      href={magazinePath(titles[0].id)}
+                      className="text-paper underline decoration-paper/30 underline-offset-4 hover:decoration-amber"
+                    >
+                      {titles[0].title}
+                    </Link>
+                    .
+                  </>
+                ) : (
+                  "open a title and read in the browser."
+                )}
               </p>
             </div>
           </div>
@@ -76,7 +87,9 @@ export function Footer() {
 
         <div className="hairline mt-20" />
         <div className="mt-6 flex flex-wrap items-center justify-between gap-4 font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim/70">
-          <p>Pixel Press · 268 issues · 1981 → 2006</p>
+          <p>
+            Pixel Press · {stats.titles} magazines · {stats.issues.toLocaleString()} issues
+          </p>
           <p>Made with care, late at night, in front of a CRT.</p>
         </div>
       </div>

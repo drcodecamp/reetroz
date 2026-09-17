@@ -25,7 +25,7 @@ const features = [
   {
     eyebrow: "03 — Search",
     title: "Find the review, not the issue.",
-    body: "Every page is OCR'd. Type a game, a studio or a designer and jump straight to the page it appears on — across all 268 issues at once.",
+    body: "Every page is OCR'd. Type a game, a studio or a designer and jump straight to the page it appears on — across every magazine in the library.",
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
         <circle cx="11" cy="11" r="6.5" />

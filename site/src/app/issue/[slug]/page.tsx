@@ -7,8 +7,16 @@ import { IssueCard } from "@/components/IssueCard";
 import { Nav } from "@/components/Nav";
 import { ContinueButton } from "@/components/issue/ContinueButton";
 import { PageGrid } from "@/components/issue/PageGrid";
+import { JsonLd } from "@/components/seo/JsonLd";
 import { catalog, eraOf, getIssue, getPublication, issuesInYear, neighbors } from "@/lib/catalog";
 import { loadManifest } from "@/lib/manifest";
+import {
+  breadcrumbJsonLd,
+  issueH1,
+  issueJsonLd,
+  issueMetadata,
+  magazinePath,
+} from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -22,11 +30,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!issue) return {};
   const pub = getPublication(issue.publication);
   const title = pub?.title ?? issue.publication;
-  return {
-    title: `${title} #${issue.number} — ${issue.date} | Pixel Press`,
-    description: `Read issue ${issue.number} of ${title} (${issue.date}, ${issue.pages} pages) online.`,
-    openGraph: { images: [issue.cover] },
-  };
+  return issueMetadata(title, issue);
 }
 
 export default async function IssuePage({ params }: Props) {
@@ -43,6 +47,18 @@ export default async function IssuePage({ params }: Props) {
 
   return (
     <>
+      {pub && (
+        <>
+          <JsonLd data={issueJsonLd(pub, issue)} />
+          <JsonLd
+            data={breadcrumbJsonLd([
+              { name: "Home", path: "/" },
+              { name: pub.title, path: magazinePath(pub.id) },
+              { name: `Issue ${issue.number}`, path: `/issue/${issue.slug}` },
+            ])}
+          />
+        </>
+      )}
       <Nav />
       <main className="pb-24 pt-28">
         {/* Title block */}
@@ -73,14 +89,15 @@ export default async function IssuePage({ params }: Props) {
 
             <div className="flex flex-col justify-center">
               <p className="font-mono text-xs uppercase tracking-[0.3em] text-amber">
-                {issue.date} · Issue {issue.number} · {issue.pages} pages
-                {issue.special ? ` · ${issue.special}` : ""}
-              </p>
-              <h1 className="mt-4 font-display text-4xl font-extrabold leading-[1] tracking-[-0.03em] sm:text-6xl">
-                <Link href={`/catalog?pub=${issue.publication}`} className="hover:text-amber">
+                <Link href={magazinePath(issue.publication)} className="hover:text-paper">
                   {pubTitle}
                 </Link>
-                <span className="block text-paper-dim">#{issue.number}</span>
+                {" · "}
+                {issue.pages} pages
+                {issue.special ? ` · ${issue.special}` : ""}
+              </p>
+              <h1 className="mt-4 font-display text-4xl font-extrabold leading-[1.05] tracking-[-0.03em] sm:text-6xl">
+                {issueH1(pubTitle, issue)}
               </h1>
               {pub && (
                 <p className="mt-3 font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim">
@@ -144,6 +161,9 @@ export default async function IssuePage({ params }: Props) {
 
         {/* Prev / next */}
         <section className="mx-auto mt-20 max-w-7xl px-4 sm:px-6">
+          <h2 className="mb-5 font-display text-2xl font-bold tracking-tight">
+            Previous and next issues
+          </h2>
           <div className="grid gap-3 sm:grid-cols-2">
             {prev ? (
               <Link

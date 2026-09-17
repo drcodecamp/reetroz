@@ -857,6 +857,35 @@
   "coverIssue": null
  },
  {
+  "id": "electronic-fun-with-computers-and-games",
+  "title": "Electronic Fun with Computers & Games",
+  "short": "Electronic Fun with Computers & Games",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1982,
+  "lastYear": 1984,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/3efe8939-db36-49fb-a73b-1cca104dee71",
+    "items": 19
+   }
+  ],
+  "issues": 19,
+  "pages": 1864,
+  "readable": 19,
+  "coverIssue": null
+ },
+ {
   "id": "electronic-games",
   "title": "Electronic Games",
   "short": "EG",
@@ -920,6 +949,35 @@
   "coverIssue": null
  },
  {
+  "id": "electronic-gaming-retail-news",
+  "title": "Electronic Gaming Retail News",
+  "short": "Electronic Gaming Retail News",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1991,
+  "lastYear": 1993,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/3e35f3c1-7416-4d78-b295-009a65f13276",
+    "items": 11
+   }
+  ],
+  "issues": 11,
+  "pages": 416,
+  "readable": 11,
+  "coverIssue": null
+ },
+ {
   "id": "future-play",
   "title": "Future Play",
   "short": "Future Play",
@@ -946,6 +1004,35 @@
   "issues": 7,
   "pages": 180,
   "readable": 7,
+  "coverIssue": null
+ },
+ {
+  "id": "game-developer",
+  "title": "Game Developer",
+  "short": "Game Developer",
+  "country": "US",
+  "type": "trade",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1994,
+  "lastYear": 2013,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/4796164f-a6b6-46b6-82a8-cdcd064fb8a5",
+    "items": 226
+   }
+  ],
+  "issues": 226,
+  "pages": 15176,
+  "readable": 225,
   "coverIssue": null
  },
  {
@@ -1211,6 +1298,35 @@
   "issues": 2,
   "pages": 216,
   "readable": 2,
+  "coverIssue": null
+ },
+ {
+  "id": "gameweek-iemagazine",
+  "title": "GameWeek / IE Magazine",
+  "short": "GameWeek / IE Magazine",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1998,
+  "lastYear": 2000,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/7d3a45c8-2b53-4bb7-9583-bad2bca32e77",
+    "items": 14
+   }
+  ],
+  "issues": 14,
+  "pages": 737,
+  "readable": 14,
   "coverIssue": null
  },
  {
@@ -1757,6 +1873,35 @@
   "issues": 26,
   "pages": 2222,
   "readable": 26,
+  "coverIssue": null
+ },
+ {
+  "id": "new-earth",
+  "title": "New Earth",
+  "short": "New Earth",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1994,
+  "lastYear": 1998,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/e9a38793-aa39-41e6-923d-321a86741a18",
+    "items": 46
+   }
+  ],
+  "issues": 46,
+  "pages": 360,
+  "readable": 46,
   "coverIssue": null
  },
  {

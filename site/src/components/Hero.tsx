@@ -1,14 +1,21 @@
 import Image from "next/image";
 import Link from "next/link";
+import { siteStats, startReadingIssue } from "@/lib/catalog";
 
-const stats = [
-  { value: "268", label: "issues" },
-  { value: "25", label: "years" },
-  { value: "40k+", label: "pages" },
-  { value: "0", label: "downloads needed" },
-];
+function formatStat(n: number) {
+  if (n >= 1000) return `${Math.round(n / 1000)}k+`;
+  return String(n);
+}
 
 export function Hero() {
+  const stats = siteStats();
+  const start = startReadingIssue();
+  const heroStats = [
+    { value: stats.issues.toLocaleString(), label: "issues" },
+    { value: String(stats.titles), label: "magazines" },
+    { value: formatStat(stats.pages), label: "pages" },
+    { value: "0", label: "downloads needed" },
+  ];
   return (
     <section className="relative isolate min-h-[100svh] overflow-hidden">
       <Image
@@ -32,27 +39,25 @@ export function Hero() {
 
       <div className="relative mx-auto flex min-h-[100svh] max-w-7xl flex-col justify-end px-4 pb-20 pt-32 sm:px-6 lg:justify-center lg:pb-32">
         <p className="animate-fade-up font-mono text-xs uppercase tracking-[0.3em] text-amber">
-          The complete Computer Gaming World archive
+          {stats.titles} magazines · {stats.issues.toLocaleString()} issues · 0 downloads
         </p>
 
         <h1
           className="animate-fade-up mt-5 max-w-4xl font-display text-[clamp(2.6rem,7.5vw,6.2rem)] font-extrabold leading-[0.95] tracking-[-0.03em]"
           style={{ animationDelay: "80ms" }}
         >
-          Every issue.
+          Vintage game magazines,
           <br />
-          Every era.
-          <br />
-          <span className="gradient-text">Read like it&apos;s 1992.</span>
+          readable in the browser.
         </h1>
 
         <p
           className="animate-fade-up mt-7 max-w-xl text-lg leading-relaxed text-paper-dim"
           style={{ animationDelay: "160ms" }}
         >
-          Twenty-five years of PC gaming journalism, scanned page by page, and
-          rebuilt for the browser. Flip through covers like a streaming
-          library, open any issue instantly, and never download a PDF again.
+          Nintendo Power, EGM, GamePro and a hundred other out-of-print titles,
+          scanned page by page. Flip through covers like a streaming library,
+          open any issue instantly, and never download a PDF again.
         </p>
 
         <div
@@ -79,7 +84,7 @@ export function Hero() {
             </svg>
           </Link>
           <Link
-            href="/issue/cgw-1-1"
+            href={start ? `/issue/${start.slug}` : "/catalog"}
             className="inline-flex items-center gap-2 rounded-full border border-paper/20 bg-ink/40 px-6 py-3 font-medium text-paper backdrop-blur transition hover:border-paper/50"
           >
             <span className="grid size-5 place-items-center rounded-full bg-paper/10">
@@ -93,7 +98,9 @@ export function Hero() {
                 <path d="M7 4v16l13-8z" />
               </svg>
             </span>
-            Open issue #1 — Nov 1981
+            {start
+              ? `Open ${start.publication === "nintendo-power" ? "Nintendo Power" : "issue"} #${start.number}`
+              : "Browse the catalog"}
           </Link>
         </div>
 
@@ -101,7 +108,7 @@ export function Hero() {
           className="animate-fade-up mt-16 grid max-w-2xl grid-cols-2 gap-x-8 gap-y-6 border-t border-paper/10 pt-8 sm:grid-cols-4"
           style={{ animationDelay: "320ms" }}
         >
-          {stats.map((s) => (
+          {heroStats.map((s) => (
             <div key={s.label}>
               <dt className="font-mono text-[11px] uppercase tracking-[0.22em] text-paper-dim">
                 {s.label}

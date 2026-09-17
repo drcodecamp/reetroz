@@ -1,8 +1,10 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { IssueCard } from "@/components/IssueCard";
+import { magazinePath } from "@/lib/seo";
 import {
   ERAS,
   MAX_YEAR,
@@ -281,13 +283,13 @@ export function CatalogBrowser({
             .map(({ p, count }) => {
               const on = pubs.includes(p.id);
               return (
-                <li key={p.id}>
+                <li key={p.id} className="flex items-center gap-1">
                   <button
                     type="button"
                     onClick={() => toggleIn("pub", pubs, p.id)}
                     aria-pressed={on}
                     title={`${p.title}${p.firstYear ? ` · ${p.firstYear}–${p.lastYear ?? ""}` : ""}${p.issues === 0 ? " · not ingested yet" : ""}`}
-                    className={`flex w-full items-center justify-between gap-2 rounded-md px-2 py-1 text-left text-[13px] transition ${
+                    className={`flex min-w-0 flex-1 items-center justify-between gap-2 rounded-md px-2 py-1 text-left text-[13px] transition ${
                       on
                         ? "bg-amber/10 text-paper"
                         : count > 0
@@ -304,6 +306,15 @@ export function CatalogBrowser({
                       {count}
                     </span>
                   </button>
+                  {p.issues > 0 && (
+                    <Link
+                      href={magazinePath(p.id)}
+                      aria-label={`${p.title} archive page`}
+                      className="shrink-0 rounded-md px-1.5 py-1 text-[11px] text-paper-dim hover:text-amber"
+                    >
+                      page
+                    </Link>
+                  )}
                 </li>
               );
             })}
@@ -434,6 +445,18 @@ export function CatalogBrowser({
         </aside>
 
         <div className="min-w-0">
+          {pubs.length === 1 && pubById.get(pubs[0]) && (
+            <p className="mb-4 rounded-xl border border-amber/20 bg-amber/5 px-4 py-3 text-sm text-paper-dim">
+              Looking for the full run? Open the{" "}
+              <Link
+                href={magazinePath(pubs[0])}
+                className="font-medium text-amber hover:text-amber-2"
+              >
+                {pubById.get(pubs[0])!.title} archive
+              </Link>
+              .
+            </p>
+          )}
           <div className="sticky top-[76px] z-30 -mx-4 mb-6 flex flex-wrap items-center justify-between gap-3 bg-ink/80 px-4 py-3 backdrop-blur sm:-mx-6 sm:px-6 lg:static lg:mx-0 lg:bg-transparent lg:px-0 lg:py-0 lg:backdrop-blur-none">
             <p className="text-sm text-paper-dim">
               <span className="font-display text-lg font-semibold text-paper">
@@ -495,9 +518,9 @@ export function CatalogBrowser({
               {byYear.map(([year, list]) => (
                 <section key={year} id={`y${year}`}>
                   <div className="mb-4 flex items-baseline gap-4">
-                    <h2 className="font-display text-3xl font-bold tracking-tight">
+                    <h3 className="font-display text-3xl font-bold tracking-tight">
                       {isUndated(year) ? "Undated" : year}
-                    </h2>
+                    </h3>
                     <span className="hairline flex-1" />
                     <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim">
                       {list.length} issue{list.length === 1 ? "" : "s"}

@@ -3,18 +3,13 @@ import type { Metadata } from "next";
 import { CatalogBrowser } from "@/components/catalog/CatalogBrowser";
 import { Footer } from "@/components/Footer";
 import { Nav } from "@/components/Nav";
-import { catalog, publications } from "@/lib/catalog";
+import { catalog, publications, siteStats } from "@/lib/catalog";
+import { catalogMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Catalog | Pixel Press",
-  description:
-    "Browse classic video game and computer magazines by title, year, era and length.",
-};
+export const metadata: Metadata = catalogMetadata();
 
 export default function CatalogPage() {
-  const readable = catalog.filter((i) => i.readable).length;
-  const withIssues = publications.filter((p) => p.issues > 0).length;
-  const pages = catalog.reduce((sum, i) => sum + i.pages, 0);
+  const stats = siteStats();
   return (
     <>
       <Nav />
@@ -24,15 +19,19 @@ export default function CatalogPage() {
             The library
           </p>
           <h1 className="mt-3 font-display text-5xl font-extrabold tracking-[-0.03em] sm:text-6xl">
-            {catalog.length.toLocaleString()} issues.{" "}
-            <span className="text-paper-dim">{publications.length} magazines.</span>
+            Video game magazine archive
           </h1>
+          <h2 className="mt-4 font-display text-2xl font-semibold tracking-tight text-paper-dim sm:text-3xl">
+            {stats.issues.toLocaleString()} issues from {stats.titles} magazines
+          </h2>
           <p className="mt-4 max-w-2xl text-paper-dim">
-            {pages.toLocaleString()} pages from {withIssues} of the{" "}
-            {publications.length} titles we are tracking
-            {readable === catalog.length
+            {stats.pages.toLocaleString()} pages from {stats.titlesWithIssues} of
+            the {stats.titles} titles we are tracking
+            {stats.readable === stats.issues
               ? ", every one of them readable online."
-              : `; ${readable} ${readable === 1 ? "issue is" : "issues are"} readable online so far.`}
+              : `; ${stats.readable.toLocaleString()} issues are readable online so far.`}{" "}
+            Filter by magazine, year or era — or open a title page for a
+            complete run.
           </p>
         </header>
         <Suspense fallback={<div className="px-6 text-paper-dim">Loading catalog…</div>}>
