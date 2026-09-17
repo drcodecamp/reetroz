@@ -5,8 +5,8 @@ Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:300
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 82 | 4,718 | 519,630 |
-| PDFs on disk, not encoded yet | 5 | 316 | 18,553 |
+| Done (readable on R2) | 87 | 5,034 | 538,183 |
+| PDFs on disk, not encoded yet | 0 | 0 | 0 |
 | VGHF indexed, PDFs not downloaded | 2 | 1,031 | — |
 | No local scans | 27 | — | — |
 
@@ -96,6 +96,11 @@ Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:300
 - [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
 - [x] GMR (`gmr`) — 25 issues / 2,880 pages
 - [x] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages
+- [x] Electronic Gaming Retail News (`electronic-gaming-retail-news`) — 11 issues / 416 pages
+- [x] GameWeek / IE Magazine (`gameweek-iemagazine`) — 14 issues / 737 pages
+- [x] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages
+- [x] New Earth (`new-earth`) — 46 issues / 360 pages
+- [x] Game Developer (`game-developer`) — 226 issues / 15,176 pages
 
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
 
@@ -105,7 +110,7 @@ Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplica
 
 ## Left — PDFs on disk (fewest issues first)
 
-All local PDFs are on R2. Last four done, including Play US 86 and 94 after a second retry. Remaining work is UK/IA stubs (no PDFs) and folders without `publication.json`.
+All local PDFs are on R2. Remaining work is UK/IA stubs (no PDFs) and the two huge VGHF trade titles not downloaded.
 
 - [x] PS Max (`ps-max`) — 1 issue / 100 pages
 - [x] NGamer (US) (`ngamer-us`) — 1 issue / 116 pages
@@ -129,6 +134,11 @@ All local PDFs are on R2. Last four done, including Play US 86 and 94 after a se
 - [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
 - [x] GMR (`gmr`) — 25 issues / 2,880 pages
 - [x] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages
+- [x] Electronic Gaming Retail News (`electronic-gaming-retail-news`) — 11 issues / 416 pages
+- [x] GameWeek / IE Magazine (`gameweek-iemagazine`) — 14 issues / 737 pages
+- [x] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages
+- [x] New Earth (`new-earth`) — 46 issues / 360 pages
+- [x] Game Developer (`game-developer`) — 226 issues / 15,176 pages
 - [x] Blip (`blip`) — 7 issues / 248 pages
 - [x] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages
 - [x] Activisions (`activisions`) — 10 issues / 53 pages
@@ -181,7 +191,7 @@ All local PDFs are on R2. Last four done, including Play US 86 and 94 after a se
 
 ## Left
 
-Encoding the last five titles that already have PDFs (live VGHF indexes match local files).
+Every title with local PDFs is on R2. Live VGHF indexes matched. Left: two huge trade downloads, then UK/IA stubs.
 
 ### 1. PDFs already downloaded — need `publication.json`, then encode
 
@@ -194,13 +204,13 @@ These were scraped from VGHF and downloaded. They never got a `publication.json`
 - [x] Future Play (`future-play`) — 7 issues / 180 pages
 - [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
 - [x] Girl Gamer (`girl-gamer`) — 8 issues / 208 pages
-- [ ] Electronic Gaming Retail News (`electronic-gaming-retail-news`) — 11 issues / 416 pages — **encoding**
-- [ ] GameWeek / IE Magazine (`gameweek-iemagazine`) — 14 issues / 737 pages — **encoding**
-- [ ] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages — **encoding**
+- [x] Electronic Gaming Retail News (`electronic-gaming-retail-news`) — 11 issues / 416 pages
+- [x] GameWeek / IE Magazine (`gameweek-iemagazine`) — 14 issues / 737 pages
+- [x] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages
 - [x] GMR (`gmr`) — 25 issues / 2,880 pages
 - [x] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages
-- [ ] New Earth (`new-earth`) — 46 issues / 360 pages — **encoding**
-- [ ] Game Developer (`game-developer`) — 226 issues / 15,176 pages — **encoding**
+- [x] New Earth (`new-earth`) — 46 issues / 360 pages
+- [x] Game Developer (`game-developer`) — 226 issues / 15,176 pages
 
 ### 2. On VGHF, not downloaded yet (big)
 

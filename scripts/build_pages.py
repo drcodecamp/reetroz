@@ -57,13 +57,21 @@ def encoder_id() -> str:
     return f"webp-checked-v1-s{int(round(READ_SCALE * 100))}-q{WEBP_READ}"
 
 
+WEBP_MAX_DIM = 16383
+THUMB_MAX_HEIGHT = THUMB_WIDTH * 2
+
+
+def _even_size(w: int, h: int) -> tuple[int, int]:
+    return max(2, int(w)) & ~1, max(2, int(h)) & ~1
+
+
 def shrink_read(img: Image.Image) -> Image.Image:
     """Downscale read-tier pages. Even sides keep WebP 4:2:0 chroma aligned."""
-    if READ_SCALE >= 0.999:
-        return img
     w, h = img.size
-    nw = max(2, int(round(w * READ_SCALE))) & ~1
-    nh = max(2, int(round(h * READ_SCALE))) & ~1
+    scale = READ_SCALE if READ_SCALE < 0.999 else 1.0
+    if max(w, h) * scale > WEBP_MAX_DIM:
+        scale = WEBP_MAX_DIM / max(w, h)
+    nw, nh = _even_size(round(w * scale), round(h * scale))
     if (nw, nh) == (w, h):
         return img
     return img.resize((nw, nh), Image.Resampling.LANCZOS)
@@ -221,7 +229,10 @@ def render_issue(issue: dict, force: bool = False) -> dict:
                 save_webp_checked(img, read_path, WEBP_READ)
             else:
                 read_path.write_bytes(data)
-            thumb = img.resize((THUMB_WIDTH, round(THUMB_WIDTH * h / w)), Image.Resampling.LANCZOS)
+            tw, th = THUMB_WIDTH, max(1, round(THUMB_WIDTH * h / w))
+            if th > THUMB_MAX_HEIGHT:
+                tw, th = _even_size(round(w * THUMB_MAX_HEIGHT / h), THUMB_MAX_HEIGHT)
+            thumb = img.resize((tw, th), Image.Resampling.LANCZOS)
             save_webp_checked(thumb, thumb_path, THUMB_QUALITY, compare=False)
             color = average_color(thumb)
         pages_meta.append({"n": index, "w": w, "h": h, "color": color})

@@ -66705,7 +66705,7 @@
   "pages": 70,
   "cover": "/covers/game-developer-5-19.jpg",
   "era": "modern",
-  "readable": false,
+  "readable": true,
   "hasText": true,
   "special": null
  },
