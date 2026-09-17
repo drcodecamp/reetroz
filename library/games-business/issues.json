@@ -1,1 +1,1986 @@
-[]
+[
+ {
+  "id": "games-business-1998-preview-issue",
+  "publication": "games-business",
+  "sequence": 1,
+  "number": "special",
+  "date": {
+   "display": "est. 1998",
+   "start": "1998",
+   "precision": "year"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cf8af7bf-a275-4fdf-b603-7251b264fc46",
+   "external_id": "cf8af7bf-a275-4fdf-b603-7251b264fc46",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business, Preview Issue (est. 1998).pdf",
+   "bytes": 110656622,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 339.8
+  }
+ },
+ {
+  "id": "games-business-19981205-games-business",
+  "publication": "games-business",
+  "sequence": 2,
+  "number": "special",
+  "date": {
+   "display": "December 5, 1998",
+   "start": "1998-12-05",
+   "precision": "day"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/19742d15-170d-408c-9d18-fecfe369f0b4",
+   "external_id": "19742d15-170d-408c-9d18-fecfe369f0b4",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (December 5, 1998).pdf",
+   "bytes": 115209611,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-19990101-games-business",
+  "publication": "games-business",
+  "sequence": 3,
+  "number": "special",
+  "date": {
+   "display": "January 1, 1999",
+   "start": "1999-01-01",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4d230a34-6986-4ecd-a536-587abf724d44",
+   "external_id": "4d230a34-6986-4ecd-a536-587abf724d44",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (January 1, 1999).pdf",
+   "bytes": 121459190,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-19990115-games-business",
+  "publication": "games-business",
+  "sequence": 4,
+  "number": "special",
+  "date": {
+   "display": "January 15, 1999",
+   "start": "1999-01-15",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/434763a9-c457-4028-9676-2af4474da96d",
+   "external_id": "434763a9-c457-4028-9676-2af4474da96d",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (January 15, 1999).pdf",
+   "bytes": 117678754,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-19990201-games-business",
+  "publication": "games-business",
+  "sequence": 5,
+  "number": "special",
+  "date": {
+   "display": "February 1, 1999",
+   "start": "1999-02-01",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/2e7342df-13de-4c43-9db7-161143e04d13",
+   "external_id": "2e7342df-13de-4c43-9db7-161143e04d13",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (February 1, 1999).pdf",
+   "bytes": 122712762,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-19990215-games-business",
+  "publication": "games-business",
+  "sequence": 6,
+  "number": "special",
+  "date": {
+   "display": "February 15, 1999",
+   "start": "1999-02-15",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7a40cd30-5cb4-4c1d-859d-2d862c2651ce",
+   "external_id": "7a40cd30-5cb4-4c1d-859d-2d862c2651ce",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (February 15, 1999).pdf",
+   "bytes": 116186225,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-19990301-games-business",
+  "publication": "games-business",
+  "sequence": 7,
+  "number": "special",
+  "date": {
+   "display": "March 1, 1999",
+   "start": "1999-03-01",
+   "precision": "day"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/81a033f0-c792-4ce4-ba1a-ba9fd5c5da2a",
+   "external_id": "81a033f0-c792-4ce4-ba1a-ba9fd5c5da2a",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (March 1, 1999).pdf",
+   "bytes": 117498522,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990315-games-business",
+  "publication": "games-business",
+  "sequence": 8,
+  "number": "special",
+  "date": {
+   "display": "March 15, 1999",
+   "start": "1999-03-15",
+   "precision": "day"
+  },
+  "pages": 71,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe8cc7de-7221-4542-9521-979334919f46",
+   "external_id": "fe8cc7de-7221-4542-9521-979334919f46",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (March 15, 1999).pdf",
+   "bytes": 117990548,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 267.8,
+   "height_mm": 342.5
+  }
+ },
+ {
+  "id": "games-business-19990401-games-business",
+  "publication": "games-business",
+  "sequence": 9,
+  "number": "special",
+  "date": {
+   "display": "April 1, 1999",
+   "start": "1999-04-01",
+   "precision": "day"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a3ac4ccd-db04-4286-a047-e79eab404195",
+   "external_id": "a3ac4ccd-db04-4286-a047-e79eab404195",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (April 1, 1999).pdf",
+   "bytes": 115637660,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990415-games-business",
+  "publication": "games-business",
+  "sequence": 10,
+  "number": "special",
+  "date": {
+   "display": "April 15, 1999",
+   "start": "1999-04-15",
+   "precision": "day"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7072a116-9f2c-43e8-ae72-d18769f3869d",
+   "external_id": "7072a116-9f2c-43e8-ae72-d18769f3869d",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (April 15, 1999).pdf",
+   "bytes": 115915784,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990501-games-business",
+  "publication": "games-business",
+  "sequence": 11,
+  "number": "special",
+  "date": {
+   "display": "May 1, 1999",
+   "start": "1999-05-01",
+   "precision": "day"
+  },
+  "pages": 84,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d49d8add-e835-4c38-9582-f7caff5a6bc6",
+   "external_id": "d49d8add-e835-4c38-9582-f7caff5a6bc6",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (May 1, 1999).pdf",
+   "bytes": 147431348,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990501-psygnosis-pc-games-promotional-supplement",
+  "publication": "games-business",
+  "sequence": 12,
+  "number": "special",
+  "date": {
+   "display": "May 1, 1999",
+   "start": "1999-05-01",
+   "precision": "day"
+  },
+  "pages": 24,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fe8f8253-90aa-4828-9355-5f6a30f08e40",
+   "external_id": "fe8f8253-90aa-4828-9355-5f6a30f08e40",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Psygnosis PC Games promotional supplement (May 1, 1999).pdf",
+   "bytes": 14892661,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 155.6,
+   "height_mm": 221.1
+  }
+ },
+ {
+  "id": "games-business-19990515-games-business",
+  "publication": "games-business",
+  "sequence": 13,
+  "number": "special",
+  "date": {
+   "display": "May 15, 1999",
+   "start": "1999-05-15",
+   "precision": "day"
+  },
+  "pages": 72,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/61da441a-5169-44d6-8bce-a2c4af35423b",
+   "external_id": "61da441a-5169-44d6-8bce-a2c4af35423b",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (May 15, 1999).pdf",
+   "bytes": 122350739,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 281.0,
+   "height_mm": 390.6
+  }
+ },
+ {
+  "id": "games-business-19990515-imagine-media-word-poetry-magnets",
+  "publication": "games-business",
+  "sequence": 14,
+  "number": "special",
+  "date": {
+   "display": "May 15, 1999",
+   "start": "1999-05-15",
+   "precision": "day"
+  },
+  "pages": 1,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3ee09ab4-af0d-4d73-89b7-38a93bf1664b",
+   "external_id": "3ee09ab4-af0d-4d73-89b7-38a93bf1664b",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Imagine Media word poetry magnets (May 15, 1999).pdf",
+   "bytes": 338336,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 89.7,
+   "height_mm": 210.8
+  }
+ },
+ {
+  "id": "games-business-19990515-microsoft-windows-partners-e3-promotional-card-a",
+  "publication": "games-business",
+  "sequence": 15,
+  "number": "special",
+  "date": {
+   "display": "May 15, 1999",
+   "start": "1999-05-15",
+   "precision": "day"
+  },
+  "pages": 1,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8df4846e-6a2f-4add-8ff3-85bcdb9d01dc",
+   "external_id": "8df4846e-6a2f-4add-8ff3-85bcdb9d01dc",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Microsoft Windows Partners @ E3 promotional card and pin (May 15, 1999).pdf",
+   "bytes": 633199,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 216.7,
+   "height_mm": 139.0
+  }
+ },
+ {
+  "id": "games-business-19990601-games-business",
+  "publication": "games-business",
+  "sequence": 16,
+  "number": "special",
+  "date": {
+   "display": "June 1, 1999",
+   "start": "1999-06-01",
+   "precision": "day"
+  },
+  "pages": 112,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1abdadb9-1374-44eb-be7a-366c11f59317",
+   "external_id": "1abdadb9-1374-44eb-be7a-366c11f59317",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (June 1, 1999).pdf",
+   "bytes": 206757879,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990601-gamesbusiness-promotional-insert",
+  "publication": "games-business",
+  "sequence": 17,
+  "number": "special",
+  "date": {
+   "display": "June 1, 1999",
+   "start": "1999-06-01",
+   "precision": "day"
+  },
+  "pages": 1,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a81a2a42-6fad-4bbd-9a79-7a2ab1276efe",
+   "external_id": "a81a2a42-6fad-4bbd-9a79-7a2ab1276efe",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/GamesBusiness promotional insert (June 1, 1999).pdf",
+   "bytes": 3601071,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 216.6,
+   "height_mm": 280.4
+  }
+ },
+ {
+  "id": "games-business-19990615-games-business",
+  "publication": "games-business",
+  "sequence": 18,
+  "number": "special",
+  "date": {
+   "display": "June 15, 1999",
+   "start": "1999-06-15",
+   "precision": "day"
+  },
+  "pages": 52,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/4bf590e7-f995-4be1-8808-ea4ccd6d6fda",
+   "external_id": "4bf590e7-f995-4be1-8808-ea4ccd6d6fda",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (June 15, 1999).pdf",
+   "bytes": 88787075,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990615-gamesbusiness-promotional-insert",
+  "publication": "games-business",
+  "sequence": 19,
+  "number": "special",
+  "date": {
+   "display": "June 15, 1999",
+   "start": "1999-06-15",
+   "precision": "day"
+  },
+  "pages": 1,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ef9b95cc-e96b-40c9-9272-0da0e2a90d69",
+   "external_id": "ef9b95cc-e96b-40c9-9272-0da0e2a90d69",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/GamesBusiness promotional insert (June 15, 1999).pdf",
+   "bytes": 3698947,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 280.1
+  }
+ },
+ {
+  "id": "games-business-19990615-rockstar-games-poster",
+  "publication": "games-business",
+  "sequence": 20,
+  "number": "special",
+  "date": {
+   "display": "June 15, 1999",
+   "start": "1999-06-15",
+   "precision": "day"
+  },
+  "pages": 2,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/11a14f2d-2d7e-4d63-a74b-e711bef4f199",
+   "external_id": "11a14f2d-2d7e-4d63-a74b-e711bef4f199",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Rockstar Games poster (June 15, 1999).pdf",
+   "bytes": 13413571,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 342.4,
+   "height_mm": 529.6
+  }
+ },
+ {
+  "id": "games-business-19990701-games-business",
+  "publication": "games-business",
+  "sequence": 21,
+  "number": "special",
+  "date": {
+   "display": "July 1, 1999",
+   "start": "1999-07-01",
+   "precision": "day"
+  },
+  "pages": 52,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3c6d8e2c-cfa3-4d2e-9b87-c9bc43bdb24f",
+   "external_id": "3c6d8e2c-cfa3-4d2e-9b87-c9bc43bdb24f",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (July 1, 1999).pdf",
+   "bytes": 87793631,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990701-gamesbusiness-promotional-insert",
+  "publication": "games-business",
+  "sequence": 22,
+  "number": "special",
+  "date": {
+   "display": "July 1, 1999",
+   "start": "1999-07-01",
+   "precision": "day"
+  },
+  "pages": 1,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f36ed5c0-de2b-4b53-9189-06467c66bf49",
+   "external_id": "f36ed5c0-de2b-4b53-9189-06467c66bf49",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/GamesBusiness promotional insert (July 1, 1999).pdf",
+   "bytes": 679391,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 216.6,
+   "height_mm": 280.0
+  }
+ },
+ {
+  "id": "games-business-19990715-games-business",
+  "publication": "games-business",
+  "sequence": 23,
+  "number": "special",
+  "date": {
+   "display": "July 15, 1999",
+   "start": "1999-07-15",
+   "precision": "day"
+  },
+  "pages": 52,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d8cde6cd-be3f-4f98-b3a1-47204a6bff8b",
+   "external_id": "d8cde6cd-be3f-4f98-b3a1-47204a6bff8b",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (July 15, 1999).pdf",
+   "bytes": 92205003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990801-games-business",
+  "publication": "games-business",
+  "sequence": 24,
+  "number": "special",
+  "date": {
+   "display": "August 1, 1999",
+   "start": "1999-08-01",
+   "precision": "day"
+  },
+  "pages": 52,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/802b986d-3c7f-41e9-9462-937bc54218dd",
+   "external_id": "802b986d-3c7f-41e9-9462-937bc54218dd",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (August 1, 1999).pdf",
+   "bytes": 85195524,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990815-games-business",
+  "publication": "games-business",
+  "sequence": 25,
+  "number": "special",
+  "date": {
+   "display": "August 15, 1999",
+   "start": "1999-08-15",
+   "precision": "day"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/6c735e57-159b-4ad2-a982-a2613c29d601",
+   "external_id": "6c735e57-159b-4ad2-a982-a2613c29d601",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (August 15, 1999).pdf",
+   "bytes": 120373673,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990901-games-business",
+  "publication": "games-business",
+  "sequence": 26,
+  "number": "special",
+  "date": {
+   "display": "September 1, 1999",
+   "start": "1999-09-01",
+   "precision": "day"
+  },
+  "pages": 66,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ab00b355-0cf2-4dff-a4c0-0a521ab1769f",
+   "external_id": "ab00b355-0cf2-4dff-a4c0-0a521ab1769f",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (September 1, 1999).pdf",
+   "bytes": 119014692,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990915-games-business",
+  "publication": "games-business",
+  "sequence": 27,
+  "number": "special",
+  "date": {
+   "display": "September 15, 1999",
+   "start": "1999-09-15",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/99272d11-de6f-4cc2-bef9-dd0af2ccdb71",
+   "external_id": "99272d11-de6f-4cc2-bef9-dd0af2ccdb71",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (September 15, 1999).pdf",
+   "bytes": 120960230,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19990915-nhl-championship-2000-flat-box",
+  "publication": "games-business",
+  "sequence": 28,
+  "number": "special",
+  "date": {
+   "display": "September 15, 1999",
+   "start": "1999-09-15",
+   "precision": "day"
+  },
+  "pages": 2,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/7d945cfa-b7f3-4c63-89bd-e30000d34742",
+   "external_id": "7d945cfa-b7f3-4c63-89bd-e30000d34742",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/NHL Championship 2000 flat box (September 15, 1999).pdf",
+   "bytes": 1497028,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 231.5,
+   "height_mm": 145.5
+  }
+ },
+ {
+  "id": "games-business-19991001-games-business",
+  "publication": "games-business",
+  "sequence": 29,
+  "number": "special",
+  "date": {
+   "display": "October 1, 1999",
+   "start": "1999-10-01",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/662590e8-ae5f-4dbe-b58b-864d60470b25",
+   "external_id": "662590e8-ae5f-4dbe-b58b-864d60470b25",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (October 1, 1999).pdf",
+   "bytes": 119210953,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19991015-games-business",
+  "publication": "games-business",
+  "sequence": 30,
+  "number": "special",
+  "date": {
+   "display": "October 15, 1999",
+   "start": "1999-10-15",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/94f5be74-a0dc-4f70-9f99-9f0468f00c0d",
+   "external_id": "94f5be74-a0dc-4f70-9f99-9f0468f00c0d",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (October 15, 1999).pdf",
+   "bytes": 126603699,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19991101-games-business",
+  "publication": "games-business",
+  "sequence": 31,
+  "number": "special",
+  "date": {
+   "display": "November 1, 1999",
+   "start": "1999-11-01",
+   "precision": "day"
+  },
+  "pages": 54,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7b55904-4f64-483a-a869-863de43b30c7",
+   "external_id": "c7b55904-4f64-483a-a869-863de43b30c7",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (November 1, 1999).pdf",
+   "bytes": 95495442,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19991115-games-business",
+  "publication": "games-business",
+  "sequence": 32,
+  "number": "special",
+  "date": {
+   "display": "November 15, 1999",
+   "start": "1999-11-15",
+   "precision": "day"
+  },
+  "pages": 70,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/26688c53-09b8-41b2-b3d6-5b1157a12ed6",
+   "external_id": "26688c53-09b8-41b2-b3d6-5b1157a12ed6",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (November 15, 1999).pdf",
+   "bytes": 120696090,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19991201-games-business",
+  "publication": "games-business",
+  "sequence": 33,
+  "number": "special",
+  "date": {
+   "display": "December 1, 1999",
+   "start": "1999-12-01",
+   "precision": "day"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/3db894a3-3109-406b-989a-cc691db42d0f",
+   "external_id": "3db894a3-3109-406b-989a-cc691db42d0f",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (December 1, 1999).pdf",
+   "bytes": 112852869,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-19991215-games-business",
+  "publication": "games-business",
+  "sequence": 34,
+  "number": "special",
+  "date": {
+   "display": "December 15, 1999",
+   "start": "1999-12-15",
+   "precision": "day"
+  },
+  "pages": 68,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b800d869-be4a-4095-966e-1d4c691b015c",
+   "external_id": "b800d869-be4a-4095-966e-1d4c691b015c",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (December 15, 1999).pdf",
+   "bytes": 118973511,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-20000101-games-business",
+  "publication": "games-business",
+  "sequence": 35,
+  "number": "special",
+  "date": {
+   "display": "January 1, 2000",
+   "start": "2000-01-01",
+   "precision": "day"
+  },
+  "pages": 40,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d905700b-5b59-4052-89ef-ce5dbf28bea5",
+   "external_id": "d905700b-5b59-4052-89ef-ce5dbf28bea5",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (January 1, 2000).pdf",
+   "bytes": 69881689,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-20000115-games-business",
+  "publication": "games-business",
+  "sequence": 36,
+  "number": "special",
+  "date": {
+   "display": "January 15, 2000",
+   "start": "2000-01-15",
+   "precision": "day"
+  },
+  "pages": 46,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7fc9407-19bd-4b81-8f20-844dfa05e4bc",
+   "external_id": "e7fc9407-19bd-4b81-8f20-844dfa05e4bc",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (January 15, 2000).pdf",
+   "bytes": 78334653,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-20000201-games-business",
+  "publication": "games-business",
+  "sequence": 37,
+  "number": "special",
+  "date": {
+   "display": "February 1, 2000",
+   "start": "2000-02-01",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/fc7a95d0-eaed-40aa-8329-621eda365af7",
+   "external_id": "fc7a95d0-eaed-40aa-8329-621eda365af7",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (February 1, 2000).pdf",
+   "bytes": 75304979,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000215-toy-fair-special-edition",
+  "publication": "games-business",
+  "sequence": 38,
+  "number": "special",
+  "date": {
+   "display": "February 15, 2000",
+   "start": "2000-02-15",
+   "precision": "day"
+  },
+  "pages": 46,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d1a40d98-e379-4eeb-bc15-1251c2dfbf82",
+   "external_id": "d1a40d98-e379-4eeb-bc15-1251c2dfbf82",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business, Toy Fair Special Edition (February 15, 2000).pdf",
+   "bytes": 86303870,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 344.6
+  }
+ },
+ {
+  "id": "games-business-20000301-games-business",
+  "publication": "games-business",
+  "sequence": 39,
+  "number": "special",
+  "date": {
+   "display": "March 1, 2000",
+   "start": "2000-03-01",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/ec5119dd-8dcb-47ae-847b-4a6ff989aa48",
+   "external_id": "ec5119dd-8dcb-47ae-847b-4a6ff989aa48",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (March 1, 2000).pdf",
+   "bytes": 75659473,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000315-games-business",
+  "publication": "games-business",
+  "sequence": 40,
+  "number": "special",
+  "date": {
+   "display": "March 15, 2000",
+   "start": "2000-03-15",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/9b59c1c0-08e6-4432-bb00-1206bb0281b1",
+   "external_id": "9b59c1c0-08e6-4432-bb00-1206bb0281b1",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (March 15, 2000).pdf",
+   "bytes": 75211481,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000401-games-business",
+  "publication": "games-business",
+  "sequence": 41,
+  "number": "special",
+  "date": {
+   "display": "April 1, 2000",
+   "start": "2000-04-01",
+   "precision": "day"
+  },
+  "pages": 80,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/05226f59-ada7-40be-b3b0-3eb971ffc964",
+   "external_id": "05226f59-ada7-40be-b3b0-3eb971ffc964",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (April 1, 2000).pdf",
+   "bytes": 129276238,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000415-games-business",
+  "publication": "games-business",
+  "sequence": 42,
+  "number": "special",
+  "date": {
+   "display": "April 15, 2000",
+   "start": "2000-04-15",
+   "precision": "day"
+  },
+  "pages": 60,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e5011a24-6c6f-49f5-a2cb-a271e293a55e",
+   "external_id": "e5011a24-6c6f-49f5-a2cb-a271e293a55e",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (April 15, 2000).pdf",
+   "bytes": 102737458,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000415-tachyon-the-fringe-flat-box",
+  "publication": "games-business",
+  "sequence": 43,
+  "number": "special",
+  "date": {
+   "display": "April 15, 2000",
+   "start": "2000-04-15",
+   "precision": "day"
+  },
+  "pages": 2,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/cce16541-34e7-4abf-8196-39ab4632de25",
+   "external_id": "cce16541-34e7-4abf-8196-39ab4632de25",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Tachyon- The Fringe flat box (April 15, 2000).pdf",
+   "bytes": 4008992,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 255.4,
+   "height_mm": 385.3
+  }
+ },
+ {
+  "id": "games-business-20000501-games-business",
+  "publication": "games-business",
+  "sequence": 44,
+  "number": "special",
+  "date": {
+   "display": "May 1, 2000",
+   "start": "2000-05-01",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/263d965e-12d0-4f26-819d-b1f73fb8c469",
+   "external_id": "263d965e-12d0-4f26-819d-b1f73fb8c469",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (May 1, 2000).pdf",
+   "bytes": 78781765,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000501-sega-dreamcast-advisor",
+  "publication": "games-business",
+  "sequence": 45,
+  "number": "special",
+  "date": {
+   "display": "May 1, 2000",
+   "start": "2000-05-01",
+   "precision": "day"
+  },
+  "pages": 4,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/1200356a-d80b-4ff6-924d-979722535cf9",
+   "external_id": "1200356a-d80b-4ff6-924d-979722535cf9",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Sega Dreamcast Advisor (May 1, 2000).pdf",
+   "bytes": 3957884,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 282.8
+  }
+ },
+ {
+  "id": "games-business-20000515-games-business",
+  "publication": "games-business",
+  "sequence": 46,
+  "number": "special",
+  "date": {
+   "display": "May 15, 2000",
+   "start": "2000-05-15",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/e7718698-2af5-4274-8503-eb22bb67c097",
+   "external_id": "e7718698-2af5-4274-8503-eb22bb67c097",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (May 15, 2000).pdf",
+   "bytes": 72778288,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000515-gekido-flat-box",
+  "publication": "games-business",
+  "sequence": 47,
+  "number": "special",
+  "date": {
+   "display": "May 15, 2000",
+   "start": "2000-05-15",
+   "precision": "day"
+  },
+  "pages": 2,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/8832b173-1671-4406-8ee1-cb66cad614b1",
+   "external_id": "8832b173-1671-4406-8ee1-cb66cad614b1",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Gekido flat box (May 15, 2000).pdf",
+   "bytes": 1111274,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 209.6,
+   "height_mm": 144.6
+  }
+ },
+ {
+  "id": "games-business-200006-e3-edition",
+  "publication": "games-business",
+  "sequence": 48,
+  "number": "special",
+  "date": {
+   "display": "June 2000",
+   "start": "2000-06",
+   "precision": "month"
+  },
+  "pages": 24,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d179f072-976d-4ebf-960c-8c26500351d9",
+   "external_id": "d179f072-976d-4ebf-960c-8c26500351d9",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business, E3 Edition (June 2000).pdf",
+   "bytes": 42832320,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20000601-games-business",
+  "publication": "games-business",
+  "sequence": 49,
+  "number": "special",
+  "date": {
+   "display": "June 1, 2000",
+   "start": "2000-06-01",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f08b3419-6358-4177-8b3f-ab1fa4a1b76e",
+   "external_id": "f08b3419-6358-4177-8b3f-ab1fa4a1b76e",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (June 1, 2000).pdf",
+   "bytes": 69467003,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20000615-dreamcast-insider",
+  "publication": "games-business",
+  "sequence": 50,
+  "number": "special",
+  "date": {
+   "display": "June 15, 2000",
+   "start": "2000-06-15",
+   "precision": "day"
+  },
+  "pages": 4,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/79ea036c-1307-47f9-a220-abfc27108a9e",
+   "external_id": "79ea036c-1307-47f9-a220-abfc27108a9e",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Dreamcast Insider (June 15, 2000).pdf",
+   "bytes": 4563359,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 282.8
+  }
+ },
+ {
+  "id": "games-business-20000615-games-business",
+  "publication": "games-business",
+  "sequence": 51,
+  "number": "special",
+  "date": {
+   "display": "June 15, 2000",
+   "start": "2000-06-15",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f2f963f1-468b-4cde-b5cc-53fb64a97055",
+   "external_id": "f2f963f1-468b-4cde-b5cc-53fb64a97055",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (June 15, 2000).pdf",
+   "bytes": 74681145,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20000701-games-business",
+  "publication": "games-business",
+  "sequence": 52,
+  "number": "special",
+  "date": {
+   "display": "July 1, 2000",
+   "start": "2000-07-01",
+   "precision": "day"
+  },
+  "pages": 36,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b7e9f1d4-1941-44e5-9967-95a44deec520",
+   "external_id": "b7e9f1d4-1941-44e5-9967-95a44deec520",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (July 1, 2000).pdf",
+   "bytes": 55085322,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20000715-dreamcast-insider",
+  "publication": "games-business",
+  "sequence": 53,
+  "number": "special",
+  "date": {
+   "display": "July 15, 2000",
+   "start": "2000-07-15",
+   "precision": "day"
+  },
+  "pages": 4,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/c7f20674-4756-4d4c-9f4d-fc9728fa2856",
+   "external_id": "c7f20674-4756-4d4c-9f4d-fc9728fa2856",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Dreamcast Insider (July 15, 2000).pdf",
+   "bytes": 4982445,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 282.8
+  }
+ },
+ {
+  "id": "games-business-20000715-games-business",
+  "publication": "games-business",
+  "sequence": 54,
+  "number": "special",
+  "date": {
+   "display": "July 15, 2000",
+   "start": "2000-07-15",
+   "precision": "day"
+  },
+  "pages": 32,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f399d997-5dd8-46ba-86a8-2b5eb3013ced",
+   "external_id": "f399d997-5dd8-46ba-86a8-2b5eb3013ced",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (July 15, 2000).pdf",
+   "bytes": 58352172,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20000801-games-business",
+  "publication": "games-business",
+  "sequence": 55,
+  "number": "special",
+  "date": {
+   "display": "August 1, 2000",
+   "start": "2000-08-01",
+   "precision": "day"
+  },
+  "pages": 34,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a1915392-2d52-46e8-9f76-bbe8b95bc730",
+   "external_id": "a1915392-2d52-46e8-9f76-bbe8b95bc730",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (August 1, 2000).pdf",
+   "bytes": 57734366,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20000815-games-business",
+  "publication": "games-business",
+  "sequence": 56,
+  "number": "special",
+  "date": {
+   "display": "August 15, 2000",
+   "start": "2000-08-15",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/b64e38c0-af25-48d7-90a0-cc2048345dc3",
+   "external_id": "b64e38c0-af25-48d7-90a0-cc2048345dc3",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (August 15, 2000).pdf",
+   "bytes": 71018196,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20000901-dreamcast-insider",
+  "publication": "games-business",
+  "sequence": 57,
+  "number": "special",
+  "date": {
+   "display": "September 1, 2000",
+   "start": "2000-09-01",
+   "precision": "day"
+  },
+  "pages": 4,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/f8300a1d-cc26-475e-a3ba-adcf8393854d",
+   "external_id": "f8300a1d-cc26-475e-a3ba-adcf8393854d",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Dreamcast Insider (September 1, 2000).pdf",
+   "bytes": 4753740,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 282.8
+  }
+ },
+ {
+  "id": "games-business-20000901-games-business",
+  "publication": "games-business",
+  "sequence": 58,
+  "number": "special",
+  "date": {
+   "display": "September 1, 2000",
+   "start": "2000-09-01",
+   "precision": "day"
+  },
+  "pages": 32,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/a9394121-f97a-4f22-b09b-18c4c5846eec",
+   "external_id": "a9394121-f97a-4f22-b09b-18c4c5846eec",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (September 1, 2000).pdf",
+   "bytes": 57892136,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20000915-games-business",
+  "publication": "games-business",
+  "sequence": 59,
+  "number": "special",
+  "date": {
+   "display": "September 15, 2000",
+   "start": "2000-09-15",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/d0e427f7-cbc1-423f-a827-b5387fb1ceea",
+   "external_id": "d0e427f7-cbc1-423f-a827-b5387fb1ceea",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (September 15, 2000).pdf",
+   "bytes": 70878813,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20001001-dreamcast-insider",
+  "publication": "games-business",
+  "sequence": 60,
+  "number": "special",
+  "date": {
+   "display": "October 1, 2000",
+   "start": "2000-10-01",
+   "precision": "day"
+  },
+  "pages": 4,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/48be4b35-4845-4db6-ba41-cfcd90246ecf",
+   "external_id": "48be4b35-4845-4db6-ba41-cfcd90246ecf",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Dreamcast Insider (October 1, 2000).pdf",
+   "bytes": 4645763,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 282.8
+  }
+ },
+ {
+  "id": "games-business-20001001-games-business",
+  "publication": "games-business",
+  "sequence": 61,
+  "number": "special",
+  "date": {
+   "display": "October 1, 2000",
+   "start": "2000-10-01",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/df5e9ea3-22a1-4b90-b1a5-813e60ab2aca",
+   "external_id": "df5e9ea3-22a1-4b90-b1a5-813e60ab2aca",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (October 1, 2000).pdf",
+   "bytes": 67329297,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ },
+ {
+  "id": "games-business-20001015-games-business",
+  "publication": "games-business",
+  "sequence": 62,
+  "number": "special",
+  "date": {
+   "display": "October 15, 2000",
+   "start": "2000-10-15",
+   "precision": "day"
+  },
+  "pages": 44,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/48ac0d65-a92a-4695-b958-6168493c791d",
+   "external_id": "48ac0d65-a92a-4695-b958-6168493c791d",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (October 15, 2000).pdf",
+   "bytes": 78548639,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 264.2,
+   "height_mm": 345.4
+  }
+ },
+ {
+  "id": "games-business-20001101-dreamcast-insider",
+  "publication": "games-business",
+  "sequence": 63,
+  "number": "special",
+  "date": {
+   "display": "November 1, 2000",
+   "start": "2000-11-01",
+   "precision": "day"
+  },
+  "pages": 4,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/58327017-280f-43f3-933c-d4d80349f5bf",
+   "external_id": "58327017-280f-43f3-933c-d4d80349f5bf",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Dreamcast Insider (November 1, 2000).pdf",
+   "bytes": 4688162,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 215.9,
+   "height_mm": 282.8
+  }
+ },
+ {
+  "id": "games-business-20001101-games-business",
+  "publication": "games-business",
+  "sequence": 64,
+  "number": "special",
+  "date": {
+   "display": "November 1, 2000",
+   "start": "2000-11-01",
+   "precision": "day"
+  },
+  "pages": 40,
+  "source": {
+   "provider": "vghf",
+   "url": "https://archive.gamehistory.org/item/dbe7d33a-37bc-44ca-a9b8-e5698c6db125",
+   "external_id": "dbe7d33a-37bc-44ca-a9b8-e5698c6db125",
+   "retrieved_at": "2026-09-17T12:05:04+00:00"
+  },
+  "files": {
+   "pdf": "library/games-business/pdf/Games Business (November 1, 2000).pdf",
+   "bytes": 73076403,
+   "has_text_layer": true
+  },
+  "text": {
+   "status": "embedded"
+  },
+  "updated_at": "2026-09-17T12:05:04+00:00",
+  "dimensions": {
+   "width_mm": 266.7,
+   "height_mm": 346.7
+  }
+ }
+]

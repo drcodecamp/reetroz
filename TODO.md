@@ -6,8 +6,8 @@ Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:300
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
 | Done (readable on R2) | 87 | 5,034 | 538,183 |
-| PDFs on disk, not encoded yet | 0 | 0 | 0 |
-| VGHF indexed, PDFs not downloaded | 2 | 1,031 | — |
+| PDFs on disk, not encoded yet | 2 | 500 | 28,905 |
+| VGHF indexed, PDFs not downloaded | 0 | 0 | — |
 | No local scans | 27 | — | — |
 
 
@@ -191,7 +191,7 @@ All local PDFs are on R2. Remaining work is UK/IA stubs (no PDFs) and the two hu
 
 ## Left
 
-Every title with local PDFs is on R2. Live VGHF indexes matched. Left: two huge trade downloads, then UK/IA stubs.
+Encoding Games Business and MCV (the last local PDFs).
 
 ### 1. PDFs already downloaded — need `publication.json`, then encode
 
@@ -212,12 +212,12 @@ These were scraped from VGHF and downloaded. They never got a `publication.json`
 - [x] New Earth (`new-earth`) — 46 issues / 360 pages
 - [x] Game Developer (`game-developer`) — 226 issues / 15,176 pages
 
-### 2. On VGHF, not downloaded yet (big)
+### 2. On VGHF, not downloaded yet
 
-Need the token download. We skipped these as huge trade titles.
+Encoding Games Business and MCV.
 
-- [ ] Games Business (`games-business`) — 595 issues indexed — [VGHF](https://archive.gamehistory.org/folder/2eaca428-852b-464e-9afe-20269f490ac2)
-- [ ] MCV (`mcv`) — 436 issues indexed — [VGHF](https://archive.gamehistory.org/folder/eb2067ae-1d19-4d6c-b07a-fc0b0ce68d5f)
+- [ ] Games Business (`games-business`) — 64 issues / 2,786 pages — **encoding**
+- [ ] MCV (`mcv`) — 436 issues / 26,119 pages — **encoding**
 
 ### 3. No local scans
 
