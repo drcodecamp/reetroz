@@ -1,0 +1,3016 @@
+2 titles: games-business, mcv
+
+=== start render games-business ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication games-business --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+
+=== start render mcv ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication mcv --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+64 issues / 2786 pages to render with 4 workers
+436 issues / 26119 pages to render with 4 workers
+  games-business-20001001-dreamcast-insider: page 4/4  (2s)
+  [1/64] games-business-20001001-dreamcast-insider: 4 pages in 3s | 4/2786 pages, 1.5 p/s, ETA 31 min
+  games-business-20001101-dreamcast-insider: page 4/4  (5s)
+  [2/64] games-business-20001101-dreamcast-insider: 4 pages in 5s | 8/2786 pages, 1.5 p/s, ETA 31 min
+  mcv-1006: page 50/56  (14s)
+  mcv-1006: page 56/56  (15s)
+  mcv-1006: 37 page(s) rendered instead of extracted
+  [1/436] mcv-1006: 56 pages in 15s | 56/26119 pages, 3.7 p/s, ETA 117 min
+  mcv-1007: page 50/56  (18s)
+  mcv-1008: page 50/56  (20s)
+  mcv-1009: page 50/56  (21s)
+  mcv-1007: page 56/56  (21s)
+  mcv-1007: 45 page(s) rendered instead of extracted
+  [2/436] mcv-1007: 56 pages in 22s | 112/26119 pages, 5.1 p/s, ETA 85 min
+  mcv-1008: page 56/56  (23s)
+  mcv-1008: 41 page(s) rendered instead of extracted
+  [3/436] mcv-1008: 56 pages in 23s | 168/26119 pages, 7.2 p/s, ETA 60 min
+  mcv-1009: page 56/56  (26s)
+  mcv-1009: 45 page(s) rendered instead of extracted
+  [4/436] mcv-1009: 56 pages in 26s | 224/26119 pages, 8.5 p/s, ETA 51 min
+  games-business-20001101-games-business: page 40/40  (29s)
+  [3/64] games-business-20001101-games-business: 40 pages in 29s | 48/2786 pages, 1.6 p/s, ETA 28 min
+  mcv-1000: page 50/52  (16s)
+  games-business-20000901-dreamcast-insider: page 4/4  (2s)
+  [4/64] games-business-20000901-dreamcast-insider: 4 pages in 2s | 52/2786 pages, 1.7 p/s, ETA 27 min
+  mcv-1000: page 52/52  (16s)
+  mcv-1000: 38 page(s) rendered instead of extracted
+  [5/436] mcv-1000: 52 pages in 17s | 276/26119 pages, 8.7 p/s, ETA 50 min
+  games-business-20001015-games-business: page 44/44  (33s)
+  [5/64] games-business-20001015-games-business: 44 pages in 33s | 96/2786 pages, 2.9 p/s, ETA 15 min
+  mcv-1005: page 50/56  (13s)
+  games-business-20001001-games-business: page 44/44  (33s)
+  [6/64] games-business-20001001-games-business: 44 pages in 33s | 140/2786 pages, 3.9 p/s, ETA 11 min
+  mcv-1005: page 56/56  (15s)
+  mcv-1005: 41 page(s) rendered instead of extracted
+  [6/436] mcv-1005: 56 pages in 15s | 332/26119 pages, 9.0 p/s, ETA 48 min
+  mcv-1004: page 50/56  (17s)
+  mcv-1004: page 56/56  (18s)
+  mcv-1004: 46 page(s) rendered instead of extracted
+  [7/436] mcv-1004: 56 pages in 18s | 388/26119 pages, 9.4 p/s, ETA 46 min
+  mcv-1003: page 50/56  (16s)
+  mcv-1003: page 56/56  (17s)
+  mcv-1003: 40 page(s) rendered instead of extracted
+  [8/436] mcv-1003: 56 pages in 17s | 444/26119 pages, 10.1 p/s, ETA 42 min
+MuPDF error: library error: FT_New_Memory_Face(IPMFDM+Poppins-Bold): unknown file format
+
+  mcv-1002: page 50/54  (15s)
+  mcv-1002: page 54/54  (17s)
+  mcv-1002: 44 page(s) rendered instead of extracted
+  [9/436] mcv-1002: 54 pages in 18s | 498/26119 pages, 10.1 p/s, ETA 42 min
+MuPDF error: library error: FT_New_Memory_Face(IPMFDM+Poppins-Bold): unknown file format
+
+  mcv-202412-develop-30-under-30-annual-2024: page 36/36  (7s)
+  mcv-202412-develop-30-under-30-annual-2024: 19 page(s) rendered instead of extracted
+  [10/436] mcv-202412-develop-30-under-30-annual-2024: 36 pages in 7s | 534/26119 pages, 10.5 p/s, ETA 40 min
+  games-business-20000915-games-business: page 44/44  (46s)
+  [7/64] games-business-20000915-games-business: 44 pages in 46s | 184/2786 pages, 3.5 p/s, ETA 12 min
+  mcv-1001: page 50/52  (16s)
+  mcv-1001: page 52/52  (16s)
+  mcv-1001: 38 page(s) rendered instead of extracted
+  [11/436] mcv-1001: 52 pages in 16s | 586/26119 pages, 11.0 p/s, ETA 39 min
+  games-business-20000715-dreamcast-insider: page 4/4  (2s)
+  [8/64] games-business-20000715-dreamcast-insider: 4 pages in 2s | 188/2786 pages, 3.5 p/s, ETA 12 min
+  mcv-994: page 50/68  (14s)
+  games-business-20000901-games-business: page 32/32  (27s)
+  [9/64] games-business-20000901-games-business: 32 pages in 27s | 220/2786 pages, 3.8 p/s, ETA 11 min
+  mcv-994: page 68/68  (20s)
+  mcv-994: 51 page(s) rendered instead of extracted
+  [12/436] mcv-994: 68 pages in 20s | 654/26119 pages, 10.7 p/s, ETA 40 min
+  games-business-20000815-games-business: page 44/44  (28s)
+  [10/64] games-business-20000815-games-business: 44 pages in 28s | 264/2786 pages, 4.3 p/s, ETA 10 min
+  games-business-20000615-dreamcast-insider: page 4/4  (2s)
+  [11/64] games-business-20000615-dreamcast-insider: 4 pages in 2s | 268/2786 pages, 4.3 p/s, ETA 10 min
+  mcv-999: page 50/52  (17s)
+  mcv-997: page 50/52  (14s)
+  mcv-998: page 50/52  (17s)
+  mcv-999: page 52/52  (18s)
+  mcv-999: 44 page(s) rendered instead of extracted
+  [13/436] mcv-999: 52 pages in 18s | 706/26119 pages, 10.4 p/s, ETA 41 min
+  mcv-997: page 52/52  (14s)
+  mcv-997: 50 page(s) rendered instead of extracted
+  [14/436] mcv-997: 52 pages in 14s | 758/26119 pages, 11.2 p/s, ETA 38 min
+  mcv-998: page 52/52  (18s)
+  mcv-998: 44 page(s) rendered instead of extracted
+  [15/436] mcv-998: 52 pages in 18s | 810/26119 pages, 11.8 p/s, ETA 36 min
+  games-business-20000801-games-business: page 34/34  (36s)
+  [12/64] games-business-20000801-games-business: 34 pages in 36s | 302/2786 pages, 4.2 p/s, ETA 10 min
+  mcv-996: page 50/52  (14s)
+  mcv-996: page 52/52  (15s)
+  mcv-996: 47 page(s) rendered instead of extracted
+  [16/436] mcv-996: 52 pages in 15s | 862/26119 pages, 11.4 p/s, ETA 37 min
+  games-business-20000701-games-business: page 36/36  (23s)
+  [13/64] games-business-20000701-games-business: 36 pages in 23s | 338/2786 pages, 4.2 p/s, ETA 10 min
+  mcv-993: page 50/60  (15s)
+  mcv-995: page 50/60  (17s)
+  mcv-992: page 50/60  (16s)
+  mcv-993: page 60/60  (20s)
+  mcv-993: 51 page(s) rendered instead of extracted
+  games-business-20000715-games-business: page 32/32  (33s)
+  [14/64] games-business-20000715-games-business: 32 pages in 33s | 370/2786 pages, 4.2 p/s, ETA 10 min
+  [17/436] mcv-993: 60 pages in 20s | 922/26119 pages, 10.5 p/s, ETA 40 min
+  mcv-992: page 60/60  (19s)
+  mcv-992: 51 page(s) rendered instead of extracted
+  [18/436] mcv-992: 60 pages in 19s | 982/26119 pages, 11.2 p/s, ETA 37 min
+  mcv-991: page 50/60  (13s)
+  mcv-995: page 60/60  (22s)
+  mcv-995: 49 page(s) rendered instead of extracted
+  [19/436] mcv-995: 60 pages in 22s | 1042/26119 pages, 11.6 p/s, ETA 36 min
+  games-business-20000615-games-business: page 44/44  (28s)
+  [15/64] games-business-20000615-games-business: 44 pages in 28s | 414/2786 pages, 4.6 p/s, ETA 9 min
+  games-business-20000515-gekido-flat-box: page 2/2  (0s)
+  [16/64] games-business-20000515-gekido-flat-box: 2 pages in 0s | 416/2786 pages, 4.6 p/s, ETA 9 min
+  mcv-991: page 60/60  (16s)
+  mcv-991: 50 page(s) rendered instead of extracted
+  [20/436] mcv-991: 60 pages in 16s | 1102/26119 pages, 12.1 p/s, ETA 35 min
+  games-business-200006-e3-edition: page 24/24  (16s)
+  [17/64] games-business-200006-e3-edition: 24 pages in 16s | 440/2786 pages, 4.6 p/s, ETA 9 min
+  games-business-20000501-sega-dreamcast-advisor: page 4/4  (2s)
+  [18/64] games-business-20000501-sega-dreamcast-advisor: 4 pages in 2s | 444/2786 pages, 4.5 p/s, ETA 9 min
+  mcv-989: page 50/76  (11s)
+  mcv-990: page 50/60  (12s)
+  mcv-990: page 60/60  (14s)
+  mcv-990: 53 page(s) rendered instead of extracted
+  [21/436] mcv-990: 60 pages in 14s | 1162/26119 pages, 11.4 p/s, ETA 36 min
+  mcv-988: page 50/60  (13s)
+  mcv-988: page 60/60  (15s)
+  mcv-988: 55 page(s) rendered instead of extracted
+  [22/436] mcv-988: 60 pages in 15s | 1222/26119 pages, 11.7 p/s, ETA 36 min
+  mcv-989: page 76/76  (17s)
+  mcv-989: 61 page(s) rendered instead of extracted
+  [23/436] mcv-989: 76 pages in 17s | 1298/26119 pages, 12.3 p/s, ETA 34 min
+  mcv-987: page 50/64  (15s)
+  games-business-20000601-games-business: page 44/44  (39s)
+  [19/64] games-business-20000601-games-business: 44 pages in 39s | 488/2786 pages, 4.4 p/s, ETA 9 min
+  mcv-987: page 64/64  (21s)
+  mcv-987: 46 page(s) rendered instead of extracted
+  [24/436] mcv-987: 64 pages in 21s | 1362/26119 pages, 12.1 p/s, ETA 34 min
+  games-business-20000415-tachyon-the-fringe-flat-box: page 2/2  (1s)
+  [20/64] games-business-20000415-tachyon-the-fringe-flat-box: 2 pages in 1s | 490/2786 pages, 4.4 p/s, ETA 9 min
+  mcv-985: page 50/60  (14s)
+  mcv-986: page 50/60  (18s)
+  games-business-20000501-games-business: page 44/44  (30s)
+  [21/64] games-business-20000501-games-business: 44 pages in 30s | 534/2786 pages, 4.4 p/s, ETA 8 min
+  mcv-984: page 50/64  (16s)
+  mcv-985: page 60/60  (18s)
+  mcv-985: 47 page(s) rendered instead of extracted
+  [25/436] mcv-985: 60 pages in 18s | 1422/26119 pages, 11.6 p/s, ETA 35 min
+  mcv-986: page 60/60  (21s)
+  mcv-986: 52 page(s) rendered instead of extracted
+  [26/436] mcv-986: 60 pages in 21s | 1482/26119 pages, 12.0 p/s, ETA 34 min
+  games-business-20000515-games-business: page 44/44  (38s)
+  [22/64] games-business-20000515-games-business: 44 pages in 38s | 578/2786 pages, 4.6 p/s, ETA 8 min
+  mcv-983: page 50/60  (14s)
+  mcv-984: page 64/64  (22s)
+  mcv-984: 53 page(s) rendered instead of extracted
+  [27/436] mcv-984: 64 pages in 22s | 1546/26119 pages, 12.1 p/s, ETA 34 min
+  mcv-983: page 60/60  (17s)
+  mcv-983: 45 page(s) rendered instead of extracted
+  [28/436] mcv-983: 60 pages in 17s | 1606/26119 pages, 12.4 p/s, ETA 33 min
+  games-business-20000415-games-business: page 50/60  (33s)
+  mcv-982: page 50/64  (14s)
+  games-business-20000415-games-business: page 60/60  (40s)
+  [23/64] games-business-20000415-games-business: 60 pages in 40s | 638/2786 pages, 4.6 p/s, ETA 8 min
+  mcv-979: page 50/84  (10s)
+  mcv-981: page 50/78  (17s)
+  mcv-982: page 64/64  (18s)
+  mcv-982: 57 page(s) rendered instead of extracted
+  [29/436] mcv-982: 64 pages in 19s | 1670/26119 pages, 11.8 p/s, ETA 34 min
+  mcv-980: page 50/72  (16s)
+  mcv-979: page 84/84  (17s)
+  mcv-979: 64 page(s) rendered instead of extracted
+  [30/436] mcv-979: 84 pages in 17s | 1754/26119 pages, 12.0 p/s, ETA 34 min
+  games-business-20000315-games-business: page 44/44  (28s)
+  [24/64] games-business-20000315-games-business: 44 pages in 28s | 682/2786 pages, 4.6 p/s, ETA 8 min
+  mcv-981: page 78/78  (26s)
+  mcv-981: 64 page(s) rendered instead of extracted
+  [31/436] mcv-981: 78 pages in 26s | 1832/26119 pages, 12.3 p/s, ETA 33 min
+  games-business-20000401-games-business: page 50/80  (38s)
+  mcv-980: page 72/72  (24s)
+  mcv-980: 56 page(s) rendered instead of extracted
+  [32/436] mcv-980: 72 pages in 24s | 1904/26119 pages, 12.5 p/s, ETA 32 min
+  mcv-978: page 50/64  (11s)
+  mcv-978: page 64/64  (15s)
+  mcv-978: 50 page(s) rendered instead of extracted
+  [33/436] mcv-978: 64 pages in 15s | 1968/26119 pages, 12.6 p/s, ETA 32 min
+  mcv-976: page 50/72  (11s)
+  mcv-977: page 50/64  (13s)
+  mcv-975: page 50/72  (11s)
+  mcv-977: page 64/64  (17s)
+  mcv-977: 46 page(s) rendered instead of extracted
+  [34/436] mcv-977: 64 pages in 17s | 2032/26119 pages, 12.4 p/s, ETA 32 min
+  mcv-976: page 72/72  (17s)
+  mcv-976: 50 page(s) rendered instead of extracted
+  [35/436] mcv-976: 72 pages in 17s | 2104/26119 pages, 12.6 p/s, ETA 32 min
+  mcv-974: page 50/84  (11s)
+  mcv-975: page 72/72  (17s)
+  mcv-975: 57 page(s) rendered instead of extracted
+  [36/436] mcv-975: 72 pages in 17s | 2176/26119 pages, 12.9 p/s, ETA 31 min
+  games-business-20000215-toy-fair-special-edition: page 46/46  (35s)
+  [25/64] games-business-20000215-toy-fair-special-edition: 46 pages in 35s | 728/2786 pages, 4.2 p/s, ETA 8 min
+  mcv-974: page 84/84  (20s)
+  mcv-974: 64 page(s) rendered instead of extracted
+  [37/436] mcv-974: 84 pages in 20s | 2260/26119 pages, 12.9 p/s, ETA 31 min
+  games-business-20000401-games-business: page 80/80  (64s)
+  [26/64] games-business-20000401-games-business: 80 pages in 64s | 808/2786 pages, 4.6 p/s, ETA 7 min
+  games-business-20000301-games-business: page 44/44  (51s)
+  [27/64] games-business-20000301-games-business: 44 pages in 51s | 852/2786 pages, 4.8 p/s, ETA 7 min
+  games-business-20000201-games-business: page 44/44  (32s)
+  [28/64] games-business-20000201-games-business: 44 pages in 32s | 896/2786 pages, 5.0 p/s, ETA 6 min
+  mcv-950: page 50/72  (17s)
+  mcv-949: page 50/72  (20s)
+  mcv-950: page 72/72  (24s)
+  mcv-950: 37 page(s) rendered instead of extracted
+  [38/436] mcv-950: 72 pages in 24s | 2332/26119 pages, 12.4 p/s, ETA 32 min
+  mcv-948: page 50/76  (21s)
+  mcv-949: page 72/72  (26s)
+  mcv-949: 35 page(s) rendered instead of extracted
+  [39/436] mcv-949: 72 pages in 26s | 2404/26119 pages, 12.5 p/s, ETA 32 min
+  mcv-947: page 50/68  (19s)
+  mcv-947: page 68/68  (24s)
+  mcv-947: 40 page(s) rendered instead of extracted
+  [40/436] mcv-947: 68 pages in 24s | 2472/26119 pages, 12.4 p/s, ETA 32 min
+  mcv-948: page 76/76  (32s)
+  mcv-948: 43 page(s) rendered instead of extracted
+  [41/436] mcv-948: 76 pages in 32s | 2548/26119 pages, 12.6 p/s, ETA 31 min
+  mcv-946: page 50/68  (16s)
+  games-business-20000115-games-business: page 46/46  (36s)
+  [29/64] games-business-20000115-games-business: 46 pages in 36s | 942/2786 pages, 4.5 p/s, ETA 7 min
+  mcv-946: page 68/68  (21s)
+  mcv-946: 37 page(s) rendered instead of extracted
+  [42/436] mcv-946: 68 pages in 21s | 2616/26119 pages, 12.5 p/s, ETA 31 min
+  games-business-20000101-games-business: page 40/40  (34s)
+  [30/64] games-business-20000101-games-business: 40 pages in 34s | 982/2786 pages, 4.7 p/s, ETA 6 min
+  mcv-945: page 50/68  (19s)
+  mcv-945: page 68/68  (24s)
+  mcv-945: 40 page(s) rendered instead of extracted
+  [43/436] mcv-945: 68 pages in 24s | 2684/26119 pages, 12.4 p/s, ETA 32 min
+  mcv-943: page 50/64  (15s)
+  games-business-19991215-games-business: page 50/68  (43s)
+  games-business-19991201-games-business: page 50/68  (40s)
+  mcv-943: page 64/64  (19s)
+  mcv-943: 34 page(s) rendered instead of extracted
+  [44/436] mcv-943: 64 pages in 19s | 2748/26119 pages, 12.5 p/s, ETA 31 min
+  mcv-944: page 50/76  (22s)
+  mcv-941: page 50/68  (6s)
+  mcv-941: page 68/68  (8s)
+  [45/436] mcv-941: 68 pages in 8s | 2816/26119 pages, 12.5 p/s, ETA 31 min
+  mcv-944: page 76/76  (29s)
+  mcv-944: 41 page(s) rendered instead of extracted
+  [46/436] mcv-944: 76 pages in 29s | 2892/26119 pages, 12.7 p/s, ETA 31 min
+  mcv-940: page 50/68  (12s)
+  games-business-19991215-games-business: page 68/68  (58s)
+  [31/64] games-business-19991215-games-business: 68 pages in 58s | 1050/2786 pages, 4.5 p/s, ETA 6 min
+  games-business-19991201-games-business: page 68/68  (54s)
+  [32/64] games-business-19991201-games-business: 68 pages in 54s | 1118/2786 pages, 4.8 p/s, ETA 6 min
+  mcv-942: page 50/72  (28s)
+  mcv-940: page 68/68  (16s)
+  mcv-940: 30 page(s) rendered instead of extracted
+  [47/436] mcv-940: 68 pages in 16s | 2960/26119 pages, 12.5 p/s, ETA 31 min
+  mcv-939: page 50/68  (14s)
+  mcv-939: page 68/68  (17s)
+  mcv-939: 26 page(s) rendered instead of extracted
+  [48/436] mcv-939: 68 pages in 17s | 3028/26119 pages, 12.5 p/s, ETA 31 min
+  mcv-20180823-gamescom-2018-day-three: page 50/52  (18s)
+  mcv-942: page 72/72  (37s)
+  mcv-942: 50 page(s) rendered instead of extracted
+  [49/436] mcv-942: 72 pages in 37s | 3100/26119 pages, 12.6 p/s, ETA 30 min
+  mcv-20180823-gamescom-2018-day-three: page 52/52  (18s)
+  mcv-20180823-gamescom-2018-day-three: 45 page(s) rendered instead of extracted
+  [50/436] mcv-20180823-gamescom-2018-day-three: 52 pages in 19s | 3152/26119 pages, 12.8 p/s, ETA 30 min
+  games-business-19991115-games-business: page 50/70  (39s)
+  games-business-19991101-games-business: page 50/54  (39s)
+  mcv-20180822-gamescom-2018-day-two: page 50/52  (16s)
+  games-business-19991101-games-business: page 54/54  (43s)
+  [33/64] games-business-19991101-games-business: 54 pages in 43s | 1172/2786 pages, 4.6 p/s, ETA 6 min
+  mcv-20180822-gamescom-2018-day-two: page 52/52  (17s)
+  mcv-20180822-gamescom-2018-day-two: 43 page(s) rendered instead of extracted
+  [51/436] mcv-20180822-gamescom-2018-day-two: 52 pages in 18s | 3204/26119 pages, 12.6 p/s, ETA 30 min
+  mcv-20180821-gamescom-2018-day-one: page 50/56  (17s)
+  mcv-20180821-gamescom-2018-day-one: page 56/56  (19s)
+  mcv-20180821-gamescom-2018-day-one: 47 page(s) rendered instead of extracted
+  [52/436] mcv-20180821-gamescom-2018-day-one: 56 pages in 19s | 3260/26119 pages, 12.5 p/s, ETA 30 min
+  mcv-938: page 50/76  (15s)
+  games-business-19991115-games-business: page 70/70  (55s)
+  [34/64] games-business-19991115-games-business: 70 pages in 55s | 1242/2786 pages, 4.7 p/s, ETA 5 min
+  mcv-937: page 50/84  (17s)
+  games-business-19990915-nhl-championship-2000-flat-box: page 2/2  (1s)
+  [35/64] games-business-19990915-nhl-championship-2000-flat-box: 2 pages in 1s | 1244/2786 pages, 4.7 p/s, ETA 5 min
+  mcv-938: page 76/76  (24s)
+  mcv-938: 43 page(s) rendered instead of extracted
+  [53/436] mcv-938: 76 pages in 25s | 3336/26119 pages, 12.3 p/s, ETA 31 min
+  mcv-937: page 84/84  (26s)
+  mcv-937: 48 page(s) rendered instead of extracted
+  [54/436] mcv-937: 84 pages in 26s | 3420/26119 pages, 12.5 p/s, ETA 30 min
+  games-business-19991001-games-business: page 50/70  (39s)
+  mcv-936: page 50/104  (19s)
+  games-business-19991015-games-business: page 50/70  (41s)
+  mcv-935: page 50/84  (16s)
+  mcv-935: page 84/84  (24s)
+  mcv-935: 54 page(s) rendered instead of extracted
+  [55/436] mcv-935: 84 pages in 24s | 3504/26119 pages, 12.3 p/s, ETA 31 min
+  mcv-934: page 50/84  (16s)
+  mcv-936: page 100/104  (34s)
+  games-business-19991001-games-business: page 70/70  (54s)
+  [36/64] games-business-19991001-games-business: 70 pages in 54s | 1314/2786 pages, 4.6 p/s, ETA 5 min
+  mcv-936: page 104/104  (35s)
+  mcv-936: 62 page(s) rendered instead of extracted
+  [56/436] mcv-936: 104 pages in 35s | 3608/26119 pages, 12.5 p/s, ETA 30 min
+  games-business-19991015-games-business: page 70/70  (57s)
+  [37/64] games-business-19991015-games-business: 70 pages in 57s | 1384/2786 pages, 4.8 p/s, ETA 5 min
+  games-business-19990915-games-business: page 50/70  (40s)
+  mcv-933: page 50/104  (21s)
+  mcv-934: page 84/84  (26s)
+  mcv-934: 52 page(s) rendered instead of extracted
+  [57/436] mcv-934: 84 pages in 26s | 3692/26119 pages, 12.4 p/s, ETA 30 min
+  mcv-932: page 50/84  (15s)
+  games-business-19990901-games-business: page 50/66  (41s)
+  mcv-931: page 50/52  (16s)
+  mcv-931: page 52/52  (18s)
+  mcv-931: 34 page(s) rendered instead of extracted
+  [58/436] mcv-931: 52 pages in 18s | 3744/26119 pages, 12.2 p/s, ETA 31 min
+  games-business-19990915-games-business: page 70/70  (56s)
+  [38/64] games-business-19990915-games-business: 70 pages in 56s | 1454/2786 pages, 4.7 p/s, ETA 5 min
+  mcv-933: page 100/104  (37s)
+  mcv-933: page 104/104  (38s)
+  mcv-933: 66 page(s) rendered instead of extracted
+  [59/436] mcv-933: 104 pages in 39s | 3848/26119 pages, 12.4 p/s, ETA 30 min
+  mcv-930: page 50/52  (15s)
+  mcv-932: page 84/84  (27s)
+  mcv-932: 57 page(s) rendered instead of extracted
+  [60/436] mcv-932: 84 pages in 27s | 3932/26119 pages, 12.6 p/s, ETA 29 min
+  mcv-930: page 52/52  (16s)
+  mcv-930: 39 page(s) rendered instead of extracted
+  [61/436] mcv-930: 52 pages in 16s | 3984/26119 pages, 12.7 p/s, ETA 29 min
+  games-business-19990901-games-business: page 66/66  (53s)
+  [39/64] games-business-19990901-games-business: 66 pages in 53s | 1520/2786 pages, 4.8 p/s, ETA 4 min
+  mcv-929: page 50/52  (17s)
+  mcv-929: page 52/52  (18s)
+  mcv-929: 36 page(s) rendered instead of extracted
+  [62/436] mcv-929: 52 pages in 19s | 4036/26119 pages, 12.4 p/s, ETA 30 min
+  mcv-927: page 50/52  (14s)
+  mcv-927: page 52/52  (15s)
+  mcv-927: 39 page(s) rendered instead of extracted
+  [63/436] mcv-927: 52 pages in 15s | 4088/26119 pages, 12.5 p/s, ETA 29 min
+  mcv-928: page 50/52  (16s)
+  mcv-926: page 50/52  (15s)
+  games-business-19990815-games-business: page 50/68  (40s)
+  mcv-928: page 52/52  (17s)
+  mcv-928: 36 page(s) rendered instead of extracted
+  mcv-926: page 52/52  (15s)
+  mcv-926: 37 page(s) rendered instead of extracted
+  [64/436] mcv-926: 52 pages in 15s | 4140/26119 pages, 12.6 p/s, ETA 29 min
+  [65/436] mcv-928: 52 pages in 17s | 4192/26119 pages, 12.8 p/s, ETA 29 min
+  games-business-19990801-games-business: page 50/52  (41s)
+  games-business-19990801-games-business: page 52/52  (43s)
+  [40/64] games-business-19990801-games-business: 52 pages in 43s | 1572/2786 pages, 4.7 p/s, ETA 4 min
+  games-business-19990701-gamesbusiness-promotional-insert: page 1/1  (0s)
+  [41/64] games-business-19990701-gamesbusiness-promotional-insert: 1 pages in 1s | 1573/2786 pages, 4.7 p/s, ETA 4 min
+  mcv-924: page 50/52  (13s)
+  mcv-924: page 52/52  (14s)
+  mcv-924: 41 page(s) rendered instead of extracted
+  mcv-925: page 50/60  (15s)
+  [66/436] mcv-924: 52 pages in 15s | 4244/26119 pages, 12.4 p/s, ETA 29 min
+  games-business-19990815-games-business: page 68/68  (53s)
+  [42/64] games-business-19990815-games-business: 68 pages in 54s | 1641/2786 pages, 4.8 p/s, ETA 4 min
+  games-business-19990615-gamesbusiness-promotional-insert: page 1/1  (2s)
+  [43/64] games-business-19990615-gamesbusiness-promotional-insert: 1 pages in 2s | 1642/2786 pages, 4.8 p/s, ETA 4 min
+  mcv-925: page 60/60  (19s)
+  mcv-925: 43 page(s) rendered instead of extracted
+  [67/436] mcv-925: 60 pages in 19s | 4304/26119 pages, 12.5 p/s, ETA 29 min
+  games-business-19990615-rockstar-games-poster: page 2/2  (3s)
+  [44/64] games-business-19990615-rockstar-games-poster: 2 pages in 3s | 1644/2786 pages, 4.7 p/s, ETA 4 min
+  games-business-19990715-games-business: page 50/52  (39s)
+  mcv-20170824-gamescom-2017-day-three: page 50/53  (20s)
+  games-business-19990715-games-business: page 52/52  (41s)
+  [45/64] games-business-19990715-games-business: 52 pages in 41s | 1696/2786 pages, 4.8 p/s, ETA 4 min
+  mcv-20170824-gamescom-2017-day-three: page 53/53  (23s)
+  mcv-20170824-gamescom-2017-day-three: 34 page(s) rendered instead of extracted
+  [68/436] mcv-20170824-gamescom-2017-day-three: 53 pages in 23s | 4357/26119 pages, 12.4 p/s, ETA 29 min
+  games-business-19990601-gamesbusiness-promotional-insert: page 1/1  (2s)
+  mcv-20170823-gamescom-2017-day-two: page 50/52  (24s)
+  [46/64] games-business-19990601-gamesbusiness-promotional-insert: 1 pages in 2s | 1697/2786 pages, 4.8 p/s, ETA 4 min
+  mcv-20170823-gamescom-2017-day-two: page 52/52  (26s)
+  mcv-20170823-gamescom-2017-day-two: 34 page(s) rendered instead of extracted
+  [69/436] mcv-20170823-gamescom-2017-day-two: 52 pages in 26s | 4409/26119 pages, 12.5 p/s, ETA 29 min
+  games-business-19990701-games-business: page 50/52  (38s)
+  games-business-19990701-games-business: page 52/52  (40s)
+  [47/64] games-business-19990701-games-business: 52 pages in 40s | 1749/2786 pages, 4.9 p/s, ETA 4 min
+  games-business-19990515-imagine-media-word-poetry-magnets: page 1/1  (0s)
+  [48/64] games-business-19990515-imagine-media-word-poetry-magnets: 1 pages in 0s | 1750/2786 pages, 4.9 p/s, ETA 4 min
+  games-business-19990515-microsoft-windows-partners-e3-promotional-card-a: page 1/1  (0s)
+  [49/64] games-business-19990515-microsoft-windows-partners-e3-promotional-card-a: 1 pages in 0s | 1751/2786 pages, 4.9 p/s, ETA 4 min
+  mcv-20170822-gamescom-2017-day-one: page 50/52  (16s)
+  mcv-20170822-gamescom-2017-day-one: page 52/52  (18s)
+  mcv-20170822-gamescom-2017-day-one: 38 page(s) rendered instead of extracted
+  [70/436] mcv-20170822-gamescom-2017-day-one: 52 pages in 19s | 4461/26119 pages, 12.4 p/s, ETA 29 min
+  mcv-20170724-gamescom-2017-digital-preview: page 44/44  (11s)
+  mcv-20170724-gamescom-2017-digital-preview: 25 page(s) rendered instead of extracted
+  [71/436] mcv-20170724-gamescom-2017-digital-preview: 44 pages in 11s | 4505/26119 pages, 12.3 p/s, ETA 29 min
+  mcv-923: page 50/52  (23s)
+  mcv-923: page 52/52  (24s)
+  mcv-923: 42 page(s) rendered instead of extracted
+  mcv-922: page 50/52  (18s)
+  [72/436] mcv-923: 52 pages in 24s | 4557/26119 pages, 12.4 p/s, ETA 29 min
+  mcv-922: page 52/52  (18s)
+  mcv-922: 38 page(s) rendered instead of extracted
+  [73/436] mcv-922: 52 pages in 18s | 4609/26119 pages, 12.5 p/s, ETA 29 min
+  games-business-19990615-games-business: page 50/52  (40s)
+  games-business-19990615-games-business: page 52/52  (41s)
+  [50/64] games-business-19990615-games-business: 52 pages in 41s | 1803/2786 pages, 4.8 p/s, ETA 3 min
+  mcv-921: page 50/52  (17s)
+  mcv-921: page 52/52  (18s)
+  mcv-921: 35 page(s) rendered instead of extracted
+  [74/436] mcv-921: 52 pages in 18s | 4661/26119 pages, 12.3 p/s, ETA 29 min
+  mcv-920: page 50/52  (15s)
+  mcv-920: page 52/52  (18s)
+  mcv-920: 41 page(s) rendered instead of extracted
+  [75/436] mcv-920: 52 pages in 18s | 4713/26119 pages, 12.3 p/s, ETA 29 min
+  games-business-19990501-psygnosis-pc-games-promotional-supplement: page 24/24  (8s)
+  [51/64] games-business-19990501-psygnosis-pc-games-promotional-supplement: 24 pages in 8s | 1827/2786 pages, 4.8 p/s, ETA 3 min
+  mcv-919: page 50/52  (17s)
+  mcv-919: page 52/52  (19s)
+  mcv-919: 36 page(s) rendered instead of extracted
+  games-business-19990601-games-business: page 50/112  (41s)
+  [76/436] mcv-919: 52 pages in 19s | 4765/26119 pages, 12.3 p/s, ETA 29 min
+  mcv-918: page 50/64  (21s)
+  games-business-19990515-games-business: page 50/72  (41s)
+  mcv-917: page 50/52  (17s)
+  mcv-918: page 64/64  (27s)
+  mcv-918: 50 page(s) rendered instead of extracted
+  [77/436] mcv-918: 64 pages in 27s | 4829/26119 pages, 12.2 p/s, ETA 29 min
+  mcv-917: page 52/52  (19s)
+  games-business-19990501-games-business: page 50/84  (40s)
+  mcv-917: 37 page(s) rendered instead of extracted
+  [78/436] mcv-917: 52 pages in 19s | 4881/26119 pages, 12.3 p/s, ETA 29 min
+  mcv-916: page 50/52  (15s)
+  mcv-916: page 52/52  (15s)
+  mcv-916: 38 page(s) rendered instead of extracted
+  [79/436] mcv-916: 52 pages in 16s | 4933/26119 pages, 12.4 p/s, ETA 29 min
+  mcv-915: page 50/52  (17s)
+  mcv-915: page 52/52  (18s)
+  mcv-915: 36 page(s) rendered instead of extracted
+  [80/436] mcv-915: 52 pages in 18s | 4985/26119 pages, 12.3 p/s, ETA 29 min
+  games-business-19990515-games-business: page 72/72  (59s)
+  [52/64] games-business-19990515-games-business: 72 pages in 59s | 1899/2786 pages, 4.6 p/s, ETA 3 min
+  mcv-913: page 40/40  (19s)
+  mcv-913: 36 page(s) rendered instead of extracted
+  [81/436] mcv-913: 40 pages in 19s | 5025/26119 pages, 12.1 p/s, ETA 29 min
+  mcv-912: page 40/40  (20s)
+  mcv-912: 37 page(s) rendered instead of extracted
+  [82/436] mcv-912: 40 pages in 20s | 5065/26119 pages, 12.1 p/s, ETA 29 min
+  mcv-914: page 48/48  (25s)
+  mcv-914: 43 page(s) rendered instead of extracted
+  [83/436] mcv-914: 48 pages in 25s | 5113/26119 pages, 12.1 p/s, ETA 29 min
+  games-business-19990501-games-business: page 84/84  (65s)
+  [53/64] games-business-19990501-games-business: 84 pages in 65s | 1983/2786 pages, 4.7 p/s, ETA 3 min
+  mcv-911: page 40/40  (19s)
+  mcv-911: 36 page(s) rendered instead of extracted
+  [84/436] mcv-911: 40 pages in 20s | 5153/26119 pages, 12.1 p/s, ETA 29 min
+  games-business-19990415-games-business: page 50/68  (43s)
+  games-business-19990601-games-business: page 100/112  (81s)
+  mcv-910: page 40/40  (18s)
+  mcv-910: 36 page(s) rendered instead of extracted
+  [85/436] mcv-910: 40 pages in 18s | 5193/26119 pages, 12.0 p/s, ETA 29 min
+  mcv-909: page 44/44  (19s)
+  mcv-909: 36 page(s) rendered instead of extracted
+  [86/436] mcv-909: 44 pages in 19s | 5237/26119 pages, 12.0 p/s, ETA 29 min
+  games-business-19990601-games-business: page 112/112  (91s)
+  [54/64] games-business-19990601-games-business: 112 pages in 91s | 2095/2786 pages, 4.8 p/s, ETA 2 min
+  games-business-19990415-games-business: page 68/68  (57s)
+  [55/64] games-business-19990415-games-business: 68 pages in 57s | 2163/2786 pages, 4.9 p/s, ETA 2 min
+  mcv-908: page 44/44  (21s)
+  mcv-908: 38 page(s) rendered instead of extracted
+  [87/436] mcv-908: 44 pages in 22s | 5281/26119 pages, 11.9 p/s, ETA 29 min
+  mcv-907: page 48/48  (23s)
+  mcv-907: 45 page(s) rendered instead of extracted
+  [88/436] mcv-907: 48 pages in 23s | 5329/26119 pages, 11.9 p/s, ETA 29 min
+  games-business-19990401-games-business: page 50/68  (40s)
+  mcv-906: page 40/40  (18s)
+  mcv-906: 38 page(s) rendered instead of extracted
+  [89/436] mcv-906: 40 pages in 19s | 5369/26119 pages, 11.8 p/s, ETA 29 min
+  mcv-905: page 42/42  (20s)
+  mcv-905: 38 page(s) rendered instead of extracted
+  [90/436] mcv-905: 42 pages in 20s | 5411/26119 pages, 11.8 p/s, ETA 29 min
+  games-business-19990315-games-business: page 50/71  (39s)
+  games-business-19990401-games-business: page 68/68  (54s)
+  [56/64] games-business-19990401-games-business: 68 pages in 54s | 2231/2786 pages, 4.8 p/s, ETA 2 min
+  mcv-902: page 40/40  (17s)
+  mcv-902: 39 page(s) rendered instead of extracted
+  [91/436] mcv-902: 40 pages in 17s | 5451/26119 pages, 11.7 p/s, ETA 29 min
+  mcv-904: page 48/48  (26s)
+  mcv-904: 44 page(s) rendered instead of extracted
+  [92/436] mcv-904: 48 pages in 26s | 5499/26119 pages, 11.7 p/s, ETA 29 min
+  mcv-901: page 40/40  (16s)
+  mcv-901: 36 page(s) rendered instead of extracted
+  [93/436] mcv-901: 40 pages in 17s | 5539/26119 pages, 11.8 p/s, ETA 29 min
+  games-business-19990315-games-business: page 71/71  (54s)
+  [57/64] games-business-19990315-games-business: 71 pages in 54s | 2302/2786 pages, 4.8 p/s, ETA 2 min
+  mcv-900: page 40/40  (20s)
+  mcv-900: 40 page(s) rendered instead of extracted
+  [94/436] mcv-900: 40 pages in 20s | 5579/26119 pages, 11.7 p/s, ETA 29 min
+  games-business-19990301-games-business: page 50/68  (41s)
+  games-business-19990215-games-business: page 50/70  (40s)
+  mcv-899: page 40/40  (18s)
+  mcv-899: 37 page(s) rendered instead of extracted
+  [95/436] mcv-899: 40 pages in 18s | 5619/26119 pages, 11.6 p/s, ETA 29 min
+  mcv-897: page 40/40  (19s)
+  mcv-897: 34 page(s) rendered instead of extracted
+  [96/436] mcv-897: 40 pages in 19s | 5659/26119 pages, 11.6 p/s, ETA 29 min
+  games-business-19990301-games-business: page 68/68  (54s)
+  [58/64] games-business-19990301-games-business: 68 pages in 54s | 2370/2786 pages, 4.8 p/s, ETA 1 min
+  mcv-898: page 40/40  (26s)
+  mcv-898: 37 page(s) rendered instead of extracted
+  [97/436] mcv-898: 40 pages in 26s | 5699/26119 pages, 11.5 p/s, ETA 30 min
+  games-business-19990215-games-business: page 70/70  (55s)
+  [59/64] games-business-19990215-games-business: 70 pages in 55s | 2440/2786 pages, 4.9 p/s, ETA 1 min
+  mcv-896: page 40/40  (22s)
+  mcv-896: 39 page(s) rendered instead of extracted
+  [98/436] mcv-896: 40 pages in 22s | 5739/26119 pages, 11.5 p/s, ETA 30 min
+  mcv-894: page 44/44  (15s)
+  mcv-894: 43 page(s) rendered instead of extracted
+  [99/436] mcv-894: 44 pages in 15s | 5783/26119 pages, 11.5 p/s, ETA 30 min
+  games-business-19990201-games-business: page 50/70  (41s)
+  mcv-895: page 44/44  (25s)
+  mcv-895: 40 page(s) rendered instead of extracted
+  [100/436] mcv-895: 44 pages in 25s | 5827/26119 pages, 11.4 p/s, ETA 30 min
+  mcv-892: page 50/52  (16s)
+  mcv-890: page 40/40  (12s)
+  mcv-890: 39 page(s) rendered instead of extracted
+  [101/436] mcv-890: 40 pages in 12s | 5867/26119 pages, 11.4 p/s, ETA 30 min
+  games-business-19990115-games-business: page 50/70  (39s)
+  mcv-893: page 44/44  (22s)
+  mcv-893: 44 page(s) rendered instead of extracted
+  [102/436] mcv-893: 44 pages in 22s | 5911/26119 pages, 11.4 p/s, ETA 29 min
+  mcv-892: page 52/52  (16s)
+  mcv-892: 50 page(s) rendered instead of extracted
+  [103/436] mcv-892: 52 pages in 17s | 5963/26119 pages, 11.5 p/s, ETA 29 min
+  games-business-19990201-games-business: page 70/70  (57s)
+  [60/64] games-business-19990201-games-business: 70 pages in 57s | 2510/2786 pages, 4.8 p/s, ETA 1 min
+  mcv-889: page 50/52  (17s)
+  mcv-889: page 52/52  (17s)
+  mcv-889: 51 page(s) rendered instead of extracted
+  [104/436] mcv-889: 52 pages in 17s | 6015/26119 pages, 11.4 p/s, ETA 29 min
+  mcv-20160819-gamescom-2016-day-three: page 50/52  (11s)
+  mcv-20160818-gamescom-2016-day-two: page 50/52  (11s)
+  mcv-20160819-gamescom-2016-day-three: page 52/52  (11s)
+  mcv-20160819-gamescom-2016-day-three: 38 page(s) rendered instead of extracted
+  [105/436] mcv-20160819-gamescom-2016-day-three: 52 pages in 11s | 6067/26119 pages, 11.5 p/s, ETA 29 min
+  mcv-20160817-gamescom-2016-day-one: page 50/52  (11s)
+  mcv-20160818-gamescom-2016-day-two: page 52/52  (11s)
+  mcv-20160818-gamescom-2016-day-two: 38 page(s) rendered instead of extracted
+  [106/436] mcv-20160818-gamescom-2016-day-two: 52 pages in 11s | 6119/26119 pages, 11.6 p/s, ETA 29 min
+  mcv-20160817-gamescom-2016-day-one: page 52/52  (12s)
+  mcv-20160817-gamescom-2016-day-one: 40 page(s) rendered instead of extracted
+  [107/436] mcv-20160817-gamescom-2016-day-one: 52 pages in 12s | 6171/26119 pages, 11.7 p/s, ETA 28 min
+  games-business-19990115-games-business: page 70/70  (55s)
+  [61/64] games-business-19990115-games-business: 70 pages in 55s | 2580/2786 pages, 4.8 p/s, ETA 1 min
+  games-business-19990101-games-business: page 50/70  (42s)
+  games-business-19981205-games-business: page 50/68  (41s)
+  mcv-885: page 44/44  (12s)
+  mcv-885: 39 page(s) rendered instead of extracted
+  [108/436] mcv-885: 44 pages in 12s | 6215/26119 pages, 11.5 p/s, ETA 29 min
+  mcv-888: page 50/68  (15s)
+  mcv-881: page 48/48  (14s)
+  mcv-881: 42 page(s) rendered instead of extracted
+  [109/436] mcv-881: 48 pages in 14s | 6263/26119 pages, 11.6 p/s, ETA 29 min
+  mcv-886: page 50/52  (16s)
+  mcv-886: page 52/52  (16s)
+  mcv-886: 51 page(s) rendered instead of extracted
+  [110/436] mcv-886: 52 pages in 16s | 6315/26119 pages, 11.6 p/s, ETA 28 min
+  mcv-888: page 68/68  (20s)
+  mcv-888: 65 page(s) rendered instead of extracted
+  [111/436] mcv-888: 68 pages in 20s | 6383/26119 pages, 11.7 p/s, ETA 28 min
+  games-business-19990101-games-business: page 70/70  (56s)
+  [62/64] games-business-19990101-games-business: 70 pages in 57s | 2650/2786 pages, 4.8 p/s, ETA 0 min
+  games-business-19981205-games-business: page 68/68  (55s)
+  [63/64] games-business-19981205-games-business: 68 pages in 55s | 2718/2786 pages, 4.9 p/s, ETA 0 min
+  mcv-880: page 44/44  (12s)
+  mcv-880: 38 page(s) rendered instead of extracted
+  [112/436] mcv-880: 44 pages in 12s | 6427/26119 pages, 11.6 p/s, ETA 28 min
+  mcv-879: page 40/40  (12s)
+  mcv-879: 38 page(s) rendered instead of extracted
+  [113/436] mcv-879: 40 pages in 12s | 6467/26119 pages, 11.7 p/s, ETA 28 min
+  mcv-878: page 40/40  (11s)
+  mcv-878: 39 page(s) rendered instead of extracted
+  [114/436] mcv-878: 40 pages in 11s | 6507/26119 pages, 11.7 p/s, ETA 28 min
+  mcv-877: page 44/44  (14s)
+  mcv-877: 42 page(s) rendered instead of extracted
+  [115/436] mcv-877: 44 pages in 14s | 6551/26119 pages, 11.7 p/s, ETA 28 min
+  games-business-1998-preview-issue: page 50/68  (40s)
+  mcv-874: page 44/44  (11s)
+  mcv-874: 42 page(s) rendered instead of extracted
+  [116/436] mcv-874: 44 pages in 12s | 6595/26119 pages, 11.7 p/s, ETA 28 min
+  mcv-876: page 48/48  (17s)
+  mcv-876: 46 page(s) rendered instead of extracted
+  [117/436] mcv-876: 48 pages in 17s | 6643/26119 pages, 11.7 p/s, ETA 28 min
+  mcv-875: page 44/44  (15s)
+  mcv-875: 44 page(s) rendered instead of extracted
+  [118/436] mcv-875: 44 pages in 15s | 6687/26119 pages, 11.7 p/s, ETA 28 min
+  mcv-873: page 44/44  (11s)
+  mcv-873: 36 page(s) rendered instead of extracted
+  [119/436] mcv-873: 44 pages in 11s | 6731/26119 pages, 11.8 p/s, ETA 27 min
+  games-business-1998-preview-issue: page 68/68  (52s)
+  [64/64] games-business-1998-preview-issue: 68 pages in 52s | 2786/2786 pages, 4.8 p/s, ETA 0 min
+all done in 10 min
+=== render games-business rc=0 in 9.6 min ===
+  mcv-872: page 44/44  (11s)
+  mcv-872: 40 page(s) rendered instead of extracted
+  [120/436] mcv-872: 44 pages in 11s | 6775/26119 pages, 11.7 p/s, ETA 27 min
+  mcv-871: page 44/44  (13s)
+  mcv-871: 43 page(s) rendered instead of extracted
+  [121/436] mcv-871: 44 pages in 13s | 6819/26119 pages, 11.7 p/s, ETA 27 min
+  mcv-868: page 44/44  (12s)
+  mcv-868: 41 page(s) rendered instead of extracted
+  [122/436] mcv-868: 44 pages in 12s | 6863/26119 pages, 11.8 p/s, ETA 27 min
+  mcv-867: page 44/44  (11s)
+  mcv-867: 43 page(s) rendered instead of extracted
+  [123/436] mcv-867: 44 pages in 11s | 6907/26119 pages, 11.7 p/s, ETA 27 min
+  mcv-870: page 44/44  (20s)
+  mcv-870: 44 page(s) rendered instead of extracted
+  [124/436] mcv-870: 44 pages in 20s | 6951/26119 pages, 11.8 p/s, ETA 27 min
+  mcv-866: page 40/40  (12s)
+  mcv-866: 39 page(s) rendered instead of extracted
+  [125/436] mcv-866: 40 pages in 12s | 6991/26119 pages, 11.8 p/s, ETA 27 min
+  mcv-865: page 44/44  (11s)
+  mcv-865: 42 page(s) rendered instead of extracted
+  [126/436] mcv-865: 44 pages in 11s | 7035/26119 pages, 11.8 p/s, ETA 27 min
+  mcv-864: page 40/40  (10s)
+  mcv-864: 37 page(s) rendered instead of extracted
+  [127/436] mcv-864: 40 pages in 10s | 7075/26119 pages, 11.8 p/s, ETA 27 min
+  mcv-863: page 44/44  (12s)
+  mcv-863: 41 page(s) rendered instead of extracted
+  [128/436] mcv-863: 44 pages in 12s | 7119/26119 pages, 11.8 p/s, ETA 27 min
+  mcv-860: page 48/48  (11s)
+  mcv-860: 46 page(s) rendered instead of extracted
+  [129/436] mcv-860: 48 pages in 11s | 7167/26119 pages, 11.8 p/s, ETA 27 min
+  mcv-861: page 44/44  (13s)
+  mcv-861: 43 page(s) rendered instead of extracted
+  [130/436] mcv-861: 44 pages in 13s | 7211/26119 pages, 11.9 p/s, ETA 27 min
+  mcv-859: page 40/40  (10s)
+  mcv-859: 40 page(s) rendered instead of extracted
+  [131/436] mcv-859: 40 pages in 10s | 7251/26119 pages, 11.9 p/s, ETA 26 min
+  mcv-858: page 40/40  (11s)
+  mcv-858: 40 page(s) rendered instead of extracted
+  [132/436] mcv-858: 40 pages in 11s | 7291/26119 pages, 11.9 p/s, ETA 26 min
+  mcv-857: page 44/44  (12s)
+  mcv-857: 44 page(s) rendered instead of extracted
+  [133/436] mcv-857: 44 pages in 12s | 7335/26119 pages, 11.9 p/s, ETA 26 min
+  mcv-855: page 48/48  (12s)
+  mcv-855: 46 page(s) rendered instead of extracted
+  [134/436] mcv-855: 48 pages in 12s | 7383/26119 pages, 11.9 p/s, ETA 26 min
+  mcv-856: page 48/48  (14s)
+  mcv-856: 47 page(s) rendered instead of extracted
+  [135/436] mcv-856: 48 pages in 14s | 7431/26119 pages, 12.0 p/s, ETA 26 min
+  mcv-854: page 50/52  (14s)
+  mcv-854: page 52/52  (15s)
+  mcv-854: 48 page(s) rendered instead of extracted
+  [136/436] mcv-854: 52 pages in 15s | 7483/26119 pages, 11.9 p/s, ETA 26 min
+  mcv-853: page 50/52  (12s)
+  mcv-853: page 52/52  (13s)
+  mcv-853: 49 page(s) rendered instead of extracted
+  [137/436] mcv-853: 52 pages in 13s | 7535/26119 pages, 11.9 p/s, ETA 26 min
+  mcv-852: page 48/48  (11s)
+  mcv-852: 44 page(s) rendered instead of extracted
+  [138/436] mcv-852: 48 pages in 11s | 7583/26119 pages, 12.0 p/s, ETA 26 min
+  mcv-851: page 44/44  (13s)
+  mcv-851: 43 page(s) rendered instead of extracted
+  [139/436] mcv-851: 44 pages in 13s | 7627/26119 pages, 12.0 p/s, ETA 26 min
+  mcv-850: page 44/44  (12s)
+  mcv-850: 42 page(s) rendered instead of extracted
+  [140/436] mcv-850: 44 pages in 12s | 7671/26119 pages, 12.0 p/s, ETA 26 min
+  mcv-849: page 48/48  (12s)
+  mcv-849: 45 page(s) rendered instead of extracted
+  [141/436] mcv-849: 48 pages in 12s | 7719/26119 pages, 12.0 p/s, ETA 26 min
+  mcv-848: page 45/45  (12s)
+  mcv-848: 45 page(s) rendered instead of extracted
+  [142/436] mcv-848: 45 pages in 12s | 7764/26119 pages, 12.1 p/s, ETA 25 min
+  mcv-847: page 40/40  (11s)
+  mcv-847: 39 page(s) rendered instead of extracted
+  [143/436] mcv-847: 40 pages in 12s | 7804/26119 pages, 12.1 p/s, ETA 25 min
+  mcv-846: page 44/44  (13s)
+  mcv-846: 43 page(s) rendered instead of extracted
+  [144/436] mcv-846: 44 pages in 13s | 7848/26119 pages, 12.0 p/s, ETA 25 min
+  mcv-844: page 40/40  (10s)
+  mcv-844: 38 page(s) rendered instead of extracted
+  [145/436] mcv-844: 40 pages in 10s | 7888/26119 pages, 12.1 p/s, ETA 25 min
+  mcv-845: page 48/48  (12s)
+  mcv-845: 47 page(s) rendered instead of extracted
+  [146/436] mcv-845: 48 pages in 12s | 7936/26119 pages, 12.1 p/s, ETA 25 min
+  mcv-843: page 40/40  (11s)
+  mcv-843: 37 page(s) rendered instead of extracted
+  [147/436] mcv-843: 40 pages in 11s | 7976/26119 pages, 12.2 p/s, ETA 25 min
+  mcv-20150807-gamescom-2015-day-three: page 50/52  (10s)
+  mcv-20150807-gamescom-2015-day-three: page 52/52  (10s)
+  mcv-20150807-gamescom-2015-day-three: 42 page(s) rendered instead of extracted
+  [148/436] mcv-20150807-gamescom-2015-day-three: 52 pages in 10s | 8028/26119 pages, 12.1 p/s, ETA 25 min
+  mcv-20150806-gamescom-2015-day-two: page 50/52  (9s)
+  mcv-20150806-gamescom-2015-day-two: page 52/52  (10s)
+  mcv-20150806-gamescom-2015-day-two: 41 page(s) rendered instead of extracted
+  [149/436] mcv-20150806-gamescom-2015-day-two: 52 pages in 10s | 8080/26119 pages, 12.2 p/s, ETA 25 min
+  mcv-842: page 50/51  (13s)
+  mcv-842: page 51/51  (14s)
+  mcv-842: 50 page(s) rendered instead of extracted
+  [150/436] mcv-842: 51 pages in 14s | 8131/26119 pages, 12.2 p/s, ETA 25 min
+  mcv-20150805-gamescom-2015-day-one: page 50/52  (11s)
+  mcv-20150805-gamescom-2015-day-one: page 52/52  (11s)
+  mcv-20150805-gamescom-2015-day-one: 42 page(s) rendered instead of extracted
+  [151/436] mcv-20150805-gamescom-2015-day-one: 52 pages in 11s | 8183/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-841: page 40/40  (10s)
+  mcv-841: 39 page(s) rendered instead of extracted
+  [152/436] mcv-841: 40 pages in 10s | 8223/26119 pages, 12.2 p/s, ETA 24 min
+  mcv-840: page 48/48  (11s)
+  mcv-840: 43 page(s) rendered instead of extracted
+  [153/436] mcv-840: 48 pages in 11s | 8271/26119 pages, 12.2 p/s, ETA 24 min
+  mcv-839: page 40/40  (11s)
+  mcv-839: 38 page(s) rendered instead of extracted
+  [154/436] mcv-839: 40 pages in 12s | 8311/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-838: page 48/48  (13s)
+  mcv-838: 43 page(s) rendered instead of extracted
+  [155/436] mcv-838: 48 pages in 13s | 8359/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-837: page 50/52  (12s)
+  mcv-837: page 52/52  (13s)
+  mcv-837: 46 page(s) rendered instead of extracted
+  [156/436] mcv-837: 52 pages in 13s | 8411/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-836: page 40/40  (10s)
+  mcv-836: 38 page(s) rendered instead of extracted
+  [157/436] mcv-836: 40 pages in 10s | 8451/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-835: page 50/52  (14s)
+  mcv-835: page 52/52  (15s)
+  mcv-835: 49 page(s) rendered instead of extracted
+  [158/436] mcv-835: 52 pages in 15s | 8503/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-834: page 44/44  (12s)
+  mcv-834: 42 page(s) rendered instead of extracted
+  [159/436] mcv-834: 44 pages in 12s | 8547/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-833: page 50/52  (12s)
+  mcv-832: page 50/52  (11s)
+  mcv-832: page 52/52  (12s)
+  mcv-832: 47 page(s) rendered instead of extracted
+  [160/436] mcv-832: 52 pages in 12s | 8599/26119 pages, 12.3 p/s, ETA 24 min
+  mcv-833: page 52/52  (12s)
+  mcv-833: 46 page(s) rendered instead of extracted
+  [161/436] mcv-833: 52 pages in 12s | 8651/26119 pages, 12.4 p/s, ETA 23 min
+  mcv-831: page 40/40  (11s)
+  mcv-831: 36 page(s) rendered instead of extracted
+  [162/436] mcv-831: 40 pages in 11s | 8691/26119 pages, 12.4 p/s, ETA 23 min
+  mcv-830: page 40/40  (11s)
+  mcv-830: 36 page(s) rendered instead of extracted
+  [163/436] mcv-830: 40 pages in 11s | 8731/26119 pages, 12.4 p/s, ETA 23 min
+  mcv-829: page 40/40  (10s)
+  mcv-829: 39 page(s) rendered instead of extracted
+  [164/436] mcv-829: 40 pages in 10s | 8771/26119 pages, 12.4 p/s, ETA 23 min
+  mcv-828: page 50/52  (11s)
+  mcv-828: page 52/52  (12s)
+  mcv-828: 47 page(s) rendered instead of extracted
+  [165/436] mcv-828: 52 pages in 12s | 8823/26119 pages, 12.4 p/s, ETA 23 min
+  mcv-826: page 40/40  (11s)
+  mcv-826: 39 page(s) rendered instead of extracted
+  [166/436] mcv-826: 40 pages in 11s | 8863/26119 pages, 12.4 p/s, ETA 23 min
+  mcv-827: page 50/52  (14s)
+  mcv-827: page 52/52  (14s)
+  mcv-827: 46 page(s) rendered instead of extracted
+  [167/436] mcv-827: 52 pages in 14s | 8915/26119 pages, 12.4 p/s, ETA 23 min
+  mcv-825: page 40/40  (10s)
+  mcv-825: 36 page(s) rendered instead of extracted
+  [168/436] mcv-825: 40 pages in 10s | 8955/26119 pages, 12.5 p/s, ETA 23 min
+  mcv-823: page 44/44  (10s)
+  mcv-823: 38 page(s) rendered instead of extracted
+  [169/436] mcv-823: 44 pages in 10s | 8999/26119 pages, 12.5 p/s, ETA 23 min
+  mcv-820: page 32/32  (7s)
+  mcv-820: 31 page(s) rendered instead of extracted
+  [170/436] mcv-820: 32 pages in 8s | 9031/26119 pages, 12.5 p/s, ETA 23 min
+  mcv-822: page 44/44  (11s)
+  mcv-822: 38 page(s) rendered instead of extracted
+  [171/436] mcv-822: 44 pages in 11s | 9075/26119 pages, 12.5 p/s, ETA 23 min
+  mcv-821: page 40/40  (10s)
+  mcv-821: 36 page(s) rendered instead of extracted
+  [172/436] mcv-821: 40 pages in 10s | 9115/26119 pages, 12.5 p/s, ETA 23 min
+  mcv-819: page 50/52  (11s)
+  mcv-819: page 52/52  (12s)
+  mcv-819: 46 page(s) rendered instead of extracted
+  [173/436] mcv-819: 52 pages in 12s | 9167/26119 pages, 12.5 p/s, ETA 23 min
+  mcv-818: page 48/48  (11s)
+  mcv-818: 45 page(s) rendered instead of extracted
+  [174/436] mcv-818: 48 pages in 11s | 9215/26119 pages, 12.5 p/s, ETA 22 min
+  mcv-817: page 50/68  (12s)
+  mcv-816: page 50/53  (13s)
+  mcv-816: page 53/53  (14s)
+  mcv-816: 46 page(s) rendered instead of extracted
+  [175/436] mcv-816: 53 pages in 14s | 9268/26119 pages, 12.5 p/s, ETA 22 min
+  mcv-815: page 50/55  (12s)
+  mcv-817: page 68/68  (17s)
+  mcv-817: 58 page(s) rendered instead of extracted
+  [176/436] mcv-817: 68 pages in 17s | 9336/26119 pages, 12.6 p/s, ETA 22 min
+  mcv-815: page 55/55  (14s)
+  mcv-815: 53 page(s) rendered instead of extracted
+  [177/436] mcv-815: 55 pages in 14s | 9391/26119 pages, 12.6 p/s, ETA 22 min
+  mcv-814: page 48/48  (12s)
+  mcv-814: 44 page(s) rendered instead of extracted
+  [178/436] mcv-814: 48 pages in 12s | 9439/26119 pages, 12.6 p/s, ETA 22 min
+  mcv-813: page 50/60  (14s)
+  mcv-812: page 44/44  (12s)
+  mcv-812: 42 page(s) rendered instead of extracted
+  [179/436] mcv-812: 44 pages in 12s | 9483/26119 pages, 12.6 p/s, ETA 22 min
+  mcv-811: page 44/44  (11s)
+  mcv-811: 42 page(s) rendered instead of extracted
+  [180/436] mcv-811: 44 pages in 11s | 9527/26119 pages, 12.6 p/s, ETA 22 min
+  mcv-813: page 60/60  (16s)
+  mcv-813: 57 page(s) rendered instead of extracted
+  [181/436] mcv-813: 60 pages in 16s | 9587/26119 pages, 12.7 p/s, ETA 22 min
+  mcv-810: page 50/64  (11s)
+  mcv-810: page 64/64  (15s)
+  mcv-810: 57 page(s) rendered instead of extracted
+  [182/436] mcv-810: 64 pages in 15s | 9651/26119 pages, 12.7 p/s, ETA 22 min
+  mcv-808: page 50/56  (12s)
+  mcv-809: page 44/44  (13s)
+  mcv-809: 43 page(s) rendered instead of extracted
+  [183/436] mcv-809: 44 pages in 13s | 9695/26119 pages, 12.6 p/s, ETA 22 min
+  mcv-808: page 56/56  (14s)
+  mcv-808: 53 page(s) rendered instead of extracted
+  [184/436] mcv-808: 56 pages in 14s | 9751/26119 pages, 12.7 p/s, ETA 22 min
+  mcv-807: page 48/48  (12s)
+  mcv-807: 41 page(s) rendered instead of extracted
+  [185/436] mcv-807: 48 pages in 12s | 9799/26119 pages, 12.7 p/s, ETA 21 min
+  mcv-806: page 40/40  (9s)
+  mcv-806: 37 page(s) rendered instead of extracted
+  [186/436] mcv-806: 40 pages in 9s | 9839/26119 pages, 12.8 p/s, ETA 21 min
+  mcv-805: page 44/44  (11s)
+  mcv-805: 38 page(s) rendered instead of extracted
+  [187/436] mcv-805: 44 pages in 11s | 9883/26119 pages, 12.7 p/s, ETA 21 min
+  mcv-804: page 50/60  (11s)
+  mcv-804: page 60/60  (13s)
+  mcv-804: 51 page(s) rendered instead of extracted
+  [188/436] mcv-804: 60 pages in 13s | 9943/26119 pages, 12.7 p/s, ETA 21 min
+  mcv-754: page 50/92  (11s)
+  mcv-757: page 50/64  (13s)
+  mcv-757: page 64/64  (17s)
+  mcv-757: 57 page(s) rendered instead of extracted
+  [189/436] mcv-757: 64 pages in 17s | 10007/26119 pages, 12.7 p/s, ETA 21 min
+  mcv-754: page 92/92  (21s)
+  mcv-754: 80 page(s) rendered instead of extracted
+  [190/436] mcv-754: 92 pages in 21s | 10099/26119 pages, 12.7 p/s, ETA 21 min
+  mcv-753: page 50/60  (15s)
+  mcv-752: page 50/56  (13s)
+  mcv-752: page 56/56  (14s)
+  mcv-752: 54 page(s) rendered instead of extracted
+  [191/436] mcv-752: 56 pages in 14s | 10155/26119 pages, 12.8 p/s, ETA 21 min
+  mcv-753: page 60/60  (18s)
+  mcv-753: 58 page(s) rendered instead of extracted
+  [192/436] mcv-753: 60 pages in 18s | 10215/26119 pages, 12.8 p/s, ETA 21 min
+  mcv-751: page 50/96  (15s)
+  mcv-749: page 50/53  (12s)
+  mcv-749: page 53/53  (12s)
+  mcv-749: 51 page(s) rendered instead of extracted
+  [193/436] mcv-749: 53 pages in 13s | 10268/26119 pages, 12.8 p/s, ETA 21 min
+  mcv-748: page 50/52  (12s)
+  mcv-748: page 52/52  (13s)
+  mcv-748: 49 page(s) rendered instead of extracted
+  [194/436] mcv-748: 52 pages in 13s | 10320/26119 pages, 12.8 p/s, ETA 21 min
+  mcv-20130705-2013-games-retail-guide: page 4/4  (1s)
+  mcv-20130705-2013-games-retail-guide: 4 page(s) rendered instead of extracted
+  [195/436] mcv-20130705-2013-games-retail-guide: 4 pages in 1s | 10324/26119 pages, 12.7 p/s, ETA 21 min
+  mcv-747: page 50/52  (15s)
+  mcv-747: page 52/52  (16s)
+  mcv-747: 51 page(s) rendered instead of extracted
+  [196/436] mcv-747: 52 pages in 16s | 10376/26119 pages, 12.8 p/s, ETA 21 min
+  mcv-751: page 96/96  (27s)
+  mcv-751: 83 page(s) rendered instead of extracted
+  [197/436] mcv-751: 96 pages in 27s | 10472/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-746: page 50/56  (11s)
+  mcv-746: page 56/56  (13s)
+  mcv-746: 52 page(s) rendered instead of extracted
+  [198/436] mcv-746: 56 pages in 13s | 10528/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-744: page 48/48  (11s)
+  mcv-744: 43 page(s) rendered instead of extracted
+  [199/436] mcv-744: 48 pages in 11s | 10576/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-743: page 50/52  (14s)
+  mcv-742: page 50/52  (13s)
+  mcv-743: page 52/52  (14s)
+  mcv-743: 49 page(s) rendered instead of extracted
+  [200/436] mcv-743: 52 pages in 14s | 10628/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-742: page 52/52  (14s)
+  mcv-742: 49 page(s) rendered instead of extracted
+  [201/436] mcv-742: 52 pages in 14s | 10680/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-741: page 50/88  (11s)
+  mcv-740: page 50/52  (12s)
+  mcv-740: page 52/52  (12s)
+  mcv-740: 46 page(s) rendered instead of extracted
+  [202/436] mcv-740: 52 pages in 12s | 10732/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-741: page 88/88  (20s)
+  mcv-741: 78 page(s) rendered instead of extracted
+  [203/436] mcv-741: 88 pages in 20s | 10820/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-739: page 50/55  (14s)
+  mcv-738: page 50/52  (14s)
+  mcv-738: page 52/52  (15s)
+  mcv-738: 50 page(s) rendered instead of extracted
+  mcv-739: page 55/55  (15s)
+  [204/436] mcv-738: 52 pages in 15s | 10872/26119 pages, 12.9 p/s, ETA 20 min
+  mcv-739: 51 page(s) rendered instead of extracted
+  [205/436] mcv-739: 55 pages in 15s | 10927/26119 pages, 13.0 p/s, ETA 20 min
+  mcv-737: page 50/52  (12s)
+  mcv-737: page 52/52  (12s)
+  mcv-737: 51 page(s) rendered instead of extracted
+  [206/436] mcv-737: 52 pages in 12s | 10979/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-736: page 50/52  (12s)
+  mcv-736: page 52/52  (12s)
+  mcv-736: 51 page(s) rendered instead of extracted
+  [207/436] mcv-736: 52 pages in 12s | 11031/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-734: page 48/48  (12s)
+  mcv-734: 42 page(s) rendered instead of extracted
+  [208/436] mcv-734: 48 pages in 12s | 11079/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-733: page 50/56  (11s)
+  mcv-733: page 56/56  (13s)
+  mcv-733: 50 page(s) rendered instead of extracted
+  [209/436] mcv-733: 56 pages in 13s | 11135/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-732: page 50/60  (11s)
+  mcv-732: page 60/60  (14s)
+  mcv-732: 56 page(s) rendered instead of extracted
+  [210/436] mcv-732: 60 pages in 14s | 11195/26119 pages, 12.9 p/s, ETA 19 min
+  mcv-731: page 50/52  (13s)
+  mcv-730: page 50/68  (11s)
+  mcv-731: page 52/52  (14s)
+  mcv-731: 50 page(s) rendered instead of extracted
+  [211/436] mcv-731: 52 pages in 14s | 11247/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-730: page 68/68  (15s)
+  mcv-730: 59 page(s) rendered instead of extracted
+  [212/436] mcv-730: 68 pages in 15s | 11315/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-729: page 50/60  (11s)
+  mcv-735: page 50/56  (35s)
+  mcv-729: page 60/60  (14s)
+  mcv-729: 55 page(s) rendered instead of extracted
+  [213/436] mcv-729: 60 pages in 14s | 11375/26119 pages, 12.9 p/s, ETA 19 min
+  mcv-728: page 50/60  (12s)
+  mcv-735: page 56/56  (39s)
+  mcv-735: 53 page(s) rendered instead of extracted
+  [214/436] mcv-735: 56 pages in 40s | 11431/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-727: page 50/60  (11s)
+  mcv-728: page 60/60  (16s)
+  mcv-728: 51 page(s) rendered instead of extracted
+  [215/436] mcv-728: 60 pages in 16s | 11491/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-727: page 60/60  (14s)
+  mcv-727: 53 page(s) rendered instead of extracted
+  [216/436] mcv-727: 60 pages in 14s | 11551/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-726: page 50/68  (12s)
+  mcv-726: page 68/68  (16s)
+  mcv-726: 60 page(s) rendered instead of extracted
+  [217/436] mcv-726: 68 pages in 16s | 11619/26119 pages, 13.0 p/s, ETA 19 min
+  mcv-725: page 50/52  (13s)
+  mcv-724: page 48/48  (12s)
+  mcv-724: 43 page(s) rendered instead of extracted
+  [218/436] mcv-724: 48 pages in 12s | 11667/26119 pages, 13.0 p/s, ETA 18 min
+  mcv-725: page 52/52  (14s)
+  mcv-725: 46 page(s) rendered instead of extracted
+  [219/436] mcv-725: 52 pages in 14s | 11719/26119 pages, 13.1 p/s, ETA 18 min
+  mcv-723: page 50/52  (12s)
+  mcv-723: page 52/52  (12s)
+  mcv-723: 46 page(s) rendered instead of extracted
+  [220/436] mcv-723: 52 pages in 12s | 11771/26119 pages, 13.1 p/s, ETA 18 min
+  mcv-722: page 50/52  (11s)
+  mcv-722: page 52/52  (12s)
+  mcv-722: 44 page(s) rendered instead of extracted
+  [221/436] mcv-722: 52 pages in 12s | 11823/26119 pages, 13.0 p/s, ETA 18 min
+  mcv-721: page 50/52  (13s)
+  mcv-719: page 50/52  (11s)
+  mcv-721: page 52/52  (14s)
+  mcv-721: 50 page(s) rendered instead of extracted
+  [222/436] mcv-721: 52 pages in 14s | 11875/26119 pages, 13.1 p/s, ETA 18 min
+  mcv-719: page 52/52  (12s)
+  mcv-719: 49 page(s) rendered instead of extracted
+  [223/436] mcv-719: 52 pages in 12s | 11927/26119 pages, 13.1 p/s, ETA 18 min
+  mcv-718: page 50/56  (12s)
+  mcv-718: page 56/56  (13s)
+  mcv-718: 51 page(s) rendered instead of extracted
+  [224/436] mcv-718: 56 pages in 13s | 11983/26119 pages, 13.0 p/s, ETA 18 min
+  mcv-717: page 50/56  (11s)
+  mcv-717: page 56/56  (13s)
+  mcv-717: 53 page(s) rendered instead of extracted
+  [225/436] mcv-717: 56 pages in 13s | 12039/26119 pages, 13.0 p/s, ETA 18 min
+  mcv-20121214-around-the-world-with-mcv-2012: page 50/58  (17s)
+  mcv-720: page 50/52  (32s)
+  mcv-20121214-around-the-world-with-mcv-2012: page 58/58  (19s)
+  mcv-20121214-around-the-world-with-mcv-2012: 53 page(s) rendered instead of extracted
+  [226/436] mcv-20121214-around-the-world-with-mcv-2012: 58 pages in 20s | 12097/26119 pages, 13.0 p/s, ETA 18 min
+  mcv-720: page 52/52  (34s)
+  mcv-720: 48 page(s) rendered instead of extracted
+  [227/436] mcv-720: 52 pages in 34s | 12149/26119 pages, 13.1 p/s, ETA 18 min
+  mcv-716: page 50/60  (12s)
+  mcv-716: page 60/60  (15s)
+  mcv-716: 57 page(s) rendered instead of extracted
+  [228/436] mcv-716: 60 pages in 15s | 12209/26119 pages, 13.1 p/s, ETA 18 min
+  mcv-715: page 50/56  (12s)
+  mcv-715: page 56/56  (14s)
+  mcv-715: 54 page(s) rendered instead of extracted
+  [229/436] mcv-715: 56 pages in 14s | 12265/26119 pages, 13.1 p/s, ETA 18 min
+  mcv-713: page 50/96  (13s)
+  mcv-714: page 50/80  (15s)
+  mcv-712: page 50/72  (11s)
+  mcv-711: page 50/88  (12s)
+  mcv-712: page 72/72  (16s)
+  mcv-712: 59 page(s) rendered instead of extracted
+  [230/436] mcv-712: 72 pages in 16s | 12337/26119 pages, 13.0 p/s, ETA 18 min
+  mcv-714: page 80/80  (23s)
+  mcv-714: 73 page(s) rendered instead of extracted
+  [231/436] mcv-714: 80 pages in 23s | 12417/26119 pages, 13.0 p/s, ETA 18 min
+  mcv-713: page 96/96  (25s)
+  mcv-713: 82 page(s) rendered instead of extracted
+  [232/436] mcv-713: 96 pages in 25s | 12513/26119 pages, 13.1 p/s, ETA 17 min
+  mcv-711: page 88/88  (21s)
+  mcv-711: 74 page(s) rendered instead of extracted
+  [233/436] mcv-711: 88 pages in 21s | 12601/26119 pages, 13.2 p/s, ETA 17 min
+  mcv-710: page 50/80  (11s)
+  mcv-709: page 50/72  (14s)
+  mcv-708: page 50/88  (14s)
+  mcv-710: page 80/80  (19s)
+  mcv-710: 71 page(s) rendered instead of extracted
+  [234/436] mcv-710: 80 pages in 19s | 12681/26119 pages, 13.1 p/s, ETA 17 min
+  mcv-707: page 50/72  (12s)
+  mcv-709: page 72/72  (20s)
+  mcv-709: 66 page(s) rendered instead of extracted
+  [235/436] mcv-709: 72 pages in 20s | 12753/26119 pages, 13.1 p/s, ETA 17 min
+  mcv-707: page 72/72  (17s)
+  mcv-707: 67 page(s) rendered instead of extracted
+  [236/436] mcv-707: 72 pages in 17s | 12825/26119 pages, 13.2 p/s, ETA 17 min
+  mcv-708: page 88/88  (24s)
+  mcv-708: 78 page(s) rendered instead of extracted
+  [237/436] mcv-708: 88 pages in 24s | 12913/26119 pages, 13.2 p/s, ETA 17 min
+  mcv-706: page 50/88  (11s)
+  mcv-705: page 50/72  (12s)
+  mcv-704: page 50/112  (13s)
+  mcv-706: page 88/88  (19s)
+  mcv-706: 74 page(s) rendered instead of extracted
+  [238/436] mcv-706: 88 pages in 19s | 13001/26119 pages, 13.1 p/s, ETA 17 min
+  mcv-705: page 72/72  (18s)
+  mcv-705: 62 page(s) rendered instead of extracted
+  [239/436] mcv-705: 72 pages in 18s | 13073/26119 pages, 13.2 p/s, ETA 16 min
+  mcv-703: page 50/64  (14s)
+  mcv-703: page 64/64  (18s)
+  mcv-703: 58 page(s) rendered instead of extracted
+  [240/436] mcv-703: 64 pages in 18s | 13137/26119 pages, 13.2 p/s, ETA 16 min
+  mcv-704: page 100/112  (24s)
+  mcv-702: page 50/60  (11s)
+  mcv-702: page 60/60  (14s)
+  mcv-702: 52 page(s) rendered instead of extracted
+  [241/436] mcv-702: 60 pages in 14s | 13197/26119 pages, 13.2 p/s, ETA 16 min
+  mcv-701: page 50/60  (12s)
+  mcv-704: page 112/112  (28s)
+  mcv-704: 102 page(s) rendered instead of extracted
+  [242/436] mcv-704: 112 pages in 28s | 13309/26119 pages, 13.3 p/s, ETA 16 min
+  mcv-701: page 60/60  (15s)
+  mcv-701: 47 page(s) rendered instead of extracted
+  [243/436] mcv-701: 60 pages in 15s | 13369/26119 pages, 13.3 p/s, ETA 16 min
+  mcv-700: page 50/88  (12s)
+  mcv-699: page 50/60  (10s)
+  mcv-698: page 50/60  (11s)
+  mcv-699: page 60/60  (13s)
+  mcv-699: 49 page(s) rendered instead of extracted
+  [244/436] mcv-699: 60 pages in 13s | 13429/26119 pages, 13.2 p/s, ETA 16 min
+  mcv-698: page 60/60  (14s)
+  mcv-698: 53 page(s) rendered instead of extracted
+  [245/436] mcv-698: 60 pages in 14s | 13489/26119 pages, 13.3 p/s, ETA 16 min
+  mcv-697: page 50/60  (12s)
+  mcv-700: page 88/88  (21s)
+  mcv-700: 71 page(s) rendered instead of extracted
+  [246/436] mcv-700: 88 pages in 21s | 13577/26119 pages, 13.3 p/s, ETA 16 min
+  mcv-697: page 60/60  (14s)
+  mcv-697: 51 page(s) rendered instead of extracted
+  [247/436] mcv-697: 60 pages in 14s | 13637/26119 pages, 13.4 p/s, ETA 16 min
+  mcv-20120706-2012-games-retail-guide: page 4/4  (2s)
+  mcv-20120706-2012-games-retail-guide: 4 page(s) rendered instead of extracted
+  [248/436] mcv-20120706-2012-games-retail-guide: 4 pages in 2s | 13641/26119 pages, 13.4 p/s, ETA 16 min
+  mcv-696: page 48/48  (12s)
+  mcv-696: 46 page(s) rendered instead of extracted
+  [249/436] mcv-696: 48 pages in 12s | 13689/26119 pages, 13.3 p/s, ETA 16 min
+  mcv-695: page 50/56  (11s)
+  mcv-695: page 56/56  (12s)
+  mcv-695: 49 page(s) rendered instead of extracted
+  [250/436] mcv-695: 56 pages in 12s | 13745/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-694: page 50/68  (14s)
+  mcv-693: page 50/60  (14s)
+  mcv-693: page 60/60  (16s)
+  mcv-693: 54 page(s) rendered instead of extracted
+  [251/436] mcv-693: 60 pages in 16s | 13805/26119 pages, 13.3 p/s, ETA 15 min
+  mcv-692: page 50/56  (12s)
+  mcv-694: page 68/68  (20s)
+  mcv-694: 62 page(s) rendered instead of extracted
+  [252/436] mcv-694: 68 pages in 20s | 13873/26119 pages, 13.3 p/s, ETA 15 min
+  mcv-692: page 56/56  (13s)
+  mcv-692: 53 page(s) rendered instead of extracted
+  [253/436] mcv-692: 56 pages in 13s | 13929/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-691: page 50/52  (11s)
+  mcv-691: page 52/52  (12s)
+  mcv-691: 45 page(s) rendered instead of extracted
+  [254/436] mcv-691: 52 pages in 12s | 13981/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-690: page 50/104  (12s)
+  mcv-687: page 50/60  (12s)
+  mcv-689: page 50/60  (13s)
+  mcv-686: page 50/60  (12s)
+  mcv-687: page 60/60  (14s)
+  mcv-687: 56 page(s) rendered instead of extracted
+  [255/436] mcv-687: 60 pages in 14s | 14041/26119 pages, 13.3 p/s, ETA 15 min
+  mcv-686: page 60/60  (14s)
+  mcv-686: 60 page(s) rendered instead of extracted
+  [256/436] mcv-686: 60 pages in 14s | 14101/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-689: page 60/60  (16s)
+  mcv-689: 53 page(s) rendered instead of extracted
+  [257/436] mcv-689: 60 pages in 16s | 14161/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-690: page 100/104  (24s)
+  mcv-690: page 104/104  (25s)
+  mcv-690: 83 page(s) rendered instead of extracted
+  [258/436] mcv-690: 104 pages in 25s | 14265/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-685: page 50/76  (11s)
+  mcv-684: page 50/68  (11s)
+  mcv-683: page 50/60  (12s)
+  mcv-683: page 60/60  (14s)
+  mcv-683: 51 page(s) rendered instead of extracted
+  [259/436] mcv-683: 60 pages in 14s | 14325/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-684: page 68/68  (15s)
+  mcv-684: 59 page(s) rendered instead of extracted
+  [260/436] mcv-684: 68 pages in 15s | 14393/26119 pages, 13.4 p/s, ETA 15 min
+  mcv-685: page 76/76  (18s)
+  mcv-685: 70 page(s) rendered instead of extracted
+  [261/436] mcv-685: 76 pages in 18s | 14469/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-680: page 50/60  (11s)
+  mcv-679: page 50/68  (10s)
+  mcv-681: page 50/76  (12s)
+  mcv-680: page 60/60  (13s)
+  mcv-680: 56 page(s) rendered instead of extracted
+  [262/436] mcv-680: 60 pages in 13s | 14529/26119 pages, 13.4 p/s, ETA 14 min
+  mcv-679: page 68/68  (14s)
+  mcv-679: 53 page(s) rendered instead of extracted
+  [263/436] mcv-679: 68 pages in 14s | 14597/26119 pages, 13.4 p/s, ETA 14 min
+  mcv-681: page 76/76  (19s)
+  mcv-681: 64 page(s) rendered instead of extracted
+  [264/436] mcv-681: 76 pages in 19s | 14673/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-682: page 50/60  (32s)
+  mcv-678: page 50/60  (11s)
+  mcv-677: page 50/68  (10s)
+  mcv-678: page 60/60  (13s)
+  mcv-678: 51 page(s) rendered instead of extracted
+  [265/436] mcv-678: 60 pages in 13s | 14733/26119 pages, 13.4 p/s, ETA 14 min
+  mcv-682: page 60/60  (37s)
+  mcv-682: 52 page(s) rendered instead of extracted
+  [266/436] mcv-682: 60 pages in 37s | 14793/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-677: page 68/68  (15s)
+  mcv-677: 58 page(s) rendered instead of extracted
+  [267/436] mcv-677: 68 pages in 15s | 14861/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-676: page 50/68  (13s)
+  mcv-676: page 68/68  (18s)
+  mcv-676: 64 page(s) rendered instead of extracted
+  [268/436] mcv-676: 68 pages in 18s | 14929/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-675: page 50/60  (11s)
+  mcv-675: page 60/60  (14s)
+  mcv-675: 53 page(s) rendered instead of extracted
+  [269/436] mcv-675: 60 pages in 14s | 14989/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-673: page 50/80  (11s)
+  mcv-674: page 48/48  (13s)
+  mcv-674: 46 page(s) rendered instead of extracted
+  [270/436] mcv-674: 48 pages in 13s | 15037/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-20120203-playstation-vita-launch-special: page 22/22  (6s)
+  mcv-20120203-playstation-vita-launch-special: 17 page(s) rendered instead of extracted
+  [271/436] mcv-20120203-playstation-vita-launch-special: 22 pages in 6s | 15059/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-673: page 80/80  (17s)
+  mcv-673: 68 page(s) rendered instead of extracted
+  [272/436] mcv-673: 80 pages in 17s | 15139/26119 pages, 13.5 p/s, ETA 14 min
+  mcv-672: page 50/52  (12s)
+  mcv-672: page 52/52  (12s)
+  mcv-672: 48 page(s) rendered instead of extracted
+  [273/436] mcv-672: 52 pages in 12s | 15191/26119 pages, 13.5 p/s, ETA 13 min
+  mcv-671: page 50/60  (14s)
+  mcv-670: page 50/68  (14s)
+  mcv-671: page 60/60  (17s)
+  mcv-671: 57 page(s) rendered instead of extracted
+  [274/436] mcv-671: 60 pages in 17s | 15251/26119 pages, 13.5 p/s, ETA 13 min
+  mcv-669: page 50/52  (11s)
+  mcv-669: page 52/52  (12s)
+  mcv-669: 50 page(s) rendered instead of extracted
+  [275/436] mcv-669: 52 pages in 12s | 15303/26119 pages, 13.5 p/s, ETA 13 min
+  mcv-670: page 68/68  (19s)
+  mcv-670: 67 page(s) rendered instead of extracted
+  [276/436] mcv-670: 68 pages in 19s | 15371/26119 pages, 13.6 p/s, ETA 13 min
+  mcv-668: page 50/52  (11s)
+  mcv-668: page 52/52  (11s)
+  mcv-668: 46 page(s) rendered instead of extracted
+  [277/436] mcv-668: 52 pages in 11s | 15423/26119 pages, 13.6 p/s, ETA 13 min
+  mcv-666: page 50/60  (10s)
+  mcv-667: page 50/52  (13s)
+  mcv-667: page 52/52  (13s)
+  mcv-667: 48 page(s) rendered instead of extracted
+  [278/436] mcv-667: 52 pages in 13s | 15475/26119 pages, 13.5 p/s, ETA 13 min
+  mcv-666: page 60/60  (13s)
+  mcv-666: 52 page(s) rendered instead of extracted
+  [279/436] mcv-666: 60 pages in 13s | 15535/26119 pages, 13.6 p/s, ETA 13 min
+  mcv-664: page 50/64  (12s)
+  mcv-664: page 64/64  (16s)
+  mcv-664: 59 page(s) rendered instead of extracted
+  [280/436] mcv-664: 64 pages in 16s | 15599/26119 pages, 13.6 p/s, ETA 13 min
+  mcv-662: page 50/112  (12s)
+  mcv-663: page 50/84  (15s)
+  mcv-665: page 50/57  (28s)
+  mcv-665: page 57/57  (30s)
+  mcv-665: 52 page(s) rendered instead of extracted
+  [281/436] mcv-665: 57 pages in 30s | 15656/26119 pages, 13.5 p/s, ETA 13 min
+  mcv-661: page 50/80  (14s)
+  mcv-663: page 84/84  (25s)
+  mcv-663: 74 page(s) rendered instead of extracted
+  [282/436] mcv-663: 84 pages in 25s | 15740/26119 pages, 13.5 p/s, ETA 13 min
+  mcv-662: page 100/112  (25s)
+  mcv-662: page 112/112  (28s)
+  mcv-662: 96 page(s) rendered instead of extracted
+  [283/436] mcv-662: 112 pages in 28s | 15852/26119 pages, 13.5 p/s, ETA 13 min
+  mcv-661: page 80/80  (22s)
+  mcv-661: 76 page(s) rendered instead of extracted
+  [284/436] mcv-661: 80 pages in 22s | 15932/26119 pages, 13.6 p/s, ETA 12 min
+  mcv-660: page 50/88  (15s)
+  mcv-659: page 50/80  (14s)
+  mcv-658: page 50/96  (12s)
+  mcv-657: page 50/72  (14s)
+  mcv-660: page 88/88  (26s)
+  mcv-660: 81 page(s) rendered instead of extracted
+  [285/436] mcv-660: 88 pages in 26s | 16020/26119 pages, 13.5 p/s, ETA 12 min
+  mcv-659: page 80/80  (23s)
+  mcv-659: 74 page(s) rendered instead of extracted
+  [286/436] mcv-659: 80 pages in 23s | 16100/26119 pages, 13.5 p/s, ETA 12 min
+  mcv-657: page 72/72  (20s)
+  mcv-657: 65 page(s) rendered instead of extracted
+  [287/436] mcv-657: 72 pages in 20s | 16172/26119 pages, 13.6 p/s, ETA 12 min
+  mcv-658: page 96/96  (25s)
+  mcv-658: 81 page(s) rendered instead of extracted
+  [288/436] mcv-658: 96 pages in 25s | 16268/26119 pages, 13.6 p/s, ETA 12 min
+  mcv-655: page 50/80  (13s)
+  mcv-654: page 50/80  (13s)
+  mcv-656: page 50/70  (16s)
+  mcv-653: page 50/60  (13s)
+  mcv-656: page 70/70  (22s)
+  mcv-656: 65 page(s) rendered instead of extracted
+  [289/436] mcv-656: 70 pages in 22s | 16338/26119 pages, 13.5 p/s, ETA 12 min
+  mcv-653: page 60/60  (16s)
+  mcv-653: 56 page(s) rendered instead of extracted
+  mcv-654: page 80/80  (21s)
+  mcv-654: 69 page(s) rendered instead of extracted
+  [290/436] mcv-654: 80 pages in 21s | 16418/26119 pages, 13.5 p/s, ETA 12 min
+  [291/436] mcv-653: 60 pages in 16s | 16478/26119 pages, 13.6 p/s, ETA 12 min
+  mcv-655: page 80/80  (22s)
+  mcv-655: 67 page(s) rendered instead of extracted
+  [292/436] mcv-655: 80 pages in 22s | 16558/26119 pages, 13.7 p/s, ETA 12 min
+  mcv-650: page 50/84  (11s)
+  mcv-652: page 50/56  (14s)
+  mcv-651: page 50/64  (12s)
+  mcv-652: page 56/56  (15s)
+  mcv-652: 46 page(s) rendered instead of extracted
+  [293/436] mcv-652: 56 pages in 15s | 16614/26119 pages, 13.6 p/s, ETA 12 min
+  mcv-649: page 50/56  (14s)
+  mcv-651: page 64/64  (15s)
+  mcv-651: 50 page(s) rendered instead of extracted
+  [294/436] mcv-651: 64 pages in 16s | 16678/26119 pages, 13.6 p/s, ETA 12 min
+  mcv-649: page 56/56  (16s)
+  mcv-649: 53 page(s) rendered instead of extracted
+  [295/436] mcv-649: 56 pages in 16s | 16734/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-650: page 84/84  (19s)
+  mcv-650: 59 page(s) rendered instead of extracted
+  [296/436] mcv-650: 84 pages in 19s | 16818/26119 pages, 13.7 p/s, ETA 11 min
+  mcv-648: page 50/52  (14s)
+  mcv-648: page 52/52  (15s)
+  mcv-648: 49 page(s) rendered instead of extracted
+  [297/436] mcv-648: 52 pages in 15s | 16870/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-647: page 48/48  (13s)
+  mcv-647: 44 page(s) rendered instead of extracted
+  [298/436] mcv-647: 48 pages in 13s | 16918/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-20110708-2011-games-retail-guide: page 6/6  (2s)
+  mcv-20110708-2011-games-retail-guide: 6 page(s) rendered instead of extracted
+  mcv-646: page 48/48  (13s)
+  mcv-646: 45 page(s) rendered instead of extracted
+  [299/436] mcv-646: 48 pages in 13s | 16966/26119 pages, 13.7 p/s, ETA 11 min
+  [300/436] mcv-20110708-2011-games-retail-guide: 6 pages in 3s | 16972/26119 pages, 13.7 p/s, ETA 11 min
+  mcv-645: page 50/52  (13s)
+  mcv-645: page 52/52  (13s)
+  mcv-645: 49 page(s) rendered instead of extracted
+  [301/436] mcv-645: 52 pages in 13s | 17024/26119 pages, 13.7 p/s, ETA 11 min
+  mcv-644: page 50/60  (14s)
+  mcv-644: page 60/60  (16s)
+  mcv-644: 58 page(s) rendered instead of extracted
+  [302/436] mcv-644: 60 pages in 16s | 17084/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-642: page 48/48  (14s)
+  mcv-642: 47 page(s) rendered instead of extracted
+  [303/436] mcv-642: 48 pages in 14s | 17132/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-643: page 50/52  (14s)
+  mcv-641: page 50/52  (13s)
+  mcv-641: page 52/52  (13s)
+  mcv-641: 46 page(s) rendered instead of extracted
+  [304/436] mcv-641: 52 pages in 13s | 17184/26119 pages, 13.7 p/s, ETA 11 min
+  mcv-643: page 52/52  (15s)
+  mcv-643: 52 page(s) rendered instead of extracted
+  [305/436] mcv-643: 52 pages in 15s | 17236/26119 pages, 13.7 p/s, ETA 11 min
+  mcv-640: page 50/96  (11s)
+  mcv-638: page 50/60  (14s)
+  mcv-639: page 50/72  (14s)
+  mcv-637: page 50/64  (14s)
+  mcv-638: page 60/60  (17s)
+  mcv-638: 58 page(s) rendered instead of extracted
+  [306/436] mcv-638: 60 pages in 17s | 17296/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-637: page 64/64  (18s)
+  mcv-637: 61 page(s) rendered instead of extracted
+  [307/436] mcv-637: 64 pages in 18s | 17360/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-639: page 72/72  (21s)
+  mcv-639: 68 page(s) rendered instead of extracted
+  [308/436] mcv-639: 72 pages in 21s | 17432/26119 pages, 13.6 p/s, ETA 11 min
+  mcv-640: page 96/96  (24s)
+  mcv-640: 78 page(s) rendered instead of extracted
+  [309/436] mcv-640: 96 pages in 24s | 17528/26119 pages, 13.7 p/s, ETA 10 min
+  mcv-636: page 50/68  (14s)
+  FAILED mcv-635: RuntimeError('WebP encode failed for 047.webp: decoded WebP does not match source')
+  mcv-634: page 50/84  (14s)
+  mcv-633: page 50/76  (13s)
+  mcv-636: page 68/68  (20s)
+  mcv-636: 65 page(s) rendered instead of extracted
+  [311/436] mcv-636: 68 pages in 20s | 17596/26119 pages, 13.6 p/s, ETA 10 min
+  mcv-633: page 76/76  (19s)
+  mcv-633: 65 page(s) rendered instead of extracted
+  [312/436] mcv-633: 76 pages in 19s | 17672/26119 pages, 13.6 p/s, ETA 10 min
+  mcv-634: page 84/84  (24s)
+  mcv-634: 77 page(s) rendered instead of extracted
+  [313/436] mcv-634: 84 pages in 24s | 17756/26119 pages, 13.6 p/s, ETA 10 min
+  mcv-632: page 50/72  (15s)
+  mcv-631: page 50/60  (13s)
+  mcv-632: page 72/72  (20s)
+  mcv-632: 68 page(s) rendered instead of extracted
+  [314/436] mcv-632: 72 pages in 20s | 17828/26119 pages, 13.6 p/s, ETA 10 min
+  mcv-631: page 60/60  (16s)
+  mcv-631: 55 page(s) rendered instead of extracted
+  [315/436] mcv-631: 60 pages in 16s | 17888/26119 pages, 13.7 p/s, ETA 10 min
+  mcv-630: page 50/80  (13s)
+  mcv-629: page 50/72  (13s)
+  mcv-630: page 80/80  (21s)
+  mcv-630: 72 page(s) rendered instead of extracted
+  [316/436] mcv-630: 80 pages in 21s | 17968/26119 pages, 13.6 p/s, ETA 10 min
+  mcv-629: page 72/72  (20s)
+  mcv-629: 66 page(s) rendered instead of extracted
+  [317/436] mcv-629: 72 pages in 20s | 18040/26119 pages, 13.7 p/s, ETA 10 min
+  FAILED mcv-628: RuntimeError('WebP encode failed for 048.webp: decoded WebP does not match source')
+  mcv-627: page 50/84  (13s)
+  mcv-627: page 84/84  (20s)
+  mcv-627: 76 page(s) rendered instead of extracted
+  [319/436] mcv-627: 84 pages in 21s | 18124/26119 pages, 13.6 p/s, ETA 10 min
+  mcv-626: page 50/88  (12s)
+  mcv-625: page 50/72  (11s)
+  mcv-624: page 50/60  (12s)
+  FAILED mcv-623: RuntimeError('WebP encode failed for 021.webp: decoded WebP does not match source')
+  mcv-624: page 60/60  (14s)
+  mcv-624: 56 page(s) rendered instead of extracted
+  [321/436] mcv-624: 60 pages in 14s | 18184/26119 pages, 13.6 p/s, ETA 10 min
+  mcv-625: page 72/72  (16s)
+  mcv-625: 63 page(s) rendered instead of extracted
+  [322/436] mcv-625: 72 pages in 16s | 18256/26119 pages, 13.7 p/s, ETA 10 min
+  mcv-626: page 88/88  (20s)
+  mcv-626: 83 page(s) rendered instead of extracted
+  [323/436] mcv-626: 88 pages in 20s | 18344/26119 pages, 13.7 p/s, ETA 9 min
+  mcv-622: page 50/72  (9s)
+  mcv-621: page 50/60  (10s)
+  mcv-620: page 50/52  (10s)
+  mcv-620: page 52/52  (11s)
+  mcv-620: 47 page(s) rendered instead of extracted
+  [324/436] mcv-620: 52 pages in 11s | 18396/26119 pages, 13.7 p/s, ETA 9 min
+  mcv-621: page 60/60  (12s)
+  mcv-621: 57 page(s) rendered instead of extracted
+  [325/436] mcv-621: 60 pages in 12s | 18456/26119 pages, 13.7 p/s, ETA 9 min
+  mcv-622: page 72/72  (14s)
+  mcv-622: 61 page(s) rendered instead of extracted
+  [326/436] mcv-622: 72 pages in 14s | 18528/26119 pages, 13.7 p/s, ETA 9 min
+  mcv-619: page 50/52  (11s)
+  mcv-619: page 52/52  (11s)
+  mcv-619: 50 page(s) rendered instead of extracted
+  [327/436] mcv-619: 52 pages in 11s | 18580/26119 pages, 13.8 p/s, ETA 9 min
+  mcv-616: page 50/60  (11s)
+  mcv-618: page 50/68  (12s)
+  mcv-615: page 50/76  (9s)
+  mcv-617: page 50/68  (12s)
+  mcv-616: page 60/60  (13s)
+  mcv-616: 57 page(s) rendered instead of extracted
+  [328/436] mcv-616: 60 pages in 13s | 18640/26119 pages, 13.7 p/s, ETA 9 min
+  mcv-618: page 68/68  (16s)
+  mcv-618: 62 page(s) rendered instead of extracted
+  [329/436] mcv-618: 68 pages in 16s | 18708/26119 pages, 13.7 p/s, ETA 9 min
+  mcv-617: page 68/68  (16s)
+  mcv-617: 61 page(s) rendered instead of extracted
+  [330/436] mcv-617: 68 pages in 16s | 18776/26119 pages, 13.8 p/s, ETA 9 min
+  mcv-615: page 76/76  (15s)
+  mcv-615: 67 page(s) rendered instead of extracted
+  [331/436] mcv-615: 76 pages in 15s | 18852/26119 pages, 13.8 p/s, ETA 9 min
+  mcv-614: page 50/68  (10s)
+  mcv-613: page 50/92  (10s)
+  mcv-612: page 50/104  (10s)
+  mcv-611: page 50/112  (10s)
+  mcv-614: page 68/68  (14s)
+  mcv-614: 64 page(s) rendered instead of extracted
+  [332/436] mcv-614: 68 pages in 14s | 18920/26119 pages, 13.8 p/s, ETA 9 min
+  mcv-613: page 92/92  (23s)
+  mcv-613: 84 page(s) rendered instead of extracted
+  [333/436] mcv-613: 92 pages in 23s | 19012/26119 pages, 13.7 p/s, ETA 9 min
+  mcv-612: page 100/104  (24s)
+  mcv-610: page 50/120  (14s)
+  mcv-612: page 104/104  (26s)
+  mcv-612: 92 page(s) rendered instead of extracted
+  [334/436] mcv-612: 104 pages in 26s | 19116/26119 pages, 13.8 p/s, ETA 8 min
+  mcv-611: page 100/112  (25s)
+  mcv-611: page 112/112  (28s)
+  mcv-611: 92 page(s) rendered instead of extracted
+  [335/436] mcv-611: 112 pages in 28s | 19228/26119 pages, 13.8 p/s, ETA 8 min
+  mcv-609: page 50/92  (11s)
+  mcv-610: page 100/120  (24s)
+  mcv-608: page 50/88  (10s)
+  mcv-610: page 120/120  (28s)
+  mcv-610: 109 page(s) rendered instead of extracted
+  [336/436] mcv-610: 120 pages in 28s | 19348/26119 pages, 13.8 p/s, ETA 8 min
+  mcv-607: page 50/80  (11s)
+  mcv-609: page 92/92  (21s)
+  mcv-609: 83 page(s) rendered instead of extracted
+  [337/436] mcv-609: 92 pages in 21s | 19440/26119 pages, 13.8 p/s, ETA 8 min
+  mcv-608: page 88/88  (18s)
+  mcv-608: 73 page(s) rendered instead of extracted
+  [338/436] mcv-608: 88 pages in 18s | 19528/26119 pages, 13.9 p/s, ETA 8 min
+  mcv-607: page 80/80  (18s)
+  mcv-607: 70 page(s) rendered instead of extracted
+  [339/436] mcv-607: 80 pages in 18s | 19608/26119 pages, 13.9 p/s, ETA 8 min
+  mcv-606: page 50/72  (11s)
+  mcv-605: page 50/80  (10s)
+  mcv-604: page 50/96  (11s)
+  mcv-606: page 72/72  (17s)
+  mcv-606: 69 page(s) rendered instead of extracted
+  [340/436] mcv-606: 72 pages in 17s | 19680/26119 pages, 13.9 p/s, ETA 8 min
+  mcv-603: page 50/80  (10s)
+  mcv-605: page 80/80  (17s)
+  mcv-605: 73 page(s) rendered instead of extracted
+  [341/436] mcv-605: 80 pages in 17s | 19760/26119 pages, 13.9 p/s, ETA 8 min
+  mcv-603: page 80/80  (17s)
+  mcv-603: 71 page(s) rendered instead of extracted
+  [342/436] mcv-603: 80 pages in 17s | 19840/26119 pages, 13.9 p/s, ETA 8 min
+  mcv-604: page 96/96  (21s)
+  mcv-604: 87 page(s) rendered instead of extracted
+  [343/436] mcv-604: 96 pages in 21s | 19936/26119 pages, 13.9 p/s, ETA 7 min
+  mcv-602: page 50/64  (11s)
+  mcv-602: page 64/64  (14s)
+  mcv-602: 59 page(s) rendered instead of extracted
+  [344/436] mcv-602: 64 pages in 14s | 20000/26119 pages, 13.9 p/s, ETA 7 min
+  mcv-601: page 50/72  (11s)
+  mcv-600: page 50/96  (10s)
+  mcv-599: page 50/64  (11s)
+  mcv-601: page 72/72  (16s)
+  mcv-601: 67 page(s) rendered instead of extracted
+  [345/436] mcv-601: 72 pages in 16s | 20072/26119 pages, 13.9 p/s, ETA 7 min
+  mcv-599: page 64/64  (14s)
+  mcv-599: 59 page(s) rendered instead of extracted
+  [346/436] mcv-599: 64 pages in 14s | 20136/26119 pages, 13.9 p/s, ETA 7 min
+  mcv-598: page 50/52  (11s)
+  mcv-598: page 52/52  (11s)
+  mcv-598: 48 page(s) rendered instead of extracted
+  [347/436] mcv-598: 52 pages in 11s | 20188/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-600: page 96/96  (19s)
+  mcv-600: 75 page(s) rendered instead of extracted
+  [348/436] mcv-600: 96 pages in 19s | 20284/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-20100709-2010-games-retail-guide: page 4/4  (1s)
+  mcv-20100709-2010-games-retail-guide: 4 page(s) rendered instead of extracted
+  [349/436] mcv-20100709-2010-games-retail-guide: 4 pages in 1s | 20288/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-597: page 50/52  (10s)
+  mcv-597: page 52/52  (11s)
+  mcv-597: 44 page(s) rendered instead of extracted
+  [350/436] mcv-597: 52 pages in 11s | 20340/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-596: page 50/52  (11s)
+  mcv-596: page 52/52  (11s)
+  mcv-596: 47 page(s) rendered instead of extracted
+  [351/436] mcv-596: 52 pages in 11s | 20392/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-595: page 50/64  (11s)
+  mcv-594: page 50/52  (11s)
+  mcv-594: page 52/52  (11s)
+  mcv-594: 46 page(s) rendered instead of extracted
+  [352/436] mcv-594: 52 pages in 11s | 20444/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-595: page 64/64  (15s)
+  mcv-595: 57 page(s) rendered instead of extracted
+  [353/436] mcv-595: 64 pages in 15s | 20508/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-593: page 50/56  (11s)
+  mcv-593: page 56/56  (13s)
+  mcv-593: 50 page(s) rendered instead of extracted
+  [354/436] mcv-593: 56 pages in 13s | 20564/26119 pages, 14.1 p/s, ETA 7 min
+  mcv-592: page 50/76  (10s)
+  mcv-591: page 50/104  (9s)
+  mcv-592: page 76/76  (16s)
+  mcv-592: 60 page(s) rendered instead of extracted
+  [355/436] mcv-592: 76 pages in 16s | 20640/26119 pages, 14.0 p/s, ETA 7 min
+  mcv-590: page 50/64  (12s)
+  mcv-589: page 50/52  (11s)
+  mcv-589: page 52/52  (11s)
+  mcv-589: 45 page(s) rendered instead of extracted
+  [356/436] mcv-589: 52 pages in 11s | 20692/26119 pages, 14.0 p/s, ETA 6 min
+  mcv-590: page 64/64  (16s)
+  mcv-590: 61 page(s) rendered instead of extracted
+  [357/436] mcv-590: 64 pages in 16s | 20756/26119 pages, 14.1 p/s, ETA 6 min
+  mcv-591: page 100/104  (17s)
+  mcv-591: page 104/104  (18s)
+  mcv-591: 73 page(s) rendered instead of extracted
+  [358/436] mcv-591: 104 pages in 18s | 20860/26119 pages, 14.1 p/s, ETA 6 min
+  mcv-588: page 50/56  (11s)
+  mcv-588: page 56/56  (13s)
+  mcv-588: 49 page(s) rendered instead of extracted
+  [359/436] mcv-588: 56 pages in 13s | 20916/26119 pages, 14.1 p/s, ETA 6 min
+  mcv-587: page 50/52  (11s)
+  mcv-587: page 52/52  (11s)
+  mcv-587: 47 page(s) rendered instead of extracted
+  [360/436] mcv-587: 52 pages in 11s | 20968/26119 pages, 14.1 p/s, ETA 6 min
+  mcv-586: page 50/64  (10s)
+  mcv-585: page 50/84  (9s)
+  mcv-586: page 64/64  (14s)
+  mcv-586: 57 page(s) rendered instead of extracted
+  [361/436] mcv-586: 64 pages in 14s | 21032/26119 pages, 14.1 p/s, ETA 6 min
+  mcv-585: page 84/84  (17s)
+  mcv-585: 69 page(s) rendered instead of extracted
+  [362/436] mcv-585: 84 pages in 17s | 21116/26119 pages, 14.1 p/s, ETA 6 min
+  mcv-584: page 50/52  (11s)
+  mcv-583: page 50/60  (10s)
+  mcv-584: page 52/52  (12s)
+  mcv-584: 48 page(s) rendered instead of extracted
+  [363/436] mcv-584: 52 pages in 12s | 21168/26119 pages, 14.1 p/s, ETA 6 min
+  mcv-583: page 60/60  (12s)
+  mcv-583: 52 page(s) rendered instead of extracted
+  [364/436] mcv-583: 60 pages in 12s | 21228/26119 pages, 14.2 p/s, ETA 6 min
+  mcv-582: page 48/48  (11s)
+  mcv-582: 45 page(s) rendered instead of extracted
+  [365/436] mcv-582: 48 pages in 11s | 21276/26119 pages, 14.2 p/s, ETA 6 min
+  mcv-581: page 50/52  (11s)
+  mcv-581: page 52/52  (12s)
+  mcv-581: 48 page(s) rendered instead of extracted
+  [366/436] mcv-581: 52 pages in 12s | 21328/26119 pages, 14.2 p/s, ETA 6 min
+  mcv-580: page 50/52  (10s)
+  mcv-580: page 52/52  (11s)
+  mcv-580: 45 page(s) rendered instead of extracted
+  [367/436] mcv-580: 52 pages in 11s | 21380/26119 pages, 14.2 p/s, ETA 6 min
+  mcv-579: page 50/68  (11s)
+  mcv-578: page 50/52  (11s)
+  mcv-578: page 52/52  (11s)
+  mcv-578: 47 page(s) rendered instead of extracted
+  [368/436] mcv-578: 52 pages in 11s | 21432/26119 pages, 14.2 p/s, ETA 6 min
+  mcv-579: page 68/68  (16s)
+  mcv-579: 62 page(s) rendered instead of extracted
+  [369/436] mcv-579: 68 pages in 16s | 21500/26119 pages, 14.2 p/s, ETA 5 min
+  mcv-577: page 50/68  (11s)
+  mcv-576: page 50/56  (11s)
+  mcv-576: page 56/56  (12s)
+  mcv-576: 52 page(s) rendered instead of extracted
+  [370/436] mcv-576: 56 pages in 12s | 21556/26119 pages, 14.2 p/s, ETA 5 min
+  mcv-577: page 68/68  (16s)
+  mcv-577: 63 page(s) rendered instead of extracted
+  [371/436] mcv-577: 68 pages in 16s | 21624/26119 pages, 14.2 p/s, ETA 5 min
+  mcv-574: page 44/44  (9s)
+  mcv-574: 36 page(s) rendered instead of extracted
+  [372/436] mcv-574: 44 pages in 9s | 21668/26119 pages, 14.2 p/s, ETA 5 min
+  mcv-575: page 50/51  (11s)
+  mcv-575: page 51/51  (11s)
+  mcv-575: 47 page(s) rendered instead of extracted
+  [373/436] mcv-575: 51 pages in 11s | 21719/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-573: page 44/44  (9s)
+  mcv-573: 37 page(s) rendered instead of extracted
+  [374/436] mcv-573: 44 pages in 9s | 21763/26119 pages, 14.2 p/s, ETA 5 min
+  mcv-572: page 50/68  (9s)
+  mcv-571: page 50/52  (11s)
+  mcv-570: page 50/52  (11s)
+  mcv-571: page 52/52  (12s)
+  mcv-571: 48 page(s) rendered instead of extracted
+  [375/436] mcv-571: 52 pages in 12s | 21815/26119 pages, 14.2 p/s, ETA 5 min
+  mcv-570: page 52/52  (12s)
+  mcv-570: 50 page(s) rendered instead of extracted
+  [376/436] mcv-570: 52 pages in 12s | 21867/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-572: page 68/68  (14s)
+  mcv-572: 58 page(s) rendered instead of extracted
+  [377/436] mcv-572: 68 pages in 14s | 21935/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-569: page 44/44  (10s)
+  mcv-569: 42 page(s) rendered instead of extracted
+  [378/436] mcv-569: 44 pages in 10s | 21979/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-568: page 50/52  (10s)
+  mcv-568: page 52/52  (11s)
+  mcv-568: 44 page(s) rendered instead of extracted
+  [379/436] mcv-568: 52 pages in 11s | 22031/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-567: page 48/48  (11s)
+  mcv-567: 46 page(s) rendered instead of extracted
+  [380/436] mcv-567: 48 pages in 11s | 22079/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-566: page 50/64  (10s)
+  mcv-566: page 64/64  (13s)
+  mcv-565: page 50/55  (11s)
+  mcv-566: 53 page(s) rendered instead of extracted
+  [381/436] mcv-566: 64 pages in 13s | 22143/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-565: page 55/55  (12s)
+  mcv-565: 49 page(s) rendered instead of extracted
+  [382/436] mcv-565: 55 pages in 12s | 22198/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-564: page 50/60  (10s)
+  mcv-563: page 50/80  (10s)
+  mcv-564: page 60/60  (12s)
+  mcv-564: 50 page(s) rendered instead of extracted
+  [383/436] mcv-564: 60 pages in 12s | 22258/26119 pages, 14.3 p/s, ETA 5 min
+  mcv-562: page 50/76  (9s)
+  mcv-561: page 50/78  (10s)
+  mcv-563: page 80/80  (17s)
+  mcv-563: 70 page(s) rendered instead of extracted
+  [384/436] mcv-563: 80 pages in 17s | 22338/26119 pages, 14.3 p/s, ETA 4 min
+  mcv-562: page 76/76  (15s)
+  mcv-562: 64 page(s) rendered instead of extracted
+  [385/436] mcv-562: 76 pages in 15s | 22414/26119 pages, 14.3 p/s, ETA 4 min
+  mcv-560: page 50/120  (9s)
+  mcv-561: page 78/78  (17s)
+  mcv-561: 72 page(s) rendered instead of extracted
+  [386/436] mcv-561: 78 pages in 17s | 22492/26119 pages, 14.4 p/s, ETA 4 min
+  mcv-559: page 50/80  (9s)
+  mcv-558: page 50/70  (10s)
+  mcv-560: page 100/120  (19s)
+  mcv-558: page 70/70  (14s)
+  mcv-558: 58 page(s) rendered instead of extracted
+  [387/436] mcv-558: 70 pages in 14s | 22562/26119 pages, 14.3 p/s, ETA 4 min
+  mcv-557: page 50/80  (11s)
+  mcv-559: page 80/80  (16s)
+  mcv-559: 66 page(s) rendered instead of extracted
+  [388/436] mcv-559: 80 pages in 16s | 22642/26119 pages, 14.3 p/s, ETA 4 min
+  mcv-560: page 120/120  (23s)
+  mcv-560: 97 page(s) rendered instead of extracted
+  [389/436] mcv-560: 120 pages in 23s | 22762/26119 pages, 14.4 p/s, ETA 4 min
+  mcv-557: page 80/80  (18s)
+  mcv-557: 75 page(s) rendered instead of extracted
+  [390/436] mcv-557: 80 pages in 18s | 22842/26119 pages, 14.4 p/s, ETA 4 min
+  mcv-555: page 50/70  (10s)
+  mcv-556: page 50/72  (12s)
+  mcv-554: page 50/84  (10s)
+  mcv-555: page 70/70  (15s)
+  mcv-555: 63 page(s) rendered instead of extracted
+  [391/436] mcv-555: 70 pages in 15s | 22912/26119 pages, 14.4 p/s, ETA 4 min
+  mcv-556: page 72/72  (17s)
+  mcv-556: 71 page(s) rendered instead of extracted
+  [392/436] mcv-556: 72 pages in 17s | 22984/26119 pages, 14.4 p/s, ETA 4 min
+  mcv-553: page 50/68  (11s)
+  mcv-554: page 84/84  (17s)
+  mcv-554: 69 page(s) rendered instead of extracted
+  [393/436] mcv-554: 84 pages in 17s | 23068/26119 pages, 14.4 p/s, ETA 4 min
+  mcv-553: page 68/68  (16s)
+  mcv-553: 60 page(s) rendered instead of extracted
+  [394/436] mcv-553: 68 pages in 16s | 23136/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-551: page 50/72  (10s)
+  mcv-552: page 50/64  (12s)
+  mcv-550: page 50/96  (9s)
+  mcv-552: page 64/64  (15s)
+  mcv-552: 58 page(s) rendered instead of extracted
+  [395/436] mcv-552: 64 pages in 16s | 23200/26119 pages, 14.4 p/s, ETA 3 min
+  mcv-551: page 72/72  (15s)
+  mcv-551: 60 page(s) rendered instead of extracted
+  [396/436] mcv-551: 72 pages in 15s | 23272/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-549: page 50/64  (12s)
+  mcv-549: page 64/64  (15s)
+  mcv-549: 59 page(s) rendered instead of extracted
+  [397/436] mcv-549: 64 pages in 15s | 23336/26119 pages, 14.4 p/s, ETA 3 min
+  mcv-550: page 96/96  (19s)
+  mcv-550: 75 page(s) rendered instead of extracted
+  [398/436] mcv-550: 96 pages in 19s | 23432/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-548: page 50/62  (10s)
+  mcv-547: page 50/52  (11s)
+  mcv-547: page 52/52  (11s)
+  mcv-547: 48 page(s) rendered instead of extracted
+  [399/436] mcv-547: 52 pages in 11s | 23484/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-548: page 62/62  (13s)
+  mcv-548: 52 page(s) rendered instead of extracted
+  [400/436] mcv-548: 62 pages in 13s | 23546/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-546: page 50/52  (10s)
+  mcv-546: page 52/52  (10s)
+  mcv-546: 44 page(s) rendered instead of extracted
+  [401/436] mcv-546: 52 pages in 10s | 23598/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-545: page 50/52  (10s)
+  mcv-545: page 52/52  (10s)
+  mcv-545: 43 page(s) rendered instead of extracted
+  [402/436] mcv-545: 52 pages in 10s | 23650/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-544: page 50/52  (10s)
+  mcv-543: page 50/60  (10s)
+  mcv-544: page 52/52  (11s)
+  mcv-544: 43 page(s) rendered instead of extracted
+  [403/436] mcv-544: 52 pages in 11s | 23702/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-543: page 60/60  (12s)
+  mcv-543: 50 page(s) rendered instead of extracted
+  [404/436] mcv-543: 60 pages in 12s | 23762/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-542: page 50/68  (9s)
+  mcv-541: page 50/72  (10s)
+  mcv-542: page 68/68  (14s)
+  mcv-542: 57 page(s) rendered instead of extracted
+  [405/436] mcv-542: 68 pages in 14s | 23830/26119 pages, 14.5 p/s, ETA 3 min
+  mcv-541: page 72/72  (15s)
+  mcv-541: 62 page(s) rendered instead of extracted
+  [406/436] mcv-541: 72 pages in 15s | 23902/26119 pages, 14.6 p/s, ETA 3 min
+  mcv-539: page 50/88  (9s)
+  mcv-540: page 50/60  (11s)
+  mcv-540: page 60/60  (13s)
+  mcv-540: 55 page(s) rendered instead of extracted
+  [407/436] mcv-540: 60 pages in 13s | 23962/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-538: page 50/60  (10s)
+  mcv-539: page 88/88  (18s)
+  mcv-539: 73 page(s) rendered instead of extracted
+  [408/436] mcv-539: 88 pages in 18s | 24050/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-538: page 60/60  (12s)
+  mcv-538: 53 page(s) rendered instead of extracted
+  [409/436] mcv-538: 60 pages in 12s | 24110/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-537: page 50/60  (11s)
+  mcv-536: page 50/68  (10s)
+  mcv-537: page 60/60  (14s)
+  mcv-537: 55 page(s) rendered instead of extracted
+  [410/436] mcv-537: 60 pages in 14s | 24170/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-536: page 68/68  (14s)
+  mcv-536: 60 page(s) rendered instead of extracted
+  [411/436] mcv-536: 68 pages in 14s | 24238/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-534: page 50/68  (9s)
+  mcv-535: page 50/60  (10s)
+  mcv-535: page 60/60  (13s)
+  mcv-535: 53 page(s) rendered instead of extracted
+  [412/436] mcv-535: 60 pages in 13s | 24298/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-534: page 68/68  (13s)
+  mcv-534: 54 page(s) rendered instead of extracted
+  [413/436] mcv-534: 68 pages in 13s | 24366/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-533: page 50/52  (10s)
+  mcv-533: page 52/52  (10s)
+  mcv-533: 45 page(s) rendered instead of extracted
+  [414/436] mcv-533: 52 pages in 10s | 24418/26119 pages, 14.7 p/s, ETA 2 min
+  mcv-532: page 50/52  (11s)
+  mcv-532: page 52/52  (11s)
+  mcv-532: 49 page(s) rendered instead of extracted
+  [415/436] mcv-532: 52 pages in 11s | 24470/26119 pages, 14.7 p/s, ETA 2 min
+  mcv-531: page 50/52  (11s)
+  mcv-529: page 50/72  (9s)
+  mcv-530: page 50/68  (9s)
+  mcv-531: page 52/52  (11s)
+  mcv-531: 47 page(s) rendered instead of extracted
+  [416/436] mcv-531: 52 pages in 11s | 24522/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-530: page 68/68  (13s)
+  mcv-530: 56 page(s) rendered instead of extracted
+  [417/436] mcv-530: 68 pages in 13s | 24590/26119 pages, 14.6 p/s, ETA 2 min
+  mcv-529: page 72/72  (13s)
+  mcv-529: 56 page(s) rendered instead of extracted
+  [418/436] mcv-529: 72 pages in 13s | 24662/26119 pages, 14.7 p/s, ETA 2 min
+  mcv-528: page 50/68  (10s)
+  mcv-527: page 50/72  (9s)
+  mcv-528: page 68/68  (14s)
+  mcv-528: 61 page(s) rendered instead of extracted
+  [419/436] mcv-528: 68 pages in 14s | 24730/26119 pages, 14.7 p/s, ETA 2 min
+  mcv-527: page 72/72  (14s)
+  mcv-527: 59 page(s) rendered instead of extracted
+  [420/436] mcv-527: 72 pages in 14s | 24802/26119 pages, 14.7 p/s, ETA 1 min
+  mcv-526: page 50/60  (11s)
+  mcv-525: page 50/72  (11s)
+  mcv-526: page 60/60  (13s)
+  mcv-526: 56 page(s) rendered instead of extracted
+  [421/436] mcv-526: 60 pages in 13s | 24862/26119 pages, 14.7 p/s, ETA 1 min
+  mcv-524: page 50/80  (11s)
+  mcv-525: page 72/72  (16s)
+  mcv-525: 67 page(s) rendered instead of extracted
+  [422/436] mcv-525: 72 pages in 17s | 24934/26119 pages, 14.7 p/s, ETA 1 min
+  mcv-523: page 50/72  (10s)
+  mcv-524: page 80/80  (18s)
+  mcv-524: 74 page(s) rendered instead of extracted
+  [423/436] mcv-524: 80 pages in 18s | 25014/26119 pages, 14.7 p/s, ETA 1 min
+  mcv-522: page 50/68  (11s)
+  mcv-523: page 72/72  (15s)
+  mcv-523: 65 page(s) rendered instead of extracted
+  [424/436] mcv-523: 72 pages in 15s | 25086/26119 pages, 14.7 p/s, ETA 1 min
+  mcv-521: page 48/48  (10s)
+  mcv-521: 44 page(s) rendered instead of extracted
+  [425/436] mcv-521: 48 pages in 10s | 25134/26119 pages, 14.7 p/s, ETA 1 min
+  mcv-522: page 68/68  (15s)
+  mcv-522: 63 page(s) rendered instead of extracted
+  [426/436] mcv-522: 68 pages in 15s | 25202/26119 pages, 14.8 p/s, ETA 1 min
+  mcv-520: page 50/52  (11s)
+  mcv-519: page 44/44  (9s)
+  mcv-519: 38 page(s) rendered instead of extracted
+  mcv-520: page 52/52  (11s)
+  mcv-520: 48 page(s) rendered instead of extracted
+  [427/436] mcv-520: 52 pages in 11s | 25254/26119 pages, 14.7 p/s, ETA 1 min
+  [428/436] mcv-519: 44 pages in 9s | 25298/26119 pages, 14.8 p/s, ETA 1 min
+  mcv-518: page 50/72  (8s)
+  mcv-517: page 50/60  (9s)
+  mcv-517: page 60/60  (11s)
+  mcv-517: 46 page(s) rendered instead of extracted
+  [429/436] mcv-517: 60 pages in 11s | 25358/26119 pages, 14.8 p/s, ETA 1 min
+  mcv-518: page 72/72  (13s)
+  mcv-518: 53 page(s) rendered instead of extracted
+  [430/436] mcv-518: 72 pages in 13s | 25430/26119 pages, 14.8 p/s, ETA 1 min
+  mcv-515: page 50/72  (9s)
+  mcv-516: page 50/60  (10s)
+  mcv-516: page 60/60  (12s)
+  mcv-516: 51 page(s) rendered instead of extracted
+  [431/436] mcv-516: 60 pages in 12s | 25490/26119 pages, 14.8 p/s, ETA 1 min
+  mcv-515: page 72/72  (14s)
+  mcv-515: 58 page(s) rendered instead of extracted
+  [432/436] mcv-515: 72 pages in 14s | 25562/26119 pages, 14.8 p/s, ETA 1 min
+  mcv-514: page 50/60  (11s)
+  mcv-513: page 50/104  (10s)
+  mcv-514: page 60/60  (13s)
+  mcv-514: 52 page(s) rendered instead of extracted
+  [433/436] mcv-514: 60 pages in 13s | 25622/26119 pages, 14.8 p/s, ETA 1 min
+  mcv-512: page 50/89  (11s)
+  mcv-510: page 50/96  (9s)
+  mcv-513: page 100/104  (21s)
+  mcv-513: page 104/104  (22s)
+  mcv-513: 91 page(s) rendered instead of extracted
+  [434/436] mcv-513: 104 pages in 22s | 25726/26119 pages, 14.8 p/s, ETA 0 min
+  mcv-512: page 89/89  (19s)
+  mcv-512: 78 page(s) rendered instead of extracted
+  [435/436] mcv-512: 89 pages in 19s | 25815/26119 pages, 14.8 p/s, ETA 0 min
+  mcv-510: page 96/96  (19s)
+  mcv-510: 77 page(s) rendered instead of extracted
+  [436/436] mcv-510: 96 pages in 19s | 25911/26119 pages, 14.8 p/s, ETA 0 min
+3 issue(s) failed: mcv-635, mcv-628, mcv-623
+=== render mcv rc=1 in 29.1 min ===
+
+=== start retry games-business ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication games-business --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+
+=== start retry mcv ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication mcv --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+0 issues / 0 pages to render with 1 workers
+=== retry games-business rc=0 in 0.0 min ===
+3 issues / 208 pages to render with 1 workers
+  FAILED mcv-635: RuntimeError('WebP encode failed for 047.webp: decoded WebP does not match source')
+  FAILED mcv-628: RuntimeError('WebP encode failed for 048.webp: decoded WebP does not match source')
+  FAILED mcv-623: RuntimeError('WebP encode failed for 021.webp: decoded WebP does not match source')
+3 issue(s) failed: mcv-635, mcv-628, mcv-623
+=== retry mcv rc=1 in 0.4 min ===
+
+=== rebuild catalog ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/build_pages.py
+Catalog: 5535 issues across 115 publications, 5531 readable -> E:\cat\site\src\data
+=== rebuild catalog rc=0 in 0.0 min ===
+
+=== upload games-business ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication games-business --workers 16
+uploading 5700 objects (3021.9 MB), overwrite, no bucket list
+  50/5700  0.8 MB  0.4 MB/s
+  100/5700  32.0 MB  8.0 MB/s
+  150/5700  71.2 MB  12.3 MB/s
+  200/5700  72.0 MB  9.8 MB/s
+  250/5700  118.1 MB  12.7 MB/s
+  300/5700  145.5 MB  13.2 MB/s
+  350/5700  148.7 MB  11.8 MB/s
+  400/5700  204.9 MB  13.8 MB/s
+  450/5700  224.2 MB  13.7 MB/s
+  500/5700  235.0 MB  13.1 MB/s
+  550/5700  289.8 MB  14.6 MB/s
+  600/5700  300.8 MB  14.1 MB/s
+  650/5700  320.7 MB  13.9 MB/s
+  700/5700  376.4 MB  15.0 MB/s
+  750/5700  380.3 MB  14.3 MB/s
+  800/5700  409.2 MB  14.5 MB/s
+  850/5700  454.0 MB  15.1 MB/s
+  900/5700  456.0 MB  14.5 MB/s
+  950/5700  499.4 MB  14.9 MB/s
+  1000/5700  532.0 MB  15.1 MB/s
+  1050/5700  532.7 MB  14.5 MB/s
+  1100/5700  582.2 MB  15.0 MB/s
+  1150/5700  608.8 MB  15.1 MB/s
+  1200/5700  614.7 MB  14.6 MB/s
+  1250/5700  669.3 MB  15.2 MB/s
+  1300/5700  684.1 MB  15.0 MB/s
+  1350/5700  703.2 MB  14.9 MB/s
+  1400/5700  753.8 MB  15.3 MB/s
+  1450/5700  760.0 MB  15.0 MB/s
+  1500/5700  772.7 MB  14.7 MB/s
+  1550/5700  832.3 MB  15.3 MB/s
+  1600/5700  855.1 MB  15.2 MB/s
+  1650/5700  864.5 MB  15.0 MB/s
+  1700/5700  867.8 MB  14.7 MB/s
+  1750/5700  924.9 MB  15.1 MB/s
+  1800/5700  943.8 MB  15.0 MB/s
+  1850/5700  944.4 MB  14.7 MB/s
+  1900/5700  958.0 MB  14.6 MB/s
+  1950/5700  1011.3 MB  15.0 MB/s
+  2000/5700  1070.2 MB  15.4 MB/s
+  2050/5700  1074.8 MB  15.1 MB/s
+  2100/5700  1119.1 MB  15.4 MB/s
+  2150/5700  1137.1 MB  15.2 MB/s
+  2200/5700  1164.7 MB  15.3 MB/s
+  2250/5700  1194.1 MB  15.3 MB/s
+  2300/5700  1211.8 MB  15.2 MB/s
+  2350/5700  1253.4 MB  15.4 MB/s
+  2400/5700  1262.4 MB  15.2 MB/s
+  2450/5700  1307.0 MB  15.4 MB/s
+  2500/5700  1308.9 MB  15.2 MB/s
+  2550/5700  1349.2 MB  15.3 MB/s
+  2600/5700  1385.4 MB  15.4 MB/s
+  2650/5700  1386.2 MB  15.2 MB/s
+  2700/5700  1443.2 MB  15.5 MB/s
+  2750/5700  1462.0 MB  15.4 MB/s
+  2800/5700  1476.9 MB  15.3 MB/s
+  2850/5700  1530.1 MB  15.5 MB/s
+  2900/5700  1541.2 MB  15.4 MB/s
+  2950/5700  1557.4 MB  15.3 MB/s
+  3000/5700  1609.8 MB  15.5 MB/s
+  3050/5700  1617.6 MB  15.4 MB/s
+  3100/5700  1644.7 MB  15.3 MB/s
+  3150/5700  1694.1 MB  15.5 MB/s
+  3200/5700  1698.7 MB  15.4 MB/s
+  3250/5700  1748.9 MB  15.5 MB/s
+  3300/5700  1759.3 MB  15.4 MB/s
+  3350/5700  1781.5 MB  15.4 MB/s
+  3400/5700  1830.9 MB  15.5 MB/s
+  3450/5700  1834.4 MB  15.4 MB/s
+  3500/5700  1864.7 MB  15.4 MB/s
+  3550/5700  1903.5 MB  15.5 MB/s
+  3600/5700  1904.4 MB  15.3 MB/s
+  3650/5700  1950.4 MB  15.4 MB/s
+  3700/5700  1977.8 MB  15.5 MB/s
+  3750/5700  2011.7 MB  15.5 MB/s
+  3800/5700  2022.4 MB  15.4 MB/s
+  3850/5700  2067.6 MB  15.5 MB/s
+  3900/5700  2073.9 MB  15.4 MB/s
+  3950/5700  2116.8 MB  15.5 MB/s
+  4000/5700  2129.9 MB  15.4 MB/s
+  4050/5700  2170.3 MB  15.5 MB/s
+  4100/5700  2190.3 MB  15.4 MB/s
+  4150/5700  2217.8 MB  15.4 MB/s
+  4200/5700  2249.4 MB  15.5 MB/s
+  4250/5700  2264.8 MB  15.4 MB/s
+  4300/5700  2267.5 MB  15.3 MB/s
+  4350/5700  2316.0 MB  15.4 MB/s
+  4400/5700  2344.8 MB  15.4 MB/s
+  4450/5700  2355.6 MB  15.3 MB/s
+  4500/5700  2406.5 MB  15.5 MB/s
+  4550/5700  2409.5 MB  15.4 MB/s
+  4600/5700  2457.1 MB  15.5 MB/s
+  4650/5700  2461.2 MB  15.4 MB/s
+  4700/5700  2506.7 MB  15.5 MB/s
+  4750/5700  2529.5 MB  15.5 MB/s
+  4800/5700  2535.6 MB  15.3 MB/s
+  4850/5700  2578.6 MB  15.4 MB/s
+  4900/5700  2583.1 MB  15.3 MB/s
+  4950/5700  2628.3 MB  15.4 MB/s
+  5000/5700  2647.5 MB  15.4 MB/s
+  5050/5700  2667.1 MB  15.4 MB/s
+  5100/5700  2703.9 MB  15.4 MB/s
+  5150/5700  2727.7 MB  15.4 MB/s
+  5200/5700  2740.7 MB  15.4 MB/s
+  5250/5700  2782.4 MB  15.4 MB/s
+  5300/5700  2794.5 MB  15.3 MB/s
+  5350/5700  2826.8 MB  15.4 MB/s
+  5400/5700  2853.6 MB  15.4 MB/s
+  5450/5700  2875.3 MB  15.4 MB/s
+  5500/5700  2899.9 MB  15.4 MB/s
+  5550/5700  2919.0 MB  15.3 MB/s
+  5600/5700  2961.1 MB  15.4 MB/s
+  5650/5700  2974.4 MB  15.4 MB/s
+  5700/5700  3021.9 MB  15.5 MB/s
+done
+=== upload games-business rc=0 in 3.3 min ===
+
+=== upload mcv ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication mcv --workers 16
+uploading 52688 objects (5411.4 MB), overwrite, no bucket list
+  50/52688  0.8 MB  0.3 MB/s
+  100/52688  8.7 MB  2.2 MB/s
+  150/52688  10.3 MB  1.9 MB/s
+  200/52688  17.8 MB  2.5 MB/s
+  250/52688  20.1 MB  2.4 MB/s
+  300/52688  26.2 MB  2.6 MB/s
+  350/52688  30.7 MB  2.7 MB/s
+  400/52688  34.9 MB  2.7 MB/s
+  450/52688  41.7 MB  2.8 MB/s
+  500/52688  43.4 MB  2.7 MB/s
+  550/52688  53.2 MB  3.0 MB/s
+  600/52688  53.9 MB  2.8 MB/s
+  650/52688  61.1 MB  2.9 MB/s
+  700/52688  64.1 MB  2.9 MB/s
+  750/52688  68.9 MB  2.9 MB/s
+  800/52688  73.1 MB  2.9 MB/s
+  850/52688  76.6 MB  2.9 MB/s
+  900/52688  85.1 MB  3.0 MB/s
+  950/52688  86.1 MB  2.9 MB/s
+  1000/52688  95.6 MB  3.1 MB/s
+  1050/52688  97.0 MB  3.0 MB/s
+  1100/52688  104.6 MB  3.0 MB/s
+  1150/52688  111.5 MB  3.1 MB/s
+  1200/52688  116.6 MB  3.1 MB/s
+  1250/52688  117.6 MB  3.0 MB/s
+  1300/52688  125.2 MB  3.1 MB/s
+  1350/52688  130.6 MB  3.1 MB/s
+  1400/52688  134.1 MB  3.0 MB/s
+  1450/52688  139.1 MB  3.0 MB/s
+  1500/52688  141.4 MB  3.0 MB/s
+  1550/52688  147.4 MB  3.0 MB/s
+  1600/52688  149.0 MB  3.0 MB/s
+  1650/52688  155.9 MB  3.0 MB/s
+  1700/52688  156.6 MB  3.0 MB/s
+  1750/52688  164.6 MB  3.0 MB/s
+  1800/52688  165.7 MB  3.0 MB/s
+  1850/52688  172.4 MB  3.0 MB/s
+  1900/52688  174.0 MB  2.9 MB/s
+  1950/52688  179.6 MB  3.0 MB/s
+  2000/52688  182.2 MB  2.9 MB/s
+  2050/52688  186.4 MB  2.9 MB/s
+  2100/52688  187.4 MB  2.9 MB/s
+  2150/52688  192.6 MB  2.9 MB/s
+  2200/52688  194.6 MB  2.9 MB/s
+  2250/52688  199.6 MB  2.9 MB/s
+  2300/52688  202.5 MB  2.9 MB/s
+  2350/52688  207.1 MB  2.9 MB/s
+  2400/52688  210.7 MB  2.8 MB/s
+  2450/52688  213.9 MB  2.8 MB/s
+  2500/52688  219.2 MB  2.8 MB/s
+  2550/52688  220.7 MB  2.8 MB/s
+  2600/52688  226.9 MB  2.8 MB/s
+  2650/52688  228.0 MB  2.8 MB/s
+  2700/52688  235.6 MB  2.8 MB/s
+  2750/52688  237.1 MB  2.8 MB/s
+  2800/52688  240.8 MB  2.8 MB/s
+  2850/52688  241.7 MB  2.8 MB/s
+  2900/52688  247.6 MB  2.8 MB/s
+  2950/52688  256.9 MB  2.8 MB/s
+  3000/52688  261.1 MB  2.8 MB/s
+  3050/52688  262.0 MB  2.8 MB/s
+  3100/52688  269.9 MB  2.8 MB/s
+  3150/52688  280.3 MB  2.9 MB/s
+  3200/52688  281.4 MB  2.9 MB/s
+  3250/52688  282.3 MB  2.8 MB/s
+  3300/52688  290.7 MB  2.9 MB/s
+  3350/52688  301.2 MB  2.9 MB/s
+  3400/52688  303.4 MB  2.9 MB/s
+  3450/52688  309.8 MB  2.9 MB/s
+  3500/52688  316.6 MB  2.9 MB/s
+  3550/52688  317.4 MB  2.9 MB/s
+  3600/52688  325.1 MB  2.9 MB/s
+  3650/52688  331.2 MB  2.9 MB/s
+  3700/52688  334.6 MB  2.9 MB/s
+  3750/52688  343.4 MB  3.0 MB/s
+  3800/52688  344.2 MB  2.9 MB/s
+  3850/52688  351.0 MB  3.0 MB/s
+  3900/52688  355.6 MB  3.0 MB/s
+  3950/52688  357.7 MB  2.9 MB/s
+  4000/52688  365.7 MB  3.0 MB/s
+  4050/52688  369.2 MB  3.0 MB/s
+  4100/52688  376.9 MB  3.0 MB/s
+  4150/52688  378.8 MB  3.0 MB/s
+  4200/52688  387.4 MB  3.0 MB/s
+  4250/52688  390.5 MB  3.0 MB/s
+  4300/52688  399.0 MB  3.0 MB/s
+  4350/52688  401.6 MB  3.0 MB/s
+  4400/52688  406.1 MB  3.0 MB/s
+  4450/52688  416.3 MB  3.0 MB/s
+  4500/52688  417.2 MB  3.0 MB/s
+  4550/52688  422.6 MB  3.0 MB/s
+  4600/52688  432.3 MB  3.1 MB/s
+  4650/52688  433.2 MB  3.0 MB/s
+  4700/52688  438.6 MB  3.0 MB/s
+  4750/52688  449.6 MB  3.1 MB/s
+  4800/52688  452.0 MB  3.1 MB/s
+  4850/52688  457.2 MB  3.1 MB/s
+  4900/52688  468.2 MB  3.1 MB/s
+  4950/52688  469.6 MB  3.1 MB/s
+  5000/52688  477.4 MB  3.1 MB/s
+  5050/52688  483.1 MB  3.1 MB/s
+  5100/52688  484.9 MB  3.1 MB/s
+  5150/52688  494.1 MB  3.1 MB/s
+  5200/52688  498.8 MB  3.1 MB/s
+  5250/52688  502.0 MB  3.1 MB/s
+  5300/52688  512.1 MB  3.1 MB/s
+  5350/52688  514.3 MB  3.1 MB/s
+  5400/52688  518.0 MB  3.1 MB/s
+  5450/52688  527.4 MB  3.2 MB/s
+  5500/52688  528.7 MB  3.1 MB/s
+  5550/52688  533.6 MB  3.1 MB/s
+  5600/52688  542.3 MB  3.2 MB/s
+  5650/52688  544.4 MB  3.1 MB/s
+  5700/52688  553.6 MB  3.2 MB/s
+  5750/52688  554.6 MB  3.1 MB/s
+  5800/52688  565.2 MB  3.2 MB/s
+  5850/52688  567.0 MB  3.2 MB/s
+  5900/52688  575.9 MB  3.2 MB/s
+  5950/52688  578.5 MB  3.2 MB/s
+  6000/52688  582.9 MB  3.2 MB/s
+  6050/52688  591.5 MB  3.2 MB/s
+  6100/52688  592.5 MB  3.2 MB/s
+  6150/52688  600.4 MB  3.2 MB/s
+  6200/52688  605.3 MB  3.2 MB/s
+  6250/52688  608.1 MB  3.2 MB/s
+  6300/52688  617.9 MB  3.2 MB/s
+  6350/52688  620.1 MB  3.2 MB/s
+  6400/52688  626.3 MB  3.2 MB/s
+  6450/52688  633.1 MB  3.2 MB/s
+  6500/52688  635.8 MB  3.2 MB/s
+  6550/52688  645.5 MB  3.2 MB/s
+  6600/52688  646.8 MB  3.2 MB/s
+  6650/52688  649.6 MB  3.2 MB/s
+  6700/52688  658.0 MB  3.2 MB/s
+  6750/52688  664.9 MB  3.2 MB/s
+  6800/52688  667.8 MB  3.2 MB/s
+  6850/52688  677.7 MB  3.2 MB/s
+  6900/52688  679.2 MB  3.2 MB/s
+  6950/52688  684.6 MB  3.2 MB/s
+  7000/52688  693.7 MB  3.2 MB/s
+  7050/52688  694.8 MB  3.2 MB/s
+  7100/52688  700.9 MB  3.2 MB/s
+  7150/52688  708.7 MB  3.3 MB/s
+  7200/52688  710.2 MB  3.2 MB/s
+  7250/52688  720.1 MB  3.3 MB/s
+  7300/52688  722.0 MB  3.2 MB/s
+  7350/52688  729.3 MB  3.3 MB/s
+  7400/52688  733.1 MB  3.2 MB/s
+  7450/52688  739.8 MB  3.3 MB/s
+  7500/52688  744.6 MB  3.3 MB/s
+  7550/52688  749.9 MB  3.3 MB/s
+  7600/52688  755.6 MB  3.3 MB/s
+  7650/52688  760.4 MB  3.3 MB/s
+  7700/52688  767.0 MB  3.3 MB/s
+  7750/52688  768.5 MB  3.3 MB/s
+  7800/52688  778.5 MB  3.3 MB/s
+  7850/52688  780.8 MB  3.3 MB/s
+  7900/52688  786.6 MB  3.3 MB/s
+  7950/52688  794.4 MB  3.3 MB/s
+  8000/52688  795.2 MB  3.3 MB/s
+  8050/52688  798.8 MB  3.3 MB/s
+  8100/52688  807.4 MB  3.3 MB/s
+  8150/52688  814.3 MB  3.3 MB/s
+  8200/52688  815.1 MB  3.3 MB/s
+  8250/52688  823.6 MB  3.3 MB/s
+  8300/52688  830.2 MB  3.3 MB/s
+  8350/52688  832.4 MB  3.3 MB/s
+  8400/52688  843.1 MB  3.3 MB/s
+  8450/52688  845.4 MB  3.3 MB/s
+  8500/52688  850.2 MB  3.3 MB/s
+  8550/52688  859.9 MB  3.3 MB/s
+  8600/52688  860.8 MB  3.3 MB/s
+  8650/52688  864.7 MB  3.3 MB/s
+  8700/52688  874.6 MB  3.3 MB/s
+  8750/52688  878.3 MB  3.3 MB/s
+  8800/52688  881.7 MB  3.3 MB/s
+  8850/52688  892.0 MB  3.3 MB/s
+  8900/52688  894.4 MB  3.3 MB/s
+  8950/52688  898.9 MB  3.3 MB/s
+  9000/52688  910.2 MB  3.3 MB/s
+  9050/52688  911.9 MB  3.3 MB/s
+  9100/52688  915.6 MB  3.3 MB/s
+  9150/52688  925.6 MB  3.3 MB/s
+  9200/52688  929.5 MB  3.3 MB/s
+  9250/52688  932.9 MB  3.3 MB/s
+  9300/52688  942.7 MB  3.4 MB/s
+  9350/52688  945.1 MB  3.3 MB/s
+  9400/52688  947.8 MB  3.3 MB/s
+  9450/52688  957.4 MB  3.4 MB/s
+  9500/52688  961.8 MB  3.4 MB/s
+  9550/52688  962.6 MB  3.3 MB/s
+  9600/52688  964.9 MB  3.3 MB/s
+  9650/52688  973.5 MB  3.3 MB/s
+  9700/52688  982.0 MB  3.4 MB/s
+  9750/52688  984.9 MB  3.4 MB/s
+  9800/52688  987.4 MB  3.3 MB/s
+  9850/52688  997.1 MB  3.4 MB/s
+  9900/52688  1001.8 MB  3.4 MB/s
+  9950/52688  1003.1 MB  3.3 MB/s
+  10000/52688  1011.3 MB  3.4 MB/s
+  10050/52688  1016.9 MB  3.4 MB/s
+  10100/52688  1017.7 MB  3.3 MB/s
+  10150/52688  1025.5 MB  3.4 MB/s
+  10200/52688  1033.1 MB  3.4 MB/s
+  10250/52688  1034.4 MB  3.4 MB/s
+  10300/52688  1044.3 MB  3.4 MB/s
+  10350/52688  1046.8 MB  3.4 MB/s
+  10400/52688  1054.1 MB  3.4 MB/s
+  10450/52688  1058.7 MB  3.4 MB/s
+  10500/52688  1061.9 MB  3.4 MB/s
+  10550/52688  1071.1 MB  3.4 MB/s
+  10600/52688  1072.5 MB  3.4 MB/s
+  10650/52688  1082.7 MB  3.4 MB/s
+  10700/52688  1083.6 MB  3.4 MB/s
+  10750/52688  1093.3 MB  3.4 MB/s
+  10800/52688  1095.3 MB  3.4 MB/s
+  10850/52688  1105.0 MB  3.4 MB/s
+  10900/52688  1106.4 MB  3.4 MB/s
+  10950/52688  1117.1 MB  3.4 MB/s
+  11000/52688  1118.4 MB  3.4 MB/s
+  11050/52688  1128.4 MB  3.4 MB/s
+  11100/52688  1130.7 MB  3.4 MB/s
+  11150/52688  1136.5 MB  3.4 MB/s
+  11200/52688  1145.9 MB  3.4 MB/s
+  11250/52688  1148.2 MB  3.4 MB/s
+  11300/52688  1156.3 MB  3.4 MB/s
+  11350/52688  1160.9 MB  3.4 MB/s
+  11400/52688  1166.2 MB  3.4 MB/s
+  11450/52688  1171.2 MB  3.4 MB/s
+  11500/52688  1177.6 MB  3.4 MB/s
+  11550/52688  1181.1 MB  3.4 MB/s
+  11600/52688  1190.0 MB  3.4 MB/s
+  11650/52688  1190.9 MB  3.4 MB/s
+  11700/52688  1198.6 MB  3.4 MB/s
+  11750/52688  1205.4 MB  3.5 MB/s
+  11800/52688  1208.9 MB  3.5 MB/s
+  11850/52688  1217.2 MB  3.5 MB/s
+  11900/52688  1218.0 MB  3.5 MB/s
+  11950/52688  1226.8 MB  3.5 MB/s
+  12000/52688  1232.4 MB  3.5 MB/s
+  12050/52688  1237.5 MB  3.5 MB/s
+  12100/52688  1243.9 MB  3.5 MB/s
+  12150/52688  1248.0 MB  3.5 MB/s
+  12200/52688  1255.4 MB  3.5 MB/s
+  12250/52688  1259.1 MB  3.5 MB/s
+  12300/52688  1266.9 MB  3.5 MB/s
+  12350/52688  1268.5 MB  3.5 MB/s
+  12400/52688  1278.0 MB  3.5 MB/s
+  12450/52688  1279.9 MB  3.5 MB/s
+  12500/52688  1288.8 MB  3.5 MB/s
+  12550/52688  1291.9 MB  3.5 MB/s
+  12600/52688  1292.9 MB  3.5 MB/s
+  12650/52688  1301.0 MB  3.5 MB/s
+  12700/52688  1308.2 MB  3.5 MB/s
+  12750/52688  1309.6 MB  3.5 MB/s
+  12800/52688  1319.4 MB  3.5 MB/s
+  12850/52688  1322.8 MB  3.5 MB/s
+  12900/52688  1330.3 MB  3.5 MB/s
+  12950/52688  1334.5 MB  3.5 MB/s
+  13000/52688  1339.9 MB  3.5 MB/s
+  13050/52688  1347.5 MB  3.5 MB/s
+  13100/52688  1351.0 MB  3.5 MB/s
+  13150/52688  1358.8 MB  3.5 MB/s
+  13200/52688  1359.7 MB  3.5 MB/s
+  13250/52688  1369.9 MB  3.5 MB/s
+  13300/52688  1374.2 MB  3.5 MB/s
+  13350/52688  1374.9 MB  3.5 MB/s
+  13400/52688  1380.2 MB  3.5 MB/s
+  13450/52688  1387.5 MB  3.5 MB/s
+  13500/52688  1393.6 MB  3.5 MB/s
+  13550/52688  1394.5 MB  3.5 MB/s
+  13600/52688  1403.2 MB  3.5 MB/s
+  13650/52688  1410.8 MB  3.5 MB/s
+  13700/52688  1413.8 MB  3.5 MB/s
+  13750/52688  1424.0 MB  3.5 MB/s
+  13800/52688  1425.0 MB  3.5 MB/s
+  13850/52688  1435.0 MB  3.5 MB/s
+  13900/52688  1436.4 MB  3.5 MB/s
+  13950/52688  1443.0 MB  3.5 MB/s
+  14000/52688  1450.4 MB  3.5 MB/s
+  14050/52688  1454.0 MB  3.5 MB/s
+  14100/52688  1462.2 MB  3.5 MB/s
+  14150/52688  1464.6 MB  3.5 MB/s
+  14200/52688  1473.0 MB  3.5 MB/s
+  14250/52688  1474.3 MB  3.5 MB/s
+  14300/52688  1485.2 MB  3.5 MB/s
+  14350/52688  1486.2 MB  3.5 MB/s
+  14400/52688  1493.5 MB  3.5 MB/s
+  14450/52688  1500.4 MB  3.5 MB/s
+  14500/52688  1501.3 MB  3.5 MB/s
+  14550/52688  1506.5 MB  3.5 MB/s
+  14600/52688  1515.3 MB  3.5 MB/s
+  14650/52688  1520.8 MB  3.5 MB/s
+  14700/52688  1521.9 MB  3.5 MB/s
+  14750/52688  1532.8 MB  3.5 MB/s
+  14800/52688  1537.6 MB  3.5 MB/s
+  14850/52688  1541.5 MB  3.5 MB/s
+  14900/52688  1550.8 MB  3.5 MB/s
+  14950/52688  1551.7 MB  3.5 MB/s
+  15000/52688  1555.6 MB  3.5 MB/s
+  15050/52688  1564.7 MB  3.5 MB/s
+  15100/52688  1567.4 MB  3.5 MB/s
+  15150/52688  1568.3 MB  3.5 MB/s
+  15200/52688  1576.8 MB  3.5 MB/s
+  15250/52688  1586.6 MB  3.5 MB/s
+  15300/52688  1588.9 MB  3.5 MB/s
+  15350/52688  1592.0 MB  3.5 MB/s
+  15400/52688  1601.8 MB  3.5 MB/s
+  15450/52688  1606.0 MB  3.5 MB/s
+  15500/52688  1608.5 MB  3.5 MB/s
+  15550/52688  1619.4 MB  3.5 MB/s
+  15600/52688  1622.9 MB  3.5 MB/s
+  15650/52688  1624.7 MB  3.5 MB/s
+  15700/52688  1633.9 MB  3.5 MB/s
+  15750/52688  1640.1 MB  3.5 MB/s
+  15800/52688  1640.9 MB  3.5 MB/s
+  15850/52688  1647.3 MB  3.5 MB/s
+  15900/52688  1657.9 MB  3.5 MB/s
+  15950/52688  1659.1 MB  3.5 MB/s
+  16000/52688  1660.3 MB  3.5 MB/s
+  16050/52688  1669.7 MB  3.5 MB/s
+  16100/52688  1678.4 MB  3.5 MB/s
+  16150/52688  1679.1 MB  3.5 MB/s
+  16200/52688  1679.9 MB  3.5 MB/s
+  16250/52688  1687.8 MB  3.5 MB/s
+  16300/52688  1696.0 MB  3.5 MB/s
+  16350/52688  1702.3 MB  3.5 MB/s
+  16400/52688  1703.1 MB  3.5 MB/s
+  16450/52688  1704.6 MB  3.5 MB/s
+  16500/52688  1713.7 MB  3.5 MB/s
+  16550/52688  1722.7 MB  3.5 MB/s
+  16600/52688  1725.0 MB  3.5 MB/s
+  16650/52688  1725.8 MB  3.5 MB/s
+  16700/52688  1733.1 MB  3.5 MB/s
+  16750/52688  1742.0 MB  3.5 MB/s
+  16800/52688  1746.0 MB  3.5 MB/s
+  16850/52688  1746.8 MB  3.5 MB/s
+  16900/52688  1754.5 MB  3.5 MB/s
+  16950/52688  1764.0 MB  3.5 MB/s
+  17000/52688  1765.7 MB  3.5 MB/s
+  17050/52688  1771.8 MB  3.5 MB/s
+  17100/52688  1780.5 MB  3.5 MB/s
+  17150/52688  1781.4 MB  3.5 MB/s
+  17200/52688  1787.9 MB  3.5 MB/s
+  17250/52688  1796.6 MB  3.5 MB/s
+  17300/52688  1797.3 MB  3.5 MB/s
+  17350/52688  1805.9 MB  3.5 MB/s
+  17400/52688  1809.9 MB  3.5 MB/s
+  17450/52688  1813.3 MB  3.5 MB/s
+  17500/52688  1822.7 MB  3.5 MB/s
+  17550/52688  1824.6 MB  3.5 MB/s
+  17600/52688  1830.1 MB  3.5 MB/s
+  17650/52688  1838.7 MB  3.5 MB/s
+  17700/52688  1839.8 MB  3.5 MB/s
+  17750/52688  1849.7 MB  3.5 MB/s
+  17800/52688  1850.6 MB  3.5 MB/s
+  17850/52688  1859.8 MB  3.5 MB/s
+  17900/52688  1861.5 MB  3.5 MB/s
+  17950/52688  1868.0 MB  3.5 MB/s
+  18000/52688  1873.8 MB  3.5 MB/s
+  18050/52688  1874.6 MB  3.5 MB/s
+  18100/52688  1883.6 MB  3.5 MB/s
+  18150/52688  1888.4 MB  3.5 MB/s
+  18200/52688  1892.0 MB  3.5 MB/s
+  18250/52688  1901.2 MB  3.5 MB/s
+  18300/52688  1902.0 MB  3.5 MB/s
+  18350/52688  1908.8 MB  3.5 MB/s
+  18400/52688  1916.3 MB  3.5 MB/s
+  18450/52688  1917.1 MB  3.5 MB/s
+  18500/52688  1921.7 MB  3.5 MB/s
+  18550/52688  1931.4 MB  3.5 MB/s
+  18600/52688  1936.1 MB  3.5 MB/s
+  18650/52688  1936.9 MB  3.5 MB/s
+  18700/52688  1946.0 MB  3.5 MB/s
+  18750/52688  1953.8 MB  3.5 MB/s
+  18800/52688  1954.6 MB  3.5 MB/s
+  18850/52688  1962.5 MB  3.5 MB/s
+  18900/52688  1969.8 MB  3.5 MB/s
+  18950/52688  1970.6 MB  3.5 MB/s
+  19000/52688  1977.4 MB  3.5 MB/s
+  19050/52688  1986.8 MB  3.5 MB/s
+  19100/52688  1987.6 MB  3.5 MB/s
+  19150/52688  1995.7 MB  3.5 MB/s
+  19200/52688  1999.9 MB  3.5 MB/s
+  19250/52688  2001.9 MB  3.5 MB/s
+  19300/52688  2012.1 MB  3.5 MB/s
+  19350/52688  2015.7 MB  3.5 MB/s
+  19400/52688  2017.7 MB  3.5 MB/s
+  19450/52688  2026.1 MB  3.5 MB/s
+  19500/52688  2030.2 MB  3.5 MB/s
+  19550/52688  2031.0 MB  3.5 MB/s
+  19600/52688  2039.8 MB  3.5 MB/s
+  19650/52688  2047.5 MB  3.5 MB/s
+  19700/52688  2048.3 MB  3.5 MB/s
+  19750/52688  2057.2 MB  3.5 MB/s
+  19800/52688  2063.2 MB  3.5 MB/s
+  19850/52688  2065.1 MB  3.5 MB/s
+  19900/52688  2075.0 MB  3.5 MB/s
+  19950/52688  2077.4 MB  3.5 MB/s
+  20000/52688  2084.1 MB  3.5 MB/s
+  20050/52688  2090.8 MB  3.5 MB/s
+  20100/52688  2091.6 MB  3.5 MB/s
+  20150/52688  2101.4 MB  3.5 MB/s
+  20200/52688  2106.9 MB  3.5 MB/s
+  20250/52688  2107.7 MB  3.5 MB/s
+  20300/52688  2113.0 MB  3.5 MB/s
+  20350/52688  2121.7 MB  3.5 MB/s
+  20400/52688  2126.2 MB  3.5 MB/s
+  20450/52688  2131.9 MB  3.5 MB/s
+  20500/52688  2137.5 MB  3.5 MB/s
+  20550/52688  2143.3 MB  3.5 MB/s
+  20600/52688  2148.7 MB  3.5 MB/s
+  20650/52688  2154.2 MB  3.5 MB/s
+  20700/52688  2160.3 MB  3.5 MB/s
+  20750/52688  2162.8 MB  3.5 MB/s
+  20800/52688  2173.0 MB  3.5 MB/s
+  20850/52688  2174.3 MB  3.5 MB/s
+  20900/52688  2183.5 MB  3.5 MB/s
+  20950/52688  2185.8 MB  3.5 MB/s
+  21000/52688  2194.2 MB  3.5 MB/s
+  21050/52688  2196.3 MB  3.5 MB/s
+  21100/52688  2205.2 MB  3.5 MB/s
+  21150/52688  2206.8 MB  3.5 MB/s
+  21200/52688  2215.5 MB  3.5 MB/s
+  21250/52688  2218.3 MB  3.5 MB/s
+  21300/52688  2225.1 MB  3.5 MB/s
+  21350/52688  2230.3 MB  3.5 MB/s
+  21400/52688  2231.1 MB  3.4 MB/s
+  21450/52688  2238.2 MB  3.4 MB/s
+  21500/52688  2245.7 MB  3.4 MB/s
+  21550/52688  2246.7 MB  3.4 MB/s
+  21600/52688  2254.8 MB  3.4 MB/s
+  21650/52688  2259.7 MB  3.4 MB/s
+  21700/52688  2264.0 MB  3.4 MB/s
+  21750/52688  2271.9 MB  3.4 MB/s
+  21800/52688  2272.8 MB  3.4 MB/s
+  21850/52688  2282.1 MB  3.4 MB/s
+  21900/52688  2284.8 MB  3.4 MB/s
+  21950/52688  2287.4 MB  3.4 MB/s
+  22000/52688  2296.9 MB  3.4 MB/s
+  22050/52688  2301.3 MB  3.4 MB/s
+  22100/52688  2303.0 MB  3.4 MB/s
+  22150/52688  2310.8 MB  3.4 MB/s
+  22200/52688  2317.4 MB  3.4 MB/s
+  22250/52688  2318.2 MB  3.4 MB/s
+  22300/52688  2327.1 MB  3.4 MB/s
+  22350/52688  2332.7 MB  3.4 MB/s
+  22400/52688  2333.9 MB  3.4 MB/s
+  22450/52688  2343.8 MB  3.4 MB/s
+  22500/52688  2348.5 MB  3.4 MB/s
+  22550/52688  2349.4 MB  3.4 MB/s
+  22600/52688  2355.3 MB  3.4 MB/s
+  22650/52688  2365.2 MB  3.4 MB/s
+  22700/52688  2369.2 MB  3.4 MB/s
+  22750/52688  2370.4 MB  3.4 MB/s
+  22800/52688  2380.6 MB  3.4 MB/s
+  22850/52688  2386.8 MB  3.4 MB/s
+  22900/52688  2387.6 MB  3.4 MB/s
+  22950/52688  2394.6 MB  3.4 MB/s
+  23000/52688  2404.4 MB  3.4 MB/s
+  23050/52688  2406.7 MB  3.4 MB/s
+  23100/52688  2410.0 MB  3.4 MB/s
+  23150/52688  2420.3 MB  3.4 MB/s
+  23200/52688  2424.5 MB  3.4 MB/s
+  23250/52688  2425.4 MB  3.4 MB/s
+  23300/52688  2429.8 MB  3.4 MB/s
+  23350/52688  2438.4 MB  3.4 MB/s
+  23400/52688  2446.9 MB  3.4 MB/s
+  23450/52688  2447.8 MB  3.4 MB/s
+  23500/52688  2452.5 MB  3.4 MB/s
+  23550/52688  2461.5 MB  3.4 MB/s
+  23600/52688  2464.9 MB  3.4 MB/s
+  23650/52688  2469.5 MB  3.4 MB/s
+  23700/52688  2477.8 MB  3.4 MB/s
+  23750/52688  2478.9 MB  3.4 MB/s
+  23800/52688  2489.1 MB  3.4 MB/s
+  23850/52688  2491.6 MB  3.4 MB/s
+  23900/52688  2497.3 MB  3.4 MB/s
+  23950/52688  2503.2 MB  3.4 MB/s
+  24000/52688  2506.7 MB  3.4 MB/s
+  24050/52688  2514.1 MB  3.4 MB/s
+  24100/52688  2516.4 MB  3.4 MB/s
+  24150/52688  2524.2 MB  3.4 MB/s
+  24200/52688  2525.3 MB  3.4 MB/s
+  24250/52688  2535.0 MB  3.4 MB/s
+  24300/52688  2535.9 MB  3.4 MB/s
+  24350/52688  2542.5 MB  3.4 MB/s
+  24400/52688  2549.8 MB  3.4 MB/s
+  24450/52688  2550.6 MB  3.4 MB/s
+  24500/52688  2561.0 MB  3.4 MB/s
+  24550/52688  2563.9 MB  3.4 MB/s
+  24600/52688  2571.6 MB  3.4 MB/s
+  24650/52688  2575.4 MB  3.4 MB/s
+  24700/52688  2576.5 MB  3.4 MB/s
+  24750/52688  2585.9 MB  3.4 MB/s
+  24800/52688  2591.5 MB  3.4 MB/s
+  24850/52688  2596.7 MB  3.4 MB/s
+  24900/52688  2602.4 MB  3.4 MB/s
+  24950/52688  2605.7 MB  3.4 MB/s
+  25000/52688  2614.9 MB  3.4 MB/s
+  25050/52688  2615.7 MB  3.4 MB/s
+  25100/52688  2622.9 MB  3.4 MB/s
+  25150/52688  2629.9 MB  3.4 MB/s
+  25200/52688  2630.8 MB  3.4 MB/s
+  25250/52688  2639.7 MB  3.4 MB/s
+  25300/52688  2644.9 MB  3.4 MB/s
+  25350/52688  2648.6 MB  3.4 MB/s
+  25400/52688  2658.0 MB  3.4 MB/s
+  25450/52688  2658.8 MB  3.4 MB/s
+  25500/52688  2665.4 MB  3.4 MB/s
+  25550/52688  2672.1 MB  3.4 MB/s
+  25600/52688  2673.7 MB  3.4 MB/s
+  25650/52688  2683.7 MB  3.4 MB/s
+  25700/52688  2685.5 MB  3.4 MB/s
+  25750/52688  2689.7 MB  3.4 MB/s
+  25800/52688  2698.6 MB  3.4 MB/s
+  25850/52688  2701.3 MB  3.4 MB/s
+  25900/52688  2708.0 MB  3.4 MB/s
+  25950/52688  2714.9 MB  3.4 MB/s
+  26000/52688  2716.9 MB  3.4 MB/s
+  26050/52688  2726.5 MB  3.4 MB/s
+  26100/52688  2728.1 MB  3.4 MB/s
+  26150/52688  2733.6 MB  3.4 MB/s
+  26200/52688  2741.4 MB  3.4 MB/s
+  26250/52688  2742.2 MB  3.4 MB/s
+  26300/52688  2748.6 MB  3.4 MB/s
+  26350/52688  2757.5 MB  3.4 MB/s
+  26400/52688  2758.6 MB  3.4 MB/s
+  26450/52688  2767.1 MB  3.4 MB/s
+  26500/52688  2770.9 MB  3.4 MB/s
+  26550/52688  2775.8 MB  3.4 MB/s
+  26600/52688  2784.4 MB  3.4 MB/s
+  26650/52688  2785.3 MB  3.4 MB/s
+  26700/52688  2794.8 MB  3.4 MB/s
+  26750/52688  2797.7 MB  3.4 MB/s
+  26800/52688  2798.6 MB  3.4 MB/s
+  26850/52688  2805.5 MB  3.4 MB/s
+  26900/52688  2814.3 MB  3.4 MB/s
+  26950/52688  2818.9 MB  3.4 MB/s
+  27000/52688  2824.5 MB  3.4 MB/s
+  27050/52688  2830.1 MB  3.4 MB/s
+  27100/52688  2833.8 MB  3.4 MB/s
+  27150/52688  2842.3 MB  3.4 MB/s
+  27200/52688  2843.3 MB  3.4 MB/s
+  27250/52688  2853.0 MB  3.4 MB/s
+  27300/52688  2856.5 MB  3.4 MB/s
+  27350/52688  2860.5 MB  3.4 MB/s
+  27400/52688  2870.9 MB  3.4 MB/s
+  27450/52688  2872.3 MB  3.4 MB/s
+  27500/52688  2880.7 MB  3.4 MB/s
+  27550/52688  2884.3 MB  3.4 MB/s
+  27600/52688  2891.9 MB  3.4 MB/s
+  27650/52688  2895.2 MB  3.4 MB/s
+  27700/52688  2900.5 MB  3.4 MB/s
+  27750/52688  2907.5 MB  3.4 MB/s
+  27800/52688  2908.8 MB  3.4 MB/s
+  27850/52688  2918.8 MB  3.4 MB/s
+  27900/52688  2921.4 MB  3.4 MB/s
+  27950/52688  2927.6 MB  3.4 MB/s
+  28000/52688  2933.4 MB  3.4 MB/s
+  28050/52688  2934.2 MB  3.4 MB/s
+  28100/52688  2940.1 MB  3.4 MB/s
+  28150/52688  2948.7 MB  3.4 MB/s
+  28200/52688  2951.2 MB  3.4 MB/s
+  28250/52688  2957.5 MB  3.4 MB/s
+  28300/52688  2963.5 MB  3.4 MB/s
+  28350/52688  2965.9 MB  3.4 MB/s
+  28400/52688  2975.3 MB  3.4 MB/s
+  28450/52688  2976.7 MB  3.4 MB/s
+  28500/52688  2983.7 MB  3.4 MB/s
+  28550/52688  2990.6 MB  3.4 MB/s
+  28600/52688  2991.5 MB  3.4 MB/s
+  28650/52688  2993.2 MB  3.3 MB/s
+  28700/52688  3004.2 MB  3.4 MB/s
+  28750/52688  3013.2 MB  3.4 MB/s
+  28800/52688  3015.5 MB  3.4 MB/s
+  28850/52688  3019.6 MB  3.4 MB/s
+  28900/52688  3028.7 MB  3.4 MB/s
+  28950/52688  3030.5 MB  3.4 MB/s
+  29000/52688  3032.6 MB  3.3 MB/s
+  29050/52688  3042.3 MB  3.4 MB/s
+  29100/52688  3048.2 MB  3.4 MB/s
+  29150/52688  3049.1 MB  3.3 MB/s
+  29200/52688  3058.3 MB  3.3 MB/s
+  29250/52688  3064.0 MB  3.3 MB/s
+  29300/52688  3064.8 MB  3.3 MB/s
+  29350/52688  3071.5 MB  3.3 MB/s
+  29400/52688  3081.0 MB  3.3 MB/s
+  29450/52688  3083.3 MB  3.3 MB/s
+  29500/52688  3088.2 MB  3.3 MB/s
+  29550/52688  3098.7 MB  3.3 MB/s
+  29600/52688  3100.1 MB  3.3 MB/s
+  29650/52688  3104.4 MB  3.3 MB/s
+  29700/52688  3114.0 MB  3.3 MB/s
+  29750/52688  3117.7 MB  3.3 MB/s
+  29800/52688  3118.6 MB  3.3 MB/s
+  29850/52688  3127.2 MB  3.3 MB/s
+  29900/52688  3135.8 MB  3.3 MB/s
+  29950/52688  3136.6 MB  3.3 MB/s
+  30000/52688  3143.9 MB  3.3 MB/s
+  30050/52688  3151.2 MB  3.3 MB/s
+  30100/52688  3152.0 MB  3.3 MB/s
+  30150/52688  3155.6 MB  3.3 MB/s
+  30200/52688  3164.6 MB  3.3 MB/s
+  30250/52688  3170.9 MB  3.3 MB/s
+  30300/52688  3171.7 MB  3.3 MB/s
+  30350/52688  3179.4 MB  3.3 MB/s
+  30400/52688  3188.0 MB  3.3 MB/s
+  30450/52688  3188.8 MB  3.3 MB/s
+  30500/52688  3198.5 MB  3.3 MB/s
+  30550/52688  3201.1 MB  3.3 MB/s
+  30600/52688  3207.9 MB  3.3 MB/s
+  30650/52688  3214.2 MB  3.3 MB/s
+  30700/52688  3217.2 MB  3.3 MB/s
+  30750/52688  3225.6 MB  3.3 MB/s
+  30800/52688  3226.4 MB  3.3 MB/s
+  30850/52688  3235.4 MB  3.3 MB/s
+  30900/52688  3237.8 MB  3.3 MB/s
+  30950/52688  3245.4 MB  3.3 MB/s
+  31000/52688  3249.0 MB  3.3 MB/s
+  31050/52688  3256.9 MB  3.3 MB/s
+  31100/52688  3261.9 MB  3.3 MB/s
+  31150/52688  3267.6 MB  3.3 MB/s
+  31200/52688  3272.8 MB  3.3 MB/s
+  31250/52688  3277.2 MB  3.3 MB/s
+  31300/52688  3283.7 MB  3.3 MB/s
+  31350/52688  3287.2 MB  3.3 MB/s
+  31400/52688  3294.6 MB  3.3 MB/s
+  31450/52688  3298.0 MB  3.3 MB/s
+  31500/52688  3305.3 MB  3.3 MB/s
+  31550/52688  3308.1 MB  3.3 MB/s
+  31600/52688  3316.8 MB  3.3 MB/s
+  31650/52688  3317.6 MB  3.3 MB/s
+  31700/52688  3325.3 MB  3.3 MB/s
+  31750/52688  3331.3 MB  3.3 MB/s
+  31800/52688  3333.7 MB  3.3 MB/s
+  31850/52688  3343.0 MB  3.3 MB/s
+  31900/52688  3344.1 MB  3.3 MB/s
+  31950/52688  3352.0 MB  3.3 MB/s
+  32000/52688  3356.8 MB  3.3 MB/s
+  32050/52688  3360.2 MB  3.3 MB/s
+  32100/52688  3368.9 MB  3.3 MB/s
+  32150/52688  3370.0 MB  3.3 MB/s
+  32200/52688  3376.3 MB  3.3 MB/s
+  32250/52688  3383.1 MB  3.3 MB/s
+  32300/52688  3386.5 MB  3.3 MB/s
+  32350/52688  3394.6 MB  3.3 MB/s
+  32400/52688  3395.4 MB  3.3 MB/s
+  32450/52688  3405.1 MB  3.3 MB/s
+  32500/52688  3408.4 MB  3.3 MB/s
+  32550/52688  3415.5 MB  3.3 MB/s
+  32600/52688  3420.4 MB  3.3 MB/s
+  32650/52688  3426.1 MB  3.3 MB/s
+  32700/52688  3430.8 MB  3.3 MB/s
+  32750/52688  3435.5 MB  3.3 MB/s
+  32800/52688  3443.9 MB  3.3 MB/s
+  32850/52688  3446.3 MB  3.3 MB/s
+  32900/52688  3455.4 MB  3.3 MB/s
+  32950/52688  3456.4 MB  3.3 MB/s
+  33000/52688  3466.5 MB  3.3 MB/s
+  33050/52688  3467.4 MB  3.3 MB/s
+  33100/52688  3477.0 MB  3.3 MB/s
+  33150/52688  3478.9 MB  3.3 MB/s
+  33200/52688  3487.0 MB  3.3 MB/s
+  33250/52688  3490.9 MB  3.3 MB/s
+  33300/52688  3497.1 MB  3.3 MB/s
+  33350/52688  3502.4 MB  3.3 MB/s
+  33400/52688  3503.2 MB  3.3 MB/s
+  33450/52688  3510.3 MB  3.3 MB/s
+  33500/52688  3519.5 MB  3.3 MB/s
+  33550/52688  3521.0 MB  3.3 MB/s
+  33600/52688  3530.1 MB  3.3 MB/s
+  33650/52688  3532.4 MB  3.3 MB/s
+  33700/52688  3540.5 MB  3.3 MB/s
+  33750/52688  3544.0 MB  3.3 MB/s
+  33800/52688  3551.5 MB  3.3 MB/s
+  33850/52688  3554.5 MB  3.3 MB/s
+  33900/52688  3560.9 MB  3.3 MB/s
+  33950/52688  3566.6 MB  3.3 MB/s
+  34000/52688  3571.4 MB  3.3 MB/s
+  34050/52688  3578.4 MB  3.3 MB/s
+  34100/52688  3582.0 MB  3.3 MB/s
+  34150/52688  3589.6 MB  3.3 MB/s
+  34200/52688  3591.9 MB  3.3 MB/s
+  34250/52688  3600.6 MB  3.3 MB/s
+  34300/52688  3601.3 MB  3.3 MB/s
+  34350/52688  3603.1 MB  3.3 MB/s
+  34400/52688  3612.4 MB  3.3 MB/s
+  34450/52688  3619.9 MB  3.3 MB/s
+  34500/52688  3621.2 MB  3.3 MB/s
+  34550/52688  3630.9 MB  3.3 MB/s
+  34600/52688  3632.5 MB  3.3 MB/s
+  34650/52688  3639.8 MB  3.3 MB/s
+  34700/52688  3645.2 MB  3.3 MB/s
+  34750/52688  3646.0 MB  3.3 MB/s
+  34800/52688  3652.3 MB  3.3 MB/s
+  34850/52688  3660.8 MB  3.3 MB/s
+  34900/52688  3663.9 MB  3.3 MB/s
+  34950/52688  3668.4 MB  3.3 MB/s
+  35000/52688  3676.6 MB  3.3 MB/s
+  35050/52688  3677.4 MB  3.3 MB/s
+  35100/52688  3686.3 MB  3.3 MB/s
+  35150/52688  3689.4 MB  3.3 MB/s
+  35200/52688  3697.4 MB  3.3 MB/s
+  35250/52688  3699.6 MB  3.3 MB/s
+  35300/52688  3707.0 MB  3.3 MB/s
+  35350/52688  3710.7 MB  3.3 MB/s
+  35400/52688  3716.9 MB  3.3 MB/s
+  35450/52688  3719.2 MB  3.3 MB/s
+  35500/52688  3728.4 MB  3.3 MB/s
+  35550/52688  3730.4 MB  3.3 MB/s
+  35600/52688  3738.5 MB  3.3 MB/s
+  35650/52688  3739.3 MB  3.3 MB/s
+  35700/52688  3748.2 MB  3.3 MB/s
+  35750/52688  3752.1 MB  3.3 MB/s
+  35800/52688  3759.9 MB  3.3 MB/s
+  35850/52688  3762.5 MB  3.3 MB/s
+  35900/52688  3771.2 MB  3.3 MB/s
+  35950/52688  3772.2 MB  3.3 MB/s
+  36000/52688  3780.1 MB  3.3 MB/s
+  36050/52688  3783.9 MB  3.3 MB/s
+  36100/52688  3790.4 MB  3.3 MB/s
+  36150/52688  3794.1 MB  3.3 MB/s
+  36200/52688  3799.3 MB  3.3 MB/s
+  36250/52688  3805.4 MB  3.3 MB/s
+  36300/52688  3808.6 MB  3.3 MB/s
+  36350/52688  3816.0 MB  3.3 MB/s
+  36400/52688  3816.8 MB  3.3 MB/s
+  36450/52688  3824.9 MB  3.3 MB/s
+  36500/52688  3830.1 MB  3.3 MB/s
+  36550/52688  3836.3 MB  3.3 MB/s
+  36600/52688  3841.1 MB  3.3 MB/s
+  36650/52688  3845.9 MB  3.3 MB/s
+  36700/52688  3851.7 MB  3.3 MB/s
+  36750/52688  3859.0 MB  3.3 MB/s
+  36800/52688  3862.0 MB  3.3 MB/s
+  36850/52688  3868.0 MB  3.3 MB/s
+  36900/52688  3873.5 MB  3.3 MB/s
+  36950/52688  3877.2 MB  3.3 MB/s
+  37000/52688  3884.4 MB  3.3 MB/s
+  37050/52688  3886.6 MB  3.3 MB/s
+  37100/52688  3894.8 MB  3.3 MB/s
+  37150/52688  3899.4 MB  3.3 MB/s
+  37200/52688  3904.0 MB  3.3 MB/s
+  37250/52688  3909.3 MB  3.3 MB/s
+  37300/52688  3914.7 MB  3.3 MB/s
+  37350/52688  3919.1 MB  3.3 MB/s
+  37400/52688  3925.4 MB  3.3 MB/s
+  37450/52688  3931.0 MB  3.3 MB/s
+  37500/52688  3934.6 MB  3.3 MB/s
+  37550/52688  3942.7 MB  3.3 MB/s
+  37600/52688  3945.7 MB  3.3 MB/s
+  37650/52688  3951.3 MB  3.3 MB/s
+  37700/52688  3955.2 MB  3.3 MB/s
+  37750/52688  3962.4 MB  3.3 MB/s
+  37800/52688  3965.2 MB  3.3 MB/s
+  37850/52688  3973.7 MB  3.3 MB/s
+  37900/52688  3977.0 MB  3.3 MB/s
+  37950/52688  3983.5 MB  3.3 MB/s
+  38000/52688  3987.3 MB  3.3 MB/s
+  38050/52688  3994.5 MB  3.3 MB/s
+  38100/52688  3999.3 MB  3.3 MB/s
+  38150/52688  4003.3 MB  3.3 MB/s
+  38200/52688  4008.8 MB  3.3 MB/s
+  38250/52688  4013.7 MB  3.3 MB/s
+  38300/52688  4019.3 MB  3.3 MB/s
+  38350/52688  4024.0 MB  3.3 MB/s
+  38400/52688  4031.4 MB  3.3 MB/s
+  38450/52688  4033.5 MB  3.3 MB/s
+  38500/52688  4042.4 MB  3.3 MB/s
+  38550/52688  4045.0 MB  3.3 MB/s
+  38600/52688  4052.6 MB  3.3 MB/s
+  38650/52688  4055.6 MB  3.3 MB/s
+  38700/52688  4063.7 MB  3.3 MB/s
+  38750/52688  4068.6 MB  3.3 MB/s
+  38800/52688  4073.0 MB  3.3 MB/s
+  38850/52688  4080.5 MB  3.3 MB/s
+  38900/52688  4082.1 MB  3.3 MB/s
+  38950/52688  4091.3 MB  3.3 MB/s
+  39000/52688  4092.6 MB  3.3 MB/s
+  39050/52688  4101.3 MB  3.3 MB/s
+  39100/52688  4105.3 MB  3.3 MB/s
+  39150/52688  4110.6 MB  3.3 MB/s
+  39200/52688  4117.2 MB  3.3 MB/s
+  39250/52688  4121.0 MB  3.3 MB/s
+  39300/52688  4128.0 MB  3.3 MB/s
+  39350/52688  4131.1 MB  3.3 MB/s
+  39400/52688  4139.7 MB  3.3 MB/s
+  39450/52688  4141.3 MB  3.3 MB/s
+  39500/52688  4150.2 MB  3.3 MB/s
+  39550/52688  4152.3 MB  3.3 MB/s
+  39600/52688  4160.5 MB  3.3 MB/s
+  39650/52688  4162.3 MB  3.3 MB/s
+  39700/52688  4171.4 MB  3.3 MB/s
+  39750/52688  4172.2 MB  3.3 MB/s
+  39800/52688  4181.6 MB  3.3 MB/s
+  39850/52688  4183.1 MB  3.3 MB/s
+  39900/52688  4192.1 MB  3.3 MB/s
+  39950/52688  4193.3 MB  3.3 MB/s
+  40000/52688  4202.5 MB  3.3 MB/s
+  40050/52688  4204.0 MB  3.3 MB/s
+  40100/52688  4212.6 MB  3.3 MB/s
+  40150/52688  4217.2 MB  3.3 MB/s
+  40200/52688  4222.0 MB  3.3 MB/s
+  40250/52688  4229.7 MB  3.3 MB/s
+  40300/52688  4231.4 MB  3.3 MB/s
+  40350/52688  4240.1 MB  3.3 MB/s
+  40400/52688  4241.8 MB  3.3 MB/s
+  40450/52688  4250.6 MB  3.3 MB/s
+  40500/52688  4254.0 MB  3.3 MB/s
+  40550/52688  4260.4 MB  3.3 MB/s
+  40600/52688  4266.2 MB  3.3 MB/s
+  40650/52688  4269.3 MB  3.3 MB/s
+  40700/52688  4277.8 MB  3.3 MB/s
+  40750/52688  4280.4 MB  3.3 MB/s
+  40800/52688  4288.3 MB  3.3 MB/s
+  40850/52688  4292.8 MB  3.3 MB/s
+  40900/52688  4298.0 MB  3.3 MB/s
+  40950/52688  4304.0 MB  3.3 MB/s
+  41000/52688  4307.8 MB  3.3 MB/s
+  41050/52688  4316.6 MB  3.3 MB/s
+  41100/52688  4318.6 MB  3.3 MB/s
+  41150/52688  4328.0 MB  3.3 MB/s
+  41200/52688  4330.1 MB  3.3 MB/s
+  41250/52688  4337.5 MB  3.3 MB/s
+  41300/52688  4341.7 MB  3.3 MB/s
+  41350/52688  4346.6 MB  3.3 MB/s
+  41400/52688  4352.7 MB  3.3 MB/s
+  41450/52688  4356.3 MB  3.3 MB/s
+  41500/52688  4365.0 MB  3.3 MB/s
+  41550/52688  4366.9 MB  3.3 MB/s
+  41600/52688  4375.6 MB  3.3 MB/s
+  41650/52688  4377.2 MB  3.3 MB/s
+  41700/52688  4386.6 MB  3.3 MB/s
+  41750/52688  4390.5 MB  3.3 MB/s
+  41800/52688  4395.6 MB  3.3 MB/s
+  41850/52688  4403.1 MB  3.3 MB/s
+  41900/52688  4405.1 MB  3.3 MB/s
+  41950/52688  4413.8 MB  3.3 MB/s
+  42000/52688  4415.3 MB  3.3 MB/s
+  42050/52688  4424.2 MB  3.3 MB/s
+  42100/52688  4426.4 MB  3.3 MB/s
+  42150/52688  4433.7 MB  3.3 MB/s
+  42200/52688  4436.3 MB  3.3 MB/s
+  42250/52688  4445.2 MB  3.3 MB/s
+  42300/52688  4446.0 MB  3.3 MB/s
+  42350/52688  4454.0 MB  3.3 MB/s
+  42400/52688  4460.5 MB  3.3 MB/s
+  42450/52688  4464.3 MB  3.3 MB/s
+  42500/52688  4472.1 MB  3.3 MB/s
+  42550/52688  4477.7 MB  3.3 MB/s
+  42600/52688  4481.6 MB  3.3 MB/s
+  42650/52688  4487.2 MB  3.3 MB/s
+  42700/52688  4492.1 MB  3.3 MB/s
+  42750/52688  4499.1 MB  3.3 MB/s
+  42800/52688  4502.4 MB  3.3 MB/s
+  42850/52688  4510.7 MB  3.3 MB/s
+  42900/52688  4512.4 MB  3.3 MB/s
+  42950/52688  4521.9 MB  3.3 MB/s
+  43000/52688  4525.5 MB  3.3 MB/s
+  43050/52688  4530.8 MB  3.3 MB/s
+  43100/52688  4537.4 MB  3.3 MB/s
+  43150/52688  4539.7 MB  3.3 MB/s
+  43200/52688  4548.4 MB  3.3 MB/s
+  43250/52688  4552.9 MB  3.3 MB/s
+  43300/52688  4558.0 MB  3.3 MB/s
+  43350/52688  4565.9 MB  3.3 MB/s
+  43400/52688  4568.4 MB  3.3 MB/s
+  43450/52688  4576.0 MB  3.3 MB/s
+  43500/52688  4581.5 MB  3.3 MB/s
+  43550/52688  4585.5 MB  3.3 MB/s
+  43600/52688  4592.2 MB  3.3 MB/s
+  43650/52688  4595.7 MB  3.3 MB/s
+  43700/52688  4604.4 MB  3.3 MB/s
+  43750/52688  4606.8 MB  3.3 MB/s
+  43800/52688  4614.4 MB  3.3 MB/s
+  43850/52688  4618.4 MB  3.3 MB/s
+  43900/52688  4626.3 MB  3.3 MB/s
+  43950/52688  4631.8 MB  3.3 MB/s
+  44000/52688  4636.4 MB  3.3 MB/s
+  44050/52688  4643.0 MB  3.3 MB/s
+  44100/52688  4645.8 MB  3.3 MB/s
+  44150/52688  4654.5 MB  3.3 MB/s
+  44200/52688  4657.9 MB  3.3 MB/s
+  44250/52688  4663.4 MB  3.3 MB/s
+  44300/52688  4670.8 MB  3.3 MB/s
+  44350/52688  4673.1 MB  3.3 MB/s
+  44400/52688  4681.9 MB  3.3 MB/s
+  44450/52688  4684.8 MB  3.3 MB/s
+  44500/52688  4693.0 MB  3.3 MB/s
+  44550/52688  4694.5 MB  3.3 MB/s
+  44600/52688  4702.3 MB  3.3 MB/s
+  44650/52688  4703.1 MB  3.3 MB/s
+  44700/52688  4711.0 MB  3.3 MB/s
+  44750/52688  4711.8 MB  3.3 MB/s
+  44800/52688  4719.4 MB  3.3 MB/s
+  44850/52688  4721.2 MB  3.3 MB/s
+  44900/52688  4726.2 MB  3.3 MB/s
+  44950/52688  4733.1 MB  3.3 MB/s
+  45000/52688  4735.1 MB  3.3 MB/s
+  45050/52688  4742.0 MB  3.3 MB/s
+  45100/52688  4743.2 MB  3.3 MB/s
+  45150/52688  4751.7 MB  3.3 MB/s
+  45200/52688  4752.4 MB  3.3 MB/s
+  45250/52688  4760.2 MB  3.3 MB/s
+  45300/52688  4761.4 MB  3.3 MB/s
+  45350/52688  4767.6 MB  3.3 MB/s
+  45400/52688  4769.8 MB  3.3 MB/s
+  45450/52688  4775.5 MB  3.3 MB/s
+  45500/52688  4778.7 MB  3.3 MB/s
+  45550/52688  4783.4 MB  3.3 MB/s
+  45600/52688  4787.8 MB  3.3 MB/s
+  45650/52688  4790.8 MB  3.3 MB/s
+  45700/52688  4797.8 MB  3.3 MB/s
+  45750/52688  4798.6 MB  3.3 MB/s
+  45800/52688  4806.2 MB  3.3 MB/s
+  45850/52688  4806.9 MB  3.3 MB/s
+  45900/52688  4813.8 MB  3.3 MB/s
+  45950/52688  4815.3 MB  3.3 MB/s
+  46000/52688  4821.2 MB  3.3 MB/s
+  46050/52688  4824.0 MB  3.2 MB/s
+  46100/52688  4829.3 MB  3.2 MB/s
+  46150/52688  4832.6 MB  3.2 MB/s
+  46200/52688  4836.7 MB  3.2 MB/s
+  46250/52688  4840.9 MB  3.2 MB/s
+  46300/52688  4844.1 MB  3.2 MB/s
+  46350/52688  4848.7 MB  3.2 MB/s
+  46400/52688  4849.3 MB  3.2 MB/s
+  46450/52688  4854.1 MB  3.2 MB/s
+  46500/52688  4861.3 MB  3.2 MB/s
+  46550/52688  4862.2 MB  3.2 MB/s
+  46600/52688  4862.8 MB  3.2 MB/s
+  46650/52688  4869.3 MB  3.2 MB/s
+  46700/52688  4876.4 MB  3.2 MB/s
+  46750/52688  4878.5 MB  3.2 MB/s
+  46800/52688  4879.6 MB  3.2 MB/s
+  46850/52688  4886.8 MB  3.2 MB/s
+  46900/52688  4892.3 MB  3.2 MB/s
+  46950/52688  4893.0 MB  3.2 MB/s
+  47000/52688  4898.7 MB  3.2 MB/s
+  47050/52688  4905.0 MB  3.2 MB/s
+  47100/52688  4905.8 MB  3.2 MB/s
+  47150/52688  4906.4 MB  3.2 MB/s
+  47200/52688  4912.6 MB  3.2 MB/s
+  47250/52688  4921.0 MB  3.2 MB/s
+  47300/52688  4922.6 MB  3.2 MB/s
+  47350/52688  4923.7 MB  3.2 MB/s
+  47400/52688  4930.7 MB  3.2 MB/s
+  47450/52688  4934.7 MB  3.2 MB/s
+  47500/52688  4935.3 MB  3.2 MB/s
+  47550/52688  4940.3 MB  3.2 MB/s
+  47600/52688  4945.7 MB  3.2 MB/s
+  47650/52688  4946.4 MB  3.2 MB/s
+  47700/52688  4954.7 MB  3.2 MB/s
+  47750/52688  4958.5 MB  3.2 MB/s
+  47800/52688  4960.6 MB  3.2 MB/s
+  47850/52688  4968.3 MB  3.2 MB/s
+  47900/52688  4970.6 MB  3.2 MB/s
+  47950/52688  4973.4 MB  3.2 MB/s
+  48000/52688  4979.5 MB  3.2 MB/s
+  48050/52688  4980.3 MB  3.2 MB/s
+  48100/52688  4985.0 MB  3.2 MB/s
+  48150/52688  4992.4 MB  3.2 MB/s
+  48200/52688  4993.1 MB  3.2 MB/s
+  48250/52688  4999.3 MB  3.2 MB/s
+  48300/52688  5002.4 MB  3.2 MB/s
+  48350/52688  5003.1 MB  3.2 MB/s
+  48400/52688  5010.3 MB  3.2 MB/s
+  48450/52688  5014.0 MB  3.2 MB/s
+  48500/52688  5014.8 MB  3.2 MB/s
+  48550/52688  5022.7 MB  3.2 MB/s
+  48600/52688  5024.8 MB  3.2 MB/s
+  48650/52688  5027.7 MB  3.2 MB/s
+  48700/52688  5034.1 MB  3.2 MB/s
+  48750/52688  5035.2 MB  3.2 MB/s
+  48800/52688  5039.4 MB  3.2 MB/s
+  48850/52688  5046.1 MB  3.2 MB/s
+  48900/52688  5046.8 MB  3.2 MB/s
+  48950/52688  5052.5 MB  3.2 MB/s
+  49000/52688  5059.9 MB  3.2 MB/s
+  49050/52688  5060.8 MB  3.2 MB/s
+  49100/52688  5065.8 MB  3.2 MB/s
+  49150/52688  5071.1 MB  3.2 MB/s
+  49200/52688  5071.9 MB  3.2 MB/s
+  49250/52688  5077.2 MB  3.2 MB/s
+  49300/52688  5082.9 MB  3.2 MB/s
+  49350/52688  5083.6 MB  3.2 MB/s
+  49400/52688  5088.4 MB  3.2 MB/s
+  49450/52688  5097.7 MB  3.2 MB/s
+  49500/52688  5099.3 MB  3.2 MB/s
+  49550/52688  5102.6 MB  3.2 MB/s
+  49600/52688  5112.5 MB  3.2 MB/s
+  49650/52688  5114.2 MB  3.2 MB/s
+  49700/52688  5117.7 MB  3.2 MB/s
+  49750/52688  5125.6 MB  3.2 MB/s
+  49800/52688  5126.4 MB  3.2 MB/s
+  49850/52688  5132.1 MB  3.2 MB/s
+  49900/52688  5138.1 MB  3.2 MB/s
+  49950/52688  5139.3 MB  3.2 MB/s
+  50000/52688  5149.3 MB  3.2 MB/s
+  50050/52688  5151.1 MB  3.2 MB/s
+  50100/52688  5152.1 MB  3.2 MB/s
+  50150/52688  5161.6 MB  3.2 MB/s
+  50200/52688  5167.0 MB  3.2 MB/s
+  50250/52688  5167.7 MB  3.2 MB/s
+  50300/52688  5175.5 MB  3.2 MB/s
+  50350/52688  5180.3 MB  3.2 MB/s
+  50400/52688  5181.0 MB  3.2 MB/s
+  50450/52688  5188.4 MB  3.2 MB/s
+  50500/52688  5194.7 MB  3.2 MB/s
+  50550/52688  5195.5 MB  3.2 MB/s
+  50600/52688  5205.5 MB  3.2 MB/s
+  50650/52688  5209.1 MB  3.2 MB/s
+  50700/52688  5212.7 MB  3.2 MB/s
+  50750/52688  5220.0 MB  3.2 MB/s
+  50800/52688  5220.7 MB  3.2 MB/s
+  50850/52688  5229.9 MB  3.2 MB/s
+  50900/52688  5233.5 MB  3.2 MB/s
+  50950/52688  5237.2 MB  3.2 MB/s
+  51000/52688  5244.3 MB  3.2 MB/s
+  51050/52688  5245.1 MB  3.2 MB/s
+  51100/52688  5254.6 MB  3.2 MB/s
+  51150/52688  5256.7 MB  3.2 MB/s
+  51200/52688  5260.7 MB  3.2 MB/s
+  51250/52688  5267.3 MB  3.2 MB/s
+  51300/52688  5268.0 MB  3.2 MB/s
+  51350/52688  5277.7 MB  3.2 MB/s
+  51400/52688  5280.5 MB  3.2 MB/s
+  51450/52688  5283.0 MB  3.2 MB/s
+  51500/52688  5292.0 MB  3.2 MB/s
+  51550/52688  5294.9 MB  3.2 MB/s
+  51600/52688  5299.4 MB  3.2 MB/s
+  51650/52688  5306.4 MB  3.2 MB/s
+  51700/52688  5307.2 MB  3.2 MB/s
+  51750/52688  5316.4 MB  3.2 MB/s
+  51800/52688  5319.2 MB  3.2 MB/s
+  51850/52688  5325.3 MB  3.2 MB/s
+  51900/52688  5331.8 MB  3.2 MB/s
+  51950/52688  5333.7 MB  3.2 MB/s
+  52000/52688  5342.9 MB  3.2 MB/s
+  52050/52688  5344.3 MB  3.2 MB/s
+  52100/52688  5348.6 MB  3.2 MB/s
+  52150/52688  5355.7 MB  3.2 MB/s
+  52200/52688  5356.4 MB  3.2 MB/s
+  52250/52688  5365.0 MB  3.2 MB/s
+  52300/52688  5368.0 MB  3.2 MB/s
+  52350/52688  5374.7 MB  3.2 MB/s
+  52400/52688  5379.1 MB  3.2 MB/s
+  52450/52688  5384.9 MB  3.2 MB/s
+  52500/52688  5390.6 MB  3.2 MB/s
+  52550/52688  5394.9 MB  3.2 MB/s
+  52600/52688  5401.0 MB  3.2 MB/s
+  52650/52688  5404.4 MB  3.2 MB/s
+  52688/52688  5411.4 MB  3.2 MB/s
+done
+=== upload mcv rc=0 in 28.4 min ===
+BATCH DONE

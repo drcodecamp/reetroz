@@ -5,8 +5,8 @@ Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:300
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 87 | 5,034 | 538,183 |
-| PDFs on disk, not encoded yet | 2 | 500 | 28,905 |
+| Done (readable on R2) | 89 | 5,534 | 567,088 |
+| PDFs on disk, not encoded yet | 0 | 0 | 0 |
 | VGHF indexed, PDFs not downloaded | 0 | 0 | — |
 | No local scans | 27 | — | — |
 
@@ -101,6 +101,8 @@ Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:300
 - [x] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages
 - [x] New Earth (`new-earth`) — 46 issues / 360 pages
 - [x] Game Developer (`game-developer`) — 226 issues / 15,176 pages
+- [x] Games Business (`games-business`) — 64 issues / 2,786 pages
+- [x] MCV (`mcv`) — 436 issues / 26,119 pages
 
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
 
@@ -139,6 +141,8 @@ All local PDFs are on R2. Remaining work is UK/IA stubs (no PDFs) and the two hu
 - [x] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages
 - [x] New Earth (`new-earth`) — 46 issues / 360 pages
 - [x] Game Developer (`game-developer`) — 226 issues / 15,176 pages
+- [x] Games Business (`games-business`) — 64 issues / 2,786 pages
+- [x] MCV (`mcv`) — 436 issues / 26,119 pages
 - [x] Blip (`blip`) — 7 issues / 248 pages
 - [x] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages
 - [x] Activisions (`activisions`) — 10 issues / 53 pages
@@ -191,7 +195,7 @@ All local PDFs are on R2. Remaining work is UK/IA stubs (no PDFs) and the two hu
 
 ## Left
 
-Encoding Games Business and MCV (the last local PDFs).
+Every title with local PDFs is on R2. Left: UK/IA stubs with no scans.
 
 ### 1. PDFs already downloaded — need `publication.json`, then encode
 
@@ -214,10 +218,10 @@ These were scraped from VGHF and downloaded. They never got a `publication.json`
 
 ### 2. On VGHF, not downloaded yet
 
-Encoding Games Business and MCV.
+Games Business and MCV are on R2.
 
-- [ ] Games Business (`games-business`) — 64 issues / 2,786 pages — **encoding**
-- [ ] MCV (`mcv`) — 436 issues / 26,119 pages — **encoding**
+- [x] Games Business (`games-business`) — 64 issues / 2,786 pages
+- [x] MCV (`mcv`) — 436 issues / 26,119 pages
 
 ### 3. No local scans
 

@@ -28,6 +28,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 339.8
+  },
+  "assets": {
+   "cover": "covers/games-business-1998-preview-issue.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-1998-preview-issue/manifest.json"
   }
  },
  {
@@ -59,6 +64,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-19981205-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19981205-games-business/manifest.json"
   }
  },
  {
@@ -90,6 +100,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-19990101-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990101-games-business/manifest.json"
   }
  },
  {
@@ -121,6 +136,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-19990115-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990115-games-business/manifest.json"
   }
  },
  {
@@ -152,6 +172,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-19990201-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990201-games-business/manifest.json"
   }
  },
  {
@@ -183,6 +208,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-19990215-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990215-games-business/manifest.json"
   }
  },
  {
@@ -214,6 +244,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990301-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990301-games-business/manifest.json"
   }
  },
  {
@@ -245,6 +280,11 @@
   "dimensions": {
    "width_mm": 267.8,
    "height_mm": 342.5
+  },
+  "assets": {
+   "cover": "covers/games-business-19990315-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990315-games-business/manifest.json"
   }
  },
  {
@@ -276,6 +316,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990401-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990401-games-business/manifest.json"
   }
  },
  {
@@ -307,6 +352,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990415-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990415-games-business/manifest.json"
   }
  },
  {
@@ -338,6 +388,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990501-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990501-games-business/manifest.json"
   }
  },
  {
@@ -369,6 +424,11 @@
   "dimensions": {
    "width_mm": 155.6,
    "height_mm": 221.1
+  },
+  "assets": {
+   "cover": "covers/games-business-19990501-psygnosis-pc-games-promotional-supplement.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990501-psygnosis-pc-games-promotional-supplement/manifest.json"
   }
  },
  {
@@ -400,6 +460,11 @@
   "dimensions": {
    "width_mm": 281.0,
    "height_mm": 390.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990515-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990515-games-business/manifest.json"
   }
  },
  {
@@ -431,6 +496,11 @@
   "dimensions": {
    "width_mm": 89.7,
    "height_mm": 210.8
+  },
+  "assets": {
+   "cover": "covers/games-business-19990515-imagine-media-word-poetry-magnets.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990515-imagine-media-word-poetry-magnets/manifest.json"
   }
  },
  {
@@ -462,6 +532,11 @@
   "dimensions": {
    "width_mm": 216.7,
    "height_mm": 139.0
+  },
+  "assets": {
+   "cover": "covers/games-business-19990515-microsoft-windows-partners-e3-promotional-card-a.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990515-microsoft-windows-partners-e3-promotional-card-a/manifest.json"
   }
  },
  {
@@ -493,6 +568,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990601-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990601-games-business/manifest.json"
   }
  },
  {
@@ -524,6 +604,11 @@
   "dimensions": {
    "width_mm": 216.6,
    "height_mm": 280.4
+  },
+  "assets": {
+   "cover": "covers/games-business-19990601-gamesbusiness-promotional-insert.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990601-gamesbusiness-promotional-insert/manifest.json"
   }
  },
  {
@@ -555,6 +640,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990615-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990615-games-business/manifest.json"
   }
  },
  {
@@ -586,6 +676,11 @@
   "dimensions": {
    "width_mm": 215.9,
    "height_mm": 280.1
+  },
+  "assets": {
+   "cover": "covers/games-business-19990615-gamesbusiness-promotional-insert.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990615-gamesbusiness-promotional-insert/manifest.json"
   }
  },
  {
@@ -617,6 +712,11 @@
   "dimensions": {
    "width_mm": 342.4,
    "height_mm": 529.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990615-rockstar-games-poster.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990615-rockstar-games-poster/manifest.json"
   }
  },
  {
@@ -648,6 +748,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990701-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990701-games-business/manifest.json"
   }
  },
  {
@@ -679,6 +784,11 @@
   "dimensions": {
    "width_mm": 216.6,
    "height_mm": 280.0
+  },
+  "assets": {
+   "cover": "covers/games-business-19990701-gamesbusiness-promotional-insert.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990701-gamesbusiness-promotional-insert/manifest.json"
   }
  },
  {
@@ -710,6 +820,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990715-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990715-games-business/manifest.json"
   }
  },
  {
@@ -741,6 +856,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990801-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990801-games-business/manifest.json"
   }
  },
  {
@@ -772,6 +892,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990815-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990815-games-business/manifest.json"
   }
  },
  {
@@ -803,6 +928,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990901-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990901-games-business/manifest.json"
   }
  },
  {
@@ -834,6 +964,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19990915-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990915-games-business/manifest.json"
   }
  },
  {
@@ -865,6 +1000,11 @@
   "dimensions": {
    "width_mm": 231.5,
    "height_mm": 145.5
+  },
+  "assets": {
+   "cover": "covers/games-business-19990915-nhl-championship-2000-flat-box.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19990915-nhl-championship-2000-flat-box/manifest.json"
   }
  },
  {
@@ -896,6 +1036,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19991001-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19991001-games-business/manifest.json"
   }
  },
  {
@@ -927,6 +1072,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19991015-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19991015-games-business/manifest.json"
   }
  },
  {
@@ -958,6 +1108,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19991101-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19991101-games-business/manifest.json"
   }
  },
  {
@@ -989,6 +1144,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19991115-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19991115-games-business/manifest.json"
   }
  },
  {
@@ -1020,6 +1180,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19991201-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19991201-games-business/manifest.json"
   }
  },
  {
@@ -1051,6 +1216,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-19991215-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-19991215-games-business/manifest.json"
   }
  },
  {
@@ -1082,6 +1252,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-20000101-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000101-games-business/manifest.json"
   }
  },
  {
@@ -1113,6 +1288,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-20000115-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000115-games-business/manifest.json"
   }
  },
  {
@@ -1144,6 +1324,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20000201-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000201-games-business/manifest.json"
   }
  },
  {
@@ -1175,6 +1360,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 344.6
+  },
+  "assets": {
+   "cover": "covers/games-business-20000215-toy-fair-special-edition.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000215-toy-fair-special-edition/manifest.json"
   }
  },
  {
@@ -1206,6 +1396,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20000301-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000301-games-business/manifest.json"
   }
  },
  {
@@ -1237,6 +1432,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20000315-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000315-games-business/manifest.json"
   }
  },
  {
@@ -1268,6 +1468,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20000401-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000401-games-business/manifest.json"
   }
  },
  {
@@ -1299,6 +1504,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20000415-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000415-games-business/manifest.json"
   }
  },
  {
@@ -1330,6 +1540,11 @@
   "dimensions": {
    "width_mm": 255.4,
    "height_mm": 385.3
+  },
+  "assets": {
+   "cover": "covers/games-business-20000415-tachyon-the-fringe-flat-box.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000415-tachyon-the-fringe-flat-box/manifest.json"
   }
  },
  {
@@ -1361,6 +1576,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20000501-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000501-games-business/manifest.json"
   }
  },
  {
@@ -1392,6 +1612,11 @@
   "dimensions": {
    "width_mm": 215.9,
    "height_mm": 282.8
+  },
+  "assets": {
+   "cover": "covers/games-business-20000501-sega-dreamcast-advisor.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000501-sega-dreamcast-advisor/manifest.json"
   }
  },
  {
@@ -1423,6 +1648,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20000515-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000515-games-business/manifest.json"
   }
  },
  {
@@ -1454,6 +1684,11 @@
   "dimensions": {
    "width_mm": 209.6,
    "height_mm": 144.6
+  },
+  "assets": {
+   "cover": "covers/games-business-20000515-gekido-flat-box.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000515-gekido-flat-box/manifest.json"
   }
  },
  {
@@ -1485,6 +1720,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-200006-e3-edition.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-200006-e3-edition/manifest.json"
   }
  },
  {
@@ -1516,6 +1756,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000601-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000601-games-business/manifest.json"
   }
  },
  {
@@ -1547,6 +1792,11 @@
   "dimensions": {
    "width_mm": 215.9,
    "height_mm": 282.8
+  },
+  "assets": {
+   "cover": "covers/games-business-20000615-dreamcast-insider.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000615-dreamcast-insider/manifest.json"
   }
  },
  {
@@ -1578,6 +1828,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000615-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000615-games-business/manifest.json"
   }
  },
  {
@@ -1609,6 +1864,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000701-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000701-games-business/manifest.json"
   }
  },
  {
@@ -1640,6 +1900,11 @@
   "dimensions": {
    "width_mm": 215.9,
    "height_mm": 282.8
+  },
+  "assets": {
+   "cover": "covers/games-business-20000715-dreamcast-insider.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000715-dreamcast-insider/manifest.json"
   }
  },
  {
@@ -1671,6 +1936,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000715-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000715-games-business/manifest.json"
   }
  },
  {
@@ -1702,6 +1972,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000801-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000801-games-business/manifest.json"
   }
  },
  {
@@ -1733,6 +2008,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000815-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000815-games-business/manifest.json"
   }
  },
  {
@@ -1764,6 +2044,11 @@
   "dimensions": {
    "width_mm": 215.9,
    "height_mm": 282.8
+  },
+  "assets": {
+   "cover": "covers/games-business-20000901-dreamcast-insider.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000901-dreamcast-insider/manifest.json"
   }
  },
  {
@@ -1795,6 +2080,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000901-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000901-games-business/manifest.json"
   }
  },
  {
@@ -1826,6 +2116,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20000915-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20000915-games-business/manifest.json"
   }
  },
  {
@@ -1857,6 +2152,11 @@
   "dimensions": {
    "width_mm": 215.9,
    "height_mm": 282.8
+  },
+  "assets": {
+   "cover": "covers/games-business-20001001-dreamcast-insider.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20001001-dreamcast-insider/manifest.json"
   }
  },
  {
@@ -1888,6 +2188,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20001001-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20001001-games-business/manifest.json"
   }
  },
  {
@@ -1919,6 +2224,11 @@
   "dimensions": {
    "width_mm": 264.2,
    "height_mm": 345.4
+  },
+  "assets": {
+   "cover": "covers/games-business-20001015-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20001015-games-business/manifest.json"
   }
  },
  {
@@ -1950,6 +2260,11 @@
   "dimensions": {
    "width_mm": 215.9,
    "height_mm": 282.8
+  },
+  "assets": {
+   "cover": "covers/games-business-20001101-dreamcast-insider.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20001101-dreamcast-insider/manifest.json"
   }
  },
  {
@@ -1981,6 +2296,11 @@
   "dimensions": {
    "width_mm": 266.7,
    "height_mm": 346.7
+  },
+  "assets": {
+   "cover": "covers/games-business-20001101-games-business.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/games-business-20001101-games-business/manifest.json"
   }
  }
 ]

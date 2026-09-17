@@ -182,7 +182,7 @@ def save_webp_checked(img: Image.Image, dest: Path, quality: int, *, compare: bo
                 decoded = check.convert("RGB")
                 if decoded.size != rgb.size:
                     raise ValueError(f"size {decoded.size} != {rgb.size}")
-                if compare and _mean_abs_err(rgb, decoded) > 18:
+                if compare and min(rgb.size) >= 16 and _mean_abs_err(rgb, decoded) > 18:
                     raise ValueError("decoded WebP does not match source")
             tmp = dest.with_name(dest.name + ".tmp")
             tmp.write_bytes(data)

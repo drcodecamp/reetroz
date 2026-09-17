@@ -1220,6 +1220,35 @@
   "coverIssue": "gamepro-1"
  },
  {
+  "id": "games-business",
+  "title": "Games Business",
+  "short": "Games Business",
+  "country": "US",
+  "type": "trade",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1998,
+  "lastYear": 2000,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/2eaca428-852b-464e-9afe-20269f490ac2",
+    "items": 64
+   }
+  ],
+  "issues": 64,
+  "pages": 2786,
+  "readable": 64,
+  "coverIssue": null
+ },
+ {
   "id": "games-for-windows",
   "title": "Games for Windows: The Official Magazine",
   "short": "GFW",
@@ -1673,9 +1702,9 @@
     "items": 436
    }
   ],
-  "issues": 0,
-  "pages": 0,
-  "readable": 0,
+  "issues": 436,
+  "pages": 26119,
+  "readable": 436,
   "coverIssue": null
  },
  {
