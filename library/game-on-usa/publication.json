@@ -1,25 +1,21 @@
 {
-  "id": "multimedia-world",
-  "title": "Multimedia World",
+  "id": "game-on-usa",
+  "title": "Game On! USA",
   "metadata_status": "stub",
-  "publishers": [
-    {
-      "name": "PC World Communications"
-    }
-  ],
+  "publishers": [],
   "country": "US",
   "language": "en",
   "first_issue": {
-    "date": "1993-12"
+    "date": "1996-05"
   },
   "last_issue": {
-    "date": "1996"
+    "date": "1996-11"
   },
   "status": "ceased",
   "categories": {
     "type": "consumer",
     "platforms": [
-      "pc"
+      "multi"
     ]
   },
   "numbering": {
@@ -34,18 +30,18 @@
   "known_sources": [
     {
       "provider": "vghf",
-      "url": "https://archive.gamehistory.org/folder/cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
-      "date_range": "January 1994 – August 1995",
-      "items": 10
+      "url": "https://archive.gamehistory.org/folder/1ca5498f-e5a6-4412-8b0e-93c9f6ea24b4",
+      "date_range": "May 1996 – November 1996",
+      "items": 7
     }
   ],
   "stats": {
-    "issues": 10,
-    "pages": 1398,
-    "readable": 10,
-    "with_text": 10,
-    "first_year": 1994,
-    "last_year": 1995
+    "issues": 7,
+    "pages": 588,
+    "readable": 7,
+    "with_text": 6,
+    "first_year": 1996,
+    "last_year": 1996
   },
   "updated_at": "2026-09-17T06:56:38+00:00"
 }

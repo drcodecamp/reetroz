@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:59+00:00"
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "covers/lifestyle-magazines-assorted-0.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/lifestyle-magazines-assorted-0/manifest.json"
+  }
  },
  {
   "id": "lifestyle-magazines-assorted-3",
@@ -59,7 +64,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:59+00:00"
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "covers/lifestyle-magazines-assorted-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/lifestyle-magazines-assorted-3/manifest.json"
+  }
  },
  {
   "id": "lifestyle-magazines-assorted-2008-guitar-one-presents-guitars-and-gaming",
@@ -90,7 +100,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:59+00:00"
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "covers/lifestyle-magazines-assorted-2008-guitar-one-presents-guitars-and-gaming.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/lifestyle-magazines-assorted-2008-guitar-one-presents-guitars-and-gaming/manifest.json"
+  }
  },
  {
   "id": "lifestyle-magazines-assorted-9",
@@ -121,6 +136,11 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:59+00:00"
+  "updated_at": "2026-09-14T09:33:59+00:00",
+  "assets": {
+   "cover": "covers/lifestyle-magazines-assorted-9.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/lifestyle-magazines-assorted-9/manifest.json"
+  }
  }
 ]

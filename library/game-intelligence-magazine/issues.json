@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:44+00:00"
+  "updated_at": "2026-09-14T09:33:44+00:00",
+  "assets": {
+   "cover": "covers/game-intelligence-magazine-199809-special-preview-edition.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-intelligence-magazine-199809-special-preview-edition/manifest.json"
+  }
  },
  {
   "id": "game-intelligence-magazine-1",
@@ -61,7 +66,12 @@
   },
   "updated_at": "2026-09-14T09:33:44+00:00",
   "volume": 1,
-  "special": "Premiere issue"
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "covers/game-intelligence-magazine-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-intelligence-magazine-1/manifest.json"
+  }
  },
  {
   "id": "game-intelligence-magazine-199902-game-intelligence-magazine",
@@ -92,6 +102,11 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:44+00:00"
+  "updated_at": "2026-09-14T09:33:44+00:00",
+  "assets": {
+   "cover": "covers/game-intelligence-magazine-199902-game-intelligence-magazine.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-intelligence-magazine-199902-game-intelligence-magazine/manifest.json"
+  }
  }
 ]

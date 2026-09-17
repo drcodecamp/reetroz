@@ -29,6 +29,11 @@
    "status": "embedded"
   },
   "updated_at": "2026-09-14T09:33:48+00:00",
-  "volume": 1
+  "volume": 1,
+  "assets": {
+   "cover": "covers/game-specific-promotional-magazines-assorted-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/game-specific-promotional-magazines-assorted-1/manifest.json"
+  }
  }
 ]

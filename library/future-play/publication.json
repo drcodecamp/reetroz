@@ -1,25 +1,21 @@
 {
-  "id": "multimedia-world",
-  "title": "Multimedia World",
+  "id": "future-play",
+  "title": "Future Play",
   "metadata_status": "stub",
-  "publishers": [
-    {
-      "name": "PC World Communications"
-    }
-  ],
+  "publishers": [],
   "country": "US",
   "language": "en",
   "first_issue": {
-    "date": "1993-12"
+    "date": "1989-09"
   },
   "last_issue": {
-    "date": "1996"
+    "date": "1990-10"
   },
   "status": "ceased",
   "categories": {
     "type": "consumer",
     "platforms": [
-      "pc"
+      "multi"
     ]
   },
   "numbering": {
@@ -34,18 +30,18 @@
   "known_sources": [
     {
       "provider": "vghf",
-      "url": "https://archive.gamehistory.org/folder/cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
-      "date_range": "January 1994 – August 1995",
-      "items": 10
+      "url": "https://archive.gamehistory.org/folder/c1ea266e-417c-4dbd-8e91-9f9aa45b4e14",
+      "date_range": "September 1989 – October 1990",
+      "items": 7
     }
   ],
   "stats": {
-    "issues": 10,
-    "pages": 1398,
-    "readable": 10,
-    "with_text": 10,
-    "first_year": 1994,
-    "last_year": 1995
+    "issues": 7,
+    "pages": 180,
+    "readable": 7,
+    "with_text": 7,
+    "first_year": 1989,
+    "last_year": 1990
   },
   "updated_at": "2026-09-17T06:56:38+00:00"
 }

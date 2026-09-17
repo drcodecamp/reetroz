@@ -1,11 +1,15 @@
 # Pixel Press — publication TODO
 
-Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:3001.
+Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:3001.
+
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 73 | 4,627 | 513,793 |
-| Left (no PDFs yet) | 43 | — | — |
+| Done (readable on R2) | 80 | 4,659 | 515,282 |
+| PDFs on disk, not encoded yet | 7 | 375 | 22,901 |
+| VGHF indexed, PDFs not downloaded | 2 | 1,031 | — |
+| No local scans | 27 | — | — |
+
 
 ---
 
@@ -84,9 +88,18 @@ Status as of 2026-09-16. Rendered titles are on R2 and readable at localhost:300
 - [x] Casual Connect (`casual-connect`) — 15 issues / 1,028 pages
 - [x] Videogame Advisor (`videogame-advisor`) — 15 issues / 917 pages
 - [x] The Logical Gamer (`the-logical-gamer`) — 16 issues / 359 pages
+- [x] Game-specific promotional magazines, assorted (`game-specific-promotional-magazines-assorted`) — 1 issue / 28 pages
+- [x] Gamesport (`gamesport`) — 2 issues / 216 pages
+- [x] Game Intelligence Magazine (`game-intelligence-magazine`) — 3 issues / 96 pages
+- [x] Lifestyle magazines, assorted (`lifestyle-magazines-assorted`) — 4 issues / 173 pages
+- [x] Future Play (`future-play`) — 7 issues / 180 pages
+- [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
+
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
 
 ---
+
+
 
 ## Left — PDFs on disk (fewest issues first)
 
@@ -105,6 +118,13 @@ All local PDFs are on R2. Last four done, including Play US 86 and 94 after a se
 - [x] Computer Game Entertainment (`computer-game-entertainment`) — 5 issues / 635 pages
 - [x] Q64 (`q64`) — 6 issues / 712 pages
 - [x] Odyssey Adventure (`odyssey-adventure`) — 7 issues / 84 pages
+- [x] Girl Gamer (`girl-gamer`) — 8 issues / 208 pages
+- [x] Game-specific promotional magazines, assorted (`game-specific-promotional-magazines-assorted`) — 1 issue / 28 pages
+- [x] Gamesport (`gamesport`) — 2 issues / 216 pages
+- [x] Game Intelligence Magazine (`game-intelligence-magazine`) — 3 issues / 96 pages
+- [x] Lifestyle magazines, assorted (`lifestyle-magazines-assorted`) — 4 issues / 173 pages
+- [x] Future Play (`future-play`) — 7 issues / 180 pages
+- [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
 - [x] Blip (`blip`) — 7 issues / 248 pages
 - [x] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages
 - [x] Activisions (`activisions`) — 10 issues / 53 pages
@@ -153,37 +173,53 @@ All local PDFs are on R2. Last four done, including Play US 86 and 94 after a se
 
 ---
 
-## Left — no PDFs yet
 
-Same situation for all of these: we cannot encode them until scans exist. There is no split anymore.
+
+## Left
+
+This batch is on R2. Next: Electronic Gaming Retail News through New Earth (skip Game Developer unless you ask).
+
+### 1. PDFs already downloaded — need `publication.json`, then encode
+
+These were scraped from VGHF and downloaded. They never got a `publication.json`, so the last encode pass skipped them.
+
+- [x] Game-specific promotional magazines, assorted (`game-specific-promotional-magazines-assorted`) — 1 issue / 28 pages
+- [x] Gamesport (`gamesport`) — 2 issues / 216 pages
+- [x] Game Intelligence Magazine (`game-intelligence-magazine`) — 3 issues / 96 pages
+- [x] Lifestyle magazines, assorted (`lifestyle-magazines-assorted`) — 4 issues / 173 pages
+- [x] Future Play (`future-play`) — 7 issues / 180 pages
+- [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
+- [x] Girl Gamer (`girl-gamer`) — 8 issues / 208 pages
+- [ ] Electronic Gaming Retail News (`electronic-gaming-retail-news`) — 11 issues / 416 pages — [VGHF](https://archive.gamehistory.org/folder/3e35f3c1-7416-4d78-b295-009a65f13276)
+- [ ] GameWeek / IE Magazine (`gameweek-iemagazine`) — 14 issues / 737 pages — [VGHF](https://archive.gamehistory.org/folder/7d3a45c8-2b53-4bb7-9583-bad2bca32e77)
+- [ ] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages — [VGHF](https://archive.gamehistory.org/folder/3efe8939-db36-49fb-a73b-1cca104dee71)
+- [ ] GMR (`gmr`) — 25 issues / 2,880 pages — [VGHF](https://archive.gamehistory.org/folder/df09475c-7503-46f7-a123-a678af34ad08)
+- [ ] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages — [VGHF](https://archive.gamehistory.org/folder/0367f805-b077-44df-adfd-cbfb0846d28f)
+- [ ] New Earth (`new-earth`) — 46 issues / 360 pages — [VGHF](https://archive.gamehistory.org/folder/e9a38793-aa39-41e6-923d-321a86741a18)
+- [ ] Game Developer (`game-developer`) — 226 issues / 15,176 pages — [VGHF](https://archive.gamehistory.org/folder/4796164f-a6b6-46b6-82a8-cdcd064fb8a5)
+
+### 2. On VGHF, not downloaded yet (big)
+
+Need the token download. We skipped these as huge trade titles.
+
+- [ ] Games Business (`games-business`) — 595 issues indexed — [VGHF](https://archive.gamehistory.org/folder/2eaca428-852b-464e-9afe-20269f490ac2)
+- [ ] MCV (`mcv`) — 436 issues indexed — [VGHF](https://archive.gamehistory.org/folder/eb2067ae-1d19-4d6c-b07a-fc0b0ce68d5f)
+
+### 3. No local scans
+
+Mostly UK / Internet Archive stubs, plus a few CGW Museum titles. Nothing on `H:` to encode.
 
 - [ ] ACE (`ace`)
 - [ ] Amiga Power (`amiga-power`)
 - [ ] Amstrad Action (`amstrad-action`)
 - [ ] Commodore Format (`commodore-format`)
 - [ ] Computer and Video Games (`cvg`)
-- [ ] Computer Game Forum (`computer-game-forum`)
+- [ ] Computer Game Forum (`computer-game-forum`) — CGW Museum
 - [ ] Crash (`crash`)
 - [ ] Dreamcast Magazine (UK) (`dreamcast-magazine-uk`)
-- [ ] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`)
-- [ ] Electronic Gaming Retail News (`electronic-gaming-retail-news`)
-- [ ] Future Play (`future-play`)
-- [ ] Game Developer (`game-developer`)
-- [ ] Game Intelligence Magazine (`game-intelligence-magazine`)
-- [ ] Game On USA (`game-on-usa`)
-- [ ] Game-specific promotional magazines, assorted (`game-specific-promotional-magazines-assorted`)
-- [ ] Games Business (`games-business`)
-- [ ] Games for Windows: The Official Magazine (`games-for-windows`)
+- [ ] Games for Windows: The Official Magazine (`games-for-windows`) — CGW Museum
 - [ ] GamesMaster (`gamesmaster`)
-- [ ] Gamesport (`gamesport`)
-- [ ] GameWeek / IE Magazine (`gameweek-iemagazine`)
-- [ ] Girl Gamer (`girl-gamer`)
-- [ ] GMR (`gmr`)
-- [ ] Hardcore Gamer (`hardcore-gamer`)
-- [ ] Lifestyle magazines, assorted (`lifestyle-magazines-assorted`)
-- [ ] MCV (`mcv`)
 - [ ] Mean Machines (`mean-machines`)
-- [ ] New Earth (`new-earth`)
 - [ ] News and media magazines, assorted (`news-and-media-magazines-assorted`)
 - [ ] Nintendo Magazine System / Official Nintendo Magazine (`nintendo-magazine-system`)
 - [ ] Official Sega Saturn Magazine (`official-sega-saturn-magazine`)
@@ -194,7 +230,7 @@ Same situation for all of these: we cannot encode them until scans exist. There 
 - [ ] Retro Gamer (`retro-gamer`)
 - [ ] Sega Pro (`sega-pro`)
 - [ ] Sinclair User (`sinclair-user`)
-- [ ] Softline (`softline`)
+- [ ] Softline (`softline`) — CGW Museum
 - [ ] The Games Machine (`the-games-machine`)
 - [ ] The One (`the-one`)
 - [ ] Your Sinclair (`your-sinclair`)

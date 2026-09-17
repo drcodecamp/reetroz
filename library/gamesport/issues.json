@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:55+00:00"
+  "updated_at": "2026-09-14T09:33:55+00:00",
+  "assets": {
+   "cover": "covers/gamesport-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gamesport-2/manifest.json"
+  }
  },
  {
   "id": "gamesport-1995-premiere-issue",
@@ -60,6 +65,11 @@
    "status": "embedded"
   },
   "updated_at": "2026-09-14T09:33:55+00:00",
-  "special": "Premiere issue"
+  "special": "Premiere issue",
+  "assets": {
+   "cover": "covers/gamesport-1995-premiere-issue.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gamesport-1995-premiere-issue/manifest.json"
+  }
  }
 ]

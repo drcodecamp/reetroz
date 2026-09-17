@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-1/manifest.json"
+  }
  },
  {
   "id": "girl-gamer-3",
@@ -59,7 +64,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-3/manifest.json"
+  }
  },
  {
   "id": "girl-gamer-4",
@@ -90,7 +100,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-4/manifest.json"
+  }
  },
  {
   "id": "girl-gamer-2",
@@ -121,7 +136,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-2/manifest.json"
+  }
  },
  {
   "id": "girl-gamer-5",
@@ -152,7 +172,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-5.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-5/manifest.json"
+  }
  },
  {
   "id": "girl-gamer-6",
@@ -183,7 +208,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-6.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-6/manifest.json"
+  }
  },
  {
   "id": "girl-gamer-7",
@@ -214,7 +244,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-7.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-7/manifest.json"
+  }
  },
  {
   "id": "girl-gamer-8",
@@ -245,6 +280,11 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/girl-gamer-8.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/girl-gamer-8/manifest.json"
+  }
  }
 ]

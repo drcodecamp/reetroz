@@ -1,25 +1,21 @@
 {
-  "id": "multimedia-world",
-  "title": "Multimedia World",
+  "id": "game-intelligence-magazine",
+  "title": "Game Intelligence Magazine",
   "metadata_status": "stub",
-  "publishers": [
-    {
-      "name": "PC World Communications"
-    }
-  ],
+  "publishers": [],
   "country": "US",
   "language": "en",
   "first_issue": {
-    "date": "1993-12"
+    "date": "1998-09"
   },
   "last_issue": {
-    "date": "1996"
+    "date": "1999-02"
   },
   "status": "ceased",
   "categories": {
     "type": "consumer",
     "platforms": [
-      "pc"
+      "multi"
     ]
   },
   "numbering": {
@@ -34,18 +30,18 @@
   "known_sources": [
     {
       "provider": "vghf",
-      "url": "https://archive.gamehistory.org/folder/cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
-      "date_range": "January 1994 – August 1995",
-      "items": 10
+      "url": "https://archive.gamehistory.org/folder/2352dd0d-5a66-4214-b2be-e9c7f7d7da9d",
+      "date_range": "September 1998 – February 1999",
+      "items": 3
     }
   ],
   "stats": {
-    "issues": 10,
-    "pages": 1398,
-    "readable": 10,
-    "with_text": 10,
-    "first_year": 1994,
-    "last_year": 1995
+    "issues": 3,
+    "pages": 96,
+    "readable": 3,
+    "with_text": 3,
+    "first_year": 1998,
+    "last_year": 1999
   },
   "updated_at": "2026-09-17T06:56:38+00:00"
 }

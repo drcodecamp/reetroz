@@ -1,25 +1,21 @@
 {
-  "id": "multimedia-world",
-  "title": "Multimedia World",
+  "id": "lifestyle-magazines-assorted",
+  "title": "Lifestyle magazines, assorted",
   "metadata_status": "stub",
-  "publishers": [
-    {
-      "name": "PC World Communications"
-    }
-  ],
+  "publishers": [],
   "country": "US",
   "language": "en",
   "first_issue": {
-    "date": "1993-12"
+    "date": "1995"
   },
   "last_issue": {
-    "date": "1996"
+    "date": "2008-11"
   },
   "status": "ceased",
   "categories": {
     "type": "consumer",
     "platforms": [
-      "pc"
+      "multi"
     ]
   },
   "numbering": {
@@ -34,18 +30,18 @@
   "known_sources": [
     {
       "provider": "vghf",
-      "url": "https://archive.gamehistory.org/folder/cab8c52f-ac62-4a70-90f0-70a6a51b9d3e",
-      "date_range": "January 1994 – August 1995",
-      "items": 10
+      "url": "https://archive.gamehistory.org/folder/b75dcfec-943a-4b17-b534-a0b02867027e",
+      "date_range": "1995 – November 2008",
+      "items": 4
     }
   ],
   "stats": {
-    "issues": 10,
-    "pages": 1398,
-    "readable": 10,
-    "with_text": 10,
-    "first_year": 1994,
-    "last_year": 1995
+    "issues": 4,
+    "pages": 173,
+    "readable": 4,
+    "with_text": 4,
+    "first_year": 1995,
+    "last_year": 2008
   },
   "updated_at": "2026-09-17T06:56:38+00:00"
 }

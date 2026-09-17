@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:41+00:00"
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "assets": {
+   "cover": "covers/future-play-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/future-play-1/manifest.json"
+  }
  },
  {
   "id": "future-play-2",
@@ -59,7 +64,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:41+00:00"
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "assets": {
+   "cover": "covers/future-play-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/future-play-2/manifest.json"
+  }
  },
  {
   "id": "future-play-199002-future-play",
@@ -91,7 +101,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:41+00:00"
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "assets": {
+   "cover": "covers/future-play-199002-future-play.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/future-play-199002-future-play/manifest.json"
+  }
  },
  {
   "id": "future-play-199004-future-play",
@@ -123,7 +138,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:41+00:00"
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "assets": {
+   "cover": "covers/future-play-199004-future-play.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/future-play-199004-future-play/manifest.json"
+  }
  },
  {
   "id": "future-play-199008-future-play",
@@ -154,7 +174,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:41+00:00"
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "assets": {
+   "cover": "covers/future-play-199008-future-play.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/future-play-199008-future-play/manifest.json"
+  }
  },
  {
   "id": "future-play-199009-future-play",
@@ -185,7 +210,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:41+00:00"
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "assets": {
+   "cover": "covers/future-play-199009-future-play.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/future-play-199009-future-play/manifest.json"
+  }
  },
  {
   "id": "future-play-199010-future-play",
@@ -216,6 +246,11 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:41+00:00"
+  "updated_at": "2026-09-14T09:33:41+00:00",
+  "assets": {
+   "cover": "covers/future-play-199010-future-play.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/future-play-199010-future-play/manifest.json"
+  }
  }
 ]

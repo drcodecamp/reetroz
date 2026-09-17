@@ -920,6 +920,35 @@
   "coverIssue": null
  },
  {
+  "id": "future-play",
+  "title": "Future Play",
+  "short": "Future Play",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1989,
+  "lastYear": 1990,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/c1ea266e-417c-4dbd-8e91-9f9aa45b4e14",
+    "items": 7
+   }
+  ],
+  "issues": 7,
+  "pages": 180,
+  "readable": 7,
+  "coverIssue": null
+ },
+ {
   "id": "game-informer",
   "title": "Game Informer",
   "short": "GI",
@@ -954,6 +983,64 @@
   "coverIssue": null
  },
  {
+  "id": "game-intelligence-magazine",
+  "title": "Game Intelligence Magazine",
+  "short": "Game Intelligence Magazine",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1998,
+  "lastYear": 1999,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/2352dd0d-5a66-4214-b2be-e9c7f7d7da9d",
+    "items": 3
+   }
+  ],
+  "issues": 3,
+  "pages": 96,
+  "readable": 3,
+  "coverIssue": null
+ },
+ {
+  "id": "game-on-usa",
+  "title": "Game On! USA",
+  "short": "Game On! USA",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1996,
+  "lastYear": 1996,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/1ca5498f-e5a6-4412-8b0e-93c9f6ea24b4",
+    "items": 7
+   }
+  ],
+  "issues": 7,
+  "pages": 588,
+  "readable": 7,
+  "coverIssue": null
+ },
+ {
   "id": "game-players",
   "title": "Game Players",
   "short": "Game Players",
@@ -980,6 +1067,35 @@
   "issues": 238,
   "pages": 27281,
   "readable": 238,
+  "coverIssue": null
+ },
+ {
+  "id": "game-specific-promotional-magazines-assorted",
+  "title": "Game-specific promotional magazines, assorted",
+  "short": "Game-specific promotional magazines, assorted",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2005,
+  "lastYear": 2005,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/680c3edb-68a7-4316-aa7a-c32891b9e2d2",
+    "items": 1
+   }
+  ],
+  "issues": 1,
+  "pages": 28,
+  "readable": 1,
   "coverIssue": null
  },
  {
@@ -1066,6 +1182,64 @@
   "issues": 0,
   "pages": 0,
   "readable": 0,
+  "coverIssue": null
+ },
+ {
+  "id": "gamesport",
+  "title": "GameSport",
+  "short": "GameSport",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 1995,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/a238608c-2fe1-481a-ac89-e519abd73151",
+    "items": 2
+   }
+  ],
+  "issues": 2,
+  "pages": 216,
+  "readable": 2,
+  "coverIssue": null
+ },
+ {
+  "id": "girl-gamer",
+  "title": "Girl Gamer",
+  "short": "Girl Gamer",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2007,
+  "lastYear": 2009,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/06c1493a-4e8f-4395-8921-3f2c2c96f682",
+    "items": 8
+   }
+  ],
+  "issues": 8,
+  "pages": 208,
+  "readable": 8,
   "coverIssue": null
  },
  {
@@ -1270,6 +1444,35 @@
   "issues": 56,
   "pages": 890,
   "readable": 56,
+  "coverIssue": null
+ },
+ {
+  "id": "lifestyle-magazines-assorted",
+  "title": "Lifestyle magazines, assorted",
+  "short": "Lifestyle magazines, assorted",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 1995,
+  "lastYear": 2008,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/b75dcfec-943a-4b17-b534-a0b02867027e",
+    "items": 4
+   }
+  ],
+  "issues": 4,
+  "pages": 173,
+  "readable": 4,
   "coverIssue": null
  },
  {
