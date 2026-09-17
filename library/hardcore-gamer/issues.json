@@ -29,7 +29,12 @@
    "status": "embedded"
   },
   "updated_at": "2026-09-14T09:33:56+00:00",
-  "volume": 1
+  "volume": 1,
+  "assets": {
+   "cover": "covers/hardcore-gamer-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-1/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-2",
@@ -60,7 +65,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-3",
@@ -91,7 +101,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-3/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-4",
@@ -122,7 +137,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-4/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-5",
@@ -153,7 +173,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-5.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-5/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-6",
@@ -184,7 +209,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-6.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-6/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-7",
@@ -215,7 +245,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-7.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-7/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-8",
@@ -246,7 +281,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-8.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-8/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-9",
@@ -277,7 +317,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-9.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-9/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-10",
@@ -308,7 +353,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-10.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-10/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-11",
@@ -339,7 +389,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-11.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-11/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-12",
@@ -370,7 +425,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-12.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-12/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-1-2",
@@ -401,7 +461,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-1-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-1-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-2-2",
@@ -433,7 +498,12 @@
    "status": "embedded"
   },
   "updated_at": "2026-09-14T09:33:56+00:00",
-  "volume": 2
+  "volume": 2,
+  "assets": {
+   "cover": "covers/hardcore-gamer-2-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-2-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-3-2",
@@ -464,7 +534,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-3-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-3-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-4-2",
@@ -495,7 +570,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-4-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-4-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-5-2",
@@ -526,7 +606,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-5-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-5-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-6-2",
@@ -557,7 +642,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-6-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-6-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-7-2",
@@ -588,7 +678,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-7-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-7-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-8-2",
@@ -619,7 +714,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-8-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-8-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-9-2",
@@ -650,7 +750,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-9-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-9-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-10-2",
@@ -681,7 +786,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-10-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-10-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-11-2",
@@ -712,7 +822,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-11-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-11-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-12-2",
@@ -743,7 +858,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-12-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-12-2/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-1-3",
@@ -774,7 +894,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-1-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-1-3/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-2-3",
@@ -805,7 +930,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-2-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-2-3/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-3-3",
@@ -837,7 +967,12 @@
    "status": "embedded"
   },
   "updated_at": "2026-09-14T09:33:56+00:00",
-  "volume": 3
+  "volume": 3,
+  "assets": {
+   "cover": "covers/hardcore-gamer-3-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-3-3/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-4-3",
@@ -868,7 +1003,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-4-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-4-3/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-5-3",
@@ -899,7 +1039,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-5-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-5-3/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-6-3",
@@ -930,7 +1075,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-6-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-6-3/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-1-4",
@@ -961,7 +1111,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-1-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-1-4/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-2-4",
@@ -992,7 +1147,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-2-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-2-4/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-3-4",
@@ -1023,7 +1183,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/hardcore-gamer-3-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-3-4/manifest.json"
+  }
  },
  {
   "id": "hardcore-gamer-4-4",
@@ -1055,6 +1220,11 @@
    "status": "embedded"
   },
   "updated_at": "2026-09-14T09:33:56+00:00",
-  "volume": 4
+  "volume": 4,
+  "assets": {
+   "cover": "covers/hardcore-gamer-4-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/hardcore-gamer-4-4/manifest.json"
+  }
  }
 ]

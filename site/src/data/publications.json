@@ -1243,6 +1243,64 @@
   "coverIssue": null
  },
  {
+  "id": "gmr",
+  "title": "GMR",
+  "short": "GMR",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2003,
+  "lastYear": 2005,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/df09475c-7503-46f7-a123-a678af34ad08",
+    "items": 25
+   }
+  ],
+  "issues": 25,
+  "pages": 2880,
+  "readable": 25,
+  "coverIssue": null
+ },
+ {
+  "id": "hardcore-gamer",
+  "title": "Hardcore Gamer",
+  "short": "Hardcore Gamer",
+  "country": "US",
+  "type": "consumer",
+  "platforms": [
+   "multi"
+  ],
+  "status": "ceased",
+  "firstYear": 2005,
+  "lastYear": 2008,
+  "publisher": null,
+  "description": null,
+  "metadataStatus": "stub",
+  "rights": "link-only",
+  "provider": "Video Game History Foundation Library",
+  "knownSources": [
+   {
+    "provider": "vghf",
+    "url": "https://archive.gamehistory.org/folder/0367f805-b077-44df-adfd-cbfb0846d28f",
+    "items": 34
+   }
+  ],
+  "issues": 34,
+  "pages": 1468,
+  "readable": 34,
+  "coverIssue": null
+ },
+ {
   "id": "hyper",
   "title": "Hyper",
   "short": "Hyper",

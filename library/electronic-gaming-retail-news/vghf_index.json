@@ -1,68 +1,68 @@
 [
- {
-  "vghf_id": "97ca5235-4f61-49ec-b68f-3bfcfc8059f9",
-  "title": "Electronic Gaming Retail News, Volume 1, Number 2, Issue 2",
-  "format": "pdf",
-  "date_display": "July 1, 1991"
- },
- {
-  "vghf_id": "3ea743db-e212-4b99-a9cb-fe6440369ba9",
-  "title": "Electronic Gaming Retail News, Volume 1, Number 3, Issue 3",
-  "format": "pdf",
-  "date_display": "August 1991"
- },
- {
-  "vghf_id": "45a972c4-0ff4-45c0-bca8-c2ff0d935cf2",
-  "title": "Electronic Gaming Retail News, Volume 1, Number 4, Issue 4",
-  "format": "pdf",
-  "date_display": "September 1991"
- },
- {
-  "vghf_id": "6605e6e4-64b9-4388-82c2-5c5f73775134",
-  "title": "Electronic Gaming Retail News, Volume 1, Number 5, Issue 5",
-  "format": "pdf",
-  "date_display": "October 1991"
- },
- {
-  "vghf_id": "2b522c1a-5da6-4bb2-be3a-c68760d6ab93",
-  "title": "Electronic Gaming Retail News, Volume 1, Number 6, Issue 6",
-  "format": "pdf",
-  "date_display": "November 1991"
- },
- {
-  "vghf_id": "ed228c6d-a53b-4a93-995c-e6db75b700af",
-  "title": "Electronic Gaming Retail News, Volume 1, Number 7, Issue 7",
-  "format": "pdf",
-  "date_display": "December 1991"
- },
- {
-  "vghf_id": "382ac2fa-1c4b-48a7-a34e-bfe38b9db0c8",
-  "title": "Electronic Gaming Retail News, Volume 2, Number 1, Issue 8",
-  "format": "pdf",
-  "date_display": "January 1992"
- },
- {
-  "vghf_id": "93351113-0e2d-431e-b780-09e503dbd75c",
-  "title": "Electronic Gaming Retail News, Volume 2, Number 2, Issue 9",
-  "format": "pdf",
-  "date_display": "February 1992"
- },
- {
-  "vghf_id": "7d98ee39-0922-4262-ba3f-307f239496f9",
-  "title": "Electronic Gaming Retail News, Volume 2, Number 3, Issue 10, 1992 Summer CES",
-  "format": "pdf",
-  "date_display": "Summer 1992"
- },
- {
-  "vghf_id": "944ab4a6-cf72-44e8-9d9d-ddbcc341fb96",
-  "title": "Electronic Gaming Retail News, 1993 Winter CES",
-  "format": "pdf",
-  "date_display": "January 1993"
- },
- {
-  "vghf_id": "4a20239b-ac23-4fd2-ab1c-aee267e04eea",
-  "title": "Electronic Gaming Retail News, 1993 Summer CES",
-  "format": "pdf",
-  "date_display": "June 1993"
- }
+  {
+    "vghf_id": "97ca5235-4f61-49ec-b68f-3bfcfc8059f9",
+    "title": "Electronic Gaming Retail News, Volume 1, Number 2, Issue 2",
+    "format": "pdf",
+    "date_display": "July 1, 1991"
+  },
+  {
+    "vghf_id": "3ea743db-e212-4b99-a9cb-fe6440369ba9",
+    "title": "Electronic Gaming Retail News, Volume 1, Number 3, Issue 3",
+    "format": "pdf",
+    "date_display": "August 1991"
+  },
+  {
+    "vghf_id": "45a972c4-0ff4-45c0-bca8-c2ff0d935cf2",
+    "title": "Electronic Gaming Retail News, Volume 1, Number 4, Issue 4",
+    "format": "pdf",
+    "date_display": "September 1991"
+  },
+  {
+    "vghf_id": "6605e6e4-64b9-4388-82c2-5c5f73775134",
+    "title": "Electronic Gaming Retail News, Volume 1, Number 5, Issue 5",
+    "format": "pdf",
+    "date_display": "October 1991"
+  },
+  {
+    "vghf_id": "2b522c1a-5da6-4bb2-be3a-c68760d6ab93",
+    "title": "Electronic Gaming Retail News, Volume 1, Number 6, Issue 6",
+    "format": "pdf",
+    "date_display": "November 1991"
+  },
+  {
+    "vghf_id": "ed228c6d-a53b-4a93-995c-e6db75b700af",
+    "title": "Electronic Gaming Retail News, Volume 1, Number 7, Issue 7",
+    "format": "pdf",
+    "date_display": "December 1991"
+  },
+  {
+    "vghf_id": "382ac2fa-1c4b-48a7-a34e-bfe38b9db0c8",
+    "title": "Electronic Gaming Retail News, Volume 2, Number 1, Issue 8",
+    "format": "pdf",
+    "date_display": "January 1992"
+  },
+  {
+    "vghf_id": "93351113-0e2d-431e-b780-09e503dbd75c",
+    "title": "Electronic Gaming Retail News, Volume 2, Number 2, Issue 9",
+    "format": "pdf",
+    "date_display": "February 1992"
+  },
+  {
+    "vghf_id": "7d98ee39-0922-4262-ba3f-307f239496f9",
+    "title": "Electronic Gaming Retail News, Volume 2, Number 3, Issue 10, 1992 Summer CES",
+    "format": "pdf",
+    "date_display": "Summer 1992"
+  },
+  {
+    "vghf_id": "944ab4a6-cf72-44e8-9d9d-ddbcc341fb96",
+    "title": "Electronic Gaming Retail News, 1993 Winter CES",
+    "format": "pdf",
+    "date_display": "January 1993"
+  },
+  {
+    "vghf_id": "4a20239b-ac23-4fd2-ab1c-aee267e04eea",
+    "title": "Electronic Gaming Retail News, 1993 Summer CES",
+    "format": "pdf",
+    "date_display": "June 1993"
+  }
 ]

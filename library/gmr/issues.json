@@ -28,7 +28,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-1.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-1/manifest.json"
+  }
  },
  {
   "id": "gmr-2",
@@ -59,7 +64,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-2.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-2/manifest.json"
+  }
  },
  {
   "id": "gmr-3",
@@ -90,7 +100,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-3.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-3/manifest.json"
+  }
  },
  {
   "id": "gmr-4",
@@ -121,7 +136,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-4.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-4/manifest.json"
+  }
  },
  {
   "id": "gmr-5",
@@ -152,7 +172,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-5.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-5/manifest.json"
+  }
  },
  {
   "id": "gmr-6",
@@ -183,7 +208,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-6.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-6/manifest.json"
+  }
  },
  {
   "id": "gmr-7",
@@ -214,7 +244,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-7.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-7/manifest.json"
+  }
  },
  {
   "id": "gmr-8",
@@ -245,7 +280,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-8.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-8/manifest.json"
+  }
  },
  {
   "id": "gmr-9",
@@ -276,7 +316,12 @@
   "text": {
    "status": "none"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-9.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-9/manifest.json"
+  }
  },
  {
   "id": "gmr-10",
@@ -307,7 +352,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-10.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-10/manifest.json"
+  }
  },
  {
   "id": "gmr-11",
@@ -338,7 +388,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-11.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-11/manifest.json"
+  }
  },
  {
   "id": "gmr-12",
@@ -369,7 +424,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-12.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-12/manifest.json"
+  }
  },
  {
   "id": "gmr-13",
@@ -400,7 +460,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-13.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-13/manifest.json"
+  }
  },
  {
   "id": "gmr-14",
@@ -431,7 +496,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-14.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-14/manifest.json"
+  }
  },
  {
   "id": "gmr-15",
@@ -462,7 +532,12 @@
   "text": {
    "status": "none"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-15.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-15/manifest.json"
+  }
  },
  {
   "id": "gmr-16",
@@ -493,7 +568,12 @@
   "text": {
    "status": "none"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-16.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-16/manifest.json"
+  }
  },
  {
   "id": "gmr-17",
@@ -524,7 +604,12 @@
   "text": {
    "status": "none"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-17.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-17/manifest.json"
+  }
  },
  {
   "id": "gmr-18",
@@ -555,7 +640,12 @@
   "text": {
    "status": "none"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-18.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-18/manifest.json"
+  }
  },
  {
   "id": "gmr-19",
@@ -586,7 +676,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-19.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-19/manifest.json"
+  }
  },
  {
   "id": "gmr-20",
@@ -617,7 +712,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-20.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-20/manifest.json"
+  }
  },
  {
   "id": "gmr-21",
@@ -648,7 +748,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-21.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-21/manifest.json"
+  }
  },
  {
   "id": "gmr-22",
@@ -679,7 +784,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-22.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-22/manifest.json"
+  }
  },
  {
   "id": "gmr-23",
@@ -710,7 +820,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-23.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-23/manifest.json"
+  }
  },
  {
   "id": "gmr-24",
@@ -741,7 +856,12 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-24.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-24/manifest.json"
+  }
  },
  {
   "id": "gmr-25",
@@ -772,6 +892,11 @@
   "text": {
    "status": "embedded"
   },
-  "updated_at": "2026-09-14T09:33:56+00:00"
+  "updated_at": "2026-09-14T09:33:56+00:00",
+  "assets": {
+   "cover": "covers/gmr-25.jpg",
+   "pages_rendered": true,
+   "manifest": "site/public/pages/gmr-25/manifest.json"
+  }
  }
 ]

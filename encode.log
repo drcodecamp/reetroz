@@ -1,230 +1,950 @@
-6 titles: game-specific-promotional-magazines-assorted, gamesport, game-intelligence-magazine, lifestyle-magazines-assorted, future-play, game-on-usa
+5 titles: electronic-gaming-retail-news, gameweek-iemagazine, electronic-fun-with-computers-and-games, new-earth, game-developer
 
-=== start render game-specific-promotional-magazines-assorted ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication game-specific-promotional-magazines-assorted --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+=== start render electronic-gaming-retail-news ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication electronic-gaming-retail-news --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
 
-=== start render gamesport ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication gamesport --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+=== start render gameweek-iemagazine ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication gameweek-iemagazine --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
 
-=== start render game-intelligence-magazine ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication game-intelligence-magazine --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+=== start render electronic-fun-with-computers-and-games ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication electronic-fun-with-computers-and-games --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
 
-=== start render lifestyle-magazines-assorted ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication lifestyle-magazines-assorted --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+=== start render new-earth ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication new-earth --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
 
-=== start render future-play ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication future-play --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+=== start render game-developer ===
+C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication game-developer --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
+11 issues / 416 pages to render with 4 workers
+14 issues / 737 pages to render with 4 workers
+19 issues / 1864 pages to render with 4 workers
+46 issues / 360 pages to render with 4 workers
+226 issues / 15176 pages to render with 4 workers
+  FAILED new-earth-13-3: RuntimeError('WebP encode failed for 002.webp: decoded WebP does not match source')
+  FAILED electronic-gaming-retail-news-2-2: RuntimeError('WebP encode failed for 003.webp: decoded WebP does not match source')
+  new-earth-2-4: page 7/7  (7s)
+  [2/46] new-earth-2-4: 7 pages in 8s | 7/360 pages, 0.9 p/s, ETA 7 min
+  FAILED electronic-gaming-retail-news-3-2: RuntimeError('WebP encode failed for 004.webp: decoded WebP does not match source')
+  FAILED new-earth-1-4: RuntimeError('WebP encode failed for 004.webp: decoded WebP does not match source')
+  FAILED gameweek-iemagazine-28: RuntimeError('WebP encode failed for 002.webp: decoded WebP does not match source')
+  FAILED gameweek-iemagazine-27: RuntimeError('WebP encode failed for 004.webp: decoded WebP does not match source')
+  FAILED electronic-gaming-retail-news-199306-1993-summer-ces: RuntimeError('WebP encode failed for 005.webp: decoded WebP does not match source')
+  new-earth-14-3: page 7/7  (13s)
+  [4/46] new-earth-14-3: 7 pages in 13s | 14/360 pages, 1.0 p/s, ETA 6 min
+  FAILED electronic-gaming-retail-news-7: RuntimeError('WebP encode failed for 001.webp: decoded WebP does not match source')
+  FAILED new-earth-11-3: RuntimeError('WebP encode failed for 005.webp: decoded WebP does not match source')
+  FAILED electronic-gaming-retail-news-199301-1993-winter-ces: RuntimeError('WebP encode failed for 010.webp: decoded WebP does not match source')
+  FAILED new-earth-8-3: RuntimeError('WebP encode failed for 002.webp: decoded WebP does not match source')
+  FAILED gameweek-iemagazine-20: RuntimeError('WebP encode failed for 006.webp: decoded WebP does not match source')
+  game-developer-5-19: page 50/70  (21s)
+  game-developer-6-18: page 50/68  (21s)
+  new-earth-10-3: page 8/8  (12s)
+  FAILED gameweek-iemagazine-16: RuntimeError('WebP encode failed for 002.webp: failed to read next frame')
+  [7/46] new-earth-10-3: 8 pages in 12s | 22/360 pages, 1.0 p/s, ETA 6 min
+  FAILED electronic-gaming-retail-news-4: RuntimeError('WebP encode failed for 006.webp: decoded WebP does not match source')
+  game-developer-3-21: page 50/100  (23s)
+  new-earth-9-3: page 7/7  (12s)
+  [8/46] new-earth-9-3: 7 pages in 12s | 29/360 pages, 1.2 p/s, ETA 5 min
+  FAILED gameweek-iemagazine-14-2: RuntimeError('WebP encode failed for 001.webp: decoded WebP does not match source')
+  FAILED new-earth-7-3: RuntimeError('WebP encode failed for 003.webp: decoded WebP does not match source')
+  game-developer-4-20: page 50/78  (25s)
+  electronic-fun-with-computers-and-games-2-3: page 50/92  (24s)
+  FAILED game-developer-5-19: ValueError('encoding error 5: Image size exceeds WebP limit of 16383 pixels')
+  FAILED electronic-gaming-retail-news-5: RuntimeError('WebP encode failed for 011.webp: decoded WebP does not match source')
+  game-developer-6-18: page 68/68  (27s)
+  game-developer-6-18: 40 page(s) rendered instead of extracted
+  [2/226] game-developer-6-18: 68 pages in 27s | 68/15176 pages, 2.5 p/s, ETA 102 min
+  FAILED new-earth-12-3: RuntimeError('WebP encode failed for 001.webp: decoded WebP does not match source')
+  electronic-fun-with-computers-and-games-1-3: page 50/84  (26s)
+  new-earth-6-3: page 7/7  (7s)
+  [11/46] new-earth-6-3: 7 pages in 7s | 36/360 pages, 1.2 p/s, ETA 4 min
+  FAILED electronic-gaming-retail-news-6: RuntimeError('WebP encode failed for 016.webp: decoded WebP does not match source')
+  new-earth-5-3: page 7/7  (8s)
+  [12/46] new-earth-5-3: 7 pages in 8s | 43/360 pages, 1.3 p/s, ETA 4 min
+  game-developer-4-20: page 78/78  (32s)
+  game-developer-4-20: 49 page(s) rendered instead of extracted
+  [3/226] game-developer-4-20: 78 pages in 33s | 146/15176 pages, 4.4 p/s, ETA 57 min
+  FAILED electronic-gaming-retail-news-3: RuntimeError('WebP encode failed for 005.webp: failed to read next frame')
+  FAILED gameweek-iemagazine-30: RuntimeError('WebP encode failed for 013.webp: decoded WebP does not match source')
+  FAILED electronic-fun-with-computers-and-games-4-2: RuntimeError('WebP encode failed for 026.webp: decoded WebP does not match source')
+  FAILED gameweek-iemagazine-18: RuntimeError('WebP encode failed for 005.webp: decoded WebP does not match source')
+  new-earth-2-3: page 7/7  (6s)
+  [13/46] new-earth-2-3: 7 pages in 7s | 50/360 pages, 1.4 p/s, ETA 4 min
+  FAILED new-earth-4-3: RuntimeError('WebP encode failed for 006.webp: decoded WebP does not match source')
+  new-earth-3-3: page 8/8  (9s)
+  [15/46] new-earth-3-3: 8 pages in 10s | 58/360 pages, 1.6 p/s, ETA 3 min
+  new-earth-1-3: page 7/7  (5s)
+  [16/46] new-earth-1-3: 7 pages in 6s | 65/360 pages, 1.7 p/s, ETA 3 min
+  new-earth-15-2: page 7/7  (6s)
+  [17/46] new-earth-15-2: 7 pages in 6s | 72/360 pages, 1.7 p/s, ETA 3 min
+  game-developer-3-21: page 100/100  (41s)
+  game-developer-3-21: 53 page(s) rendered instead of extracted
+  [4/226] game-developer-3-21: 100 pages in 41s | 246/15176 pages, 5.9 p/s, ETA 42 min
+  electronic-fun-with-computers-and-games-2-3: page 92/92  (42s)
+  [2/19] electronic-fun-with-computers-and-games-2-3: 92 pages in 44s | 92/1864 pages, 2.1 p/s, ETA 14 min
+  FAILED electronic-gaming-retail-news-1: RuntimeError('WebP encode failed for 034.webp: decoded WebP does not match source')
+  electronic-fun-with-computers-and-games-1-3: page 84/84  (43s)
+  [3/19] electronic-fun-with-computers-and-games-1-3: 84 pages in 45s | 176/1864 pages, 3.9 p/s, ETA 7 min
+  FAILED gameweek-iemagazine-41: RuntimeError('WebP encode failed for 005.webp: decoded WebP does not match source')
+  FAILED gameweek-iemagazine-2: RuntimeError('WebP encode failed for 007.webp: decoded WebP does not match source')
+  FAILED gameweek-iemagazine-3: RuntimeError('WebP encode failed for 006.webp: decoded WebP does not match source')
+  new-earth-14-2: page 8/8  (12s)
+  [18/46] new-earth-14-2: 8 pages in 12s | 80/360 pages, 1.7 p/s, ETA 3 min
+  game-developer-1-21: page 50/68  (20s)
+  FAILED gameweek-iemagazine-5: RuntimeError('WebP encode failed for 009.webp: failed to read next frame')
+  new-earth-11-2: page 8/8  (8s)
+  new-earth-12-2: page 8/8  (11s)
+  [19/46] new-earth-11-2: 8 pages in 8s | 88/360 pages, 1.8 p/s, ETA 3 min
+  [20/46] new-earth-12-2: 8 pages in 11s | 96/360 pages, 2.0 p/s, ETA 2 min
+  game-developer-2-21: page 50/76  (23s)
+  new-earth-13-2: page 8/8  (13s)
+  [21/46] new-earth-13-2: 8 pages in 13s | 104/360 pages, 2.1 p/s, ETA 2 min
+  FAILED electronic-fun-with-computers-and-games-1-2: RuntimeError('WebP encode failed for 003.webp: decoded WebP does not match source')
+  new-earth-8-2: page 7/7  (5s)
+  [22/46] new-earth-8-2: 7 pages in 5s | 111/360 pages, 2.1 p/s, ETA 2 min
+  game-developer-1-21: page 68/68  (26s)
+  game-developer-1-21: 45 page(s) rendered instead of extracted
+  [5/226] game-developer-1-21: 68 pages in 26s | 314/15176 pages, 5.8 p/s, ETA 43 min
+  game-developer-12-7: page 50/60  (21s)
+  FAILED electronic-fun-with-computers-and-games-5-2: RuntimeError('WebP encode failed for 038.webp: decoded WebP does not match source')
+  new-earth-9-2: page 7/7  (6s)
+  [23/46] new-earth-9-2: 7 pages in 6s | 118/360 pages, 2.1 p/s, ETA 2 min
+  new-earth-10-2: page 8/8  (8s)
+  [24/46] new-earth-10-2: 8 pages in 8s | 126/360 pages, 2.2 p/s, ETA 2 min
+  new-earth-7-2: page 9/9  (8s)
+  [25/46] new-earth-7-2: 9 pages in 8s | 135/360 pages, 2.3 p/s, ETA 2 min
+  game-developer-12-7: page 60/60  (25s)
+  game-developer-12-7: 52 page(s) rendered instead of extracted
+  [6/226] game-developer-12-7: 60 pages in 25s | 374/15176 pages, 6.4 p/s, ETA 39 min
+  FAILED gameweek-iemagazine-17: RuntimeError('WebP encode failed for 002.webp: decoded WebP does not match source')
+  game-developer-2-21: page 76/76  (34s)
+  game-developer-2-21: 57 page(s) rendered instead of extracted
+  [7/226] game-developer-2-21: 76 pages in 34s | 450/15176 pages, 7.4 p/s, ETA 33 min
+  new-earth-6-2: page 8/8  (7s)
+  [26/46] new-earth-6-2: 8 pages in 7s | 143/360 pages, 2.3 p/s, ETA 2 min
+  game-developer-11-15: page 50/60  (19s)
+  new-earth-5-2: page 8/8  (8s)
+  [27/46] new-earth-5-2: 8 pages in 8s | 151/360 pages, 2.4 p/s, ETA 1 min
+  new-earth-4-2: page 8/8  (8s)
+  [28/46] new-earth-4-2: 8 pages in 8s | 159/360 pages, 2.5 p/s, ETA 1 min
+  game-developer-11-15: page 60/60  (23s)
+  game-developer-11-15: 49 page(s) rendered instead of extracted
+  [8/226] game-developer-11-15: 60 pages in 23s | 510/15176 pages, 7.9 p/s, ETA 31 min
+  FAILED game-developer-201209-2012-game-career-guide: RuntimeError('WebP encode failed for 003.webp: decoded WebP does not match source')
+  FAILED electronic-fun-with-computers-and-games-12: RuntimeError('WebP encode failed for 010.webp: failed to read next frame')
+  FAILED electronic-fun-with-computers-and-games-3-2: RuntimeError('WebP encode failed for 032.webp: decoded WebP does not match source')
+  new-earth-3-2: page 8/8  (8s)
+  [29/46] new-earth-3-2: 8 pages in 8s | 167/360 pages, 2.5 p/s, ETA 1 min
+  FAILED gameweek-iemagazine-15: RuntimeError('WebP encode failed for 007.webp: decoded WebP does not match source')
+  new-earth-2-2: page 8/8  (8s)
+  [30/46] new-earth-2-2: 8 pages in 8s | 175/360 pages, 2.5 p/s, ETA 1 min
+  new-earth-15: page 10/10  (6s)
+  [31/46] new-earth-15: 10 pages in 6s | 185/360 pages, 2.6 p/s, ETA 1 min
+  new-earth-1-2: page 8/8  (8s)
+  [32/46] new-earth-1-2: 8 pages in 8s | 193/360 pages, 2.7 p/s, ETA 1 min
+  game-developer-10-15: page 50/60  (17s)
+  FAILED new-earth-14: RuntimeError('WebP encode failed for 007.webp: decoded WebP does not match source')
+  game-developer-10-15: page 60/60  (21s)
+  game-developer-10-15: 48 page(s) rendered instead of extracted
+  [10/226] game-developer-10-15: 60 pages in 21s | 570/15176 pages, 7.6 p/s, ETA 32 min
+  new-earth-12: page 8/8  (5s)
+  [34/46] new-earth-12: 8 pages in 5s | 201/360 pages, 2.6 p/s, ETA 1 min
+  game-developer-9-16: page 50/60  (18s)
+  new-earth-13: page 8/8  (7s)
+  [35/46] new-earth-13: 8 pages in 7s | 209/360 pages, 2.7 p/s, ETA 1 min
+  new-earth-11: page 8/8  (5s)
+  [36/46] new-earth-11: 8 pages in 5s | 217/360 pages, 2.8 p/s, ETA 1 min
+  game-developer-9-16: page 60/60  (22s)
+  new-earth-10: page 8/8  (6s)
+  game-developer-9-16: 48 page(s) rendered instead of extracted
+  [37/46] new-earth-10: 8 pages in 6s | 225/360 pages, 2.8 p/s, ETA 1 min
+  [11/226] game-developer-9-16: 60 pages in 22s | 630/15176 pages, 7.8 p/s, ETA 31 min
+  FAILED gameweek-iemagazine-14: RuntimeError('WebP encode failed for 017.webp: decoded WebP does not match source')
+14 issue(s) failed: gameweek-iemagazine-28, gameweek-iemagazine-27, gameweek-iemagazine-20, gameweek-iemagazine-16, gameweek-iemagazine-14-2, gameweek-iemagazine-30, gameweek-iemagazine-18, gameweek-iemagazine-41, gameweek-iemagazine-2, gameweek-iemagazine-3, gameweek-iemagazine-5, gameweek-iemagazine-17, gameweek-iemagazine-15, gameweek-iemagazine-14
+  new-earth-8: page 6/6  (5s)
+  [38/46] new-earth-8: 6 pages in 5s | 231/360 pages, 2.8 p/s, ETA 1 min
+  game-developer-8-16: page 50/60  (18s)
+  new-earth-9: page 8/8  (7s)
+  [39/46] new-earth-9: 8 pages in 7s | 239/360 pages, 2.9 p/s, ETA 1 min
+  electronic-fun-with-computers-and-games-2-2: page 50/108  (39s)
+  new-earth-7: page 11/11  (9s)
+  [40/46] new-earth-7: 11 pages in 9s | 250/360 pages, 2.9 p/s, ETA 1 min
+  FAILED electronic-fun-with-computers-and-games-11: RuntimeError('WebP encode failed for 027.webp: decoded WebP does not match source')
+  new-earth-6: page 8/8  (5s)
+  [41/46] new-earth-6: 8 pages in 5s | 258/360 pages, 3.0 p/s, ETA 1 min
+  game-developer-8-16: page 60/60  (21s)
+  game-developer-8-16: 45 page(s) rendered instead of extracted
+  [12/226] game-developer-8-16: 60 pages in 21s | 690/15176 pages, 8.0 p/s, ETA 30 min
+  new-earth-5: page 8/8  (5s)
+  [42/46] new-earth-5: 8 pages in 5s | 266/360 pages, 3.1 p/s, ETA 1 min
+  FAILED new-earth-2: RuntimeError('WebP encode failed for 002.webp: decoded WebP does not match source')
+  new-earth-4: page 7/7  (7s)
+  [44/46] new-earth-4: 7 pages in 7s | 273/360 pages, 3.1 p/s, ETA 0 min
+  FAILED electronic-fun-with-computers-and-games-2-2: RuntimeError('WebP encode failed for 053.webp: decoded WebP does not match source')
+  new-earth-1: page 8/8  (4s)
+  [45/46] new-earth-1: 8 pages in 4s | 281/360 pages, 3.1 p/s, ETA 0 min
+  electronic-gaming-retail-news-2: page 40/40  (64s)
+  [11/11] electronic-gaming-retail-news-2: 40 pages in 65s | 40/416 pages, 0.4 p/s, ETA 14 min
+  game-developer-5-18: page 50/60  (17s)
+  new-earth-3: page 8/8  (7s)
+10 issue(s) failed: electronic-gaming-retail-news-2-2, electronic-gaming-retail-news-3-2, electronic-gaming-retail-news-199306-1993-summer-ces, electronic-gaming-retail-news-7, electronic-gaming-retail-news-199301-1993-winter-ces, electronic-gaming-retail-news-4, electronic-gaming-retail-news-5, electronic-gaming-retail-news-6, electronic-gaming-retail-news-3, electronic-gaming-retail-news-1
+  [46/46] new-earth-3: 8 pages in 7s | 289/360 pages, 3.1 p/s, ETA 0 min
+=== render electronic-gaming-retail-news rc=1 in 1.5 min ===
+=== render gameweek-iemagazine rc=1 in 1.5 min ===
+9 issue(s) failed: new-earth-13-3, new-earth-1-4, new-earth-11-3, new-earth-8-3, new-earth-7-3, new-earth-12-3, new-earth-4-3, new-earth-14, new-earth-2
+  game-developer-5-18: page 60/60  (20s)
+  game-developer-5-18: 50 page(s) rendered instead of extracted
+  [13/226] game-developer-5-18: 60 pages in 20s | 750/15176 pages, 7.9 p/s, ETA 31 min
+  game-developer-4-19: page 50/61  (16s)
+  game-developer-4-19: page 61/61  (19s)
+  game-developer-4-19: 41 page(s) rendered instead of extracted
+  [14/226] game-developer-4-19: 61 pages in 19s | 811/15176 pages, 8.2 p/s, ETA 29 min
+  game-developer-3-20: page 50/61  (15s)
+  game-developer-6-17: page 50/76  (35s)
+  electronic-fun-with-computers-and-games-9: page 50/100  (33s)
+  game-developer-3-20: page 61/61  (18s)
+  game-developer-3-20: 44 page(s) rendered instead of extracted
+  [15/226] game-developer-3-20: 61 pages in 18s | 872/15176 pages, 8.4 p/s, ETA 28 min
+  game-developer-2-20: page 50/85  (13s)
+  electronic-fun-with-computers-and-games-10: page 50/100  (43s)
+  electronic-fun-with-computers-and-games-8: page 50/100  (24s)
+  game-developer-1-20: page 50/68  (12s)
+  game-developer-6-17: page 76/76  (46s)
+  game-developer-6-17: 63 page(s) rendered instead of extracted
+  [16/226] game-developer-6-17: 76 pages in 47s | 948/15176 pages, 8.4 p/s, ETA 28 min
+  electronic-fun-with-computers-and-games-7: page 50/100  (23s)
+  game-developer-1-20: page 68/68  (17s)
+  game-developer-1-20: 42 page(s) rendered instead of extracted
+  [17/226] game-developer-1-20: 68 pages in 17s | 1016/15176 pages, 8.8 p/s, ETA 27 min
+  game-developer-2-20: page 85/85  (22s)
+  game-developer-2-20: 61 page(s) rendered instead of extracted
+  [18/226] game-developer-2-20: 85 pages in 22s | 1101/15176 pages, 9.4 p/s, ETA 25 min
+  game-developer-11-14: page 50/52  (17s)
+  game-developer-11-14: page 52/52  (17s)
+  game-developer-11-14: 43 page(s) rendered instead of extracted
+  [19/226] game-developer-11-14: 52 pages in 18s | 1153/15176 pages, 9.5 p/s, ETA 25 min
+  electronic-fun-with-computers-and-games-9: page 100/100  (57s)
+  [10/19] electronic-fun-with-computers-and-games-9: 100 pages in 58s | 276/1864 pages, 2.2 p/s, ETA 12 min
+  game-developer-10-14: page 50/52  (13s)
+  game-developer-10-14: page 52/52  (13s)
+  game-developer-10-14: 40 page(s) rendered instead of extracted
+  [20/226] game-developer-10-14: 52 pages in 13s | 1205/15176 pages, 9.6 p/s, ETA 24 min
+  game-developer-9-15: page 50/60  (13s)
+  game-developer-8-15: page 50/60  (13s)
+  FAILED electronic-fun-with-computers-and-games-10: RuntimeError('WebP encode failed for 090.webp: decoded WebP does not match source')
+  electronic-fun-with-computers-and-games-8: page 100/100  (45s)
+  [12/19] electronic-fun-with-computers-and-games-8: 100 pages in 46s | 376/1864 pages, 2.9 p/s, ETA 9 min
+  game-developer-9-15: page 60/60  (16s)
+  game-developer-9-15: 44 page(s) rendered instead of extracted
+  [21/226] game-developer-9-15: 60 pages in 16s | 1265/15176 pages, 9.6 p/s, ETA 24 min
+  game-developer-8-15: page 60/60  (15s)
+  game-developer-8-15: 47 page(s) rendered instead of extracted
+  [22/226] game-developer-8-15: 60 pages in 15s | 1325/15176 pages, 10.0 p/s, ETA 23 min
+  electronic-fun-with-computers-and-games-7: page 100/100  (46s)
+  [13/19] electronic-fun-with-computers-and-games-7: 100 pages in 47s | 476/1864 pages, 3.5 p/s, ETA 7 min
+  game-developer-7-15: page 50/60  (13s)
+  game-developer-7-15: page 60/60  (15s)
+  game-developer-7-15: 40 page(s) rendered instead of extracted
+  [23/226] game-developer-7-15: 60 pages in 15s | 1385/15176 pages, 9.8 p/s, ETA 23 min
+  game-developer-201109-2011-game-career-guide: page 50/108  (23s)
+  game-developer-5-17: page 50/60  (13s)
+  game-developer-6-16: page 50/60  (14s)
+  electronic-fun-with-computers-and-games-6: page 50/100  (22s)
+  game-developer-5-17: page 60/60  (16s)
+  game-developer-5-17: 43 page(s) rendered instead of extracted
+  [24/226] game-developer-5-17: 60 pages in 16s | 1445/15176 pages, 9.8 p/s, ETA 23 min
+  game-developer-6-16: page 60/60  (16s)
+  game-developer-6-16: 51 page(s) rendered instead of extracted
+  [25/226] game-developer-6-16: 60 pages in 17s | 1505/15176 pages, 10.1 p/s, ETA 22 min
+  electronic-fun-with-computers-and-games-4: page 50/100  (21s)
+  game-developer-4-18: page 50/52  (13s)
+  game-developer-4-18: page 52/52  (14s)
+  game-developer-4-18: 35 page(s) rendered instead of extracted
+  [26/226] game-developer-4-18: 52 pages in 14s | 1557/15176 pages, 10.0 p/s, ETA 23 min
+  game-developer-3-19: page 50/60  (13s)
+  electronic-fun-with-computers-and-games-5: page 50/100  (30s)
+  electronic-fun-with-computers-and-games-3: page 50/100  (24s)
+  game-developer-3-19: page 60/60  (15s)
+  game-developer-3-19: 50 page(s) rendered instead of extracted
+  [27/226] game-developer-3-19: 60 pages in 15s | 1617/15176 pages, 9.9 p/s, ETA 23 min
+  game-developer-2-19: page 50/84  (15s)
+  electronic-fun-with-computers-and-games-6: page 100/100  (42s)
+  [14/19] electronic-fun-with-computers-and-games-6: 100 pages in 43s | 576/1864 pages, 3.4 p/s, ETA 6 min
+  game-developer-1-19: page 50/68  (16s)
+  game-developer-201109-2011-game-career-guide: page 100/108  (49s)
+  game-developer-201109-2011-game-career-guide: page 108/108  (52s)
+  [28/226] game-developer-201109-2011-game-career-guide: 108 pages in 52s | 1725/15176 pages, 9.9 p/s, ETA 23 min
+  electronic-fun-with-computers-and-games-4: page 100/100  (43s)
+  [15/19] electronic-fun-with-computers-and-games-4: 100 pages in 44s | 676/1864 pages, 3.9 p/s, ETA 5 min
+  game-developer-1-19: page 68/68  (21s)
+  game-developer-1-19: 53 page(s) rendered instead of extracted
+  [29/226] game-developer-1-19: 68 pages in 21s | 1793/15176 pages, 10.2 p/s, ETA 22 min
+  game-developer-11-13: page 50/52  (13s)
+  game-developer-11-13: page 52/52  (13s)
+  game-developer-11-13: 38 page(s) rendered instead of extracted
+  [30/226] game-developer-11-13: 52 pages in 13s | 1845/15176 pages, 10.4 p/s, ETA 21 min
+  game-developer-2-19: page 84/84  (30s)
+  game-developer-2-19: 60 page(s) rendered instead of extracted
+  [31/226] game-developer-2-19: 84 pages in 30s | 1929/15176 pages, 10.8 p/s, ETA 20 min
+  electronic-fun-with-computers-and-games-5: page 100/100  (52s)
+  [16/19] electronic-fun-with-computers-and-games-5: 100 pages in 53s | 776/1864 pages, 4.2 p/s, ETA 4 min
+  game-developer-10-13: page 50/60  (13s)
+  electronic-fun-with-computers-and-games-3: page 100/100  (49s)
+  [17/19] electronic-fun-with-computers-and-games-3: 100 pages in 50s | 876/1864 pages, 4.7 p/s, ETA 4 min
+  game-developer-9-14: page 50/60  (12s)
+  electronic-fun-with-computers-and-games-2: page 50/100  (20s)
+  game-developer-10-13: page 60/60  (15s)
+  game-developer-10-13: 47 page(s) rendered instead of extracted
+  [32/226] game-developer-10-13: 60 pages in 15s | 1989/15176 pages, 10.5 p/s, ETA 21 min
+  game-developer-9-14: page 60/60  (14s)
+  game-developer-9-14: 38 page(s) rendered instead of extracted
+  [33/226] game-developer-9-14: 60 pages in 14s | 2049/15176 pages, 10.8 p/s, ETA 20 min
+  game-developer-8-14: page 50/52  (14s)
+  game-developer-8-14: page 52/52  (15s)
+  game-developer-8-14: 42 page(s) rendered instead of extracted
+  [34/226] game-developer-8-14: 52 pages in 15s | 2101/15176 pages, 11.0 p/s, ETA 20 min
+  electronic-fun-with-computers-and-games-1: page 50/98  (20s)
+  game-developer-6-15: page 50/60  (11s)
+  game-developer-7-14: page 50/60  (12s)
+  game-developer-201009-2010-game-career-guide: page 50/108  (24s)
+  game-developer-5-16: page 50/60  (12s)
+  game-developer-6-15: page 60/60  (13s)
+  game-developer-6-15: 44 page(s) rendered instead of extracted
+  [35/226] game-developer-6-15: 60 pages in 13s | 2161/15176 pages, 10.6 p/s, ETA 20 min
+  game-developer-7-14: page 60/60  (15s)
+  game-developer-7-14: 50 page(s) rendered instead of extracted
+  [36/226] game-developer-7-14: 60 pages in 15s | 2221/15176 pages, 10.9 p/s, ETA 20 min
+  game-developer-5-16: page 60/60  (14s)
+  game-developer-5-16: 45 page(s) rendered instead of extracted
+  [37/226] game-developer-5-16: 60 pages in 14s | 2281/15176 pages, 11.1 p/s, ETA 19 min
+  electronic-fun-with-computers-and-games-2: page 100/100  (39s)
+  [18/19] electronic-fun-with-computers-and-games-2: 100 pages in 40s | 976/1864 pages, 4.7 p/s, ETA 3 min
+  electronic-fun-with-computers-and-games-1: page 98/98  (38s)
+  [19/19] electronic-fun-with-computers-and-games-1: 98 pages in 39s | 1074/1864 pages, 5.0 p/s, ETA 3 min
+8 issue(s) failed: electronic-fun-with-computers-and-games-4-2, electronic-fun-with-computers-and-games-1-2, electronic-fun-with-computers-and-games-5-2, electronic-fun-with-computers-and-games-12, electronic-fun-with-computers-and-games-3-2, electronic-fun-with-computers-and-games-11, electronic-fun-with-computers-and-games-2-2, electronic-fun-with-computers-and-games-10
+=== render electronic-fun-with-computers-and-games rc=1 in 3.6 min ===
+=== render new-earth rc=1 in 3.6 min ===
+  game-developer-3-18: page 50/108  (12s)
+  game-developer-201009-2010-game-career-guide: page 100/108  (41s)
+  game-developer-4-17: page 50/60  (18s)
+  game-developer-201009-2010-game-career-guide: page 108/108  (43s)
+  [38/226] game-developer-201009-2010-game-career-guide: 108 pages in 43s | 2389/15176 pages, 10.8 p/s, ETA 20 min
+  game-developer-4-17: page 60/60  (22s)
+  game-developer-4-17: 40 page(s) rendered instead of extracted
+  [39/226] game-developer-4-17: 60 pages in 22s | 2449/15176 pages, 10.9 p/s, ETA 20 min
+  game-developer-3-18: page 100/108  (25s)
+  game-developer-3-18: page 108/108  (27s)
+  game-developer-3-18: 77 page(s) rendered instead of extracted
+  [40/226] game-developer-3-18: 108 pages in 27s | 2557/15176 pages, 11.1 p/s, ETA 19 min
+  game-developer-1-18: page 50/60  (11s)
+  game-developer-1-18: page 60/60  (13s)
+  game-developer-1-18: 47 page(s) rendered instead of extracted
+  [41/226] game-developer-1-18: 60 pages in 13s | 2617/15176 pages, 11.1 p/s, ETA 19 min
+  game-developer-2-18: page 50/68  (31s)
+  game-developer-11-12: page 50/60  (14s)
+  game-developer-11-12: page 60/60  (16s)
+  game-developer-11-12: 52 page(s) rendered instead of extracted
+  [42/226] game-developer-11-12: 60 pages in 16s | 2677/15176 pages, 11.1 p/s, ETA 19 min
+  game-developer-10-12: page 50/60  (15s)
+  game-developer-9-13: page 50/60  (12s)
+  game-developer-2-18: page 68/68  (42s)
+  game-developer-2-18: 53 page(s) rendered instead of extracted
+  [43/226] game-developer-2-18: 68 pages in 42s | 2745/15176 pages, 11.1 p/s, ETA 19 min
+  game-developer-10-12: page 60/60  (17s)
+  game-developer-10-12: 48 page(s) rendered instead of extracted
+  [44/226] game-developer-10-12: 60 pages in 17s | 2805/15176 pages, 11.3 p/s, ETA 18 min
+  game-developer-9-13: page 60/60  (14s)
+  game-developer-9-13: 47 page(s) rendered instead of extracted
+  [45/226] game-developer-9-13: 60 pages in 14s | 2865/15176 pages, 11.5 p/s, ETA 18 min
+  game-developer-8-13: page 50/60  (12s)
+  game-developer-8-13: page 60/60  (15s)
+  game-developer-8-13: 50 page(s) rendered instead of extracted
+  [46/226] game-developer-8-13: 60 pages in 15s | 2925/15176 pages, 11.4 p/s, ETA 18 min
+  game-developer-5-15: page 50/60  (9s)
+  game-developer-7-13: page 50/60  (12s)
+  game-developer-5-15: page 60/60  (11s)
+  [47/226] game-developer-5-15: 60 pages in 11s | 2985/15176 pages, 11.5 p/s, ETA 18 min
+  game-developer-7-13: page 60/60  (14s)
+  game-developer-7-13: 49 page(s) rendered instead of extracted
+  [48/226] game-developer-7-13: 60 pages in 14s | 3045/15176 pages, 11.6 p/s, ETA 17 min
+  game-developer-6-14: page 50/60  (17s)
+  game-developer-4-16: page 50/52  (9s)
+  game-developer-4-16: page 52/52  (9s)
+  [49/226] game-developer-4-16: 52 pages in 9s | 3097/15176 pages, 11.7 p/s, ETA 17 min
+  game-developer-6-14: page 60/60  (19s)
+  game-developer-6-14: 49 page(s) rendered instead of extracted
+  [50/226] game-developer-6-14: 60 pages in 20s | 3157/15176 pages, 11.8 p/s, ETA 17 min
+  game-developer-2-17: page 50/68  (9s)
+  game-developer-2-17: page 68/68  (12s)
+  [51/226] game-developer-2-17: 68 pages in 12s | 3225/15176 pages, 11.8 p/s, ETA 17 min
+  game-developer-1-17: page 50/52  (8s)
+  game-developer-1-17: page 52/52  (8s)
+  [52/226] game-developer-1-17: 52 pages in 8s | 3277/15176 pages, 12.0 p/s, ETA 17 min
+  game-developer-3-17: page 50/100  (14s)
+  game-developer-11-11: page 50/52  (10s)
+  game-developer-11-11: page 52/52  (11s)
+  game-developer-11-11: 37 page(s) rendered instead of extracted
+  [53/226] game-developer-11-11: 52 pages in 11s | 3329/15176 pages, 12.0 p/s, ETA 17 min
+  game-developer-10-11: page 50/60  (10s)
+  game-developer-10-11: page 60/60  (12s)
+  game-developer-10-11: 40 page(s) rendered instead of extracted
+  [54/226] game-developer-10-11: 60 pages in 12s | 3389/15176 pages, 11.9 p/s, ETA 17 min
+  game-developer-3-17: page 100/100  (26s)
+  game-developer-3-17: 65 page(s) rendered instead of extracted
+  [55/226] game-developer-3-17: 100 pages in 26s | 3489/15176 pages, 12.2 p/s, ETA 16 min
+  game-developer-9-12: page 50/76  (13s)
+  game-developer-9-12: page 76/76  (19s)
+  game-developer-9-12: 54 page(s) rendered instead of extracted
+  [56/226] game-developer-9-12: 76 pages in 19s | 3565/15176 pages, 12.2 p/s, ETA 16 min
+  game-developer-8-12: page 50/68  (15s)
+  game-developer-7-12: page 50/68  (11s)
+  game-developer-8-12: page 68/68  (21s)
+  game-developer-8-12: 47 page(s) rendered instead of extracted
+  [57/226] game-developer-8-12: 68 pages in 21s | 3633/15176 pages, 12.1 p/s, ETA 16 min
+  game-developer-7-12: page 68/68  (14s)
+  game-developer-7-12: 48 page(s) rendered instead of extracted
+  [58/226] game-developer-7-12: 68 pages in 14s | 3701/15176 pages, 12.3 p/s, ETA 16 min
+  game-developer-200809-2008-game-career-guide: page 50/112  (18s)
+  game-developer-6-13: page 50/68  (15s)
+  game-developer-6-13: page 68/68  (19s)
+  game-developer-6-13: 58 page(s) rendered instead of extracted
+  [59/226] game-developer-6-13: 68 pages in 19s | 3769/15176 pages, 12.1 p/s, ETA 16 min
+  game-developer-5-14: page 50/68  (13s)
+  game-developer-4-15: page 50/60  (13s)
+  game-developer-4-15: page 60/60  (15s)
+  game-developer-4-15: 49 page(s) rendered instead of extracted
+  [60/226] game-developer-4-15: 60 pages in 16s | 3829/15176 pages, 12.1 p/s, ETA 16 min
+  game-developer-5-14: page 68/68  (16s)
+  game-developer-5-14: 52 page(s) rendered instead of extracted
+  [61/226] game-developer-5-14: 68 pages in 17s | 3897/15176 pages, 12.3 p/s, ETA 15 min
+  game-developer-200809-2008-game-career-guide: page 100/112  (35s)
+  game-developer-200809-2008-game-career-guide: page 112/112  (39s)
+  [62/226] game-developer-200809-2008-game-career-guide: 112 pages in 39s | 4009/15176 pages, 12.4 p/s, ETA 15 min
+  game-developer-3-16: page 50/60  (13s)
+  game-developer-1-16: page 50/76  (9s)
+  game-developer-3-16: page 60/60  (15s)
+  game-developer-3-16: 44 page(s) rendered instead of extracted
+  [63/226] game-developer-3-16: 60 pages in 16s | 4069/15176 pages, 12.4 p/s, ETA 15 min
+  game-developer-2-16: page 50/100  (12s)
+  game-developer-1-16: page 76/76  (15s)
+  game-developer-1-16: 49 page(s) rendered instead of extracted
+  [64/226] game-developer-1-16: 76 pages in 15s | 4145/15176 pages, 12.5 p/s, ETA 15 min
+  game-developer-11-10: page 50/52  (9s)
+  game-developer-11-10: page 52/52  (10s)
+  game-developer-11-10: 37 page(s) rendered instead of extracted
+  [65/226] game-developer-11-10: 52 pages in 10s | 4197/15176 pages, 12.6 p/s, ETA 15 min
+  game-developer-10-10: page 50/52  (8s)
+  game-developer-10-10: page 52/52  (8s)
+  game-developer-10-10: 36 page(s) rendered instead of extracted
+  [66/226] game-developer-10-10: 52 pages in 8s | 4249/15176 pages, 12.7 p/s, ETA 14 min
+  game-developer-2-16: page 100/100  (23s)
+  game-developer-2-16: 66 page(s) rendered instead of extracted
+  [67/226] game-developer-2-16: 100 pages in 23s | 4349/15176 pages, 12.9 p/s, ETA 14 min
+  game-developer-9-11: page 50/68  (10s)
+MuPDF error: syntax error: Failed to read JPX header
 
-=== start render game-on-usa ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication game-on-usa --workers 4 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7
-1 issues / 28 pages to render with 4 workers
-2 issues / 216 pages to render with 4 workers
-3 issues / 96 pages to render with 4 workers
-4 issues / 173 pages to render with 4 workers
-7 issues / 180 pages to render with 4 workers
-7 issues / 588 pages to render with 4 workers
-  lifestyle-magazines-assorted-9: page 9/9  (10s)
-  [1/4] lifestyle-magazines-assorted-9: 9 pages in 10s | 9/173 pages, 0.8 p/s, ETA 3 min
-  FAILED future-play-199010-future-play: RuntimeError('WebP encode failed for 002.webp: decoded WebP does not match source')
-  FAILED gamesport-1995-premiere-issue: RuntimeError('WebP encode failed for 009.webp: decoded WebP does not match source')
-  future-play-199004-future-play: page 20/20  (15s)
-  [2/7] future-play-199004-future-play: 20 pages in 16s | 20/180 pages, 1.2 p/s, ETA 2 min
-  game-intelligence-magazine-199809-special-preview-edition: page 24/24  (20s)
-  [1/3] game-intelligence-magazine-199809-special-preview-edition: 24 pages in 21s | 24/96 pages, 1.1 p/s, ETA 1 min
-  game-specific-promotional-magazines-assorted-1: page 28/28  (21s)
-  [1/1] game-specific-promotional-magazines-assorted-1: 28 pages in 21s | 28/28 pages, 1.3 p/s, ETA 0 min
-all done in 0 min
-=== render game-specific-promotional-magazines-assorted rc=0 in 0.4 min ===
-  FAILED game-on-usa-4: RuntimeError('WebP encode failed for 016.webp: decoded WebP does not match source')
-  lifestyle-magazines-assorted-3: page 20/20  (22s)
-  [2/4] lifestyle-magazines-assorted-3: 20 pages in 23s | 29/173 pages, 1.2 p/s, ETA 2 min
-  future-play-199009-future-play: page 24/24  (24s)
-  [3/7] future-play-199009-future-play: 24 pages in 24s | 44/180 pages, 1.8 p/s, ETA 1 min
-  game-intelligence-magazine-1: page 36/36  (24s)
-  [2/3] game-intelligence-magazine-1: 36 pages in 25s | 60/96 pages, 2.4 p/s, ETA 0 min
-  future-play-199008-future-play: page 24/24  (25s)
-  [4/7] future-play-199008-future-play: 24 pages in 26s | 68/180 pages, 2.6 p/s, ETA 1 min
-  lifestyle-magazines-assorted-0: page 44/44  (28s)
-  game-intelligence-magazine-199902-game-intelligence-magazine: page 36/36  (29s)
-  [3/4] lifestyle-magazines-assorted-0: 44 pages in 29s | 73/173 pages, 2.5 p/s, ETA 1 min
-  [3/3] game-intelligence-magazine-199902-game-intelligence-magazine: 36 pages in 29s | 96/96 pages, 3.3 p/s, ETA 0 min
-all done in 0 min
-  future-play-199002-future-play: page 32/32  (22s)
-  [5/7] future-play-199002-future-play: 32 pages in 22s | 100/180 pages, 3.0 p/s, ETA 0 min
-  future-play-2: page 28/28  (17s)
-  [6/7] future-play-2: 28 pages in 17s | 128/180 pages, 3.8 p/s, ETA 0 min
-  lifestyle-magazines-assorted-2008-guitar-one-presents-guitars-and-gaming: page 50/100  (33s)
-  game-on-usa-7: page 50/84  (36s)
-  future-play-1: page 28/28  (15s)
-  [7/7] future-play-1: 28 pages in 15s | 156/180 pages, 3.9 p/s, ETA 0 min
-1 issue(s) failed: future-play-199010-future-play
-  game-on-usa-6: page 50/84  (41s)
-  gamesport-2: page 50/108  (40s)
-  game-on-usa-5: page 50/84  (43s)
-  game-on-usa-3: page 50/84  (28s)
-  game-on-usa-7: page 84/84  (54s)
-  [2/7] game-on-usa-7: 84 pages in 55s | 84/588 pages, 1.5 p/s, ETA 6 min
-  lifestyle-magazines-assorted-2008-guitar-one-presents-guitars-and-gaming: page 100/100  (56s)
-  [4/4] lifestyle-magazines-assorted-2008-guitar-one-presents-guitars-and-gaming: 100 pages in 56s | 173/173 pages, 3.1 p/s, ETA 0 min
-all done in 1 min
-  game-on-usa-6: page 84/84  (56s)
-  [3/7] game-on-usa-6: 84 pages in 57s | 168/588 pages, 2.9 p/s, ETA 2 min
-  game-on-usa-5: page 84/84  (58s)
-  [4/7] game-on-usa-5: 84 pages in 58s | 252/588 pages, 4.3 p/s, ETA 1 min
-  gamesport-2: page 100/108  (62s)
-  game-on-usa-3: page 84/84  (42s)
-  [5/7] game-on-usa-3: 84 pages in 42s | 336/588 pages, 5.3 p/s, ETA 1 min
-  gamesport-2: page 108/108  (65s)
-  [2/2] gamesport-2: 108 pages in 67s | 108/216 pages, 1.6 p/s, ETA 1 min
-1 issue(s) failed: gamesport-1995-premiere-issue
-=== render gamesport rc=1 in 1.1 min ===
-=== render game-intelligence-magazine rc=0 in 1.1 min ===
-=== render lifestyle-magazines-assorted rc=0 in 1.1 min ===
-=== render future-play rc=1 in 1.1 min ===
-  game-on-usa-2: page 50/84  (23s)
-  game-on-usa-1: page 50/84  (24s)
-  game-on-usa-2: page 84/84  (40s)
-  [6/7] game-on-usa-2: 84 pages in 41s | 420/588 pages, 4.4 p/s, ETA 1 min
-  game-on-usa-1: page 84/84  (41s)
-  [7/7] game-on-usa-1: 84 pages in 41s | 504/588 pages, 5.2 p/s, ETA 0 min
-1 issue(s) failed: game-on-usa-4
-=== render game-on-usa rc=1 in 1.6 min ===
+MuPDF error: syntax error: Failed to read JPX header
 
-=== start retry game-specific-promotional-magazines-assorted ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication game-specific-promotional-magazines-assorted --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+MuPDF error: syntax error: Failed to read JPX header
 
-=== start retry gamesport ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication gamesport --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
+MuPDF error: syntax error: Failed to read JPX header
 
-=== start retry game-intelligence-magazine ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication game-intelligence-magazine --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
-
-=== start retry lifestyle-magazines-assorted ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication lifestyle-magazines-assorted --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
-
-=== start retry future-play ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication future-play --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
-
-=== start retry game-on-usa ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/publish_all.py --publication game-on-usa --workers 1 --no-upload --no-catalog --webp-read --webp-quality 80 --read-scale 0.7 --force
-0 issues / 0 pages to render with 1 workers
-1 issues / 108 pages to render with 1 workers
-=== retry game-specific-promotional-magazines-assorted rc=0 in 0.0 min ===
-0 issues / 0 pages to render with 1 workers
-0 issues / 0 pages to render with 1 workers
-1 issues / 24 pages to render with 1 workers
-1 issues / 84 pages to render with 1 workers
-  future-play-199010-future-play: page 24/24  (11s)
-  [1/1] future-play-199010-future-play: 24 pages in 11s | 24/24 pages, 2.2 p/s, ETA 0 min
-all done in 0 min
-  gamesport-1995-premiere-issue: page 50/108  (27s)
-  game-on-usa-4: page 50/84  (27s)
-  game-on-usa-4: page 84/84  (46s)
-  [1/1] game-on-usa-4: 84 pages in 46s | 84/84 pages, 1.8 p/s, ETA 0 min
-all done in 1 min
-  gamesport-1995-premiere-issue: page 100/108  (53s)
-  gamesport-1995-premiere-issue: page 108/108  (56s)
-  [1/1] gamesport-1995-premiere-issue: 108 pages in 56s | 108/108 pages, 1.9 p/s, ETA 0 min
-all done in 1 min
-=== retry gamesport rc=0 in 0.9 min ===
-=== retry game-intelligence-magazine rc=0 in 0.9 min ===
-=== retry lifestyle-magazines-assorted rc=0 in 0.9 min ===
-=== retry future-play rc=0 in 0.9 min ===
-=== retry game-on-usa rc=0 in 0.9 min ===
-
-=== rebuild catalog ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/build_pages.py
-Catalog: 4660 issues across 107 publications, 4659 readable -> E:\cat\site\src\data
-=== rebuild catalog rc=0 in 0.0 min ===
-
-=== upload game-specific-promotional-magazines-assorted ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication game-specific-promotional-magazines-assorted --workers 16
-uploading 58 objects (16.5 MB), overwrite, no bucket list
-  50/58  11.2 MB  6.2 MB/s
-  58/58  16.5 MB  8.3 MB/s
-done
-=== upload game-specific-promotional-magazines-assorted rc=0 in 0.0 min ===
-
-=== upload gamesport ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication gamesport --workers 16
-uploading 436 objects (184.9 MB), overwrite, no bucket list
-  50/436  0.9 MB  0.5 MB/s
-  100/436  1.8 MB  0.5 MB/s
-  150/436  36.1 MB  6.8 MB/s
-  200/436  85.0 MB  11.5 MB/s
-  250/436  101.0 MB  11.2 MB/s
-  300/436  101.8 MB  9.7 MB/s
-  350/436  118.2 MB  9.7 MB/s
-  400/436  157.4 MB  11.3 MB/s
-  436/436  184.9 MB  12.0 MB/s
-done
-=== upload gamesport rc=0 in 0.3 min ===
-
-=== upload game-intelligence-magazine ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication game-intelligence-magazine --workers 16
-uploading 198 objects (52.4 MB), overwrite, no bucket list
-  50/198  5.9 MB  3.3 MB/s
-  100/198  18.2 MB  5.7 MB/s
-  150/198  32.4 MB  7.0 MB/s
-  198/198  52.4 MB  8.4 MB/s
-done
-=== upload game-intelligence-magazine rc=0 in 0.1 min ===
-
-=== upload lifestyle-magazines-assorted ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication lifestyle-magazines-assorted --workers 16
-uploading 354 objects (130.4 MB), overwrite, no bucket list
-  50/354  3.3 MB  1.7 MB/s
-  100/354  29.1 MB  7.8 MB/s
-  150/354  30.2 MB  5.8 MB/s
-  200/354  35.2 MB  5.2 MB/s
-  250/354  75.5 MB  8.6 MB/s
-  300/354  107.3 MB  10.3 MB/s
-  350/354  127.7 MB  10.4 MB/s
-  354/354  130.4 MB  10.4 MB/s
-done
-=== upload lifestyle-magazines-assorted rc=0 in 0.2 min ===
-
-=== upload future-play ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication future-play --workers 16
-uploading 374 objects (134.5 MB), overwrite, no bucket list
-  50/374  13.3 MB  7.4 MB/s
-  100/374  24.7 MB  7.9 MB/s
-  150/374  42.5 MB  9.4 MB/s
-  200/374  61.5 MB  10.2 MB/s
-  250/374  81.4 MB  10.9 MB/s
-  300/374  101.9 MB  11.5 MB/s
-  350/374  117.3 MB  11.5 MB/s
-  374/374  134.5 MB  12.2 MB/s
-done
-=== upload future-play rc=0 in 0.2 min ===
-
-=== upload game-on-usa ===
-C:\Program Files\Python310\python.exe -u -X utf8 scripts/upload_r2.py --publication game-on-usa --workers 16
-uploading 1190 objects (448.7 MB), overwrite, no bucket list
-  50/1190  1.0 MB  0.6 MB/s
-  100/1190  9.5 MB  3.1 MB/s
-  150/1190  47.1 MB  10.1 MB/s
-  200/1190  60.9 MB  10.2 MB/s
-  250/1190  62.0 MB  8.5 MB/s
-  300/1190  92.6 MB  10.2 MB/s
-  350/1190  120.3 MB  11.5 MB/s
-  400/1190  121.4 MB  10.3 MB/s
-  450/1190  138.1 MB  10.4 MB/s
-  500/1190  178.6 MB  11.8 MB/s
-  550/1190  185.8 MB  11.3 MB/s
-  600/1190  189.1 MB  10.6 MB/s
-  650/1190  230.9 MB  11.7 MB/s
-  700/1190  253.1 MB  12.0 MB/s
-  750/1190  254.2 MB  11.3 MB/s
-  800/1190  278.2 MB  11.6 MB/s
-  850/1190  314.7 MB  12.3 MB/s
-  900/1190  317.7 MB  11.8 MB/s
-  950/1190  327.7 MB  11.5 MB/s
-  1000/1190  369.3 MB  12.2 MB/s
-  1050/1190  384.1 MB  12.2 MB/s
-  1100/1190  385.2 MB  11.7 MB/s
-  1150/1190  418.0 MB  12.1 MB/s
-  1190/1190  448.7 MB  12.5 MB/s
-done
-=== upload game-on-usa rc=0 in 0.6 min ===
-BATCH DONE
+  game-developer-8-11: page 50/76  (10s)
+  game-developer-9-11: page 68/68  (14s)
+  game-developer-9-11: 44 page(s) rendered instead of extracted
+  [68/226] game-developer-9-11: 68 pages in 14s | 4417/15176 pages, 12.8 p/s, ETA 14 min
+  game-developer-8-11: page 76/76  (14s)
+  game-developer-8-11: 60 page(s) rendered instead of extracted
+  [69/226] game-developer-8-11: 76 pages in 14s | 4493/15176 pages, 12.9 p/s, ETA 14 min
+  game-developer-7-11: page 50/68  (10s)
+  game-developer-7-11: page 68/68  (13s)
+  game-developer-7-11: 48 page(s) rendered instead of extracted
+  [70/226] game-developer-7-11: 68 pages in 13s | 4561/15176 pages, 13.0 p/s, ETA 14 min
+  game-developer-200709-2007-game-career-guide: page 50/100  (17s)
+  game-developer-6-12: page 50/52  (9s)
+  game-developer-6-12: page 52/52  (9s)
+  game-developer-6-12: 34 page(s) rendered instead of extracted
+  [71/226] game-developer-6-12: 52 pages in 10s | 4613/15176 pages, 13.0 p/s, ETA 14 min
+  game-developer-5-13: page 50/60  (8s)
+  game-developer-5-13: page 60/60  (10s)
+  game-developer-5-13: 44 page(s) rendered instead of extracted
+  [72/226] game-developer-5-13: 60 pages in 10s | 4673/15176 pages, 13.1 p/s, ETA 13 min
+  game-developer-4-14: page 50/52  (8s)
+  game-developer-4-14: page 52/52  (9s)
+  game-developer-4-14: 35 page(s) rendered instead of extracted
+  [73/226] game-developer-4-14: 52 pages in 9s | 4725/15176 pages, 13.1 p/s, ETA 13 min
+  game-developer-3-15: page 50/100  (9s)
+  game-developer-2-15: page 50/84  (10s)
+  game-developer-200709-2007-game-career-guide: page 100/100  (34s)
+  [74/226] game-developer-200709-2007-game-career-guide: 100 pages in 34s | 4825/15176 pages, 13.1 p/s, ETA 13 min
+  game-developer-1-15: page 50/76  (10s)
+  game-developer-3-15: page 100/100  (17s)
+  game-developer-3-15: 68 page(s) rendered instead of extracted
+  [75/226] game-developer-3-15: 100 pages in 17s | 4925/15176 pages, 13.3 p/s, ETA 13 min
+  game-developer-2-15: page 84/84  (16s)
+  game-developer-2-15: 57 page(s) rendered instead of extracted
+  [76/226] game-developer-2-15: 84 pages in 16s | 5009/15176 pages, 13.4 p/s, ETA 13 min
+  game-developer-1-15: page 76/76  (17s)
+  game-developer-1-15: 56 page(s) rendered instead of extracted
+  [77/226] game-developer-1-15: 76 pages in 17s | 5085/15176 pages, 13.5 p/s, ETA 12 min
+  game-developer-11-9: page 50/52  (8s)
+  game-developer-11-9: page 52/52  (9s)
+  game-developer-11-9: 32 page(s) rendered instead of extracted
+  [78/226] game-developer-11-9: 52 pages in 9s | 5137/15176 pages, 13.6 p/s, ETA 12 min
+  game-developer-10-9: page 50/60  (9s)
+  game-developer-10-9: page 60/60  (11s)
+  game-developer-10-9: 39 page(s) rendered instead of extracted
+  [79/226] game-developer-10-9: 60 pages in 12s | 5197/15176 pages, 13.6 p/s, ETA 12 min
+  game-developer-9-10: page 50/84  (12s)
+  game-developer-8-10: page 50/60  (10s)
+  game-developer-8-10: page 60/60  (12s)
+  game-developer-8-10: 46 page(s) rendered instead of extracted
+  [80/226] game-developer-8-10: 60 pages in 12s | 5257/15176 pages, 13.5 p/s, ETA 12 min
+  game-developer-7-10: page 50/68  (8s)
+  game-developer-9-10: page 84/84  (19s)
+  game-developer-9-10: 61 page(s) rendered instead of extracted
+  [81/226] game-developer-9-10: 84 pages in 19s | 5341/15176 pages, 13.6 p/s, ETA 12 min
+  game-developer-7-10: page 68/68  (11s)
+  game-developer-7-10: 43 page(s) rendered instead of extracted
+  [82/226] game-developer-7-10: 68 pages in 11s | 5409/15176 pages, 13.7 p/s, ETA 12 min
+  game-developer-200609-2006-game-career-guide: page 50/92  (16s)
+  game-developer-6-11: page 50/52  (8s)
+  game-developer-6-11: page 52/52  (9s)
+  game-developer-6-11: 37 page(s) rendered instead of extracted
+  [83/226] game-developer-6-11: 52 pages in 9s | 5461/15176 pages, 13.7 p/s, ETA 12 min
+  game-developer-5-12: page 50/84  (9s)
+  game-developer-4-13: page 50/109  (9s)
+  game-developer-3-14: page 50/92  (9s)
+  game-developer-5-12: page 84/84  (14s)
+  game-developer-5-12: 54 page(s) rendered instead of extracted
+  [84/226] game-developer-5-12: 84 pages in 14s | 5545/15176 pages, 13.6 p/s, ETA 12 min
+  game-developer-200609-2006-game-career-guide: page 92/92  (30s)
+  [85/226] game-developer-200609-2006-game-career-guide: 92 pages in 30s | 5637/15176 pages, 13.8 p/s, ETA 12 min
+  game-developer-4-13: page 100/109  (17s)
+  game-developer-4-13: page 109/109  (19s)
+  game-developer-4-13: 75 page(s) rendered instead of extracted
+  [86/226] game-developer-4-13: 109 pages in 19s | 5746/15176 pages, 13.9 p/s, ETA 11 min
+  game-developer-3-14: page 92/92  (16s)
+  game-developer-3-14: 63 page(s) rendered instead of extracted
+  [87/226] game-developer-3-14: 92 pages in 16s | 5838/15176 pages, 14.1 p/s, ETA 11 min
+  game-developer-1-14: page 50/52  (9s)
+  game-developer-1-14: page 52/52  (9s)
+  game-developer-1-14: 40 page(s) rendered instead of extracted
+  [88/226] game-developer-1-14: 52 pages in 9s | 5890/15176 pages, 14.1 p/s, ETA 11 min
+  game-developer-2-14: page 50/52  (10s)
+  game-developer-2-14: page 52/52  (11s)
+  game-developer-2-14: 37 page(s) rendered instead of extracted
+  [89/226] game-developer-2-14: 52 pages in 11s | 5942/15176 pages, 14.2 p/s, ETA 11 min
+  game-developer-200601-gdc-06-preview-guide: page 24/24  (7s)
+  [90/226] game-developer-200601-gdc-06-preview-guide: 24 pages in 7s | 5966/15176 pages, 14.2 p/s, ETA 11 min
+  game-developer-11-8: page 50/52  (8s)
+  game-developer-11-8: page 52/52  (9s)
+  game-developer-11-8: 35 page(s) rendered instead of extracted
+  [91/226] game-developer-11-8: 52 pages in 9s | 6018/15176 pages, 14.2 p/s, ETA 11 min
+  game-developer-10-8: page 50/52  (7s)
+  game-developer-10-8: page 52/52  (8s)
+  game-developer-10-8: 30 page(s) rendered instead of extracted
+  [92/226] game-developer-10-8: 52 pages in 8s | 6070/15176 pages, 14.3 p/s, ETA 11 min
+  game-developer-9-9: page 50/76  (9s)
+  game-developer-8-9: page 50/52  (9s)
+  game-developer-8-9: page 52/52  (10s)
+  game-developer-8-9: 40 page(s) rendered instead of extracted
+  [93/226] game-developer-8-9: 52 pages in 10s | 6122/15176 pages, 14.2 p/s, ETA 11 min
+  game-developer-9-9: page 76/76  (14s)
+  game-developer-9-9: 62 page(s) rendered instead of extracted
+  [94/226] game-developer-9-9: 76 pages in 14s | 6198/15176 pages, 14.3 p/s, ETA 10 min
+  game-developer-7-9: page 50/68  (9s)
+  game-developer-7-9: page 68/68  (12s)
+  game-developer-7-9: 51 page(s) rendered instead of extracted
+  [95/226] game-developer-7-9: 68 pages in 12s | 6266/15176 pages, 14.3 p/s, ETA 10 min
+  game-developer-200509-2005-game-career-guide: page 50/84  (16s)
+  game-developer-6-10: page 50/52  (9s)
+  game-developer-6-10: page 52/52  (9s)
+  game-developer-6-10: 37 page(s) rendered instead of extracted
+  [96/226] game-developer-6-10: 52 pages in 9s | 6318/15176 pages, 14.4 p/s, ETA 10 min
+  game-developer-5-11: page 50/68  (8s)
+  game-developer-5-11: page 68/68  (11s)
+  game-developer-5-11: 42 page(s) rendered instead of extracted
+  [97/226] game-developer-5-11: 68 pages in 11s | 6386/15176 pages, 14.4 p/s, ETA 10 min
+  game-developer-4-12: page 50/60  (10s)
+  game-developer-200509-2005-game-career-guide: page 84/84  (26s)
+  [98/226] game-developer-200509-2005-game-career-guide: 84 pages in 26s | 6470/15176 pages, 14.4 p/s, ETA 10 min
+  game-developer-3-13: page 50/104  (9s)
+  game-developer-4-12: page 60/60  (12s)
+  game-developer-4-12: 49 page(s) rendered instead of extracted
+  [99/226] game-developer-4-12: 60 pages in 12s | 6530/15176 pages, 14.5 p/s, ETA 10 min
+  game-developer-2-13: page 50/76  (8s)
+  game-developer-2-13: page 76/76  (13s)
+  game-developer-2-13: 54 page(s) rendered instead of extracted
+  [100/226] game-developer-2-13: 76 pages in 13s | 6606/15176 pages, 14.5 p/s, ETA 10 min
+  game-developer-3-13: page 100/104  (19s)
+  game-developer-3-13: page 104/104  (19s)
+  game-developer-3-13: 67 page(s) rendered instead of extracted
+  [101/226] game-developer-3-13: 104 pages in 19s | 6710/15176 pages, 14.6 p/s, ETA 10 min
+  game-developer-1-13: page 50/68  (10s)
+  game-developer-200501-gdc-05-conference-guide: page 34/34  (10s)
+  [102/226] game-developer-200501-gdc-05-conference-guide: 34 pages in 10s | 6744/15176 pages, 14.7 p/s, ETA 10 min
+  game-developer-1-13: page 68/68  (13s)
+  game-developer-1-13: 50 page(s) rendered instead of extracted
+  [103/226] game-developer-1-13: 68 pages in 13s | 6812/15176 pages, 14.7 p/s, ETA 9 min
+  game-developer-10-7: page 50/60  (8s)
+  game-developer-9-8: page 50/68  (9s)
+  game-developer-10-7: page 60/60  (9s)
+  game-developer-10-7: 39 page(s) rendered instead of extracted
+  [104/226] game-developer-10-7: 60 pages in 9s | 6872/15176 pages, 14.7 p/s, ETA 9 min
+  game-developer-8-8: page 50/60  (9s)
+  game-developer-9-8: page 68/68  (11s)
+  game-developer-9-8: 46 page(s) rendered instead of extracted
+  [105/226] game-developer-9-8: 68 pages in 11s | 6940/15176 pages, 14.7 p/s, ETA 9 min
+  game-developer-11-7: page 50/60  (16s)
+  game-developer-8-8: page 60/60  (11s)
+  game-developer-8-8: 46 page(s) rendered instead of extracted
+  [106/226] game-developer-8-8: 60 pages in 11s | 7000/15176 pages, 14.8 p/s, ETA 9 min
+  game-developer-11-7: page 60/60  (20s)
+  [107/226] game-developer-11-7: 60 pages in 20s | 7060/15176 pages, 14.8 p/s, ETA 9 min
+  game-developer-7-8: page 50/68  (7s)
+  game-developer-7-8: page 68/68  (9s)
+  game-developer-7-8: 36 page(s) rendered instead of extracted
+  [108/226] game-developer-7-8: 68 pages in 9s | 7128/15176 pages, 14.8 p/s, ETA 9 min
+  game-developer-6-9: page 50/60  (9s)
+  game-developer-5-10: page 50/74  (7s)
+  game-developer-200409-2004-game-career-guide: page 50/68  (16s)
+  game-developer-6-9: page 60/60  (11s)
+  game-developer-6-9: 32 page(s) rendered instead of extracted
+  [109/226] game-developer-6-9: 60 pages in 11s | 7188/15176 pages, 14.8 p/s, ETA 9 min
+  game-developer-5-10: page 74/74  (11s)
+  game-developer-5-10: 47 page(s) rendered instead of extracted
+  [110/226] game-developer-5-10: 74 pages in 11s | 7262/15176 pages, 14.9 p/s, ETA 9 min
+  game-developer-200404-ati-focus-on-developers: page 12/12  (4s)
+  [111/226] game-developer-200404-ati-focus-on-developers: 12 pages in 4s | 7274/15176 pages, 14.9 p/s, ETA 9 min
+  game-developer-200409-2004-game-career-guide: page 68/68  (21s)
+  [112/226] game-developer-200409-2004-game-career-guide: 68 pages in 21s | 7342/15176 pages, 15.0 p/s, ETA 9 min
+  game-developer-4-11: page 50/76  (17s)
+  game-developer-200402-gdc-04-program-guide: page 32/32  (10s)
+  [113/226] game-developer-200402-gdc-04-program-guide: 32 pages in 10s | 7374/15176 pages, 14.7 p/s, ETA 9 min
+  game-developer-3-12: page 50/76  (16s)
+  game-developer-2-12: page 50/60  (17s)
+  game-developer-4-11: page 76/76  (25s)
+  [114/226] game-developer-4-11: 76 pages in 25s | 7450/15176 pages, 14.7 p/s, ETA 9 min
+  game-developer-2-12: page 60/60  (20s)
+  [115/226] game-developer-2-12: 60 pages in 20s | 7510/15176 pages, 14.8 p/s, ETA 9 min
+  game-developer-3-12: page 76/76  (25s)
+  [116/226] game-developer-3-12: 76 pages in 25s | 7586/15176 pages, 14.8 p/s, ETA 9 min
+  game-developer-1-12: page 50/60  (16s)
+  game-developer-1-12: page 60/60  (19s)
+  [117/226] game-developer-1-12: 60 pages in 20s | 7646/15176 pages, 14.7 p/s, ETA 9 min
+  game-developer-12-6: page 50/60  (17s)
+  game-developer-11-6: page 50/76  (16s)
+  game-developer-12-6: page 60/60  (20s)
+  [118/226] game-developer-12-6: 60 pages in 20s | 7706/15176 pages, 14.7 p/s, ETA 8 min
+  game-developer-10-6: page 50/60  (16s)
+  game-developer-10-6: page 60/60  (20s)
+  [119/226] game-developer-10-6: 60 pages in 20s | 7766/15176 pages, 14.6 p/s, ETA 8 min
+  game-developer-11-6: page 76/76  (25s)
+  [120/226] game-developer-11-6: 76 pages in 25s | 7842/15176 pages, 14.7 p/s, ETA 8 min
+  game-developer-9-7: page 50/60  (16s)
+  game-developer-9-7: page 60/60  (20s)
+  [121/226] game-developer-9-7: 60 pages in 20s | 7902/15176 pages, 14.7 p/s, ETA 8 min
+  game-developer-3: page 4/4  (1s)
+  [122/226] game-developer-3: 4 pages in 1s | 7906/15176 pages, 14.6 p/s, ETA 8 min
+  game-developer-200309-2003-game-career-guide: page 50/68  (17s)
+  game-developer-200309-2003-game-career-guide: page 68/68  (23s)
+  [123/226] game-developer-200309-2003-game-career-guide: 68 pages in 23s | 7974/15176 pages, 14.5 p/s, ETA 8 min
+  game-developer-8-7: page 50/60  (17s)
+  game-developer-7-7: page 50/52  (17s)
+  game-developer-7-7: page 52/52  (18s)
+  [124/226] game-developer-7-7: 52 pages in 18s | 8026/15176 pages, 14.6 p/s, ETA 8 min
+  game-developer-8-7: page 60/60  (20s)
+  [125/226] game-developer-8-7: 60 pages in 20s | 8086/15176 pages, 14.6 p/s, ETA 8 min
+  game-developer-2: page 4/4  (1s)
+  [126/226] game-developer-2: 4 pages in 1s | 8090/15176 pages, 14.6 p/s, ETA 8 min
+  game-developer-200305-igda-2002-annual-report: page 16/16  (5s)
+  [127/226] game-developer-200305-igda-2002-annual-report: 16 pages in 5s | 8106/15176 pages, 14.6 p/s, ETA 8 min
+  game-developer-6-8: page 50/88  (16s)
+  game-developer-5-9: page 50/60  (17s)
+  game-developer-5-9: page 60/60  (20s)
+  [128/226] game-developer-5-9: 60 pages in 20s | 8166/15176 pages, 14.4 p/s, ETA 8 min
+  game-developer-6-8: page 88/88  (29s)
+  [129/226] game-developer-6-8: 88 pages in 29s | 8254/15176 pages, 14.5 p/s, ETA 8 min
+  game-developer-1: page 4/4  (1s)
+  [130/226] game-developer-1: 4 pages in 1s | 8258/15176 pages, 14.5 p/s, ETA 8 min
+  game-developer-4-10: page 50/88  (16s)
+  game-developer-3-11: page 50/76  (16s)
+  game-developer-3-11: page 76/76  (25s)
+  [131/226] game-developer-3-11: 76 pages in 25s | 8334/15176 pages, 14.3 p/s, ETA 8 min
+  game-developer-4-10: page 88/88  (29s)
+  [132/226] game-developer-4-10: 88 pages in 29s | 8422/15176 pages, 14.4 p/s, ETA 8 min
+  game-developer-2-11: page 50/80  (16s)
+  game-developer-1-11: page 50/68  (17s)
+  game-developer-1-11: page 68/68  (23s)
+  [133/226] game-developer-1-11: 68 pages in 23s | 8490/15176 pages, 14.3 p/s, ETA 8 min
+  game-developer-2-11: page 80/80  (26s)
+  [134/226] game-developer-2-11: 80 pages in 26s | 8570/15176 pages, 14.4 p/s, ETA 8 min
+  game-developer-12-5: page 50/64  (17s)
+  game-developer-11-5: page 50/60  (16s)
+  game-developer-12-5: page 64/64  (21s)
+  [135/226] game-developer-12-5: 64 pages in 21s | 8634/15176 pages, 14.3 p/s, ETA 8 min
+  game-developer-11-5: page 60/60  (20s)
+  [136/226] game-developer-11-5: 60 pages in 20s | 8694/15176 pages, 14.4 p/s, ETA 7 min
+  game-developer-10-5: page 50/60  (17s)
+  game-developer-9-6: page 50/60  (17s)
+  game-developer-10-5: page 60/60  (20s)
+  [137/226] game-developer-10-5: 60 pages in 20s | 8754/15176 pages, 14.3 p/s, ETA 7 min
+  game-developer-9-6: page 60/60  (20s)
+  [138/226] game-developer-9-6: 60 pages in 20s | 8814/15176 pages, 14.3 p/s, ETA 7 min
+  game-developer-8-6: page 50/68  (17s)
+  game-developer-7-6: page 50/60  (17s)
+  game-developer-7-6: page 60/60  (21s)
+  [139/226] game-developer-7-6: 60 pages in 21s | 8874/15176 pages, 14.2 p/s, ETA 7 min
+  game-developer-8-6: page 68/68  (23s)
+  [140/226] game-developer-8-6: 68 pages in 23s | 8942/15176 pages, 14.3 p/s, ETA 7 min
+  game-developer-6-7: page 50/76  (17s)
+  game-developer-200204-igda-2001-annual-report: page 16/16  (5s)
+  [141/226] game-developer-200204-igda-2001-annual-report: 16 pages in 5s | 8958/15176 pages, 14.2 p/s, ETA 7 min
+  game-developer-5-8: page 50/60  (17s)
+  game-developer-5-8: page 60/60  (21s)
+  [142/226] game-developer-5-8: 60 pages in 21s | 9018/15176 pages, 14.2 p/s, ETA 7 min
+  game-developer-6-7: page 76/76  (26s)
+  [143/226] game-developer-6-7: 76 pages in 26s | 9094/15176 pages, 14.2 p/s, ETA 7 min
+  game-developer-4-9: page 50/76  (17s)
+  game-developer-200202-game-developers-conference-2002-conference-broch: page 24/24  (7s)
+  [144/226] game-developer-200202-game-developers-conference-2002-conference-broch: 24 pages in 7s | 9118/15176 pages, 14.1 p/s, ETA 7 min
+  game-developer-3-10: page 50/76  (17s)
+  game-developer-4-9: page 76/76  (27s)
+  [145/226] game-developer-4-9: 76 pages in 27s | 9194/15176 pages, 14.1 p/s, ETA 7 min
+  game-developer-2-10: page 50/60  (17s)
+  game-developer-2-10: page 60/60  (20s)
+  game-developer-3-10: page 76/76  (26s)
+  [146/226] game-developer-2-10: 60 pages in 20s | 9254/15176 pages, 14.1 p/s, ETA 7 min
+  [147/226] game-developer-3-10: 76 pages in 26s | 9330/15176 pages, 14.2 p/s, ETA 7 min
+  game-developer-1-10: page 50/68  (19s)
+  game-developer-12-4: page 50/60  (19s)
+  game-developer-1-10: page 68/68  (26s)
+  [148/226] game-developer-1-10: 68 pages in 26s | 9398/15176 pages, 14.0 p/s, ETA 7 min
+  game-developer-12-4: page 60/60  (22s)
+  [149/226] game-developer-12-4: 60 pages in 23s | 9458/15176 pages, 14.0 p/s, ETA 7 min
+  game-developer-10-4: page 50/60  (19s)
+  game-developer-11-4: page 50/60  (19s)
+  game-developer-10-4: page 60/60  (22s)
+  [150/226] game-developer-10-4: 60 pages in 22s | 9518/15176 pages, 14.0 p/s, ETA 7 min
+  game-developer-11-4: page 60/60  (23s)
+  [151/226] game-developer-11-4: 60 pages in 23s | 9578/15176 pages, 14.1 p/s, ETA 7 min
+  game-developer-9-5: page 50/68  (19s)
+  game-developer-8-5: page 50/76  (19s)
+  game-developer-9-5: page 68/68  (25s)
+  [152/226] game-developer-9-5: 68 pages in 25s | 9646/15176 pages, 13.8 p/s, ETA 7 min
+  game-developer-7-5: page 50/68  (19s)
+  game-developer-6-6: page 50/76  (18s)
+  game-developer-8-5: page 76/76  (28s)
+  [153/226] game-developer-8-5: 76 pages in 28s | 9722/15176 pages, 13.9 p/s, ETA 7 min
+  game-developer-7-5: page 68/68  (26s)
+  [154/226] game-developer-7-5: 68 pages in 26s | 9790/15176 pages, 13.9 p/s, ETA 6 min
+  game-developer-6-6: page 76/76  (28s)
+  [155/226] game-developer-6-6: 76 pages in 29s | 9866/15176 pages, 13.9 p/s, ETA 6 min
+  game-developer-5-7: page 50/68  (18s)
+  game-developer-4-8: page 50/92  (18s)
+  game-developer-5-7: page 68/68  (25s)
+  [156/226] game-developer-5-7: 68 pages in 25s | 9934/15176 pages, 13.7 p/s, ETA 6 min
+  game-developer-3-9: page 50/84  (19s)
+  game-developer-2-9: page 50/68  (20s)
+  game-developer-200102-game-developers-conference-2001-guide: page 24/24  (8s)
+  [157/226] game-developer-200102-game-developers-conference-2001-guide: 24 pages in 8s | 9958/15176 pages, 13.6 p/s, ETA 6 min
+  game-developer-2-9: page 68/68  (27s)
+  [158/226] game-developer-2-9: 68 pages in 27s | 10026/15176 pages, 13.7 p/s, ETA 6 min
+  game-developer-3-9: page 84/84  (31s)
+  [159/226] game-developer-3-9: 84 pages in 31s | 10110/15176 pages, 13.7 p/s, ETA 6 min
+  game-developer-4-8: page 92/92  (34s)
+  [160/226] game-developer-4-8: 92 pages in 34s | 10202/15176 pages, 13.9 p/s, ETA 6 min
+  game-developer-1-9: page 50/68  (18s)
+  game-developer-12-3: page 50/60  (18s)
+  game-developer-11-3: page 50/68  (18s)
+  game-developer-10-3: page 50/68  (18s)
+  game-developer-1-9: page 68/68  (25s)
+  [161/226] game-developer-1-9: 68 pages in 25s | 10270/15176 pages, 13.6 p/s, ETA 6 min
+  game-developer-12-3: page 60/60  (22s)
+  [162/226] game-developer-12-3: 60 pages in 22s | 10330/15176 pages, 13.7 p/s, ETA 6 min
+  game-developer-11-3: page 68/68  (25s)
+  [163/226] game-developer-11-3: 68 pages in 25s | 10398/15176 pages, 13.7 p/s, ETA 6 min
+  game-developer-10-3: page 68/68  (25s)
+  [164/226] game-developer-10-3: 68 pages in 25s | 10466/15176 pages, 13.8 p/s, ETA 6 min
+  game-developer-9-4: page 50/76  (18s)
+  game-developer-8-4: page 50/76  (18s)
+  game-developer-7-4: page 50/60  (18s)
+  game-developer-6-5: page 50/76  (18s)
+  game-developer-7-4: page 60/60  (22s)
+  [165/226] game-developer-7-4: 60 pages in 22s | 10526/15176 pages, 13.5 p/s, ETA 6 min
+  game-developer-9-4: page 76/76  (28s)
+  [166/226] game-developer-9-4: 76 pages in 28s | 10602/15176 pages, 13.5 p/s, ETA 6 min
+  game-developer-8-4: page 76/76  (28s)
+  [167/226] game-developer-8-4: 76 pages in 28s | 10678/15176 pages, 13.6 p/s, ETA 6 min
+  game-developer-6-5: page 76/76  (28s)
+  [168/226] game-developer-6-5: 76 pages in 28s | 10754/15176 pages, 13.6 p/s, ETA 5 min
+  game-developer-5-6: page 50/68  (18s)
+  game-developer-4-7: page 50/84  (19s)
+  game-developer-3-8: page 50/76  (19s)
+  game-developer-5-6: page 68/68  (25s)
+  [169/226] game-developer-5-6: 68 pages in 25s | 10822/15176 pages, 13.4 p/s, ETA 5 min
+  game-developer-2-8: page 50/64  (19s)
+  game-developer-3-8: page 76/76  (28s)
+  [170/226] game-developer-3-8: 76 pages in 28s | 10898/15176 pages, 13.4 p/s, ETA 5 min
+  game-developer-2-8: page 64/64  (25s)
+  [171/226] game-developer-2-8: 64 pages in 25s | 10962/15176 pages, 13.5 p/s, ETA 5 min
+  game-developer-4-7: page 84/84  (31s)
+  [172/226] game-developer-4-7: 84 pages in 31s | 11046/15176 pages, 13.6 p/s, ETA 5 min
+  game-developer-200001-game-developers-conference-2000-conference-broch: page 20/20  (7s)
+  [173/226] game-developer-200001-game-developers-conference-2000-conference-broch: 20 pages in 7s | 11066/15176 pages, 13.5 p/s, ETA 5 min
+  game-developer-1-8: page 50/68  (19s)
+  game-developer-199911-game-audio-technology-2000-supplement: page 28/28  (11s)
+  [174/226] game-developer-199911-game-audio-technology-2000-supplement: 28 pages in 11s | 11094/15176 pages, 13.4 p/s, ETA 5 min
+  game-developer-12-2: page 50/76  (19s)
+  game-developer-11-2: page 50/68  (19s)
+  game-developer-1-8: page 68/68  (26s)
+  [175/226] game-developer-1-8: 68 pages in 26s | 11162/15176 pages, 13.4 p/s, ETA 5 min
+  game-developer-11-2: page 68/68  (25s)
+  [176/226] game-developer-11-2: 68 pages in 25s | 11230/15176 pages, 13.4 p/s, ETA 5 min
+  game-developer-12-2: page 76/76  (29s)
+  [177/226] game-developer-12-2: 76 pages in 29s | 11306/15176 pages, 13.4 p/s, ETA 5 min
+  game-developer-10-2: page 50/68  (19s)
+  game-developer-9-3: page 50/76  (19s)
+  game-developer-10-2: page 68/68  (26s)
+  [178/226] game-developer-10-2: 68 pages in 26s | 11374/15176 pages, 13.3 p/s, ETA 5 min
+  game-developer-8-3: page 50/68  (19s)
+  game-developer-7-3: page 50/68  (19s)
+  game-developer-9-3: page 76/76  (29s)
+  [179/226] game-developer-9-3: 76 pages in 29s | 11450/15176 pages, 13.3 p/s, ETA 5 min
+  game-developer-8-3: page 68/68  (26s)
+  [180/226] game-developer-8-3: 68 pages in 26s | 11518/15176 pages, 13.3 p/s, ETA 5 min
+  game-developer-7-3: page 68/68  (25s)
+  [181/226] game-developer-7-3: 68 pages in 25s | 11586/15176 pages, 13.4 p/s, ETA 4 min
+  game-developer-6-4: page 50/76  (19s)
+  game-developer-5-5: page 50/144  (19s)
+  game-developer-4-6: page 50/76  (18s)
+  game-developer-6-4: page 76/76  (28s)
+  [182/226] game-developer-6-4: 76 pages in 29s | 11662/15176 pages, 13.2 p/s, ETA 4 min
+  game-developer-3-7: page 50/72  (18s)
+  game-developer-4-6: page 76/76  (27s)
+  [183/226] game-developer-4-6: 76 pages in 27s | 11738/15176 pages, 13.1 p/s, ETA 4 min
+  game-developer-3-7: page 72/72  (26s)
+  [184/226] game-developer-3-7: 72 pages in 27s | 11810/15176 pages, 13.2 p/s, ETA 4 min
+  game-developer-5-5: page 100/144  (38s)
+  game-developer-2-7: page 50/80  (19s)
+  game-developer-1-7: page 50/76  (19s)
+  game-developer-13: page 50/76  (19s)
+  game-developer-2-7: page 80/80  (30s)
+  [185/226] game-developer-2-7: 80 pages in 30s | 11890/15176 pages, 13.0 p/s, ETA 4 min
+  game-developer-5-5: page 144/144  (54s)
+  [186/226] game-developer-5-5: 144 pages in 54s | 12034/15176 pages, 13.1 p/s, ETA 4 min
+  game-developer-1-7: page 76/76  (29s)
+  [187/226] game-developer-1-7: 76 pages in 29s | 12110/15176 pages, 13.1 p/s, ETA 4 min
+  game-developer-13: page 76/76  (29s)
+  [188/226] game-developer-13: 76 pages in 29s | 12186/15176 pages, 13.2 p/s, ETA 4 min
+  game-developer-11: page 50/80  (18s)
+  game-developer-12: page 50/84  (19s)
+  game-developer-10: page 50/76  (19s)
+  game-developer-9-2: page 50/72  (18s)
+  game-developer-11: page 80/80  (29s)
+  [189/226] game-developer-11: 80 pages in 29s | 12266/15176 pages, 13.0 p/s, ETA 4 min
+  game-developer-12: page 84/84  (31s)
+  [190/226] game-developer-12: 84 pages in 31s | 12350/15176 pages, 13.0 p/s, ETA 4 min
+  game-developer-9-2: page 72/72  (27s)
+  [191/226] game-developer-9-2: 72 pages in 27s | 12422/15176 pages, 13.1 p/s, ETA 4 min
+  game-developer-10: page 76/76  (29s)
+  [192/226] game-developer-10: 76 pages in 29s | 12498/15176 pages, 13.1 p/s, ETA 3 min
+  game-developer-8-2: page 50/88  (18s)
+  game-developer-7-2: page 50/68  (18s)
+  game-developer-6-3: page 50/96  (19s)
+  game-developer-5-4: page 50/88  (19s)
+  game-developer-7-2: page 68/68  (25s)
+  [193/226] game-developer-7-2: 68 pages in 25s | 12566/15176 pages, 12.9 p/s, ETA 3 min
+  game-developer-8-2: page 88/88  (32s)
+  [194/226] game-developer-8-2: 88 pages in 32s | 12654/15176 pages, 13.0 p/s, ETA 3 min
+  game-developer-5-4: page 88/88  (33s)
+  [195/226] game-developer-5-4: 88 pages in 33s | 12742/15176 pages, 12.9 p/s, ETA 3 min
+  game-developer-6-3: page 96/96  (36s)
+  [196/226] game-developer-6-3: 96 pages in 36s | 12838/15176 pages, 13.0 p/s, ETA 3 min
+  game-developer-4-5: page 50/80  (18s)
+  game-developer-199803-developing-games-for-the-public-pc: page 24/24  (9s)
+  [197/226] game-developer-199803-developing-games-for-the-public-pc: 24 pages in 9s | 12862/15176 pages, 13.0 p/s, ETA 3 min
+  game-developer-3-6: page 50/72  (20s)
+  game-developer-4-5: page 80/80  (29s)
+  [198/226] game-developer-4-5: 80 pages in 29s | 12942/15176 pages, 12.9 p/s, ETA 3 min
+  game-developer-3-6: page 72/72  (28s)
+  [199/226] game-developer-3-6: 72 pages in 28s | 13014/15176 pages, 13.0 p/s, ETA 3 min
+  game-developer-2-6: page 50/72  (18s)
+  game-developer-1-6: page 50/72  (18s)
+  game-developer-2-6: page 72/72  (26s)
+  [200/226] game-developer-2-6: 72 pages in 26s | 13086/15176 pages, 12.9 p/s, ETA 3 min
+  game-developer-1-6: page 72/72  (26s)
+  [201/226] game-developer-1-6: 72 pages in 26s | 13158/15176 pages, 12.9 p/s, ETA 3 min
+  game-developer-6-2: page 50/72  (17s)
+  game-developer-9: page 50/92  (18s)
+  game-developer-6-2: page 72/72  (25s)
+  [202/226] game-developer-6-2: 72 pages in 25s | 13230/15176 pages, 12.9 p/s, ETA 3 min
+  game-developer-8: page 50/72  (18s)
+  game-developer-9: page 92/92  (32s)
+  [203/226] game-developer-9: 92 pages in 32s | 13322/15176 pages, 12.9 p/s, ETA 2 min
+  game-developer-7: page 50/72  (18s)
+  game-developer-8: page 72/72  (26s)
+  [204/226] game-developer-8: 72 pages in 26s | 13394/15176 pages, 12.9 p/s, ETA 2 min
+  game-developer-6: page 50/64  (17s)
+  game-developer-7: page 72/72  (26s)
+  [205/226] game-developer-7: 72 pages in 26s | 13466/15176 pages, 12.9 p/s, ETA 2 min
+  game-developer-6: page 64/64  (23s)
+  [206/226] game-developer-6: 64 pages in 23s | 13530/15176 pages, 12.9 p/s, ETA 2 min
+  game-developer-5-3: page 50/76  (18s)
+  game-developer-4-4: page 50/72  (18s)
+  game-developer-3-5: page 50/72  (18s)
+  game-developer-5-3: page 76/76  (27s)
+  [207/226] game-developer-5-3: 76 pages in 27s | 13606/15176 pages, 12.8 p/s, ETA 2 min
+  game-developer-4-4: page 72/72  (26s)
+  [208/226] game-developer-4-4: 72 pages in 26s | 13678/15176 pages, 12.9 p/s, ETA 2 min
+  game-developer-2-5: page 50/76  (17s)
+  game-developer-3-5: page 72/72  (25s)
+  [209/226] game-developer-3-5: 72 pages in 25s | 13750/15176 pages, 12.9 p/s, ETA 2 min
+  game-developer-2-5: page 76/76  (26s)
+  [210/226] game-developer-2-5: 76 pages in 26s | 13826/15176 pages, 12.9 p/s, ETA 2 min
+  game-developer-1-5: page 50/64  (17s)
+  game-developer-5-2: page 50/72  (18s)
+  game-developer-1-5: page 64/64  (22s)
+  [211/226] game-developer-1-5: 64 pages in 22s | 13890/15176 pages, 12.8 p/s, ETA 2 min
+  game-developer-4-3: page 50/72  (18s)
+  game-developer-5-2: page 72/72  (25s)
+  [212/226] game-developer-5-2: 72 pages in 25s | 13962/15176 pages, 12.8 p/s, ETA 2 min
+  game-developer-3-4: page 50/72  (18s)
+  game-developer-4-3: page 72/72  (25s)
+  [213/226] game-developer-4-3: 72 pages in 25s | 14034/15176 pages, 12.8 p/s, ETA 1 min
+  game-developer-3-4: page 72/72  (25s)
+  [214/226] game-developer-3-4: 72 pages in 25s | 14106/15176 pages, 12.8 p/s, ETA 1 min
+  game-developer-2-4: page 50/80  (18s)
+  game-developer-1-4: page 50/84  (18s)
+  game-developer-6-19: page 50/72  (17s)
+  game-developer-2-4: page 80/80  (28s)
+  [215/226] game-developer-2-4: 80 pages in 28s | 14186/15176 pages, 12.7 p/s, ETA 1 min
+  game-developer-5: page 50/72  (18s)
+  game-developer-1-4: page 84/84  (30s)
+  [216/226] game-developer-1-4: 84 pages in 30s | 14270/15176 pages, 12.8 p/s, ETA 1 min
+  game-developer-6-19: page 72/72  (25s)
+  [217/226] game-developer-6-19: 72 pages in 25s | 14342/15176 pages, 12.8 p/s, ETA 1 min
+  game-developer-5: page 72/72  (25s)
+  [218/226] game-developer-5: 72 pages in 26s | 14414/15176 pages, 12.8 p/s, ETA 1 min
+  game-developer-4-2: page 50/72  (17s)
+  game-developer-3-3: page 50/72  (17s)
+  game-developer-2-3: page 50/72  (18s)
+  game-developer-4-2: page 72/72  (25s)
+  [219/226] game-developer-4-2: 72 pages in 25s | 14486/15176 pages, 12.7 p/s, ETA 1 min
+  game-developer-1-3: page 50/72  (18s)
+  game-developer-3-3: page 72/72  (25s)
+  [220/226] game-developer-3-3: 72 pages in 25s | 14558/15176 pages, 12.7 p/s, ETA 1 min
+  game-developer-2-3: page 72/72  (26s)
+  [221/226] game-developer-2-3: 72 pages in 26s | 14630/15176 pages, 12.8 p/s, ETA 1 min
+  game-developer-1-3: page 72/72  (26s)
+  [222/226] game-developer-1-3: 72 pages in 26s | 14702/15176 pages, 12.8 p/s, ETA 1 min
+  game-developer-4: page 50/72  (19s)
+  game-developer-3-2: page 50/72  (18s)
+  game-developer-2-2: page 50/72  (18s)
+  game-developer-4: page 72/72  (28s)
+  [223/226] game-developer-4: 72 pages in 28s | 14774/15176 pages, 12.7 p/s, ETA 1 min
+  game-developer-1-2: page 50/64  (18s)
+  game-developer-3-2: page 72/72  (26s)
+  [224/226] game-developer-3-2: 72 pages in 26s | 14846/15176 pages, 12.7 p/s, ETA 0 min
+  game-developer-2-2: page 72/72  (26s)
+  [225/226] game-developer-2-2: 72 pages in 26s | 14918/15176 pages, 12.7 p/s, ETA 0 min

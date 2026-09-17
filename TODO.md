@@ -5,8 +5,8 @@ Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:300
 
 | | Publications | Issues | Pages |
 |---|---:|---:|---:|
-| Done (readable on R2) | 80 | 4,659 | 515,282 |
-| PDFs on disk, not encoded yet | 7 | 375 | 22,901 |
+| Done (readable on R2) | 82 | 4,718 | 519,630 |
+| PDFs on disk, not encoded yet | 5 | 316 | 18,553 |
 | VGHF indexed, PDFs not downloaded | 2 | 1,031 | — |
 | No local scans | 27 | — | — |
 
@@ -94,6 +94,8 @@ Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:300
 - [x] Lifestyle magazines, assorted (`lifestyle-magazines-assorted`) — 4 issues / 173 pages
 - [x] Future Play (`future-play`) — 7 issues / 180 pages
 - [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
+- [x] GMR (`gmr`) — 25 issues / 2,880 pages
+- [x] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages
 
 Also done: WebP encoder check, pages/covers on `H:/cat-library`, catalog duplicate-ID fix, covers uploaded.
 
@@ -125,6 +127,8 @@ All local PDFs are on R2. Last four done, including Play US 86 and 94 after a se
 - [x] Lifestyle magazines, assorted (`lifestyle-magazines-assorted`) — 4 issues / 173 pages
 - [x] Future Play (`future-play`) — 7 issues / 180 pages
 - [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
+- [x] GMR (`gmr`) — 25 issues / 2,880 pages
+- [x] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages
 - [x] Blip (`blip`) — 7 issues / 248 pages
 - [x] MultiMedia Merchandising (`multimedia-merchandising`) — 7 issues / 498 pages
 - [x] Activisions (`activisions`) — 10 issues / 53 pages
@@ -177,7 +181,7 @@ All local PDFs are on R2. Last four done, including Play US 86 and 94 after a se
 
 ## Left
 
-This batch is on R2. Next: Electronic Gaming Retail News through New Earth (skip Game Developer unless you ask).
+Encoding the last five titles that already have PDFs (live VGHF indexes match local files).
 
 ### 1. PDFs already downloaded — need `publication.json`, then encode
 
@@ -190,13 +194,13 @@ These were scraped from VGHF and downloaded. They never got a `publication.json`
 - [x] Future Play (`future-play`) — 7 issues / 180 pages
 - [x] Game On USA (`game-on-usa`) — 7 issues / 588 pages
 - [x] Girl Gamer (`girl-gamer`) — 8 issues / 208 pages
-- [ ] Electronic Gaming Retail News (`electronic-gaming-retail-news`) — 11 issues / 416 pages — [VGHF](https://archive.gamehistory.org/folder/3e35f3c1-7416-4d78-b295-009a65f13276)
-- [ ] GameWeek / IE Magazine (`gameweek-iemagazine`) — 14 issues / 737 pages — [VGHF](https://archive.gamehistory.org/folder/7d3a45c8-2b53-4bb7-9583-bad2bca32e77)
-- [ ] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages — [VGHF](https://archive.gamehistory.org/folder/3efe8939-db36-49fb-a73b-1cca104dee71)
-- [ ] GMR (`gmr`) — 25 issues / 2,880 pages — [VGHF](https://archive.gamehistory.org/folder/df09475c-7503-46f7-a123-a678af34ad08)
-- [ ] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages — [VGHF](https://archive.gamehistory.org/folder/0367f805-b077-44df-adfd-cbfb0846d28f)
-- [ ] New Earth (`new-earth`) — 46 issues / 360 pages — [VGHF](https://archive.gamehistory.org/folder/e9a38793-aa39-41e6-923d-321a86741a18)
-- [ ] Game Developer (`game-developer`) — 226 issues / 15,176 pages — [VGHF](https://archive.gamehistory.org/folder/4796164f-a6b6-46b6-82a8-cdcd064fb8a5)
+- [ ] Electronic Gaming Retail News (`electronic-gaming-retail-news`) — 11 issues / 416 pages — **encoding**
+- [ ] GameWeek / IE Magazine (`gameweek-iemagazine`) — 14 issues / 737 pages — **encoding**
+- [ ] Electronic Fun with Computers & Games (`electronic-fun-with-computers-and-games`) — 19 issues / 1,864 pages — **encoding**
+- [x] GMR (`gmr`) — 25 issues / 2,880 pages
+- [x] Hardcore Gamer (`hardcore-gamer`) — 34 issues / 1,468 pages
+- [ ] New Earth (`new-earth`) — 46 issues / 360 pages — **encoding**
+- [ ] Game Developer (`game-developer`) — 226 issues / 15,176 pages — **encoding**
 
 ### 2. On VGHF, not downloaded yet (big)
 

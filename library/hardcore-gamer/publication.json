@@ -1,25 +1,21 @@
 {
-  "id": "psx",
-  "title": "P.S.X.",
+  "id": "hardcore-gamer",
+  "title": "Hardcore Gamer",
   "metadata_status": "stub",
-  "publishers": [
-    {
-      "name": "Dimension Publishing"
-    }
-  ],
+  "publishers": [],
   "country": "US",
   "language": "en",
   "first_issue": {
-    "date": "1995"
+    "date": "2005-06"
   },
   "last_issue": {
-    "date": "1997-09"
+    "date": "2008-12"
   },
   "status": "ceased",
   "categories": {
     "type": "consumer",
     "platforms": [
-      "playstation"
+      "multi"
     ]
   },
   "numbering": {
@@ -34,18 +30,18 @@
   "known_sources": [
     {
       "provider": "vghf",
-      "url": "https://archive.gamehistory.org/folder/0990d6f3-cdfc-48a3-8454-c9f1bb722f3f",
-      "date_range": "Fall 1995 – December 1996 / January 1997",
-      "items": 17
+      "url": "https://archive.gamehistory.org/folder/0367f805-b077-44df-adfd-cbfb0846d28f",
+      "date_range": "June 2005 – Winter 2008",
+      "items": 34
     }
   ],
   "stats": {
-    "issues": 17,
-    "pages": 1509,
-    "readable": 17,
-    "with_text": 17,
-    "first_year": 1995,
-    "last_year": 1997
+    "issues": 34,
+    "pages": 1468,
+    "readable": 34,
+    "with_text": 34,
+    "first_year": 2005,
+    "last_year": 2008
   },
   "updated_at": "2026-09-17T07:15:40+00:00"
 }

@@ -1,19 +1,19 @@
 {
-  "id": "the-logical-gamer",
-  "title": "The Logical Gamer",
+  "id": "game-developer",
+  "title": "Game Developer",
   "metadata_status": "stub",
   "publishers": [],
   "country": "US",
   "language": "en",
   "first_issue": {
-    "date": "1982-08"
+    "date": "1994-04"
   },
   "last_issue": {
-    "date": "1983-12"
+    "date": "2013-06"
   },
   "status": "ceased",
   "categories": {
-    "type": "newsletter",
+    "type": "trade",
     "platforms": [
       "multi"
     ]
@@ -30,18 +30,18 @@
   "known_sources": [
     {
       "provider": "vghf",
-      "url": "https://archive.gamehistory.org/folder/982b8274-6f9b-4130-9651-5b5750b5b360",
-      "date_range": "August 1982 – November/December 1983",
-      "items": 16
+      "url": "https://archive.gamehistory.org/folder/4796164f-a6b6-46b6-82a8-cdcd064fb8a5",
+      "date_range": "April 1994 – June/July 2013",
+      "items": 226
     }
   ],
   "stats": {
-    "issues": 16,
-    "pages": 359,
-    "readable": 16,
-    "with_text": 16,
-    "first_year": 1982,
-    "last_year": 1983
+    "issues": 226,
+    "pages": 15176,
+    "readable": 0,
+    "with_text": 219,
+    "first_year": 1994,
+    "last_year": 2013
   },
-  "updated_at": "2026-09-17T07:15:40+00:00"
+  "updated_at": "2026-09-17T09:34:50+00:00"
 }

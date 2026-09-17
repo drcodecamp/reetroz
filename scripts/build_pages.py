@@ -127,13 +127,16 @@ def extract_page(doc: pymupdf.Document, page: pymupdf.Page) -> tuple[bytes, str,
     """
     images = page.get_images(full=True)
     if len(images) == 1:
-        info = doc.extract_image(images[0][0])
-        w, h = info["width"], info["height"]
-        page_portrait = page.rect.height >= page.rect.width
-        image_portrait = h >= w
-        if info["ext"] == "jpeg" and page_portrait == image_portrait and info.get("colorspace", 3) in (1, 3):
-            return info["image"], "jpg", w, h
-        native_width = w if page_portrait == image_portrait else h
+        try:
+            info = doc.extract_image(images[0][0])
+            w, h = info["width"], info["height"]
+            page_portrait = page.rect.height >= page.rect.width
+            image_portrait = h >= w
+            if info["ext"] == "jpeg" and page_portrait == image_portrait and info.get("colorspace", 3) in (1, 3):
+                return info["image"], "jpg", w, h
+            native_width = w if page_portrait == image_portrait else h
+        except Exception:
+            native_width = MAX_FALLBACK_WIDTH
     else:
         native_width = MAX_FALLBACK_WIDTH
     zoom = min(native_width, MAX_FALLBACK_WIDTH) / page.rect.width
