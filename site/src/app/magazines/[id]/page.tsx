@@ -217,7 +217,7 @@ export default async function MagazinePage({ params }: Props) {
                 <ul className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-6">
                   {list.map((issue) => (
                     <li key={issue.id}>
-                      <IssueCard issue={issue} sizes="(max-width: 640px) 45vw, 180px" />
+                      <IssueCard issue={issue} publication={pub} sizes="(max-width: 640px) 45vw, 180px" />
                     </li>
                   ))}
                 </ul>

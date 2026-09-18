@@ -1,17 +1,18 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getPublication, type CatalogIssue } from "@/lib/catalog";
+import type { CatalogIssue, CatalogPublication } from "@/lib/catalogMeta";
 
 type Props = {
   issue: CatalogIssue;
+  publication?: CatalogPublication;
   progress?: { page: number; total: number };
   sizes?: string;
   priority?: boolean;
 };
 
-export function IssueCard({ issue, progress, sizes = "220px", priority }: Props) {
+export function IssueCard({ issue, publication, progress, sizes = "220px", priority }: Props) {
   const pct = progress ? Math.round((progress.page / progress.total) * 100) : 0;
-  const pub = getPublication(issue.publication);
+  const pub = publication;
   return (
     <Link href={`/issue/${issue.slug}`} className="group block">
       <div className="cover-3d relative aspect-[3/4] overflow-hidden rounded-lg bg-ink-3">

@@ -300,8 +300,15 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
     >
       {/* ---------- pages ---------- */}
       <div
-        className={`absolute inset-0 flex items-center justify-center ${zoomed ? "overflow-auto" : ""}`}
-        style={{ padding: zoomed ? 0 : "56px 24px 128px" }}
+        className={`absolute inset-0 flex items-center justify-center ${
+          zoomed
+            ? "overflow-auto"
+            : uiVisible
+              ? scrubbing || !playing
+                ? "px-1 pt-11 pb-[7.25rem] sm:px-6 sm:pt-14 sm:pb-32"
+                : "px-1 pt-11 pb-[5.25rem] sm:px-6 sm:pt-14 sm:pb-32"
+              : "p-1"
+        }`}
         onClick={(e) => {
           if (zoomed) return;
           const x = e.clientX / window.innerWidth;
@@ -436,12 +443,12 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
               type="button"
               data-page={p.n}
               onClick={() => goTo(p.n)}
-              className={`relative shrink-0 overflow-hidden rounded-sm border transition ${
+              className={`relative h-12 shrink-0 overflow-hidden rounded-sm border transition sm:h-16 ${
                 pagesShown.includes(p.n)
                   ? "border-amber ring-2 ring-amber/40"
                   : "border-paper/10 opacity-70 hover:opacity-100"
               }`}
-              style={{ height: 64, aspectRatio: `${p.w}/${p.h}`, backgroundColor: p.color }}
+              style={{ aspectRatio: `${p.w}/${p.h}`, backgroundColor: p.color }}
               aria-label={`Go to page ${p.n}`}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -629,12 +636,12 @@ function Spread({
             draggable={false}
             onLoad={mark}
             onError={mark}
-            className={`h-auto max-h-full w-auto object-contain shadow-[0_30px_80px_-10px_rgba(0,0,0,0.85)] ${
+            className={`max-h-full max-w-full object-contain shadow-[0_30px_80px_-10px_rgba(0,0,0,0.85)] ${
               pages.length === 1
-                ? "max-w-full rounded-sm"
+                ? "h-full w-full rounded-sm"
                 : i === 0
-                  ? "max-w-[calc(50%-2px)] rounded-l-sm"
-                  : "max-w-[calc(50%-2px)] rounded-r-sm"
+                  ? "h-full w-auto max-w-[calc(50%-2px)] rounded-l-sm"
+                  : "h-full w-auto max-w-[calc(50%-2px)] rounded-r-sm"
             }`}
           />
         );

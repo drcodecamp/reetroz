@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import {
   type CatalogIssue,
   type CatalogPublication,
+  isUndated,
   siteStats,
 } from "@/lib/catalog";
 
@@ -25,6 +26,10 @@ export function magazinePath(id: string) {
 
 export function issuePath(slug: string) {
   return `/issue/${slug}`;
+}
+
+export function yearPath(year: number) {
+  return isUndated(year) ? "/years/undated" : `/years/${year}`;
 }
 
 export function yearSpan(pub: CatalogPublication): string | null {

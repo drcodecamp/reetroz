@@ -4,41 +4,43 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { IssueCard } from "@/components/IssueCard";
-import { magazinePath } from "@/lib/seo";
+import { magazinePath, yearPath } from "@/lib/seo";
+import { ERAS, isUndated, type CatalogIssue, type CatalogPublication, type EraKey } from "@/lib/catalogMeta";
 import {
-  ERAS,
-  MAX_YEAR,
-  MIN_YEAR,
-  YEARS,
-  compareIssueNumber,
-  isUndated,
-  type CatalogIssue,
-  type CatalogPublication,
-  type EraKey,
-} from "@/lib/catalog";
+  GRID_PAGE,
+  LENGTHS,
+  ROW_PREVIEW,
+  type CatalogQuery,
+  type CatalogQueryResult,
+  type LengthKey,
+  type SortKey,
+  type ViewKey,
+} from "@/lib/catalogQuery";
 import { useProgress } from "@/lib/progress";
-
-type View = "rows" | "grid";
-type Sort = "oldest" | "newest" | "longest" | "shortest";
-type Length = "short" | "medium" | "long";
-
-const LENGTHS: { key: Length; label: string; test: (p: number) => boolean }[] = [
-  { key: "short", label: "Under 100 pages", test: (p) => p < 100 },
-  { key: "medium", label: "100 – 200 pages", test: (p) => p >= 100 && p < 200 },
-  { key: "long", label: "200+ pages", test: (p) => p >= 200 },
-];
 
 function parseList<T extends string>(v: string | null): T[] {
   return v ? (v.split(",").filter(Boolean) as T[]) : [];
 }
 
+function groupByYear(issues: CatalogIssue[]) {
+  const map = new Map<number, CatalogIssue[]>();
+  for (const issue of issues) {
+    const list = map.get(issue.year) ?? [];
+    list.push(issue);
+    map.set(issue.year, list);
+  }
+  return map;
+}
+
 function YearRow({
   year,
   issues,
+  publications,
   progress,
 }: {
   year: number;
   issues: CatalogIssue[];
+  publications: Map<string, CatalogPublication>;
   progress: ReturnType<typeof useProgress>;
 }) {
   const scroller = useRef<HTMLUListElement>(null);
@@ -67,9 +69,7 @@ function YearRow({
   }, [update, issues.length]);
 
   function scrollByPage(dir: -1 | 1) {
-    const el = scroller.current;
-    if (!el) return;
-    el.scrollBy({ left: dir * Math.max(el.clientWidth * 0.8, 360), behavior: "smooth" });
+    scroller.current?.scrollBy({ left: dir * Math.max((scroller.current.clientWidth || 360) * 0.8, 360), behavior: "smooth" });
   }
 
   return (
@@ -80,7 +80,12 @@ function YearRow({
       >
         {issues.map((i) => (
           <li key={`${i.id}-${i.date}-${i.pages}`} className="w-[150px] shrink-0 sm:w-[180px]">
-            <IssueCard issue={i} progress={progress[i.slug]} sizes="180px" />
+            <IssueCard
+              issue={i}
+              publication={publications.get(i.publication)}
+              progress={progress[i.slug]}
+              sizes="180px"
+            />
           </li>
         ))}
       </ul>
@@ -112,12 +117,26 @@ function YearRow({
   );
 }
 
+async function fetchCatalog(search: string): Promise<CatalogQueryResult> {
+  const res = await fetch(`/api/catalog?${search}`);
+  if (!res.ok) throw new Error(`Catalog query failed (${res.status})`);
+  return res.json();
+}
+
 export function CatalogBrowser({
-  issues,
   publications,
+  years,
+  minYear,
+  maxYear,
+  initialQuery,
+  initial,
 }: {
-  issues: CatalogIssue[];
   publications: CatalogPublication[];
+  years: number[];
+  minYear: number;
+  maxYear: number;
+  initialQuery: CatalogQuery;
+  initial: CatalogQueryResult;
 }) {
   const router = useRouter();
   const pathname = usePathname();
@@ -126,19 +145,38 @@ export function CatalogBrowser({
   const q = params.get("q") ?? "";
   const pubs = parseList<string>(params.get("pub"));
   const [pubQuery, setPubQuery] = useState("");
+  const [qInput, setQInput] = useState(q);
   const eras = parseList<EraKey>(params.get("era"));
-  const lengths = parseList<Length>(params.get("len"));
-  const from = Number(params.get("from") ?? MIN_YEAR);
-  const to = Number(params.get("to") ?? MAX_YEAR);
-  const view = (params.get("view") as View) ?? "rows";
-  const sort = (params.get("sort") as Sort) ?? "newest";
+  const lengths = parseList<LengthKey>(params.get("len"));
+  const from = Number(params.get("from") ?? minYear);
+  const to = Number(params.get("to") ?? maxYear);
+  const view = ((params.get("view") as ViewKey) ?? "rows") as ViewKey;
+  const sort = ((params.get("sort") as SortKey) ?? "newest") as SortKey;
   const readable = params.get("readable") === "1";
   const continueOnly = params.get("continue") === "1";
 
   const progress = useProgress();
   const [filtersOpen, setFiltersOpen] = useState(false);
+  const [result, setResult] = useState(initial);
+  const [yearIssues, setYearIssues] = useState<Map<number, CatalogIssue[]>>(() =>
+    groupByYear(initial.issues),
+  );
+  const [loadingMore, setLoadingMore] = useState(false);
+  const skipFirst = useRef(true);
 
-  // null removes a param, undefined leaves it untouched
+  useEffect(() => {
+    setQInput(q);
+  }, [q]);
+
+  useEffect(() => {
+    const t = window.setTimeout(() => {
+      if (qInput === q) return;
+      update({ q: qInput || null });
+    }, 300);
+    return () => window.clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- debounce URL from local search box
+  }, [qInput]);
+
   function update(next: Record<string, string | null | undefined>) {
     const sp = new URLSearchParams(params.toString());
     for (const [k, v] of Object.entries(next)) {
@@ -150,89 +188,76 @@ export function CatalogBrowser({
   }
 
   function toggleIn<T extends string>(key: string, list: T[], value: T) {
-    const next = list.includes(value)
-      ? list.filter((v) => v !== value)
-      : [...list, value];
+    const next = list.includes(value) ? list.filter((v) => v !== value) : [...list, value];
     update({ [key]: next.join(",") || null });
   }
 
-  const pubById = useMemo(
-    () => new Map(publications.map((p) => [p.id, p])),
-    [publications],
+  const pubById = useMemo(() => new Map(publications.map((p) => [p.id, p])), [publications]);
+
+  const apiSearch = useCallback(
+    (extra: Record<string, string | null> = {}) => {
+      const sp = new URLSearchParams(params.toString());
+      sp.delete("continue");
+      if (continueOnly) {
+        const slugs = Object.keys(progress);
+        if (slugs.length) sp.set("slugs", slugs.join(","));
+        else sp.set("slugs", "__none__");
+      }
+      for (const [k, v] of Object.entries(extra)) {
+        if (v == null) sp.delete(k);
+        else sp.set(k, v);
+      }
+      return sp.toString();
+    },
+    [params, continueOnly, progress],
   );
 
-  // Every filter except the publication facet, so the facet can show
-  // "how many issues would each magazine contribute" counts.
-  const matchesBase = useMemo(() => {
-    const needle = q.trim().toLowerCase();
-    return (i: CatalogIssue) => {
-      if (isUndated(i.year)) {
-        if (from !== MIN_YEAR || to !== MAX_YEAR) return false;
-      } else if (i.year < from || i.year > to) {
-        return false;
-      }
-      if (eras.length && !eras.includes(i.era)) return false;
-      if (lengths.length && !lengths.some((l) => LENGTHS.find((x) => x.key === l)!.test(i.pages)))
-        return false;
-      if (readable && !i.readable) return false;
-      if (continueOnly && !progress[i.slug]) return false;
-      if (needle) {
-        const pub = pubById.get(i.publication);
-        const hay = `${i.number} ${i.date} ${i.year} #${i.number} ${pub?.title ?? ""} ${pub?.short ?? ""}`.toLowerCase();
-        if (!hay.includes(needle)) return false;
-      }
-      return true;
-    };
-  }, [q, from, to, eras, lengths, readable, continueOnly, progress, pubById]);
-
-  const pubCounts = useMemo(() => {
-    const counts = new Map<string, number>();
-    for (const i of issues) if (matchesBase(i)) counts.set(i.publication, (counts.get(i.publication) ?? 0) + 1);
-    return counts;
-  }, [issues, matchesBase]);
-
-  const filtered = useMemo(() => {
-    let list = issues.filter((i) => matchesBase(i) && (!pubs.length || pubs.includes(i.publication)));
-    list = [...list].sort((a, b) => {
-      const aU = isUndated(a.year);
-      const bU = isUndated(b.year);
-      if (aU !== bU) return aU ? 1 : -1;
-      switch (sort) {
-        case "newest":
-          return a.year !== b.year ? b.year - a.year : compareIssueNumber(b, a);
-        case "longest":
-          return b.pages - a.pages;
-        case "shortest":
-          return a.pages - b.pages;
-        default:
-          return a.year !== b.year ? a.year - b.year : compareIssueNumber(a, b);
-      }
+  useEffect(() => {
+    if (skipFirst.current && !continueOnly) {
+      skipFirst.current = false;
+      return;
+    }
+    let cancelled = false;
+    fetchCatalog(apiSearch()).then((data) => {
+      if (cancelled) return;
+      setResult(data);
+      if (view === "rows") setYearIssues(groupByYear(data.issues));
     });
-    return list;
-  }, [issues, matchesBase, pubs, sort]);
+    return () => {
+      cancelled = true;
+    };
+  }, [apiSearch, continueOnly, view]);
+
+  function showAllHref(year: number) {
+    if (pubs.length === 1) return magazinePath(pubs[0]);
+    return yearPath(year);
+  }
+
+  async function loadMore() {
+    if (loadingMore || result.issues.length >= result.filtered) return;
+    setLoadingMore(true);
+    try {
+      const data = await fetchCatalog(
+        apiSearch({
+          view: "grid",
+          offset: String(result.issues.length),
+          limit: String(GRID_PAGE),
+        }),
+      );
+      setResult((current) => ({ ...data, issues: [...current.issues, ...data.issues] }));
+    } finally {
+      setLoadingMore(false);
+    }
+  }
 
   const activeCount =
     (q ? 1 : 0) +
     pubs.length +
     eras.length +
     lengths.length +
-    (from !== MIN_YEAR || to !== MAX_YEAR ? 1 : 0) +
+    (from !== minYear || to !== maxYear ? 1 : 0) +
     (readable ? 1 : 0) +
     (continueOnly ? 1 : 0);
-
-  const byYear = useMemo(() => {
-    const map = new Map<number, CatalogIssue[]>();
-    for (const i of filtered) {
-      if (!map.has(i.year)) map.set(i.year, []);
-      map.get(i.year)!.push(i);
-    }
-    return [...map.entries()].sort((a, b) => {
-      const aU = isUndated(a[0]);
-      const bU = isUndated(b[0]);
-      if (aU !== bU) return aU ? 1 : -1;
-      return sort === "newest" ? b[0] - a[0] : a[0] - b[0];
-    });
-  }, [filtered, sort]);
 
   const filters = (
     <div className="space-y-7">
@@ -246,8 +271,8 @@ export function CatalogBrowser({
             <path d="M20 20l-4-4" />
           </svg>
           <input
-            value={q}
-            onChange={(e) => update({ q: e.target.value })}
+            value={qInput}
+            onChange={(e) => setQInput(e.target.value)}
             placeholder="Magazine, issue #, month or year"
             className="w-full bg-transparent text-sm outline-none placeholder:text-paper-dim/60"
           />
@@ -258,7 +283,7 @@ export function CatalogBrowser({
         <legend className="flex w-full items-center justify-between font-mono text-[11px] uppercase tracking-[0.22em] text-paper-dim">
           Magazine
           <span className="text-paper">
-            {publications.filter((p) => (pubCounts.get(p.id) ?? 0) > 0).length} with issues
+            {publications.filter((p) => (result.pubCounts[p.id] ?? 0) > 0).length} with issues
           </span>
         </legend>
         <input
@@ -274,7 +299,7 @@ export function CatalogBrowser({
               const n = pubQuery.trim().toLowerCase();
               return !n || p.title.toLowerCase().includes(n) || p.short.toLowerCase().includes(n);
             })
-            .map((p) => ({ p, count: pubCounts.get(p.id) ?? 0 }))
+            .map((p) => ({ p, count: result.pubCounts[p.id] ?? 0 }))
             .sort((a, b) => {
               const aOn = pubs.includes(a.p.id) ? 1 : 0;
               const bOn = pubs.includes(b.p.id) ? 1 : 0;
@@ -360,12 +385,12 @@ export function CatalogBrowser({
             value={from}
             onChange={(e) => {
               const v = Number(e.target.value);
-              update({ from: v === MIN_YEAR ? null : String(v), to: v > to ? String(v) : undefined });
+              update({ from: v === minYear ? null : String(v), to: v > to ? String(v) : undefined });
             }}
             className="rounded-lg border border-paper/10 bg-ink-2 px-2 py-1.5 text-sm"
             aria-label="From year"
           >
-            {YEARS.map((y) => (
+            {years.map((y) => (
               <option key={y} value={y}>{y}</option>
             ))}
           </select>
@@ -373,12 +398,12 @@ export function CatalogBrowser({
             value={to}
             onChange={(e) => {
               const v = Number(e.target.value);
-              update({ to: v === MAX_YEAR ? null : String(v), from: v < from ? String(v) : undefined });
+              update({ to: v === maxYear ? null : String(v), from: v < from ? String(v) : undefined });
             }}
             className="rounded-lg border border-paper/10 bg-ink-2 px-2 py-1.5 text-sm"
             aria-label="To year"
           >
-            {YEARS.map((y) => (
+            {years.map((y) => (
               <option key={y} value={y}>{y}</option>
             ))}
           </select>
@@ -460,9 +485,9 @@ export function CatalogBrowser({
           <div className="sticky top-[76px] z-30 -mx-4 mb-6 flex flex-wrap items-center justify-between gap-3 bg-ink/80 px-4 py-3 backdrop-blur sm:-mx-6 sm:px-6 lg:static lg:mx-0 lg:bg-transparent lg:px-0 lg:py-0 lg:backdrop-blur-none">
             <p className="text-sm text-paper-dim">
               <span className="font-display text-lg font-semibold text-paper">
-                {filtered.length}
+                {result.filtered}
               </span>{" "}
-              of {issues.length} issues
+              of {result.total} issues
             </p>
             <div className="flex items-center gap-2">
               <button
@@ -473,7 +498,7 @@ export function CatalogBrowser({
                 Filters{activeCount ? ` (${activeCount})` : ""}
               </button>
               <div className="flex overflow-hidden rounded-full border border-paper/15 text-sm">
-                {(["rows", "grid"] as View[]).map((v) => (
+                {(["rows", "grid"] as ViewKey[]).map((v) => (
                   <button
                     key={v}
                     type="button"
@@ -501,34 +526,65 @@ export function CatalogBrowser({
             </div>
           </div>
 
-          {filtered.length === 0 ? (
+          {result.filtered === 0 ? (
             <div className="rounded-2xl border border-dashed border-paper/15 p-16 text-center text-paper-dim">
               Nothing matches those filters.
             </div>
           ) : view === "grid" ? (
-            <ul className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-6 2xl:grid-cols-7">
-              {filtered.map((i, idx) => (
-                <li key={`${i.id}-${idx}`}>
-                  <IssueCard issue={i} progress={progress[i.slug]} sizes="(max-width: 640px) 45vw, 200px" priority={idx < 8} />
-                </li>
-              ))}
-            </ul>
+            <>
+              <ul className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-6 2xl:grid-cols-7">
+                {result.issues.map((i, idx) => (
+                  <li key={`${i.id}-${idx}`}>
+                    <IssueCard
+                      issue={i}
+                      publication={pubById.get(i.publication)}
+                      progress={progress[i.slug]}
+                      sizes="(max-width: 640px) 45vw, 200px"
+                      priority={idx < 8}
+                    />
+                  </li>
+                ))}
+              </ul>
+              {result.issues.length < result.filtered && (
+                <div className="mt-10 text-center">
+                  <button
+                    type="button"
+                    onClick={loadMore}
+                    disabled={loadingMore}
+                    className="rounded-full bg-amber px-5 py-2 text-sm font-semibold text-ink disabled:opacity-60"
+                  >
+                    {loadingMore ? "Loading…" : `Load more (${result.issues.length} of ${result.filtered})`}
+                  </button>
+                </div>
+              )}
+            </>
           ) : (
             <div className="space-y-12">
-              {byYear.map(([year, list]) => (
-                <section key={year} id={`y${year}`}>
-                  <div className="mb-4 flex items-baseline gap-4">
-                    <h3 className="font-display text-3xl font-bold tracking-tight">
-                      {isUndated(year) ? "Undated" : year}
-                    </h3>
-                    <span className="hairline flex-1" />
-                    <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim">
-                      {list.length} issue{list.length === 1 ? "" : "s"}
-                    </span>
-                  </div>
-                  <YearRow year={year} issues={list} progress={progress} />
-                </section>
-              ))}
+              {result.years.map(({ year, count }) => {
+                const issues = yearIssues.get(year) ?? [];
+                return (
+                  <section key={year} id={`y${year}`}>
+                    <div className="mb-4 flex items-baseline gap-4">
+                      <h3 className="font-display text-3xl font-bold tracking-tight">
+                        {isUndated(year) ? "Undated" : year}
+                      </h3>
+                      {count > ROW_PREVIEW && (
+                        <Link
+                          href={showAllHref(year)}
+                          className="rounded-full border border-paper/15 px-3 py-1 font-mono text-[11px] uppercase tracking-[0.2em] text-amber transition hover:border-amber"
+                        >
+                          Show all
+                        </Link>
+                      )}
+                      <span className="hairline flex-1" />
+                      <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim">
+                        {count} issue{count === 1 ? "" : "s"}
+                      </span>
+                    </div>
+                    <YearRow year={year} issues={issues} publications={pubById} progress={progress} />
+                  </section>
+                );
+              })}
             </div>
           )}
         </div>
@@ -550,7 +606,7 @@ export function CatalogBrowser({
                 onClick={() => setFiltersOpen(false)}
                 className="rounded-full bg-amber px-4 py-1.5 text-sm font-semibold text-ink"
               >
-                Show {filtered.length}
+                Show {result.filtered}
               </button>
             </div>
             {filters}

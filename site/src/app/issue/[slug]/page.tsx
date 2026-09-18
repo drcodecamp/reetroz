@@ -223,7 +223,7 @@ export default async function IssuePage({ params }: Props) {
             <ul className="mask-fade-x flex gap-4 overflow-x-auto px-[max(1rem,calc((100vw-80rem)/2+1.5rem))] pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
               {sameYear.map((i) => (
                 <li key={i.slug} className="w-[160px] shrink-0">
-                  <IssueCard issue={i} sizes="160px" />
+                  <IssueCard issue={i} publication={getPublication(i.publication)} sizes="160px" />
                 </li>
               ))}
             </ul>

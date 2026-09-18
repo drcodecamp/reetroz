@@ -3,12 +3,20 @@ import type { Metadata } from "next";
 import { CatalogBrowser } from "@/components/catalog/CatalogBrowser";
 import { Footer } from "@/components/Footer";
 import { Nav } from "@/components/Nav";
-import { catalog, publications, siteStats } from "@/lib/catalog";
+import { MAX_YEAR, MIN_YEAR, YEARS, publications, siteStats } from "@/lib/catalog";
+import { parseCatalogSearchParams, queryCatalog } from "@/lib/catalogQuery";
 import { catalogMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = catalogMetadata();
 
-export default function CatalogPage() {
+type Props = {
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+};
+
+export default async function CatalogPage({ searchParams }: Props) {
+  const params = await searchParams;
+  const initialQuery = parseCatalogSearchParams(params);
+  const initial = queryCatalog(initialQuery);
   const stats = siteStats();
   return (
     <>
@@ -35,7 +43,14 @@ export default function CatalogPage() {
           </p>
         </header>
         <Suspense fallback={<div className="px-6 text-paper-dim">Loading catalog…</div>}>
-          <CatalogBrowser issues={catalog} publications={publications} />
+          <CatalogBrowser
+            publications={publications}
+            years={YEARS}
+            minYear={MIN_YEAR}
+            maxYear={MAX_YEAR}
+            initialQuery={initialQuery}
+            initial={initial}
+          />
         </Suspense>
       </main>
       <Footer />

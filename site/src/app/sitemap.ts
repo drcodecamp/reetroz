@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
-import { catalog, indexablePublications } from "@/lib/catalog";
-import { absoluteUrl, issuePath, magazinePath } from "@/lib/seo";
+import { UNDATED_YEAR, YEARS, catalog, indexablePublications, isUndated } from "@/lib/catalog";
+import { absoluteUrl, issuePath, magazinePath, yearPath } from "@/lib/seo";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const home: MetadataRoute.Sitemap[number] = {
@@ -20,6 +20,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: pub.pages > 10000 ? 0.9 : 0.75,
   }));
 
+  const yearPages = [
+    ...YEARS,
+    ...(catalog.some((issue) => isUndated(issue.year)) ? [UNDATED_YEAR] : []),
+  ].map((year) => ({
+    url: absoluteUrl(yearPath(year)),
+    changeFrequency: "weekly" as const,
+    priority: 0.55,
+  }));
+
   const issues = catalog.map((issue) => ({
     url: absoluteUrl(issuePath(issue.slug)),
     changeFrequency: "monthly" as const,
@@ -27,5 +36,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     images: issue.cover ? [absoluteUrl(issue.cover)] : undefined,
   }));
 
-  return [home, catalogPage, ...magazines, ...issues];
+  return [home, catalogPage, ...magazines, ...yearPages, ...issues];
 }
