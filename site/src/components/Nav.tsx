@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { AuthStatus } from "@/components/AuthStatus";
 import { startReadingIssue } from "@/lib/catalog";
 
 const links = [
@@ -8,13 +9,13 @@ const links = [
   { href: "/#picks", label: "Staff picks" },
 ];
 
-export function Nav() {
+export function Nav({ opaque = false }: { opaque?: boolean }) {
   const start = startReadingIssue();
   const startHref = start ? `/read/${start.slug}?p=1&play=1` : "/catalog";
   return (
-    <header className="fixed inset-x-0 top-0 z-50">
-      <div className="mx-auto mt-4 flex max-w-7xl items-center justify-between px-4 sm:px-6">
-        <nav className="glass flex w-full items-center justify-between rounded-full px-3 py-2 pl-4">
+    <header className={`fixed inset-x-0 top-0 z-50 ${opaque ? "bg-ink pt-4" : ""}`}>
+      <div className={`mx-auto flex max-w-7xl items-center justify-between px-4 sm:px-6 ${opaque ? "pb-3" : "mt-4"}`}>
+        <nav className={`${opaque ? "border border-paper/10 bg-ink-2" : "glass"} flex w-full items-center justify-between rounded-full px-3 py-2 pl-4`}>
           <Link href="/" className="group flex items-center gap-3">
             <span className="relative grid size-8 place-items-center overflow-hidden rounded-md bg-amber text-ink">
               <span className="font-display text-sm font-extrabold leading-none tracking-tight">
@@ -44,6 +45,7 @@ export function Nav() {
           </ul>
 
           <div className="flex items-center gap-2">
+            <AuthStatus />
             <Link
               href="/catalog"
               className="hidden rounded-full border border-paper/15 px-4 py-1.5 text-sm text-paper transition hover:border-paper/40 sm:inline-flex"

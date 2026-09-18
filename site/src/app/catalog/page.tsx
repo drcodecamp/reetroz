@@ -7,6 +7,8 @@ import { MAX_YEAR, MIN_YEAR, YEARS, publications, siteStats } from "@/lib/catalo
 import { parseCatalogSearchParams, queryCatalog } from "@/lib/catalogQuery";
 import { catalogMetadata } from "@/lib/seo";
 
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = catalogMetadata();
 
 type Props = {
@@ -20,7 +22,7 @@ export default async function CatalogPage({ searchParams }: Props) {
   const stats = siteStats();
   return (
     <>
-      <Nav />
+      <Nav opaque />
       <main className="pt-32 pb-24">
         <header className="mx-auto mb-12 max-w-7xl px-4 sm:px-6">
           <p className="font-mono text-xs uppercase tracking-[0.3em] text-amber">
@@ -38,8 +40,8 @@ export default async function CatalogPage({ searchParams }: Props) {
             {stats.readable === stats.issues
               ? ", every one of them readable online."
               : `; ${stats.readable.toLocaleString()} issues are readable online so far.`}{" "}
-            Filter by magazine, year or era — or open a title page for a
-            complete run.
+            Search a title or year, pick magazines, then open a title page
+            for a complete run.
           </p>
         </header>
         <Suspense fallback={<div className="px-6 text-paper-dim">Loading catalog…</div>}>

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Reader } from "@/components/reader/Reader";
-import { catalog, getIssue, getPublication } from "@/lib/catalog";
+import { getIssue, getPublication } from "@/lib/catalog";
 import { loadManifest } from "@/lib/manifest";
 
 type Props = {
@@ -10,9 +10,7 @@ type Props = {
   searchParams: Promise<{ p?: string; play?: string }>;
 };
 
-export function generateStaticParams() {
-  return catalog.filter((i) => i.readable).map((i) => ({ slug: i.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;

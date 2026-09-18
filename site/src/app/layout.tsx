@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Inter, JetBrains_Mono } from "next/font/google";
+import { AuthSessionProvider } from "@/components/AuthSessionProvider";
 import { homeDescription, homeTitle, SITE_NAME, siteOrigin } from "@/lib/seo";
 import "./globals.css";
 
@@ -50,7 +51,9 @@ export default function RootLayout({
       lang="en"
       className={`${display.variable} ${body.variable} ${mono.variable}`}
     >
-      <body className="grain min-h-screen antialiased">{children}</body>
+      <body className="grain min-h-screen antialiased">
+        <AuthSessionProvider>{children}</AuthSessionProvider>
+      </body>
     </html>
   );
 }

@@ -8,7 +8,7 @@ import { Nav } from "@/components/Nav";
 import { ContinueButton } from "@/components/issue/ContinueButton";
 import { PageGrid } from "@/components/issue/PageGrid";
 import { JsonLd } from "@/components/seo/JsonLd";
-import { catalog, eraOf, getIssue, getPublication, issuesInYear, neighbors } from "@/lib/catalog";
+import { eraOf, getIssue, getPublication, issuesInYear, neighbors } from "@/lib/catalog";
 import { loadManifest } from "@/lib/manifest";
 import {
   breadcrumbJsonLd,
@@ -20,9 +20,8 @@ import {
 
 type Props = { params: Promise<{ slug: string }> };
 
-export function generateStaticParams() {
-  return catalog.map((i) => ({ slug: i.slug }));
-}
+export const dynamicParams = true;
+export const revalidate = 86400;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
