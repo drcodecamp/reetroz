@@ -309,6 +309,8 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
                 : "px-1 pt-11 pb-[5.25rem] sm:px-6 sm:pt-14 sm:pb-32"
               : "p-1"
         }`}
+        role="application"
+        aria-label="Tap the left side for the previous page, the right side for the next page, or the middle to play"
         onClick={(e) => {
           if (zoomed) return;
           const x = e.clientX / window.innerWidth;
@@ -377,6 +379,31 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
           </div>
         )}
       </div>
+
+      {!zoomed && (
+        <div
+          className={`pointer-events-none absolute inset-0 z-10 lg:hidden ${uiVisible ? "opacity-100" : "opacity-0"} transition-opacity duration-300`}
+          aria-hidden
+        >
+          <div className="absolute inset-y-0 left-0 flex w-[22%] items-center justify-start pl-1">
+            <span className="grid size-9 place-items-center rounded-full bg-ink/55 text-paper-dim shadow-lg backdrop-blur-sm">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden>
+                <path d="M15 6l-6 6 6 6" />
+              </svg>
+            </span>
+          </div>
+          <div className="absolute inset-y-0 right-0 flex w-[22%] items-center justify-end pr-1">
+            <span className="grid size-9 place-items-center rounded-full bg-ink/55 text-paper-dim shadow-lg backdrop-blur-sm">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden>
+                <path d="M9 6l6 6-6 6" />
+              </svg>
+            </span>
+          </div>
+          <p className="absolute inset-x-0 top-[4.75rem] text-center font-mono text-[10px] uppercase tracking-[0.18em] text-paper-dim">
+            Tap the sides to turn the page
+          </p>
+        </div>
+      )}
 
       {/* ---------- top bar ---------- */}
       <header
