@@ -64,7 +64,7 @@ export default async function YearPage({ params }: Props) {
   return (
     <>
       <Nav />
-      <main className="pb-24 pt-28">
+      <main className="pb-24 pt-20">
         <section className="mx-auto max-w-7xl px-4 sm:px-6">
           <nav aria-label="Breadcrumb" className="font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim">
             <ol className="flex flex-wrap items-center gap-2">

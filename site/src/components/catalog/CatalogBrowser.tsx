@@ -151,7 +151,7 @@ export function CatalogBrowser({
   const lengths = parseList<LengthKey>(params.get("len"));
   const from = Number(params.get("from") ?? minYear);
   const to = Number(params.get("to") ?? maxYear);
-  const view = ((params.get("view") as ViewKey) ?? "rows") as ViewKey;
+  const view = ((params.get("view") as ViewKey) ?? "grid") as ViewKey;
   const sort = ((params.get("sort") as SortKey) ?? "newest") as SortKey;
   const readable = params.get("readable") === "1";
   const continueOnly = params.get("continue") === "1";
@@ -266,207 +266,221 @@ export function CatalogBrowser({
     (readable ? 1 : 0) +
     (continueOnly ? 1 : 0);
 
-  const magazineLabel =
-    pubs.length === 0
-      ? "All magazines"
-      : pubs.length === 1
-        ? (pubById.get(pubs[0])?.title ?? "1 magazine")
-        : `${pubs.length} magazines`;
-
   const magazineOptions = publications
     .filter((p) => {
+      if (p.issues <= 0) return false;
       const n = pubQuery.trim().toLowerCase();
       return !n || p.title.toLowerCase().includes(n) || p.short.toLowerCase().includes(n);
     })
     .map((p) => ({ p, count: result.pubCounts[p.id] ?? 0 }))
-    .sort((a, b) => {
-      const aOn = pubs.includes(a.p.id) ? 1 : 0;
-      const bOn = pubs.includes(b.p.id) ? 1 : 0;
-      return bOn - aOn || b.count - a.count || a.p.title.localeCompare(b.p.title);
-    });
+    .sort((a, b) => a.p.title.localeCompare(b.p.title));
 
   const control =
-    "h-10 rounded-full border border-paper/15 bg-ink px-3.5 text-sm text-paper outline-none transition hover:border-paper/40";
+    "h-10 rounded-full border border-paper/15 bg-ink px-3.5 text-base text-paper outline-none transition hover:border-paper/40";
+
+  const magazineRail = (
+    <div className="flex h-full min-h-0 flex-col">
+      <div className="shrink-0 space-y-2 px-3 pb-2 pt-3">
+        <p className="px-2 text-base text-paper-dim">
+          Magazines
+        </p>
+        <button
+          type="button"
+          onClick={() => update({ pub: null })}
+          className={`flex w-full cursor-pointer items-center gap-3 rounded-xl px-2.5 py-2 text-left text-base transition ${
+            pubs.length === 0 ? "bg-paper/10 text-paper" : "text-paper-dim hover:bg-paper/5 hover:text-paper"
+          }`}
+        >
+          <span className="grid size-8 shrink-0 place-items-center rounded-lg bg-amber text-xs font-bold text-ink">
+            All
+          </span>
+          All magazines
+        </button>
+        <input
+          value={pubQuery}
+          onChange={(e) => setPubQuery(e.target.value)}
+          placeholder="Find a magazine"
+          className="w-full rounded-xl border border-paper/10 bg-ink-2 px-3 py-2 text-base outline-none placeholder:text-paper-dim/60 focus:border-amber/50"
+          aria-label="Find a magazine"
+        />
+      </div>
+      <ul className="rail-scroll min-h-0 flex-1 overflow-y-auto px-2 pb-4" role="listbox" aria-multiselectable>
+        {magazineOptions.length === 0 ? (
+          <li className="px-3 py-3 text-base text-paper-dim">No magazines match.</li>
+        ) : (
+          magazineOptions.map(({ p, count }) => {
+            const on = pubs.includes(p.id);
+            return (
+              <li key={p.id}>
+                <button
+                  type="button"
+                  role="option"
+                  aria-selected={on}
+                  title={p.title}
+                  onClick={() => toggleIn("pub", pubs, p.id)}
+                  className={`flex w-full cursor-pointer items-center gap-3 rounded-xl px-2.5 py-1.5 text-left text-base transition ${
+                    on ? "bg-paper/10 text-paper" : "text-paper-dim hover:bg-paper/5 hover:text-paper"
+                  }`}
+                >
+                  <span
+                    aria-hidden
+                    className={`grid size-8 shrink-0 place-items-center rounded-lg text-xs font-bold uppercase ${
+                      on ? "bg-amber text-ink" : "bg-ink-3 text-paper"
+                    }`}
+                  >
+                    {(p.short || p.title).slice(0, 2)}
+                  </span>
+                  <span className="min-w-0 flex-1 truncate">{p.title}</span>
+                  <span className="shrink-0 tabular-nums text-paper-dim">{count}</span>
+                </button>
+              </li>
+            );
+          })
+        )}
+      </ul>
+    </div>
+  );
 
   return (
-    <div className="mx-auto max-w-7xl px-4 sm:px-6">
-      <div className="sticky top-[4.75rem] z-40 -mx-4 mb-8 space-y-3 bg-ink px-4 py-3 sm:-mx-6 sm:px-6">
-        <div className="flex flex-col gap-3 sm:flex-row">
-          <label className="flex h-10 min-w-0 flex-1 items-center gap-2 rounded-full border border-paper/15 bg-ink px-3.5 focus-within:border-amber/50">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" className="shrink-0 text-paper-dim" aria-hidden>
-              <circle cx="11" cy="11" r="6.5" />
-              <path d="M20 20l-4-4" />
-            </svg>
-            <input
-              value={qInput}
-              onChange={(e) => setQInput(e.target.value)}
-              placeholder="Search magazine, issue #, month or year"
-              className="w-full bg-transparent text-sm outline-none placeholder:text-paper-dim/60"
-            />
-          </label>
+    <div>
+      <aside className="fixed top-14 left-0 z-30 hidden h-[calc(100dvh-3.5rem)] w-72 overflow-hidden border-r border-paper/8 bg-ink lg:block">
+        {magazineRail}
+      </aside>
 
-          <div ref={magRef} className="relative w-full sm:w-72">
+      {magOpen && (
+        <div className="fixed inset-0 z-[60] lg:hidden">
+          <button
+            type="button"
+            aria-label="Close magazines"
+            onClick={() => setMagOpen(false)}
+            className="absolute inset-0 bg-ink/70"
+          />
+          <aside ref={magRef} className="absolute inset-y-0 left-0 w-80 border-r border-paper/10 bg-ink pt-14 shadow-2xl">
+            {magazineRail}
+          </aside>
+        </div>
+      )}
+
+      <div className="min-w-0 lg:pl-72">
+        <div className="sticky top-14 z-40 space-y-2.5 bg-ink px-4 py-3 sm:px-5">
+          <div className="flex items-center gap-2">
             <button
               type="button"
-              onClick={() => setMagOpen((v) => !v)}
-              aria-expanded={magOpen}
-              aria-haspopup="listbox"
-              className={`${control} flex w-full items-center justify-between gap-2 ${pubs.length ? "border-amber/40" : ""}`}
+              onClick={() => setMagOpen(true)}
+              className={`${control} inline-flex items-center gap-2 px-3 lg:hidden ${pubs.length ? "border-amber/40" : ""}`}
             >
-              <span className="truncate">{magazineLabel}</span>
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" className="shrink-0 text-paper-dim" aria-hidden>
-                <path d="M6 9l6 6 6-6" />
-              </svg>
+              Magazines{pubs.length ? ` (${pubs.length})` : ""}
             </button>
-            {magOpen && (
-              <div className="absolute right-0 z-40 mt-2 w-full overflow-hidden rounded-2xl border border-paper/20 bg-ink-3 shadow-[0_18px_50px_rgba(0,0,0,0.55)] sm:w-80">
-                <input
-                  value={pubQuery}
-                  onChange={(e) => setPubQuery(e.target.value)}
-                  placeholder="Find a magazine"
-                  className="w-full border-b border-paper/10 bg-transparent px-3 py-2.5 text-sm outline-none placeholder:text-paper-dim/60"
-                  aria-label="Find a magazine"
-                />
-                {pubs.length > 0 && (
+            <label className="flex h-10 min-w-0 flex-1 items-center gap-2 rounded-full border border-paper/15 bg-ink-2 px-3.5 focus-within:border-amber/50">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" className="shrink-0 text-paper-dim" aria-hidden>
+                <circle cx="11" cy="11" r="6.5" />
+                <path d="M20 20l-4-4" />
+              </svg>
+              <input
+                value={qInput}
+                onChange={(e) => setQInput(e.target.value)}
+                placeholder="Search magazine, issue #, month or year"
+                className="w-full bg-transparent text-base outline-none placeholder:text-paper-dim/60"
+              />
+            </label>
+          </div>
+
+          <div className="flex flex-wrap items-center gap-2">
+            <select
+              value={from}
+              onChange={(e) => {
+                const v = Number(e.target.value);
+                update({ from: v === minYear ? null : String(v), to: v > to ? String(v) : undefined });
+              }}
+              className={control}
+              aria-label="From year"
+            >
+              {years.map((y) => (
+                <option key={y} value={y}>{y}</option>
+              ))}
+            </select>
+            <span className="text-paper-dim">–</span>
+            <select
+              value={to}
+              onChange={(e) => {
+                const v = Number(e.target.value);
+                update({ to: v === maxYear ? null : String(v), from: v < from ? String(v) : undefined });
+              }}
+              className={control}
+              aria-label="To year"
+            >
+              {years.map((y) => (
+                <option key={y} value={y}>{y}</option>
+              ))}
+            </select>
+
+            <div className="flex overflow-hidden rounded-full border border-paper/15 text-base">
+              {LENGTHS.map((l) => {
+                const on = lengths.includes(l.key);
+                return (
                   <button
+                    key={l.key}
                     type="button"
-                    onClick={() => update({ pub: null })}
-                    className="w-full border-b border-paper/10 px-3 py-2 text-left text-xs text-amber hover:bg-paper/5"
+                    onClick={() => toggleIn("len", lengths, l.key)}
+                    aria-pressed={on}
+                    className={`h-10 px-3 transition ${on ? "bg-paper text-ink" : "text-paper-dim hover:text-paper"}`}
                   >
-                    Clear selected
+                    {l.key === "short" ? "Under 100" : l.key === "medium" ? "100–200" : "200+"}
                   </button>
-                )}
-                <ul className="max-h-72 overflow-y-auto p-1.5 [scrollbar-width:thin]" role="listbox" aria-multiselectable>
-                  {magazineOptions.length === 0 ? (
-                    <li className="px-2.5 py-3 text-sm text-paper-dim">No magazines match.</li>
-                  ) : (
-                    magazineOptions.map(({ p, count }) => {
-                      const on = pubs.includes(p.id);
-                      return (
-                        <li key={p.id}>
-                          <button
-                            type="button"
-                            role="option"
-                            aria-selected={on}
-                            onClick={() => toggleIn("pub", pubs, p.id)}
-                            className={`flex w-full items-center gap-2 rounded-xl px-2.5 py-1.5 text-left text-sm transition ${
-                              on ? "bg-amber/10 text-paper" : "text-paper-dim hover:bg-paper/5 hover:text-paper"
-                            }`}
-                          >
-                            <span
-                              aria-hidden
-                              className={`flex size-4 shrink-0 items-center justify-center rounded border text-[10px] ${
-                                on ? "border-amber bg-amber text-ink" : "border-paper/25"
-                              }`}
-                            >
-                              {on ? "✓" : ""}
-                            </span>
-                            <span className="min-w-0 flex-1 truncate">{p.title}</span>
-                            <span className="shrink-0 font-mono text-[10px] tabular-nums text-paper-dim">{count}</span>
-                          </button>
-                        </li>
-                      );
-                    })
-                  )}
-                </ul>
-              </div>
+                );
+              })}
+            </div>
+
+            <div className="flex overflow-hidden rounded-full border border-paper/15 text-base">
+              {([
+                ["rows", "By Year"],
+                ["grid", "All"],
+              ] as const).map(([v, label]) => (
+                <button
+                  key={v}
+                  type="button"
+                  onClick={() => update({ view: v === "grid" ? null : v })}
+                  aria-pressed={view === v}
+                  className={`h-10 px-3.5 transition ${
+                    view === v ? "bg-paper text-ink" : "text-paper-dim hover:text-paper"
+                  }`}
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
+
+            <select
+              value={sort}
+              onChange={(e) => update({ sort: e.target.value === "newest" ? null : e.target.value })}
+              className={control}
+              aria-label="Sort"
+            >
+              <option value="newest">Newest first</option>
+              <option value="oldest">Oldest first</option>
+              <option value="longest">Most pages</option>
+              <option value="shortest">Fewest pages</option>
+            </select>
+
+            <p className="ml-auto text-base text-paper-dim">
+              <span className="font-display text-lg font-semibold text-paper">{result.filtered}</span>
+              {" "}of {result.total}
+            </p>
+            {activeCount > 0 && (
+              <button
+                type="button"
+                onClick={() => router.replace(pathname, { scroll: false })}
+                className="text-base text-amber hover:text-amber-2"
+              >
+                Clear
+              </button>
             )}
           </div>
         </div>
 
-        <div className="flex flex-wrap items-center gap-2">
-          <select
-            value={from}
-            onChange={(e) => {
-              const v = Number(e.target.value);
-              update({ from: v === minYear ? null : String(v), to: v > to ? String(v) : undefined });
-            }}
-            className={control}
-            aria-label="From year"
-          >
-            {years.map((y) => (
-              <option key={y} value={y}>{y}</option>
-            ))}
-          </select>
-          <span className="text-paper-dim">–</span>
-          <select
-            value={to}
-            onChange={(e) => {
-              const v = Number(e.target.value);
-              update({ to: v === maxYear ? null : String(v), from: v < from ? String(v) : undefined });
-            }}
-            className={control}
-            aria-label="To year"
-          >
-            {years.map((y) => (
-              <option key={y} value={y}>{y}</option>
-            ))}
-          </select>
-
-          <div className="flex overflow-hidden rounded-full border border-paper/15 text-sm">
-            {LENGTHS.map((l) => {
-              const on = lengths.includes(l.key);
-              return (
-                <button
-                  key={l.key}
-                  type="button"
-                  onClick={() => toggleIn("len", lengths, l.key)}
-                  aria-pressed={on}
-                  className={`h-10 px-3 transition ${on ? "bg-paper text-ink" : "text-paper-dim hover:text-paper"}`}
-                >
-                  {l.key === "short" ? "Under 100" : l.key === "medium" ? "100–200" : "200+"}
-                </button>
-              );
-            })}
-          </div>
-
-          <div className="flex overflow-hidden rounded-full border border-paper/15 text-sm">
-            {(["rows", "grid"] as ViewKey[]).map((v) => (
-              <button
-                key={v}
-                type="button"
-                onClick={() => update({ view: v === "rows" ? null : v })}
-                aria-pressed={view === v}
-                className={`h-10 px-3.5 capitalize transition ${
-                  view === v ? "bg-paper text-ink" : "text-paper-dim hover:text-paper"
-                }`}
-              >
-                {v}
-              </button>
-            ))}
-          </div>
-
-          <select
-            value={sort}
-            onChange={(e) => update({ sort: e.target.value === "newest" ? null : e.target.value })}
-            className={control}
-            aria-label="Sort"
-          >
-            <option value="newest">Newest first</option>
-            <option value="oldest">Oldest first</option>
-            <option value="longest">Most pages</option>
-            <option value="shortest">Fewest pages</option>
-          </select>
-
-          <p className="ml-auto text-sm text-paper-dim">
-            <span className="font-display text-lg font-semibold text-paper">{result.filtered}</span>
-            {" "}of {result.total}
-          </p>
-          {activeCount > 0 && (
-            <button
-              type="button"
-              onClick={() => router.replace(pathname, { scroll: false })}
-              className="text-sm text-amber hover:text-amber-2"
-            >
-              Clear
-            </button>
-          )}
-        </div>
-      </div>
-
-      <div className="min-w-0">
+        <div className="min-w-0 px-4 pt-4 sm:px-5">
           {pubs.length === 1 && pubById.get(pubs[0]) && (
-            <p className="mb-4 rounded-xl border border-amber/20 bg-amber/5 px-4 py-3 text-sm text-paper-dim">
+            <p className="mb-4 rounded-xl border border-amber/20 bg-amber/5 px-4 py-3 text-base text-paper-dim">
               Looking for the full run? Open the{" "}
               <Link
                 href={magazinePath(pubs[0])}
@@ -503,7 +517,7 @@ export function CatalogBrowser({
                     type="button"
                     onClick={loadMore}
                     disabled={loadingMore}
-                    className="rounded-full bg-amber px-5 py-2 text-sm font-semibold text-ink disabled:opacity-60"
+                    className="rounded-full bg-amber px-5 py-2 text-base font-semibold text-ink disabled:opacity-60"
                   >
                     {loadingMore ? "Loading…" : `Load more (${result.issues.length} of ${result.filtered})`}
                   </button>
@@ -523,13 +537,13 @@ export function CatalogBrowser({
                       {count > ROW_PREVIEW && (
                         <Link
                           href={showAllHref(year)}
-                          className="rounded-full border border-paper/15 px-3 py-1 font-mono text-[11px] uppercase tracking-[0.2em] text-amber transition hover:border-amber"
+                          className="rounded-full border border-paper/15 px-3 py-1 text-base text-amber transition hover:border-amber"
                         >
                           Show all
                         </Link>
                       )}
                       <span className="hairline flex-1" />
-                      <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim">
+                      <span className="text-base text-paper-dim">
                         {count} issue{count === 1 ? "" : "s"}
                       </span>
                     </div>
@@ -540,6 +554,7 @@ export function CatalogBrowser({
             </div>
           )}
         </div>
+      </div>
     </div>
   );
 }

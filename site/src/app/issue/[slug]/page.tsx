@@ -59,7 +59,7 @@ export default async function IssuePage({ params }: Props) {
         </>
       )}
       <Nav />
-      <main className="pb-24 pt-28">
+      <main className="pb-24 pt-20">
         {/* Title block */}
         <section className="relative overflow-hidden">
           <div className="absolute inset-0 -z-10">

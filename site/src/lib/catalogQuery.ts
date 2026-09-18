@@ -72,7 +72,7 @@ export function parseCatalogSearchParams(
   const limitRaw = Number(get("limit") ?? 0);
   const offsetRaw = Number(get("offset") ?? 0);
   const sort = (get("sort") as SortKey) || "newest";
-  const view = (get("view") as ViewKey) || "rows";
+  const view = (get("view") as ViewKey) || "grid";
 
   return {
     q: get("q") ?? "",
@@ -84,7 +84,7 @@ export function parseCatalogSearchParams(
     readable: get("readable") === "1",
     slugs: parseList(get("slugs")),
     sort: ["oldest", "newest", "longest", "shortest"].includes(sort) ? sort : "newest",
-    view: view === "grid" ? "grid" : "rows",
+    view: view === "rows" ? "rows" : "grid",
     year: yearRaw && Number.isFinite(Number(yearRaw)) ? Number(yearRaw) : null,
     limit: Number.isFinite(limitRaw) && limitRaw > 0 ? limitRaw : view === "grid" ? GRID_PAGE : 0,
     offset: Number.isFinite(offsetRaw) && offsetRaw > 0 ? offsetRaw : 0,
@@ -105,7 +105,7 @@ export function catalogSearchString(
   if (query.readable) sp.set("readable", "1");
   if (query.slugs?.length) sp.set("slugs", query.slugs.join(","));
   if (query.sort && query.sort !== "newest") sp.set("sort", query.sort);
-  if (query.view && query.view !== "rows") sp.set("view", query.view);
+  if (query.view && query.view !== "grid") sp.set("view", query.view);
   if (query.year != null) sp.set("year", String(query.year));
   if (query.limit && query.view === "grid") sp.set("limit", String(query.limit));
   if (query.offset) sp.set("offset", String(query.offset));

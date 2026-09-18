@@ -25,7 +25,7 @@ export function IssueCard({ issue, publication, progress, sizes = "220px", prior
           className="object-cover"
         />
         {issue.readable && (
-          <span className="absolute left-2 top-2 inline-flex items-center gap-1 rounded-full bg-amber px-2 py-0.5 font-mono text-[9px] font-medium uppercase tracking-[0.18em] text-ink shadow">
+          <span className="absolute left-2 top-2 inline-flex items-center gap-1 rounded-full bg-amber px-2 py-0.5 text-xs font-medium text-ink shadow">
             <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
               <path d="M7 4v16l13-8z" />
             </svg>
@@ -33,7 +33,7 @@ export function IssueCard({ issue, publication, progress, sizes = "220px", prior
           </span>
         )}
         <div className="absolute inset-0 flex items-end bg-gradient-to-t from-ink/90 via-ink/10 to-transparent p-3 opacity-0 transition group-hover:opacity-100">
-          <span className="inline-flex items-center gap-2 rounded-full bg-amber px-3 py-1.5 text-xs font-semibold text-ink">
+          <span className="inline-flex items-center gap-2 rounded-full bg-amber px-3 py-1.5 text-sm font-semibold text-ink">
             <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
               <path d="M7 4v16l13-8z" />
             </svg>
@@ -50,7 +50,7 @@ export function IssueCard({ issue, publication, progress, sizes = "220px", prior
         <p className="font-display text-base font-semibold leading-tight tracking-tight">
           <span className="text-paper-dim">{pub?.short ?? issue.publication}</span> #{issue.number}
         </p>
-        <p className="mt-0.5 font-mono text-[10px] uppercase tracking-[0.14em] text-paper-dim">
+        <p className="mt-0.5 text-base text-paper-dim">
           {issue.date} · {issue.pages} pages
         </p>
       </div>

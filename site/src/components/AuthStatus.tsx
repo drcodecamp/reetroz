@@ -13,7 +13,7 @@ export function AuthStatus() {
     return (
       <Link
         href="/login"
-        className="rounded-full border border-paper/15 px-3.5 py-1.5 text-sm text-paper transition hover:border-paper/40"
+        className="rounded-full border border-paper/15 px-3.5 py-1.5 text-base text-paper transition hover:border-paper/40"
       >
         Sign in
       </Link>
@@ -36,7 +36,7 @@ export function AuthStatus() {
       <button
         type="button"
         onClick={() => signOut()}
-        className="hidden rounded-full px-2 py-1 text-sm text-paper-dim transition hover:text-paper sm:inline"
+        className="hidden rounded-full px-2 py-1 text-base text-paper-dim transition hover:text-paper sm:inline"
       >
         Sign out
       </button>

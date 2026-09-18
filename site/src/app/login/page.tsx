@@ -26,7 +26,7 @@ export default async function LoginPage({
   return (
     <>
       <Nav />
-      <main className="grid min-h-screen place-items-center px-4 pb-24 pt-32">
+      <main className="grid min-h-screen place-items-center px-4 pb-24 pt-20">
         <div className="w-full max-w-md rounded-3xl border border-paper/10 bg-ink-2/80 p-8 text-center">
           <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-amber">Account</p>
           <h1 className="mt-3 font-display text-3xl font-bold tracking-tight">Sign in</h1>

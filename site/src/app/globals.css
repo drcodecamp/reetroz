@@ -5,7 +5,7 @@
   --color-ink-2: #0b0f1a;
   --color-ink-3: #121828;
   --color-paper: #f3e9d2;
-  --color-paper-dim: #c9bfa8;
+  --color-paper-dim: #b9b9b9;
   --color-amber: #f5b53f;
   --color-amber-2: #ff8a3d;
   --color-teal: #4fd1c5;
@@ -319,6 +319,24 @@ body {
 }
 .reader-drift {
   animation: reader-drift 30s linear forwards;
+}
+
+.rail-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #1a2030 transparent;
+}
+.rail-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+.rail-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.rail-scroll::-webkit-scrollbar-thumb {
+  background: #161c2a;
+  border-radius: 999px;
+}
+.rail-scroll::-webkit-scrollbar-thumb:hover {
+  background: #222a3c;
 }
 
 @media (prefers-reduced-motion: reduce) {

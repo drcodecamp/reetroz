@@ -80,7 +80,7 @@ export default async function MagazinePage({ params }: Props) {
         ])}
       />
       <Nav />
-      <main className="pb-24 pt-28">
+      <main className="pb-24 pt-20">
         <section className="relative overflow-hidden">
           {cover && (
             <div className="absolute inset-0 -z-10">
