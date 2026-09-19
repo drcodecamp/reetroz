@@ -42,26 +42,49 @@ export function IssueWatch({
 
   return (
     <>
-      <div className="mb-3 flex items-center justify-between">
-        <Link
-          href={magazinePath(issue.publication)}
-          className="inline-flex items-center gap-2 rounded-full border border-paper/15 px-3.5 py-1.5 text-base transition hover:border-paper/40"
-        >
-          <svg
-            width="16"
-            height="16"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            aria-hidden
+      <div className="mb-3 flex items-center justify-between gap-2">
+        <div className="flex min-w-0 flex-wrap items-center gap-2">
+          <Link
+            href={`/catalog?pub=${issue.publication}`}
+            className="inline-flex items-center gap-2 rounded-full border border-paper/15 px-3.5 py-1.5 text-base transition hover:border-paper/40"
           >
-            <path d="M15 18l-6-6 6-6" />
-          </svg>
-          Go Back
-        </Link>
+            <svg
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden
+            >
+              <path d="M15 18l-6-6 6-6" />
+            </svg>
+            Go Back
+          </Link>
+          <Link
+            href={magazinePath(issue.publication)}
+            className="inline-flex max-w-[14rem] items-center gap-2 truncate rounded-full border border-paper/15 px-3.5 py-1.5 text-base transition hover:border-paper/40"
+            title={pubTitle}
+          >
+            <svg
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden
+            >
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+            </svg>
+            <span className="truncate">{pub?.short ?? pubTitle}</span>
+          </Link>
+        </div>
         <button
           type="button"
           onClick={async () => {
