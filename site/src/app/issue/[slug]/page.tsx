@@ -4,6 +4,7 @@ import { Footer } from "@/components/Footer";
 import { IssueComments } from "@/components/issue/IssueComments";
 import { IssueWatch } from "@/components/issue/IssueWatch";
 import { RecommendedRail, RecommendedRailFooter } from "@/components/issue/RecommendedRail";
+import { SameYearCatalogs } from "@/components/issue/SameYearCatalogs";
 import { Nav } from "@/components/Nav";
 import { JsonLd } from "@/components/seo/JsonLd";
 import {
@@ -11,6 +12,7 @@ import {
   getIssue,
   getPublication,
   recommendedIssues,
+  sameYearOtherTitles,
 } from "@/lib/catalog";
 import { loadManifest } from "@/lib/manifest";
 import {
@@ -45,6 +47,7 @@ export default async function IssuePage({ params }: Props) {
   const pubTitle = pub?.title ?? issue.publication;
   const era = eraOf(issue.era);
   const recommended = recommendedIssues(issue);
+  const sameYear = sameYearOtherTitles(issue);
   const description = issueDescription(pubTitle, issue);
 
   return (
@@ -73,6 +76,9 @@ export default async function IssuePage({ params }: Props) {
               description={description}
               manifest={manifest}
             />
+            <div className="mt-8">
+              <SameYearCatalogs year={issue.year} issues={sameYear} />
+            </div>
             <div className="mt-8">
               <IssueComments slug={issue.slug} />
             </div>

@@ -89,6 +89,49 @@ export function issuesInYear(year: number) {
   return catalog.filter((i) => i.year === year);
 }
 
+const FEATURED_IDS = [
+  "nintendo-power",
+  "electronic-gaming-monthly",
+  "game-informer",
+  "gamepro",
+  "pc-gamer-us",
+  "cgw",
+  "official-us-playstation-magazine",
+  "edge",
+];
+
+/**
+ * One issue from each other magazine that published in the same year.
+ * Prefers readable covers, then bigger issues, then well-known titles.
+ */
+export function sameYearOtherTitles(issue: CatalogIssue, limit = 14): CatalogIssue[] {
+  if (isUndated(issue.year)) return [];
+
+  const byPub = new Map<string, CatalogIssue>();
+  for (const item of catalog) {
+    if (item.year !== issue.year) continue;
+    if (item.publication === issue.publication) continue;
+    const prev = byPub.get(item.publication);
+    if (!prev || sameYearPickScore(item) > sameYearPickScore(prev)) {
+      byPub.set(item.publication, item);
+    }
+  }
+
+  const featured = new Set(FEATURED_IDS);
+  return [...byPub.values()]
+    .sort((a, b) => {
+      const af = featured.has(a.publication) ? 1 : 0;
+      const bf = featured.has(b.publication) ? 1 : 0;
+      if (af !== bf) return bf - af;
+      return sameYearPickScore(b) - sameYearPickScore(a) || b.pages - a.pages;
+    })
+    .slice(0, limit);
+}
+
+function sameYearPickScore(item: CatalogIssue) {
+  return (item.readable ? 100 : 0) + Math.min(item.pages, 200) / 10;
+}
+
 export function issuesForPublication(id: string): CatalogIssue[] {
   return catalog
     .filter((i) => i.publication === id)
@@ -120,17 +163,6 @@ export function siteStats() {
     maxYear: MAX_YEAR,
   };
 }
-
-const FEATURED_IDS = [
-  "nintendo-power",
-  "electronic-gaming-monthly",
-  "game-informer",
-  "gamepro",
-  "pc-gamer-us",
-  "cgw",
-  "official-us-playstation-magazine",
-  "edge",
-];
 
 export function featuredPublications(limit = 8): CatalogPublication[] {
   const out: CatalogPublication[] = [];
