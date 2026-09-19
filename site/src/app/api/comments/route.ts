@@ -1,9 +1,7 @@
-import { desc, eq } from "drizzle-orm";
 import { NextResponse } from "next/server";
 import { auth, isAuthConfigured } from "@/auth";
 import { getIssue } from "@/lib/catalog";
-import { getDb, isDatabaseConfigured } from "@/lib/db";
-import { comments, users } from "@/lib/db/schema";
+import { getPrisma, isDatabaseConfigured } from "@/lib/db";
 
 const MAX_BODY = 2000;
 
@@ -32,27 +30,24 @@ export async function GET(request: Request) {
   }
 
   try {
-    const db = getDb();
-    const rows = await db
-      .select({
-        id: comments.id,
-        body: comments.body,
-        createdAt: comments.createdAt,
-        name: users.name,
-        image: users.image,
-      })
-      .from(comments)
-      .leftJoin(users, eq(comments.userId, users.id))
-      .where(eq(comments.issueSlug, slug))
-      .orderBy(desc(comments.createdAt));
+    const rows = await getPrisma().comment.findMany({
+      where: { issueSlug: slug },
+      orderBy: { createdAt: "desc" },
+      select: {
+        id: true,
+        body: true,
+        createdAt: true,
+        user: { select: { name: true, image: true } },
+      },
+    });
 
     const list: IssueCommentDto[] = rows.map((row) => ({
       id: row.id,
       body: row.body,
       createdAt: row.createdAt.toISOString(),
       author: {
-        name: row.name?.trim() || "Reader",
-        image: row.image,
+        name: row.user.name?.trim() || "Reader",
+        image: row.user.image,
       },
     }));
 
@@ -103,15 +98,10 @@ export async function POST(request: Request) {
   }
 
   try {
-    const db = getDb();
-    const [row] = await db
-      .insert(comments)
-      .values({ issueSlug: slug, userId, body })
-      .returning({
-        id: comments.id,
-        body: comments.body,
-        createdAt: comments.createdAt,
-      });
+    const row = await getPrisma().comment.create({
+      data: { issueSlug: slug, userId, body },
+      select: { id: true, body: true, createdAt: true },
+    });
 
     const comment: IssueCommentDto = {
       id: row.id,
