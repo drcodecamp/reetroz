@@ -1,4 +1,4 @@
-# Pixel Press — publication TODO
+# Reetroz — publication TODO
 
 Status as of 2026-09-17. Rendered titles are on R2 and readable at localhost:3001.
 

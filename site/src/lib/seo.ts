@@ -6,7 +6,7 @@ import {
   siteStats,
 } from "@/lib/catalog";
 
-export const SITE_NAME = "Pixel Press";
+export const SITE_NAME = "Reetroz";
 
 export function siteOrigin(): string {
   return (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3210").replace(

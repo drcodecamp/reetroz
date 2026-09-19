@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://pixelpress.local/schema/provider.schema.json",
+  "$id": "https://reetroz.local/schema/provider.schema.json",
   "title": "Provider",
   "description": "A place scans come from (museum, archive, library, community site). Stored as an array in library/providers.json.",
   "type": "array",

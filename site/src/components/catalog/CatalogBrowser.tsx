@@ -144,10 +144,7 @@ export function CatalogBrowser({
 
   const q = params.get("q") ?? "";
   const pubs = parseList<string>(params.get("pub"));
-  const [pubQuery, setPubQuery] = useState("");
   const [qInput, setQInput] = useState(q);
-  const [magOpen, setMagOpen] = useState(false);
-  const magRef = useRef<HTMLDivElement>(null);
   const lengths = parseList<LengthKey>(params.get("len"));
   const from = Number(params.get("from") ?? minYear);
   const to = Number(params.get("to") ?? maxYear);
@@ -193,14 +190,6 @@ export function CatalogBrowser({
   }
 
   const pubById = useMemo(() => new Map(publications.map((p) => [p.id, p])), [publications]);
-
-  useEffect(() => {
-    function onDoc(e: MouseEvent) {
-      if (!magRef.current?.contains(e.target as Node)) setMagOpen(false);
-    }
-    document.addEventListener("mousedown", onDoc);
-    return () => document.removeEventListener("mousedown", onDoc);
-  }, []);
 
   const apiSearch = useCallback(
     (extra: Record<string, string | null> = {}) => {
@@ -266,111 +255,14 @@ export function CatalogBrowser({
     (readable ? 1 : 0) +
     (continueOnly ? 1 : 0);
 
-  const magazineOptions = publications
-    .filter((p) => {
-      if (p.issues <= 0) return false;
-      const n = pubQuery.trim().toLowerCase();
-      return !n || p.title.toLowerCase().includes(n) || p.short.toLowerCase().includes(n);
-    })
-    .map((p) => ({ p, count: result.pubCounts[p.id] ?? 0 }))
-    .sort((a, b) => a.p.title.localeCompare(b.p.title));
-
   const control =
     "h-10 rounded-full border border-paper/15 bg-ink px-3.5 text-base text-paper outline-none transition hover:border-paper/40";
 
-  const magazineRail = (
-    <div className="flex h-full min-h-0 flex-col">
-      <div className="shrink-0 space-y-2 px-3 pb-2 pt-3">
-        <p className="px-2 text-base text-paper-dim">
-          Magazines
-        </p>
-        <button
-          type="button"
-          onClick={() => update({ pub: null })}
-          className={`flex w-full cursor-pointer items-center gap-3 rounded-xl px-2.5 py-2 text-left text-base transition ${
-            pubs.length === 0 ? "bg-paper/10 text-paper" : "text-paper-dim hover:bg-paper/5 hover:text-paper"
-          }`}
-        >
-          <span className="grid size-8 shrink-0 place-items-center rounded-lg bg-amber text-xs font-bold text-ink">
-            All
-          </span>
-          All magazines
-        </button>
-        <input
-          value={pubQuery}
-          onChange={(e) => setPubQuery(e.target.value)}
-          placeholder="Find a magazine"
-          className="w-full rounded-xl border border-paper/10 bg-ink-2 px-3 py-2 text-base outline-none placeholder:text-paper-dim/60 focus:border-amber/50"
-          aria-label="Find a magazine"
-        />
-      </div>
-      <ul className="rail-scroll min-h-0 flex-1 overflow-y-auto px-2 pb-4" role="listbox" aria-multiselectable>
-        {magazineOptions.length === 0 ? (
-          <li className="px-3 py-3 text-base text-paper-dim">No magazines match.</li>
-        ) : (
-          magazineOptions.map(({ p, count }) => {
-            const on = pubs.includes(p.id);
-            return (
-              <li key={p.id}>
-                <button
-                  type="button"
-                  role="option"
-                  aria-selected={on}
-                  title={p.title}
-                  onClick={() => toggleIn("pub", pubs, p.id)}
-                  className={`flex w-full cursor-pointer items-center gap-3 rounded-xl px-2.5 py-1.5 text-left text-base transition ${
-                    on ? "bg-paper/10 text-paper" : "text-paper-dim hover:bg-paper/5 hover:text-paper"
-                  }`}
-                >
-                  <span
-                    aria-hidden
-                    className={`grid size-8 shrink-0 place-items-center rounded-lg text-xs font-bold uppercase ${
-                      on ? "bg-amber text-ink" : "bg-ink-3 text-paper"
-                    }`}
-                  >
-                    {(p.short || p.title).slice(0, 2)}
-                  </span>
-                  <span className="min-w-0 flex-1 truncate">{p.title}</span>
-                  <span className="shrink-0 tabular-nums text-paper-dim">{count}</span>
-                </button>
-              </li>
-            );
-          })
-        )}
-      </ul>
-    </div>
-  );
-
   return (
     <div>
-      <aside className="fixed top-14 left-0 z-30 hidden h-[calc(100dvh-3.5rem)] w-72 overflow-hidden border-r border-paper/8 bg-ink lg:block">
-        {magazineRail}
-      </aside>
-
-      {magOpen && (
-        <div className="fixed inset-0 z-[60] lg:hidden">
-          <button
-            type="button"
-            aria-label="Close magazines"
-            onClick={() => setMagOpen(false)}
-            className="absolute inset-0 bg-ink/70"
-          />
-          <aside ref={magRef} className="absolute inset-y-0 left-0 w-80 border-r border-paper/10 bg-ink pt-14 shadow-2xl">
-            {magazineRail}
-          </aside>
-        </div>
-      )}
-
-      <div className="min-w-0 lg:pl-72">
+      <div className="min-w-0">
         <div className="sticky top-14 z-40 space-y-2.5 bg-ink px-4 py-3 sm:px-5">
           <div className="flex items-center gap-2">
-            <button
-              type="button"
-              onClick={() => setMagOpen(true)}
-              className={`${control} inline-flex items-center gap-2 px-3 lg:hidden ${pubs.length ? "border-amber/40" : ""}`}
-            >
-              Magazines{pubs.length ? ` (${pubs.length})` : ""}
-            </button>
             <label className="flex h-10 min-w-0 flex-1 items-center gap-2 rounded-full border border-paper/15 bg-ink-2 px-3.5 focus-within:border-amber/50">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" className="shrink-0 text-paper-dim" aria-hidden>
                 <circle cx="11" cy="11" r="6.5" />

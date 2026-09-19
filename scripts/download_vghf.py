@@ -34,7 +34,7 @@ from library_paths import ROOT, pdf_dir
 DEFAULT_INDEX = ROOT / "library" / "gamepro" / "vghf_index.json"
 DEFAULT_OUT = pdf_dir("gamepro")
 PDF_BASE = "https://pdf.gamehistory.workers.dev"
-USER_AGENT = "pixelpress-vghf-download/1.0"
+USER_AGENT = "reetroz-vghf-download/1.0"
 WIN_BAD = re.compile(r'[<>:"/\\|?*]')
 _LOG_LOCK = threading.Lock()
 

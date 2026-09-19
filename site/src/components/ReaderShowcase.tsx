@@ -24,7 +24,7 @@ export function ReaderShowcase() {
           <div className="animate-float relative">
             <Image
               src="/img/reader-devices.png"
-              alt="The Pixel Press reader shown on a laptop and a tablet"
+              alt="The Reetroz reader shown on a laptop and a tablet"
               width={1024}
               height={768}
               className="w-full drop-shadow-[0_40px_80px_rgba(0,0,0,0.7)] [mask-image:radial-gradient(ellipse_78%_78%_at_50%_50%,#000_55%,transparent_100%)]"

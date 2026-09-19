@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { featuredPublications, siteStats } from "@/lib/catalog";
-import { magazinePath } from "@/lib/seo";
+import { magazinePath, SITE_NAME } from "@/lib/seo";
 
 export function Footer() {
   const stats = siteStats();
@@ -88,7 +88,7 @@ export function Footer() {
         <div className="hairline mt-20" />
         <div className="mt-6 flex flex-wrap items-center justify-between gap-4 font-mono text-[11px] uppercase tracking-[0.2em] text-paper-dim/70">
           <p>
-            Pixel Press · {stats.titles} magazines · {stats.issues.toLocaleString()} issues
+            {SITE_NAME} · {stats.titles} magazines · {stats.issues.toLocaleString()} issues
           </p>
           <p>Made with care, late at night, in front of a CRT.</p>
         </div>

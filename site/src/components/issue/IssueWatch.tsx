@@ -33,6 +33,7 @@ export function IssueWatch({
   const progress = useProgress();
 
   useEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: "instant" });
     const saved = progress[issue.slug];
     if (saved?.page && saved.page > 1) readerRef.current?.goTo(saved.page);
     // Restore once per issue; later page turns write progress themselves.

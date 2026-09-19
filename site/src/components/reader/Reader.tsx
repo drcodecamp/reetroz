@@ -211,10 +211,11 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
 
   // --- filmstrip follows current page ----------------------------------------
   useEffect(() => {
-    const el = filmstripRef.current?.querySelector<HTMLElement>(
-      `[data-page="${page}"]`,
-    );
-    el?.scrollIntoView({ inline: "center", block: "nearest", behavior: "smooth" });
+    const root = filmstripRef.current;
+    const el = root?.querySelector<HTMLElement>(`[data-page="${page}"]`);
+    if (!root || !el) return;
+    const left = el.offsetLeft - root.clientWidth / 2 + el.offsetWidth / 2;
+    root.scrollTo({ left: Math.max(0, left), behavior: "smooth" });
   }, [page, uiVisible]);
 
   // --- idle hide --------------------------------------------------------------

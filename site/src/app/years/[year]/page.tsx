@@ -13,7 +13,7 @@ import {
   issuesInYear,
   UNDATED_YEAR,
 } from "@/lib/catalog";
-import { magazinePath } from "@/lib/seo";
+import { magazinePath, SITE_NAME } from "@/lib/seo";
 
 type Props = { params: Promise<{ year: string }> };
 
@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const label = isUndated(year) ? "Undated" : String(year);
   return {
     title: `${label} magazine issues`,
-    description: `Every video game magazine issue from ${label} in the Pixel Press archive.`,
+    description: `Every video game magazine issue from ${label} in the ${SITE_NAME} archive.`,
   };
 }
 

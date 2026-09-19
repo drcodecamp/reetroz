@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 
 from library_paths import ROOT
 
-UA = {"User-Agent": "pixelpress-catalog/0.1 (+https://github.com; public folder index)"}
+UA = {"User-Agent": "reetroz-catalog/0.1 (+https://github.com; public folder index)"}
 FOLDER_RE = re.compile(
     r"https?://archive\.gamehistory\.org/folder/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})",
     re.I,

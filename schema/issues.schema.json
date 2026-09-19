@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://pixelpress.local/schema/issues.schema.json",
+  "$id": "https://reetroz.local/schema/issues.schema.json",
   "title": "Issues",
   "description": "All issues of one publication (schema.org PublicationIssue). Stored at library/<publication>/issues.json, chronological order.",
   "type": "array",

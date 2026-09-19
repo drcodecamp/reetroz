@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://pixelpress.local/schema/publication.schema.json",
+  "$id": "https://reetroz.local/schema/publication.schema.json",
   "title": "Publication",
   "description": "One magazine title (schema.org Periodical). Stored at library/<id>/publication.json.",
   "type": "object",

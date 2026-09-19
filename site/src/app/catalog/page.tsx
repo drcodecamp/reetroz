@@ -35,9 +35,7 @@ export default async function CatalogPage({ searchParams }: Props) {
           />
         </Suspense>
       </main>
-      <div className="lg:pl-72">
-        <Footer />
-      </div>
+      <Footer />
     </>
   );
 }
