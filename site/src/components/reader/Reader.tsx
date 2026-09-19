@@ -12,7 +12,7 @@ import {
 } from "react";
 import { pageUrl, type CatalogIssue } from "@/lib/catalog";
 import type { IssueManifest } from "@/lib/manifest";
-import { saveProgress, useSpeed } from "@/lib/progress";
+import { saveProgress, useMediaQuery, useSpeed } from "@/lib/progress";
 
 const SPEEDS = [2, 3, 5, 8, 12, 20];
 const IDLE_MS = 2600;
@@ -50,7 +50,9 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
   const [page, setPage] = useState(() => clamp(initialPage));
   const [playing, setPlayingRaw] = useState(autoplay);
   const [speed, setSpeed] = useSpeed();
-  const [spread, setSpread] = useState(true);
+  const desktop = useMediaQuery("(min-width: 1024px)");
+  const [spreadOn, setSpreadOn] = useState(true);
+  const spread = desktop && spreadOn;
   const [zoomed, setZoomed] = useState(false);
   const [drift, setDrift] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
@@ -276,7 +278,7 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
           break;
         case "s":
         case "S":
-          setSpread((v) => !v);
+          if (desktop) setSpreadOn((v) => !v);
           break;
         case "z":
         case "Z":
@@ -291,7 +293,7 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [advance, goTo, total, zoomed, poke, speed, setSpeed, setSpread, setPlaying]);
+  }, [advance, goTo, total, zoomed, poke, speed, setSpeed, desktop, setPlaying]);
 
   function toggleFullscreen() {
     if (document.fullscreenElement) document.exitFullscreen();
@@ -530,22 +532,24 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
             </div>
 
             <div className="flex items-center">
-              <IconButton
-                label={spread ? "Two-page spread (S)" : "Single page (S)"}
-                onClick={() => setSpread((v) => !v)}
-                active={spread}
-              >
-                {spread ? (
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-                    <path d="M12 6c-2-1.5-5-2-8-1.5v13c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5v-13c-3-.5-6 0-8 1.5z" />
-                    <path d="M12 6v13" />
-                  </svg>
-                ) : (
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-                    <rect x="6.5" y="3" width="11" height="18" rx="1.5" />
-                  </svg>
-                )}
-              </IconButton>
+              {desktop && (
+                <IconButton
+                  label={spread ? "Two-page spread (S)" : "Single page (S)"}
+                  onClick={() => setSpreadOn((v) => !v)}
+                  active={spread}
+                >
+                  {spread ? (
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                      <path d="M12 6c-2-1.5-5-2-8-1.5v13c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5v-13c-3-.5-6 0-8 1.5z" />
+                      <path d="M12 6v13" />
+                    </svg>
+                  ) : (
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                      <rect x="6.5" y="3" width="11" height="18" rx="1.5" />
+                    </svg>
+                  )}
+                </IconButton>
+              )}
               <div className="relative">
                 <IconButton
                   label="Settings"
