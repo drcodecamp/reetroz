@@ -2,14 +2,14 @@ databases:
   - name: reetroz-db
     plan: basic-256mb
     postgresMajorVersion: "16"
-    region: oregon
+    region: frankfurt
 
 services:
   - type: web
-    name: reetroz
+    name: reetroz-eu
     runtime: node
     plan: starter
-    region: oregon
+    region: frankfurt
     rootDir: site
     buildCommand: npm ci && npx prisma migrate deploy && npm run build
     startCommand: npm start
