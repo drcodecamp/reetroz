@@ -41,7 +41,7 @@ export async function GET(request: Request) {
       },
     });
 
-    const list: IssueCommentDto[] = rows.map((row) => ({
+    const list: IssueCommentDto[] = rows.map((row: (typeof rows)[number]) => ({
       id: row.id,
       body: row.body,
       createdAt: row.createdAt.toISOString(),
