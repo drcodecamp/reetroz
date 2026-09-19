@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
-import { useEffect, useMemo, useState, type ReactNode } from "react";
+import { Suspense, useEffect, useMemo, useState, type ReactNode } from "react";
 import { AuthStatus } from "@/components/AuthStatus";
 import rawPublications from "@/data/publications.json";
 import type { CatalogPublication } from "@/lib/catalogMeta";
@@ -72,6 +72,14 @@ const links: {
 ];
 
 export function Nav() {
+  return (
+    <Suspense fallback={null}>
+      <NavBar />
+    </Suspense>
+  );
+}
+
+function NavBar() {
   const pathname = usePathname();
   const searchParams = useSearchParams();
   const [wide, setWide] = useState(true);
