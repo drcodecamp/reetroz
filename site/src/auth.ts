@@ -23,4 +23,16 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
   session: { strategy: useDb ? "database" : "jwt" },
   providers: process.env.AUTH_GOOGLE_ID ? [Google] : [],
   pages: { signIn: "/login" },
+  callbacks: {
+    jwt({ token, user }) {
+      if (user?.id) token.sub = user.id;
+      return token;
+    },
+    session({ session, token, user }) {
+      if (session.user) {
+        session.user.id = user?.id ?? token.sub ?? "";
+      }
+      return session;
+    },
+  },
 });

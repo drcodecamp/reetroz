@@ -126,28 +126,50 @@ def render_cover(issue: dict, force: bool = False) -> str | None:
     return f"/covers/{out.name}"
 
 
+MIN_SCAN_EDGE = 800
+MIN_PAGE_COVER = 0.80
+
+
+def _largest_image_cover(page: pymupdf.Page) -> float:
+    """How much of the page the biggest placed image covers (0–1)."""
+    page_area = abs(page.rect)
+    if page_area <= 0:
+        return 0.0
+    best = 0.0
+    for inf in page.get_image_info():
+        bbox = inf.get("bbox")
+        if not bbox:
+            continue
+        best = max(best, abs(pymupdf.Rect(bbox)) / page_area)
+    return best
+
+
 def extract_page(doc: pymupdf.Document, page: pymupdf.Page) -> tuple[bytes, str, int, int]:
     """Return (bytes, ext, width, height) for a page.
 
-    Scanned magazines are one JPEG per page: hand that JPEG back untouched.
-    Anything else (vector pages, multiple images, non-JPEG codecs, rotated
-    scans) is rendered at the scan's native pixel size instead.
+    Scanned magazines are one full-bleed JPEG: hand that JPEG back untouched.
+    Born-digital issues (MCV, etc.) often have a single small photo plus
+    vector type — extracting that photo used to become the whole page.
+    Anything that is not a full-page scan is rendered instead.
     """
     images = page.get_images(full=True)
-    if len(images) == 1:
+    if len(images) == 1 and _largest_image_cover(page) >= MIN_PAGE_COVER:
         try:
             info = doc.extract_image(images[0][0])
             w, h = info["width"], info["height"]
             page_portrait = page.rect.height >= page.rect.width
             image_portrait = h >= w
-            if info["ext"] == "jpeg" and page_portrait == image_portrait and info.get("colorspace", 3) in (1, 3):
+            if (
+                info["ext"] == "jpeg"
+                and page_portrait == image_portrait
+                and info.get("colorspace", 3) in (1, 3)
+                and min(w, h) >= MIN_SCAN_EDGE
+                and max(w, h) >= MAX_FALLBACK_WIDTH
+            ):
                 return info["image"], "jpg", w, h
-            native_width = w if page_portrait == image_portrait else h
         except Exception:
-            native_width = MAX_FALLBACK_WIDTH
-    else:
-        native_width = MAX_FALLBACK_WIDTH
-    zoom = min(native_width, MAX_FALLBACK_WIDTH) / page.rect.width
+            pass
+    zoom = MAX_FALLBACK_WIDTH / page.rect.width
     pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False)
     img = pix_to_image(pix)
     buf = io.BytesIO()

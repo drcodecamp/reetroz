@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { AuthStatus } from "@/components/AuthStatus";
-import { startReadingIssue } from "@/lib/catalog";
 
 const links = [
   { href: "/catalog", label: "Catalog" },
@@ -10,8 +9,6 @@ const links = [
 ];
 
 export function Nav() {
-  const start = startReadingIssue();
-  const startHref = start ? `/read/${start.slug}?p=1&play=1` : "/catalog";
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-paper/8 bg-ink">
       <div className="flex h-14 items-center justify-between px-4 sm:px-5">
@@ -51,25 +48,6 @@ export function Nav() {
               className="hidden rounded-full border border-paper/15 px-4 py-1.5 text-base text-paper transition hover:border-paper/40 sm:inline-flex"
             >
               Browse
-            </Link>
-            <Link
-              href={startHref}
-              className="inline-flex items-center gap-2 rounded-full bg-amber px-4 py-1.5 text-base font-semibold text-ink transition hover:bg-amber-2"
-            >
-              Start reading
-              <svg
-                width="14"
-                height="14"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2.5"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                aria-hidden
-              >
-                <path d="M5 12h14M13 6l6 6-6 6" />
-              </svg>
             </Link>
           </div>
         </nav>

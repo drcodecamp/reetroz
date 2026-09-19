@@ -10,7 +10,7 @@ export function ContinueButton({ slug }: { slug: string }) {
   const pct = Math.round((progress.page / progress.total) * 100);
   return (
     <Link
-      href={`/read/${slug}?p=${progress.page}`}
+      href={`/issue/${slug}?p=${progress.page}`}
       className="inline-flex items-center gap-3 rounded-full border border-amber/40 bg-amber/10 px-5 py-3 font-medium text-paper transition hover:bg-amber/20"
     >
       Continue p.{progress.page}

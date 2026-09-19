@@ -62,6 +62,29 @@ export function neighbors(issue: CatalogIssue) {
   };
 }
 
+/** Up-next issues for the watch page: later issues of the same title, then the same year. */
+export function recommendedIssues(issue: CatalogIssue, limit = 16): CatalogIssue[] {
+  const seen = new Set<string>([issue.slug]);
+  const out: CatalogIssue[] = [];
+  const take = (items: CatalogIssue[]) => {
+    for (const item of items) {
+      if (out.length >= limit) return;
+      if (seen.has(item.slug)) continue;
+      seen.add(item.slug);
+      out.push(item);
+    }
+  };
+
+  const samePub = issuesForPublication(issue.publication);
+  const index = samePub.findIndex((i) => i.id === issue.id);
+  if (index >= 0) {
+    take(samePub.slice(index + 1));
+    take([...samePub.slice(0, index)].reverse());
+  }
+  take(issuesInYear(issue.year));
+  return out;
+}
+
 export function issuesInYear(year: number) {
   return catalog.filter((i) => i.year === year);
 }
@@ -150,13 +173,12 @@ export function publicationCover(pub: CatalogPublication): string | undefined {
   return issuesForPublication(pub.id)[0]?.cover;
 }
 
-export function startReadingIssue(): CatalogIssue | undefined {
-  return (
-    getIssue("nintendo-power-1") ??
-    issuesForPublication("nintendo-power").find((i) => i.readable) ??
-    catalog.find((i) => i.readable)
-  );
-}
+/**
+ * Bump when page objects are replaced at the same R2 key. Read/thumb files are
+ * uploaded with Cache-Control: immutable, so the same URL will keep serving a
+ * broken extract forever after a re-encode.
+ */
+export const PAGE_ASSET_REV = "2";
 
 /**
  * Page images: the scan's own JPEG at native resolution (or WebP for issues
@@ -169,5 +191,9 @@ export function pageUrl(
   readFormat: "jpg" | "webp" = "jpg",
 ) {
   const ext = size === "read" ? readFormat : "webp";
-  return assetUrl(`/pages/${slug}/${size}/${String(page).padStart(3, "0")}.${ext}`);
+  const url = assetUrl(
+    `/pages/${slug}/${size}/${String(page).padStart(3, "0")}.${ext}`,
+  );
+  const sep = url.includes("?") ? "&" : "?";
+  return `${url}${sep}v=${PAGE_ASSET_REV}`;
 }

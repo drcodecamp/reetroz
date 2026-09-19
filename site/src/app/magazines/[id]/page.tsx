@@ -163,7 +163,7 @@ export default async function MagazinePage({ params }: Props) {
                 <div className="mt-8 flex flex-wrap items-center gap-3">
                   {first?.readable && (
                     <Link
-                      href={`/read/${first.slug}?p=1&play=1`}
+                      href={`/issue/${first.slug}`}
                       className="card-shine inline-flex items-center gap-2 rounded-full bg-amber px-6 py-3 font-semibold text-ink transition hover:bg-amber-2"
                     >
                       Open issue #{first.number}

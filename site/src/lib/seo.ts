@@ -231,10 +231,20 @@ export function issueMetadata(
     description,
     alternates: { canonical: url },
     openGraph: {
+      type: "article",
       title: `${title} | ${SITE_NAME}`,
       description,
-      url,
-      images: [issue.cover],
+      url: absoluteUrl(url),
+      siteName: SITE_NAME,
+      images: issue.cover
+        ? [{ url: issue.cover, alt: title }]
+        : undefined,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${title} | ${SITE_NAME}`,
+      description,
+      images: issue.cover ? [issue.cover] : undefined,
     },
   };
 }

@@ -1,10 +1,18 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import {
+  forwardRef,
+  useCallback,
+  useEffect,
+  useImperativeHandle,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 import { pageUrl, type CatalogIssue } from "@/lib/catalog";
 import type { IssueManifest } from "@/lib/manifest";
-import { saveProgress, useMediaQuery, useSpeed } from "@/lib/progress";
+import { saveProgress, useSpeed } from "@/lib/progress";
 
 const SPEEDS = [2, 3, 5, 8, 12, 20];
 const IDLE_MS = 2600;
@@ -15,6 +23,11 @@ type Props = {
   manifest: IssueManifest;
   initialPage: number;
   autoplay: boolean;
+  embedded?: boolean;
+};
+
+export type ReaderHandle = {
+  goTo: (page: number) => void;
 };
 
 /** Magazine convention: cover alone, then 2–3, 4–5, ... */
@@ -24,7 +37,10 @@ function spreadFor(page: number, total: number): number[] {
   return start + 1 <= total ? [start, start + 1] : [start];
 }
 
-export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
+export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
+  { issue, manifest, initialPage, autoplay, embedded = false },
+  ref,
+) {
   const total = manifest.pages;
   const clamp = useCallback(
     (p: number) => Math.min(total, Math.max(1, Math.round(p))),
@@ -34,15 +50,10 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
   const [page, setPage] = useState(() => clamp(initialPage));
   const [playing, setPlayingRaw] = useState(autoplay);
   const [speed, setSpeed] = useSpeed();
-  const wide = useMediaQuery("(min-width: 1024px)");
-  const [spreadOverride, setSpreadOverride] = useState<boolean | null>(null);
-  const spread = spreadOverride ?? wide;
-  const setSpread = useCallback(
-    (fn: (v: boolean) => boolean) => setSpreadOverride((o) => fn(o ?? wide)),
-    [wide],
-  );
+  const [spread, setSpread] = useState(true);
   const [zoomed, setZoomed] = useState(false);
   const [drift, setDrift] = useState(false);
+  const [isFullscreen, setIsFullscreen] = useState(false);
   const [uiVisible, setUiVisible] = useState(true);
   const [speedOpen, setSpeedOpen] = useState(false);
   const [scrubbing, setScrubbing] = useState(false);
@@ -149,6 +160,8 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
     [spread, page, total, goTo, setPlaying],
   );
 
+  useImperativeHandle(ref, () => ({ goTo: (p) => goTo(p) }), [goTo]);
+
   // Autoplay waits `speed` seconds on a settled spread, then turns with the
   // same dissolve as the arrow keys. The ring is written on the SVG node so
   // the page layers aren't re-rendered every frame.
@@ -226,7 +239,8 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
   // --- keyboard ---------------------------------------------------------------
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if ((e.target as HTMLElement)?.tagName === "INPUT") return;
+      const tag = (e.target as HTMLElement)?.tagName;
+      if (tag === "INPUT" || tag === "TEXTAREA") return;
       switch (e.key) {
         case " ":
           e.preventDefault();
@@ -284,15 +298,23 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
     else rootRef.current?.requestFullscreen?.();
   }
 
+  useEffect(() => {
+    const onChange = () => setIsFullscreen(Boolean(document.fullscreenElement));
+    document.addEventListener("fullscreenchange", onChange);
+    return () => document.removeEventListener("fullscreenchange", onChange);
+  }, []);
+
   const pct = ((page - 1) / Math.max(1, total - 1)) * 100;
-  const ring = 2 * Math.PI * 17;
+  const pageLabel = `${pagesShown.length === 2 ? `${pagesShown[0]}–${pagesShown[1]}` : page} / ${total}`;
 
   return (
     <div
       ref={rootRef}
       onMouseMove={poke}
       onTouchStart={poke}
-      className={`relative h-[100dvh] w-full select-none overflow-hidden bg-ink text-paper ${uiVisible ? "" : "cursor-none"}`}
+      className={`relative w-full select-none overflow-hidden bg-ink text-paper ${
+        embedded ? "h-full" : "h-[100dvh]"
+      } ${uiVisible ? "" : "cursor-none"}`}
       style={{
         background: `radial-gradient(120% 90% at 50% 40%, ${ambient}55 0%, #06080f 70%)`,
         transition: "background 900ms ease",
@@ -304,16 +326,21 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
           zoomed
             ? "overflow-auto"
             : uiVisible
-              ? scrubbing || !playing
-                ? "px-1 pt-11 pb-[7.25rem] sm:px-6 sm:pt-14 sm:pb-32"
-                : "px-1 pt-11 pb-[5.25rem] sm:px-6 sm:pt-14 sm:pb-32"
+              ? embedded
+                ? scrubbing || !playing
+                  ? "px-1 pt-3 pb-[7.25rem] sm:px-4 sm:pt-4 sm:pb-28"
+                  : "px-1 pt-3 pb-[4.25rem] sm:px-4 sm:pt-4 sm:pb-20"
+                : scrubbing || !playing
+                  ? "px-1 pt-11 pb-[7.25rem] sm:px-6 sm:pt-14 sm:pb-32"
+                  : "px-1 pt-11 pb-[4.5rem] sm:px-6 sm:pt-14 sm:pb-24"
               : "p-1"
         }`}
         role="application"
         aria-label="Tap the left side for the previous page, the right side for the next page, or the middle to play"
         onClick={(e) => {
           if (zoomed) return;
-          const x = e.clientX / window.innerWidth;
+          const box = e.currentTarget.getBoundingClientRect();
+          const x = (e.clientX - box.left) / Math.max(1, box.width);
           if (x < 0.25) advance(-1);
           else if (x > 0.75) advance(1);
           else setPlaying((v) => !v);
@@ -380,7 +407,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
         )}
       </div>
 
-      {!zoomed && (
+      {!zoomed && !embedded && (
         <div
           className={`pointer-events-none absolute inset-0 z-10 lg:hidden ${uiVisible ? "opacity-100" : "opacity-0"} transition-opacity duration-300`}
           aria-hidden
@@ -406,63 +433,40 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
       )}
 
       {/* ---------- top bar ---------- */}
-      <header
-        className={`absolute inset-x-0 top-0 z-20 flex items-center justify-between gap-4 bg-gradient-to-b from-ink/90 to-transparent px-4 py-3 transition-opacity duration-300 sm:px-6 ${uiVisible ? "opacity-100" : "pointer-events-none opacity-0"}`}
-      >
-        <Link
-          href={`/issue/${issue.slug}`}
-          className="flex items-center gap-3 rounded-full py-1 pr-3 text-sm transition hover:bg-paper/5"
+      {!embedded && (
+        <header
+          className={`absolute inset-x-0 top-0 z-20 flex items-center bg-gradient-to-b from-ink/90 to-transparent px-3 py-3 transition-opacity duration-300 sm:px-4 ${uiVisible ? "opacity-100" : "pointer-events-none opacity-0"}`}
         >
-          <span className="grid size-8 place-items-center rounded-full bg-paper/10">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-              <path d="M19 12H5m6-6l-6 6 6 6" />
-            </svg>
-          </span>
-          <span>
-            <span className="font-display font-semibold">#{issue.number}</span>
-            <span className="ml-2 text-paper-dim">{issue.date}</span>
-          </span>
-        </Link>
-
-        <p className="hidden font-mono text-xs uppercase tracking-[0.2em] text-paper-dim sm:block">
-          {pagesShown.length === 2 ? `${pagesShown[0]}–${pagesShown[1]}` : page} / {total}
-        </p>
-
-        <div className="flex items-center gap-1">
-          <IconButton label={spread ? "Single page (S)" : "Two-page spread (S)"} onClick={() => setSpread((v) => !v)} active={spread} className="hidden lg:grid">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-              <rect x="3" y="5" width="8" height="14" rx="1" />
-              <rect x="13" y="5" width="8" height="14" rx="1" />
-            </svg>
-          </IconButton>
-          <IconButton label={zoomed ? "Fit to screen (Z)" : "Zoom (Z)"} onClick={() => setZoomed((v) => !v)} active={zoomed}>
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-              <circle cx="11" cy="11" r="6.5" />
-              <path d="M20 20l-4-4M8.5 11h5M11 8.5v5" />
-            </svg>
-          </IconButton>
-          <IconButton label={drift ? "Disable slow drift" : "Slow drift while playing"} onClick={() => setDrift((v) => !v)} active={drift}>
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-              <path d="M4 14c3-6 7-6 10 0s7 6 6 0" />
-            </svg>
-          </IconButton>
-          <IconButton label="Fullscreen (F)" onClick={toggleFullscreen}>
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-              <path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" />
-            </svg>
-          </IconButton>
-        </div>
-      </header>
+          <Link
+            href={`/issue/${issue.slug}`}
+            className="flex items-center gap-2 rounded-full py-1 pr-3 text-sm transition hover:bg-paper/5"
+          >
+            <span className="grid size-8 place-items-center">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z" />
+              </svg>
+            </span>
+            <span>
+              <span className="font-display font-semibold">#{issue.number}</span>
+              <span className="ml-2 text-paper-dim">{issue.date}</span>
+            </span>
+          </Link>
+        </header>
+      )}
 
       {/* ---------- transport ---------- */}
       <footer
         className={`absolute inset-x-0 bottom-0 z-20 bg-gradient-to-t from-ink via-ink/85 to-transparent pt-12 transition-opacity duration-300 ${uiVisible ? "opacity-100" : "pointer-events-none opacity-0"}`}
         onMouseEnter={poke}
       >
-        {/* filmstrip */}
+        {/* filmstrip — visible while paused or scrubbing */}
         <div
           ref={filmstripRef}
-          className={`mask-fade-x flex gap-1.5 overflow-x-auto px-6 pb-3 transition-all duration-300 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden ${scrubbing || !playing ? "max-h-24 opacity-100" : "max-h-0 opacity-0"}`}
+          className={`mask-fade-x flex gap-1.5 overflow-x-auto px-6 pb-3 transition-all duration-300 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden ${
+            scrubbing || !playing
+              ? "max-h-24 opacity-100"
+              : "max-h-0 opacity-0"
+          }`}
         >
           {manifest.pageList.map((p) => (
             <button
@@ -484,128 +488,144 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
           ))}
         </div>
 
-        <div className="flex items-center gap-2 px-3 pb-4 sm:gap-4 sm:px-6">
-          {/* play with countdown ring */}
-          <button
-            type="button"
-            onClick={() => setPlaying((v) => !v)}
-            aria-label={playing ? "Pause" : "Play"}
-            className="relative grid size-12 shrink-0 place-items-center rounded-full bg-amber text-ink transition hover:bg-amber-2"
-          >
-            <svg className="absolute inset-0 -rotate-90" viewBox="0 0 40 40" aria-hidden>
-              <circle cx="20" cy="20" r="17" fill="none" stroke="rgba(6,8,15,0.18)" strokeWidth="3" />
-              <circle
-                ref={ringRef}
-                cx="20"
-                cy="20"
-                r="17"
-                fill="none"
-                stroke="#06080f"
-                strokeWidth="3"
-                strokeLinecap="round"
-                strokeDasharray={ring}
-                strokeDashoffset={ring}
-              />
-            </svg>
-            {playing ? (
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
-                <rect x="6" y="5" width="4" height="14" rx="1" />
-                <rect x="14" y="5" width="4" height="14" rx="1" />
-              </svg>
-            ) : (
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
-                <path d="M7 4v16l13-8z" />
-              </svg>
-            )}
-          </button>
+        <div className="px-2 pb-2 sm:px-3 sm:pb-2.5">
+          <input
+            type="range"
+            min={1}
+            max={total}
+            step={1}
+            value={page}
+            onPointerDown={() => setScrubbing(true)}
+            onPointerUp={() => setScrubbing(false)}
+            onChange={(e) => goTo(Number(e.target.value))}
+            aria-label="Page"
+            className="reader-range w-full"
+            style={{ ["--pct" as string]: `${pct}%` }}
+          />
 
-          <button type="button" onClick={() => advance(-1)} aria-label="Previous page" className="grid size-9 place-items-center rounded-full text-paper-dim transition hover:bg-paper/10 hover:text-paper">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-              <path d="M15 6l-6 6 6 6" />
-            </svg>
-          </button>
+          <div className="flex items-center justify-between gap-2">
+            <div className="flex min-w-0 items-center">
+              <IconButton
+                label={playing ? "Pause" : "Play"}
+                onClick={() => setPlaying((v) => !v)}
+              >
+                {playing ? (
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+                  </svg>
+                ) : (
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                    <path d="M8 5v14l11-7z" />
+                  </svg>
+                )}
+              </IconButton>
+              <IconButton label="Next page" onClick={() => advance(1)}>
+                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                  <path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z" />
+                </svg>
+              </IconButton>
+              <p className="ml-1.5 shrink-0 text-sm tabular-nums text-paper sm:ml-2">
+                {pageLabel}
+              </p>
+            </div>
 
-          {/* scrubber */}
-          <div className="relative flex-1">
-            <input
-              type="range"
-              min={1}
-              max={total}
-              step={1}
-              value={page}
-              onPointerDown={() => setScrubbing(true)}
-              onPointerUp={() => setScrubbing(false)}
-              onChange={(e) => goTo(Number(e.target.value))}
-              aria-label="Page"
-              className="reader-range w-full"
-              style={{ ["--pct" as string]: `${pct}%` }}
-            />
-          </div>
-
-          <button type="button" onClick={() => advance(1)} aria-label="Next page" className="grid size-9 place-items-center rounded-full text-paper-dim transition hover:bg-paper/10 hover:text-paper">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-              <path d="M9 6l6 6-6 6" />
-            </svg>
-          </button>
-
-          <p className="hidden w-20 shrink-0 text-right font-mono text-xs tabular-nums text-paper-dim sm:block">
-            {page} / {total}
-          </p>
-
-          {/* speed */}
-          <div className="relative shrink-0">
-            <button
-              type="button"
-              onClick={() => setSpeedOpen((v) => !v)}
-              className="inline-flex items-center gap-1.5 rounded-full border border-paper/15 px-3 py-1.5 font-mono text-xs tabular-nums transition hover:border-paper/40"
-              aria-haspopup="menu"
-              aria-expanded={speedOpen}
-            >
-              {speed}s<span className="hidden sm:inline"> / page</span>
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden>
-                <path d="M6 15l6-6 6 6" />
-              </svg>
-            </button>
-            {speedOpen && (
-              <div className="glass absolute bottom-full right-0 mb-2 w-60 rounded-2xl p-3 shadow-2xl">
-                <p className="mb-2 font-mono text-[10px] uppercase tracking-[0.2em] text-paper-dim">
-                  Seconds per page
-                </p>
-                <div className="grid grid-cols-6 gap-1">
-                  {SPEEDS.map((s) => (
-                    <button
-                      key={s}
-                      type="button"
-                      onClick={() => setSpeed(s)}
-                      className={`rounded-lg py-1.5 text-sm transition ${
-                        s === speed ? "bg-amber text-ink" : "bg-paper/5 hover:bg-paper/10"
-                      }`}
-                    >
-                      {s}
-                    </button>
-                  ))}
-                </div>
-                <input
-                  type="range"
-                  min={1}
-                  max={30}
-                  step={0.5}
-                  value={speed}
-                  onChange={(e) => setSpeed(Number(e.target.value))}
-                  className="mt-3 w-full accent-amber"
-                  aria-label="Custom speed"
-                />
-                <p className="mt-2 text-[11px] text-paper-dim">
-                  ↑ / ↓ keys nudge the speed. Any manual action pauses playback.
-                </p>
+            <div className="flex items-center">
+              <IconButton
+                label={spread ? "Two-page spread (S)" : "Single page (S)"}
+                onClick={() => setSpread((v) => !v)}
+                active={spread}
+              >
+                {spread ? (
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <path d="M12 6c-2-1.5-5-2-8-1.5v13c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5v-13c-3-.5-6 0-8 1.5z" />
+                    <path d="M12 6v13" />
+                  </svg>
+                ) : (
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <rect x="6.5" y="3" width="11" height="18" rx="1.5" />
+                  </svg>
+                )}
+              </IconButton>
+              <div className="relative">
+                <IconButton
+                  label="Settings"
+                  onClick={() => setSpeedOpen((v) => !v)}
+                  active={speedOpen}
+                >
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                    <path d="M19.14 12.94c.04-.31.06-.63.06-.94s-.02-.63-.06-.94l2.03-1.58a.49.49 0 0 0 .12-.61l-1.92-3.32a.49.49 0 0 0-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54A.49.49 0 0 0 14 2h-4a.49.49 0 0 0-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96a.49.49 0 0 0-.59.22L2.65 8.87a.49.49 0 0 0 .12.61l2.03 1.58c-.04.31-.06.62-.06.94s.02.63.06.94l-2.03 1.58a.49.49 0 0 0-.12.61l1.92 3.32c.13.22.38.3.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.47.41h4c.24 0 .45-.17.47-.41l.36-2.54c.59-.24 1.13-.57 1.62-.94l2.39.96c.22.08.46 0 .59-.22l1.92-3.32a.49.49 0 0 0-.12-.61l-2.04-1.58zM12 15.6A3.6 3.6 0 1 1 12 8.4a3.6 3.6 0 0 1 0 7.2z" />
+                  </svg>
+                </IconButton>
+                {speedOpen && (
+                  <div className="absolute bottom-full right-0 mb-2 w-64 rounded-xl border border-paper/10 bg-ink-2 p-3 shadow-2xl">
+                    <p className="mb-2 text-xs font-medium text-paper-dim">
+                      Seconds per page
+                    </p>
+                    <div className="grid grid-cols-6 gap-1">
+                      {SPEEDS.map((s) => (
+                        <button
+                          key={s}
+                          type="button"
+                          onClick={() => setSpeed(s)}
+                          className={`rounded-md py-1.5 text-sm transition ${
+                            s === speed ? "bg-paper text-ink" : "bg-paper/5 hover:bg-paper/10"
+                          }`}
+                        >
+                          {s}
+                        </button>
+                      ))}
+                    </div>
+                    <input
+                      type="range"
+                      min={1}
+                      max={30}
+                      step={0.5}
+                      value={speed}
+                      onChange={(e) => setSpeed(Number(e.target.value))}
+                      className="mt-3 w-full accent-amber"
+                      aria-label="Custom speed"
+                    />
+                    <div className="mt-3 grid grid-cols-2 gap-1 border-t border-paper/10 pt-3">
+                      <button
+                        type="button"
+                        onClick={() => setZoomed((v) => !v)}
+                        className={`rounded-md px-2 py-1.5 text-xs transition ${
+                          zoomed ? "bg-paper text-ink" : "bg-paper/5 hover:bg-paper/10"
+                        }`}
+                      >
+                        Zoom
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => setDrift((v) => !v)}
+                        className={`rounded-md px-2 py-1.5 text-xs transition ${
+                          drift ? "bg-paper text-ink" : "bg-paper/5 hover:bg-paper/10"
+                        }`}
+                      >
+                        Drift
+                      </button>
+                    </div>
+                  </div>
+                )}
               </div>
-            )}
+              <IconButton label="Fullscreen (F)" onClick={toggleFullscreen}>
+                {isFullscreen ? (
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                    <path d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z" />
+                  </svg>
+                ) : (
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                    <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z" />
+                  </svg>
+                )}
+              </IconButton>
+            </div>
           </div>
         </div>
       </footer>
 
       {/* end card */}
-      {page >= total && !playing && (
+      {page >= total && !playing && !embedded && (
         <div className="pointer-events-none absolute inset-x-0 top-20 z-10 flex justify-center">
           <div className="glass pointer-events-auto rounded-2xl px-5 py-3 text-sm">
             End of issue.{" "}
@@ -621,7 +641,7 @@ export function Reader({ issue, manifest, initialPage, autoplay }: Props) {
       )}
     </div>
   );
-}
+});
 
 function Spread({
   pages,
@@ -697,8 +717,8 @@ function IconButton({
       title={label}
       aria-label={label}
       aria-pressed={active}
-      className={`grid size-9 place-items-center rounded-full transition hover:bg-paper/10 [&>svg]:size-[18px] ${
-        active ? "text-amber" : "text-paper-dim hover:text-paper"
+      className={`grid size-10 place-items-center rounded-full text-paper transition hover:bg-paper/10 [&>svg]:size-6 ${
+        active ? "bg-paper/10" : ""
       } ${className}`}
     >
       {children}

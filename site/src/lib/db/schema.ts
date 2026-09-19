@@ -1,5 +1,5 @@
 import type { AdapterAccountType } from "next-auth/adapters";
-import { integer, pgTable, primaryKey, text, timestamp } from "drizzle-orm/pg-core";
+import { index, integer, pgTable, primaryKey, text, timestamp } from "drizzle-orm/pg-core";
 
 export const users = pgTable("user", {
   id: text("id")
@@ -47,4 +47,22 @@ export const verificationTokens = pgTable(
     expires: timestamp("expires", { mode: "date" }).notNull(),
   },
   (token) => [primaryKey({ columns: [token.identifier, token.token] })],
+);
+
+export const comments = pgTable(
+  "comment",
+  {
+    id: text("id")
+      .primaryKey()
+      .$defaultFn(() => crypto.randomUUID()),
+    issueSlug: text("issueSlug").notNull(),
+    userId: text("userId")
+      .notNull()
+      .references(() => users.id, { onDelete: "cascade" }),
+    body: text("body").notNull(),
+    createdAt: timestamp("createdAt", { mode: "date" })
+      .notNull()
+      .$defaultFn(() => new Date()),
+  },
+  (table) => [index("comment_issueSlug_idx").on(table.issueSlug)],
 );

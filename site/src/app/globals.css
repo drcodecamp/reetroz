@@ -232,54 +232,60 @@ body {
   animation-play-state: paused;
 }
 
-/* Reader scrubber */
+/* YouTube-style reader scrubber */
 .reader-range {
   -webkit-appearance: none;
   appearance: none;
-  height: 22px;
+  height: 16px;
   background: transparent;
   cursor: pointer;
 }
 .reader-range::-webkit-slider-runnable-track {
-  height: 4px;
+  height: 3px;
   border-radius: 999px;
   background: linear-gradient(
     90deg,
     var(--color-amber) 0 var(--pct, 0%),
-    color-mix(in oklab, var(--color-paper) 18%, transparent) var(--pct, 0%) 100%
+    rgb(255 255 255 / 0.28) var(--pct, 0%) 100%
   );
 }
 .reader-range::-moz-range-track {
-  height: 4px;
+  height: 3px;
   border-radius: 999px;
-  background: color-mix(in oklab, var(--color-paper) 18%, transparent);
+  background: rgb(255 255 255 / 0.28);
 }
 .reader-range::-moz-range-progress {
-  height: 4px;
+  height: 3px;
   border-radius: 999px;
   background: var(--color-amber);
 }
 .reader-range::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: 14px;
-  height: 14px;
-  margin-top: -5px;
+  width: 12px;
+  height: 12px;
+  margin-top: -4.5px;
   border-radius: 999px;
-  background: var(--color-paper);
-  border: 2px solid var(--color-amber);
-  box-shadow: 0 0 0 4px rgba(245, 181, 63, 0.18);
-  transition: transform 0.15s ease;
+  background: #fff;
+  border: none;
+  opacity: 0;
+  transition: opacity 0.12s ease, transform 0.12s ease;
 }
 .reader-range::-moz-range-thumb {
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
+  border: none;
   border-radius: 999px;
-  background: var(--color-paper);
-  border: 2px solid var(--color-amber);
+  background: #fff;
+  opacity: 0;
 }
-.reader-range:hover::-webkit-slider-thumb {
-  transform: scale(1.25);
+.reader-range:hover::-webkit-slider-thumb,
+.reader-range:focus::-webkit-slider-thumb {
+  opacity: 1;
+}
+.reader-range:hover::-moz-range-thumb,
+.reader-range:focus::-moz-range-thumb {
+  opacity: 1;
 }
 
 @keyframes reader-fade-in {

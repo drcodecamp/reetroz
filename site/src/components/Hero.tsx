@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { siteStats, startReadingIssue } from "@/lib/catalog";
+import { siteStats } from "@/lib/catalog";
 
 function formatStat(n: number) {
   if (n >= 1000) return `${Math.round(n / 1000)}k+`;
@@ -9,7 +9,6 @@ function formatStat(n: number) {
 
 export function Hero() {
   const stats = siteStats();
-  const start = startReadingIssue();
   const heroStats = [
     { value: stats.issues.toLocaleString(), label: "issues" },
     { value: String(stats.titles), label: "magazines" },
@@ -82,25 +81,6 @@ export function Hero() {
             >
               <path d="M5 12h14M13 6l6 6-6 6" />
             </svg>
-          </Link>
-          <Link
-            href={start ? `/issue/${start.slug}` : "/catalog"}
-            className="inline-flex items-center gap-2 rounded-full border border-paper/20 bg-ink/40 px-6 py-3 font-medium text-paper backdrop-blur transition hover:border-paper/50"
-          >
-            <span className="grid size-5 place-items-center rounded-full bg-paper/10">
-              <svg
-                width="10"
-                height="10"
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                aria-hidden
-              >
-                <path d="M7 4v16l13-8z" />
-              </svg>
-            </span>
-            {start
-              ? `Open ${start.publication === "nintendo-power" ? "Nintendo Power" : "issue"} #${start.number}`
-              : "Browse the catalog"}
           </Link>
         </div>
 
