@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { CoverImage } from "@/components/CoverImage";
 import { issues, type Issue } from "@/data/issues";
 
 function Row({
@@ -20,7 +20,7 @@ function Row({
             className="cover-3d group relative w-[150px] shrink-0 overflow-hidden rounded-md bg-ink-3 sm:w-[170px]"
             style={{ aspectRatio: `${it.w} / ${it.h}` }}
           >
-            <Image
+            <CoverImage
               src={it.cover}
               alt={`Computer Gaming World issue ${it.number}, ${it.date}`}
               fill

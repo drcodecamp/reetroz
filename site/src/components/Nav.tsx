@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { AuthStatus } from "@/components/AuthStatus";
 import rawPublications from "@/data/publications.json";
 import type { CatalogPublication } from "@/lib/catalogMeta";
@@ -15,7 +15,13 @@ const allMagazines = (rawPublications as CatalogPublication[])
 const SIDE_WIDE = "15rem";
 const SIDE_MINI = "4.5rem";
 
-const links = [
+const links: {
+  href: string;
+  label: string;
+  short?: string;
+  match: (path: string, hash?: string) => boolean;
+  icon: ReactNode;
+}[] = [
   {
     href: "/catalog",
     label: "Catalog",
@@ -55,6 +61,7 @@ const links = [
   {
     href: "/#picks",
     label: "Staff picks",
+    short: "Picks",
     match: (path: string, hash: string) => path === "/" && hash === "#picks",
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
@@ -164,7 +171,7 @@ export function Nav() {
                 title={l.label}
                 onClick={() => setWide(true)}
                 className={`flex items-center gap-5 rounded-xl px-3 py-2.5 text-[15px] transition ${
-                  wide ? "" : "md:flex-col md:gap-1 md:px-1 md:py-3"
+                  wide ? "" : "md:flex-col md:items-center md:gap-1 md:px-1 md:py-3 md:text-center"
                 } ${
                   active
                     ? "bg-paper/10 font-medium text-paper"
@@ -174,7 +181,12 @@ export function Nav() {
                 <span className="grid size-6 shrink-0 place-items-center [&>svg]:size-6">
                   {l.icon}
                 </span>
-                <span className={wide ? "" : "md:text-[10px] md:leading-none"}>{l.label}</span>
+                <span className={wide ? "" : "md:hidden"}>{l.label}</span>
+                {!wide && (
+                  <span className="hidden whitespace-nowrap text-[10px] leading-none md:block">
+                    {l.short ?? l.label}
+                  </span>
+                )}
               </Link>
             );
           })}

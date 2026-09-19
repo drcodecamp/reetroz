@@ -1,7 +1,7 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
+import { CoverImage } from "@/components/CoverImage";
 import { useEffect, useRef, useState } from "react";
 import { PageGrid } from "@/components/issue/PageGrid";
 import { Reader, type ReaderHandle } from "@/components/reader/Reader";
@@ -113,7 +113,7 @@ export function IssueWatch({
             />
           ) : (
             <div className="relative grid h-full place-items-center overflow-hidden">
-              <Image
+              <CoverImage
                 src={issue.cover}
                 alt=""
                 fill
@@ -123,7 +123,7 @@ export function IssueWatch({
               />
               <div className="relative max-w-md px-6 text-center">
                 <div className="relative mx-auto mb-5 aspect-[3/4] w-32 overflow-hidden rounded-lg">
-                  <Image
+                  <CoverImage
                     src={issue.cover}
                     alt={`Cover of ${pubTitle} issue ${issue.number}`}
                     fill

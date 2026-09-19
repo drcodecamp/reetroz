@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 const assetBase = process.env.NEXT_PUBLIC_ASSET_BASE;
 const remotePatterns: NonNullable<NextConfig["images"]>["remotePatterns"] = [
   { protocol: "https", hostname: "*.r2.dev" },
+  { protocol: "https", hostname: "assets.reetroz.com" },
   { protocol: "https", hostname: "lh3.googleusercontent.com" },
 ];
 if (assetBase) {

@@ -178,7 +178,7 @@ export function publicationCover(pub: CatalogPublication): string | undefined {
  * uploaded with Cache-Control: immutable, so the same URL will keep serving a
  * broken extract forever after a re-encode.
  */
-export const PAGE_ASSET_REV = "2";
+export const PAGE_ASSET_REV = "3";
 
 /**
  * Page images: the scan's own JPEG at native resolution (or WebP for issues

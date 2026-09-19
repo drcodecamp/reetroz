@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { CoverImage } from "@/components/CoverImage";
 import { byNumber } from "@/data/issues";
 
 const issue = byNumber("100");
@@ -37,7 +38,7 @@ export function ReaderShowcase() {
               className="relative w-10 overflow-hidden rounded"
               style={{ aspectRatio: `${issue.w}/${issue.h}` }}
             >
-              <Image
+              <CoverImage
                 src={issue.cover}
                 alt=""
                 fill

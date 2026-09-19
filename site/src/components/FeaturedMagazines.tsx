@@ -1,5 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
+import { CoverImage } from "@/components/CoverImage";
 import { featuredPublications, publicationCover } from "@/lib/catalog";
 import { magazinePath, yearSpan } from "@/lib/seo";
 
@@ -41,7 +41,7 @@ export function FeaturedMagazines() {
               >
                 {cover && (
                   <span className="relative aspect-[3/4] w-16 shrink-0 overflow-hidden rounded-md">
-                    <Image
+                    <CoverImage
                       src={cover}
                       alt=""
                       fill

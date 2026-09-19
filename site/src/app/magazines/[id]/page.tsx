@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
+import { CoverImage } from "@/components/CoverImage";
 import { notFound } from "next/navigation";
 import { Footer } from "@/components/Footer";
 import { IssueCard } from "@/components/IssueCard";
@@ -84,7 +84,7 @@ export default async function MagazinePage({ params }: Props) {
         <section className="relative overflow-hidden">
           {cover && (
             <div className="absolute inset-0 -z-10">
-              <Image
+              <CoverImage
                 src={cover}
                 alt=""
                 fill
@@ -118,7 +118,7 @@ export default async function MagazinePage({ params }: Props) {
             <div className="mt-8 grid gap-10 lg:grid-cols-[280px_1fr] lg:gap-14">
               {cover && (
                 <div className="cover-3d relative mx-auto aspect-[3/4] w-[220px] overflow-hidden rounded-xl lg:mx-0 lg:w-full">
-                  <Image
+                  <CoverImage
                     src={cover}
                     alt={`Cover of ${pub.title}`}
                     fill

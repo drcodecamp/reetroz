@@ -1,5 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
+import { CoverImage } from "@/components/CoverImage";
 import { byNumber } from "@/data/issues";
 
 const eras = [
@@ -72,7 +72,7 @@ export function Eras() {
                 className="cover-3d absolute right-5 top-6 w-[48%] overflow-hidden rounded-md"
                 style={{ aspectRatio: `${e.issue.w}/${e.issue.h}` }}
               >
-                <Image
+                <CoverImage
                   src={e.issue.cover}
                   alt={`Cover of issue ${e.issue.number}`}
                   fill

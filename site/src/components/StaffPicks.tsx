@@ -1,5 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
+import { CoverImage } from "@/components/CoverImage";
 import { byNumber } from "@/data/issues";
 
 const picks = [
@@ -48,7 +48,7 @@ export function StaffPicks() {
                     className="cover-3d relative overflow-hidden rounded-lg"
                     style={{ aspectRatio: `${it.w}/${it.h}` }}
                   >
-                    <Image
+                    <CoverImage
                       src={it.cover}
                       alt={`Cover of Computer Gaming World issue ${it.number}`}
                       fill

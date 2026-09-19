@@ -177,15 +177,34 @@ def extract_page(doc: pymupdf.Document, page: pymupdf.Page) -> tuple[bytes, str,
     return buf.getvalue(), "jpg", img.width, img.height
 
 
-def _mean_abs_err(src: Image.Image, other: Image.Image) -> float:
-    a = src.resize((64, 64), Image.Resampling.BOX).convert("RGB")
-    b = other.resize((64, 64), Image.Resampling.BOX).convert("RGB")
+def _mean_abs_err(src: Image.Image, other: Image.Image, size: tuple[int, int] = (64, 64)) -> float:
+    a = src.resize(size, Image.Resampling.BOX).convert("RGB")
+    b = other.resize(size, Image.Resampling.BOX).convert("RGB")
     total = 0
     n = 0
     for p, q in zip(a.getdata(), b.getdata()):
         total += abs(p[0] - q[0]) + abs(p[1] - q[1]) + abs(p[2] - q[2])
         n += 1
     return total / (n * 3)
+
+
+def _crop_frac(img: Image.Image, box: tuple[float, float, float, float]) -> Image.Image:
+    w, h = img.size
+    x0, y0, x1, y1 = box
+    return img.crop((int(w * x0), int(h * y0), max(int(w * x0) + 1, int(w * x1)), max(int(h * y0) + 1, int(h * y1))))
+
+
+def _webp_mismatch(src: Image.Image, other: Image.Image) -> float:
+    """Full-frame plus edge bands — a 64×64 shrink misses bottom-strip garbage."""
+    scores = [_mean_abs_err(src, other)]
+    if min(src.size) >= 64:
+        scores.append(_mean_abs_err(src, other, (256, 256) if min(src.size) >= 256 else (128, 128)))
+        for band in ((0.0, 0.0, 1.0, 0.28), (0.0, 0.72, 1.0, 1.0)):
+            a, b = _crop_frac(src, band), _crop_frac(other, band)
+            tw = 128 if min(a.size) >= 128 else max(16, min(a.size))
+            th = max(16, int(tw * a.size[1] / max(a.size[0], 1)))
+            scores.append(_mean_abs_err(a, b, (tw, th)))
+    return max(scores)
 
 
 def save_webp_checked(img: Image.Image, dest: Path, quality: int, *, compare: bool = True) -> None:
@@ -204,8 +223,10 @@ def save_webp_checked(img: Image.Image, dest: Path, quality: int, *, compare: bo
                 decoded = check.convert("RGB")
                 if decoded.size != rgb.size:
                     raise ValueError(f"size {decoded.size} != {rgb.size}")
-                if compare and min(rgb.size) >= 16 and _mean_abs_err(rgb, decoded) > 18:
-                    raise ValueError("decoded WebP does not match source")
+                if compare and min(rgb.size) >= 16:
+                    err = _webp_mismatch(rgb, decoded)
+                    if err > 18:
+                        raise ValueError(f"decoded WebP does not match source ({err:.1f})")
             tmp = dest.with_name(dest.name + ".tmp")
             tmp.write_bytes(data)
             if dest.exists():

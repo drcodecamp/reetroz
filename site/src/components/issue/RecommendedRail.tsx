@@ -1,5 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
+import { CoverImage } from "@/components/CoverImage";
 import type { CatalogIssue, CatalogPublication } from "@/lib/catalog";
 import { getPublication, isUndated } from "@/lib/catalog";
 import { issuePath, magazinePath } from "@/lib/seo";
@@ -37,7 +37,7 @@ function RecommendedCard({
     <li>
       <Link href={issuePath(issue.slug)} className="group flex gap-3">
         <div className="relative aspect-[3/4] w-[4.5rem] shrink-0 overflow-hidden rounded-md bg-ink-3">
-          <Image
+          <CoverImage
             src={issue.cover}
             alt=""
             fill

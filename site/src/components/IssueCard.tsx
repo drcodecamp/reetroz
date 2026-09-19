@@ -1,5 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
+import { CoverImage } from "@/components/CoverImage";
 import type { CatalogIssue, CatalogPublication } from "@/lib/catalogMeta";
 
 type Props = {
@@ -16,7 +16,7 @@ export function IssueCard({ issue, publication, progress, sizes = "220px", prior
   return (
     <Link href={`/issue/${issue.slug}`} className="group block">
       <div className="cover-3d relative aspect-[3/4] overflow-hidden rounded-lg bg-ink-3">
-        <Image
+        <CoverImage
           src={issue.cover}
           alt={`Cover of ${pub?.title ?? issue.publication} issue ${issue.number}`}
           fill
