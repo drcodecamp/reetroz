@@ -107,7 +107,7 @@ export function homeTitle() {
 
 export function homeDescription() {
   const s = siteStats();
-  return `A browser reader for out-of-print game magazines. ${s.titles} titles, ${formatCount(s.issues)} issues, ${formatCount(s.pages)} pages. No PDF, no CBR app. Open Nintendo Power #1 or browse the catalog.`;
+  return `Read out-of-print game magazines free in your browser. ${s.titles} titles, ${formatCount(s.issues)} issues, ${formatCount(s.pages)} pages — Nintendo Power, EGM, GamePro and more. No PDF, no app.`;
 }
 
 export function catalogTitle() {
