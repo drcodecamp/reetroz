@@ -13,6 +13,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: "weekly",
     priority: 0.8,
   };
+  const termsPage: MetadataRoute.Sitemap[number] = {
+    url: absoluteUrl("/terms"),
+    changeFrequency: "yearly",
+    priority: 0.3,
+  };
 
   const magazines = indexablePublications().map((pub) => ({
     url: absoluteUrl(magazinePath(pub.id)),
@@ -36,5 +41,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     images: issue.cover ? [absoluteUrl(issue.cover)] : undefined,
   }));
 
-  return [home, catalogPage, ...magazines, ...yearPages, ...issues];
+  return [home, catalogPage, termsPage, ...magazines, ...yearPages, ...issues];
 }

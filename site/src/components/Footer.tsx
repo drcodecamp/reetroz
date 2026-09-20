@@ -36,7 +36,7 @@ export function Footer() {
             </div>
           </div>
 
-          <div className="grid gap-8 sm:grid-cols-2">
+          <div className="grid gap-8 sm:grid-cols-3">
             <div>
               <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-paper-dim">
                 Explore
@@ -57,6 +57,37 @@ export function Footer() {
                   </li>
                 ))}
               </ul>
+            </div>
+            <div>
+              <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-paper-dim">
+                Legal
+              </p>
+              <ul className="mt-4 space-y-2 text-sm">
+                <li>
+                  <Link href="/terms" className="text-paper-dim transition hover:text-paper">
+                    Terms of Use
+                  </Link>
+                </li>
+                <li>
+                  <a
+                    href="mailto:info@doctorcode.org"
+                    className="text-paper-dim transition hover:text-paper"
+                  >
+                    Request removal
+                  </a>
+                </li>
+              </ul>
+              <p className="mt-4 text-sm leading-relaxed text-paper-dim">
+                We do not own these magazines. Rights holders can ask us to take a title down
+                —{" "}
+                <Link
+                  href="/terms#removal"
+                  className="text-paper underline decoration-paper/30 underline-offset-4 hover:decoration-amber"
+                >
+                  how it works
+                </Link>
+                .
+              </p>
             </div>
             <div>
               <p className="font-mono text-[11px] uppercase tracking-[0.22em] text-paper-dim">
@@ -90,7 +121,13 @@ export function Footer() {
           <p>
             {SITE_NAME} · {stats.titles} magazines · {stats.issues.toLocaleString()} issues
           </p>
-          <p>Made with care, late at night, in front of a CRT.</p>
+          <p className="flex flex-wrap items-center gap-x-3 gap-y-1">
+            <Link href="/terms" className="transition hover:text-paper">
+              Terms of Use
+            </Link>
+            <span aria-hidden>·</span>
+            <span>Made with care, late at night, in front of a CRT.</span>
+          </p>
         </div>
       </div>
     </footer>
