@@ -70,7 +70,7 @@ export function Footer() {
                 </li>
                 <li>
                   <a
-                    href="mailto:info@doctorcode.org"
+                    href="mailto:info@reetroz.com"
                     className="text-paper-dim transition hover:text-paper"
                   >
                     Request removal

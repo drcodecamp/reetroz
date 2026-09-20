@@ -5,7 +5,7 @@ import { Footer } from "@/components/Footer";
 import { Nav } from "@/components/Nav";
 import { SITE_NAME } from "@/lib/seo";
 
-const CONTACT_EMAIL = "info@doctorcode.org";
+const CONTACT_EMAIL = "info@reetroz.com";
 const CONTACT_MAILTO = `mailto:${CONTACT_EMAIL}`;
 const EFFECTIVE = "20 September 2026";
 
