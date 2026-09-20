@@ -20,6 +20,9 @@ if (assetBase) {
 
 const nextConfig: NextConfig = {
   images: { remotePatterns },
+  // Starter box is 512 MB. Unbounded ISR/fetch cache will OOM once Google
+  // crawls a few thousand issue pages.
+  cacheMaxMemorySize: 32 * 1024 * 1024,
   async headers() {
     return [
       {

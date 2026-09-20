@@ -38,7 +38,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: absoluteUrl(issuePath(issue.slug)),
     changeFrequency: "monthly" as const,
     priority: issue.readable ? 0.6 : 0.4,
-    images: issue.cover ? [absoluteUrl(issue.cover)] : undefined,
   }));
 
   return [home, catalogPage, termsPage, ...magazines, ...yearPages, ...issues];

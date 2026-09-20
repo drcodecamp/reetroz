@@ -32,6 +32,17 @@ export const catalog: CatalogIssue[] = (rawIssues as CatalogIssue[]).map(
 export const publications: CatalogPublication[] =
   rawPublications as CatalogPublication[];
 
+const issuesByPublication = new Map<string, CatalogIssue[]>();
+const issuesByYear = new Map<number, CatalogIssue[]>();
+for (const issue of catalog) {
+  const pubList = issuesByPublication.get(issue.publication);
+  if (pubList) pubList.push(issue);
+  else issuesByPublication.set(issue.publication, [issue]);
+  const yearList = issuesByYear.get(issue.year);
+  if (yearList) yearList.push(issue);
+  else issuesByYear.set(issue.year, [issue]);
+}
+
 const publicationById = new Map(publications.map((p) => [p.id, p]));
 
 export const YEARS = Array.from(
@@ -86,7 +97,7 @@ export function recommendedIssues(issue: CatalogIssue, limit = 16): CatalogIssue
 }
 
 export function issuesInYear(year: number) {
-  return catalog.filter((i) => i.year === year);
+  return issuesByYear.get(year) ?? [];
 }
 
 const FEATURED_IDS = [
@@ -108,8 +119,7 @@ export function sameYearOtherTitles(issue: CatalogIssue, limit = 14): CatalogIss
   if (isUndated(issue.year)) return [];
 
   const byPub = new Map<string, CatalogIssue>();
-  for (const item of catalog) {
-    if (item.year !== issue.year) continue;
+  for (const item of issuesInYear(issue.year)) {
     if (item.publication === issue.publication) continue;
     const prev = byPub.get(item.publication);
     if (!prev || sameYearPickScore(item) > sameYearPickScore(prev)) {
@@ -133,15 +143,13 @@ function sameYearPickScore(item: CatalogIssue) {
 }
 
 export function issuesForPublication(id: string): CatalogIssue[] {
-  return catalog
-    .filter((i) => i.publication === id)
-    .sort((a, b) => {
-      const aU = isUndated(a.year);
-      const bU = isUndated(b.year);
-      if (aU !== bU) return aU ? 1 : -1;
-      if (a.year !== b.year) return a.year - b.year;
-      return compareIssueNumber(a, b);
-    });
+  return [...(issuesByPublication.get(id) ?? [])].sort((a, b) => {
+    const aU = isUndated(a.year);
+    const bU = isUndated(b.year);
+    if (aU !== bU) return aU ? 1 : -1;
+    if (a.year !== b.year) return a.year - b.year;
+    return compareIssueNumber(a, b);
+  });
 }
 
 /** Titles with at least one ingested issue — safe to index. */

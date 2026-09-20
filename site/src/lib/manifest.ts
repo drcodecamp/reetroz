@@ -16,6 +16,19 @@ export type IssueManifest = {
   pageList: PageMeta[];
 };
 
+const MANIFEST_CACHE_MAX = 40;
+const manifestCache = new Map<string, IssueManifest>();
+
+function remember(slug: string, manifest: IssueManifest) {
+  manifestCache.delete(slug);
+  manifestCache.set(slug, manifest);
+  while (manifestCache.size > MANIFEST_CACHE_MAX) {
+    const oldest = manifestCache.keys().next().value;
+    if (!oldest) break;
+    manifestCache.delete(oldest);
+  }
+}
+
 /**
  * Per-issue page manifest. Read from the asset bucket when one is configured
  * (NEXT_PUBLIC_ASSET_BASE), otherwise from site/public on disk.
@@ -23,12 +36,22 @@ export type IssueManifest = {
 export async function loadManifest(
   slug: string,
 ): Promise<IssueManifest | null> {
+  const cached = manifestCache.get(slug);
+  if (cached) {
+    remember(slug, cached);
+    return cached;
+  }
+
   if (ASSET_BASE) {
     try {
       const res = await fetch(`${ASSET_BASE}/pages/${slug}/manifest.json`, {
-        next: { revalidate: 300 },
+        cache: "no-store",
       });
-      if (res.ok) return (await res.json()) as IssueManifest;
+      if (res.ok) {
+        const manifest = (await res.json()) as IssueManifest;
+        remember(slug, manifest);
+        return manifest;
+      }
     } catch {
       // fall through to local copy
     }
@@ -36,7 +59,9 @@ export async function loadManifest(
   const file = path.join(process.cwd(), "public", "pages", slug, "manifest.json");
   try {
     const text = await fs.readFile(file, "utf-8");
-    return JSON.parse(text) as IssueManifest;
+    const manifest = JSON.parse(text) as IssueManifest;
+    remember(slug, manifest);
+    return manifest;
   } catch {
     return null;
   }
