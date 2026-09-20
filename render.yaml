@@ -40,4 +40,4 @@ services:
       - key: NEXT_PUBLIC_DISCORD_URL
         value: https://discord.gg/g4SCXh5J8F
       - key: NEXT_PUBLIC_GA_MEASUREMENT_ID
-        sync: false
+        value: G-20LNGBJM6C

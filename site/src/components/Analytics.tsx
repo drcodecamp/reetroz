@@ -1,7 +1,9 @@
 import Script from "next/script";
 
+const DEFAULT_GA_ID = "G-20LNGBJM6C";
+
 function gaMeasurementId(): string | null {
-  const id = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim();
+  const id = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim() || DEFAULT_GA_ID;
   if (!id || !/^G-[A-Z0-9]+$/i.test(id)) return null;
   return id;
 }

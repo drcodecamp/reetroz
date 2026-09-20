@@ -223,7 +223,9 @@ export default function TermsPage() {
             <Section id="privacy" title="8. Privacy notes">
               <p>
                 If you only read, we log the usual technical noise any website sees (IP address,
-                browser, pages requested) as part of hosting. We do not sell a list of readers.
+                browser, pages requested) as part of hosting. We use Google Analytics 4 to see
+                which pages are read and how people find the site. Google receives that traffic
+                data. We do not sell a list of readers.
               </p>
               <p>
                 If you sign in with Google, we receive the name, email, and avatar Google sends
