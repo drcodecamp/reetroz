@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { siteStats } from "@/lib/catalog";
+import { communityChannels } from "@/lib/community";
 
 function formatStat(n: number) {
   if (n >= 1000) return `${Math.round(n / 1000)}k+`;
@@ -67,7 +68,7 @@ export function Hero() {
             href="/catalog"
             className="card-shine inline-flex items-center gap-2 rounded-full bg-amber px-6 py-3 font-semibold text-ink transition hover:bg-amber-2"
           >
-            Browse the archive
+            Browse
             <svg
               width="16"
               height="16"
@@ -82,6 +83,28 @@ export function Hero() {
               <path d="M5 12h14M13 6l6 6-6 6" />
             </svg>
           </Link>
+          {communityChannels()
+            .filter((channel) => channel.href)
+            .map((channel) => (
+              <a
+                key={channel.id}
+                href={channel.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 rounded-full border border-paper/20 px-5 py-3 font-medium transition hover:border-paper/50"
+              >
+                {channel.id === "telegram" ? (
+                  <svg viewBox="0 0 24 24" className="size-4 text-[#7ad4ff]" fill="currentColor" aria-hidden>
+                    <path d="M21.2 3.4 2.7 10.7c-1.3.5-1.2 1.3-.2 1.6l4.7 1.5 11-7c.5-.3.9-.1.6.2l-8.9 8.1-.3 4.6c.5 0 .7-.2 1-.6l2.4-2.3 5 3.7c.9.5 1.6.2 1.8-.9l3.3-15.5c.3-1.4-.5-2-1.6-1.7z" />
+                  </svg>
+                ) : (
+                  <svg viewBox="0 0 24 24" className="size-4 text-[#9aa3ff]" fill="currentColor" aria-hidden>
+                    <path d="M19.3 4.7A17.4 17.4 0 0 0 14.9 3l-.4.8a15.6 15.6 0 0 1 4 1.6 16 16 0 0 0-12.9 0A15.6 15.6 0 0 1 9.5 3.8L9.1 3A17.4 17.4 0 0 0 4.7 4.7C1.8 9 .9 13.2 1.2 17.3A17.6 17.6 0 0 0 6.6 20l1.1-1.8a11.3 11.3 0 0 1-1.8-.9l.4-.3a12.7 12.7 0 0 0 11.4 0l.4.3a11.3 11.3 0 0 1-1.8.9L17.4 20a17.6 17.6 0 0 0 5.4-2.7c.4-4.8-.7-8.9-3.5-12.6ZM8.8 14.7c-1 0-1.8-1-1.8-2.1s.8-2.1 1.8-2.1 1.9.9 1.8 2.1-.8 2.1-1.8 2.1Zm6.4 0c-1 0-1.8-1-1.8-2.1s.8-2.1 1.8-2.1 1.9.9 1.8 2.1-.8 2.1-1.8 2.1Z" />
+                  </svg>
+                )}
+                {channel.name}
+              </a>
+            ))}
         </div>
 
         <dl
