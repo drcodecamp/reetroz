@@ -196,8 +196,9 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
   useEffect(() => {
     saveProgress(issue.slug, page, total);
     const url = new URL(window.location.href);
-    url.searchParams.set("p", String(page));
     url.searchParams.delete("play");
+    if (page <= 1) url.searchParams.delete("p");
+    else url.searchParams.set("p", String(page));
     window.history.replaceState(null, "", url);
   }, [issue.slug, page, total]);
 

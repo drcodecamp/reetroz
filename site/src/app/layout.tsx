@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Inter, JetBrains_Mono } from "next/font/google";
+import { Analytics } from "@/components/Analytics";
 import { AuthSessionProvider } from "@/components/AuthSessionProvider";
 import { homeDescription, homeTitle, SITE_NAME, siteOrigin } from "@/lib/seo";
 import "./globals.css";
@@ -53,6 +54,7 @@ export default function RootLayout({
     >
       <body className="grain min-h-screen antialiased">
         <AuthSessionProvider>{children}</AuthSessionProvider>
+        <Analytics />
       </body>
     </html>
   );
