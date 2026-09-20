@@ -12,7 +12,7 @@ const allMagazines = (rawPublications as CatalogPublication[])
   .filter((p) => p.issues > 0)
   .sort((a, b) => (a.title < b.title ? -1 : a.title > b.title ? 1 : 0));
 
-const SIDE_WIDE = "15rem";
+const SIDE_WIDE = "17.5rem";
 const SIDE_MINI = "4.5rem";
 
 const links: {
@@ -83,7 +83,7 @@ export function NavFallback() {
         <div className="h-14" />
       </header>
       <aside
-        className="fixed top-14 left-0 z-40 hidden h-[calc(100dvh-3.5rem)] border-r border-paper/8 bg-ink md:flex md:w-60"
+        className="fixed top-14 left-0 z-40 hidden h-[calc(100dvh-3.5rem)] border-r border-paper/8 bg-ink md:flex md:w-[17.5rem]"
         aria-hidden
       />
     </>
@@ -177,8 +177,8 @@ export function NavChrome() {
 
       <aside
         className={`fixed top-14 left-0 z-40 h-[calc(100dvh-3.5rem)] flex-col overflow-hidden border-r border-paper/8 bg-ink transition-[width] duration-200 ${
-          drawer ? "flex w-60" : "hidden"
-        } md:flex ${wide ? "md:w-60" : "md:w-[4.5rem]"}`}
+          drawer ? "flex w-[17.5rem]" : "hidden"
+        } md:flex ${wide ? "md:w-[17.5rem]" : "md:w-[4.5rem]"}`}
       >
         <nav className="flex shrink-0 flex-col gap-0.5 p-2 pt-3" aria-label="Site">
           {links.map((l) => {
