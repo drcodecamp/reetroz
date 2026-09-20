@@ -39,7 +39,7 @@ function RecommendedCard({
         <div className="relative aspect-[3/4] w-[4.5rem] shrink-0 overflow-hidden rounded-md bg-ink-3">
           <CoverImage
             src={issue.cover}
-            alt=""
+            alt={`Cover of ${title} issue ${issue.number}`}
             fill
             sizes="72px"
             className="object-cover transition group-hover:scale-105"
@@ -51,7 +51,7 @@ function RecommendedCard({
           </p>
           <p className="mt-0.5 text-xs text-paper-dim">
             {yearLabel}
-            {issue.readable ? ` · ${issue.pages} pages` : ""}
+            {issue.readable ? ` · ${issue.pages}p` : ""}
           </p>
         </div>
       </Link>

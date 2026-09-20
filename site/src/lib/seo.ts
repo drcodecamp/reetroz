@@ -102,7 +102,8 @@ function formatCount(n: number) {
 }
 
 export function homeTitle() {
-  return `Read Nintendo Power, EGM, GamePro and 100 vintage game magazines online | ${SITE_NAME}`;
+  const s = siteStats();
+  return `Read Nintendo Power, EGM, GamePro and ${s.titles} vintage magazines online | ${SITE_NAME}`;
 }
 
 export function homeDescription() {
@@ -187,9 +188,17 @@ export function issueTitle(pubTitle: string, issue: CatalogIssue) {
 export function issueDescription(pubTitle: string, issue: CatalogIssue) {
   const hook = issue.special ? ` ${issue.special}.` : "";
   const action = issue.readable
-    ? "Read it online in the browser — no CBR or PDF download."
-    : "Issue details and cover are here; the online reader is coming.";
-  return `${pubTitle} issue ${issue.number}, ${issue.date}.${hook} ${issue.pages} pages. ${action}`;
+    ? "Read this out-of-print magazine free in your browser — no PDF."
+    : "Cover and details are here; the online reader is coming.";
+  return `${pubTitle} issue ${issue.number} (${issue.date}), ${issue.pages} pages.${hook} ${action}`;
+}
+
+export function issuePageAlt(pubTitle: string, issue: CatalogIssue, page: number) {
+  return `${pubTitle} issue ${issue.number}, ${issue.date}, page ${page}`;
+}
+
+export function issueThumbAlt(pubTitle: string, issue: CatalogIssue, page: number) {
+  return `${pubTitle} #${issue.number} p${page}`;
 }
 
 export function issueH1(pubTitle: string, issue: CatalogIssue) {
@@ -305,7 +314,8 @@ export function issueJsonLd(pub: CatalogPublication, issue: CatalogIssue) {
     issueNumber: issue.number,
     datePublished: issue.year !== 9999 ? String(issue.year) : undefined,
     url: absoluteUrl(issuePath(issue.slug)),
-    image: issue.cover,
+    description: issueDescription(pub.title, issue),
+    image: issue.cover ? absoluteUrl(issue.cover) : undefined,
     pageStart: 1,
     pageEnd: issue.pages,
     isPartOf: {

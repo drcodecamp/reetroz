@@ -5,10 +5,10 @@ import { CoverImage } from "@/components/CoverImage";
 import { useEffect, useRef, useState } from "react";
 import { PageGrid } from "@/components/issue/PageGrid";
 import { Reader, type ReaderHandle } from "@/components/reader/Reader";
-import type { CatalogIssue, CatalogPublication, Era } from "@/lib/catalog";
+import { isUndated, type CatalogIssue, type CatalogPublication, type Era } from "@/lib/catalog";
 import type { IssueManifest } from "@/lib/manifest";
 import { useProgress } from "@/lib/progress";
-import { issueH1, magazinePath } from "@/lib/seo";
+import { issueH1, magazinePath, yearPath } from "@/lib/seo";
 
 type Props = {
   issue: CatalogIssue;
@@ -176,7 +176,16 @@ export function IssueWatch({
             {pubTitle}
           </Link>
           <span aria-hidden>·</span>
-          <span>{issue.date}</span>
+          {isUndated(issue.year) ? (
+            <span>{issue.date}</span>
+          ) : (
+            <Link
+              href={yearPath(issue.year)}
+              className="transition hover:text-amber"
+            >
+              {issue.date}
+            </Link>
+          )}
           <span aria-hidden>·</span>
           <span>{issue.pages} pages</span>
           {issue.special ? (
@@ -233,6 +242,8 @@ export function IssueWatch({
                 <PageGrid
                   slug={issue.slug}
                   pages={manifest.pageList}
+                  pubTitle={pubTitle}
+                  issue={issue}
                   onSelectPage={(n) => readerRef.current?.goTo(n)}
                 />
               </div>

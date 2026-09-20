@@ -2,18 +2,23 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { pageUrl } from "@/lib/catalog";
+import { pageUrl, type CatalogIssue } from "@/lib/catalog";
 import type { PageMeta } from "@/lib/manifest";
+import { issueThumbAlt } from "@/lib/seo";
 
 const INITIAL = 36;
 
 export function PageGrid({
   slug,
   pages,
+  pubTitle,
+  issue,
   onSelectPage,
 }: {
   slug: string;
   pages: PageMeta[];
+  pubTitle: string;
+  issue: CatalogIssue;
   onSelectPage?: (page: number) => void;
 }) {
   const [expanded, setExpanded] = useState(false);
@@ -31,7 +36,7 @@ export function PageGrid({
                 className="group block w-full overflow-hidden rounded-md border border-paper/8 bg-ink-3 transition hover:border-amber/50"
                 style={{ aspectRatio: `${p.w} / ${p.h}`, backgroundColor: p.color }}
               >
-                <Thumb slug={slug} page={p} />
+                <Thumb slug={slug} page={p} pubTitle={pubTitle} issue={issue} />
               </button>
             ) : (
               <Link
@@ -39,7 +44,7 @@ export function PageGrid({
                 className="group block overflow-hidden rounded-md border border-paper/8 bg-ink-3 transition hover:border-amber/50"
                 style={{ aspectRatio: `${p.w} / ${p.h}`, backgroundColor: p.color }}
               >
-                <Thumb slug={slug} page={p} />
+                <Thumb slug={slug} page={p} pubTitle={pubTitle} issue={issue} />
               </Link>
             )}
             <p className="mt-1 text-center font-mono text-[10px] text-paper-dim/70">
@@ -61,12 +66,22 @@ export function PageGrid({
   );
 }
 
-function Thumb({ slug, page }: { slug: string; page: PageMeta }) {
+function Thumb({
+  slug,
+  page,
+  pubTitle,
+  issue,
+}: {
+  slug: string;
+  page: PageMeta;
+  pubTitle: string;
+  issue: CatalogIssue;
+}) {
   return (
     // eslint-disable-next-line @next/next/no-img-element
     <img
       src={pageUrl(slug, page.n, "thumb")}
-      alt={`Page ${page.n}`}
+      alt={issueThumbAlt(pubTitle, issue, page.n)}
       loading="lazy"
       decoding="async"
       width={page.w}

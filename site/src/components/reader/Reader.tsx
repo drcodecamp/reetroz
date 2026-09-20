@@ -10,9 +10,10 @@ import {
   useRef,
   useState,
 } from "react";
-import { pageUrl, type CatalogIssue } from "@/lib/catalog";
+import { getPublication, pageUrl, type CatalogIssue } from "@/lib/catalog";
 import type { IssueManifest } from "@/lib/manifest";
 import { saveProgress, useMediaQuery, useSpeed } from "@/lib/progress";
+import { issuePageAlt, issueThumbAlt } from "@/lib/seo";
 
 const SPEEDS = [2, 3, 5, 8, 12, 20];
 const IDLE_MS = 2600;
@@ -42,6 +43,7 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
   ref,
 ) {
   const total = manifest.pages;
+  const pubTitle = getPublication(issue.publication)?.title ?? issue.publication;
   const clamp = useCallback(
     (p: number) => Math.min(total, Math.max(1, Math.round(p))),
     [total],
@@ -356,7 +358,7 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
               <img
                 key={p}
                 src={pageUrl(issue.slug, p, "read", manifest.format.read)}
-                alt={`Page ${p}`}
+                alt={issuePageAlt(pubTitle, issue, p)}
                 className="max-w-none"
                 style={{ width: manifest.pageList[p - 1]?.w }}
                 onClick={() => setZoomed(false)}
@@ -379,6 +381,7 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
                 <Spread
                   pages={outgoing}
                   issue={issue}
+                  pubTitle={pubTitle}
                   manifest={manifest}
                   total={total}
                 />
@@ -400,6 +403,7 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
                 <Spread
                   pages={pagesShown}
                   issue={issue}
+                  pubTitle={pubTitle}
                   manifest={manifest}
                   total={total}
                   onReady={outgoing ? beginCrossfade : undefined}
@@ -483,10 +487,15 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
                   : "border-paper/10 opacity-70 hover:opacity-100"
               }`}
               style={{ aspectRatio: `${p.w}/${p.h}`, backgroundColor: p.color }}
-              aria-label={`Go to page ${p.n}`}
+              aria-label={`Open ${p.n}`}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={pageUrl(issue.slug, p.n, "thumb")} alt="" loading="lazy" className="h-full w-full object-cover" />
+              <img
+                src={pageUrl(issue.slug, p.n, "thumb")}
+                alt={issueThumbAlt(pubTitle, issue, p.n)}
+                loading="lazy"
+                className="h-full w-full object-cover"
+              />
             </button>
           ))}
         </div>
@@ -501,7 +510,7 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
             onPointerDown={() => setScrubbing(true)}
             onPointerUp={() => setScrubbing(false)}
             onChange={(e) => goTo(Number(e.target.value))}
-            aria-label="Page"
+            aria-label="Place in issue"
             className="reader-range w-full"
             style={{ ["--pct" as string]: `${pct}%` }}
           />
@@ -651,12 +660,13 @@ export const Reader = forwardRef<ReaderHandle, Props>(function Reader(
 function Spread({
   pages,
   issue,
+  pubTitle,
   manifest,
-  total,
   onReady,
 }: {
   pages: number[];
   issue: CatalogIssue;
+  pubTitle: string;
   manifest: IssueManifest;
   total: number;
   onReady?: () => void;
@@ -681,7 +691,7 @@ function Spread({
           <img
             key={p}
             src={pageUrl(issue.slug, p, "read", manifest.format.read)}
-            alt={onReady ? "" : `Page ${p} of ${total}`}
+            alt={issuePageAlt(pubTitle, issue, p)}
             width={m.w}
             height={m.h}
             decoding="async"
