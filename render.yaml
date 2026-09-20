@@ -33,3 +33,7 @@ services:
         sync: false
       - key: NEXT_PUBLIC_SITE_URL
         sync: false
+      - key: NEXT_PUBLIC_TELEGRAM_URL
+        value: https://t.me/reetroz_official
+      - key: NEXT_PUBLIC_DISCORD_URL
+        value: https://discord.gg/g4SCXh5J8F
