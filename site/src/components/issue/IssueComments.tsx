@@ -10,34 +10,51 @@ type Flags = {
   commentsEnabled: boolean;
 };
 
+type CommentsPage = {
+  comments?: IssueCommentDto[];
+  total?: number;
+  nextCursor?: string | null;
+  authEnabled?: boolean;
+  commentsEnabled?: boolean;
+};
+
+const PAGE_SIZE = 20;
+
 export function IssueComments({ slug }: { slug: string }) {
   const { data: session, status } = useSession();
   const [comments, setComments] = useState<IssueCommentDto[]>([]);
+  const [total, setTotal] = useState(0);
+  const [nextCursor, setNextCursor] = useState<string | null>(null);
   const [flags, setFlags] = useState<Flags>({ authEnabled: false, commentsEnabled: false });
   const [body, setBody] = useState("");
   const [loading, setLoading] = useState(true);
+  const [loadingMore, setLoadingMore] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     let cancelled = false;
     setLoading(true);
-    fetch(`/api/comments?slug=${encodeURIComponent(slug)}`)
+    setComments([]);
+    setNextCursor(null);
+    fetch(`/api/comments?slug=${encodeURIComponent(slug)}&limit=${PAGE_SIZE}`)
       .then(async (res) => {
-        const data = (await res.json()) as {
-          comments?: IssueCommentDto[];
-          authEnabled?: boolean;
-          commentsEnabled?: boolean;
-        };
+        const data = (await res.json()) as CommentsPage;
         if (cancelled) return;
         setComments(data.comments ?? []);
+        setTotal(data.total ?? data.comments?.length ?? 0);
+        setNextCursor(data.nextCursor ?? null);
         setFlags({
           authEnabled: Boolean(data.authEnabled),
           commentsEnabled: Boolean(data.commentsEnabled),
         });
       })
       .catch(() => {
-        if (!cancelled) setComments([]);
+        if (!cancelled) {
+          setComments([]);
+          setTotal(0);
+          setNextCursor(null);
+        }
       })
       .finally(() => {
         if (!cancelled) setLoading(false);
@@ -46,6 +63,27 @@ export function IssueComments({ slug }: { slug: string }) {
       cancelled = true;
     };
   }, [slug]);
+
+  async function loadMore() {
+    if (!nextCursor || loadingMore) return;
+    setLoadingMore(true);
+    try {
+      const res = await fetch(
+        `/api/comments?slug=${encodeURIComponent(slug)}&limit=${PAGE_SIZE}&cursor=${encodeURIComponent(nextCursor)}`,
+      );
+      const data = (await res.json()) as CommentsPage;
+      setComments((prev) => {
+        const seen = new Set(prev.map((c) => c.id));
+        return [...prev, ...(data.comments ?? []).filter((c) => !seen.has(c.id))];
+      });
+      if (typeof data.total === "number") setTotal(data.total);
+      setNextCursor(data.nextCursor ?? null);
+    } catch {
+      // Keep the comments we already have.
+    } finally {
+      setLoadingMore(false);
+    }
+  }
 
   async function submit(e: React.FormEvent) {
     e.preventDefault();
@@ -65,6 +103,7 @@ export function IssueComments({ slug }: { slug: string }) {
         return;
       }
       setComments((prev) => [data.comment!, ...prev]);
+      setTotal((n) => n + 1);
       setBody("");
     } catch {
       setError("Could not post the comment");
@@ -79,7 +118,7 @@ export function IssueComments({ slug }: { slug: string }) {
   return (
     <section className="border-t border-paper/8 pt-8">
       <h2 className="text-xl font-semibold">
-        {loading ? "Comments" : `${comments.length.toLocaleString()} Comments`}
+        {loading ? "Comments" : `${total.toLocaleString()} Comments`}
       </h2>
 
       <div className="mt-5">
@@ -171,7 +210,20 @@ export function IssueComments({ slug }: { slug: string }) {
         ))}
       </ul>
 
-      {!loading && comments.length === 0 && canPost && (
+      {nextCursor && (
+        <div className="mt-8">
+          <button
+            type="button"
+            onClick={() => void loadMore()}
+            disabled={loadingMore}
+            className="rounded-full border border-paper/15 px-4 py-2 text-base transition hover:border-paper/40 disabled:opacity-50"
+          >
+            {loadingMore ? "Loading..." : "Load more"}
+          </button>
+        </div>
+      )}
+
+      {!loading && total === 0 && canPost && (
         <p className="mt-6 text-base text-paper-dim">Be the first to comment.</p>
       )}
     </section>

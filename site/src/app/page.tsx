@@ -7,6 +7,7 @@ import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
 import { Nav } from "@/components/Nav";
 import { ReaderShowcase } from "@/components/ReaderShowcase";
+import { JoinCommunity } from "@/components/JoinCommunity";
 import { StaffPicks } from "@/components/StaffPicks";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { homeMetadata, SITE_NAME, siteOrigin } from "@/lib/seo";
@@ -34,6 +35,7 @@ export default function Home() {
         <ReaderShowcase />
         <Eras />
         <StaffPicks />
+        <JoinCommunity />
       </main>
       <Footer />
     </>

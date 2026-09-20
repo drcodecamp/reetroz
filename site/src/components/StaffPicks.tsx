@@ -35,44 +35,40 @@ export function StaffPicks() {
             View the catalog
           </Link>
         </div>
-      </div>
 
-      <div className="mask-fade-x mt-12 overflow-x-auto pb-6 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-        <ul className="mx-auto flex w-max gap-5 px-[max(1rem,calc((100vw-80rem)/2+1.5rem))]">
+        <ul className="mt-12 grid grid-cols-2 gap-3 sm:grid-cols-4 xl:grid-cols-8">
           {picks.map((p) => {
             const it = byNumber(p.n);
             return (
-              <li key={p.n} className="w-[210px] shrink-0 sm:w-[240px]">
+              <li key={p.n} className="min-w-0">
                 <Link href={`/issue/cgw-${it.number.replace(".", "-")}`} className="group block">
                   <div
-                    className="cover-3d relative overflow-hidden rounded-lg"
+                    className="cover-3d relative overflow-hidden rounded-md"
                     style={{ aspectRatio: `${it.w}/${it.h}` }}
                   >
                     <CoverImage
                       src={it.cover}
                       alt={`Cover of Computer Gaming World issue ${it.number}`}
                       fill
-                      sizes="240px"
+                      sizes="(min-width: 1024px) 140px, (min-width: 640px) 22vw, 44vw"
                       className="object-cover"
                     />
-                    <div className="absolute inset-0 flex items-end bg-gradient-to-t from-ink/90 via-ink/10 to-transparent p-4 opacity-0 transition group-hover:opacity-100">
-                      <span className="inline-flex items-center gap-2 rounded-full bg-amber px-3 py-1.5 text-xs font-semibold text-ink">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                    <div className="absolute inset-0 flex items-end bg-gradient-to-t from-ink/90 via-ink/10 to-transparent p-2 opacity-0 transition group-hover:opacity-100">
+                      <span className="inline-flex items-center gap-1.5 rounded-full bg-amber px-2 py-1 text-[10px] font-semibold text-ink">
+                        <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
                           <path d="M7 4v16l13-8z" />
                         </svg>
-                        Read now
+                        Read
                       </span>
                     </div>
                   </div>
-                  <div className="mt-3 flex items-baseline justify-between gap-3">
-                    <p className="font-display text-lg font-semibold tracking-tight">
-                      #{it.number}
-                    </p>
-                    <p className="font-mono text-[11px] uppercase tracking-[0.18em] text-paper-dim">
-                      {it.date} · {it.pages}p
-                    </p>
-                  </div>
-                  <p className="mt-1 text-sm text-paper-dim">{p.why}</p>
+                  <p className="mt-2 font-display text-sm font-semibold tracking-tight">
+                    #{it.number}
+                  </p>
+                  <p className="mt-0.5 font-mono text-[10px] uppercase tracking-[0.14em] text-paper-dim">
+                    {it.date} · {it.pages}p
+                  </p>
+                  <p className="mt-1 line-clamp-2 text-xs leading-snug text-paper-dim">{p.why}</p>
                 </Link>
               </li>
             );

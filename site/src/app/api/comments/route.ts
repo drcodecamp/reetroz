@@ -4,6 +4,8 @@ import { getIssue } from "@/lib/catalog";
 import { getPrisma, isDatabaseConfigured } from "@/lib/db";
 
 const MAX_BODY = 2000;
+const PAGE_SIZE = 20;
+const MAX_PAGE = 50;
 
 export type IssueCommentDto = {
   id: string;
@@ -26,22 +28,42 @@ export async function GET(request: Request) {
   }
 
   if (!isDatabaseConfigured()) {
-    return NextResponse.json({ comments: [] as IssueCommentDto[], ...flags() });
+    return NextResponse.json({
+      comments: [] as IssueCommentDto[],
+      total: 0,
+      nextCursor: null,
+      ...flags(),
+    });
   }
 
-  try {
-    const rows = await getPrisma().comment.findMany({
-      where: { issueSlug: slug },
-      orderBy: { createdAt: "desc" },
-      select: {
-        id: true,
-        body: true,
-        createdAt: true,
-        user: { select: { name: true, image: true } },
-      },
-    });
+  const params = new URL(request.url).searchParams;
+  const limit = Math.min(
+    MAX_PAGE,
+    Math.max(1, Number(params.get("limit")) || PAGE_SIZE),
+  );
+  const cursor = params.get("cursor")?.trim() || undefined;
 
-    const list: IssueCommentDto[] = rows.map((row: (typeof rows)[number]) => ({
+  try {
+    const prisma = getPrisma();
+    const [total, rows] = await Promise.all([
+      prisma.comment.count({ where: { issueSlug: slug } }),
+      prisma.comment.findMany({
+        where: { issueSlug: slug },
+        orderBy: [{ createdAt: "desc" }, { id: "desc" }],
+        take: limit + 1,
+        ...(cursor ? { cursor: { id: cursor }, skip: 1 } : {}),
+        select: {
+          id: true,
+          body: true,
+          createdAt: true,
+          user: { select: { name: true, image: true } },
+        },
+      }),
+    ]);
+
+    const hasMore = rows.length > limit;
+    const page = hasMore ? rows.slice(0, limit) : rows;
+    const list: IssueCommentDto[] = page.map((row: (typeof page)[number]) => ({
       id: row.id,
       body: row.body,
       createdAt: row.createdAt.toISOString(),
@@ -51,9 +73,19 @@ export async function GET(request: Request) {
       },
     }));
 
-    return NextResponse.json({ comments: list, ...flags() });
+    return NextResponse.json({
+      comments: list,
+      total,
+      nextCursor: hasMore ? page[page.length - 1]?.id ?? null : null,
+      ...flags(),
+    });
   } catch {
-    return NextResponse.json({ comments: [] as IssueCommentDto[], ...flags() });
+    return NextResponse.json({
+      comments: [] as IssueCommentDto[],
+      total: 0,
+      nextCursor: null,
+      ...flags(),
+    });
   }
 }
 

@@ -5,6 +5,7 @@ import { IssueComments } from "@/components/issue/IssueComments";
 import { IssueWatch } from "@/components/issue/IssueWatch";
 import { RecommendedRail, RecommendedRailFooter } from "@/components/issue/RecommendedRail";
 import { SameYearCatalogs } from "@/components/issue/SameYearCatalogs";
+import { JoinCommunity } from "@/components/JoinCommunity";
 import { Nav } from "@/components/Nav";
 import { JsonLd } from "@/components/seo/JsonLd";
 import {
@@ -78,6 +79,9 @@ export default async function IssuePage({ params }: Props) {
             />
             <div className="mt-8">
               <SameYearCatalogs year={issue.year} issues={sameYear} />
+            </div>
+            <div className="mt-8">
+              <JoinCommunity variant="strip" />
             </div>
             <div className="mt-8">
               <IssueComments slug={issue.slug} />
